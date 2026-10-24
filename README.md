@@ -54,4 +54,13 @@ These items ship with their own icon image; the rest use a category picture.
 
 - Built from the game data of Enshrouded 1.0. 769 unnamed, placeholder or unfinished internal entries are left out.
 - Weapon, armor and most other item icons are rendered by the game from 3D models at runtime, so they have no image file; those items show their category picture.
-- Enshrouded and all game content, including item names, texts and icons, are © Keen Games. This catalogue is not affiliated with or endorsed by Keen Games.
+
+## About this repository
+
+This repository is purely an index. It contains no game files, code, mods or tools: only a browsable list of Enshrouded's items with their in-game names, texts and stats, for reference.
+
+## Credits
+
+All item icons, item names, descriptions and lore come from Enshrouded and are the work of **Keen Games**. All credit for them goes to Keen Games. Enshrouded and all game content are © Keen Games; this index is not affiliated with or endorsed by Keen Games.
+
+The category pictures used for items without their own icon are generic placeholders made for this index.
