@@ -1,0 +1,24 @@
+# Scaffold C Plattform
+
+<img src="../../images/categories/buildtools.svg" alt="Scaffold C Plattform" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 20 |
+| Item ID | `492907259` |
+| Internal name | `Prop_Decoration_T0_Scaffold_02` |
+
+## Description
+
+A Scaffold that helps you to reach higher points while building your Base.
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

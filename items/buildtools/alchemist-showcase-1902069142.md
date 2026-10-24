@@ -1,0 +1,24 @@
+# Alchemist Showcase
+
+<img src="../../images/categories/buildtools.svg" alt="Alchemist Showcase" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 20 |
+| Item ID | `1902069142` |
+| Internal name | `Prop_Collection_04_Alchemist_Showcase_Wallhang` |
+
+## Description
+
+reassemble lost notes to unlock recipes
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -1,0 +1,24 @@
+# Small Bamboo Baordwalk
+
+<img src="../../images/categories/buildtools.svg" alt="Small Bamboo Baordwalk" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 20 |
+| Item ID | `2055264620` |
+| Internal name | `Prop_Decoration_T6_Lizard_Boardwalk_2m_01_A` |
+
+## Description
+
+A decorative object to design and beautify yout home.
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

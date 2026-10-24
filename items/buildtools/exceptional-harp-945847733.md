@@ -1,0 +1,24 @@
+# Exceptional Harp
+
+<img src="../../images/categories/buildtools.svg" alt="Exceptional Harp" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | 🟣 Epic |
+| Level | - |
+| Max stack | 1 |
+| Item ID | `945847733` |
+| Internal name | `Instrument_Harp_Epic` |
+
+## Description
+
+Epic Harp desc
+
+## Lore
+
+> Instruments
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

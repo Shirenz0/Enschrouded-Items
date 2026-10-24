@@ -1,0 +1,20 @@
+# Gem of Hyperspecialization
+
+<img src="../../images/categories/weapongem.svg" alt="Gem of Hyperspecialization" width="160">
+
+| | |
+|---|---|
+| Category | [Weapon Gems](../../categories/weapongem.md) |
+| Rarity | 🟠 Legendary |
+| Level | 1-105 |
+| Max stack | 1 |
+| Item ID | `2418233534` |
+| Internal name | `T7_Gem_GemOfHyperSpecialization` |
+
+## Description
+
+After triggering the weapons Special Ability, any kill within %k will return %k Special Ability Energy.
+
+---
+
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

@@ -1,0 +1,24 @@
+# Flightless Redtail Pillow
+
+<img src="../../images/categories/buildtools.svg" alt="Flightless Redtail Pillow" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 50 |
+| Item ID | `2236552740` |
+| Internal name | `Prop_Decoration_TX_Pillow_Animal_03_TwitchDrop` |
+
+## Description
+
+A comfortable pillow with a bird motiv. The bird may not fly, but it looks stylish!
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

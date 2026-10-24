@@ -1,0 +1,20 @@
+# Maid Farmer Hat
+
+<img src="../../images/categories/equipment.svg" alt="Maid Farmer Hat" width="160">
+
+| | |
+|---|---|
+| Category | [Armor & Equipment](../../categories/equipment.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 1 |
+| Item ID | `3232881227` |
+| Internal name | `Vanity_TX_Maid_Farmer_Helmet` |
+
+## Description
+
+Maid farmer hat desc
+
+---
+
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

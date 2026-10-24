@@ -1,0 +1,16 @@
+# Lore Text Guidance BrokenVillage
+
+<img src="../../images/categories/materials.svg" alt="Lore Text Guidance BrokenVillage" width="160">
+
+| | |
+|---|---|
+| Category | [Materials](../../categories/materials.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 1 |
+| Item ID | `1997294632` |
+| Internal name | `LoreText_Guidance_BrokenVillage` |
+
+---
+
+[← Materials](../../categories/materials.md) · [All categories](../../README.md)

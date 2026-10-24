@@ -1,0 +1,21 @@
+# Shield of Light
+
+<img src="../../images/categories/equipment.svg" alt="Shield of Light" width="160">
+
+| | |
+|---|---|
+| Category | [Armor & Equipment](../../categories/equipment.md) |
+| Rarity | 🔵 Rare |
+| Level | 20 |
+| Max stack | 1 |
+| Item ID | `2584194594` |
+| Internal name | `Shield_T4_Tank` |
+
+## Description
+
+This sacred shield consecrated by the Flame allows you to **block** physical attacks. Blocking drains Stamina.
+Flame Power allows you to stay in the Fog longer.
+
+---
+
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

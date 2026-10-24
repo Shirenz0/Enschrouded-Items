@@ -1,0 +1,28 @@
+# Charcoal Kiln
+
+<img src="../../images/categories/buildtools.svg" alt="Charcoal Kiln" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | 🔵 Rare |
+| Level | - |
+| Max stack | 1 |
+| Item ID | `367322414` |
+| Internal name | `Prop_Production_T1_Charcoal_Kiln` |
+
+## Description
+
+A heap of wood covered with soil, able to produce Charcoal over time.
+
+## Lore
+
+> Furniture
+
+## Where to find
+
+Blacksmith
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

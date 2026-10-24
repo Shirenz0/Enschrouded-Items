@@ -1,0 +1,20 @@
+# Ancient/Archaic Lockpick
+
+<img src="../../images/categories/tools.svg" alt="Ancient/Archaic Lockpick" width="160">
+
+| | |
+|---|---|
+| Category | [Tools](../../categories/tools.md) |
+| Rarity | 🔵 Rare |
+| Level | - |
+| Max stack | 50 |
+| Item ID | `1528331711` |
+| Internal name | `Lockpick_Ancient_T7` |
+
+## Description
+
+Lockpicks used by the ancients exclusively in their structures, dungeons etc.
+
+---
+
+[← Tools](../../categories/tools.md) · [All categories](../../README.md)

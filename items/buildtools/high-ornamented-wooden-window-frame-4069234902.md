@@ -1,0 +1,24 @@
+# High Ornamented Wooden Window Frame
+
+<img src="../../images/categories/buildtools.svg" alt="High Ornamented Wooden Window Frame" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 50 |
+| Item ID | `4069234902` |
+| Internal name | `Prop_Decoration_T2_Window_Ornamented_Wooden_Frame_High` |
+
+## Description
+
+A decorative object to design and beautify yout home.
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

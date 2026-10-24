@@ -1,0 +1,24 @@
+# Exceptional Flute
+
+<img src="../../images/categories/buildtools.svg" alt="Exceptional Flute" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | 🟣 Epic |
+| Level | - |
+| Max stack | 1 |
+| Item ID | `4077419426` |
+| Internal name | `Instrument_Flute_Epic` |
+
+## Description
+
+Epic Flute Desc
+
+## Lore
+
+> Instruments
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

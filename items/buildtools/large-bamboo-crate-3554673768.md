@@ -1,0 +1,24 @@
+# Large Bamboo Crate
+
+<img src="../../images/categories/buildtools.svg" alt="Large Bamboo Crate" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 20 |
+| Item ID | `3554673768` |
+| Internal name | `Prop_Decoration_T6_Crate_Bamboo_Large_01` |
+
+## Description
+
+A decorative object to design and beautify yout home.
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

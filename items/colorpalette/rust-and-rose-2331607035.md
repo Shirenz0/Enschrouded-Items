@@ -1,0 +1,24 @@
+# Rust And Rose
+
+<img src="../../images/categories/colorpalette.svg" alt="Rust And Rose" width="160">
+
+| | |
+|---|---|
+| Category | [Color Palettes](../../categories/colorpalette.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 50 |
+| Item ID | `2331607035` |
+| Internal name | `ColorPalette_T6_ColorPalette_08` |
+
+## Description
+
+This color palette blends muted orange, soft mauve, and earthy brown into a palette that feels both weathered and graceful — like warmth preserved in fading light. This palette can be made with Wetland materials.
+
+## Where to find
+
+Coloring Station
+
+---
+
+[← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

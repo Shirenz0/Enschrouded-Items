@@ -1,0 +1,24 @@
+# Spaetzle with Mushroom Cream Sauce
+
+<img src="../../images/categories/consumables.svg" alt="Spaetzle with Mushroom Cream Sauce" width="160">
+
+| | |
+|---|---|
+| Category | [Consumables](../../categories/consumables.md) |
+| Rarity | 🟢 Uncommon |
+| Level | - |
+| Max stack | 20 |
+| Item ID | `1183822012` |
+| Internal name | `Food_T5_dish_grain_SpaetzleMushroomCreamSauce` |
+
+## Description
+
+spatzle with mushroom cream sauce desc
+
+## Where to find
+
+Kitchen
+
+---
+
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

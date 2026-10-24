@@ -1,0 +1,20 @@
+# Starter Shorts
+
+<img src="../../images/categories/equipment.svg" alt="Starter Shorts" width="160">
+
+| | |
+|---|---|
+| Category | [Armor & Equipment](../../categories/equipment.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 1 |
+| Item ID | `3972122124` |
+| Internal name | `Armor_T0_Starter_Legs` |
+
+## Description
+
+A very basic set of garments.
+
+---
+
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

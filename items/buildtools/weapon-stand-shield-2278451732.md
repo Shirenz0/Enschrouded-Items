@@ -1,0 +1,24 @@
+# Weapon Stand Shield
+
+<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Shield" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 20 |
+| Item ID | `2278451732` |
+| Internal name | `Prop_Collection_WeaponStand_Shield` |
+
+## Description
+
+A display to showcase weapons or shields.
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

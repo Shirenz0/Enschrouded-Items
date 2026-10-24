@@ -1,0 +1,24 @@
+# Small Decorative Tree
+
+<img src="../../images/categories/buildtools.svg" alt="Small Decorative Tree" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 50 |
+| Item ID | `2244944221` |
+| Internal name | `Prop_Decoration_T1_WinterProps_ChristmasTree01` |
+
+## Description
+
+A richly decorated festive looking tree
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

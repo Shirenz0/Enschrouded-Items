@@ -1,0 +1,24 @@
+# Fallen Crypt Block
+
+<img src="../../images/icons/2041116756.png" alt="Fallen Crypt Block" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 5000 |
+| Item ID | `2041116756` |
+| Internal name | `Block_T1_HollowHalls_Stone_HallowHalls_REWARD` |
+
+## Description
+
+Fallen Crypt Block description
+
+## Where to find
+
+Workbench
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)

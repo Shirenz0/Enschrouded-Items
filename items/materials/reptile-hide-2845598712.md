@@ -1,0 +1,24 @@
+# Reptile Hide
+
+<img src="../../images/categories/materials.svg" alt="Reptile Hide" width="160">
+
+| | |
+|---|---|
+| Category | [Materials](../../categories/materials.md) |
+| Rarity | ⚪ Common |
+| Level | 13 |
+| Max stack | 250 |
+| Item ID | `2845598712` |
+| Internal name | `Material_T2_Reptile_Hide` |
+
+## Description
+
+The usable parts of fallen Swamp Dweller
+
+## Where to find
+
+Blackmire
+
+---
+
+[← Materials](../../categories/materials.md) · [All categories](../../README.md)

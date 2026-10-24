@@ -1,0 +1,24 @@
+# Crystal Platter
+
+<img src="../../images/categories/buildtools.svg" alt="Crystal Platter" width="160">
+
+| | |
+|---|---|
+| Category | [Building](../../categories/buildtools.md) |
+| Rarity | ⚪ Common |
+| Level | - |
+| Max stack | 50 |
+| Item ID | `3225687185` |
+| Internal name | `Prop_Decoration_T4_Platter_Crystal` |
+
+## Description
+
+A decorative object to design and beautify yout home.
+
+## Lore
+
+> Furniture
+
+---
+
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
