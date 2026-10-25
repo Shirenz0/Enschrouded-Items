@@ -1,0 +1,35 @@
+{
+ "name": "T2 Mage Legs",
+ "category": "Equipment",
+ "image": "images/icons/2164129974.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1798843751,
+   "name": "T2 Mage Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1798843751.png",
+   "page": "items/equipment/t2-mage-legs-1798843751.md",
+   "json": "items/equipment/t2-mage-legs-1798843751.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2164129974,
+   "name": "T2 Mage Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2164129974.png",
+   "page": "items/equipment/t2-mage-legs-2164129974.md",
+   "json": "items/equipment/t2-mage-legs-2164129974.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-mage-legs.md"
+}

@@ -17,4 +17,4 @@ None can tread past you when you're wearing these steadfast boots.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-tank-boots.json)

@@ -17,4 +17,4 @@ Claws that were designed to climb steep walls. They are especially useful in cas
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](climbing-claws-1549647644.json)

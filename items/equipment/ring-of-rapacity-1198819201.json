@@ -1,0 +1,70 @@
+{
+ "id": 1198819201,
+ "name": "Ring of Rapacity",
+ "internalName": "Ring_T2_ministory_13",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1198819201.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A glimmering ring, plucked from the remains of someone who got more than they bargained for.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health",
+    "value": -25,
+    "display": "-25",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": -20,
+    "display": "-20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Mana Currents",
+   "effect": "Increases the skill level of Mana Currents by +1"
+  },
+  {
+   "order": 2,
+   "name": "Mana Leech",
+   "effect": "+3 Mana Leech"
+  },
+  {
+   "order": 3,
+   "name": "+1 Quick Charge",
+   "effect": "Increases the skill level of Quick Charge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana Leech",
+   "effect": "On Hit Leech %Percentage% Damage as Mana"
+  }
+ ],
+ "page": "items/equipment/ring-of-rapacity-1198819201.md"
+}

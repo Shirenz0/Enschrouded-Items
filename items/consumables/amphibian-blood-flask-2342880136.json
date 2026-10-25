@@ -1,0 +1,80 @@
+{
+ "id": 2342880136,
+ "name": "Amphibian Blood Flask",
+ "internalName": "Consumable_Potion_Flask_DrakBloodLoreReading_T6",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2342880136.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A potion that allows you to read drak lore. Also it does some other stuff, but currently no one knows what.",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Damage against Drak",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1989425867,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 866649871,
+      "name": "Drak Scales",
+      "page": "items/materials/drak-scales-866649871.md",
+      "json": "items/materials/drak-scales-866649871.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 922637727,
+      "name": "Drak Teeth",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3260045641,
+      "name": "Drak Claws",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 4248468545,
+      "name": "Drak Blood",
+      "page": "items/materials/drak-blood-4248468545.md",
+      "json": "items/materials/drak-blood-4248468545.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/amphibian-blood-flask-2342880136.md"
+}

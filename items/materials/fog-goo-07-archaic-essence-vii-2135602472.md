@@ -27,4 +27,4 @@ Ancient Land Shroud, Shroud Lairs
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](fog-goo-07-archaic-essence-vii-2135602472.json)

@@ -1,0 +1,37 @@
+{
+ "name": "Medium Backpack",
+ "category": "Equipment",
+ "image": "images/icons/4053516652.png",
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 3773368910,
+   "name": "Medium Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3773368910.png",
+   "page": "items/equipment/medium-backpack-3773368910.md",
+   "json": "items/equipment/medium-backpack-3773368910.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4053516652,
+   "name": "Medium Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4053516652.png",
+   "page": "items/equipment/medium-backpack-4053516652.md",
+   "json": "items/equipment/medium-backpack-4053516652.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/equipment/medium-backpack.md"
+}

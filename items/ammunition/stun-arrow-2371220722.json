@@ -1,0 +1,76 @@
+{
+ "id": 2371220722,
+ "name": "Stun Arrow",
+ "internalName": "Ammo_T3_Arrow_Stun_lvl20",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 500,
+ "image": "images/icons/2371220722.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Stuns a target for a short duration.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Blunt": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 1785733477,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/stun-arrow-2371220722.md"
+}

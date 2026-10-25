@@ -1,0 +1,53 @@
+{
+ "id": 1746429100,
+ "name": "Ground Lantern I",
+ "internalName": "_Prop_Decoration_Comfort_T2_Lantern_01_A_Ground_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1746429100.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An illumination item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Illumination",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 854126294,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/ground-lantern-i-1746429100.md"
+}

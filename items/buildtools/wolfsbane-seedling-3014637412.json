@@ -1,0 +1,52 @@
+{
+ "id": 3014637412,
+ "name": "Wolfsbane Seedling",
+ "internalName": "T5_Seedling_Wolfsbane",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3014637412.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 274729435,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1355070973,
+      "name": "T5 Wolfsbane",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 260133819,
+      "name": "Fertilised Farm Soil",
+      "page": "items/materials/fertilised-farm-soil-260133819.md",
+      "json": "items/materials/fertilised-farm-soil-260133819.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/wolfsbane-seedling-3014637412.md"
+}

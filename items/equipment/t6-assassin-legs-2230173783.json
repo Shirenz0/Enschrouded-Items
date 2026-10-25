@@ -1,0 +1,137 @@
+{
+ "id": 2230173783,
+ "name": "T6 Assassin Legs",
+ "internalName": "Armor_T6_Ranger_Assassin_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/2230173783.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 assassin legs desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t6-assassin-legs.md",
+  "json": "objects/equipment/t6-assassin-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 54,
+    "display": "54",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Sneak  Speed",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Cutthroat",
+   "effect": "Increases the skill level of Cutthroat by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+24 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2958664853,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2059656108,
+      "name": "Water Reptile Leather",
+      "page": "items/materials/water-reptile-leather-2059656108.md",
+      "json": "items/materials/water-reptile-leather-2059656108.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4230368891,
+      "name": "Capybara Bristles",
+      "page": "items/materials/capybara-bristles-4230368891.md",
+      "json": "items/materials/capybara-bristles-4230368891.json"
+     }
+    },
+    {
+     "count": 50,
+     "item": {
+      "id": 3486560156,
+      "name": "Placeholder: Pink Mushroom Meat",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3845850476,
+      "name": "Placeholder: Greater Fell Heart",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t6-assassin-legs-2230173783.md"
+}

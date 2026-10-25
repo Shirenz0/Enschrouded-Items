@@ -1,0 +1,92 @@
+{
+ "id": 1453423195,
+ "name": "Crab Cakes",
+ "internalName": "Food_T6_dish_meat_CrabCakes",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1453423195.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Crab Cake t6 desc",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3300000,
+    "display": "55:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Wildlife and Wildbeasts",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 280,
+    "display": "280",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2525475530,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3869409947,
+      "name": "Crab Meat",
+      "page": "items/consumables/crab-meat-3869409947.md",
+      "json": "items/consumables/crab-meat-3869409947.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1896276940,
+      "name": "Eggs",
+      "page": "items/consumables/eggs-1896276940.md",
+      "json": "items/consumables/eggs-1896276940.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2873455991,
+      "name": "Milk",
+      "page": "items/consumables/milk-2873455991.md",
+      "json": "items/consumables/milk-2873455991.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/crab-cakes-1453423195.md"
+}

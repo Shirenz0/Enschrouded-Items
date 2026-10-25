@@ -1,0 +1,29 @@
+{
+ "id": 3638722075,
+ "name": "Iron Grate",
+ "internalName": "Prop_Decoration_T4_Grate_Steel_small",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3638722075.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/iron-grate.md",
+  "json": "objects/buildtools/iron-grate.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/iron-grate-3638722075.md"
+}

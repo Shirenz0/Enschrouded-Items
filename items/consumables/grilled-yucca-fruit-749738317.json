@@ -1,0 +1,67 @@
+{
+ "id": 749738317,
+ "name": "Grilled Yucca Fruit",
+ "internalName": "Food_T4_processed_sweets_grilled_YuccaFruit",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/749738317.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "When cooked, the Yucca Fruit becomes very sweet. A real mouth candy, good to recover energy!",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 300000,
+    "display": "5:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 55,
+    "display": "55",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3621372798,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2008478235,
+      "name": "Yucca Fruit",
+      "page": "items/consumables/yucca-fruit-2008478235.md",
+      "json": "items/consumables/yucca-fruit-2008478235.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-yucca-fruit-749738317.md"
+}

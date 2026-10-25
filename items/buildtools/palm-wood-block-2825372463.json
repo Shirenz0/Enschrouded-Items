@@ -1,0 +1,52 @@
+{
+ "id": 2825372463,
+ "name": "Palm Wood Block",
+ "internalName": "Block_T4_Wood_Palmwood_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2825372463.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Perfect to build a provisional house in hot areas. Palm wood is a great alternative to conventional wood, mimicking its charms and durability.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3935547377,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 7,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/palm-wood-block-2825372463.md"
+}

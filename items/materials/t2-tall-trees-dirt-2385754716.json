@@ -1,0 +1,45 @@
+{
+ "id": 2385754716,
+ "name": "T2 tall trees dirt",
+ "internalName": "Build_TerrainMaterial_T2_Dirt_Talltrees",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2385754716.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3380780330,
+   "name": "Vukah Stones",
+   "page": "items/buildtools/vukah-stones-3380780330.md",
+   "json": "items/buildtools/vukah-stones-3380780330.json"
+  },
+  {
+   "id": 4219078478,
+   "name": "T2 fertile Talltree Dirt",
+   "page": "items/materials/t2-fertile-talltree-dirt-4219078478.md",
+   "json": "items/materials/t2-fertile-talltree-dirt-4219078478.json"
+  },
+  {
+   "id": 3620677285,
+   "name": "T2 Talltrees Rubble",
+   "page": "items/materials/t2-talltrees-rubble-3620677285.md",
+   "json": "items/materials/t2-talltrees-rubble-3620677285.json"
+  }
+ ],
+ "page": "items/materials/t2-tall-trees-dirt-2385754716.md"
+}

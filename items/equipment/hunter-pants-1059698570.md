@@ -27,4 +27,4 @@ Belted pants that will create a perfect fit no matter if you've had venisson or 
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](hunter-pants-1059698570.json)

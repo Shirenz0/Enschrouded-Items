@@ -1,0 +1,35 @@
+{
+ "name": "T4 Ranger Arms",
+ "category": "Equipment",
+ "image": "images/icons/545912505.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2309078212,
+   "name": "T4 Ranger Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2309078212.png",
+   "page": "items/equipment/t4-ranger-arms-2309078212.md",
+   "json": "items/equipment/t4-ranger-arms-2309078212.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 545912505,
+   "name": "T4 Ranger Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/545912505.png",
+   "page": "items/equipment/t4-ranger-arms-545912505.md",
+   "json": "items/equipment/t4-ranger-arms-545912505.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-ranger-arms.md"
+}

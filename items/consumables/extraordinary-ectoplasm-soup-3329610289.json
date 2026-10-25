@@ -1,0 +1,80 @@
+{
+ "id": 3329610289,
+ "name": "Extraordinary Ectoplasm Soup",
+ "internalName": "Food_T6_dish_Skeleton_Slurp_T6",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3329610289.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 slurp desc",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -250,
+    "display": "-250",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 3300000,
+    "display": "55:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Life Leech Chance Against Hollow",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Skeletons",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 873565423,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 806123624,
+      "name": "Algae",
+      "page": "items/consumables/algae-806123624.md",
+      "json": "items/consumables/algae-806123624.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1506592036,
+      "name": "Extraordinary Ectoplasm",
+      "page": "items/materials/extraordinary-ectoplasm-1506592036.md",
+      "json": "items/materials/extraordinary-ectoplasm-1506592036.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/extraordinary-ectoplasm-soup-3329610289.md"
+}

@@ -20,4 +20,4 @@ Hastely put together from fell monster parts. Offers extended protection against
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](warrior-fog-protection-armor.json)

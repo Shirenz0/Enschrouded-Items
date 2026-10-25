@@ -1,0 +1,79 @@
+{
+ "id": 3870359442,
+ "name": "Critter Crawler Bomb",
+ "internalName": "Consumable_CritterCrawler_Bomb_Grenade_T5",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 20,
+ "image": "images/icons/3870359442.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Throw to send of an explosive critter crawler",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 50,
+   "Shroud": 50
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 95,
+    "display": "95",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 12000,
+    "display": "12 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3378588849,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1611805749,
+      "name": "Critter Carapace",
+      "page": "items/materials/critter-carapace-1611805749.md",
+      "json": "items/materials/critter-carapace-1611805749.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/critter-crawler-bomb-3870359442.md"
+}

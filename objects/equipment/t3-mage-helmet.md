@@ -17,4 +17,4 @@ This magician's head frames the wearer's face with a lucious golden rim.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-mage-helmet.json)

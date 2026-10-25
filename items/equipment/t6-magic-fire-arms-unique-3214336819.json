@@ -1,0 +1,85 @@
+{
+ "id": 3214336819,
+ "name": "T6 Magic Fire Arms - Unique",
+ "internalName": "Armor_T6_Unique_Magic_Fire_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/3214336819.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 Magic_Fire arms desc - unique",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wand Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Increased Fire Damage",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Arcane Deflection",
+   "effect": "Increases the skill level of Arcane Deflection by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Arsonist",
+   "effect": "Increases the skill level of Arsonist by +1"
+  }
+ ],
+ "page": "items/equipment/t6-magic-fire-arms-unique-3214336819.md"
+}

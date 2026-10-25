@@ -1,0 +1,91 @@
+{
+ "id": 806123624,
+ "name": "Algae",
+ "internalName": "Food_T6_raw_herb_Algae",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/806123624.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 algae desc",
+ "lore": null,
+ "whereToFind": "find in T6 underwater",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 1500000,
+    "display": "25:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3254225118,
+   "name": "Swim Sprint Stamina Reduction Flask",
+   "page": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.md",
+   "json": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.json"
+  },
+  {
+   "id": 2733976881,
+   "name": "Algae Salad",
+   "page": "items/consumables/algae-salad-2733976881.md",
+   "json": "items/consumables/algae-salad-2733976881.json"
+  },
+  {
+   "id": 3529288638,
+   "name": "Sushi",
+   "page": "items/consumables/sushi-3529288638.md",
+   "json": "items/consumables/sushi-3529288638.json"
+  },
+  {
+   "id": 3329610289,
+   "name": "Extraordinary Ectoplasm Soup",
+   "page": "items/consumables/extraordinary-ectoplasm-soup-3329610289.md",
+   "json": "items/consumables/extraordinary-ectoplasm-soup-3329610289.json"
+  },
+  {
+   "id": 2411338569,
+   "name": "Algae Seedling",
+   "page": "items/buildtools/algae-seedling-2411338569.md",
+   "json": "items/buildtools/algae-seedling-2411338569.json"
+  },
+  {
+   "id": 2434044399,
+   "name": "Ginger In A Jungle",
+   "page": "items/colorpalette/ginger-in-a-jungle-2434044399.md",
+   "json": "items/colorpalette/ginger-in-a-jungle-2434044399.json"
+  },
+  {
+   "id": 1357946175,
+   "name": "Capybara Bait",
+   "page": "items/buildtools/capybara-bait-1357946175.md",
+   "json": "items/buildtools/capybara-bait-1357946175.json"
+  },
+  {
+   "id": 870784173,
+   "name": "Capybara Feeding",
+   "page": "items/buildtools/capybara-feeding-870784173.md",
+   "json": "items/buildtools/capybara-feeding-870784173.json"
+  }
+ ],
+ "page": "items/consumables/algae-806123624.md"
+}

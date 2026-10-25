@@ -1,0 +1,92 @@
+{
+ "id": 101823326,
+ "name": "Empty Flower Pot VII",
+ "internalName": "Empty_Flower_Pot_Low_Large_Ground_Empty",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/101823326.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": "Crafting, Kiln",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3022356377,
+   "station": "Kiln",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2360020747,
+   "name": "Heather Flower Pot",
+   "page": "items/buildtools/heather-flower-pot-2360020747.md",
+   "json": "items/buildtools/heather-flower-pot-2360020747.json"
+  }
+ ],
+ "page": "items/buildtools/empty-flower-pot-vii-101823326.md"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 2883918272,
+ "name": "Licuala Seedling",
+ "internalName": "T6_Seedling_Tree_Licuala",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/2883918272.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will soon grow into a plant, should it be placed into the right ground.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1602417043,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 260133819,
+      "name": "Fertilised Farm Soil",
+      "page": "items/materials/fertilised-farm-soil-260133819.md",
+      "json": "items/materials/fertilised-farm-soil-260133819.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 521230189,
+      "name": "Palm Leaves",
+      "page": "items/materials/palm-leaves-521230189.md",
+      "json": "items/materials/palm-leaves-521230189.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/licuala-seedling-2883918272.md"
+}

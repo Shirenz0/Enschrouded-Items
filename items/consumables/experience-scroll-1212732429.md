@@ -19,4 +19,4 @@ Gain a small amount of Experience upon absorption of the content.
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](experience-scroll-1212732429.json)

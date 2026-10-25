@@ -21,4 +21,4 @@ When activated, this lightning trap shoots beams of lightning, keeping unwanted 
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](lightning-trap-2799025465.json)

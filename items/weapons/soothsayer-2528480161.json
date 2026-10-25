@@ -1,0 +1,76 @@
+{
+ "id": 2528480161,
+ "name": "Soothsayer",
+ "internalName": "Weapon_T3_2H_Lore_HammerEpic_ministory_19",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2528480161.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/soothsayer.md",
+  "json": "objects/weapons/soothsayer.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+5 Precise"
+  }
+ ],
+ "page": "items/weapons/soothsayer-2528480161.md"
+}

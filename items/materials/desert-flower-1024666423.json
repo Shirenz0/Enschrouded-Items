@@ -1,0 +1,39 @@
+{
+ "id": 1024666423,
+ "name": "Desert Flower",
+ "internalName": "Material_T4_Desert_Flower",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/1024666423.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An ingredient used in crafting recipes.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2024314426,
+   "name": "Desert Flower Seedling",
+   "page": "items/buildtools/desert-flower-seedling-2024314426.md",
+   "json": "items/buildtools/desert-flower-seedling-2024314426.json"
+  },
+  {
+   "id": 1126086984,
+   "name": "Spice",
+   "page": "items/materials/spice-1126086984.md",
+   "json": "items/materials/spice-1126086984.json"
+  }
+ ],
+ "page": "items/materials/desert-flower-1024666423.md"
+}

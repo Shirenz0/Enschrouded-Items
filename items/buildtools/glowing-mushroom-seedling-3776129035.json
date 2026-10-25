@@ -1,0 +1,61 @@
+{
+ "id": 3776129035,
+ "name": "Glowing Mushroom Seedling",
+ "internalName": "T2_Seedling_Mushroom_AzureRussula_GlowShroom",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3776129035.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1230779117,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4229884102,
+      "name": "Shroud Mush",
+      "page": "items/materials/shroud-mush-4229884102.md",
+      "json": "items/materials/shroud-mush-4229884102.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1304815894,
+      "name": "Azure Russula",
+      "page": "items/consumables/azure-russula-1304815894.md",
+      "json": "items/consumables/azure-russula-1304815894.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/glowing-mushroom-seedling-3776129035.md"
+}

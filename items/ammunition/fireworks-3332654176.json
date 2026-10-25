@@ -1,0 +1,40 @@
+{
+ "id": 3332654176,
+ "name": "Fireworks",
+ "internalName": "_Ammo_Consumable_Fireworks_05_Projectile",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3332654176.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Just some Fireworks to celebrate your victories",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/ammunition/fireworks.md",
+  "json": "objects/ammunition/fireworks.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/ammunition/fireworks-3332654176.md"
+}

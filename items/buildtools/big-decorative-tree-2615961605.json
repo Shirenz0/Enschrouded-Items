@@ -1,0 +1,61 @@
+{
+ "id": 2615961605,
+ "name": "Big Decorative Tree",
+ "internalName": "Prop_Decoration_T1_WinterProps_ChristmasTree02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2615961605.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A richly decorated festive looking tree",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1629103532,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 688553119,
+      "name": "Tree Seedling",
+      "page": "items/buildtools/tree-seedling-688553119.md",
+      "json": "items/buildtools/tree-seedling-688553119.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2939168228,
+      "name": "Candle",
+      "page": "items/buildtools/candle-2939168228.md",
+      "json": "items/buildtools/candle-2939168228.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-decorative-tree-2615961605.md"
+}

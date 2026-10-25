@@ -1,0 +1,115 @@
+{
+ "id": 3542827745,
+ "name": "Forest Beet",
+ "internalName": "Food_T2_raw_vegetable_ForestBeet",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3542827745.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A root brimming with energy, but not very effictive in its raw form. Improves the dexterity of the consumer.",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 750000,
+    "display": "12:30 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1730813213,
+   "name": "Chicken Soup",
+   "page": "items/consumables/chicken-soup-1730813213.md",
+   "json": "items/consumables/chicken-soup-1730813213.json"
+  },
+  {
+   "id": 1105965780,
+   "name": "Stir-Fried Vegetables",
+   "page": "items/consumables/stir-fried-vegetables-1105965780.md",
+   "json": "items/consumables/stir-fried-vegetables-1105965780.json"
+  },
+  {
+   "id": 3049932278,
+   "name": "Vegetable Soup",
+   "page": "items/consumables/vegetable-soup-3049932278.md",
+   "json": "items/consumables/vegetable-soup-3049932278.json"
+  },
+  {
+   "id": 2793438000,
+   "name": "Vegetable Puree",
+   "page": "items/consumables/vegetable-puree-2793438000.md",
+   "json": "items/consumables/vegetable-puree-2793438000.json"
+  },
+  {
+   "id": 1072066690,
+   "name": "Fish Chowder",
+   "page": "items/consumables/fish-chowder-1072066690.md",
+   "json": "items/consumables/fish-chowder-1072066690.json"
+  },
+  {
+   "id": 3031557010,
+   "name": "Raw Meat and Forest Beet Skewer",
+   "page": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.md",
+   "json": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.json"
+  },
+  {
+   "id": 2721454042,
+   "name": "Beet Seedling",
+   "page": "items/buildtools/beet-seedling-2721454042.md",
+   "json": "items/buildtools/beet-seedling-2721454042.json"
+  },
+  {
+   "id": 3686997983,
+   "name": "Snowpal Child",
+   "page": "items/buildtools/snowpal-child-3686997983.md",
+   "json": "items/buildtools/snowpal-child-3686997983.json"
+  },
+  {
+   "id": 3391925223,
+   "name": "Snowpal Mom",
+   "page": "items/buildtools/snowpal-mom-3391925223.md",
+   "json": "items/buildtools/snowpal-mom-3391925223.json"
+  },
+  {
+   "id": 3549560668,
+   "name": "Snowpal Dad",
+   "page": "items/buildtools/snowpal-dad-3549560668.md",
+   "json": "items/buildtools/snowpal-dad-3549560668.json"
+  },
+  {
+   "id": 2417128668,
+   "name": "Food Catdeer Feeding",
+   "page": "items/buildtools/food-catdeer-feeding-2417128668.md",
+   "json": "items/buildtools/food-catdeer-feeding-2417128668.json"
+  }
+ ],
+ "page": "items/consumables/forest-beet-3542827745.md"
+}

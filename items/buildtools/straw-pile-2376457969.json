@@ -1,0 +1,43 @@
+{
+ "id": 2376457969,
+ "name": "Straw Pile",
+ "internalName": "Prop_Decoration_T3_Farm_Strawpile",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2376457969.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3204245958,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/straw-pile-2376457969.md"
+}

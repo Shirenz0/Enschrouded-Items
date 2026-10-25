@@ -28,4 +28,4 @@ An improvised bow made out of basic materials. Unfortunately, the bow string is 
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](improvised-bow-3527909057.json)

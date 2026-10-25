@@ -1,0 +1,116 @@
+{
+ "id": 1221959339,
+ "name": "T3 Tank Helmet",
+ "internalName": "Armor_T3_Warrior_Tank_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1221959339.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Seeing this helmet makes others feel safe and secure.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-tank-helmet.md",
+  "json": "objects/equipment/t3-tank-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Merciless Strike Damage",
+    "value": 35,
+    "display": "35",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Purification",
+   "effect": "Increases the skill level of Purification by +1"
+  },
+  {
+   "order": 4,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Nemesis",
+   "effect": "Increases the skill level of Nemesis by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2376959207,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-tank-helmet-1221959339.md"
+}

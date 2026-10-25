@@ -1,0 +1,96 @@
+{
+ "id": 1100793430,
+ "name": "T3 Entangle II",
+ "internalName": "Ammo_T3_Spell_Root_lvl17",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 17,
+  "max": 17
+ },
+ "maxStack": 500,
+ "image": "images/icons/1100793430.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Entangling Roots that prevent enemies from moving for a short duration.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 22,
+    "display": "22",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 200,
+    "display": "200",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 6000,
+    "display": "6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 9000,
+    "display": "9 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2288865421,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t3-entangle-ii-1100793430.md"
+}

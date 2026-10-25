@@ -1,0 +1,25 @@
+{
+ "id": 142039184,
+ "name": "Baby Bunny",
+ "internalName": "Animal_Baby_Bunny",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/142039184.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Cute little Bunny",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-bunny-142039184.md"
+}

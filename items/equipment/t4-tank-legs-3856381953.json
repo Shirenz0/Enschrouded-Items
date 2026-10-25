@@ -1,0 +1,131 @@
+{
+ "id": 3856381953,
+ "name": "T4 Tank Legs",
+ "internalName": "Armor_T4_Warrior_Tank_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3856381953.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Grey pants with expertly crafted metal parts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-tank-legs.md",
+  "json": "objects/equipment/t4-tank-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 90,
+    "display": "90",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shiny Plates",
+   "effect": "Increases the skill level of Shiny Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Absorb",
+   "effect": "Increases the skill level of Absorb by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2774447831,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2975006357,
+      "name": "Monstrous Ribs",
+      "page": "items/materials/monstrous-ribs-2975006357.md",
+      "json": "items/materials/monstrous-ribs-2975006357.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 267668454,
+      "name": "Night Desert Flower",
+      "page": "items/materials/night-desert-flower-267668454.md",
+      "json": "items/materials/night-desert-flower-267668454.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 4079068070,
+      "name": "Sanddigger Scales",
+      "page": "items/materials/sanddigger-scales-4079068070.md",
+      "json": "items/materials/sanddigger-scales-4079068070.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 4091795277,
+      "name": "Brittle Shroud Flakes",
+      "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+      "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-tank-legs-3856381953.md"
+}

@@ -1,0 +1,39 @@
+{
+ "id": 2374813707,
+ "name": "Raw Rice",
+ "internalName": "Material_T6_raw_Rice",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2374813707.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 raw rice desc",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3688068238,
+   "name": "Cooked Rice",
+   "page": "items/consumables/cooked-rice-3688068238.md",
+   "json": "items/consumables/cooked-rice-3688068238.json"
+  },
+  {
+   "id": 3520367051,
+   "name": "Rice Seedling",
+   "page": "items/buildtools/rice-seedling-3520367051.md",
+   "json": "items/buildtools/rice-seedling-3520367051.json"
+  }
+ ],
+ "page": "items/materials/raw-rice-2374813707.md"
+}

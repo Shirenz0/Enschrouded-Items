@@ -1,0 +1,81 @@
+{
+ "id": 1899806950,
+ "name": "T1 Heal Channel I",
+ "internalName": "Ammo_T1_Spell_Heal_Channel_lvl5",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 500,
+ "image": "images/icons/1899806950.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Ammunition that, upon use, releases healing projectiles.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Healing": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 873037120,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4180130855,
+      "name": "St. John's Wort",
+      "page": "items/consumables/st-john-s-wort-4180130855.md",
+      "json": "items/consumables/st-john-s-wort-4180130855.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2832562682,
+      "name": "Aerated Shroud Gel",
+      "page": "items/materials/aerated-shroud-gel-2832562682.md",
+      "json": "items/materials/aerated-shroud-gel-2832562682.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t1-heal-channel-i-1899806950.md"
+}

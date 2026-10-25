@@ -17,4 +17,4 @@ Sturdy gloves which protect the hands while exploring the thicket.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-dps-arms.json)

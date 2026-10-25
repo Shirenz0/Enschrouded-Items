@@ -21,4 +21,4 @@ A heavy club adorned with multiple wolf heads near the handle.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](wolf-s-hydra.json)

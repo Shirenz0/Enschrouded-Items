@@ -1,0 +1,43 @@
+{
+ "id": 3433495732,
+ "name": "Large Spiral Stone Stairs",
+ "internalName": "Prop_Decoration_TX_Large_Stone_Stairs_Spiral",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3433495732.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 646706826,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/large-spiral-stone-stairs-3433495732.md"
+}

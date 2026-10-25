@@ -1,0 +1,35 @@
+{
+ "id": 2758814780,
+ "name": "T2 Bench Dungeon",
+ "internalName": "Prop_Decoration_Comfort3_T2_Bench_HollowHalls",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2758814780.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Bench",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/t2-bench-dungeon-2758814780.md"
+}

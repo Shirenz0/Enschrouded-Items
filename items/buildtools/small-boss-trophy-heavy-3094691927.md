@@ -31,4 +31,4 @@ Defeat the Boss multiple times to craft one of those.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](small-boss-trophy-heavy-3094691927.json)

@@ -45,4 +45,4 @@ Unlocked one after another as the item is upgraded, in this order. Armor and dam
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vorgoth-s-chest-248650235.json)

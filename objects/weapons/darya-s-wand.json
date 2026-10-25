@@ -1,0 +1,60 @@
+{
+ "name": "Darya's Wand",
+ "category": "Weapons",
+ "image": "images/icons/2331017633.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 2104873327,
+   "name": "Darya's Wand",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2104873327.png",
+   "page": "items/weapons/darya-s-wand-2104873327.md",
+   "json": "items/weapons/darya-s-wand-2104873327.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1561187159,
+   "name": "Darya's Wand",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1561187159.png",
+   "page": "items/weapons/darya-s-wand-1561187159.md",
+   "json": "items/weapons/darya-s-wand-1561187159.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1142953776,
+   "name": "Darya's Wand",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1142953776.png",
+   "page": "items/weapons/darya-s-wand-1142953776.md",
+   "json": "items/weapons/darya-s-wand-1142953776.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2331017633,
+   "name": "Darya's Wand",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/2331017633.png",
+   "page": "items/weapons/darya-s-wand-2331017633.md",
+   "json": "items/weapons/darya-s-wand-2331017633.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/darya-s-wand.md"
+}

@@ -17,4 +17,4 @@ An impressively big ammonite fossil. It's beautiful shape and ridges were larger
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](big-ammonite-3585387192.json)

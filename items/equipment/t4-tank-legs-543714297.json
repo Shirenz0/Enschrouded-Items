@@ -1,0 +1,77 @@
+{
+ "id": 543714297,
+ "name": "T4 Tank Legs",
+ "internalName": "Armor_T4_Warrior_Tank_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/543714297.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Grey pants with expertly crafted metal parts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-tank-legs.md",
+  "json": "objects/equipment/t4-tank-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 90,
+    "display": "90",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shiny Plates",
+   "effect": "Increases the skill level of Shiny Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Absorb",
+   "effect": "Increases the skill level of Absorb by +1"
+  }
+ ],
+ "page": "items/equipment/t4-tank-legs-543714297.md"
+}

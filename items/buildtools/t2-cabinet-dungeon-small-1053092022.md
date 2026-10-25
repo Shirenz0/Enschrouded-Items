@@ -25,4 +25,4 @@ A decorative object to design and beautify yout home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](t2-cabinet-dungeon-small-1053092022.json)

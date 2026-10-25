@@ -17,4 +17,4 @@ Spending general protection and providing shade, the alchemists apprentice hat i
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](alchemist-apprentice-hat.json)

@@ -17,4 +17,4 @@ Padded and warm. Ideal for bracing cold nights when awaiting the time to strike.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-archer-chest.json)

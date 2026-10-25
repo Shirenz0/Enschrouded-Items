@@ -1,0 +1,116 @@
+{
+ "id": 3983015116,
+ "name": "Halescourge",
+ "internalName": "Craft_Weapon_T7_1H_Lore_SwordEpic_Ministory_04",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/3983015116.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A blade that's cold tot he touch. It weighs heavily on the mind.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/halescourge.md",
+  "json": "objects/weapons/halescourge.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Ice": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2963984935,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3845850476,
+      "name": "Placeholder: Greater Fell Heart",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/halescourge-3983015116.md"
+}

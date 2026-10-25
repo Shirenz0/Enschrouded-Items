@@ -1,0 +1,117 @@
+{
+ "id": 297685721,
+ "name": "T7 Eternal Bone Channel II",
+ "internalName": "Ammo_T7_Spell_Bone_Channel_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/297685721.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Eternal Bone Channel Desc",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 61,
+    "display": "61",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 5,
+   "name": "All Physical Blunt Damage",
+   "effect": "+10 All Physical Blunt Damage"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 887533065,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 100,
+     "item": {
+      "id": 4005698976,
+      "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+      "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+      "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3895216255,
+      "name": "Giant Ice Bones",
+      "page": "items/materials/giant-ice-bones-3895216255.md",
+      "json": "items/materials/giant-ice-bones-3895216255.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3084703100,
+      "name": "Archaic Core",
+      "page": "items/materials/archaic-core-3084703100.md",
+      "json": "items/materials/archaic-core-3084703100.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-bone-channel-ii-297685721.md"
+}

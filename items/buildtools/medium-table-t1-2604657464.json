@@ -1,0 +1,71 @@
+{
+ "id": 2604657464,
+ "name": "Medium Table T1",
+ "internalName": "Prop_Decoration_Comfort2_T1_Table_Medium",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2604657464.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Table",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1216729531,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/medium-table-t1-2604657464.md"
+}

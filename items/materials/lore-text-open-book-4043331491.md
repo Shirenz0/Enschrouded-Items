@@ -13,4 +13,4 @@
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](lore-text-open-book-4043331491.json)

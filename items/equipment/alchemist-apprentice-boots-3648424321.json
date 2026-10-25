@@ -1,0 +1,71 @@
+{
+ "id": 3648424321,
+ "name": "Alchemist Apprentice Boots",
+ "internalName": "Armor_T1_Mage_Wizard_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/3648424321.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Simple leather boots - a perfect fit.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/alchemist-apprentice-boots.md",
+  "json": "objects/equipment/alchemist-apprentice-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Necromancer",
+   "effect": "Increases the skill level of Necromancer by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+4 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Iceman",
+   "effect": "Increases the skill level of Iceman by +1"
+  }
+ ],
+ "page": "items/equipment/alchemist-apprentice-boots-3648424321.md"
+}

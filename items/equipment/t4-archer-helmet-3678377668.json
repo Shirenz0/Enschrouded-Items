@@ -1,0 +1,73 @@
+{
+ "id": 3678377668,
+ "name": "T4 Archer Helmet",
+ "internalName": "Armor_T4_Ranger_Adventurer_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3678377668.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This hood includes an iron facemask which was greatly inspired by owls.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Strike Chance",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Well Rested",
+   "effect": "Increases the skill level of Well Rested by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Backstab Mastery",
+   "effect": "Increases the skill level of Backstab Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "page": "items/equipment/t4-archer-helmet-3678377668.md"
+}

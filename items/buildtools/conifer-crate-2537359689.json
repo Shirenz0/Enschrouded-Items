@@ -1,0 +1,29 @@
+{
+ "id": 2537359689,
+ "name": "Conifer Crate",
+ "internalName": "Prop_Decoration_T5_Crate_Conifer01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2537359689.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/conifer-crate.md",
+  "json": "objects/buildtools/conifer-crate.json",
+  "versions": 3
+ },
+ "page": "items/buildtools/conifer-crate-2537359689.md"
+}

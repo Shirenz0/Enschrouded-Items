@@ -1,0 +1,77 @@
+{
+ "id": 1880424695,
+ "name": "T4 DPS Legs",
+ "internalName": "Armor_T4_Warrior_DPS_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1880424695.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Thick and reliable pants. Not very breathable, unfortunately.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-dps-legs.md",
+  "json": "objects/equipment/t4-dps-legs.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 90,
+    "display": "90",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "Barbarians Path",
+   "effect": "Increases the skill level of Barbarian's Path"
+  }
+ ],
+ "page": "items/equipment/t4-dps-legs-1880424695.md"
+}

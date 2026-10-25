@@ -17,4 +17,4 @@ Quickly dash to the rescue in these comfortable and snug boots!
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-healer-boots.json)

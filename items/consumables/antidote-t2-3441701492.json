@@ -1,0 +1,61 @@
+{
+ "id": 3441701492,
+ "name": "Antidote T2",
+ "internalName": "Consumable_Potion_Antidote_Poison_T2",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3441701492.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "consumable potion antidote desc t2",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2775795756,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1503622318,
+      "name": "Poison Sack",
+      "page": "items/materials/poison-sack-1503622318.md",
+      "json": "items/materials/poison-sack-1503622318.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2873455991,
+      "name": "Milk",
+      "page": "items/consumables/milk-2873455991.md",
+      "json": "items/consumables/milk-2873455991.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1212327967,
+      "name": "Spider Gland",
+      "page": "items/materials/spider-gland-1212327967.md",
+      "json": "items/materials/spider-gland-1212327967.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "page": "items/consumables/antidote-t2-3441701492.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "T2 DPS Arms",
+ "category": "Equipment",
+ "image": "images/icons/773065948.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1108317357,
+   "name": "T2 DPS Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1108317357.png",
+   "page": "items/equipment/t2-dps-arms-1108317357.md",
+   "json": "items/equipment/t2-dps-arms-1108317357.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 773065948,
+   "name": "T2 DPS Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/773065948.png",
+   "page": "items/equipment/t2-dps-arms-773065948.md",
+   "json": "items/equipment/t2-dps-arms-773065948.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-dps-arms.md"
+}

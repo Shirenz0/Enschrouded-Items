@@ -1,0 +1,111 @@
+{
+ "id": 1401630464,
+ "name": "Sandstone",
+ "internalName": "Build_TerrainMaterial_T4_Sandstone",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1401630464.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Sandstone are stones that consist mainly out of big sand particles - a beautiful natural material and another wonder of nature to admire.",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1555483091,
+   "name": "Refined Sandstone Block",
+   "page": "items/buildtools/refined-sandstone-block-1555483091.md",
+   "json": "items/buildtools/refined-sandstone-block-1555483091.json"
+  },
+  {
+   "id": 2216303598,
+   "name": "Regular Sandstone Block",
+   "page": "items/buildtools/regular-sandstone-block-2216303598.md",
+   "json": "items/buildtools/regular-sandstone-block-2216303598.json"
+  },
+  {
+   "id": 72900743,
+   "name": "Rough Sandstone Block",
+   "page": "items/buildtools/rough-sandstone-block-72900743.md",
+   "json": "items/buildtools/rough-sandstone-block-72900743.json"
+  },
+  {
+   "id": 3178080467,
+   "name": "Desert City Wall",
+   "page": "items/buildtools/desert-city-wall-3178080467.md",
+   "json": "items/buildtools/desert-city-wall-3178080467.json"
+  },
+  {
+   "id": 2875012578,
+   "name": "Desert Temple Block",
+   "page": "items/buildtools/desert-temple-block-2875012578.md",
+   "json": "items/buildtools/desert-temple-block-2875012578.json"
+  },
+  {
+   "id": 3379333313,
+   "name": "City Wall Stone Block",
+   "page": "items/buildtools/city-wall-stone-block-3379333313.md",
+   "json": "items/buildtools/city-wall-stone-block-3379333313.json"
+  },
+  {
+   "id": 1172450293,
+   "name": "Shroud Sand",
+   "page": "items/materials/shroud-sand-1172450293.md",
+   "json": "items/materials/shroud-sand-1172450293.json"
+  },
+  {
+   "id": 3587974368,
+   "name": "Sand Throne",
+   "page": "items/buildtools/sand-throne-3587974368.md",
+   "json": "items/buildtools/sand-throne-3587974368.json"
+  },
+  {
+   "id": 2003933910,
+   "name": "Sandstone Brazier",
+   "page": "items/buildtools/sandstone-brazier-2003933910.md",
+   "json": "items/buildtools/sandstone-brazier-2003933910.json"
+  },
+  {
+   "id": 1631158255,
+   "name": "Lantern",
+   "page": "items/buildtools/lantern-1631158255.md",
+   "json": "items/buildtools/lantern-1631158255.json"
+  },
+  {
+   "id": 2439362338,
+   "name": "Sandstone Fence",
+   "page": "items/buildtools/sandstone-fence-2439362338.md",
+   "json": "items/buildtools/sandstone-fence-2439362338.json"
+  },
+  {
+   "id": 989071130,
+   "name": "Sandstone Fence Corner",
+   "page": "items/buildtools/sandstone-fence-corner-989071130.md",
+   "json": "items/buildtools/sandstone-fence-corner-989071130.json"
+  },
+  {
+   "id": 4056696698,
+   "name": "Desert Rubble",
+   "page": "items/materials/desert-rubble-4056696698.md",
+   "json": "items/materials/desert-rubble-4056696698.json"
+  },
+  {
+   "id": 437915741,
+   "name": "Ornate Iron Door",
+   "page": "items/buildtools/ornate-iron-door-437915741.md",
+   "json": "items/buildtools/ornate-iron-door-437915741.json"
+  }
+ ],
+ "page": "items/materials/sandstone-1401630464.md"
+}

@@ -1,0 +1,66 @@
+{
+ "id": 2352305513,
+ "name": "Fish Teeth",
+ "internalName": "Material_T6_Fish_Teeth",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2352305513.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Fish Teeth",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2120746103,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 780626079,
+      "name": "Fish epic 02 name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 471470231,
+   "name": "Epic Fishing Bait I",
+   "page": "items/ammunition/epic-fishing-bait-i-471470231.md",
+   "json": "items/ammunition/epic-fishing-bait-i-471470231.json"
+  },
+  {
+   "id": 1313427371,
+   "name": "Rare Bait",
+   "page": "items/ammunition/rare-bait-1313427371.md",
+   "json": "items/ammunition/rare-bait-1313427371.json"
+  }
+ ],
+ "page": "items/materials/fish-teeth-2352305513.md"
+}

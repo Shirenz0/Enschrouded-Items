@@ -17,4 +17,4 @@ Snow-covered mountains and frozen lakes. A shame the Dragon youngling, or the "w
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](albaneve-summits-miniature-piece-2870560219.json)

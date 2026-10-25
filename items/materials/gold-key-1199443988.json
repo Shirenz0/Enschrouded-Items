@@ -1,0 +1,25 @@
+{
+ "id": 1199443988,
+ "name": "Gold Key",
+ "internalName": "Key_Gold01",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5,
+ "image": "images/icons/1199443988.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Opens doors of import.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/gold-key-1199443988.md"
+}

@@ -1,0 +1,95 @@
+{
+ "id": 2202063914,
+ "name": "Ancient Pomegranate Tarte",
+ "internalName": "Food_T7_dish_sweets_PomegranateTarte_Cake",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2202063914.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A delicious tarte with pomegranates",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 600000,
+    "display": "10:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 75,
+    "display": "75",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 824280617,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3614911410,
+      "name": "Shortcrust Pastry Base",
+      "page": "items/materials/shortcrust-pastry-base-3614911410.md",
+      "json": "items/materials/shortcrust-pastry-base-3614911410.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1321928315,
+      "name": "Ancient \"Pomegranate\"",
+      "page": "items/consumables/ancient-pomegranate-1321928315.md",
+      "json": "items/consumables/ancient-pomegranate-1321928315.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3130551475,
+      "name": "Coconut Milk",
+      "page": "items/consumables/coconut-milk-3130551475.md",
+      "json": "items/consumables/coconut-milk-3130551475.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1800945978,
+      "name": "Sugar",
+      "page": "items/consumables/sugar-1800945978.md",
+      "json": "items/consumables/sugar-1800945978.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1896276940,
+      "name": "Eggs",
+      "page": "items/consumables/eggs-1896276940.md",
+      "json": "items/consumables/eggs-1896276940.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/ancient-pomegranate-tarte-2202063914.md"
+}

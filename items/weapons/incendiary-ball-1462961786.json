@@ -1,0 +1,79 @@
+{
+ "id": 1462961786,
+ "name": "Incendiary Ball",
+ "internalName": "Consumable_Grenade_Fire_T5",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 20,
+ "image": "images/icons/1462961786.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This ball contains a highly flamable liquid, which will cover an area in fire.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": {
+  "page": "objects/weapons/incendiary-ball.md",
+  "json": "objects/weapons/incendiary-ball.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2715671559,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 887761434,
+      "name": "Flammable Goo",
+      "page": "items/materials/flammable-goo-887761434.md",
+      "json": "items/materials/flammable-goo-887761434.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/incendiary-ball-1462961786.md"
+}

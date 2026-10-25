@@ -1,0 +1,85 @@
+{
+ "id": 16567466,
+ "name": "Meat Skewer with Forest Beet",
+ "internalName": "_Food_T2_dish_vegetable_ForestBeetSkewer",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/16567466.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "With just some meat, a forest beet, and a small fire, you can make this nutritious skewer anywhere and at any time.",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 2100000,
+    "display": "35:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 197117248,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3031557010,
+      "name": "Raw Meat and Forest Beet Skewer",
+      "page": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.md",
+      "json": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/meat-skewer-with-forest-beet-16567466.md"
+}

@@ -22,4 +22,4 @@ A strange wand which was covered by ashes. Its body bends and twists, but never 
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](cryptic-wand.json)

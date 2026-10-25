@@ -1,0 +1,121 @@
+{
+ "id": 4073230411,
+ "name": "Lord Vorgoth's Sword",
+ "internalName": "Craft_Weapon_T6_2H_Lore_GreatSwordEpic_Ministory_20",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/4073230411.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/lord-vorgoth-s-sword.md",
+  "json": "objects/weapons/lord-vorgoth-s-sword.json",
+  "versions": 3
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Brutal",
+   "effect": "+22 Brutal"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2421965749,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1476017101,
+      "name": "Aquamarine",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/lord-vorgoth-s-sword-4073230411.md"
+}

@@ -17,4 +17,4 @@ The rings of a planetarium. Find all pieces to combine them in a showcase model 
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](planetarium-rings-middle-4255929710.json)

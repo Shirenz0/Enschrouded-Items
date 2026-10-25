@@ -1,0 +1,70 @@
+{
+ "id": 2564145075,
+ "name": "Showcase Skeletons 3 small and 2 medium slots",
+ "internalName": "Prop_Collection_02_Skeletons_Showcase_3S2MSlot",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2564145075.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This is a showcase for Collection Items you find in the Hollow Halls.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4113887609,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2149011961,
+      "name": "Glow Dirt Green",
+      "page": "items/materials/glow-dirt-green-2149011961.md",
+      "json": "items/materials/glow-dirt-green-2149011961.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 16,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.md"
+}

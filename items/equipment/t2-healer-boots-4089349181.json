@@ -1,0 +1,116 @@
+{
+ "id": 4089349181,
+ "name": "T2 Healer Boots",
+ "internalName": "Armor_T2_Mage_Healer_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/4089349181.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "No need to keep them clean and neat. They will get bloody.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-healer-boots.md",
+  "json": "objects/equipment/t2-healer-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+8 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Righteous Fire",
+   "effect": "Increases the skill level of Righteous Fire by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1402508004,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 291752398,
+      "name": "Reptile Leather",
+      "page": "items/materials/reptile-leather-291752398.md",
+      "json": "items/materials/reptile-leather-291752398.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1284326318,
+      "name": "Brittle Shroud Petals",
+      "page": "items/materials/brittle-shroud-petals-1284326318.md",
+      "json": "items/materials/brittle-shroud-petals-1284326318.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-healer-boots-4089349181.md"
+}

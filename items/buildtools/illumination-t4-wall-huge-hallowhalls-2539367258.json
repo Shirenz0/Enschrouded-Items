@@ -1,0 +1,106 @@
+{
+ "id": 2539367258,
+ "name": "Illumination T4 Wall Huge HallowHalls",
+ "internalName": "Prop_Decoration_Comfort_T4_Illumination_Wall_HallowHalls_Huge",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2539367258.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An illumination item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Illumination",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Illumination",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1249424513,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 2617088387,
+       "name": "T2 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1453689781,
+       "name": "T3 Green essence",
+       "page": "items/materials/t3-green-essence-1453689781.md",
+       "json": "items/materials/t3-green-essence-1453689781.json"
+      },
+      {
+       "id": 3236482539,
+       "name": "T4 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1903438107,
+       "name": "T5 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 4005698976,
+       "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+       "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+       "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/illumination-t4-wall-huge-hallowhalls-2539367258.md"
+}

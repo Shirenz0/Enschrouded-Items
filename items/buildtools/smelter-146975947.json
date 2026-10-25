@@ -1,0 +1,52 @@
+{
+ "id": 146975947,
+ "name": "Smelter",
+ "internalName": "Prop_Production_T2_Smelter",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/146975947.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Able to melt and alloy metals, the Smelter is a valuable machinery.",
+ "lore": "Furniture",
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2585070704,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 50,
+     "item": {
+      "id": 1261933427,
+      "name": "Fired Brick",
+      "page": "items/materials/fired-brick-1261933427.md",
+      "json": "items/materials/fired-brick-1261933427.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4111981896,
+      "name": "Crucible",
+      "page": "items/buildtools/crucible-4111981896.md",
+      "json": "items/buildtools/crucible-4111981896.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/smelter-146975947.md"
+}

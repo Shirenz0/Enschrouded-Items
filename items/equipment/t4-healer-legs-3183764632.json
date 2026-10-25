@@ -1,0 +1,131 @@
+{
+ "id": 3183764632,
+ "name": "T4 Healer Legs",
+ "internalName": "Armor_T4_Mage_Healer_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3183764632.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Remarkable pants. What makes them remarkable? The wearer, mostly.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-healer-legs.md",
+  "json": "objects/equipment/t4-healer-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Revive Duration",
+    "value": 14,
+    "display": "0.014 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Healing Revive",
+   "effect": "Increases the skill level of Healing Revive by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Healing Revive",
+   "effect": "Increases the skill level of Healing Revive by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4270936961,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 4079068070,
+      "name": "Sanddigger Scales",
+      "page": "items/materials/sanddigger-scales-4079068070.md",
+      "json": "items/materials/sanddigger-scales-4079068070.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2975006357,
+      "name": "Monstrous Ribs",
+      "page": "items/materials/monstrous-ribs-2975006357.md",
+      "json": "items/materials/monstrous-ribs-2975006357.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2287874170,
+      "name": "Green Fabric",
+      "page": "items/materials/green-fabric-2287874170.md",
+      "json": "items/materials/green-fabric-2287874170.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 764289975,
+      "name": "Aloe",
+      "page": "items/materials/aloe-764289975.md",
+      "json": "items/materials/aloe-764289975.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 4091795277,
+      "name": "Brittle Shroud Flakes",
+      "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+      "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-healer-legs-3183764632.md"
+}

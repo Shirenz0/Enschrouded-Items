@@ -1,0 +1,43 @@
+{
+ "id": 3039294020,
+ "name": "Large Ancient Temple Window Frame",
+ "internalName": "Prop_Decoration_T7_Window_Ancient_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3039294020.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1041563500,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/large-ancient-temple-window-frame-3039294020.md"
+}

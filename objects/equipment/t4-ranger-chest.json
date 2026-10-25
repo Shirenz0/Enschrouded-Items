@@ -1,0 +1,35 @@
+{
+ "name": "T4 Ranger Chest",
+ "category": "Equipment",
+ "image": "images/icons/960184859.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1712284640,
+   "name": "T4 Ranger Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1712284640.png",
+   "page": "items/equipment/t4-ranger-chest-1712284640.md",
+   "json": "items/equipment/t4-ranger-chest-1712284640.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 960184859,
+   "name": "T4 Ranger Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/960184859.png",
+   "page": "items/equipment/t4-ranger-chest-960184859.md",
+   "json": "items/equipment/t4-ranger-chest-960184859.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-ranger-chest.md"
+}

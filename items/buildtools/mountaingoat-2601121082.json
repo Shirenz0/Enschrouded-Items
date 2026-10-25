@@ -1,0 +1,25 @@
+{
+ "id": 2601121082,
+ "name": "Mountaingoat",
+ "internalName": "Animal_Farming_Mountaingoat",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2601121082.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This animal can supply you especially fatty mountaingoat milk.",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/mountaingoat-2601121082.md"
+}

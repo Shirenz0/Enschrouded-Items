@@ -1,0 +1,50 @@
+{
+ "id": 1827887436,
+ "name": "Beach Attire chest",
+ "internalName": "Vanity_T6_BeachAttire_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1827887436.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "BeachAttire chest desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/beach-attire-chest.md",
+  "json": "objects/equipment/beach-attire-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest"
+ },
+ "recipes": [
+  {
+   "recipeId": 2978954617,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/beach-attire-chest-1827887436.md"
+}

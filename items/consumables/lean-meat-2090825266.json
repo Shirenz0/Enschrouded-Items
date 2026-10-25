@@ -1,0 +1,67 @@
+{
+ "id": 2090825266,
+ "name": "Lean Meat",
+ "internalName": "Food_T1_processed_meat_Grilled_LeanMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2090825266.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Delicious, but not very filling. \n\nIncreases the constitution of the user by a small margin.",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1200000,
+    "display": "20:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1962423651,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1492892444,
+      "name": "Raw Lean Meat",
+      "page": "items/consumables/raw-lean-meat-1492892444.md",
+      "json": "items/consumables/raw-lean-meat-1492892444.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/lean-meat-2090825266.md"
+}

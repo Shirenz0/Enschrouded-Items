@@ -1,0 +1,67 @@
+{
+ "id": 294915422,
+ "name": "Grilled Crab Meat",
+ "internalName": "Food_T6_processed_meat_grilled_CrabMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/294915422.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 grilled crab meat desc",
+ "lore": null,
+ "whereToFind": "Seafood Grill",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4147413440,
+   "station": "Medieval Grill",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3869409947,
+      "name": "Crab Meat",
+      "page": "items/consumables/crab-meat-3869409947.md",
+      "json": "items/consumables/crab-meat-3869409947.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-crab-meat-294915422.md"
+}

@@ -1,0 +1,116 @@
+{
+ "id": 4040241990,
+ "name": "T2 Healer Helmet",
+ "internalName": "Armor_T2_Mage_Healer_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/4040241990.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A headwrap which helps to protect from the inevidable. Only a little bit, though.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-healer-helmet.md",
+  "json": "objects/equipment/t2-healer-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Revive Duration",
+    "value": -500,
+    "display": "-0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+8 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 593146977,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 4229884102,
+      "name": "Shroud Mush",
+      "page": "items/materials/shroud-mush-4229884102.md",
+      "json": "items/materials/shroud-mush-4229884102.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-healer-helmet-4040241990.md"
+}

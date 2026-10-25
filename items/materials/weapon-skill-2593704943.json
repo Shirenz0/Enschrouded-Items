@@ -1,0 +1,29 @@
+{
+ "id": 2593704943,
+ "name": "Weapon Skill",
+ "internalName": "Ability_SpecialAbility_Tools",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/materials.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/materials/weapon-skill.md",
+  "json": "objects/materials/weapon-skill.json",
+  "versions": 2
+ },
+ "page": "items/materials/weapon-skill-2593704943.md"
+}

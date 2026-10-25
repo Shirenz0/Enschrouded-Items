@@ -29,4 +29,4 @@ Crafting, Huntress
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](hand-spindle-1594637042.json)

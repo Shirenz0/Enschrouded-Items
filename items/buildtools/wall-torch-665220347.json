@@ -1,0 +1,75 @@
+{
+ "id": 665220347,
+ "name": "Wall Torch",
+ "internalName": "Prop_Decoration_Comfort_T3_IlluminationWall",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/665220347.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An illumination item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Illumination",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/wall-torch.md",
+  "json": "objects/buildtools/wall-torch.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Illumination",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3741174980,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/wall-torch-665220347.md"
+}

@@ -31,4 +31,4 @@ A severed Werewolf Head. Collect multiple to craft the iron trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-werewolf-trophy-4057512959.json)

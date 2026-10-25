@@ -17,4 +17,4 @@ Simple leather boots - a perfect fit.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](alchemist-apprentice-boots.json)

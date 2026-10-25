@@ -1,0 +1,528 @@
+{
+ "id": 2246309017,
+ "name": "Glass",
+ "internalName": "Material_T4_Glass",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2246309017.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wondrous material. It is transparent and offers many usecases, especially in building and crafting!",
+ "lore": null,
+ "whereToFind": "Smelter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3241707533,
+   "station": "Blast Furnace",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 40,
+     "oneOf": [
+      {
+       "id": 2493843175,
+       "name": "Sand",
+       "page": "items/materials/sand-2493843175.md",
+       "json": "items/materials/sand-2493843175.json"
+      },
+      {
+       "id": 3489782185,
+       "name": "Fine Sand",
+       "page": "items/materials/fine-sand-3489782185.md",
+       "json": "items/materials/fine-sand-3489782185.json"
+      },
+      {
+       "id": 2181045178,
+       "name": "T6 Wetlands Sand",
+       "page": "items/materials/t6-wetlands-sand-2181045178.md",
+       "json": "items/materials/t6-wetlands-sand-2181045178.json"
+      },
+      {
+       "id": 3899759098,
+       "name": "T7 AncientLand Sand",
+       "page": "items/materials/t7-ancientland-sand-3899759098.md",
+       "json": "items/materials/t7-ancientland-sand-3899759098.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 20
+  },
+  {
+   "recipeId": 1155995043,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2640854911,
+      "name": "Glass Shards",
+      "page": "items/materials/glass-shards-2640854911.md",
+      "json": "items/materials/glass-shards-2640854911.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2525770388,
+   "station": "Smelter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 30,
+     "oneOf": [
+      {
+       "id": 2493843175,
+       "name": "Sand",
+       "page": "items/materials/sand-2493843175.md",
+       "json": "items/materials/sand-2493843175.json"
+      },
+      {
+       "id": 3489782185,
+       "name": "Fine Sand",
+       "page": "items/materials/fine-sand-3489782185.md",
+       "json": "items/materials/fine-sand-3489782185.json"
+      },
+      {
+       "id": 2181045178,
+       "name": "T6 Wetlands Sand",
+       "page": "items/materials/t6-wetlands-sand-2181045178.md",
+       "json": "items/materials/t6-wetlands-sand-2181045178.json"
+      },
+      {
+       "id": 3899759098,
+       "name": "T7 AncientLand Sand",
+       "page": "items/materials/t7-ancientland-sand-3899759098.md",
+       "json": "items/materials/t7-ancientland-sand-3899759098.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3288587434,
+   "name": "Yellow Glow Block",
+   "page": "items/buildtools/yellow-glow-block-3288587434.md",
+   "json": "items/buildtools/yellow-glow-block-3288587434.json"
+  },
+  {
+   "id": 3133483038,
+   "name": "Eternal Shock Arrow I",
+   "page": "items/ammunition/eternal-shock-arrow-i-3133483038.md",
+   "json": "items/ammunition/eternal-shock-arrow-i-3133483038.json"
+  },
+  {
+   "id": 1937493913,
+   "name": "T4 Eternal Shock Wisp I",
+   "page": "items/ammunition/t4-eternal-shock-wisp-i-1937493913.md",
+   "json": "items/ammunition/t4-eternal-shock-wisp-i-1937493913.json"
+  },
+  {
+   "id": 4291668892,
+   "name": "T4 Eternal Acid Cone I",
+   "page": "items/ammunition/t4-eternal-acid-cone-i-4291668892.md",
+   "json": "items/ammunition/t4-eternal-acid-cone-i-4291668892.json"
+  },
+  {
+   "id": 1750422149,
+   "name": "Laboratory",
+   "page": "items/buildtools/laboratory-1750422149.md",
+   "json": "items/buildtools/laboratory-1750422149.json"
+  },
+  {
+   "id": 1462961786,
+   "name": "Incendiary Ball",
+   "page": "items/weapons/incendiary-ball-1462961786.md",
+   "json": "items/weapons/incendiary-ball-1462961786.json"
+  },
+  {
+   "id": 3233786830,
+   "name": "Darya's Remorse",
+   "page": "items/weapons/darya-s-remorse-3233786830.md",
+   "json": "items/weapons/darya-s-remorse-3233786830.json"
+  },
+  {
+   "id": 3848774794,
+   "name": "Electric Initialiser",
+   "page": "items/weapons/electric-initialiser-3848774794.md",
+   "json": "items/weapons/electric-initialiser-3848774794.json"
+  },
+  {
+   "id": 62683222,
+   "name": "Proto Bone-Bender",
+   "page": "items/weapons/proto-bone-bender-62683222.md",
+   "json": "items/weapons/proto-bone-bender-62683222.json"
+  },
+  {
+   "id": 397149581,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-397149581.md",
+   "json": "items/weapons/t1-lore-wand-397149581.json"
+  },
+  {
+   "id": 2053280664,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-2053280664.md",
+   "json": "items/weapons/cryptic-wand-2053280664.json"
+  },
+  {
+   "id": 1069361064,
+   "name": "Shroud Weaver",
+   "page": "items/weapons/shroud-weaver-1069361064.md",
+   "json": "items/weapons/shroud-weaver-1069361064.json"
+  },
+  {
+   "id": 3419379175,
+   "name": "Astronomy Standing Lamp",
+   "page": "items/buildtools/astronomy-standing-lamp-3419379175.md",
+   "json": "items/buildtools/astronomy-standing-lamp-3419379175.json"
+  },
+  {
+   "id": 4055833197,
+   "name": "Astronomy Wall Lamp",
+   "page": "items/buildtools/astronomy-wall-lamp-4055833197.md",
+   "json": "items/buildtools/astronomy-wall-lamp-4055833197.json"
+  },
+  {
+   "id": 2703911785,
+   "name": "Astronomy Ceiling Lamp",
+   "page": "items/buildtools/astronomy-ceiling-lamp-2703911785.md",
+   "json": "items/buildtools/astronomy-ceiling-lamp-2703911785.json"
+  },
+  {
+   "id": 4160439418,
+   "name": "Ancient Ground Lamp Small",
+   "page": "items/buildtools/ancient-ground-lamp-small-4160439418.md",
+   "json": "items/buildtools/ancient-ground-lamp-small-4160439418.json"
+  },
+  {
+   "id": 2934669936,
+   "name": "Ancient Ground Lamp Tall",
+   "page": "items/buildtools/ancient-ground-lamp-tall-2934669936.md",
+   "json": "items/buildtools/ancient-ground-lamp-tall-2934669936.json"
+  },
+  {
+   "id": 3711901465,
+   "name": "Ancient Wall Lamp",
+   "page": "items/buildtools/ancient-wall-lamp-3711901465.md",
+   "json": "items/buildtools/ancient-wall-lamp-3711901465.json"
+  },
+  {
+   "id": 124010475,
+   "name": "Ancient Ceiling Lamp",
+   "page": "items/buildtools/ancient-ceiling-lamp-124010475.md",
+   "json": "items/buildtools/ancient-ceiling-lamp-124010475.json"
+  },
+  {
+   "id": 678777236,
+   "name": "Throneroom Floor Lamp",
+   "page": "items/buildtools/throneroom-floor-lamp-678777236.md",
+   "json": "items/buildtools/throneroom-floor-lamp-678777236.json"
+  },
+  {
+   "id": 2079216961,
+   "name": "Throneroom Wall Lamp",
+   "page": "items/buildtools/throneroom-wall-lamp-2079216961.md",
+   "json": "items/buildtools/throneroom-wall-lamp-2079216961.json"
+  },
+  {
+   "id": 2309442083,
+   "name": "Blue Pendant Light I",
+   "page": "items/buildtools/blue-pendant-light-i-2309442083.md",
+   "json": "items/buildtools/blue-pendant-light-i-2309442083.json"
+  },
+  {
+   "id": 3057351533,
+   "name": "Orange Pendant Light I",
+   "page": "items/buildtools/orange-pendant-light-i-3057351533.md",
+   "json": "items/buildtools/orange-pendant-light-i-3057351533.json"
+  },
+  {
+   "id": 2198431481,
+   "name": "Purple Pendant Light I",
+   "page": "items/buildtools/purple-pendant-light-i-2198431481.md",
+   "json": "items/buildtools/purple-pendant-light-i-2198431481.json"
+  },
+  {
+   "id": 939235192,
+   "name": "Blue Pendant Light II",
+   "page": "items/buildtools/blue-pendant-light-ii-939235192.md",
+   "json": "items/buildtools/blue-pendant-light-ii-939235192.json"
+  },
+  {
+   "id": 193218758,
+   "name": "Orange Pendant Light II",
+   "page": "items/buildtools/orange-pendant-light-ii-193218758.md",
+   "json": "items/buildtools/orange-pendant-light-ii-193218758.json"
+  },
+  {
+   "id": 3782344101,
+   "name": "Purple Pendant Light II",
+   "page": "items/buildtools/purple-pendant-light-ii-3782344101.md",
+   "json": "items/buildtools/purple-pendant-light-ii-3782344101.json"
+  },
+  {
+   "id": 14979379,
+   "name": "Blue Wall Light I",
+   "page": "items/buildtools/blue-wall-light-i-14979379.md",
+   "json": "items/buildtools/blue-wall-light-i-14979379.json"
+  },
+  {
+   "id": 853154934,
+   "name": "Orange Wall Light I",
+   "page": "items/buildtools/orange-wall-light-i-853154934.md",
+   "json": "items/buildtools/orange-wall-light-i-853154934.json"
+  },
+  {
+   "id": 1335353289,
+   "name": "Purple Wall Light I",
+   "page": "items/buildtools/purple-wall-light-i-1335353289.md",
+   "json": "items/buildtools/purple-wall-light-i-1335353289.json"
+  },
+  {
+   "id": 3687127031,
+   "name": "Blue Wall Light II",
+   "page": "items/buildtools/blue-wall-light-ii-3687127031.md",
+   "json": "items/buildtools/blue-wall-light-ii-3687127031.json"
+  },
+  {
+   "id": 3679359640,
+   "name": "Orange Wall Light II",
+   "page": "items/buildtools/orange-wall-light-ii-3679359640.md",
+   "json": "items/buildtools/orange-wall-light-ii-3679359640.json"
+  },
+  {
+   "id": 4278796376,
+   "name": "Purple Wall Light II",
+   "page": "items/buildtools/purple-wall-light-ii-4278796376.md",
+   "json": "items/buildtools/purple-wall-light-ii-4278796376.json"
+  },
+  {
+   "id": 1747355696,
+   "name": "Blue Floor Light I",
+   "page": "items/buildtools/blue-floor-light-i-1747355696.md",
+   "json": "items/buildtools/blue-floor-light-i-1747355696.json"
+  },
+  {
+   "id": 417177465,
+   "name": "Orange Floor Light I",
+   "page": "items/buildtools/orange-floor-light-i-417177465.md",
+   "json": "items/buildtools/orange-floor-light-i-417177465.json"
+  },
+  {
+   "id": 517190819,
+   "name": "Purple Floor Light I",
+   "page": "items/buildtools/purple-floor-light-i-517190819.md",
+   "json": "items/buildtools/purple-floor-light-i-517190819.json"
+  },
+  {
+   "id": 2925532764,
+   "name": "Blue Floor Light II",
+   "page": "items/buildtools/blue-floor-light-ii-2925532764.md",
+   "json": "items/buildtools/blue-floor-light-ii-2925532764.json"
+  },
+  {
+   "id": 4083221254,
+   "name": "Orange Floor Light II",
+   "page": "items/buildtools/orange-floor-light-ii-4083221254.md",
+   "json": "items/buildtools/orange-floor-light-ii-4083221254.json"
+  },
+  {
+   "id": 1455205368,
+   "name": "Purple Floor Light II",
+   "page": "items/buildtools/purple-floor-light-ii-1455205368.md",
+   "json": "items/buildtools/purple-floor-light-ii-1455205368.json"
+  },
+  {
+   "id": 2605828761,
+   "name": "T5 Prop Decoration Comfort Illumination Floor (Lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-lantern-2605828761.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-lantern-2605828761.json"
+  },
+  {
+   "id": 906753878,
+   "name": "T5 Prop Decoration Comfort Illumination Ceiling (lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-ceiling-lantern-906753878.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-ceiling-lantern-906753878.json"
+  },
+  {
+   "id": 983382748,
+   "name": "T5 Prop Decoration Comfort Illumination Wall (Lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-lantern-983382748.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-lantern-983382748.json"
+  },
+  {
+   "id": 4178847220,
+   "name": "Chandelier",
+   "page": "items/buildtools/chandelier-4178847220.md",
+   "json": "items/buildtools/chandelier-4178847220.json"
+  },
+  {
+   "id": 1631158255,
+   "name": "Lantern",
+   "page": "items/buildtools/lantern-1631158255.md",
+   "json": "items/buildtools/lantern-1631158255.json"
+  },
+  {
+   "id": 2560383707,
+   "name": "Wall Lantern",
+   "page": "items/buildtools/wall-lantern-2560383707.md",
+   "json": "items/buildtools/wall-lantern-2560383707.json"
+  },
+  {
+   "id": 3011227787,
+   "name": "Table T4 large",
+   "page": "items/buildtools/table-t4-large-3011227787.md",
+   "json": "items/buildtools/table-t4-large-3011227787.json"
+  },
+  {
+   "id": 2020294526,
+   "name": "Falsk Medium",
+   "page": "items/buildtools/falsk-medium-2020294526.md",
+   "json": "items/buildtools/falsk-medium-2020294526.json"
+  },
+  {
+   "id": 1668858460,
+   "name": "Flask Small",
+   "page": "items/buildtools/flask-small-1668858460.md",
+   "json": "items/buildtools/flask-small-1668858460.json"
+  },
+  {
+   "id": 3225687185,
+   "name": "Crystal Platter",
+   "page": "items/buildtools/crystal-platter-3225687185.md",
+   "json": "items/buildtools/crystal-platter-3225687185.json"
+  },
+  {
+   "id": 4020741429,
+   "name": "Crystal Cup",
+   "page": "items/buildtools/crystal-cup-4020741429.md",
+   "json": "items/buildtools/crystal-cup-4020741429.json"
+  },
+  {
+   "id": 1444307995,
+   "name": "Crystal Bowl",
+   "page": "items/buildtools/crystal-bowl-1444307995.md",
+   "json": "items/buildtools/crystal-bowl-1444307995.json"
+  },
+  {
+   "id": 977816684,
+   "name": "Crystal Jug",
+   "page": "items/buildtools/crystal-jug-977816684.md",
+   "json": "items/buildtools/crystal-jug-977816684.json"
+  },
+  {
+   "id": 3002231083,
+   "name": "Athanor",
+   "page": "items/buildtools/athanor-3002231083.md",
+   "json": "items/buildtools/athanor-3002231083.json"
+  },
+  {
+   "id": 895710916,
+   "name": "Scientific Instruments",
+   "page": "items/buildtools/scientific-instruments-895710916.md",
+   "json": "items/buildtools/scientific-instruments-895710916.json"
+  },
+  {
+   "id": 3300071272,
+   "name": "T5 Prop Decoration Round Steel Window Large",
+   "page": "items/buildtools/t5-prop-decoration-round-steel-window-large-3300071272.md",
+   "json": "items/buildtools/t5-prop-decoration-round-steel-window-large-3300071272.json"
+  },
+  {
+   "id": 863174638,
+   "name": "T5 Prop Decoration Round Steel Window",
+   "page": "items/buildtools/t5-prop-decoration-round-steel-window-863174638.md",
+   "json": "items/buildtools/t5-prop-decoration-round-steel-window-863174638.json"
+  },
+  {
+   "id": 2712846730,
+   "name": "T5 Prop Decoration Granite Window",
+   "page": "items/buildtools/t5-prop-decoration-granite-window-2712846730.md",
+   "json": "items/buildtools/t5-prop-decoration-granite-window-2712846730.json"
+  },
+  {
+   "id": 2466361529,
+   "name": "Iron Window Frame",
+   "page": "items/buildtools/iron-window-frame-2466361529.md",
+   "json": "items/buildtools/iron-window-frame-2466361529.json"
+  },
+  {
+   "id": 484740866,
+   "name": "Large Iron Window Frame",
+   "page": "items/buildtools/large-iron-window-frame-484740866.md",
+   "json": "items/buildtools/large-iron-window-frame-484740866.json"
+  },
+  {
+   "id": 3767898883,
+   "name": "High Iron Window Frame I",
+   "page": "items/buildtools/high-iron-window-frame-i-3767898883.md",
+   "json": "items/buildtools/high-iron-window-frame-i-3767898883.json"
+  },
+  {
+   "id": 2100770641,
+   "name": "High Iron Window Frame II",
+   "page": "items/buildtools/high-iron-window-frame-ii-2100770641.md",
+   "json": "items/buildtools/high-iron-window-frame-ii-2100770641.json"
+  },
+  {
+   "id": 2927359933,
+   "name": "Small Iron Window Frame",
+   "page": "items/buildtools/small-iron-window-frame-2927359933.md",
+   "json": "items/buildtools/small-iron-window-frame-2927359933.json"
+  },
+  {
+   "id": 2046629640,
+   "name": "Iron Window Frame I",
+   "page": "items/buildtools/iron-window-frame-i-2046629640.md",
+   "json": "items/buildtools/iron-window-frame-i-2046629640.json"
+  },
+  {
+   "id": 240211609,
+   "name": "Iron Window Frame II",
+   "page": "items/buildtools/iron-window-frame-ii-240211609.md",
+   "json": "items/buildtools/iron-window-frame-ii-240211609.json"
+  }
+ ],
+ "page": "items/materials/glass-2246309017.md"
+}

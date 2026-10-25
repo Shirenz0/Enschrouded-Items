@@ -1,0 +1,51 @@
+{
+ "name": "Bone Key",
+ "category": "Tools",
+ "image": "images/icons/4053229560.png",
+ "versions": 3,
+ "sharedTexts": [],
+ "differsIn": [
+  "level range",
+  "description"
+ ],
+ "items": [
+  {
+   "id": 2361121883,
+   "name": "Bone Key",
+   "rarity": "Rare",
+   "level": "13",
+   "image": "images/icons/2361121883.png",
+   "page": "items/tools/bone-key-2361121883.md",
+   "json": "items/tools/bone-key-2361121883.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2449462227,
+   "name": "Bone Key",
+   "rarity": "Rare",
+   "level": "18",
+   "image": "images/icons/2449462227.png",
+   "page": "items/tools/bone-key-2449462227.md",
+   "json": "items/tools/bone-key-2449462227.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 4053229560,
+   "name": "Bone Key",
+   "rarity": "Rare",
+   "level": "23",
+   "image": "images/icons/4053229560.png",
+   "page": "items/tools/bone-key-4053229560.md",
+   "json": "items/tools/bone-key-4053229560.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/tools/bone-key.md"
+}

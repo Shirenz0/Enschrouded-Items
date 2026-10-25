@@ -1,0 +1,36 @@
+{
+ "name": "Flightless Redtail Pillow",
+ "category": "BuildTools",
+ "image": "images/icons/2236552740.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1568297956,
+   "name": "Flightless Redtail Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1568297956.png",
+   "page": "items/buildtools/flightless-redtail-pillow-1568297956.md",
+   "json": "items/buildtools/flightless-redtail-pillow-1568297956.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2236552740,
+   "name": "Flightless Redtail Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2236552740.png",
+   "page": "items/buildtools/flightless-redtail-pillow-2236552740.md",
+   "json": "items/buildtools/flightless-redtail-pillow-2236552740.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/flightless-redtail-pillow.md"
+}

@@ -1,0 +1,104 @@
+{
+ "id": 1162185590,
+ "name": "Fur Torso",
+ "internalName": "Armor_T0_Fur_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 4,
+  "max": 4
+ },
+ "maxStack": 1,
+ "image": "images/icons/1162185590.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Reenforced with some matal scraps for better protection.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Rage",
+   "effect": "Increases the skill level of Blood Rage by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+20 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3115927765,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 984234407,
+      "name": "Animal Fur",
+      "page": "items/materials/animal-fur-984234407.md",
+      "json": "items/materials/animal-fur-984234407.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/fur-torso-1162185590.md"
+}

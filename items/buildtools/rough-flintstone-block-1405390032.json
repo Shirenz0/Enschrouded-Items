@@ -1,0 +1,51 @@
+{
+ "id": 1405390032,
+ "name": "Rough Flintstone Block",
+ "internalName": "Block_T1_Flintstone_Rough_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1405390032.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These rough stones with a sligh shimmer can create a rustic building style.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 263618248,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2612266571,
+   "name": "Secret Flintstone Door",
+   "page": "items/buildtools/secret-flintstone-door-2612266571.md",
+   "json": "items/buildtools/secret-flintstone-door-2612266571.json"
+  }
+ ],
+ "page": "items/buildtools/rough-flintstone-block-1405390032.md"
+}

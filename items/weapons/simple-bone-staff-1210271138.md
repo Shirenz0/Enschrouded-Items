@@ -27,4 +27,4 @@ A simple magical staff that is able to fire spell charges. The spell charges nee
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](simple-bone-staff-1210271138.json)

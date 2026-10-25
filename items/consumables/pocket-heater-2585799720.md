@@ -35,4 +35,4 @@ Crafting, Huntress
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](pocket-heater-2585799720.json)

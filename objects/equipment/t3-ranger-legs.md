@@ -17,4 +17,4 @@ Nothing is more suitable for a long prowl than this set of pants.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-ranger-legs.json)

@@ -30,4 +30,4 @@ Offers a small prayer to the flame, that increases your characters Spell Damage 
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](prayer-of-the-flame-scroll-2058567631.json)

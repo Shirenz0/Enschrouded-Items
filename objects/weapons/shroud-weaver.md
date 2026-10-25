@@ -20,4 +20,4 @@ A malicious staff that effortlessly intertwines the strings of fate with the Shr
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](shroud-weaver.json)

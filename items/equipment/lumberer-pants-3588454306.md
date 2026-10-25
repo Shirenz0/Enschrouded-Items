@@ -27,4 +27,4 @@ Ordinary leather pants.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](lumberer-pants-3588454306.json)

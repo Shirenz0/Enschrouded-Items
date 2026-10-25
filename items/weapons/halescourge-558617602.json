@@ -1,0 +1,71 @@
+{
+ "id": 558617602,
+ "name": "Halescourge",
+ "internalName": "Weapon_T2_1H_Lore_SwordEpic_Ministory_04",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/558617602.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A blade that's cold tot he touch. It weighs heavily on the mind.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/halescourge.md",
+  "json": "objects/weapons/halescourge.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Ice": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/halescourge-558617602.md"
+}

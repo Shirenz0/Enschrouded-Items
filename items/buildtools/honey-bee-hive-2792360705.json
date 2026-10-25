@@ -1,0 +1,61 @@
+{
+ "id": 2792360705,
+ "name": "Honey Bee Hive",
+ "internalName": "Prop_Production_T4_Beehive",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2792360705.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "With patience anything can be domesticated. You can use it to produce Honey and Wax.",
+ "lore": "Furniture",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4236316752,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/honey-bee-hive-2792360705.md"
+}

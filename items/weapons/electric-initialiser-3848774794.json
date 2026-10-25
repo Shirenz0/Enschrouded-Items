@@ -1,0 +1,133 @@
+{
+ "id": 3848774794,
+ "name": "Electric Initialiser",
+ "internalName": "Craft_Weapon_T7_1H_Lore_Wand_ministory_25_lightning",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/3848774794.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An electrifying wand that was previously used to start engines and machinery in an instant.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/electric-initialiser.md",
+  "json": "objects/weapons/electric-initialiser.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Mana Leech",
+   "effect": "On Hit Leech %Percentage% Damage as Mana"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+9 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2950307876,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/electric-initialiser-3848774794.md"
+}

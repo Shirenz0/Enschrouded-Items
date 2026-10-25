@@ -1,0 +1,102 @@
+{
+ "id": 3833476832,
+ "name": "Eternal Frost Arrow III",
+ "internalName": "Ammo_T7_Arrow_Magic_Ice_Eternal_lvl45",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/3833476832.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical arrow that is not used up when shot.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 38,
+    "display": "38",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-6 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-6 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+2 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Glacial",
+   "effect": "+10 Glacial"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2885562250,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 4199799645,
+      "name": "T5 Ice",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3084703100,
+      "name": "Archaic Core",
+      "page": "items/materials/archaic-core-3084703100.md",
+      "json": "items/materials/archaic-core-3084703100.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/eternal-frost-arrow-iii-3833476832.md"
+}

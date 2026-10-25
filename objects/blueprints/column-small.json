@@ -1,0 +1,33 @@
+{
+ "name": "Column Small",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1337014067,
+   "name": "Column Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/column-small-1337014067.md",
+   "json": "items/blueprints/column-small-1337014067.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2223732257,
+   "name": "Column Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/column-small-2223732257.md",
+   "json": "items/blueprints/column-small-2223732257.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/column-small.md"
+}

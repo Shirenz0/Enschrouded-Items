@@ -1,0 +1,104 @@
+{
+ "name": "Fenrig's Axe",
+ "category": "Weapons",
+ "image": "images/icons/2396593895.png",
+ "versions": 8,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 462958958,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/462958958.png",
+   "page": "items/weapons/fenrig-s-axe-462958958.md",
+   "json": "items/weapons/fenrig-s-axe-462958958.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2440163799,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/2440163799.png",
+   "page": "items/weapons/fenrig-s-axe-2440163799.md",
+   "json": "items/weapons/fenrig-s-axe-2440163799.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3530269879,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/3530269879.png",
+   "page": "items/weapons/fenrig-s-axe-3530269879.md",
+   "json": "items/weapons/fenrig-s-axe-3530269879.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1853225094,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1853225094.png",
+   "page": "items/weapons/fenrig-s-axe-1853225094.md",
+   "json": "items/weapons/fenrig-s-axe-1853225094.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 65433484,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/65433484.png",
+   "page": "items/weapons/fenrig-s-axe-65433484.md",
+   "json": "items/weapons/fenrig-s-axe-65433484.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1735564804,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1735564804.png",
+   "page": "items/weapons/fenrig-s-axe-1735564804.md",
+   "json": "items/weapons/fenrig-s-axe-1735564804.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 431218523,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/431218523.png",
+   "page": "items/weapons/fenrig-s-axe-431218523.md",
+   "json": "items/weapons/fenrig-s-axe-431218523.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2396593895,
+   "name": "Fenrig's Axe",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/2396593895.png",
+   "page": "items/weapons/fenrig-s-axe-2396593895.md",
+   "json": "items/weapons/fenrig-s-axe-2396593895.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/fenrig-s-axe.md"
+}

@@ -17,4 +17,4 @@ A sturdy helmet protects the wearer from slashes, cuts and scars.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-rogue-helmet.json)

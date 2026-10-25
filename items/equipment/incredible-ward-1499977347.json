@@ -1,0 +1,91 @@
+{
+ "id": 1499977347,
+ "name": "Incredible Ward",
+ "internalName": "Ward_T7_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/1499977347.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "ward t7 desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/incredible-ward.md",
+  "json": "objects/equipment/incredible-ward.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Blunt Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cut Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fire Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Eternal Spark",
+   "effect": "Increases the skill level of Eternal Spark by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Shroud Resistance",
+   "effect": "Increases the skill level of Shroud Resistance by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Arcane Deflection",
+   "effect": "Increases the skill level of Arcane Deflection by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Unity",
+   "effect": "Increases the skill level of Unity by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/incredible-ward-1499977347.md"
+}

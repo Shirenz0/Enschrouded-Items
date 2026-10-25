@@ -25,4 +25,4 @@ Nomad Highlands and Kindlewastes Fell Enemies
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](critter-glands-1693311429.json)

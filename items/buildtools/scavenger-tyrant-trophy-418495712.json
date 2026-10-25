@@ -1,0 +1,71 @@
+{
+ "id": 418495712,
+ "name": "Scavenger Tyrant Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Scavenger_Tyrant_Heavy_01_wood",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/418495712.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Scavenger Tyrant Head. Collect multiple to craft the trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 392932147,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3517430459,
+      "name": "Scavenger Tyrant Head",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/scavenger-tyrant-trophy-418495712.md"
+}

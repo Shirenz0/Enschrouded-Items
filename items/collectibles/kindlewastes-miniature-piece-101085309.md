@@ -17,4 +17,4 @@ Sandy dunes and rugged cliffs. Orindell wasn't always like this. How would this 
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](kindlewastes-miniature-piece-101085309.json)

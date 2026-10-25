@@ -1,0 +1,59 @@
+{
+ "id": 960232612,
+ "name": "Gem of Meteoric Descent",
+ "internalName": "T5_Gem_GemOfMeteoricDescent",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/960232612.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Landing after gliding for same time creates an explosion that deals %k fire damage and leaves behind a trail of fire that applies  burning to enemies, dealing %k per second for %k. After the initial impact, your attacks deal %k additional fire damage for %k.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Burning Damage per second",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 3000,
+    "display": "3 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Impact Fire Damage",
+    "value": 7,
+    "display": "7",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Additional Weapon Fire Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Buff Duration",
+    "value": 5000,
+    "display": "5 s",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-meteoric-descent-960232612.md"
+}

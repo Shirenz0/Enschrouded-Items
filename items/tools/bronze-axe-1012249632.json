@@ -1,0 +1,98 @@
+{
+ "id": 1012249632,
+ "name": "Bronze Axe",
+ "internalName": "Tool_T3_Axe_Bronze_Steppes",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1012249632.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An Axe with a bronze head. More sturdy than the Copper Version.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Lumberjack",
+   "effect": "Increases the skill level of Lumberjack by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 812551393,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/bronze-axe-1012249632.md"
+}

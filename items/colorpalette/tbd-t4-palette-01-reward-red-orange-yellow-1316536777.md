@@ -25,4 +25,4 @@ Coloring Station
 
 ---
 
-[← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)
+[← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md) · [JSON](tbd-t4-palette-01-reward-red-orange-yellow-1316536777.json)

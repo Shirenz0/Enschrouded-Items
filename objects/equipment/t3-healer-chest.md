@@ -17,4 +17,4 @@ Classic herbalist garb with widened pockets for storing healing tinctures.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-healer-chest.json)

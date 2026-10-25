@@ -1,0 +1,107 @@
+{
+ "id": 4124427746,
+ "name": "T6 Taro Root Curry",
+ "internalName": "Food_T6_dish_vegetable_TaroCurry",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4124427746.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 taro root curry desc",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3300000,
+    "display": "55:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2066452404,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2417552370,
+      "name": "Raw Taro",
+      "page": "items/consumables/raw-taro-2417552370.md",
+      "json": "items/consumables/raw-taro-2417552370.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3688068238,
+      "name": "Cooked Rice",
+      "page": "items/consumables/cooked-rice-3688068238.md",
+      "json": "items/consumables/cooked-rice-3688068238.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 4094316095,
+      "name": "Bell Pepper",
+      "page": "items/consumables/bell-pepper-4094316095.md",
+      "json": "items/consumables/bell-pepper-4094316095.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3130551475,
+      "name": "Coconut Milk",
+      "page": "items/consumables/coconut-milk-3130551475.md",
+      "json": "items/consumables/coconut-milk-3130551475.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1126086984,
+      "name": "Spice",
+      "page": "items/materials/spice-1126086984.md",
+      "json": "items/materials/spice-1126086984.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/t6-taro-root-curry-4124427746.md"
+}

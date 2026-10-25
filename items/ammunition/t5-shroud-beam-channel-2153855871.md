@@ -31,4 +31,4 @@ Hold to deal continous fog damage in a beam of up to 20 meters range. Hitting an
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t5-shroud-beam-channel-2153855871.json)

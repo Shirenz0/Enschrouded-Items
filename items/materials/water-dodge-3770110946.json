@@ -1,0 +1,25 @@
+{
+ "id": 3770110946,
+ "name": "Water Dodge",
+ "internalName": "Ability_Skill_Warrior_WaterDodge",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/materials.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/water-dodge-3770110946.md"
+}

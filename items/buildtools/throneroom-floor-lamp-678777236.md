@@ -33,4 +33,4 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](throneroom-floor-lamp-678777236.json)

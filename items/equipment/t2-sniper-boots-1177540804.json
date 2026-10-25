@@ -1,0 +1,67 @@
+{
+ "id": 1177540804,
+ "name": "T2 Sniper Boots",
+ "internalName": "Armor_T2_Ranger_Sniper_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1177540804.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Woodland boots made of carefully layered leather straps.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+6 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  }
+ ],
+ "page": "items/equipment/t2-sniper-boots-1177540804.md"
+}

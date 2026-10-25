@@ -1,0 +1,43 @@
+{
+ "id": 989071130,
+ "name": "Sandstone Fence Corner",
+ "internalName": "Prop_Decoration_T4_Fence_SandStone_01_Corner",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/989071130.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3060662946,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1401630464,
+      "name": "Sandstone",
+      "page": "items/materials/sandstone-1401630464.md",
+      "json": "items/materials/sandstone-1401630464.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/sandstone-fence-corner-989071130.md"
+}

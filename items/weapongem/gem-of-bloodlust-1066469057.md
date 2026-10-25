@@ -26,4 +26,4 @@ Grants a %k base chance to spawn a health orb when defeating an enemy. Collectin
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-bloodlust-1066469057.json)

@@ -1,0 +1,46 @@
+{
+ "id": 3308197043,
+ "name": "Blacksmith Hat",
+ "internalName": "Vanity_TX_Blacksmith_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3308197043.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A simple headcovering  to soak up some of that pesky sweat. Keeps your precious ears away from swinging, hot irons!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head"
+ },
+ "recipes": [
+  {
+   "recipeId": 4047931273,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/blacksmith-hat-3308197043.md"
+}

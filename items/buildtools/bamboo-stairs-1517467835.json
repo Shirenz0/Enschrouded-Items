@@ -1,0 +1,29 @@
+{
+ "id": 1517467835,
+ "name": "Bamboo Stairs",
+ "internalName": "Prop_Decoration_T6_Lizard_Stairs_2m_01_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1517467835.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/bamboo-stairs.md",
+  "json": "objects/buildtools/bamboo-stairs.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/bamboo-stairs-1517467835.md"
+}

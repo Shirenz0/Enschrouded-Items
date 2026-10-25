@@ -1,0 +1,35 @@
+{
+ "name": "Incredible Ward",
+ "category": "Equipment",
+ "image": "images/icons/2988598231.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1499977347,
+   "name": "Incredible Ward",
+   "rarity": "Rare",
+   "level": "45",
+   "image": "images/icons/1499977347.png",
+   "page": "items/equipment/incredible-ward-1499977347.md",
+   "json": "items/equipment/incredible-ward-1499977347.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2988598231,
+   "name": "Incredible Ward",
+   "rarity": "Rare",
+   "level": "45",
+   "image": "images/icons/2988598231.png",
+   "page": "items/equipment/incredible-ward-2988598231.md",
+   "json": "items/equipment/incredible-ward-2988598231.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/incredible-ward.md"
+}

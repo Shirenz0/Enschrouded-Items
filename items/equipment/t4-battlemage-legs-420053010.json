@@ -1,0 +1,77 @@
+{
+ "id": 420053010,
+ "name": "T4 BattleMage Legs",
+ "internalName": "Armor_T4_Mage_BattleWand_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/420053010.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Breathable and swift pants which allow magic wielders to engage further in combat.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-battlemage-legs.md",
+  "json": "objects/equipment/t4-battlemage-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 45,
+    "display": "45",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Eternal Spark",
+   "effect": "Increases the skill level of Eternal Spark by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Unity",
+   "effect": "Increases the skill level of Unity by +1"
+  }
+ ],
+ "page": "items/equipment/t4-battlemage-legs-420053010.md"
+}

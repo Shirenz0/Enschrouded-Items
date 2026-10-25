@@ -1,0 +1,63 @@
+{
+ "id": 3937186197,
+ "name": "Deep Forest Dirt",
+ "internalName": "Build_TerrainMaterial_T2_Dirt_DeepForest",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3937186197.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1956408861,
+   "name": "City Wall Stone Block",
+   "page": "items/buildtools/city-wall-stone-block-1956408861.md",
+   "json": "items/buildtools/city-wall-stone-block-1956408861.json"
+  },
+  {
+   "id": 556297753,
+   "name": "T2 Palette 02 shades of grey",
+   "page": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.md",
+   "json": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.json"
+  },
+  {
+   "id": 4016272699,
+   "name": "T2 Palette 01 Brown bright Grey",
+   "page": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.md",
+   "json": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.json"
+  },
+  {
+   "id": 779558916,
+   "name": "Climbing Rose overgrowth plant",
+   "page": "items/buildtools/climbing-rose-overgrowth-plant-779558916.md",
+   "json": "items/buildtools/climbing-rose-overgrowth-plant-779558916.json"
+  },
+  {
+   "id": 459345780,
+   "name": "Fertile Deepforest Dirt",
+   "page": "items/materials/fertile-deepforest-dirt-459345780.md",
+   "json": "items/materials/fertile-deepforest-dirt-459345780.json"
+  },
+  {
+   "id": 1619282664,
+   "name": "Deepforest Rubble",
+   "page": "items/materials/deepforest-rubble-1619282664.md",
+   "json": "items/materials/deepforest-rubble-1619282664.json"
+  }
+ ],
+ "page": "items/materials/deep-forest-dirt-3937186197.md"
+}

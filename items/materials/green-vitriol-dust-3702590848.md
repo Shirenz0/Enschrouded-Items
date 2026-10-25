@@ -29,4 +29,4 @@ Crafting, Laboratory
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](green-vitriol-dust-3702590848.json)

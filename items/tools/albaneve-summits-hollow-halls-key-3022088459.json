@@ -1,0 +1,61 @@
+{
+ "id": 3022088459,
+ "name": "Albaneve Summits Hollow Halls Key",
+ "internalName": "Key_Skeleton_Bone_Dungeon05",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 1,
+ "image": "images/icons/3022088459.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Key for the Albaneve Summits Hollow Halls",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3605053905,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 3953523416,
+      "name": "Krypt Krystal",
+      "page": "items/materials/krypt-krystal-3953523416.md",
+      "json": "items/materials/krypt-krystal-3953523416.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2956062198,
+      "name": "Giant bones",
+      "page": "items/materials/giant-bones-2956062198.md",
+      "json": "items/materials/giant-bones-2956062198.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/albaneve-summits-hollow-halls-key-3022088459.md"
+}

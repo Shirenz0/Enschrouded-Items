@@ -1,0 +1,77 @@
+{
+ "id": 3841827233,
+ "name": "T3 Archer Boots",
+ "internalName": "Armor_T3_Ranger_Assassin_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/3841827233.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "With these metal weighted soles, even shaky or uneven ground will not disturb your aim.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-archer-boots.md",
+  "json": "objects/equipment/t3-archer-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Vital",
+   "effect": "+9 Vital"
+  },
+  {
+   "order": 3,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  },
+  {
+   "order": 4,
+   "name": "Fire Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  }
+ ],
+ "page": "items/equipment/t3-archer-boots-3841827233.md"
+}

@@ -21,4 +21,4 @@ The tusks are still quite dangerous as they don't dull after death. Never stumbl
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](small-boss-trophy-vukah-2339068671.json)

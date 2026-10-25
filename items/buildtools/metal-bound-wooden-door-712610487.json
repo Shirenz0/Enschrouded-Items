@@ -1,0 +1,69 @@
+{
+ "id": 712610487,
+ "name": "Metal Bound Wooden Door",
+ "internalName": "_Prop_Decoration_TX_Door_Wood_Metal_bound",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/712610487.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1691952715,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3860546818,
+   "name": "Metal Bound Wooden Double Door",
+   "page": "items/buildtools/metal-bound-wooden-double-door-3860546818.md",
+   "json": "items/buildtools/metal-bound-wooden-double-door-3860546818.json"
+  }
+ ],
+ "page": "items/buildtools/metal-bound-wooden-door-712610487.md"
+}

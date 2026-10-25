@@ -1,0 +1,98 @@
+{
+ "id": 449366573,
+ "name": "T4 Bed",
+ "internalName": "Prop_Decoration_Comfort6_T4_Bed",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/449366573.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort (Category Bed)",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3410379610,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2287874170,
+      "name": "Green Fabric",
+      "page": "items/materials/green-fabric-2287874170.md",
+      "json": "items/materials/green-fabric-2287874170.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t4-bed-449366573.md"
+}

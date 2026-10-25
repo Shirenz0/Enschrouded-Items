@@ -1,0 +1,82 @@
+{
+ "name": "Soothsayer",
+ "category": "Weapons",
+ "image": "images/icons/2528480161.png",
+ "versions": 6,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 1716859550,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/1716859550.png",
+   "page": "items/weapons/soothsayer-1716859550.md",
+   "json": "items/weapons/soothsayer-1716859550.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2385920638,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2385920638.png",
+   "page": "items/weapons/soothsayer-2385920638.md",
+   "json": "items/weapons/soothsayer-2385920638.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2671987501,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2671987501.png",
+   "page": "items/weapons/soothsayer-2671987501.md",
+   "json": "items/weapons/soothsayer-2671987501.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2260780998,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2260780998.png",
+   "page": "items/weapons/soothsayer-2260780998.md",
+   "json": "items/weapons/soothsayer-2260780998.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1166996760,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1166996760.png",
+   "page": "items/weapons/soothsayer-1166996760.md",
+   "json": "items/weapons/soothsayer-1166996760.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2528480161,
+   "name": "Soothsayer",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2528480161.png",
+   "page": "items/weapons/soothsayer-2528480161.md",
+   "json": "items/weapons/soothsayer-2528480161.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/soothsayer.md"
+}

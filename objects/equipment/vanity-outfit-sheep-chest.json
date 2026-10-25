@@ -1,0 +1,35 @@
+{
+ "name": "Vanity Outfit Sheep chest",
+ "category": "Equipment",
+ "image": "images/icons/590823529.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2027100358,
+   "name": "Vanity Outfit Sheep chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2027100358.png",
+   "page": "items/equipment/vanity-outfit-sheep-chest-2027100358.md",
+   "json": "items/equipment/vanity-outfit-sheep-chest-2027100358.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 590823529,
+   "name": "Vanity Outfit Sheep chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/590823529.png",
+   "page": "items/equipment/vanity-outfit-sheep-chest-590823529.md",
+   "json": "items/equipment/vanity-outfit-sheep-chest-590823529.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/vanity-outfit-sheep-chest.md"
+}

@@ -1,0 +1,67 @@
+{
+ "id": 1321928315,
+ "name": "Ancient \"Pomegranate\"",
+ "internalName": "Food_T7_raw_fruit_Pomegranate",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1321928315.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "an ancient fruit crossbreed, reminds you of a pomegranate, but the \"whsikers\" tickle conspicuously in the throat",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 210000,
+    "display": "3:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1603269825,
+   "name": "Fancy Fruit Juice",
+   "page": "items/consumables/fancy-fruit-juice-1603269825.md",
+   "json": "items/consumables/fancy-fruit-juice-1603269825.json"
+  },
+  {
+   "id": 2202063914,
+   "name": "Ancient Pomegranate Tarte",
+   "page": "items/consumables/ancient-pomegranate-tarte-2202063914.md",
+   "json": "items/consumables/ancient-pomegranate-tarte-2202063914.json"
+  },
+  {
+   "id": 270916101,
+   "name": "Fruit Salad",
+   "page": "items/consumables/fruit-salad-270916101.md",
+   "json": "items/consumables/fruit-salad-270916101.json"
+  },
+  {
+   "id": 3166342350,
+   "name": "Ancient \"Pomegranate\" Seedling",
+   "page": "items/buildtools/ancient-pomegranate-seedling-3166342350.md",
+   "json": "items/buildtools/ancient-pomegranate-seedling-3166342350.json"
+  }
+ ],
+ "page": "items/consumables/ancient-pomegranate-1321928315.md"
+}

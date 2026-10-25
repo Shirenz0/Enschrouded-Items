@@ -1,0 +1,56 @@
+{
+ "id": 1956408861,
+ "name": "City Wall Stone Block",
+ "internalName": "Block_T2_Stone_Nation01_Citywall01_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1956408861.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Neglected, it protects the outer walls of the city with its friends, the plants.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": {
+  "page": "objects/buildtools/city-wall-stone-block.md",
+  "json": "objects/buildtools/city-wall-stone-block.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 1859471939,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 1181280513,
+      "name": "Deepforest Stone",
+      "page": "items/materials/deepforest-stone-1181280513.md",
+      "json": "items/materials/deepforest-stone-1181280513.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3937186197,
+      "name": "Deep Forest Dirt",
+      "page": "items/materials/deep-forest-dirt-3937186197.md",
+      "json": "items/materials/deep-forest-dirt-3937186197.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/city-wall-stone-block-1956408861.md"
+}

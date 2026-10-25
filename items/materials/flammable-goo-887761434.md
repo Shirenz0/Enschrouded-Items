@@ -29,4 +29,4 @@ Crafting, Laboratory
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](flammable-goo-887761434.json)

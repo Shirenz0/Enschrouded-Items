@@ -1,0 +1,68 @@
+{
+ "name": "Warrior Fog Protection Armor",
+ "category": "Equipment",
+ "image": "images/icons/875044567.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1150388410,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1150388410.png",
+   "page": "items/equipment/warrior-fog-protection-armor-1150388410.md",
+   "json": "items/equipment/warrior-fog-protection-armor-1150388410.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 147265330,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/147265330.png",
+   "page": "items/equipment/warrior-fog-protection-armor-147265330.md",
+   "json": "items/equipment/warrior-fog-protection-armor-147265330.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2530259094,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2530259094.png",
+   "page": "items/equipment/warrior-fog-protection-armor-2530259094.md",
+   "json": "items/equipment/warrior-fog-protection-armor-2530259094.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3354677077,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3354677077.png",
+   "page": "items/equipment/warrior-fog-protection-armor-3354677077.md",
+   "json": "items/equipment/warrior-fog-protection-armor-3354677077.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 875044567,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/875044567.png",
+   "page": "items/equipment/warrior-fog-protection-armor-875044567.md",
+   "json": "items/equipment/warrior-fog-protection-armor-875044567.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/warrior-fog-protection-armor.md"
+}

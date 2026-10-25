@@ -1,0 +1,2591 @@
+{
+ "category": "Materials",
+ "title": "Materials",
+ "count": 287,
+ "page": "categories/materials.md",
+ "items": [
+  {
+   "id": 3511587780,
+   "name": "Ability Blink",
+   "rarity": "Common",
+   "level": "5",
+   "image": null,
+   "page": "items/materials/ability-blink-3511587780.md",
+   "json": "items/materials/ability-blink-3511587780.json"
+  },
+  {
+   "id": 1344255132,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-1344255132.md",
+   "json": "items/materials/ability-jump-attack-1344255132.json"
+  },
+  {
+   "id": 2074570486,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-2074570486.md",
+   "json": "items/materials/ability-jump-attack-2074570486.json"
+  },
+  {
+   "id": 2513764139,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-2513764139.md",
+   "json": "items/materials/ability-jump-attack-2513764139.json"
+  },
+  {
+   "id": 3118661324,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-3118661324.md",
+   "json": "items/materials/ability-jump-attack-3118661324.json"
+  },
+  {
+   "id": 3692920423,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-3692920423.md",
+   "json": "items/materials/ability-jump-attack-3692920423.json"
+  },
+  {
+   "id": 406279847,
+   "name": "Ability: Dodgeroll",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-dodgeroll-406279847.md",
+   "json": "items/materials/ability-dodgeroll-406279847.json"
+  },
+  {
+   "id": 2131069883,
+   "name": "Ability: Dogeroll Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-dogeroll-attack-2131069883.md",
+   "json": "items/materials/ability-dogeroll-attack-2131069883.json"
+  },
+  {
+   "id": 2916317144,
+   "name": "Ability: Dogeroll Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-dogeroll-attack-2916317144.md",
+   "json": "items/materials/ability-dogeroll-attack-2916317144.json"
+  },
+  {
+   "id": 409810488,
+   "name": "Acidic Shroud",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/409810488.png",
+   "page": "items/materials/acidic-shroud-409810488.md",
+   "json": "items/materials/acidic-shroud-409810488.json"
+  },
+  {
+   "id": 2179075323,
+   "name": "ActiveMycelium",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2179075323.png",
+   "page": "items/materials/activemycelium-2179075323.md",
+   "json": "items/materials/activemycelium-2179075323.json"
+  },
+  {
+   "id": 2832562682,
+   "name": "Aerated Shroud Gel",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2832562682.png",
+   "page": "items/materials/aerated-shroud-gel-2832562682.md",
+   "json": "items/materials/aerated-shroud-gel-2832562682.json"
+  },
+  {
+   "id": 2371777842,
+   "name": "Alchemical Base",
+   "rarity": "Common",
+   "level": "16",
+   "image": "images/icons/2371777842.png",
+   "page": "items/materials/alchemical-base-2371777842.md",
+   "json": "items/materials/alchemical-base-2371777842.json"
+  },
+  {
+   "id": 764289975,
+   "name": "Aloe",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/764289975.png",
+   "page": "items/materials/aloe-764289975.md",
+   "json": "items/materials/aloe-764289975.json"
+  },
+  {
+   "id": 1862351329,
+   "name": "Amber",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1862351329.png",
+   "page": "items/materials/amber-1862351329.md",
+   "json": "items/materials/amber-1862351329.json"
+  },
+  {
+   "id": 2027586500,
+   "name": "Ammoniak Gland",
+   "rarity": "Common",
+   "level": "16",
+   "image": "images/icons/2027586500.png",
+   "page": "items/materials/ammoniak-gland-2027586500.md",
+   "json": "items/materials/ammoniak-gland-2027586500.json"
+  },
+  {
+   "id": 2477070271,
+   "name": "Ancient Construct: Heavy Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2477070271.png",
+   "page": "items/materials/ancient-construct-heavy-head-2477070271.md",
+   "json": "items/materials/ancient-construct-heavy-head-2477070271.json"
+  },
+  {
+   "id": 2835143812,
+   "name": "Ancient Rune",
+   "rarity": "Legendary",
+   "level": "13",
+   "image": "images/icons/2835143812.png",
+   "page": "items/materials/ancient-rune-2835143812.md",
+   "json": "items/materials/ancient-rune-2835143812.json"
+  },
+  {
+   "id": 2670118573,
+   "name": "Ancient/Archaic Infusion",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/2670118573.png",
+   "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+   "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+  },
+  {
+   "id": 984234407,
+   "name": "Animal Fur",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/984234407.png",
+   "page": "items/materials/animal-fur-984234407.md",
+   "json": "items/materials/animal-fur-984234407.json"
+  },
+  {
+   "id": 649108902,
+   "name": "Antiseptic",
+   "rarity": "Uncommon",
+   "level": "16",
+   "image": "images/icons/649108902.png",
+   "page": "items/materials/antiseptic-649108902.md",
+   "json": "items/materials/antiseptic-649108902.json"
+  },
+  {
+   "id": 554104227,
+   "name": "Aquamarine Dust",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/554104227.png",
+   "page": "items/materials/aquamarine-dust-554104227.md",
+   "json": "items/materials/aquamarine-dust-554104227.json"
+  },
+  {
+   "id": 3084703100,
+   "name": "Archaic Core",
+   "rarity": "Legendary",
+   "level": "45",
+   "image": "images/icons/3084703100.png",
+   "page": "items/materials/archaic-core-3084703100.md",
+   "json": "items/materials/archaic-core-3084703100.json"
+  },
+  {
+   "id": 2141541288,
+   "name": "Archaic Shards",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/2141541288.png",
+   "page": "items/materials/archaic-shards-2141541288.md",
+   "json": "items/materials/archaic-shards-2141541288.json"
+  },
+  {
+   "id": 2341333485,
+   "name": "Aurum Lily",
+   "rarity": "Uncommon",
+   "level": "18",
+   "image": "images/icons/2341333485.png",
+   "page": "items/materials/aurum-lily-2341333485.md",
+   "json": "items/materials/aurum-lily-2341333485.json"
+  },
+  {
+   "id": 1381084162,
+   "name": "Bamboo Logs",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1381084162.png",
+   "page": "items/materials/bamboo-logs-1381084162.md",
+   "json": "items/materials/bamboo-logs-1381084162.json"
+  },
+  {
+   "id": 284304129,
+   "name": "Basalt Dust",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/284304129.png",
+   "page": "items/materials/basalt-dust-284304129.md",
+   "json": "items/materials/basalt-dust-284304129.json"
+  },
+  {
+   "id": 1930450533,
+   "name": "Basalt Farm Soil",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1930450533.png",
+   "page": "items/materials/basalt-farm-soil-1930450533.md",
+   "json": "items/materials/basalt-farm-soil-1930450533.json"
+  },
+  {
+   "id": 1828629573,
+   "name": "Black Powder",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/1828629573.png",
+   "page": "items/materials/black-powder-1828629573.md",
+   "json": "items/materials/black-powder-1828629573.json"
+  },
+  {
+   "id": 1227021926,
+   "name": "Blackmire Bark",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1227021926.png",
+   "page": "items/materials/blackmire-bark-1227021926.md",
+   "json": "items/materials/blackmire-bark-1227021926.json"
+  },
+  {
+   "id": 1745782985,
+   "name": "Blackmire Heartwood",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1745782985.png",
+   "page": "items/materials/blackmire-heartwood-1745782985.md",
+   "json": "items/materials/blackmire-heartwood-1745782985.json"
+  },
+  {
+   "id": 398142464,
+   "name": "Blue Fabric",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/398142464.png",
+   "page": "items/materials/blue-fabric-398142464.md",
+   "json": "items/materials/blue-fabric-398142464.json"
+  },
+  {
+   "id": 2982735558,
+   "name": "Bonemeal",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2982735558.png",
+   "page": "items/materials/bonemeal-2982735558.md",
+   "json": "items/materials/bonemeal-2982735558.json"
+  },
+  {
+   "id": 2053375978,
+   "name": "Bones",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2053375978.png",
+   "page": "items/materials/bones-2053375978.md",
+   "json": "items/materials/bones-2053375978.json"
+  },
+  {
+   "id": 2297010177,
+   "name": "Boxwood Material",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2297010177.png",
+   "page": "items/materials/boxwood-material-2297010177.md",
+   "json": "items/materials/boxwood-material-2297010177.json"
+  },
+  {
+   "id": 4091795277,
+   "name": "Brittle Shroud Flakes",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/4091795277.png",
+   "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+   "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+  },
+  {
+   "id": 1284326318,
+   "name": "Brittle Shroud Petals",
+   "rarity": "Uncommon",
+   "level": "13",
+   "image": "images/icons/1284326318.png",
+   "page": "items/materials/brittle-shroud-petals-1284326318.md",
+   "json": "items/materials/brittle-shroud-petals-1284326318.json"
+  },
+  {
+   "id": 642002617,
+   "name": "Bronze Bars",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/642002617.png",
+   "page": "items/materials/bronze-bars-642002617.md",
+   "json": "items/materials/bronze-bars-642002617.json"
+  },
+  {
+   "id": 2106933279,
+   "name": "Bronze Key",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2106933279.png",
+   "page": "items/materials/bronze-key-2106933279.md",
+   "json": "items/materials/bronze-key-2106933279.json"
+  },
+  {
+   "id": 957162158,
+   "name": "Bug Dust",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/957162158.png",
+   "page": "items/materials/bug-dust-957162158.md",
+   "json": "items/materials/bug-dust-957162158.json"
+  },
+  {
+   "id": 4230368891,
+   "name": "Capybara Bristles",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/4230368891.png",
+   "page": "items/materials/capybara-bristles-4230368891.md",
+   "json": "items/materials/capybara-bristles-4230368891.json"
+  },
+  {
+   "id": 2893592883,
+   "name": "Celesthium Bars",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/2893592883.png",
+   "page": "items/materials/celesthium-bars-2893592883.md",
+   "json": "items/materials/celesthium-bars-2893592883.json"
+  },
+  {
+   "id": 2035945146,
+   "name": "Celesthium Ore",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/2035945146.png",
+   "page": "items/materials/celesthium-ore-2035945146.md",
+   "json": "items/materials/celesthium-ore-2035945146.json"
+  },
+  {
+   "id": 3478847834,
+   "name": "Chamomile",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/3478847834.png",
+   "page": "items/materials/chamomile-3478847834.md",
+   "json": "items/materials/chamomile-3478847834.json"
+  },
+  {
+   "id": 372029138,
+   "name": "Charcoal",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/372029138.png",
+   "page": "items/materials/charcoal-372029138.md",
+   "json": "items/materials/charcoal-372029138.json"
+  },
+  {
+   "id": 1985910431,
+   "name": "Chitin Podwer",
+   "rarity": "Uncommon",
+   "level": "33",
+   "image": "images/icons/1985910431.png",
+   "page": "items/materials/chitin-podwer-1985910431.md",
+   "json": "items/materials/chitin-podwer-1985910431.json"
+  },
+  {
+   "id": 1461371688,
+   "name": "Circular Sawblades",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1461371688.png",
+   "page": "items/materials/circular-sawblades-1461371688.md",
+   "json": "items/materials/circular-sawblades-1461371688.json"
+  },
+  {
+   "id": 4230023681,
+   "name": "Coal Powder",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/4230023681.png",
+   "page": "items/materials/coal-powder-4230023681.md",
+   "json": "items/materials/coal-powder-4230023681.json"
+  },
+  {
+   "id": 397030700,
+   "name": "Coffee Beans",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/397030700.png",
+   "page": "items/materials/coffee-beans-397030700.md",
+   "json": "items/materials/coffee-beans-397030700.json"
+  },
+  {
+   "id": 1475408789,
+   "name": "Conifer Logs",
+   "rarity": "Common",
+   "level": "33",
+   "image": "images/icons/1475408789.png",
+   "page": "items/materials/conifer-logs-1475408789.md",
+   "json": "items/materials/conifer-logs-1475408789.json"
+  },
+  {
+   "id": 170689373,
+   "name": "Copper Bar",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/170689373.png",
+   "page": "items/materials/copper-bar-170689373.md",
+   "json": "items/materials/copper-bar-170689373.json"
+  },
+  {
+   "id": 731732847,
+   "name": "Copper Ore",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/731732847.png",
+   "page": "items/materials/copper-ore-731732847.md",
+   "json": "items/materials/copper-ore-731732847.json"
+  },
+  {
+   "id": 2302389683,
+   "name": "Corrosive Blood",
+   "rarity": "Uncommon",
+   "level": "18",
+   "image": "images/icons/2302389683.png",
+   "page": "items/materials/corrosive-blood-2302389683.md",
+   "json": "items/materials/corrosive-blood-2302389683.json"
+  },
+  {
+   "id": 3405461465,
+   "name": "Corrupted Boar Tusk",
+   "rarity": "Uncommon",
+   "level": "13",
+   "image": "images/icons/3405461465.png",
+   "page": "items/materials/corrupted-boar-tusk-3405461465.md",
+   "json": "items/materials/corrupted-boar-tusk-3405461465.json"
+  },
+  {
+   "id": 1611805749,
+   "name": "Critter Carapace",
+   "rarity": "Common",
+   "level": "33",
+   "image": "images/icons/1611805749.png",
+   "page": "items/materials/critter-carapace-1611805749.md",
+   "json": "items/materials/critter-carapace-1611805749.json"
+  },
+  {
+   "id": 1693311429,
+   "name": "Critter Glands",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/1693311429.png",
+   "page": "items/materials/critter-glands-1693311429.md",
+   "json": "items/materials/critter-glands-1693311429.json"
+  },
+  {
+   "id": 3264892278,
+   "name": "Critter Parts",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3264892278.png",
+   "page": "items/materials/critter-parts-3264892278.md",
+   "json": "items/materials/critter-parts-3264892278.json"
+  },
+  {
+   "id": 166917849,
+   "name": "Damaged Fur Boot",
+   "rarity": "Common",
+   "level": "1",
+   "image": "images/icons/166917849.png",
+   "page": "items/materials/damaged-fur-boot-166917849.md",
+   "json": "items/materials/damaged-fur-boot-166917849.json"
+  },
+  {
+   "id": 1897605064,
+   "name": "Daylily Flower",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1897605064.png",
+   "page": "items/materials/daylily-flower-1897605064.md",
+   "json": "items/materials/daylily-flower-1897605064.json"
+  },
+  {
+   "id": 3937186197,
+   "name": "Deep Forest Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3937186197.png",
+   "page": "items/materials/deep-forest-dirt-3937186197.md",
+   "json": "items/materials/deep-forest-dirt-3937186197.json"
+  },
+  {
+   "id": 1619282664,
+   "name": "Deepforest Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1619282664.png",
+   "page": "items/materials/deepforest-rubble-1619282664.md",
+   "json": "items/materials/deepforest-rubble-1619282664.json"
+  },
+  {
+   "id": 1181280513,
+   "name": "Deepforest Stone",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1181280513.png",
+   "page": "items/materials/deepforest-stone-1181280513.md",
+   "json": "items/materials/deepforest-stone-1181280513.json"
+  },
+  {
+   "id": 1024666423,
+   "name": "Desert Flower",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/1024666423.png",
+   "page": "items/materials/desert-flower-1024666423.md",
+   "json": "items/materials/desert-flower-1024666423.json"
+  },
+  {
+   "id": 4056696698,
+   "name": "Desert Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4056696698.png",
+   "page": "items/materials/desert-rubble-4056696698.md",
+   "json": "items/materials/desert-rubble-4056696698.json"
+  },
+  {
+   "id": 1725874983,
+   "name": "Diamond Dust",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/1725874983.png",
+   "page": "items/materials/diamond-dust-1725874983.md",
+   "json": "items/materials/diamond-dust-1725874983.json"
+  },
+  {
+   "id": 1558115984,
+   "name": "Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1558115984.png",
+   "page": "items/materials/dirt-1558115984.md",
+   "json": "items/materials/dirt-1558115984.json"
+  },
+  {
+   "id": 707511507,
+   "name": "Dragon Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/707511507.png",
+   "page": "items/materials/dragon-head-707511507.md",
+   "json": "items/materials/dragon-head-707511507.json"
+  },
+  {
+   "id": 4248468545,
+   "name": "Drak Blood",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/4248468545.png",
+   "page": "items/materials/drak-blood-4248468545.md",
+   "json": "items/materials/drak-blood-4248468545.json"
+  },
+  {
+   "id": 866649871,
+   "name": "Drak Scales",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/866649871.png",
+   "page": "items/materials/drak-scales-866649871.md",
+   "json": "items/materials/drak-scales-866649871.json"
+  },
+  {
+   "id": 3420500473,
+   "name": "Dried Fur",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3420500473.png",
+   "page": "items/materials/dried-fur-3420500473.md",
+   "json": "items/materials/dried-fur-3420500473.json"
+  },
+  {
+   "id": 2720721975,
+   "name": "Electric organ",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2720721975.png",
+   "page": "items/materials/electric-organ-2720721975.md",
+   "json": "items/materials/electric-organ-2720721975.json"
+  },
+  {
+   "id": 2861211892,
+   "name": "Evil Cyclops Eye",
+   "rarity": "Epic",
+   "level": "33",
+   "image": "images/icons/2861211892.png",
+   "page": "items/materials/evil-cyclops-eye-2861211892.md",
+   "json": "items/materials/evil-cyclops-eye-2861211892.json"
+  },
+  {
+   "id": 148404293,
+   "name": "Exceptional Ectoplasm",
+   "rarity": "Uncommon",
+   "level": "35",
+   "image": "images/icons/148404293.png",
+   "page": "items/materials/exceptional-ectoplasm-148404293.md",
+   "json": "items/materials/exceptional-ectoplasm-148404293.json"
+  },
+  {
+   "id": 1506592036,
+   "name": "Extraordinary Ectoplasm",
+   "rarity": "Uncommon",
+   "level": "40",
+   "image": "images/icons/1506592036.png",
+   "page": "items/materials/extraordinary-ectoplasm-1506592036.md",
+   "json": "items/materials/extraordinary-ectoplasm-1506592036.json"
+  },
+  {
+   "id": 2128518559,
+   "name": "Fabric",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/2128518559.png",
+   "page": "items/materials/fabric-2128518559.md",
+   "json": "items/materials/fabric-2128518559.json"
+  },
+  {
+   "id": 1823674426,
+   "name": "Farm Soil",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1823674426.png",
+   "page": "items/materials/farm-soil-1823674426.md",
+   "json": "items/materials/farm-soil-1823674426.json"
+  },
+  {
+   "id": 3838906683,
+   "name": "Feather",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/3838906683.png",
+   "page": "items/materials/feather-3838906683.md",
+   "json": "items/materials/feather-3838906683.json"
+  },
+  {
+   "id": 1353828797,
+   "name": "Fell Critter Queen Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1353828797.png",
+   "page": "items/materials/fell-critter-queen-head-1353828797.md",
+   "json": "items/materials/fell-critter-queen-head-1353828797.json"
+  },
+  {
+   "id": 536984995,
+   "name": "Fell Heart",
+   "rarity": "Uncommon",
+   "level": "25",
+   "image": "images/icons/536984995.png",
+   "page": "items/materials/fell-heart-536984995.md",
+   "json": "items/materials/fell-heart-536984995.json"
+  },
+  {
+   "id": 2698923038,
+   "name": "Fell Mist",
+   "rarity": "Rare",
+   "level": "25",
+   "image": "images/icons/2698923038.png",
+   "page": "items/materials/fell-mist-2698923038.md",
+   "json": "items/materials/fell-mist-2698923038.json"
+  },
+  {
+   "id": 800792662,
+   "name": "Fell Well Heavy Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/800792662.png",
+   "page": "items/materials/fell-well-heavy-head-800792662.md",
+   "json": "items/materials/fell-well-heavy-head-800792662.json"
+  },
+  {
+   "id": 4044361518,
+   "name": "Fertile AncientLand T7 Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4044361518.png",
+   "page": "items/materials/fertile-ancientland-t7-dirt-4044361518.md",
+   "json": "items/materials/fertile-ancientland-t7-dirt-4044361518.json"
+  },
+  {
+   "id": 1458330217,
+   "name": "Fertile AncientLand T7 Dirt For Special Ancient Grass",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1458330217.png",
+   "page": "items/materials/fertile-ancientland-t7-dirt-for-special-ancient-grass-1458330217.md",
+   "json": "items/materials/fertile-ancientland-t7-dirt-for-special-ancient-grass-1458330217.json"
+  },
+  {
+   "id": 459345780,
+   "name": "Fertile Deepforest Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/459345780.png",
+   "page": "items/materials/fertile-deepforest-dirt-459345780.md",
+   "json": "items/materials/fertile-deepforest-dirt-459345780.json"
+  },
+  {
+   "id": 2925726773,
+   "name": "Fertile Desert Sand",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2925726773.png",
+   "page": "items/materials/fertile-desert-sand-2925726773.md",
+   "json": "items/materials/fertile-desert-sand-2925726773.json"
+  },
+  {
+   "id": 2517406505,
+   "name": "Fertile Grassland Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2517406505.png",
+   "page": "items/materials/fertile-grassland-dirt-2517406505.md",
+   "json": "items/materials/fertile-grassland-dirt-2517406505.json"
+  },
+  {
+   "id": 3787344002,
+   "name": "Fertile Steppes Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3787344002.png",
+   "page": "items/materials/fertile-steppes-dirt-3787344002.md",
+   "json": "items/materials/fertile-steppes-dirt-3787344002.json"
+  },
+  {
+   "id": 1422307195,
+   "name": "Fertile Wetlands T6 Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1422307195.png",
+   "page": "items/materials/fertile-wetlands-t6-dirt-1422307195.md",
+   "json": "items/materials/fertile-wetlands-t6-dirt-1422307195.json"
+  },
+  {
+   "id": 260133819,
+   "name": "Fertilised Farm Soil",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/260133819.png",
+   "page": "items/materials/fertilised-farm-soil-260133819.md",
+   "json": "items/materials/fertilised-farm-soil-260133819.json"
+  },
+  {
+   "id": 2992740264,
+   "name": "Field Stones",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2992740264.png",
+   "page": "items/materials/field-stones-2992740264.md",
+   "json": "items/materials/field-stones-2992740264.json"
+  },
+  {
+   "id": 3489782185,
+   "name": "Fine Sand",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3489782185.png",
+   "page": "items/materials/fine-sand-3489782185.md",
+   "json": "items/materials/fine-sand-3489782185.json"
+  },
+  {
+   "id": 1261933427,
+   "name": "Fired Brick",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1261933427.png",
+   "page": "items/materials/fired-brick-1261933427.md",
+   "json": "items/materials/fired-brick-1261933427.json"
+  },
+  {
+   "id": 2244383765,
+   "name": "Fish Bones",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2244383765.png",
+   "page": "items/materials/fish-bones-2244383765.md",
+   "json": "items/materials/fish-bones-2244383765.json"
+  },
+  {
+   "id": 3610183331,
+   "name": "Fish Poison Gland",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/3610183331.png",
+   "page": "items/materials/fish-poison-gland-3610183331.md",
+   "json": "items/materials/fish-poison-gland-3610183331.json"
+  },
+  {
+   "id": 4040557403,
+   "name": "Fish Scales",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/4040557403.png",
+   "page": "items/materials/fish-scales-4040557403.md",
+   "json": "items/materials/fish-scales-4040557403.json"
+  },
+  {
+   "id": 2352305513,
+   "name": "Fish Teeth",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2352305513.png",
+   "page": "items/materials/fish-teeth-2352305513.md",
+   "json": "items/materials/fish-teeth-2352305513.json"
+  },
+  {
+   "id": 1536371128,
+   "name": "Flame Essence",
+   "rarity": "Epic",
+   "level": "5",
+   "image": "images/icons/1536371128.png",
+   "page": "items/materials/flame-essence-1536371128.md",
+   "json": "items/materials/flame-essence-1536371128.json"
+  },
+  {
+   "id": 887761434,
+   "name": "Flammable Goo",
+   "rarity": "Common",
+   "level": "33",
+   "image": "images/icons/887761434.png",
+   "page": "items/materials/flammable-goo-887761434.md",
+   "json": "items/materials/flammable-goo-887761434.json"
+  },
+  {
+   "id": 3898847112,
+   "name": "Flax",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/3898847112.png",
+   "page": "items/materials/flax-3898847112.md",
+   "json": "items/materials/flax-3898847112.json"
+  },
+  {
+   "id": 1586398842,
+   "name": "Flintstone",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1586398842.png",
+   "page": "items/materials/flintstone-1586398842.md",
+   "json": "items/materials/flintstone-1586398842.json"
+  },
+  {
+   "id": 169532188,
+   "name": "Flour",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/169532188.png",
+   "page": "items/materials/flour-169532188.md",
+   "json": "items/materials/flour-169532188.json"
+  },
+  {
+   "id": 3604850591,
+   "name": "Flower Soil",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3604850591.png",
+   "page": "items/materials/flower-soil-3604850591.md",
+   "json": "items/materials/flower-soil-3604850591.json"
+  },
+  {
+   "id": 1528590138,
+   "name": "Fog Core",
+   "rarity": "Rare",
+   "level": "5",
+   "image": "images/icons/1528590138.png",
+   "page": "items/materials/fog-core-1528590138.md",
+   "json": "items/materials/fog-core-1528590138.json"
+  },
+  {
+   "id": 2559861108,
+   "name": "Fog Essence",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2559861108.png",
+   "page": "items/materials/fog-essence-2559861108.md",
+   "json": "items/materials/fog-essence-2559861108.json"
+  },
+  {
+   "id": 1782638906,
+   "name": "Fog Goo 01",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1782638906.png",
+   "page": "items/materials/fog-goo-01-1782638906.md",
+   "json": "items/materials/fog-goo-01-1782638906.json"
+  },
+  {
+   "id": 1323406480,
+   "name": "Fog Goo 02",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1323406480.png",
+   "page": "items/materials/fog-goo-02-1323406480.md",
+   "json": "items/materials/fog-goo-02-1323406480.json"
+  },
+  {
+   "id": 3928746815,
+   "name": "Fog Goo 03",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/3928746815.png",
+   "page": "items/materials/fog-goo-03-3928746815.md",
+   "json": "items/materials/fog-goo-03-3928746815.json"
+  },
+  {
+   "id": 3561488499,
+   "name": "Fog Goo 04",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/3561488499.png",
+   "page": "items/materials/fog-goo-04-3561488499.md",
+   "json": "items/materials/fog-goo-04-3561488499.json"
+  },
+  {
+   "id": 3844432901,
+   "name": "Fog Goo 05",
+   "rarity": "Common",
+   "level": "33",
+   "image": "images/icons/3844432901.png",
+   "page": "items/materials/fog-goo-05-3844432901.md",
+   "json": "items/materials/fog-goo-05-3844432901.json"
+  },
+  {
+   "id": 417655603,
+   "name": "Fog Goo 06",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/417655603.png",
+   "page": "items/materials/fog-goo-06-417655603.md",
+   "json": "items/materials/fog-goo-06-417655603.json"
+  },
+  {
+   "id": 2135602472,
+   "name": "Fog Goo 07 Archaic Essence VII",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/2135602472.png",
+   "page": "items/materials/fog-goo-07-archaic-essence-vii-2135602472.md",
+   "json": "items/materials/fog-goo-07-archaic-essence-vii-2135602472.json"
+  },
+  {
+   "id": 860644516,
+   "name": "Fog Liquid",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/860644516.png",
+   "page": "items/materials/fog-liquid-860644516.md",
+   "json": "items/materials/fog-liquid-860644516.json"
+  },
+  {
+   "id": 1350606537,
+   "name": "Fog Oil",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/1350606537.png",
+   "page": "items/materials/fog-oil-1350606537.md",
+   "json": "items/materials/fog-oil-1350606537.json"
+  },
+  {
+   "id": 1728169696,
+   "name": "Fog Sack",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1728169696.png",
+   "page": "items/materials/fog-sack-1728169696.md",
+   "json": "items/materials/fog-sack-1728169696.json"
+  },
+  {
+   "id": 1320899587,
+   "name": "Fog Wood",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1320899587.png",
+   "page": "items/materials/fog-wood-1320899587.md",
+   "json": "items/materials/fog-wood-1320899587.json"
+  },
+  {
+   "id": 3095665634,
+   "name": "Fossilized Bone",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/3095665634.png",
+   "page": "items/materials/fossilized-bone-3095665634.md",
+   "json": "items/materials/fossilized-bone-3095665634.json"
+  },
+  {
+   "id": 3073226096,
+   "name": "Fossilized Bone Dust",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/3073226096.png",
+   "page": "items/materials/fossilized-bone-dust-3073226096.md",
+   "json": "items/materials/fossilized-bone-dust-3073226096.json"
+  },
+  {
+   "id": 4090772336,
+   "name": "Fresh Shroud Spore",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/4090772336.png",
+   "page": "items/materials/fresh-shroud-spore-4090772336.md",
+   "json": "items/materials/fresh-shroud-spore-4090772336.json"
+  },
+  {
+   "id": 1158895795,
+   "name": "Frozen Shroud Solids",
+   "rarity": "Common",
+   "level": "33",
+   "image": "images/icons/1158895795.png",
+   "page": "items/materials/frozen-shroud-solids-1158895795.md",
+   "json": "items/materials/frozen-shroud-solids-1158895795.json"
+  },
+  {
+   "id": 661026568,
+   "name": "Fur Patch",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/661026568.png",
+   "page": "items/materials/fur-patch-661026568.md",
+   "json": "items/materials/fur-patch-661026568.json"
+  },
+  {
+   "id": 2956062198,
+   "name": "Giant bones",
+   "rarity": "Uncommon",
+   "level": "13",
+   "image": "images/icons/2956062198.png",
+   "page": "items/materials/giant-bones-2956062198.md",
+   "json": "items/materials/giant-bones-2956062198.json"
+  },
+  {
+   "id": 3571891401,
+   "name": "Giant Critter Scales",
+   "rarity": "Uncommon",
+   "level": "13",
+   "image": "images/icons/3571891401.png",
+   "page": "items/materials/giant-critter-scales-3571891401.md",
+   "json": "items/materials/giant-critter-scales-3571891401.json"
+  },
+  {
+   "id": 2102228606,
+   "name": "Giant Fell Talon",
+   "rarity": "Rare",
+   "level": "25",
+   "image": "images/icons/2102228606.png",
+   "page": "items/materials/giant-fell-talon-2102228606.md",
+   "json": "items/materials/giant-fell-talon-2102228606.json"
+  },
+  {
+   "id": 3895216255,
+   "name": "Giant Ice Bones",
+   "rarity": "Uncommon",
+   "level": "33",
+   "image": "images/icons/3895216255.png",
+   "page": "items/materials/giant-ice-bones-3895216255.md",
+   "json": "items/materials/giant-ice-bones-3895216255.json"
+  },
+  {
+   "id": 2246309017,
+   "name": "Glass",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/2246309017.png",
+   "page": "items/materials/glass-2246309017.md",
+   "json": "items/materials/glass-2246309017.json"
+  },
+  {
+   "id": 2640854911,
+   "name": "Glass Shards",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/2640854911.png",
+   "page": "items/materials/glass-shards-2640854911.md",
+   "json": "items/materials/glass-shards-2640854911.json"
+  },
+  {
+   "id": 2145533653,
+   "name": "Gleam Root",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2145533653.png",
+   "page": "items/materials/gleam-root-2145533653.md",
+   "json": "items/materials/gleam-root-2145533653.json"
+  },
+  {
+   "id": 3507051762,
+   "name": "Gleam Root Dust",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/3507051762.png",
+   "page": "items/materials/gleam-root-dust-3507051762.md",
+   "json": "items/materials/gleam-root-dust-3507051762.json"
+  },
+  {
+   "id": 3152907053,
+   "name": "Glow Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3152907053.png",
+   "page": "items/materials/glow-dirt-3152907053.md",
+   "json": "items/materials/glow-dirt-3152907053.json"
+  },
+  {
+   "id": 2149011961,
+   "name": "Glow Dirt Green",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/2149011961.png",
+   "page": "items/materials/glow-dirt-green-2149011961.md",
+   "json": "items/materials/glow-dirt-green-2149011961.json"
+  },
+  {
+   "id": 3962501836,
+   "name": "Glow Dirt WarmWhite",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3962501836.png",
+   "page": "items/materials/glow-dirt-warmwhite-3962501836.md",
+   "json": "items/materials/glow-dirt-warmwhite-3962501836.json"
+  },
+  {
+   "id": 1830151622,
+   "name": "Glow Dust",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1830151622.png",
+   "page": "items/materials/glow-dust-1830151622.md",
+   "json": "items/materials/glow-dust-1830151622.json"
+  },
+  {
+   "id": 514509650,
+   "name": "Gold Bars",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/514509650.png",
+   "page": "items/materials/gold-bars-514509650.md",
+   "json": "items/materials/gold-bars-514509650.json"
+  },
+  {
+   "id": 1060230019,
+   "name": "Gold Dust",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1060230019.png",
+   "page": "items/materials/gold-dust-1060230019.md",
+   "json": "items/materials/gold-dust-1060230019.json"
+  },
+  {
+   "id": 1199443988,
+   "name": "Gold Key",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1199443988.png",
+   "page": "items/materials/gold-key-1199443988.md",
+   "json": "items/materials/gold-key-1199443988.json"
+  },
+  {
+   "id": 2715107589,
+   "name": "Gold Ore",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2715107589.png",
+   "page": "items/materials/gold-ore-2715107589.md",
+   "json": "items/materials/gold-ore-2715107589.json"
+  },
+  {
+   "id": 3403995938,
+   "name": "Goo",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/3403995938.png",
+   "page": "items/materials/goo-3403995938.md",
+   "json": "items/materials/goo-3403995938.json"
+  },
+  {
+   "id": 3376745431,
+   "name": "Granite rubble Road",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3376745431.png",
+   "page": "items/materials/granite-rubble-road-3376745431.md",
+   "json": "items/materials/granite-rubble-road-3376745431.json"
+  },
+  {
+   "id": 4233423640,
+   "name": "Grassland Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4233423640.png",
+   "page": "items/materials/grassland-rubble-4233423640.md",
+   "json": "items/materials/grassland-rubble-4233423640.json"
+  },
+  {
+   "id": 2287874170,
+   "name": "Green Fabric",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/2287874170.png",
+   "page": "items/materials/green-fabric-2287874170.md",
+   "json": "items/materials/green-fabric-2287874170.json"
+  },
+  {
+   "id": 90588998,
+   "name": "Green Mushroom Meat",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/90588998.png",
+   "page": "items/materials/green-mushroom-meat-90588998.md",
+   "json": "items/materials/green-mushroom-meat-90588998.json"
+  },
+  {
+   "id": 3702590848,
+   "name": "Green Vitriol Dust",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/3702590848.png",
+   "page": "items/materials/green-vitriol-dust-3702590848.md",
+   "json": "items/materials/green-vitriol-dust-3702590848.json"
+  },
+  {
+   "id": 1358181917,
+   "name": "Ground Coffee Beans",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1358181917.png",
+   "page": "items/materials/ground-coffee-beans-1358181917.md",
+   "json": "items/materials/ground-coffee-beans-1358181917.json"
+  },
+  {
+   "id": 1765656585,
+   "name": "Hardwood",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1765656585.png",
+   "page": "items/materials/hardwood-1765656585.md",
+   "json": "items/materials/hardwood-1765656585.json"
+  },
+  {
+   "id": 2710616938,
+   "name": "Heavy Head",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2710616938.png",
+   "page": "items/materials/heavy-head-2710616938.md",
+   "json": "items/materials/heavy-head-2710616938.json"
+  },
+  {
+   "id": 3411381312,
+   "name": "Hollow Heavy Hero Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/3411381312.png",
+   "page": "items/materials/hollow-heavy-hero-head-3411381312.md",
+   "json": "items/materials/hollow-heavy-hero-head-3411381312.json"
+  },
+  {
+   "id": 345631469,
+   "name": "Hydrak'Dal Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/345631469.png",
+   "page": "items/materials/hydrak-dal-head-345631469.md",
+   "json": "items/materials/hydrak-dal-head-345631469.json"
+  },
+  {
+   "id": 4276529065,
+   "name": "Indigo Plant",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/4276529065.png",
+   "page": "items/materials/indigo-plant-4276529065.md",
+   "json": "items/materials/indigo-plant-4276529065.json"
+  },
+  {
+   "id": 159114158,
+   "name": "Iron Bars",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/159114158.png",
+   "page": "items/materials/iron-bars-159114158.md",
+   "json": "items/materials/iron-bars-159114158.json"
+  },
+  {
+   "id": 4114143627,
+   "name": "Iron Dust",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/4114143627.png",
+   "page": "items/materials/iron-dust-4114143627.md",
+   "json": "items/materials/iron-dust-4114143627.json"
+  },
+  {
+   "id": 455684957,
+   "name": "Iron Ore",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/455684957.png",
+   "page": "items/materials/iron-ore-455684957.md",
+   "json": "items/materials/iron-ore-455684957.json"
+  },
+  {
+   "id": 3953523416,
+   "name": "Krypt Krystal",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3953523416.png",
+   "page": "items/materials/krypt-krystal-3953523416.md",
+   "json": "items/materials/krypt-krystal-3953523416.json"
+  },
+  {
+   "id": 3044860358,
+   "name": "Lapislazuli",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/3044860358.png",
+   "page": "items/materials/lapislazuli-3044860358.md",
+   "json": "items/materials/lapislazuli-3044860358.json"
+  },
+  {
+   "id": 4135223598,
+   "name": "Leather",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/4135223598.png",
+   "page": "items/materials/leather-4135223598.md",
+   "json": "items/materials/leather-4135223598.json"
+  },
+  {
+   "id": 3445636557,
+   "name": "Lime Stone",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3445636557.png",
+   "page": "items/materials/lime-stone-3445636557.md",
+   "json": "items/materials/lime-stone-3445636557.json"
+  },
+  {
+   "id": 1815424180,
+   "name": "Linnen",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1815424180.png",
+   "page": "items/materials/linnen-1815424180.md",
+   "json": "items/materials/linnen-1815424180.json"
+  },
+  {
+   "id": 1997294632,
+   "name": "Lore Text Guidance BrokenVillage",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1997294632.png",
+   "page": "items/materials/lore-text-guidance-brokenvillage-1997294632.md",
+   "json": "items/materials/lore-text-guidance-brokenvillage-1997294632.json"
+  },
+  {
+   "id": 4043331491,
+   "name": "Lore Text Open Book",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4043331491.png",
+   "page": "items/materials/lore-text-open-book-4043331491.md",
+   "json": "items/materials/lore-text-open-book-4043331491.json"
+  },
+  {
+   "id": 1925006089,
+   "name": "Lump of Clay",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1925006089.png",
+   "page": "items/materials/lump-of-clay-1925006089.md",
+   "json": "items/materials/lump-of-clay-1925006089.json"
+  },
+  {
+   "id": 3438055168,
+   "name": "Mage Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/3438055168.png",
+   "page": "items/materials/mage-head-3438055168.md",
+   "json": "items/materials/mage-head-3438055168.json"
+  },
+  {
+   "id": 234899173,
+   "name": "Magma Gel",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/234899173.png",
+   "page": "items/materials/magma-gel-234899173.md",
+   "json": "items/materials/magma-gel-234899173.json"
+  },
+  {
+   "id": 132545371,
+   "name": "Metal Scraps",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/132545371.png",
+   "page": "items/materials/metal-scraps-132545371.md",
+   "json": "items/materials/metal-scraps-132545371.json"
+  },
+  {
+   "id": 4271896226,
+   "name": "Metal Sheets",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/4271896226.png",
+   "page": "items/materials/metal-sheets-4271896226.md",
+   "json": "items/materials/metal-sheets-4271896226.json"
+  },
+  {
+   "id": 1138733565,
+   "name": "Monstrosity Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1138733565.png",
+   "page": "items/materials/monstrosity-head-1138733565.md",
+   "json": "items/materials/monstrosity-head-1138733565.json"
+  },
+  {
+   "id": 2975006357,
+   "name": "Monstrous Ribs",
+   "rarity": "Epic",
+   "level": "18",
+   "image": "images/icons/2975006357.png",
+   "page": "items/materials/monstrous-ribs-2975006357.md",
+   "json": "items/materials/monstrous-ribs-2975006357.json"
+  },
+  {
+   "id": 4078086541,
+   "name": "Moonstone Dust",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/4078086541.png",
+   "page": "items/materials/moonstone-dust-4078086541.md",
+   "json": "items/materials/moonstone-dust-4078086541.json"
+  },
+  {
+   "id": 3585782303,
+   "name": "Moss",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3585782303.png",
+   "page": "items/materials/moss-3585782303.md",
+   "json": "items/materials/moss-3585782303.json"
+  },
+  {
+   "id": 1898288525,
+   "name": "Mother-Of-Pearl",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1898288525.png",
+   "page": "items/materials/mother-of-pearl-1898288525.md",
+   "json": "items/materials/mother-of-pearl-1898288525.json"
+  },
+  {
+   "id": 2479098085,
+   "name": "Mushroom Flesh",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2479098085.png",
+   "page": "items/materials/mushroom-flesh-2479098085.md",
+   "json": "items/materials/mushroom-flesh-2479098085.json"
+  },
+  {
+   "id": 3509012331,
+   "name": "Mycelium",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3509012331.png",
+   "page": "items/materials/mycelium-3509012331.md",
+   "json": "items/materials/mycelium-3509012331.json"
+  },
+  {
+   "id": 2743545700,
+   "name": "Nails",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2743545700.png",
+   "page": "items/materials/nails-2743545700.md",
+   "json": "items/materials/nails-2743545700.json"
+  },
+  {
+   "id": 267668454,
+   "name": "Night Desert Flower",
+   "rarity": "Uncommon",
+   "level": "25",
+   "image": "images/icons/267668454.png",
+   "page": "items/materials/night-desert-flower-267668454.md",
+   "json": "items/materials/night-desert-flower-267668454.json"
+  },
+  {
+   "id": 3548539501,
+   "name": "Night pink gentian",
+   "rarity": "Uncommon",
+   "level": "33",
+   "image": "images/icons/3548539501.png",
+   "page": "items/materials/night-pink-gentian-3548539501.md",
+   "json": "items/materials/night-pink-gentian-3548539501.json"
+  },
+  {
+   "id": 2206878080,
+   "name": "Nitrate",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/2206878080.png",
+   "page": "items/materials/nitrate-2206878080.md",
+   "json": "items/materials/nitrate-2206878080.json"
+  },
+  {
+   "id": 2610555646,
+   "name": "Old Books",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2610555646.png",
+   "page": "items/materials/old-books-2610555646.md",
+   "json": "items/materials/old-books-2610555646.json"
+  },
+  {
+   "id": 2891068633,
+   "name": "Orange Fabric",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2891068633.png",
+   "page": "items/materials/orange-fabric-2891068633.md",
+   "json": "items/materials/orange-fabric-2891068633.json"
+  },
+  {
+   "id": 1711247619,
+   "name": "Padding",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/1711247619.png",
+   "page": "items/materials/padding-1711247619.md",
+   "json": "items/materials/padding-1711247619.json"
+  },
+  {
+   "id": 521230189,
+   "name": "Palm Leaves",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/521230189.png",
+   "page": "items/materials/palm-leaves-521230189.md",
+   "json": "items/materials/palm-leaves-521230189.json"
+  },
+  {
+   "id": 2955233340,
+   "name": "Palmwood Logs",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/2955233340.png",
+   "page": "items/materials/palmwood-logs-2955233340.md",
+   "json": "items/materials/palmwood-logs-2955233340.json"
+  },
+  {
+   "id": 287018928,
+   "name": "Paper",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/287018928.png",
+   "page": "items/materials/paper-287018928.md",
+   "json": "items/materials/paper-287018928.json"
+  },
+  {
+   "id": 1026141130,
+   "name": "Paper Reed",
+   "rarity": "Common",
+   "level": "1",
+   "image": "images/icons/1026141130.png",
+   "page": "items/materials/paper-reed-1026141130.md",
+   "json": "items/materials/paper-reed-1026141130.json"
+  },
+  {
+   "id": 4148439656,
+   "name": "Passionflower",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/4148439656.png",
+   "page": "items/materials/passionflower-4148439656.md",
+   "json": "items/materials/passionflower-4148439656.json"
+  },
+  {
+   "id": 1604789280,
+   "name": "Pearl",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1604789280.png",
+   "page": "items/materials/pearl-1604789280.md",
+   "json": "items/materials/pearl-1604789280.json"
+  },
+  {
+   "id": 3594337385,
+   "name": "Petrified Fell Shell",
+   "rarity": "Uncommon",
+   "level": "18",
+   "image": "images/icons/3594337385.png",
+   "page": "items/materials/petrified-fell-shell-3594337385.md",
+   "json": "items/materials/petrified-fell-shell-3594337385.json"
+  },
+  {
+   "id": 545888475,
+   "name": "Piscine Ivory Dust",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/545888475.png",
+   "page": "items/materials/piscine-ivory-dust-545888475.md",
+   "json": "items/materials/piscine-ivory-dust-545888475.json"
+  },
+  {
+   "id": 3316218728,
+   "name": "Plant Fibre",
+   "rarity": "Common",
+   "level": "1",
+   "image": "images/icons/3316218728.png",
+   "page": "items/materials/plant-fibre-3316218728.md",
+   "json": "items/materials/plant-fibre-3316218728.json"
+  },
+  {
+   "id": 1503622318,
+   "name": "Poison Sack",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1503622318.png",
+   "page": "items/materials/poison-sack-1503622318.md",
+   "json": "items/materials/poison-sack-1503622318.json"
+  },
+  {
+   "id": 2632607216,
+   "name": "Poison Sting",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2632607216.png",
+   "page": "items/materials/poison-sting-2632607216.md",
+   "json": "items/materials/poison-sting-2632607216.json"
+  },
+  {
+   "id": 1178468623,
+   "name": "Raw Meat and Azure Russula Skewer",
+   "rarity": "Common",
+   "level": "10",
+   "image": "images/icons/1178468623.png",
+   "page": "items/materials/raw-meat-and-azure-russula-skewer-1178468623.md",
+   "json": "items/materials/raw-meat-and-azure-russula-skewer-1178468623.json"
+  },
+  {
+   "id": 3975408930,
+   "name": "Raw Meat and Corncob Skewer",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3975408930.png",
+   "page": "items/materials/raw-meat-and-corncob-skewer-3975408930.md",
+   "json": "items/materials/raw-meat-and-corncob-skewer-3975408930.json"
+  },
+  {
+   "id": 3031557010,
+   "name": "Raw Meat and Forest Beet Skewer",
+   "rarity": "Common",
+   "level": "10",
+   "image": "images/icons/3031557010.png",
+   "page": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.md",
+   "json": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.json"
+  },
+  {
+   "id": 2630618097,
+   "name": "Raw Meat and Hazelnut Skewer",
+   "rarity": "Common",
+   "level": "10",
+   "image": "images/icons/2630618097.png",
+   "page": "items/materials/raw-meat-and-hazelnut-skewer-2630618097.md",
+   "json": "items/materials/raw-meat-and-hazelnut-skewer-2630618097.json"
+  },
+  {
+   "id": 2335785241,
+   "name": "Raw Meat and Mushroom Skewer",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2335785241.png",
+   "page": "items/materials/raw-meat-and-mushroom-skewer-2335785241.md",
+   "json": "items/materials/raw-meat-and-mushroom-skewer-2335785241.json"
+  },
+  {
+   "id": 3984646053,
+   "name": "Raw Meat and Tomato Skewer",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3984646053.png",
+   "page": "items/materials/raw-meat-and-tomato-skewer-3984646053.md",
+   "json": "items/materials/raw-meat-and-tomato-skewer-3984646053.json"
+  },
+  {
+   "id": 2374813707,
+   "name": "Raw Rice",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2374813707.png",
+   "page": "items/materials/raw-rice-2374813707.md",
+   "json": "items/materials/raw-rice-2374813707.json"
+  },
+  {
+   "id": 3960097842,
+   "name": "Red Fabric",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/3960097842.png",
+   "page": "items/materials/red-fabric-3960097842.md",
+   "json": "items/materials/red-fabric-3960097842.json"
+  },
+  {
+   "id": 1725685196,
+   "name": "Red Fell Critter Queen Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1725685196.png",
+   "page": "items/materials/red-fell-critter-queen-head-1725685196.md",
+   "json": "items/materials/red-fell-critter-queen-head-1725685196.json"
+  },
+  {
+   "id": 2530601241,
+   "name": "Red Marble fragment",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2530601241.png",
+   "page": "items/materials/red-marble-fragment-2530601241.md",
+   "json": "items/materials/red-marble-fragment-2530601241.json"
+  },
+  {
+   "id": 2845598712,
+   "name": "Reptile Hide",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/2845598712.png",
+   "page": "items/materials/reptile-hide-2845598712.md",
+   "json": "items/materials/reptile-hide-2845598712.json"
+  },
+  {
+   "id": 291752398,
+   "name": "Reptile Leather",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/291752398.png",
+   "page": "items/materials/reptile-leather-291752398.md",
+   "json": "items/materials/reptile-leather-291752398.json"
+  },
+  {
+   "id": 4109728689,
+   "name": "Resin",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/4109728689.png",
+   "page": "items/materials/resin-4109728689.md",
+   "json": "items/materials/resin-4109728689.json"
+  },
+  {
+   "id": 447697249,
+   "name": "Road Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/447697249.png",
+   "page": "items/materials/road-dirt-447697249.md",
+   "json": "items/materials/road-dirt-447697249.json"
+  },
+  {
+   "id": 323499580,
+   "name": "Road Stone 1",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/323499580.png",
+   "page": "items/materials/road-stone-1-323499580.md",
+   "json": "items/materials/road-stone-1-323499580.json"
+  },
+  {
+   "id": 3938514298,
+   "name": "Road Stone 2",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3938514298.png",
+   "page": "items/materials/road-stone-2-3938514298.md",
+   "json": "items/materials/road-stone-2-3938514298.json"
+  },
+  {
+   "id": 3321738283,
+   "name": "Road Stone 3",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3321738283.png",
+   "page": "items/materials/road-stone-3-3321738283.md",
+   "json": "items/materials/road-stone-3-3321738283.json"
+  },
+  {
+   "id": 303090384,
+   "name": "Road Stone 4",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/303090384.png",
+   "page": "items/materials/road-stone-4-303090384.md",
+   "json": "items/materials/road-stone-4-303090384.json"
+  },
+  {
+   "id": 1187543406,
+   "name": "Road Stone 5 Ancientland",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1187543406.png",
+   "page": "items/materials/road-stone-5-ancientland-1187543406.md",
+   "json": "items/materials/road-stone-5-ancientland-1187543406.json"
+  },
+  {
+   "id": 3373396030,
+   "name": "Roasted Coffee Beans",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/3373396030.png",
+   "page": "items/materials/roasted-coffee-beans-3373396030.md",
+   "json": "items/materials/roasted-coffee-beans-3373396030.json"
+  },
+  {
+   "id": 1628543982,
+   "name": "Rooibos",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/1628543982.png",
+   "page": "items/materials/rooibos-1628543982.md",
+   "json": "items/materials/rooibos-1628543982.json"
+  },
+  {
+   "id": 1257792166,
+   "name": "Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1257792166.png",
+   "page": "items/materials/rubble-1257792166.md",
+   "json": "items/materials/rubble-1257792166.json"
+  },
+  {
+   "id": 1101501148,
+   "name": "Runes",
+   "rarity": "Rare",
+   "level": "5",
+   "image": "images/icons/1101501148.png",
+   "page": "items/materials/runes-1101501148.md",
+   "json": "items/materials/runes-1101501148.json"
+  },
+  {
+   "id": 3696168941,
+   "name": "Saffron",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/3696168941.png",
+   "page": "items/materials/saffron-3696168941.md",
+   "json": "items/materials/saffron-3696168941.json"
+  },
+  {
+   "id": 1564406835,
+   "name": "Salt",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1564406835.png",
+   "page": "items/materials/salt-1564406835.md",
+   "json": "items/materials/salt-1564406835.json"
+  },
+  {
+   "id": 2493843175,
+   "name": "Sand",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2493843175.png",
+   "page": "items/materials/sand-2493843175.md",
+   "json": "items/materials/sand-2493843175.json"
+  },
+  {
+   "id": 4079068070,
+   "name": "Sanddigger Scales",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/4079068070.png",
+   "page": "items/materials/sanddigger-scales-4079068070.md",
+   "json": "items/materials/sanddigger-scales-4079068070.json"
+  },
+  {
+   "id": 1401630464,
+   "name": "Sandstone",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1401630464.png",
+   "page": "items/materials/sandstone-1401630464.md",
+   "json": "items/materials/sandstone-1401630464.json"
+  },
+  {
+   "id": 3574383404,
+   "name": "Scavenger Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/3574383404.png",
+   "page": "items/materials/scavenger-head-3574383404.md",
+   "json": "items/materials/scavenger-head-3574383404.json"
+  },
+  {
+   "id": 310580024,
+   "name": "Shadow Rose",
+   "rarity": "Uncommon",
+   "level": "33",
+   "image": "images/icons/310580024.png",
+   "page": "items/materials/shadow-rose-310580024.md",
+   "json": "items/materials/shadow-rose-310580024.json"
+  },
+  {
+   "id": 3614911410,
+   "name": "Shortcrust Pastry Base",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/3614911410.png",
+   "page": "items/materials/shortcrust-pastry-base-3614911410.md",
+   "json": "items/materials/shortcrust-pastry-base-3614911410.json"
+  },
+  {
+   "id": 1047122195,
+   "name": "Shroud Adhesive",
+   "rarity": "Uncommon",
+   "level": "18",
+   "image": "images/icons/1047122195.png",
+   "page": "items/materials/shroud-adhesive-1047122195.md",
+   "json": "items/materials/shroud-adhesive-1047122195.json"
+  },
+  {
+   "id": 853884133,
+   "name": "Shroud Eminence",
+   "rarity": "Epic",
+   "level": "40",
+   "image": "images/icons/853884133.png",
+   "page": "items/materials/shroud-eminence-853884133.md",
+   "json": "items/materials/shroud-eminence-853884133.json"
+  },
+  {
+   "id": 3622683972,
+   "name": "Shroud Fragments",
+   "rarity": "Uncommon",
+   "level": "18",
+   "image": "images/icons/3622683972.png",
+   "page": "items/materials/shroud-fragments-3622683972.md",
+   "json": "items/materials/shroud-fragments-3622683972.json"
+  },
+  {
+   "id": 3234886486,
+   "name": "Shroud Infused Farm Soil",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3234886486.png",
+   "page": "items/materials/shroud-infused-farm-soil-3234886486.md",
+   "json": "items/materials/shroud-infused-farm-soil-3234886486.json"
+  },
+  {
+   "id": 342099111,
+   "name": "Shroud Jelly",
+   "rarity": "Uncommon",
+   "level": "18",
+   "image": "images/icons/342099111.png",
+   "page": "items/materials/shroud-jelly-342099111.md",
+   "json": "items/materials/shroud-jelly-342099111.json"
+  },
+  {
+   "id": 4229884102,
+   "name": "Shroud Mush",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/4229884102.png",
+   "page": "items/materials/shroud-mush-4229884102.md",
+   "json": "items/materials/shroud-mush-4229884102.json"
+  },
+  {
+   "id": 634473105,
+   "name": "Shroud Nexus",
+   "rarity": "Epic",
+   "level": "18",
+   "image": "images/icons/634473105.png",
+   "page": "items/materials/shroud-nexus-634473105.md",
+   "json": "items/materials/shroud-nexus-634473105.json"
+  },
+  {
+   "id": 3581489769,
+   "name": "Shroud Relic",
+   "rarity": "Uncommon",
+   "level": "40",
+   "image": "images/icons/3581489769.png",
+   "page": "items/materials/shroud-relic-3581489769.md",
+   "json": "items/materials/shroud-relic-3581489769.json"
+  },
+  {
+   "id": 1172450293,
+   "name": "Shroud Sand",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/1172450293.png",
+   "page": "items/materials/shroud-sand-1172450293.md",
+   "json": "items/materials/shroud-sand-1172450293.json"
+  },
+  {
+   "id": 1803037496,
+   "name": "Shroud Slime",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1803037496.png",
+   "page": "items/materials/shroud-slime-1803037496.md",
+   "json": "items/materials/shroud-slime-1803037496.json"
+  },
+  {
+   "id": 1887186828,
+   "name": "Shroud Sludge",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1887186828.png",
+   "page": "items/materials/shroud-sludge-1887186828.md",
+   "json": "items/materials/shroud-sludge-1887186828.json"
+  },
+  {
+   "id": 579568751,
+   "name": "Shroud Vapor",
+   "rarity": "Rare",
+   "level": "33",
+   "image": "images/icons/579568751.png",
+   "page": "items/materials/shroud-vapor-579568751.md",
+   "json": "items/materials/shroud-vapor-579568751.json"
+  },
+  {
+   "id": 3748695465,
+   "name": "Silver Key",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3748695465.png",
+   "page": "items/materials/silver-key-3748695465.md",
+   "json": "items/materials/silver-key-3748695465.json"
+  },
+  {
+   "id": 1368893472,
+   "name": "Skeleton Heavy head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1368893472.png",
+   "page": "items/materials/skeleton-heavy-head-1368893472.md",
+   "json": "items/materials/skeleton-heavy-head-1368893472.json"
+  },
+  {
+   "id": 2573714663,
+   "name": "Skeleton T7 Boss Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2573714663.png",
+   "page": "items/materials/skeleton-t7-boss-head-2573714663.md",
+   "json": "items/materials/skeleton-t7-boss-head-2573714663.json"
+  },
+  {
+   "id": 2339068671,
+   "name": "Small Boss Trophy Vukah",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2339068671.png",
+   "page": "items/materials/small-boss-trophy-vukah-2339068671.md",
+   "json": "items/materials/small-boss-trophy-vukah-2339068671.json"
+  },
+  {
+   "id": 844454296,
+   "name": "Sparkling Dust",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/844454296.png",
+   "page": "items/materials/sparkling-dust-844454296.md",
+   "json": "items/materials/sparkling-dust-844454296.json"
+  },
+  {
+   "id": 1126086984,
+   "name": "Spice",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/1126086984.png",
+   "page": "items/materials/spice-1126086984.md",
+   "json": "items/materials/spice-1126086984.json"
+  },
+  {
+   "id": 1212327967,
+   "name": "Spider Gland",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1212327967.png",
+   "page": "items/materials/spider-gland-1212327967.md",
+   "json": "items/materials/spider-gland-1212327967.json"
+  },
+  {
+   "id": 2732808327,
+   "name": "Steppes Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2732808327.png",
+   "page": "items/materials/steppes-dirt-2732808327.md",
+   "json": "items/materials/steppes-dirt-2732808327.json"
+  },
+  {
+   "id": 3232269711,
+   "name": "Steppes Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3232269711.png",
+   "page": "items/materials/steppes-rubble-3232269711.md",
+   "json": "items/materials/steppes-rubble-3232269711.json"
+  },
+  {
+   "id": 631520303,
+   "name": "Stone",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/631520303.png",
+   "page": "items/materials/stone-631520303.md",
+   "json": "items/materials/stone-631520303.json"
+  },
+  {
+   "id": 3921293392,
+   "name": "Straw",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/3921293392.png",
+   "page": "items/materials/straw-3921293392.md",
+   "json": "items/materials/straw-3921293392.json"
+  },
+  {
+   "id": 419344916,
+   "name": "String",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/419344916.png",
+   "page": "items/materials/string-419344916.md",
+   "json": "items/materials/string-419344916.json"
+  },
+  {
+   "id": 2819734894,
+   "name": "Sulfur",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/2819734894.png",
+   "page": "items/materials/sulfur-2819734894.md",
+   "json": "items/materials/sulfur-2819734894.json"
+  },
+  {
+   "id": 4219078478,
+   "name": "T2 fertile Talltree Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4219078478.png",
+   "page": "items/materials/t2-fertile-talltree-dirt-4219078478.md",
+   "json": "items/materials/t2-fertile-talltree-dirt-4219078478.json"
+  },
+  {
+   "id": 2385754716,
+   "name": "T2 tall trees dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2385754716.png",
+   "page": "items/materials/t2-tall-trees-dirt-2385754716.md",
+   "json": "items/materials/t2-tall-trees-dirt-2385754716.json"
+  },
+  {
+   "id": 760251531,
+   "name": "T2 Talltree Stone",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/760251531.png",
+   "page": "items/materials/t2-talltree-stone-760251531.md",
+   "json": "items/materials/t2-talltree-stone-760251531.json"
+  },
+  {
+   "id": 3620677285,
+   "name": "T2 Talltrees Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3620677285.png",
+   "page": "items/materials/t2-talltrees-rubble-3620677285.md",
+   "json": "items/materials/t2-talltrees-rubble-3620677285.json"
+  },
+  {
+   "id": 1453689781,
+   "name": "T3 Green essence",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/1453689781.png",
+   "page": "items/materials/t3-green-essence-1453689781.md",
+   "json": "items/materials/t3-green-essence-1453689781.json"
+  },
+  {
+   "id": 2080424991,
+   "name": "T5 Mountain Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2080424991.png",
+   "page": "items/materials/t5-mountain-dirt-2080424991.md",
+   "json": "items/materials/t5-mountain-dirt-2080424991.json"
+  },
+  {
+   "id": 4005698976,
+   "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/4005698976.png",
+   "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+   "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+  },
+  {
+   "id": 2572858337,
+   "name": "T6 Material Gold Coins",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2572858337.png",
+   "page": "items/materials/t6-material-gold-coins-2572858337.md",
+   "json": "items/materials/t6-material-gold-coins-2572858337.json"
+  },
+  {
+   "id": 4095370049,
+   "name": "T6 Wetlands Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4095370049.png",
+   "page": "items/materials/t6-wetlands-dirt-4095370049.md",
+   "json": "items/materials/t6-wetlands-dirt-4095370049.json"
+  },
+  {
+   "id": 2252426664,
+   "name": "T6 Wetlands Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2252426664.png",
+   "page": "items/materials/t6-wetlands-rubble-2252426664.md",
+   "json": "items/materials/t6-wetlands-rubble-2252426664.json"
+  },
+  {
+   "id": 2181045178,
+   "name": "T6 Wetlands Sand",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2181045178.png",
+   "page": "items/materials/t6-wetlands-sand-2181045178.md",
+   "json": "items/materials/t6-wetlands-sand-2181045178.json"
+  },
+  {
+   "id": 2421105715,
+   "name": "T7 AncientLand Dirt",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2421105715.png",
+   "page": "items/materials/t7-ancientland-dirt-2421105715.md",
+   "json": "items/materials/t7-ancientland-dirt-2421105715.json"
+  },
+  {
+   "id": 2780052662,
+   "name": "T7 AncientLand Rubble",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2780052662.png",
+   "page": "items/materials/t7-ancientland-rubble-2780052662.md",
+   "json": "items/materials/t7-ancientland-rubble-2780052662.json"
+  },
+  {
+   "id": 3899759098,
+   "name": "T7 AncientLand Sand",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3899759098.png",
+   "page": "items/materials/t7-ancientland-sand-3899759098.md",
+   "json": "items/materials/t7-ancientland-sand-3899759098.json"
+  },
+  {
+   "id": 2851443310,
+   "name": "T7 material Ancient Land granite stone",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2851443310.png",
+   "page": "items/materials/t7-material-ancient-land-granite-stone-2851443310.md",
+   "json": "items/materials/t7-material-ancient-land-granite-stone-2851443310.json"
+  },
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1714627847.png",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  },
+  {
+   "id": 1072522988,
+   "name": "Tin Bars",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/1072522988.png",
+   "page": "items/materials/tin-bars-1072522988.md",
+   "json": "items/materials/tin-bars-1072522988.json"
+  },
+  {
+   "id": 3749540900,
+   "name": "Tin Ore",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/3749540900.png",
+   "page": "items/materials/tin-ore-3749540900.md",
+   "json": "items/materials/tin-ore-3749540900.json"
+  },
+  {
+   "id": 1496290527,
+   "name": "Torn Cloth",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1496290527.png",
+   "page": "items/materials/torn-cloth-1496290527.md",
+   "json": "items/materials/torn-cloth-1496290527.json"
+  },
+  {
+   "id": 1549788273,
+   "name": "Toxic Goo",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1549788273.png",
+   "page": "items/materials/toxic-goo-1549788273.md",
+   "json": "items/materials/toxic-goo-1549788273.json"
+  },
+  {
+   "id": 3577968307,
+   "name": "Treehouse Material",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3577968307.png",
+   "page": "items/materials/treehouse-material-3577968307.md",
+   "json": "items/materials/treehouse-material-3577968307.json"
+  },
+  {
+   "id": 2310197711,
+   "name": "Trophy Cyclops",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2310197711.png",
+   "page": "items/materials/trophy-cyclops-2310197711.md",
+   "json": "items/materials/trophy-cyclops-2310197711.json"
+  },
+  {
+   "id": 1283252179,
+   "name": "Tropical Wood",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/1283252179.png",
+   "page": "items/materials/tropical-wood-1283252179.md",
+   "json": "items/materials/tropical-wood-1283252179.json"
+  },
+  {
+   "id": 1798662696,
+   "name": "Twig",
+   "rarity": "Common",
+   "level": "1",
+   "image": "images/icons/1798662696.png",
+   "page": "items/materials/twig-1798662696.md",
+   "json": "items/materials/twig-1798662696.json"
+  },
+  {
+   "id": 1068232992,
+   "name": "Underwater Luminous Growth",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1068232992.png",
+   "page": "items/materials/underwater-luminous-growth-1068232992.md",
+   "json": "items/materials/underwater-luminous-growth-1068232992.json"
+  },
+  {
+   "id": 890360552,
+   "name": "Underwater Mud",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/890360552.png",
+   "page": "items/materials/underwater-mud-890360552.md",
+   "json": "items/materials/underwater-mud-890360552.json"
+  },
+  {
+   "id": 1940778781,
+   "name": "Vorgoth Blood",
+   "rarity": "Common",
+   "level": "45",
+   "image": "images/icons/1940778781.png",
+   "page": "items/materials/vorgoth-blood-1940778781.md",
+   "json": "items/materials/vorgoth-blood-1940778781.json"
+  },
+  {
+   "id": 4036190833,
+   "name": "Vorgoth Eye",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/4036190833.png",
+   "page": "items/materials/vorgoth-eye-4036190833.md",
+   "json": "items/materials/vorgoth-eye-4036190833.json"
+  },
+  {
+   "id": 3770110946,
+   "name": "Water Dodge",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/water-dodge-3770110946.md",
+   "json": "items/materials/water-dodge-3770110946.json"
+  },
+  {
+   "id": 2821339070,
+   "name": "Water Reptile Hide",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2821339070.png",
+   "page": "items/materials/water-reptile-hide-2821339070.md",
+   "json": "items/materials/water-reptile-hide-2821339070.json"
+  },
+  {
+   "id": 2059656108,
+   "name": "Water Reptile Leather",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/2059656108.png",
+   "page": "items/materials/water-reptile-leather-2059656108.md",
+   "json": "items/materials/water-reptile-leather-2059656108.json"
+  },
+  {
+   "id": 1451410091,
+   "name": "Wax",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1451410091.png",
+   "page": "items/materials/wax-1451410091.md",
+   "json": "items/materials/wax-1451410091.json"
+  },
+  {
+   "id": 2593704943,
+   "name": "Weapon Skill",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/weapon-skill-2593704943.md",
+   "json": "items/materials/weapon-skill-2593704943.json"
+  },
+  {
+   "id": 433052744,
+   "name": "Weapon Skill",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/weapon-skill-433052744.md",
+   "json": "items/materials/weapon-skill-433052744.json"
+  },
+  {
+   "id": 2435149273,
+   "name": "Wheat Grains",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/2435149273.png",
+   "page": "items/materials/wheat-grains-2435149273.md",
+   "json": "items/materials/wheat-grains-2435149273.json"
+  },
+  {
+   "id": 2222257671,
+   "name": "Whirl Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/whirl-attack-2222257671.md",
+   "json": "items/materials/whirl-attack-2222257671.json"
+  },
+  {
+   "id": 3553538325,
+   "name": "Wildbeast Scales (Scorpion and maybe SandDigger)",
+   "rarity": "Common",
+   "level": "40",
+   "image": "images/icons/3553538325.png",
+   "page": "items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.md",
+   "json": "items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.json"
+  },
+  {
+   "id": 1285378490,
+   "name": "Wolf Heavy Head",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1285378490.png",
+   "page": "items/materials/wolf-heavy-head-1285378490.md",
+   "json": "items/materials/wolf-heavy-head-1285378490.json"
+  },
+  {
+   "id": 1635234852,
+   "name": "Wood Acid",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1635234852.png",
+   "page": "items/materials/wood-acid-1635234852.md",
+   "json": "items/materials/wood-acid-1635234852.json"
+  },
+  {
+   "id": 722268629,
+   "name": "Wood Logs",
+   "rarity": "Common",
+   "level": "1",
+   "image": "images/icons/722268629.png",
+   "page": "items/materials/wood-logs-722268629.md",
+   "json": "items/materials/wood-logs-722268629.json"
+  },
+  {
+   "id": 1626290897,
+   "name": "Wood Planks",
+   "rarity": "Common",
+   "level": "13",
+   "image": "images/icons/1626290897.png",
+   "page": "items/materials/wood-planks-1626290897.md",
+   "json": "items/materials/wood-planks-1626290897.json"
+  },
+  {
+   "id": 2837376937,
+   "name": "Wool",
+   "rarity": "Common",
+   "level": "33",
+   "image": "images/icons/2837376937.png",
+   "page": "items/materials/wool-2837376937.md",
+   "json": "items/materials/wool-2837376937.json"
+  },
+  {
+   "id": 3436629486,
+   "name": "Yellow Fabric",
+   "rarity": "Common",
+   "level": "25",
+   "image": "images/icons/3436629486.png",
+   "page": "items/materials/yellow-fabric-3436629486.md",
+   "json": "items/materials/yellow-fabric-3436629486.json"
+  }
+ ]
+}

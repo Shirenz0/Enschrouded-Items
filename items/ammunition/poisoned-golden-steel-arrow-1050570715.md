@@ -32,4 +32,4 @@ Crafting, Huntress
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](poisoned-golden-steel-arrow-1050570715.json)

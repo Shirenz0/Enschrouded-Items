@@ -17,4 +17,4 @@ Warm, light and agile. This piece of armor is a great fit for adventurers!
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-dps-chest.json)

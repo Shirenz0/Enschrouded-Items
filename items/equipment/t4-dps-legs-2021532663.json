@@ -1,0 +1,77 @@
+{
+ "id": 2021532663,
+ "name": "T4 DPS Legs",
+ "internalName": "Armor_T4_Warrior_Rogue_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2021532663.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The metal plates provide added protection against arrows.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-dps-legs.md",
+  "json": "objects/equipment/t4-dps-legs.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  }
+ ],
+ "page": "items/equipment/t4-dps-legs-2021532663.md"
+}

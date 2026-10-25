@@ -27,4 +27,4 @@ The Scroll summons a Fire Wisp that follows, assists you in battle and spends li
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](summoning-of-a-fire-wisp-823453977.json)

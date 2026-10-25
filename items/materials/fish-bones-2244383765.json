@@ -1,0 +1,66 @@
+{
+ "id": 2244383765,
+ "name": "Fish Bones",
+ "internalName": "Material_T6_Fish_Bones",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2244383765.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 fish bones desc",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2801489466,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4044713321,
+      "name": "Fish epic 01 name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2520666169,
+   "name": "Uncommon Bait",
+   "page": "items/ammunition/uncommon-bait-2520666169.md",
+   "json": "items/ammunition/uncommon-bait-2520666169.json"
+  },
+  {
+   "id": 1246545941,
+   "name": "Common Bait",
+   "page": "items/ammunition/common-bait-1246545941.md",
+   "json": "items/ammunition/common-bait-1246545941.json"
+  }
+ ],
+ "page": "items/materials/fish-bones-2244383765.md"
+}

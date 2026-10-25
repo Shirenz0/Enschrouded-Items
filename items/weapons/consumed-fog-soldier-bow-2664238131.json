@@ -1,0 +1,73 @@
+{
+ "id": 2664238131,
+ "name": "Consumed fog soldier bow",
+ "internalName": "Weapon_T2_2H_Lore_BowEpic_Ministory_15",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2664238131.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": ": A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/consumed-fog-soldier-bow.md",
+  "json": "objects/weapons/consumed-fog-soldier-bow.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Ranged weapon",
+  "values": [
+   {
+    "label": "Draw Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Arrow Speed",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Health Leech",
+   "effect": "+4 Health Leech"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Stamina Leech",
+   "effect": "On Hit Leech 5% Damage as Stamina"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/consumed-fog-soldier-bow-2664238131.md"
+}

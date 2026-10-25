@@ -19,4 +19,4 @@ A staff that harnesses the power of the eclipsed sun. It functions best when onl
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](darya-s-staff.json)

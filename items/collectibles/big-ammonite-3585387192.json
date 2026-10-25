@@ -1,0 +1,25 @@
+{
+ "id": 3585387192,
+ "name": "Big Ammonite",
+ "internalName": "Collection_fossils_01_Ammonites_ammonite_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3585387192.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An impressively big ammonite fossil. It's beautiful shape and ridges were largerly preserved from the passage of time, as well as the onset of the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/big-ammonite-3585387192.md"
+}

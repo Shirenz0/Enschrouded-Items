@@ -1,0 +1,117 @@
+{
+ "id": 377316946,
+ "name": "T7 Eternal Light Burst II",
+ "internalName": "Ammo_T7_Spell_Fire_Lightburst_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/377316946.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A spellstone imbued with the power of the T3 Light Burst spell. Are you in need of a flashlight? Without the use of ammunition, the user is able to infintely flash his surrounding with a bright burst of light, pushing back enemies.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 35,
+    "display": "35",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-4 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-4 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-6 Charge_Duration_Mod"
+  },
+  {
+   "order": 5,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-6 Mana_Cost_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 286691186,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 30,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 885155884,
+      "name": "T7 material stone",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-light-burst-ii-377316946.md"
+}

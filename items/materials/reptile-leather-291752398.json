@@ -1,0 +1,126 @@
+{
+ "id": 291752398,
+ "name": "Reptile Leather",
+ "internalName": "Material_T2_Reptile_Leather",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/291752398.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A sturdy material, which can be used in tailoring.",
+ "lore": null,
+ "whereToFind": "Crafting, Drying Rack",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 63722873,
+   "station": "Drying Rack",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2845598712,
+      "name": "Reptile Hide",
+      "page": "items/materials/reptile-hide-2845598712.md",
+      "json": "items/materials/reptile-hide-2845598712.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3773368910,
+   "name": "Medium Backpack",
+   "page": "items/equipment/medium-backpack-3773368910.md",
+   "json": "items/equipment/medium-backpack-3773368910.json"
+  },
+  {
+   "id": 1108317357,
+   "name": "T2 DPS Arms",
+   "page": "items/equipment/t2-dps-arms-1108317357.md",
+   "json": "items/equipment/t2-dps-arms-1108317357.json"
+  },
+  {
+   "id": 4279969253,
+   "name": "T2 DPS Helmet",
+   "page": "items/equipment/t2-dps-helmet-4279969253.md",
+   "json": "items/equipment/t2-dps-helmet-4279969253.json"
+  },
+  {
+   "id": 4089349181,
+   "name": "T2 Healer Boots",
+   "page": "items/equipment/t2-healer-boots-4089349181.md",
+   "json": "items/equipment/t2-healer-boots-4089349181.json"
+  },
+  {
+   "id": 2841320705,
+   "name": "T2 Mage Boots",
+   "page": "items/equipment/t2-mage-boots-2841320705.md",
+   "json": "items/equipment/t2-mage-boots-2841320705.json"
+  },
+  {
+   "id": 2374868988,
+   "name": "T2 Ranger Legs",
+   "page": "items/equipment/t2-ranger-legs-2374868988.md",
+   "json": "items/equipment/t2-ranger-legs-2374868988.json"
+  },
+  {
+   "id": 1883961235,
+   "name": "T2 Ranger Arms",
+   "page": "items/equipment/t2-ranger-arms-1883961235.md",
+   "json": "items/equipment/t2-ranger-arms-1883961235.json"
+  },
+  {
+   "id": 1856277122,
+   "name": "T2 Ranger Chest",
+   "page": "items/equipment/t2-ranger-chest-1856277122.md",
+   "json": "items/equipment/t2-ranger-chest-1856277122.json"
+  },
+  {
+   "id": 3559413170,
+   "name": "T2 Archer Legs",
+   "page": "items/equipment/t2-archer-legs-3559413170.md",
+   "json": "items/equipment/t2-archer-legs-3559413170.json"
+  },
+  {
+   "id": 2683908044,
+   "name": "T2 Archer Arms",
+   "page": "items/equipment/t2-archer-arms-2683908044.md",
+   "json": "items/equipment/t2-archer-arms-2683908044.json"
+  },
+  {
+   "id": 1543470770,
+   "name": "T2 Archer Chest",
+   "page": "items/equipment/t2-archer-chest-1543470770.md",
+   "json": "items/equipment/t2-archer-chest-1543470770.json"
+  },
+  {
+   "id": 1555932121,
+   "name": "T2 Tank Chest",
+   "page": "items/equipment/t2-tank-chest-1555932121.md",
+   "json": "items/equipment/t2-tank-chest-1555932121.json"
+  }
+ ],
+ "page": "items/materials/reptile-leather-291752398.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 4286241624,
+ "name": "Baby Bird",
+ "internalName": "Animal_Baby_Bird_Desert",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4286241624.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Cute little flappy",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-bird-4286241624.md"
+}

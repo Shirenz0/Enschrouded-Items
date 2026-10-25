@@ -1,0 +1,131 @@
+{
+ "id": 469436401,
+ "name": "Improved Fishing Rod",
+ "internalName": "Tool_T4_FishingRod_improved",
+ "category": {
+  "id": "FishingRod",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/469436401.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "stronger to catch uncommon/rare fish",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "values": [
+   {
+    "label": "Fishing Strength",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fishing Endurance",
+    "value": 45,
+    "display": "45",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3049287913,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 2967793968,
+       "name": "T2 Palette 03 Grey and Blue",
+       "page": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.md",
+       "json": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.json"
+      },
+      {
+       "id": 389689356,
+       "name": "T2 Palette 04 Grey and Blue",
+       "page": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.md",
+       "json": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.json"
+      },
+      {
+       "id": 2125851720,
+       "name": "Tbd T2 Palette 01 Reward Blue, Blue And Blue",
+       "page": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.md",
+       "json": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.json"
+      },
+      {
+       "id": 4286973253,
+       "name": "Tbd T2 Palette 02 Reward",
+       "page": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.md",
+       "json": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.json"
+      },
+      {
+       "id": 3494273287,
+       "name": "Gold In The Water",
+       "page": "items/colorpalette/gold-in-the-water-3494273287.md",
+       "json": "items/colorpalette/gold-in-the-water-3494273287.json"
+      },
+      {
+       "id": 855563189,
+       "name": "Fell Fashion",
+       "page": "items/colorpalette/fell-fashion-855563189.md",
+       "json": "items/colorpalette/fell-fashion-855563189.json"
+      },
+      {
+       "id": 3909173375,
+       "name": "Color palette t6 reward 02 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 391330740,
+       "name": "Veil Of Blues",
+       "page": "items/colorpalette/veil-of-blues-391330740.md",
+       "json": "items/colorpalette/veil-of-blues-391330740.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/improved-fishing-rod-469436401.md"
+}

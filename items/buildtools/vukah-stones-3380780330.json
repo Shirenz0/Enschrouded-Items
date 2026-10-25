@@ -1,0 +1,60 @@
+{
+ "id": 3380780330,
+ "name": "Vukah Stones",
+ "internalName": "Block_T2_Stone_Vukah_DungeonWall_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3380780330.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Weathered stones, either built or reclaimed by the Vukah faction in the Blackmire.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2103995674,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 760251531,
+      "name": "T2 Talltree Stone",
+      "page": "items/materials/t2-talltree-stone-760251531.md",
+      "json": "items/materials/t2-talltree-stone-760251531.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2385754716,
+      "name": "T2 tall trees dirt",
+      "page": "items/materials/t2-tall-trees-dirt-2385754716.md",
+      "json": "items/materials/t2-tall-trees-dirt-2385754716.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2849381153,
+   "name": "Stone Wall Secret TallTree",
+   "page": "items/buildtools/stone-wall-secret-talltree-2849381153.md",
+   "json": "items/buildtools/stone-wall-secret-talltree-2849381153.json"
+  }
+ ],
+ "page": "items/buildtools/vukah-stones-3380780330.md"
+}

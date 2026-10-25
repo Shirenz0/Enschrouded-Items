@@ -1,0 +1,52 @@
+{
+ "id": 3196782416,
+ "name": "Overgrowth Tool",
+ "internalName": "Tool_Building_Overgrowth",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3196782416.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical tool, capable of **adding and removing various types of overgrowth** to walls in your base. \n\nRequires to be **within the range of a Flame Altar** to work.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2045904519,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1511796527,
+      "name": "Grilled Penny Bun",
+      "page": "items/consumables/grilled-penny-bun-1511796527.md",
+      "json": "items/consumables/grilled-penny-bun-1511796527.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/blueprints/overgrowth-tool-3196782416.md"
+}

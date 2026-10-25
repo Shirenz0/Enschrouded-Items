@@ -1,0 +1,35 @@
+{
+ "name": "Alchemist Apprentice Gloves",
+ "category": "Equipment",
+ "image": "images/icons/3303276493.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2958403525,
+   "name": "Alchemist Apprentice Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2958403525.png",
+   "page": "items/equipment/alchemist-apprentice-gloves-2958403525.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-2958403525.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3303276493,
+   "name": "Alchemist Apprentice Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3303276493.png",
+   "page": "items/equipment/alchemist-apprentice-gloves-3303276493.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-3303276493.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/alchemist-apprentice-gloves.md"
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Ripped Alchemist's Wall Hanging",
+ "category": "Collectibles",
+ "image": "images/icons/2365197861.png",
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1372134498,
+   "name": "Ripped Alchemist's Wall Hanging",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1372134498.png",
+   "page": "items/collectibles/ripped-alchemist-s-wall-hanging-1372134498.md",
+   "json": "items/collectibles/ripped-alchemist-s-wall-hanging-1372134498.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2365197861,
+   "name": "Ripped Alchemist's Wall Hanging",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2365197861.png",
+   "page": "items/collectibles/ripped-alchemist-s-wall-hanging-2365197861.md",
+   "json": "items/collectibles/ripped-alchemist-s-wall-hanging-2365197861.json",
+   "maxStack": 20,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/collectibles/ripped-alchemist-s-wall-hanging.md"
+}

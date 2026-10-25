@@ -1,0 +1,61 @@
+{
+ "id": 3232269711,
+ "name": "Steppes Rubble",
+ "internalName": "Build_TerrainMaterial_T3_Steppes_Rubble",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3232269711.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "mix of materials, mainly stones and dirt",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2607715018,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1257792166,
+      "name": "Rubble",
+      "page": "items/materials/rubble-1257792166.md",
+      "json": "items/materials/rubble-1257792166.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2732808327,
+      "name": "Steppes Dirt",
+      "page": "items/materials/steppes-dirt-2732808327.md",
+      "json": "items/materials/steppes-dirt-2732808327.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/steppes-rubble-3232269711.md"
+}

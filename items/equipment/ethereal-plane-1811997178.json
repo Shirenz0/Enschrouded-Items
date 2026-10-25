@@ -1,0 +1,79 @@
+{
+ "id": 1811997178,
+ "name": "Ethereal Plane",
+ "internalName": "Ward_T4_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1811997178.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "ward t4 desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/ethereal-plane.md",
+  "json": "objects/equipment/ethereal-plane.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ice Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Eternal Spark",
+   "effect": "Increases the skill level of Eternal Spark by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Ice Resistance",
+   "effect": "Increases the skill level of Ice Resistance by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Arcane Deflection",
+   "effect": "Increases the skill level of Arcane Deflection by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Unity",
+   "effect": "Increases the skill level of Unity by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/ethereal-plane-1811997178.md"
+}

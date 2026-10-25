@@ -1,0 +1,70 @@
+{
+ "id": 3568384766,
+ "name": "T4 Dungeon bookrest",
+ "internalName": "Prop_Decoration_T4_Bookrest_Dungeon",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3568384766.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A tome og ancient History presented on an Iron Stand.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3963298785,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 287018928,
+      "name": "Paper",
+      "page": "items/materials/paper-287018928.md",
+      "json": "items/materials/paper-287018928.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t4-dungeon-bookrest-3568384766.md"
+}

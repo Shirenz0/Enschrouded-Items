@@ -1,0 +1,43 @@
+{
+ "id": 2670548968,
+ "name": "T6 Palm Leaf Roof",
+ "internalName": "Block_Roof_T6_Palmleaves",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2670548968.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 palm leaf roof description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2194166697,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 521230189,
+      "name": "Palm Leaves",
+      "page": "items/materials/palm-leaves-521230189.md",
+      "json": "items/materials/palm-leaves-521230189.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/t6-palm-leaf-roof-2670548968.md"
+}

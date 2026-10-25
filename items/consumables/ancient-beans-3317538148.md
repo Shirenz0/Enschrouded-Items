@@ -32,4 +32,4 @@ Ancient Land
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](ancient-beans-3317538148.json)

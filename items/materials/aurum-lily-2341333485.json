@@ -1,0 +1,93 @@
+{
+ "id": 2341333485,
+ "name": "Aurum Lily",
+ "internalName": "Material_T3_Night_AurumLily",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/2341333485.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Aurum  Lily - has a strong healing effect if processed correctly.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands, night",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 587195934,
+   "name": "Nightplant Soup",
+   "page": "items/consumables/nightplant-soup-587195934.md",
+   "json": "items/consumables/nightplant-soup-587195934.json"
+  },
+  {
+   "id": 4065514205,
+   "name": "Great Mana Potion improved",
+   "page": "items/consumables/great-mana-potion-improved-4065514205.md",
+   "json": "items/consumables/great-mana-potion-improved-4065514205.json"
+  },
+  {
+   "id": 2591238243,
+   "name": "T3 Eternal Mana Leech Beam IV",
+   "page": "items/ammunition/t3-eternal-mana-leech-beam-iv-2591238243.md",
+   "json": "items/ammunition/t3-eternal-mana-leech-beam-iv-2591238243.json"
+  },
+  {
+   "id": 4044132453,
+   "name": "T3 Shock Totem I",
+   "page": "items/ammunition/t3-shock-totem-i-4044132453.md",
+   "json": "items/ammunition/t3-shock-totem-i-4044132453.json"
+  },
+  {
+   "id": 1361344405,
+   "name": "Tbd T3 Palette 03 Reward",
+   "page": "items/colorpalette/tbd-t3-palette-03-reward-1361344405.md",
+   "json": "items/colorpalette/tbd-t3-palette-03-reward-1361344405.json"
+  },
+  {
+   "id": 1017300382,
+   "name": "Tbd T3 Palette 02 Reward",
+   "page": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.md",
+   "json": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.json"
+  },
+  {
+   "id": 2717669072,
+   "name": "T3 Palette 01 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-01-brown-green-grey-2717669072.md",
+   "json": "items/colorpalette/t3-palette-01-brown-green-grey-2717669072.json"
+  },
+  {
+   "id": 649877474,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-649877474.md",
+   "json": "items/weapons/jezmina-s-apotheosis-649877474.json"
+  },
+  {
+   "id": 1240317845,
+   "name": "T3 Healer Helmet",
+   "page": "items/equipment/t3-healer-helmet-1240317845.md",
+   "json": "items/equipment/t3-healer-helmet-1240317845.json"
+  },
+  {
+   "id": 2743374359,
+   "name": "T3 Mage Legs",
+   "page": "items/equipment/t3-mage-legs-2743374359.md",
+   "json": "items/equipment/t3-mage-legs-2743374359.json"
+  },
+  {
+   "id": 886063879,
+   "name": "T3 Mage Arms",
+   "page": "items/equipment/t3-mage-arms-886063879.md",
+   "json": "items/equipment/t3-mage-arms-886063879.json"
+  }
+ ],
+ "page": "items/materials/aurum-lily-2341333485.md"
+}

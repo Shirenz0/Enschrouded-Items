@@ -1,0 +1,25 @@
+{
+ "id": 591631065,
+ "name": "Wood Foundation",
+ "internalName": "_Blueprint_Voxel_Debug_buildingmaterials",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/591631065.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This tool can only be used inside the building area around an Altar. It can help you to quickly build your desired base with pre-defined structures.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/wood-foundation-591631065.md"
+}

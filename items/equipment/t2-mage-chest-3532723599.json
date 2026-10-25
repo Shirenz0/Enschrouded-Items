@@ -1,0 +1,71 @@
+{
+ "id": 3532723599,
+ "name": "T2 Mage Chest",
+ "internalName": "Armor_T2_Mage_Wizard_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3532723599.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A fibre-made garment held together by oakwood buttons, a woven belt and magic itself! Mostly by the buttons, though.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-mage-chest.md",
+  "json": "objects/equipment/t2-mage-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+15 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Dark Arts",
+   "effect": "Increases the skill level of Dark Arts by +1"
+  }
+ ],
+ "page": "items/equipment/t2-mage-chest-3532723599.md"
+}

@@ -1,0 +1,423 @@
+{
+ "id": 1475408789,
+ "name": "Conifer Logs",
+ "internalName": "Material_T5_Wood_Logs_Pine",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/1475408789.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Conifer Logs Desc",
+ "lore": null,
+ "whereToFind": "Albaneve Summits",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3816427504,
+   "name": "T5 Pine tree seedling",
+   "page": "items/buildtools/t5-pine-tree-seedling-3816427504.md",
+   "json": "items/buildtools/t5-pine-tree-seedling-3816427504.json"
+  },
+  {
+   "id": 65433484,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-65433484.md",
+   "json": "items/weapons/fenrig-s-axe-65433484.json"
+  },
+  {
+   "id": 2030714844,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-2030714844.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2030714844.json"
+  },
+  {
+   "id": 552284259,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-552284259.md",
+   "json": "items/weapons/lupa-s-scalper-552284259.json"
+  },
+  {
+   "id": 1608083210,
+   "name": "Dragonsbane",
+   "page": "items/weapons/dragonsbane-1608083210.md",
+   "json": "items/weapons/dragonsbane-1608083210.json"
+  },
+  {
+   "id": 1092596290,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-1092596290.md",
+   "json": "items/weapons/halescourge-1092596290.json"
+  },
+  {
+   "id": 2903659724,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-2903659724.md",
+   "json": "items/equipment/riptide-2903659724.json"
+  },
+  {
+   "id": 1294112531,
+   "name": "T5 Shield DPS",
+   "page": "items/equipment/t5-shield-dps-1294112531.md",
+   "json": "items/equipment/t5-shield-dps-1294112531.json"
+  },
+  {
+   "id": 3843821992,
+   "name": "Ancestral Star",
+   "page": "items/weapons/ancestral-star-3843821992.md",
+   "json": "items/weapons/ancestral-star-3843821992.json"
+  },
+  {
+   "id": 2671987501,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-2671987501.md",
+   "json": "items/weapons/soothsayer-2671987501.json"
+  },
+  {
+   "id": 3854011426,
+   "name": "Breaching Bow",
+   "page": "items/weapons/breaching-bow-3854011426.md",
+   "json": "items/weapons/breaching-bow-3854011426.json"
+  },
+  {
+   "id": 2187973877,
+   "name": "Spearfisher Bow",
+   "page": "items/weapons/spearfisher-bow-2187973877.md",
+   "json": "items/weapons/spearfisher-bow-2187973877.json"
+  },
+  {
+   "id": 852156015,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-852156015.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-852156015.json"
+  },
+  {
+   "id": 3578254606,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-3578254606.md",
+   "json": "items/weapons/draconian-bow-3578254606.json"
+  },
+  {
+   "id": 1621012936,
+   "name": "Bed T5 Kingsize",
+   "page": "items/buildtools/bed-t5-kingsize-1621012936.md",
+   "json": "items/buildtools/bed-t5-kingsize-1621012936.json"
+  },
+  {
+   "id": 4266264621,
+   "name": "Bed T5",
+   "page": "items/buildtools/bed-t5-4266264621.md",
+   "json": "items/buildtools/bed-t5-4266264621.json"
+  },
+  {
+   "id": 175691458,
+   "name": "Big Elegant Sofa",
+   "page": "items/buildtools/big-elegant-sofa-175691458.md",
+   "json": "items/buildtools/big-elegant-sofa-175691458.json"
+  },
+  {
+   "id": 3816262638,
+   "name": "Small Elegant Sofa",
+   "page": "items/buildtools/small-elegant-sofa-3816262638.md",
+   "json": "items/buildtools/small-elegant-sofa-3816262638.json"
+  },
+  {
+   "id": 2649880194,
+   "name": "T5 Prop Decoration Comfort Bench",
+   "page": "items/buildtools/t5-prop-decoration-comfort-bench-2649880194.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-bench-2649880194.json"
+  },
+  {
+   "id": 3985086598,
+   "name": "Barber Stool",
+   "page": "items/buildtools/barber-stool-3985086598.md",
+   "json": "items/buildtools/barber-stool-3985086598.json"
+  },
+  {
+   "id": 1517397958,
+   "name": "T5 Chair",
+   "page": "items/buildtools/t5-chair-1517397958.md",
+   "json": "items/buildtools/t5-chair-1517397958.json"
+  },
+  {
+   "id": 3921820605,
+   "name": "High Elegant Armchair",
+   "page": "items/buildtools/high-elegant-armchair-3921820605.md",
+   "json": "items/buildtools/high-elegant-armchair-3921820605.json"
+  },
+  {
+   "id": 1775964566,
+   "name": "Low Elegant Armchair",
+   "page": "items/buildtools/low-elegant-armchair-1775964566.md",
+   "json": "items/buildtools/low-elegant-armchair-1775964566.json"
+  },
+  {
+   "id": 2156027596,
+   "name": "T5 Prop Decoration Comfort Illumination Floor Brazier Large",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-large-2156027596.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-large-2156027596.json"
+  },
+  {
+   "id": 3434002836,
+   "name": "T5 Prop Decoration Comfort Illumination Floor Brazier Medium",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-medium-3434002836.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-medium-3434002836.json"
+  },
+  {
+   "id": 3134588483,
+   "name": "T5 Prop Decoration Comfort Table Large",
+   "page": "items/buildtools/t5-prop-decoration-comfort-table-large-3134588483.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-table-large-3134588483.json"
+  },
+  {
+   "id": 1082994550,
+   "name": "T5 Prop Decoration Comfort Table Medium",
+   "page": "items/buildtools/t5-prop-decoration-comfort-table-medium-1082994550.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-table-medium-1082994550.json"
+  },
+  {
+   "id": 2386272825,
+   "name": "T5 Prop Decoration Comfort Table Small",
+   "page": "items/buildtools/t5-prop-decoration-comfort-table-small-2386272825.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-table-small-2386272825.json"
+  },
+  {
+   "id": 279925532,
+   "name": "T5 Prop Decoration Comfort Table Night",
+   "page": "items/buildtools/t5-prop-decoration-comfort-table-night-279925532.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-table-night-279925532.json"
+  },
+  {
+   "id": 500134615,
+   "name": "Wall Tapestry I",
+   "page": "items/buildtools/wall-tapestry-i-500134615.md",
+   "json": "items/buildtools/wall-tapestry-i-500134615.json"
+  },
+  {
+   "id": 3696120404,
+   "name": "Wall Tapestry II",
+   "page": "items/buildtools/wall-tapestry-ii-3696120404.md",
+   "json": "items/buildtools/wall-tapestry-ii-3696120404.json"
+  },
+  {
+   "id": 1201052636,
+   "name": "Wall Tapestry III",
+   "page": "items/buildtools/wall-tapestry-iii-1201052636.md",
+   "json": "items/buildtools/wall-tapestry-iii-1201052636.json"
+  },
+  {
+   "id": 1546063432,
+   "name": "Wall Tapestry IV",
+   "page": "items/buildtools/wall-tapestry-iv-1546063432.md",
+   "json": "items/buildtools/wall-tapestry-iv-1546063432.json"
+  },
+  {
+   "id": 2303973776,
+   "name": "Wall Tapestry V",
+   "page": "items/buildtools/wall-tapestry-v-2303973776.md",
+   "json": "items/buildtools/wall-tapestry-v-2303973776.json"
+  },
+  {
+   "id": 2659920887,
+   "name": "T5 Prop Decoration Mirror Large",
+   "page": "items/buildtools/t5-prop-decoration-mirror-large-2659920887.md",
+   "json": "items/buildtools/t5-prop-decoration-mirror-large-2659920887.json"
+  },
+  {
+   "id": 213165869,
+   "name": "T5 Prop Decoration Mirror Small",
+   "page": "items/buildtools/t5-prop-decoration-mirror-small-213165869.md",
+   "json": "items/buildtools/t5-prop-decoration-mirror-small-213165869.json"
+  },
+  {
+   "id": 1560142232,
+   "name": "Pinewood Room Divider I",
+   "page": "items/buildtools/pinewood-room-divider-i-1560142232.md",
+   "json": "items/buildtools/pinewood-room-divider-i-1560142232.json"
+  },
+  {
+   "id": 2995278025,
+   "name": "Pinewood Room Divider II",
+   "page": "items/buildtools/pinewood-room-divider-ii-2995278025.md",
+   "json": "items/buildtools/pinewood-room-divider-ii-2995278025.json"
+  },
+  {
+   "id": 1060167728,
+   "name": "Pinewood Room Divider III",
+   "page": "items/buildtools/pinewood-room-divider-iii-1060167728.md",
+   "json": "items/buildtools/pinewood-room-divider-iii-1060167728.json"
+  },
+  {
+   "id": 3576088941,
+   "name": "Pinewood Room Divider IV",
+   "page": "items/buildtools/pinewood-room-divider-iv-3576088941.md",
+   "json": "items/buildtools/pinewood-room-divider-iv-3576088941.json"
+  },
+  {
+   "id": 884882314,
+   "name": "Room Divider I",
+   "page": "items/buildtools/room-divider-i-884882314.md",
+   "json": "items/buildtools/room-divider-i-884882314.json"
+  },
+  {
+   "id": 817722495,
+   "name": "Room Divider II",
+   "page": "items/buildtools/room-divider-ii-817722495.md",
+   "json": "items/buildtools/room-divider-ii-817722495.json"
+  },
+  {
+   "id": 3992184683,
+   "name": "Room Divider III",
+   "page": "items/buildtools/room-divider-iii-3992184683.md",
+   "json": "items/buildtools/room-divider-iii-3992184683.json"
+  },
+  {
+   "id": 32887851,
+   "name": "Flag Pole I",
+   "page": "items/buildtools/flag-pole-i-32887851.md",
+   "json": "items/buildtools/flag-pole-i-32887851.json"
+  },
+  {
+   "id": 1596806993,
+   "name": "Flag Pole II",
+   "page": "items/buildtools/flag-pole-ii-1596806993.md",
+   "json": "items/buildtools/flag-pole-ii-1596806993.json"
+  },
+  {
+   "id": 383915057,
+   "name": "Flag Pole III",
+   "page": "items/buildtools/flag-pole-iii-383915057.md",
+   "json": "items/buildtools/flag-pole-iii-383915057.json"
+  },
+  {
+   "id": 2344368210,
+   "name": "Flag Pole V",
+   "page": "items/buildtools/flag-pole-v-2344368210.md",
+   "json": "items/buildtools/flag-pole-v-2344368210.json"
+  },
+  {
+   "id": 3929204963,
+   "name": "Flag Pole IV",
+   "page": "items/buildtools/flag-pole-iv-3929204963.md",
+   "json": "items/buildtools/flag-pole-iv-3929204963.json"
+  },
+  {
+   "id": 3078925869,
+   "name": "Flag Pole VI",
+   "page": "items/buildtools/flag-pole-vi-3078925869.md",
+   "json": "items/buildtools/flag-pole-vi-3078925869.json"
+  },
+  {
+   "id": 1596758429,
+   "name": "Pinewood Fence I",
+   "page": "items/buildtools/pinewood-fence-i-1596758429.md",
+   "json": "items/buildtools/pinewood-fence-i-1596758429.json"
+  },
+  {
+   "id": 1797805454,
+   "name": "Pinewood Fence II",
+   "page": "items/buildtools/pinewood-fence-ii-1797805454.md",
+   "json": "items/buildtools/pinewood-fence-ii-1797805454.json"
+  },
+  {
+   "id": 3212731674,
+   "name": "Pinewood Fence Pole",
+   "page": "items/buildtools/pinewood-fence-pole-3212731674.md",
+   "json": "items/buildtools/pinewood-fence-pole-3212731674.json"
+  },
+  {
+   "id": 432372158,
+   "name": "Pinewood Fence Gate I",
+   "page": "items/buildtools/pinewood-fence-gate-i-432372158.md",
+   "json": "items/buildtools/pinewood-fence-gate-i-432372158.json"
+  },
+  {
+   "id": 3886008573,
+   "name": "Pinewood Fence Gate II",
+   "page": "items/buildtools/pinewood-fence-gate-ii-3886008573.md",
+   "json": "items/buildtools/pinewood-fence-gate-ii-3886008573.json"
+  },
+  {
+   "id": 842940981,
+   "name": "Pine Wood Garden Fence I",
+   "page": "items/buildtools/pine-wood-garden-fence-i-842940981.md",
+   "json": "items/buildtools/pine-wood-garden-fence-i-842940981.json"
+  },
+  {
+   "id": 1111884223,
+   "name": "Pine Wood Garden Fence Door",
+   "page": "items/buildtools/pine-wood-garden-fence-door-1111884223.md",
+   "json": "items/buildtools/pine-wood-garden-fence-door-1111884223.json"
+  },
+  {
+   "id": 3343616857,
+   "name": "Pine Wood Garden Fence II",
+   "page": "items/buildtools/pine-wood-garden-fence-ii-3343616857.md",
+   "json": "items/buildtools/pine-wood-garden-fence-ii-3343616857.json"
+  },
+  {
+   "id": 1248457047,
+   "name": "Pine Wood Garden Fence Pole",
+   "page": "items/buildtools/pine-wood-garden-fence-pole-1248457047.md",
+   "json": "items/buildtools/pine-wood-garden-fence-pole-1248457047.json"
+  },
+  {
+   "id": 1520962328,
+   "name": "T5 Prop Decoration Cabinet Large",
+   "page": "items/buildtools/t5-prop-decoration-cabinet-large-1520962328.md",
+   "json": "items/buildtools/t5-prop-decoration-cabinet-large-1520962328.json"
+  },
+  {
+   "id": 695777106,
+   "name": "T5 Prop Decoration Cabinet Medium",
+   "page": "items/buildtools/t5-prop-decoration-cabinet-medium-695777106.md",
+   "json": "items/buildtools/t5-prop-decoration-cabinet-medium-695777106.json"
+  },
+  {
+   "id": 937001347,
+   "name": "T5 Prop Decoration Shelf",
+   "page": "items/buildtools/t5-prop-decoration-shelf-937001347.md",
+   "json": "items/buildtools/t5-prop-decoration-shelf-937001347.json"
+  },
+  {
+   "id": 4189323092,
+   "name": "T5 Prop Decoration Cupboard",
+   "page": "items/buildtools/t5-prop-decoration-cupboard-4189323092.md",
+   "json": "items/buildtools/t5-prop-decoration-cupboard-4189323092.json"
+  },
+  {
+   "id": 49434563,
+   "name": "T5 Prop Decoration Cupboard Small",
+   "page": "items/buildtools/t5-prop-decoration-cupboard-small-49434563.md",
+   "json": "items/buildtools/t5-prop-decoration-cupboard-small-49434563.json"
+  },
+  {
+   "id": 1902069142,
+   "name": "Alchemist Showcase",
+   "page": "items/buildtools/alchemist-showcase-1902069142.md",
+   "json": "items/buildtools/alchemist-showcase-1902069142.json"
+  },
+  {
+   "id": 819432081,
+   "name": "Wall Tapestry showcase",
+   "page": "items/buildtools/wall-tapestry-showcase-819432081.md",
+   "json": "items/buildtools/wall-tapestry-showcase-819432081.json"
+  },
+  {
+   "id": 4176703426,
+   "name": "Pinewood Door with silver ornaments",
+   "page": "items/buildtools/pinewood-door-with-silver-ornaments-4176703426.md",
+   "json": "items/buildtools/pinewood-door-with-silver-ornaments-4176703426.json"
+  }
+ ],
+ "page": "items/materials/conifer-logs-1475408789.md"
+}

@@ -27,4 +27,4 @@ A medium potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](pink-flower-pot-2927706943.json)

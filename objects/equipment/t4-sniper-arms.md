@@ -17,4 +17,4 @@ Your shots will always find their mark with these gloves.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-sniper-arms.json)

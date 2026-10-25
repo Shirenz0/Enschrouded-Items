@@ -23,4 +23,4 @@ Attacking a blocking enemy deals %k additional Stamina Damage and increased push
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-overpowering-2729865674.json)

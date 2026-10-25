@@ -24,4 +24,4 @@ Landing a Backstab on an enemy applies  poison for %k that deals %k poison damag
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-toxic-reaction-415736304.json)

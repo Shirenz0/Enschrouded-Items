@@ -1,0 +1,67 @@
+{
+ "id": 1677413497,
+ "name": "T7 Blunt Arrow",
+ "internalName": "Ammo_T7_Arrow_Blunt_lvl47",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 47,
+  "max": 47
+ },
+ "maxStack": 500,
+ "image": "images/icons/1677413497.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T7 Blunt Arrow",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Blunt": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 957321371,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t7-blunt-arrow-1677413497.md"
+}

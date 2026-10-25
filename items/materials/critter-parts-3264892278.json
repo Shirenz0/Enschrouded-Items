@@ -1,0 +1,45 @@
+{
+ "id": 3264892278,
+ "name": "Critter Parts",
+ "internalName": "Material_T1_CritterParts",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3264892278.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Remains of the pests that dwell below the fog. These parts should be rich with fog substances.",
+ "lore": null,
+ "whereToFind": "Springlands and Revelwood Fell Enemies",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3151503945,
+   "name": "Simple Fishing Bait",
+   "page": "items/ammunition/simple-fishing-bait-3151503945.md",
+   "json": "items/ammunition/simple-fishing-bait-3151503945.json"
+  },
+  {
+   "id": 1843940779,
+   "name": "T1 Entangle I",
+   "page": "items/ammunition/t1-entangle-i-1843940779.md",
+   "json": "items/ammunition/t1-entangle-i-1843940779.json"
+  },
+  {
+   "id": 957162158,
+   "name": "Bug Dust",
+   "page": "items/materials/bug-dust-957162158.md",
+   "json": "items/materials/bug-dust-957162158.json"
+  }
+ ],
+ "page": "items/materials/critter-parts-3264892278.md"
+}

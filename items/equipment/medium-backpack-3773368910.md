@@ -30,4 +30,4 @@ Backpack t2  NEW Copy from old one
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](medium-backpack-3773368910.json)

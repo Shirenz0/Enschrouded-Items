@@ -17,4 +17,4 @@ No need to keep them clean and neat. They will get bloody.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-healer-boots.json)

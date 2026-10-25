@@ -1,0 +1,79 @@
+{
+ "id": 1898842260,
+ "name": "Drak Wood Totem V",
+ "internalName": "Prop_Decoration_T6_WoodTotem_05_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1898842260.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1942683330,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4248468545,
+      "name": "Drak Blood",
+      "page": "items/materials/drak-blood-4248468545.md",
+      "json": "items/materials/drak-blood-4248468545.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3260045641,
+      "name": "Drak Claws",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 866649871,
+      "name": "Drak Scales",
+      "page": "items/materials/drak-scales-866649871.md",
+      "json": "items/materials/drak-scales-866649871.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/drak-wood-totem-v-1898842260.md"
+}

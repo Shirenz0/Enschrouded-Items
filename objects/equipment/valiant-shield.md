@@ -17,4 +17,4 @@ A formidable shield that can keep you and your allys safe.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](valiant-shield.json)

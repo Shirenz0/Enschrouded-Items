@@ -1,0 +1,52 @@
+{
+ "id": 3764454676,
+ "name": "Rooibos Seedling",
+ "internalName": "T3_Seedling_Tea_Rooibos",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3764454676.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2436803305,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1628543982,
+      "name": "Rooibos",
+      "page": "items/materials/rooibos-1628543982.md",
+      "json": "items/materials/rooibos-1628543982.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/rooibos-seedling-3764454676.md"
+}

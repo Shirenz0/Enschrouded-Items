@@ -1,0 +1,87 @@
+{
+ "id": 4044132453,
+ "name": "T3 Shock Totem I",
+ "internalName": "Ammo_T3_Spell_Lightning_Totem_lvl17",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 17,
+  "max": 17
+ },
+ "maxStack": 500,
+ "image": "images/icons/4044132453.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a totem that launches shocking projectiles. \nMaximum amount of summoned totems is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 19,
+    "display": "19",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 699,
+    "display": "0.699 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 8000,
+    "display": "8 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1981084637,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2341333485,
+      "name": "Aurum Lily",
+      "page": "items/materials/aurum-lily-2341333485.md",
+      "json": "items/materials/aurum-lily-2341333485.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t3-shock-totem-i-4044132453.md"
+}

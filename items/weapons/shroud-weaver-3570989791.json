@@ -1,0 +1,104 @@
+{
+ "id": 3570989791,
+ "name": "Shroud Weaver",
+ "internalName": "Craft_Weapon_T5_2H_Lore_StaffEpic_ministory_17",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 26,
+  "max": 26
+ },
+ "maxStack": 1,
+ "image": "images/icons/3570989791.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A malicious staff that effortlessly intertwines the strings of fate with the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/shroud-weaver.md",
+  "json": "objects/weapons/shroud-weaver.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Ranged weapon"
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Brutal",
+   "effect": "+20 Brutal"
+  },
+  {
+   "order": 3,
+   "name": "+1 Mana Currents",
+   "effect": "Increases the skill level of Mana Currents by +1"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Nebulous",
+   "effect": "+10 Nebulous"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1455535071,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/shroud-weaver-3570989791.md"
+}

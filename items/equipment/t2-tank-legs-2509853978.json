@@ -1,0 +1,125 @@
+{
+ "id": 2509853978,
+ "name": "T2 Tank Legs",
+ "internalName": "Armor_T2_Warrior_Tank_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/2509853978.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Padded trousers which have been carefully stitched at the seams.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-tank-legs.md",
+  "json": "objects/equipment/t2-tank-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 45,
+    "display": "45",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shiny Plates",
+   "effect": "Increases the skill level of Shiny Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Absorb",
+   "effect": "Increases the skill level of Absorb by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 449349520,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3405461465,
+      "name": "Corrupted Boar Tusk",
+      "page": "items/materials/corrupted-boar-tusk-3405461465.md",
+      "json": "items/materials/corrupted-boar-tusk-3405461465.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-tank-legs-2509853978.md"
+}

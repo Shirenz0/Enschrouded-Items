@@ -1,0 +1,60 @@
+{
+ "id": 2060473756,
+ "name": "Ancient Gray Stone Block",
+ "internalName": "_Block_T7_Ancient_Gray_Stone_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2060473756.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "basic gray stone from the ancients",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1586726841,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2851443310,
+      "name": "T7 material Ancient Land granite stone",
+      "page": "items/materials/t7-material-ancient-land-granite-stone-2851443310.md",
+      "json": "items/materials/t7-material-ancient-land-granite-stone-2851443310.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 168200942,
+   "name": "Ancient Sunken City Block",
+   "page": "items/buildtools/ancient-sunken-city-block-168200942.md",
+   "json": "items/buildtools/ancient-sunken-city-block-168200942.json"
+  }
+ ],
+ "page": "items/buildtools/ancient-gray-stone-block-2060473756.md"
+}

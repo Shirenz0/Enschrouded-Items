@@ -34,4 +34,4 @@ Kitchen
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](t6-taro-root-curry-4124427746.json)

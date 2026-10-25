@@ -1,0 +1,61 @@
+{
+ "id": 386738695,
+ "name": "Ice Protection Lotion",
+ "internalName": "Consumable_Potion_Lotion_T2_Ice_Protection",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/386738695.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "+2 Ice armor per Constitution",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 319648990,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 711851824,
+      "name": "T2 Slurp Broth Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/ice-protection-lotion-386738695.md"
+}

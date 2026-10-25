@@ -1,0 +1,35 @@
+{
+ "name": "Hero's Shield",
+ "category": "Equipment",
+ "image": "images/icons/40007242.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3744513726,
+   "name": "Hero's Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3744513726.png",
+   "page": "items/equipment/hero-s-shield-3744513726.md",
+   "json": "items/equipment/hero-s-shield-3744513726.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 40007242,
+   "name": "Hero's Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/40007242.png",
+   "page": "items/equipment/hero-s-shield-40007242.md",
+   "json": "items/equipment/hero-s-shield-40007242.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/hero-s-shield.md"
+}

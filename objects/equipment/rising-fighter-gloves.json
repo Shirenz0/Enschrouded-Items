@@ -1,0 +1,35 @@
+{
+ "name": "Rising Fighter Gloves",
+ "category": "Equipment",
+ "image": "images/icons/2007340070.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 199517504,
+   "name": "Rising Fighter Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/199517504.png",
+   "page": "items/equipment/rising-fighter-gloves-199517504.md",
+   "json": "items/equipment/rising-fighter-gloves-199517504.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2007340070,
+   "name": "Rising Fighter Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2007340070.png",
+   "page": "items/equipment/rising-fighter-gloves-2007340070.md",
+   "json": "items/equipment/rising-fighter-gloves-2007340070.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/rising-fighter-gloves.md"
+}

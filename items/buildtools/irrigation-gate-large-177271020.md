@@ -25,4 +25,4 @@ Irrigation Gate description
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](irrigation-gate-large-177271020.json)

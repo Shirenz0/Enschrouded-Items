@@ -1,0 +1,25 @@
+{
+ "id": 170706289,
+ "name": "Large Dark Crystal",
+ "internalName": "Collection_skeletons_01_crystals_crystal_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/170706289.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A large crystal with a threatening aura.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/large-dark-crystal-170706289.md"
+}

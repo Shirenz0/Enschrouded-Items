@@ -1,0 +1,104 @@
+{
+ "name": "T1 lore wand",
+ "category": "Weapons",
+ "image": "images/icons/1276754499.png",
+ "versions": 8,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 2195022120,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/2195022120.png",
+   "page": "items/weapons/t1-lore-wand-2195022120.md",
+   "json": "items/weapons/t1-lore-wand-2195022120.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3701660969,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3701660969.png",
+   "page": "items/weapons/t1-lore-wand-3701660969.md",
+   "json": "items/weapons/t1-lore-wand-3701660969.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 381008328,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/381008328.png",
+   "page": "items/weapons/t1-lore-wand-381008328.md",
+   "json": "items/weapons/t1-lore-wand-381008328.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3070173423,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3070173423.png",
+   "page": "items/weapons/t1-lore-wand-3070173423.md",
+   "json": "items/weapons/t1-lore-wand-3070173423.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 14483003,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/14483003.png",
+   "page": "items/weapons/t1-lore-wand-14483003.md",
+   "json": "items/weapons/t1-lore-wand-14483003.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 9995480,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/9995480.png",
+   "page": "items/weapons/t1-lore-wand-9995480.md",
+   "json": "items/weapons/t1-lore-wand-9995480.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 397149581,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/397149581.png",
+   "page": "items/weapons/t1-lore-wand-397149581.md",
+   "json": "items/weapons/t1-lore-wand-397149581.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1276754499,
+   "name": "T1 lore wand",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1276754499.png",
+   "page": "items/weapons/t1-lore-wand-1276754499.md",
+   "json": "items/weapons/t1-lore-wand-1276754499.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/t1-lore-wand.md"
+}

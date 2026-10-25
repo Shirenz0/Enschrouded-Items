@@ -1,0 +1,85 @@
+{
+ "id": 3982243037,
+ "name": "T4b Archer Boots",
+ "internalName": "Armor_T5-TX_Ranger_Archer_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3982243037.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Wrapped in darkened leather and shrouded in mystery, these boots can take the wearer through anything.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -400,
+    "display": "-0.4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 90000,
+    "display": "1:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Enduring",
+   "effect": "+15 Enduring"
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Fire Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  }
+ ],
+ "page": "items/equipment/t4b-archer-boots-3982243037.md"
+}

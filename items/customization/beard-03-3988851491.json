@@ -1,0 +1,25 @@
+{
+ "id": 3988851491,
+ "name": "Beard 03",
+ "internalName": "VC_Beard03_muttonchops",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/customization/beard-03-3988851491.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "T4 DPS Helmet",
+ "category": "Equipment",
+ "image": "images/icons/870870832.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3091686369,
+   "name": "T4 DPS Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3091686369.png",
+   "page": "items/equipment/t4-dps-helmet-3091686369.md",
+   "json": "items/equipment/t4-dps-helmet-3091686369.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 870870832,
+   "name": "T4 DPS Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/870870832.png",
+   "page": "items/equipment/t4-dps-helmet-870870832.md",
+   "json": "items/equipment/t4-dps-helmet-870870832.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-dps-helmet.md"
+}

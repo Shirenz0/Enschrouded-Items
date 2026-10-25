@@ -1,0 +1,61 @@
+{
+ "id": 533387743,
+ "name": "Water Barrel",
+ "internalName": "Prop_Decoration_T2_Barrel_Wooden_water_container",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/533387743.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Barrel to store some water",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3209520864,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/water-barrel-533387743.md"
+}

@@ -1,0 +1,71 @@
+{
+ "id": 680780934,
+ "name": "Rising Fighter Trousers",
+ "internalName": "Armor_T1_Warrior_DPS_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/680780934.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Polstered trousers to dampen your fall in fighting practice.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/rising-fighter-trousers.md",
+  "json": "objects/equipment/rising-fighter-trousers.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 23,
+    "display": "23",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+20 Health"
+  },
+  {
+   "order": 5,
+   "name": "Barbarians Path",
+   "effect": "Increases the skill level of Barbarian's Path"
+  }
+ ],
+ "page": "items/equipment/rising-fighter-trousers-680780934.md"
+}

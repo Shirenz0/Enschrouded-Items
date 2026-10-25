@@ -1,0 +1,224 @@
+{
+ "category": "Tools",
+ "title": "Tools",
+ "count": 24,
+ "page": "categories/tools.md",
+ "items": [
+  {
+   "id": 1397467393,
+   "name": "Advanced Glider",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1397467393.png",
+   "page": "items/tools/advanced-glider-1397467393.md",
+   "json": "items/tools/advanced-glider-1397467393.json"
+  },
+  {
+   "id": 3022088459,
+   "name": "Albaneve Summits Hollow Halls Key",
+   "rarity": "Rare",
+   "level": "33",
+   "image": "images/icons/3022088459.png",
+   "page": "items/tools/albaneve-summits-hollow-halls-key-3022088459.md",
+   "json": "items/tools/albaneve-summits-hollow-halls-key-3022088459.json"
+  },
+  {
+   "id": 1528331711,
+   "name": "Ancient/Archaic Lockpick",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1528331711.png",
+   "page": "items/tools/ancient-archaic-lockpick-1528331711.md",
+   "json": "items/tools/ancient-archaic-lockpick-1528331711.json"
+  },
+  {
+   "id": 2361121883,
+   "name": "Bone Key",
+   "rarity": "Rare",
+   "level": "13",
+   "image": "images/icons/2361121883.png",
+   "page": "items/tools/bone-key-2361121883.md",
+   "json": "items/tools/bone-key-2361121883.json"
+  },
+  {
+   "id": 2449462227,
+   "name": "Bone Key",
+   "rarity": "Rare",
+   "level": "18",
+   "image": "images/icons/2449462227.png",
+   "page": "items/tools/bone-key-2449462227.md",
+   "json": "items/tools/bone-key-2449462227.json"
+  },
+  {
+   "id": 4053229560,
+   "name": "Bone Key",
+   "rarity": "Rare",
+   "level": "23",
+   "image": "images/icons/4053229560.png",
+   "page": "items/tools/bone-key-4053229560.md",
+   "json": "items/tools/bone-key-4053229560.json"
+  },
+  {
+   "id": 1012249632,
+   "name": "Bronze Axe",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1012249632.png",
+   "page": "items/tools/bronze-axe-1012249632.md",
+   "json": "items/tools/bronze-axe-1012249632.json"
+  },
+  {
+   "id": 2734930286,
+   "name": "Camera",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2734930286.png",
+   "page": "items/tools/camera-2734930286.md",
+   "json": "items/tools/camera-2734930286.json"
+  },
+  {
+   "id": 3808912742,
+   "name": "Castle Key",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3808912742.png",
+   "page": "items/tools/castle-key-3808912742.md",
+   "json": "items/tools/castle-key-3808912742.json"
+  },
+  {
+   "id": 1549647644,
+   "name": "Climbing Claws",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1549647644.png",
+   "page": "items/tools/climbing-claws-1549647644.md",
+   "json": "items/tools/climbing-claws-1549647644.json"
+  },
+  {
+   "id": 1978632298,
+   "name": "Copper Axe",
+   "rarity": "Uncommon",
+   "level": "10",
+   "image": "images/icons/1978632298.png",
+   "page": "items/tools/copper-axe-1978632298.md",
+   "json": "items/tools/copper-axe-1978632298.json"
+  },
+  {
+   "id": 284247111,
+   "name": "Extraordinary Glider",
+   "rarity": "Epic",
+   "level": "20",
+   "image": "images/icons/284247111.png",
+   "page": "items/tools/extraordinary-glider-284247111.md",
+   "json": "items/tools/extraordinary-glider-284247111.json"
+  },
+  {
+   "id": 3357517884,
+   "name": "Ghost Glider",
+   "rarity": "Legendary",
+   "level": "30",
+   "image": "images/icons/3357517884.png",
+   "page": "items/tools/ghost-glider-3357517884.md",
+   "json": "items/tools/ghost-glider-3357517884.json"
+  },
+  {
+   "id": 32289505,
+   "name": "Gleam Root Diving Light",
+   "rarity": "Epic",
+   "level": "37",
+   "image": "images/icons/32289505.png",
+   "page": "items/tools/gleam-root-diving-light-32289505.md",
+   "json": "items/tools/gleam-root-diving-light-32289505.json"
+  },
+  {
+   "id": 1028290781,
+   "name": "Glider",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1028290781.png",
+   "page": "items/tools/glider-1028290781.md",
+   "json": "items/tools/glider-1028290781.json"
+  },
+  {
+   "id": 1438617272,
+   "name": "Grappling Hook",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1438617272.png",
+   "page": "items/tools/grappling-hook-1438617272.md",
+   "json": "items/tools/grappling-hook-1438617272.json"
+  },
+  {
+   "id": 1789305300,
+   "name": "Improved Grappling Hook",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1789305300.png",
+   "page": "items/tools/improved-grappling-hook-1789305300.md",
+   "json": "items/tools/improved-grappling-hook-1789305300.json"
+  },
+  {
+   "id": 4131324901,
+   "name": "Iron Axe",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4131324901.png",
+   "page": "items/tools/iron-axe-4131324901.md",
+   "json": "items/tools/iron-axe-4131324901.json"
+  },
+  {
+   "id": 2811112772,
+   "name": "Scrappy Axe",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/2811112772.png",
+   "page": "items/tools/scrappy-axe-2811112772.md",
+   "json": "items/tools/scrappy-axe-2811112772.json"
+  },
+  {
+   "id": 2897843384,
+   "name": "Scrappy Lockpick",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2897843384.png",
+   "page": "items/tools/scrappy-lockpick-2897843384.md",
+   "json": "items/tools/scrappy-lockpick-2897843384.json"
+  },
+  {
+   "id": 497414641,
+   "name": "Stone Axe",
+   "rarity": "Common",
+   "level": "1",
+   "image": "images/icons/497414641.png",
+   "page": "items/tools/stone-axe-497414641.md",
+   "json": "items/tools/stone-axe-497414641.json"
+  },
+  {
+   "id": 246967425,
+   "name": "T6 Tool Steel Axe",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/246967425.png",
+   "page": "items/tools/t6-tool-steel-axe-246967425.md",
+   "json": "items/tools/t6-tool-steel-axe-246967425.json"
+  },
+  {
+   "id": 3326121147,
+   "name": "Underwater Grappling Hook",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3326121147.png",
+   "page": "items/tools/underwater-grappling-hook-3326121147.md",
+   "json": "items/tools/underwater-grappling-hook-3326121147.json"
+  },
+  {
+   "id": 2543839394,
+   "name": "Wetland Hollow Halls Key",
+   "rarity": "Rare",
+   "level": "43",
+   "image": "images/icons/2543839394.png",
+   "page": "items/tools/wetland-hollow-halls-key-2543839394.md",
+   "json": "items/tools/wetland-hollow-halls-key-2543839394.json"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": 4077117519,
+ "name": "Plant Fibre Roof Block",
+ "internalName": "Block_Roof_T1_PlantFibre",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/4077117519.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Used to build thatched roofs. A basic and reliable solution to keeping your head from getting wet.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4127239316,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3316218728,
+      "name": "Plant Fibre",
+      "page": "items/materials/plant-fibre-3316218728.md",
+      "json": "items/materials/plant-fibre-3316218728.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/plant-fibre-roof-block-4077117519.md"
+}

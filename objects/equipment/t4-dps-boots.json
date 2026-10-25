@@ -1,0 +1,61 @@
+{
+ "name": "T4 DPS Boots",
+ "category": "Equipment",
+ "image": "images/icons/620048429.png",
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1200796186,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1200796186.png",
+   "page": "items/equipment/t4-dps-boots-1200796186.md",
+   "json": "items/equipment/t4-dps-boots-1200796186.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1639780437,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1639780437.png",
+   "page": "items/equipment/t4-dps-boots-1639780437.md",
+   "json": "items/equipment/t4-dps-boots-1639780437.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 3620714580,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3620714580.png",
+   "page": "items/equipment/t4-dps-boots-3620714580.md",
+   "json": "items/equipment/t4-dps-boots-3620714580.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 620048429,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/620048429.png",
+   "page": "items/equipment/t4-dps-boots-620048429.md",
+   "json": "items/equipment/t4-dps-boots-620048429.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/equipment/t4-dps-boots.md"
+}

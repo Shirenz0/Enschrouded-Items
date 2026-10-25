@@ -17,4 +17,4 @@ This magic shield allows you to **block** physical attacks. Blocking drains Stam
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](spectral-shield.json)

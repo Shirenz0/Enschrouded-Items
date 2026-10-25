@@ -17,4 +17,4 @@ Remarkable pants. What makes them remarkable? The wearer, mostly.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-healer-legs.json)

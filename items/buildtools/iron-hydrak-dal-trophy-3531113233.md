@@ -31,4 +31,4 @@ A severed Hydrak'Dal Head. Collect multiple to craft the iron trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-hydrak-dal-trophy-3531113233.json)

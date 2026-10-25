@@ -1,0 +1,131 @@
+{
+ "id": 2301277967,
+ "name": "T3 Archer Chest",
+ "internalName": "Armor_T3_Ranger_Assassin_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2301277967.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The craftmanship on this piece of upper body armor was greatly inspired by the wing feathers.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-archer-chest.md",
+  "json": "objects/equipment/t3-archer-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 3,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  },
+  {
+   "order": 4,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Rebound",
+   "effect": "Increases the skill level of Rebound by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2402280373,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2975006357,
+      "name": "Monstrous Ribs",
+      "page": "items/materials/monstrous-ribs-2975006357.md",
+      "json": "items/materials/monstrous-ribs-2975006357.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2027586500,
+      "name": "Ammoniak Gland",
+      "page": "items/materials/ammoniak-gland-2027586500.md",
+      "json": "items/materials/ammoniak-gland-2027586500.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-archer-chest-2301277967.md"
+}

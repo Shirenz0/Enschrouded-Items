@@ -1,0 +1,65 @@
+{
+ "name": "Fern Pot",
+ "category": "BuildTools",
+ "image": "images/icons/673405648.png",
+ "versions": 4,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1228884892,
+   "name": "Fern Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1228884892.png",
+   "page": "items/buildtools/fern-pot-1228884892.md",
+   "json": "items/buildtools/fern-pot-1228884892.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1665119413,
+   "name": "Fern Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1665119413.png",
+   "page": "items/buildtools/fern-pot-1665119413.md",
+   "json": "items/buildtools/fern-pot-1665119413.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 2019603203,
+   "name": "Fern Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2019603203.png",
+   "page": "items/buildtools/fern-pot-2019603203.md",
+   "json": "items/buildtools/fern-pot-2019603203.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 673405648,
+   "name": "Fern Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/673405648.png",
+   "page": "items/buildtools/fern-pot-673405648.md",
+   "json": "items/buildtools/fern-pot-673405648.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/fern-pot.md"
+}

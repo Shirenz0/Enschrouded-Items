@@ -34,4 +34,4 @@ Kitchen
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](banana-coconut-smoothie-1444162950.json)

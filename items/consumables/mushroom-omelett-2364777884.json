@@ -1,0 +1,74 @@
+{
+ "id": 2364777884,
+ "name": "Mushroom Omelett",
+ "internalName": "Food_T3_dish_grilled_mushroom_Omelett",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2364777884.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A delicious meal, containing the knowledge of the earth.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2400000,
+    "display": "40:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 296382061,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 600862405,
+      "name": "Penny Bun",
+      "page": "items/consumables/penny-bun-600862405.md",
+      "json": "items/consumables/penny-bun-600862405.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1896276940,
+      "name": "Eggs",
+      "page": "items/consumables/eggs-1896276940.md",
+      "json": "items/consumables/eggs-1896276940.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/mushroom-omelett-2364777884.md"
+}

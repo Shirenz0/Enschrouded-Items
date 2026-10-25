@@ -1,0 +1,35 @@
+{
+ "name": "T2 Mage Chest",
+ "category": "Equipment",
+ "image": "images/icons/3532723599.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3494556891,
+   "name": "T2 Mage Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3494556891.png",
+   "page": "items/equipment/t2-mage-chest-3494556891.md",
+   "json": "items/equipment/t2-mage-chest-3494556891.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3532723599,
+   "name": "T2 Mage Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3532723599.png",
+   "page": "items/equipment/t2-mage-chest-3532723599.md",
+   "json": "items/equipment/t2-mage-chest-3532723599.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-mage-chest.md"
+}

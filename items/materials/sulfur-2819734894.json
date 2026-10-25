@@ -1,0 +1,309 @@
+{
+ "id": 2819734894,
+ "name": "Sulfur",
+ "internalName": "Material_T4_Sulfur",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2819734894.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A really important material, as Sulfur is one of the basic chemical ingredients for nature.",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3357517884,
+   "name": "Ghost Glider",
+   "page": "items/tools/ghost-glider-3357517884.md",
+   "json": "items/tools/ghost-glider-3357517884.json"
+  },
+  {
+   "id": 2781335650,
+   "name": "T4 Fire Bolt V",
+   "page": "items/ammunition/t4-fire-bolt-v-2781335650.md",
+   "json": "items/ammunition/t4-fire-bolt-v-2781335650.json"
+  },
+  {
+   "id": 3133483038,
+   "name": "Eternal Shock Arrow I",
+   "page": "items/ammunition/eternal-shock-arrow-i-3133483038.md",
+   "json": "items/ammunition/eternal-shock-arrow-i-3133483038.json"
+  },
+  {
+   "id": 1805048399,
+   "name": "T4 Pillar of Flames II",
+   "page": "items/ammunition/t4-pillar-of-flames-ii-1805048399.md",
+   "json": "items/ammunition/t4-pillar-of-flames-ii-1805048399.json"
+  },
+  {
+   "id": 377316946,
+   "name": "T7 Eternal Light Burst II",
+   "page": "items/ammunition/t7-eternal-light-burst-ii-377316946.md",
+   "json": "items/ammunition/t7-eternal-light-burst-ii-377316946.json"
+  },
+  {
+   "id": 72192472,
+   "name": "T4 Eternal Light Burst I",
+   "page": "items/ammunition/t4-eternal-light-burst-i-72192472.md",
+   "json": "items/ammunition/t4-eternal-light-burst-i-72192472.json"
+  },
+  {
+   "id": 738997972,
+   "name": "T3 Light Burst",
+   "page": "items/ammunition/t3-light-burst-738997972.md",
+   "json": "items/ammunition/t3-light-burst-738997972.json"
+  },
+  {
+   "id": 61698870,
+   "name": "T7 Eternal Heal Channel II",
+   "page": "items/ammunition/t7-eternal-heal-channel-ii-61698870.md",
+   "json": "items/ammunition/t7-eternal-heal-channel-ii-61698870.json"
+  },
+  {
+   "id": 1937493913,
+   "name": "T4 Eternal Shock Wisp I",
+   "page": "items/ammunition/t4-eternal-shock-wisp-i-1937493913.md",
+   "json": "items/ammunition/t4-eternal-shock-wisp-i-1937493913.json"
+  },
+  {
+   "id": 1674086102,
+   "name": "T7 Eternal Acid Cone II",
+   "page": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.md",
+   "json": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.json"
+  },
+  {
+   "id": 4291668892,
+   "name": "T4 Eternal Acid Cone I",
+   "page": "items/ammunition/t4-eternal-acid-cone-i-4291668892.md",
+   "json": "items/ammunition/t4-eternal-acid-cone-i-4291668892.json"
+  },
+  {
+   "id": 1835123088,
+   "name": "T7 Eternal Shroud Meteor",
+   "page": "items/ammunition/t7-eternal-shroud-meteor-1835123088.md",
+   "json": "items/ammunition/t7-eternal-shroud-meteor-1835123088.json"
+  },
+  {
+   "id": 3940653429,
+   "name": "T4 Shroud Meteor",
+   "page": "items/ammunition/t4-shroud-meteor-3940653429.md",
+   "json": "items/ammunition/t4-shroud-meteor-3940653429.json"
+  },
+  {
+   "id": 2685638060,
+   "name": "Poisoned Celesthium Steel Arrow",
+   "page": "items/ammunition/poisoned-celesthium-steel-arrow-2685638060.md",
+   "json": "items/ammunition/poisoned-celesthium-steel-arrow-2685638060.json"
+  },
+  {
+   "id": 2369582730,
+   "name": "Poisoned Iron Arrow",
+   "page": "items/ammunition/poisoned-iron-arrow-2369582730.md",
+   "json": "items/ammunition/poisoned-iron-arrow-2369582730.json"
+  },
+  {
+   "id": 1567174048,
+   "name": "Skull Summoning Vessel",
+   "page": "items/weapons/skull-summoning-vessel-1567174048.md",
+   "json": "items/weapons/skull-summoning-vessel-1567174048.json"
+  },
+  {
+   "id": 2434044399,
+   "name": "Ginger In A Jungle",
+   "page": "items/colorpalette/ginger-in-a-jungle-2434044399.md",
+   "json": "items/colorpalette/ginger-in-a-jungle-2434044399.json"
+  },
+  {
+   "id": 1860080518,
+   "name": "From Dusk Till Dawn",
+   "page": "items/colorpalette/from-dusk-till-dawn-1860080518.md",
+   "json": "items/colorpalette/from-dusk-till-dawn-1860080518.json"
+  },
+  {
+   "id": 1365809698,
+   "name": "Waves Of Valor",
+   "page": "items/colorpalette/waves-of-valor-1365809698.md",
+   "json": "items/colorpalette/waves-of-valor-1365809698.json"
+  },
+  {
+   "id": 1966532423,
+   "name": "Holly and Berry",
+   "page": "items/colorpalette/holly-and-berry-1966532423.md",
+   "json": "items/colorpalette/holly-and-berry-1966532423.json"
+  },
+  {
+   "id": 835723769,
+   "name": "Shades Of Red",
+   "page": "items/colorpalette/shades-of-red-835723769.md",
+   "json": "items/colorpalette/shades-of-red-835723769.json"
+  },
+  {
+   "id": 3702590848,
+   "name": "Green Vitriol Dust",
+   "page": "items/materials/green-vitriol-dust-3702590848.md",
+   "json": "items/materials/green-vitriol-dust-3702590848.json"
+  },
+  {
+   "id": 2607932810,
+   "name": "T4 Palette 02 Brown yellow red",
+   "page": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.md",
+   "json": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.json"
+  },
+  {
+   "id": 3960097842,
+   "name": "Red Fabric",
+   "page": "items/materials/red-fabric-3960097842.md",
+   "json": "items/materials/red-fabric-3960097842.json"
+  },
+  {
+   "id": 1828629573,
+   "name": "Black Powder",
+   "page": "items/materials/black-powder-1828629573.md",
+   "json": "items/materials/black-powder-1828629573.json"
+  },
+  {
+   "id": 1350606537,
+   "name": "Fog Oil",
+   "page": "items/materials/fog-oil-1350606537.md",
+   "json": "items/materials/fog-oil-1350606537.json"
+  },
+  {
+   "id": 4192516670,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-4192516670.md",
+   "json": "items/weapons/cryptic-wand-4192516670.json"
+  },
+  {
+   "id": 1616516574,
+   "name": "T4 Mage Legs",
+   "page": "items/equipment/t4-mage-legs-1616516574.md",
+   "json": "items/equipment/t4-mage-legs-1616516574.json"
+  },
+  {
+   "id": 3319129258,
+   "name": "T4 Carpet",
+   "page": "items/buildtools/t4-carpet-3319129258.md",
+   "json": "items/buildtools/t4-carpet-3319129258.json"
+  },
+  {
+   "id": 500134615,
+   "name": "Wall Tapestry I",
+   "page": "items/buildtools/wall-tapestry-i-500134615.md",
+   "json": "items/buildtools/wall-tapestry-i-500134615.json"
+  },
+  {
+   "id": 3696120404,
+   "name": "Wall Tapestry II",
+   "page": "items/buildtools/wall-tapestry-ii-3696120404.md",
+   "json": "items/buildtools/wall-tapestry-ii-3696120404.json"
+  },
+  {
+   "id": 1201052636,
+   "name": "Wall Tapestry III",
+   "page": "items/buildtools/wall-tapestry-iii-1201052636.md",
+   "json": "items/buildtools/wall-tapestry-iii-1201052636.json"
+  },
+  {
+   "id": 1546063432,
+   "name": "Wall Tapestry IV",
+   "page": "items/buildtools/wall-tapestry-iv-1546063432.md",
+   "json": "items/buildtools/wall-tapestry-iv-1546063432.json"
+  },
+  {
+   "id": 2303973776,
+   "name": "Wall Tapestry V",
+   "page": "items/buildtools/wall-tapestry-v-2303973776.md",
+   "json": "items/buildtools/wall-tapestry-v-2303973776.json"
+  },
+  {
+   "id": 1237085664,
+   "name": "\"Still Life\"",
+   "page": "items/buildtools/still-life-1237085664.md",
+   "json": "items/buildtools/still-life-1237085664.json"
+  },
+  {
+   "id": 1790893349,
+   "name": "\"Temple Landscape\"",
+   "page": "items/buildtools/temple-landscape-1790893349.md",
+   "json": "items/buildtools/temple-landscape-1790893349.json"
+  },
+  {
+   "id": 3753859139,
+   "name": "\"Flower Snake\"",
+   "page": "items/buildtools/flower-snake-3753859139.md",
+   "json": "items/buildtools/flower-snake-3753859139.json"
+  },
+  {
+   "id": 19079311,
+   "name": "\"Flightless Redtail On One Leg\"",
+   "page": "items/buildtools/flightless-redtail-on-one-leg-19079311.md",
+   "json": "items/buildtools/flightless-redtail-on-one-leg-19079311.json"
+  },
+  {
+   "id": 3847020528,
+   "name": "\"Tower In The Night\"",
+   "page": "items/buildtools/tower-in-the-night-3847020528.md",
+   "json": "items/buildtools/tower-in-the-night-3847020528.json"
+  },
+  {
+   "id": 1343085975,
+   "name": "\"Flower Vase\"",
+   "page": "items/buildtools/flower-vase-1343085975.md",
+   "json": "items/buildtools/flower-vase-1343085975.json"
+  },
+  {
+   "id": 3201054228,
+   "name": "\"Boar At Home\"",
+   "page": "items/buildtools/boar-at-home-3201054228.md",
+   "json": "items/buildtools/boar-at-home-3201054228.json"
+  },
+  {
+   "id": 1688806746,
+   "name": "\"Wolf's Choir\"",
+   "page": "items/buildtools/wolf-s-choir-1688806746.md",
+   "json": "items/buildtools/wolf-s-choir-1688806746.json"
+  },
+  {
+   "id": 1820998553,
+   "name": "War Banner V",
+   "page": "items/buildtools/war-banner-v-1820998553.md",
+   "json": "items/buildtools/war-banner-v-1820998553.json"
+  },
+  {
+   "id": 655672626,
+   "name": "War Banner VI",
+   "page": "items/buildtools/war-banner-vi-655672626.md",
+   "json": "items/buildtools/war-banner-vi-655672626.json"
+  },
+  {
+   "id": 3615680929,
+   "name": "Halloween Banner",
+   "page": "items/buildtools/halloween-banner-3615680929.md",
+   "json": "items/buildtools/halloween-banner-3615680929.json"
+  },
+  {
+   "id": 4123212614,
+   "name": "Orange Decorative Box",
+   "page": "items/buildtools/orange-decorative-box-4123212614.md",
+   "json": "items/buildtools/orange-decorative-box-4123212614.json"
+  },
+  {
+   "id": 2777715830,
+   "name": "Mortar",
+   "page": "items/buildtools/mortar-2777715830.md",
+   "json": "items/buildtools/mortar-2777715830.json"
+  }
+ ],
+ "page": "items/materials/sulfur-2819734894.md"
+}

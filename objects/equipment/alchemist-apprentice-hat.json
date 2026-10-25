@@ -1,0 +1,35 @@
+{
+ "name": "Alchemist Apprentice Hat",
+ "category": "Equipment",
+ "image": "images/icons/3853102169.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1572355779,
+   "name": "Alchemist Apprentice Hat",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1572355779.png",
+   "page": "items/equipment/alchemist-apprentice-hat-1572355779.md",
+   "json": "items/equipment/alchemist-apprentice-hat-1572355779.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3853102169,
+   "name": "Alchemist Apprentice Hat",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3853102169.png",
+   "page": "items/equipment/alchemist-apprentice-hat-3853102169.md",
+   "json": "items/equipment/alchemist-apprentice-hat-3853102169.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/alchemist-apprentice-hat.md"
+}

@@ -17,4 +17,4 @@ A surprisingly sharp tooth from an aquatic being. It must've had quite an appeti
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](sharp-shark-tooth-2691529004.json)

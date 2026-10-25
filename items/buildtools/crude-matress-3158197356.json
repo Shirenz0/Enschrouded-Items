@@ -1,0 +1,87 @@
+{
+ "id": 3158197356,
+ "name": "Crude Matress",
+ "internalName": "Prop_Decoration_Comfort1_T0_Bed_CrudeMatress",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3158197356.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort (Category Bed)",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1400155870,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 4,
+     "oneOf": [
+      {
+       "id": 3316218728,
+       "name": "Plant Fibre",
+       "page": "items/materials/plant-fibre-3316218728.md",
+       "json": "items/materials/plant-fibre-3316218728.json"
+      },
+      {
+       "id": 1026141130,
+       "name": "Paper Reed",
+       "page": "items/materials/paper-reed-1026141130.md",
+       "json": "items/materials/paper-reed-1026141130.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1449954814,
+   "name": "Bed (Makeshift)",
+   "page": "items/buildtools/bed-makeshift-1449954814.md",
+   "json": "items/buildtools/bed-makeshift-1449954814.json"
+  }
+ ],
+ "page": "items/buildtools/crude-matress-3158197356.md"
+}

@@ -1,0 +1,117 @@
+{
+ "id": 1389638766,
+ "name": "T6 Eternal Lightning Channel I",
+ "internalName": "Ammo_T6_Spell_Lightning_Channel_lvl36_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/1389638766.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Ammunition that continuosly channels powerful lightning strikes that shock and jump between enemies.  Hit enemies receive a small portion of stun bar progress. + Eternal Spell desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 49,
+    "display": "49",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 300,
+    "display": "0.3 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Thundery",
+   "effect": "+5 Thundery"
+  },
+  {
+   "order": 5,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3754065176,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t6-eternal-lightning-channel-i-1389638766.md"
+}

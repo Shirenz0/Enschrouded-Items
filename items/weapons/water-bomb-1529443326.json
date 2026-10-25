@@ -1,0 +1,62 @@
+{
+ "id": 1529443326,
+ "name": "Water Bomb",
+ "internalName": "Consumable_Water_Bomb",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 20,
+ "image": "images/icons/1529443326.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Water Bomb test desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3155427372,
+   "station": null,
+   "inputs": [
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 166917849,
+       "name": "Damaged Fur Boot",
+       "page": "items/materials/damaged-fur-boot-166917849.md",
+       "json": "items/materials/damaged-fur-boot-166917849.json"
+      },
+      {
+       "id": 661026568,
+       "name": "Fur Patch",
+       "page": "items/materials/fur-patch-661026568.md",
+       "json": "items/materials/fur-patch-661026568.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/weapons/water-bomb-1529443326.md"
+}

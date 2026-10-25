@@ -38,4 +38,4 @@ Campfire
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](meat-skewer-with-mushroom-3286272712.json)

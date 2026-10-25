@@ -1,0 +1,44 @@
+{
+ "id": 823453977,
+ "name": "Summoning Of A Fire Wisp",
+ "internalName": "Consumable_Scroll_Fire_Wisp_T4_Lvl27",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 27,
+  "max": 27
+ },
+ "maxStack": 20,
+ "image": "images/icons/823453977.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "In the old times a popular tool to expand ones power.\n\nThe Scroll summons a Fire Wisp that follows, assists you in battle and spends light.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 80,
+    "display": "80",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 60000,
+    "display": "1:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/summoning-of-a-fire-wisp-823453977.md"
+}

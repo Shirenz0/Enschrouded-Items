@@ -1,0 +1,25 @@
+{
+ "id": 2870560219,
+ "name": "Albaneve Summits Miniature Piece",
+ "internalName": "Collection_Worldmap_coldHeights",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2870560219.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Snow-covered mountains and frozen lakes. A shame the Dragon youngling, or the \"winged beast\", as soldiers would say, cannot be seen. Perhaps it's inside Howling Peak, slumbering.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/albaneve-summits-miniature-piece-2870560219.md"
+}

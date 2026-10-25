@@ -27,4 +27,4 @@ A severed Scavenger Desert Heavy Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](scavenger-desert-heavy-trophy-785918372.json)

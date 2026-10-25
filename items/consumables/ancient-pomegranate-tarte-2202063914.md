@@ -32,4 +32,4 @@ Kitchen
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](ancient-pomegranate-tarte-2202063914.json)

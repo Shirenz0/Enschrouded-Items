@@ -1,0 +1,71 @@
+{
+ "id": 1082994550,
+ "name": "T5 Prop Decoration Comfort Table Medium",
+ "internalName": "Prop_Decoration_Comfort6_T5_Table_Medium",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1082994550.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Table",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1191584390,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t5-prop-decoration-comfort-table-medium-1082994550.md"
+}

@@ -1,0 +1,194 @@
+{
+ "id": 3953523416,
+ "name": "Krypt Krystal",
+ "internalName": "Material_T1_KryptCrystal",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3953523416.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A green crystal glowing with magic.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3274424246,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 2617088387,
+       "name": "T2 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1453689781,
+       "name": "T3 Green essence",
+       "page": "items/materials/t3-green-essence-1453689781.md",
+       "json": "items/materials/t3-green-essence-1453689781.json"
+      },
+      {
+       "id": 3236482539,
+       "name": "T4 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1903438107,
+       "name": "T5 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 4005698976,
+       "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+       "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+       "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2543839394,
+   "name": "Wetland Hollow Halls Key",
+   "page": "items/tools/wetland-hollow-halls-key-2543839394.md",
+   "json": "items/tools/wetland-hollow-halls-key-2543839394.json"
+  },
+  {
+   "id": 3022088459,
+   "name": "Albaneve Summits Hollow Halls Key",
+   "page": "items/tools/albaneve-summits-hollow-halls-key-3022088459.md",
+   "json": "items/tools/albaneve-summits-hollow-halls-key-3022088459.json"
+  },
+  {
+   "id": 4053229560,
+   "name": "Bone Key",
+   "page": "items/tools/bone-key-4053229560.md",
+   "json": "items/tools/bone-key-4053229560.json"
+  },
+  {
+   "id": 1751743189,
+   "name": "Throne T3",
+   "page": "items/buildtools/throne-t3-1751743189.md",
+   "json": "items/buildtools/throne-t3-1751743189.json"
+  },
+  {
+   "id": 2780985755,
+   "name": "T2 chair Dungeon",
+   "page": "items/buildtools/t2-chair-dungeon-2780985755.md",
+   "json": "items/buildtools/t2-chair-dungeon-2780985755.json"
+  },
+  {
+   "id": 1804479582,
+   "name": "Illumination T2 Bones Brazier",
+   "page": "items/buildtools/illumination-t2-bones-brazier-1804479582.md",
+   "json": "items/buildtools/illumination-t2-bones-brazier-1804479582.json"
+  },
+  {
+   "id": 2646644982,
+   "name": "Illumination T2 Bones Chandelier",
+   "page": "items/buildtools/illumination-t2-bones-chandelier-2646644982.md",
+   "json": "items/buildtools/illumination-t2-bones-chandelier-2646644982.json"
+  },
+  {
+   "id": 1722111434,
+   "name": "Illumination T2 Standing Torch Bone",
+   "page": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.json"
+  },
+  {
+   "id": 3652824994,
+   "name": "Illumination T2 Standing Torch",
+   "page": "items/buildtools/illumination-t2-standing-torch-3652824994.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-3652824994.json"
+  },
+  {
+   "id": 242624234,
+   "name": "Illumination T2 Wall Bones",
+   "page": "items/buildtools/illumination-t2-wall-bones-242624234.md",
+   "json": "items/buildtools/illumination-t2-wall-bones-242624234.json"
+  },
+  {
+   "id": 3708349200,
+   "name": "Table Large T2 Dungeon",
+   "page": "items/buildtools/table-large-t2-dungeon-3708349200.md",
+   "json": "items/buildtools/table-large-t2-dungeon-3708349200.json"
+  },
+  {
+   "id": 2950858301,
+   "name": "Table Medium T2 Dungeon",
+   "page": "items/buildtools/table-medium-t2-dungeon-2950858301.md",
+   "json": "items/buildtools/table-medium-t2-dungeon-2950858301.json"
+  },
+  {
+   "id": 2783674260,
+   "name": "T2 cabinet Dungeon Large",
+   "page": "items/buildtools/t2-cabinet-dungeon-large-2783674260.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-large-2783674260.json"
+  },
+  {
+   "id": 3289981447,
+   "name": "T2 Sideboard Dungeon Large",
+   "page": "items/buildtools/t2-sideboard-dungeon-large-3289981447.md",
+   "json": "items/buildtools/t2-sideboard-dungeon-large-3289981447.json"
+  },
+  {
+   "id": 1248371838,
+   "name": "T2 Sideboard Dungeon Small",
+   "page": "items/buildtools/t2-sideboard-dungeon-small-1248371838.md",
+   "json": "items/buildtools/t2-sideboard-dungeon-small-1248371838.json"
+  },
+  {
+   "id": 1793657421,
+   "name": "T2 cabinet Dungeon medium",
+   "page": "items/buildtools/t2-cabinet-dungeon-medium-1793657421.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-medium-1793657421.json"
+  },
+  {
+   "id": 1053092022,
+   "name": "T2 cabinet Dungeon small",
+   "page": "items/buildtools/t2-cabinet-dungeon-small-1053092022.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-small-1053092022.json"
+  },
+  {
+   "id": 3316336574,
+   "name": "T2 Cupboard Dungeon Large",
+   "page": "items/buildtools/t2-cupboard-dungeon-large-3316336574.md",
+   "json": "items/buildtools/t2-cupboard-dungeon-large-3316336574.json"
+  },
+  {
+   "id": 2649776256,
+   "name": "T2 Cupboard Dungeon Small",
+   "page": "items/buildtools/t2-cupboard-dungeon-small-2649776256.md",
+   "json": "items/buildtools/t2-cupboard-dungeon-small-2649776256.json"
+  }
+ ],
+ "page": "items/materials/krypt-krystal-3953523416.md"
+}

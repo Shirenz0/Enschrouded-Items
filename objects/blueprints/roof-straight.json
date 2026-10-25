@@ -1,0 +1,33 @@
+{
+ "name": "Roof Straight",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1083013738,
+   "name": "Roof Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-straight-1083013738.md",
+   "json": "items/blueprints/roof-straight-1083013738.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2482289794,
+   "name": "Roof Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-straight-2482289794.md",
+   "json": "items/blueprints/roof-straight-2482289794.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/roof-straight.md"
+}

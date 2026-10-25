@@ -1,0 +1,117 @@
+{
+ "id": 1026141130,
+ "name": "Paper Reed",
+ "internalName": "Material_T6_PaperReed",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 250,
+ "image": "images/icons/1026141130.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 paper reed mat desc",
+ "lore": null,
+ "whereToFind": "Near Lakes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3304880057,
+   "name": "Irrigation Gate Small",
+   "page": "items/buildtools/irrigation-gate-small-3304880057.md",
+   "json": "items/buildtools/irrigation-gate-small-3304880057.json"
+  },
+  {
+   "id": 177271020,
+   "name": "Irrigation Gate Large",
+   "page": "items/buildtools/irrigation-gate-large-177271020.md",
+   "json": "items/buildtools/irrigation-gate-large-177271020.json"
+  },
+  {
+   "id": 506636559,
+   "name": "Papyrus Seedling",
+   "page": "items/buildtools/papyrus-seedling-506636559.md",
+   "json": "items/buildtools/papyrus-seedling-506636559.json"
+  },
+  {
+   "id": 842838716,
+   "name": "Cattail Seedling",
+   "page": "items/buildtools/cattail-seedling-842838716.md",
+   "json": "items/buildtools/cattail-seedling-842838716.json"
+  },
+  {
+   "id": 2229826461,
+   "name": "Reed Seedling",
+   "page": "items/buildtools/reed-seedling-2229826461.md",
+   "json": "items/buildtools/reed-seedling-2229826461.json"
+  },
+  {
+   "id": 1357946175,
+   "name": "Capybara Bait",
+   "page": "items/buildtools/capybara-bait-1357946175.md",
+   "json": "items/buildtools/capybara-bait-1357946175.json"
+  },
+  {
+   "id": 3607939791,
+   "name": "Bamboo Gate",
+   "page": "items/buildtools/bamboo-gate-3607939791.md",
+   "json": "items/buildtools/bamboo-gate-3607939791.json"
+  },
+  {
+   "id": 934699219,
+   "name": "Bamboo Room Divider II",
+   "page": "items/buildtools/bamboo-room-divider-ii-934699219.md",
+   "json": "items/buildtools/bamboo-room-divider-ii-934699219.json"
+  },
+  {
+   "id": 1108421963,
+   "name": "Palm Leaf Basket",
+   "page": "items/buildtools/palm-leaf-basket-1108421963.md",
+   "json": "items/buildtools/palm-leaf-basket-1108421963.json"
+  },
+  {
+   "id": 675151487,
+   "name": "Bamboo Container I",
+   "page": "items/buildtools/bamboo-container-i-675151487.md",
+   "json": "items/buildtools/bamboo-container-i-675151487.json"
+  },
+  {
+   "id": 1343767117,
+   "name": "Bamboo Container II",
+   "page": "items/buildtools/bamboo-container-ii-1343767117.md",
+   "json": "items/buildtools/bamboo-container-ii-1343767117.json"
+  },
+  {
+   "id": 1742670074,
+   "name": "Bamboo Cage I",
+   "page": "items/buildtools/bamboo-cage-i-1742670074.md",
+   "json": "items/buildtools/bamboo-cage-i-1742670074.json"
+  },
+  {
+   "id": 667012962,
+   "name": "Bamboo Cage II",
+   "page": "items/buildtools/bamboo-cage-ii-667012962.md",
+   "json": "items/buildtools/bamboo-cage-ii-667012962.json"
+  },
+  {
+   "id": 1521452298,
+   "name": "Underwater Overgrowth",
+   "page": "items/buildtools/underwater-overgrowth-1521452298.md",
+   "json": "items/buildtools/underwater-overgrowth-1521452298.json"
+  },
+  {
+   "id": 870784173,
+   "name": "Capybara Feeding",
+   "page": "items/buildtools/capybara-feeding-870784173.md",
+   "json": "items/buildtools/capybara-feeding-870784173.json"
+  }
+ ],
+ "page": "items/materials/paper-reed-1026141130.md"
+}

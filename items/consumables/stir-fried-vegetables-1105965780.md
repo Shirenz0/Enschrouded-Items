@@ -34,4 +34,4 @@ Kitchen
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](stir-fried-vegetables-1105965780.json)

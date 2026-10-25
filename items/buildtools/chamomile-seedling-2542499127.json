@@ -1,0 +1,52 @@
+{
+ "id": 2542499127,
+ "name": "Chamomile Seedling",
+ "internalName": "T2_Seedling_Tea_Chamomille",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/2542499127.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2062707271,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/chamomile-seedling-2542499127.md"
+}

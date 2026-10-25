@@ -1,0 +1,71 @@
+{
+ "id": 2239380894,
+ "name": "Wisp of Light",
+ "internalName": "Consumable_Potion_Flask_Wisp_Of_Light",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2239380894.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Imprisons a Wisp of Light. Opening the flask releases a glowing wisp that lights the darkness.",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Minutes Duration",
+    "value": 10,
+    "display": "0.01 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3695946575,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/wisp-of-light-2239380894.md"
+}

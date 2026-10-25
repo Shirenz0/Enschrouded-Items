@@ -1,0 +1,85 @@
+{
+ "id": 473258476,
+ "name": "T4b Warrior Arms",
+ "internalName": "Armor_T5-TX_Warrior_DPS_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/473258476.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These gloves are radiate warmth and safety as if steeped in pure liquid light.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Two-Handed Melee",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Melee Foes",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 90000,
+    "display": "1:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Health",
+   "effect": "+100 Health"
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Handed",
+   "effect": "Increases the skill level of Heavy Handed by +1"
+  },
+  {
+   "order": 4,
+   "name": "Shock Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  }
+ ],
+ "page": "items/equipment/t4b-warrior-arms-473258476.md"
+}

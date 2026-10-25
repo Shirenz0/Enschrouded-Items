@@ -1,0 +1,65 @@
+{
+ "id": 171960142,
+ "name": "PikeMeadStatue Showcase",
+ "internalName": "Prop_Collection_06_Statues_Showcase_PikeMead",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/171960142.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Showcase for a Statue.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/pikemeadstatue-showcase.md",
+  "json": "objects/buildtools/pikemeadstatue-showcase.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 4269959671,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 30,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/pikemeadstatue-showcase-171960142.md"
+}

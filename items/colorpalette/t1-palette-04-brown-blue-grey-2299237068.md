@@ -25,4 +25,4 @@ Coloring Station
 
 ---
 
-[← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)
+[← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md) · [JSON](t1-palette-04-brown-blue-grey-2299237068.json)

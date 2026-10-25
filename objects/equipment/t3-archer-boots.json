@@ -1,0 +1,35 @@
+{
+ "name": "T3 Archer Boots",
+ "category": "Equipment",
+ "image": "images/icons/905258707.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3841827233,
+   "name": "T3 Archer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3841827233.png",
+   "page": "items/equipment/t3-archer-boots-3841827233.md",
+   "json": "items/equipment/t3-archer-boots-3841827233.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 905258707,
+   "name": "T3 Archer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/905258707.png",
+   "page": "items/equipment/t3-archer-boots-905258707.md",
+   "json": "items/equipment/t3-archer-boots-905258707.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-archer-boots.md"
+}

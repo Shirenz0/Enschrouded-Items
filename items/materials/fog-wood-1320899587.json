@@ -1,0 +1,183 @@
+{
+ "id": 1320899587,
+ "name": "Fog Wood",
+ "internalName": "Material_T1_Wood_Logs_Dead",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1320899587.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The shroud drenched  wood of the trees that survived below the shroud. Its structure and properties changed forever.",
+ "lore": null,
+ "whereToFind": "Dead Trees, Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1028290781,
+   "name": "Glider",
+   "page": "items/tools/glider-1028290781.md",
+   "json": "items/tools/glider-1028290781.json"
+  },
+  {
+   "id": 3357517884,
+   "name": "Ghost Glider",
+   "page": "items/tools/ghost-glider-3357517884.md",
+   "json": "items/tools/ghost-glider-3357517884.json"
+  },
+  {
+   "id": 284247111,
+   "name": "Extraordinary Glider",
+   "page": "items/tools/extraordinary-glider-284247111.md",
+   "json": "items/tools/extraordinary-glider-284247111.json"
+  },
+  {
+   "id": 1397467393,
+   "name": "Advanced Glider",
+   "page": "items/tools/advanced-glider-1397467393.md",
+   "json": "items/tools/advanced-glider-1397467393.json"
+  },
+  {
+   "id": 1815671523,
+   "name": "Cursed Fishing Rod",
+   "page": "items/buildtools/cursed-fishing-rod-1815671523.md",
+   "json": "items/buildtools/cursed-fishing-rod-1815671523.json"
+  },
+  {
+   "id": 2581939916,
+   "name": "Dead Wood Block",
+   "page": "items/buildtools/dead-wood-block-2581939916.md",
+   "json": "items/buildtools/dead-wood-block-2581939916.json"
+  },
+  {
+   "id": 1390932160,
+   "name": "T1 Eternal Ice Bolt I",
+   "page": "items/ammunition/t1-eternal-ice-bolt-i-1390932160.md",
+   "json": "items/ammunition/t1-eternal-ice-bolt-i-1390932160.json"
+  },
+  {
+   "id": 556297753,
+   "name": "T2 Palette 02 shades of grey",
+   "page": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.md",
+   "json": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.json"
+  },
+  {
+   "id": 2811112772,
+   "name": "Scrappy Axe",
+   "page": "items/tools/scrappy-axe-2811112772.md",
+   "json": "items/tools/scrappy-axe-2811112772.json"
+  },
+  {
+   "id": 256634933,
+   "name": "Scrappy Pickaxe",
+   "page": "items/buildtools/scrappy-pickaxe-256634933.md",
+   "json": "items/buildtools/scrappy-pickaxe-256634933.json"
+  },
+  {
+   "id": 3536356032,
+   "name": "Spiritual Cane",
+   "page": "items/weapons/spiritual-cane-3536356032.md",
+   "json": "items/weapons/spiritual-cane-3536356032.json"
+  },
+  {
+   "id": 2780985755,
+   "name": "T2 chair Dungeon",
+   "page": "items/buildtools/t2-chair-dungeon-2780985755.md",
+   "json": "items/buildtools/t2-chair-dungeon-2780985755.json"
+  },
+  {
+   "id": 3708349200,
+   "name": "Table Large T2 Dungeon",
+   "page": "items/buildtools/table-large-t2-dungeon-3708349200.md",
+   "json": "items/buildtools/table-large-t2-dungeon-3708349200.json"
+  },
+  {
+   "id": 2950858301,
+   "name": "Table Medium T2 Dungeon",
+   "page": "items/buildtools/table-medium-t2-dungeon-2950858301.md",
+   "json": "items/buildtools/table-medium-t2-dungeon-2950858301.json"
+  },
+  {
+   "id": 2510133755,
+   "name": "Table Small T2 Dungeon",
+   "page": "items/buildtools/table-small-t2-dungeon-2510133755.md",
+   "json": "items/buildtools/table-small-t2-dungeon-2510133755.json"
+  },
+  {
+   "id": 896912556,
+   "name": "Lantern Garden Gnome",
+   "page": "items/buildtools/lantern-garden-gnome-896912556.md",
+   "json": "items/buildtools/lantern-garden-gnome-896912556.json"
+  },
+  {
+   "id": 333200327,
+   "name": "Shovel Garden Gnome",
+   "page": "items/buildtools/shovel-garden-gnome-333200327.md",
+   "json": "items/buildtools/shovel-garden-gnome-333200327.json"
+  },
+  {
+   "id": 2775007815,
+   "name": "Sword Garden Gnome",
+   "page": "items/buildtools/sword-garden-gnome-2775007815.md",
+   "json": "items/buildtools/sword-garden-gnome-2775007815.json"
+  },
+  {
+   "id": 3568384766,
+   "name": "T4 Dungeon bookrest",
+   "page": "items/buildtools/t4-dungeon-bookrest-3568384766.md",
+   "json": "items/buildtools/t4-dungeon-bookrest-3568384766.json"
+  },
+  {
+   "id": 2783674260,
+   "name": "T2 cabinet Dungeon Large",
+   "page": "items/buildtools/t2-cabinet-dungeon-large-2783674260.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-large-2783674260.json"
+  },
+  {
+   "id": 3289981447,
+   "name": "T2 Sideboard Dungeon Large",
+   "page": "items/buildtools/t2-sideboard-dungeon-large-3289981447.md",
+   "json": "items/buildtools/t2-sideboard-dungeon-large-3289981447.json"
+  },
+  {
+   "id": 1248371838,
+   "name": "T2 Sideboard Dungeon Small",
+   "page": "items/buildtools/t2-sideboard-dungeon-small-1248371838.md",
+   "json": "items/buildtools/t2-sideboard-dungeon-small-1248371838.json"
+  },
+  {
+   "id": 1793657421,
+   "name": "T2 cabinet Dungeon medium",
+   "page": "items/buildtools/t2-cabinet-dungeon-medium-1793657421.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-medium-1793657421.json"
+  },
+  {
+   "id": 1053092022,
+   "name": "T2 cabinet Dungeon small",
+   "page": "items/buildtools/t2-cabinet-dungeon-small-1053092022.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-small-1053092022.json"
+  },
+  {
+   "id": 3316336574,
+   "name": "T2 Cupboard Dungeon Large",
+   "page": "items/buildtools/t2-cupboard-dungeon-large-3316336574.md",
+   "json": "items/buildtools/t2-cupboard-dungeon-large-3316336574.json"
+  },
+  {
+   "id": 2649776256,
+   "name": "T2 Cupboard Dungeon Small",
+   "page": "items/buildtools/t2-cupboard-dungeon-small-2649776256.md",
+   "json": "items/buildtools/t2-cupboard-dungeon-small-2649776256.json"
+  }
+ ],
+ "page": "items/materials/fog-wood-1320899587.md"
+}

@@ -17,4 +17,4 @@ Perfect for letting magic course through your veins, and into the tips of your f
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-mage-arms.json)

@@ -1,0 +1,43 @@
+{
+ "id": 1560142232,
+ "name": "Pinewood Room Divider I",
+ "internalName": "Prop_Decoration_T5_Divider_Pinewood_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1560142232.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1923523441,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    }
+   ],
+   "outputCount": 2
+  }
+ ],
+ "page": "items/buildtools/pinewood-room-divider-i-1560142232.md"
+}

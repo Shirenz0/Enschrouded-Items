@@ -1,0 +1,29 @@
+{
+ "id": 4179466778,
+ "name": "Palm Leaf Basket",
+ "internalName": "Prop_Decoration_T6_Basket_03",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4179466778.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/palm-leaf-basket.md",
+  "json": "objects/buildtools/palm-leaf-basket.json",
+  "versions": 3
+ },
+ "page": "items/buildtools/palm-leaf-basket-4179466778.md"
+}

@@ -1,0 +1,126 @@
+{
+ "id": 3436629486,
+ "name": "Yellow Fabric",
+ "internalName": "Material_T4_Fabric_Yellow",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/3436629486.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Yellow dyed fabric used for clothing.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 267687070,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3072220773,
+   "name": "T4 DPS Legs",
+   "page": "items/equipment/t4-dps-legs-3072220773.md",
+   "json": "items/equipment/t4-dps-legs-3072220773.json"
+  },
+  {
+   "id": 1838950390,
+   "name": "T4 Tank Arms",
+   "page": "items/equipment/t4-tank-arms-1838950390.md",
+   "json": "items/equipment/t4-tank-arms-1838950390.json"
+  },
+  {
+   "id": 2870440263,
+   "name": "T4 Tank Helmet",
+   "page": "items/equipment/t4-tank-helmet-2870440263.md",
+   "json": "items/equipment/t4-tank-helmet-2870440263.json"
+  },
+  {
+   "id": 3705686568,
+   "name": "Yellow Wall Banner",
+   "page": "items/buildtools/yellow-wall-banner-3705686568.md",
+   "json": "items/buildtools/yellow-wall-banner-3705686568.json"
+  },
+  {
+   "id": 2260715396,
+   "name": "Big Yellow Wall Banner",
+   "page": "items/buildtools/big-yellow-wall-banner-2260715396.md",
+   "json": "items/buildtools/big-yellow-wall-banner-2260715396.json"
+  },
+  {
+   "id": 32887851,
+   "name": "Flag Pole I",
+   "page": "items/buildtools/flag-pole-i-32887851.md",
+   "json": "items/buildtools/flag-pole-i-32887851.json"
+  },
+  {
+   "id": 1596806993,
+   "name": "Flag Pole II",
+   "page": "items/buildtools/flag-pole-ii-1596806993.md",
+   "json": "items/buildtools/flag-pole-ii-1596806993.json"
+  },
+  {
+   "id": 383915057,
+   "name": "Flag Pole III",
+   "page": "items/buildtools/flag-pole-iii-383915057.md",
+   "json": "items/buildtools/flag-pole-iii-383915057.json"
+  },
+  {
+   "id": 2344368210,
+   "name": "Flag Pole V",
+   "page": "items/buildtools/flag-pole-v-2344368210.md",
+   "json": "items/buildtools/flag-pole-v-2344368210.json"
+  },
+  {
+   "id": 3929204963,
+   "name": "Flag Pole IV",
+   "page": "items/buildtools/flag-pole-iv-3929204963.md",
+   "json": "items/buildtools/flag-pole-iv-3929204963.json"
+  },
+  {
+   "id": 3078925869,
+   "name": "Flag Pole VI",
+   "page": "items/buildtools/flag-pole-vi-3078925869.md",
+   "json": "items/buildtools/flag-pole-vi-3078925869.json"
+  },
+  {
+   "id": 2748519377,
+   "name": "Party Hat IV",
+   "page": "items/equipment/party-hat-iv-2748519377.md",
+   "json": "items/equipment/party-hat-iv-2748519377.json"
+  }
+ ],
+ "page": "items/materials/yellow-fabric-3436629486.md"
+}

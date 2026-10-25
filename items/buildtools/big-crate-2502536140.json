@@ -1,0 +1,52 @@
+{
+ "id": 2502536140,
+ "name": "Big crate",
+ "internalName": "Prop_Decoration_T2_Crate_Wooden_big",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2502536140.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3310823031,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-crate-2502536140.md"
+}

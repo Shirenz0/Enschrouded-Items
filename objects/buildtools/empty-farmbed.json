@@ -1,0 +1,68 @@
+{
+ "name": "Empty Farmbed",
+ "category": "BuildTools",
+ "image": "images/icons/604994553.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1392367211,
+   "name": "Empty Farmbed",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1392367211.png",
+   "page": "items/buildtools/empty-farmbed-1392367211.md",
+   "json": "items/buildtools/empty-farmbed-1392367211.json",
+   "maxStack": 10,
+   "ownTexts": []
+  },
+  {
+   "id": 2425261321,
+   "name": "Empty Farmbed",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2425261321.png",
+   "page": "items/buildtools/empty-farmbed-2425261321.md",
+   "json": "items/buildtools/empty-farmbed-2425261321.json",
+   "maxStack": 10,
+   "ownTexts": []
+  },
+  {
+   "id": 3310867211,
+   "name": "Empty Farmbed",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3310867211.png",
+   "page": "items/buildtools/empty-farmbed-3310867211.md",
+   "json": "items/buildtools/empty-farmbed-3310867211.json",
+   "maxStack": 10,
+   "ownTexts": []
+  },
+  {
+   "id": 3916554796,
+   "name": "Empty Farmbed",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3916554796.png",
+   "page": "items/buildtools/empty-farmbed-3916554796.md",
+   "json": "items/buildtools/empty-farmbed-3916554796.json",
+   "maxStack": 10,
+   "ownTexts": []
+  },
+  {
+   "id": 604994553,
+   "name": "Empty Farmbed",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/604994553.png",
+   "page": "items/buildtools/empty-farmbed-604994553.md",
+   "json": "items/buildtools/empty-farmbed-604994553.json",
+   "maxStack": 10,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/empty-farmbed.md"
+}

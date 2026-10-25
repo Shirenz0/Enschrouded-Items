@@ -1,0 +1,75 @@
+{
+ "id": 3145568607,
+ "name": "Pheromone Shroud",
+ "internalName": "_Consumable_ShroudPheromone_Grenade_T3",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 20,
+ "image": "images/icons/3145568607.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Throw to attract the fell.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 56,
+    "display": "56",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 40000,
+    "display": "40 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3533227428,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1728169696,
+      "name": "Fog Sack",
+      "page": "items/materials/fog-sack-1728169696.md",
+      "json": "items/materials/fog-sack-1728169696.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/pheromone-shroud-3145568607.md"
+}

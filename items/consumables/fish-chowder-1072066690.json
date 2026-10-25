@@ -1,0 +1,133 @@
+{
+ "id": 1072066690,
+ "name": "Fish Chowder",
+ "internalName": "Food_T4_dish_fish_fishChowderSoup",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1072066690.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hearty, creamy soup made with tender chunks of fish and fresh vegetables.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2700000,
+    "display": "45:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Maximum Oxygen",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 85518310,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3118804138,
+      "name": "Corncob",
+      "page": "items/consumables/corncob-3118804138.md",
+      "json": "items/consumables/corncob-3118804138.json"
+     }
+    },
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 1675072409,
+       "name": "Fish rare 03 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 3419031428,
+       "name": "Fish rare 01 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 3653119547,
+       "name": "Fish rare 02 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 817023891,
+       "name": "Fish rare 04 name",
+       "page": null,
+       "json": null
+      }
+     ]
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3542827745,
+      "name": "Forest Beet",
+      "page": "items/consumables/forest-beet-3542827745.md",
+      "json": "items/consumables/forest-beet-3542827745.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2873455991,
+      "name": "Milk",
+      "page": "items/consumables/milk-2873455991.md",
+      "json": "items/consumables/milk-2873455991.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 169532188,
+      "name": "Flour",
+      "page": "items/materials/flour-169532188.md",
+      "json": "items/materials/flour-169532188.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/fish-chowder-1072066690.md"
+}

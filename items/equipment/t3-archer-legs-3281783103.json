@@ -1,0 +1,131 @@
+{
+ "id": 3281783103,
+ "name": "T3 Archer Legs",
+ "internalName": "Armor_T3_Ranger_Assassin_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/3281783103.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The pants were made from a set of different materials and protect all the most important areas adequately.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-archer-legs.md",
+  "json": "objects/equipment/t3-archer-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 27,
+    "display": "27",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Sneak  Speed",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Cutthroat",
+   "effect": "Increases the skill level of Cutthroat by +1"
+  },
+  {
+   "order": 4,
+   "name": "Shock Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1997081808,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3594337385,
+      "name": "Petrified Fell Shell",
+      "page": "items/materials/petrified-fell-shell-3594337385.md",
+      "json": "items/materials/petrified-fell-shell-3594337385.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-archer-legs-3281783103.md"
+}

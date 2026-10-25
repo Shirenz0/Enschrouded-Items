@@ -1,0 +1,50 @@
+{
+ "id": 1464549788,
+ "name": "Jezmina's Yearwake Helmet",
+ "internalName": "Vanity_T2_springButterfly_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1464549788.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Jezmina's Yearwake helmet desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/jezmina-s-yearwake-helmet.md",
+  "json": "objects/equipment/jezmina-s-yearwake-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head"
+ },
+ "recipes": [
+  {
+   "recipeId": 2515810910,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/jezmina-s-yearwake-helmet-1464549788.md"
+}

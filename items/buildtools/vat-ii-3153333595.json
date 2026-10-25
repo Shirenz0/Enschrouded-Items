@@ -1,0 +1,61 @@
+{
+ "id": 3153333595,
+ "name": "Vat II",
+ "internalName": "Prop_Decoration_T2_Vat_Wooden02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3153333595.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2711783179,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/vat-ii-3153333595.md"
+}

@@ -32,4 +32,4 @@ A Wooden Rake enhanced with scrap metal to increase its durablility. A decent to
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](scrappy-rake-2176546463.json)

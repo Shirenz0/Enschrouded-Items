@@ -1,0 +1,67 @@
+{
+ "id": 4153283154,
+ "name": "T2 Wizard Helmet",
+ "internalName": "Armor_T2_Mage_BattleWand_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/4153283154.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Some farmers believed that wizards stored their magical energy in their brimmed hats. These rumours were widespread, but completely false.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Strike Damage",
+    "value": 19,
+    "display": "19",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Radiant Aura",
+   "effect": "Increases the skill level of Radiant Aura by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+8 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  }
+ ],
+ "page": "items/equipment/t2-wizard-helmet-4153283154.md"
+}

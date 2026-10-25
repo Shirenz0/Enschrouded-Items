@@ -1,0 +1,33 @@
+{
+ "id": 2135602472,
+ "name": "Fog Goo 07 Archaic Essence VII",
+ "internalName": "Material_T7_Fognest_Ressource",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 500,
+ "image": "images/icons/2135602472.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A radiant whirl of energy that is needed to insert gems into weaponry. \n\nWhile initially used by the Ancients, it was claimed by the Fell to fuel their brood until you freed it from its newly organic prison.",
+ "lore": null,
+ "whereToFind": "Ancient Land Shroud, Shroud Lairs",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2670118573,
+   "name": "Ancient/Archaic Infusion",
+   "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+   "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+  }
+ ],
+ "page": "items/materials/fog-goo-07-archaic-essence-vii-2135602472.md"
+}

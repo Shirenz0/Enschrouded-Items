@@ -25,4 +25,4 @@ This is a showcase for Collection Items you find in the Hollow Halls.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](showcase-skeletons-3-small-and-2-medium-slots-2564145075.json)

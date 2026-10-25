@@ -1,0 +1,37 @@
+{
+ "name": "Large Backpack",
+ "category": "Equipment",
+ "image": "images/icons/996296787.png",
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 3131144042,
+   "name": "Large Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3131144042.png",
+   "page": "items/equipment/large-backpack-3131144042.md",
+   "json": "items/equipment/large-backpack-3131144042.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 996296787,
+   "name": "Large Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/996296787.png",
+   "page": "items/equipment/large-backpack-996296787.md",
+   "json": "items/equipment/large-backpack-996296787.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/equipment/large-backpack.md"
+}

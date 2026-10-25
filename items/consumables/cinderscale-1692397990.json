@@ -1,0 +1,39 @@
+{
+ "id": 1692397990,
+ "name": "Cinderscale",
+ "internalName": "_Food_raw_bad_T7_fish_epic_05",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 30,
+ "image": "images/icons/1692397990.png",
+ "placeholderImage": null,
+ "caption": "Fish",
+ "description": "It's scales glow faintly with residual heat. Better to handle with thick gloves unless you want to get burned.\n\nIt can be eaten raw, but will be even more beneficial when processed further.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2597418482,
+   "name": "Grilled Cinderscale",
+   "page": "items/consumables/grilled-cinderscale-2597418482.md",
+   "json": "items/consumables/grilled-cinderscale-2597418482.json"
+  },
+  {
+   "id": 3610183331,
+   "name": "Fish Poison Gland",
+   "page": "items/materials/fish-poison-gland-3610183331.md",
+   "json": "items/materials/fish-poison-gland-3610183331.json"
+  }
+ ],
+ "page": "items/consumables/cinderscale-1692397990.md"
+}

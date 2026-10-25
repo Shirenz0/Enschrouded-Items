@@ -17,4 +17,4 @@ A detailed trilobite imprint. The structure of it's body can still be made out c
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](trilobite-imprint-451517866.json)

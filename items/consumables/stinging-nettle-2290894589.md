@@ -32,4 +32,4 @@ Revelwood
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](stinging-nettle-2290894589.json)

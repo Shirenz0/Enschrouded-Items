@@ -38,4 +38,4 @@ The versions have the same level range, rarity, stack size and texts; the game k
 
 ---
 
-[← Customization](../../categories/customization.md) · [All categories](../../README.md)
+[← Customization](../../categories/customization.md) · [All categories](../../README.md) · [JSON](male-head-01.json)

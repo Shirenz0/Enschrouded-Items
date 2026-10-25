@@ -1,0 +1,43 @@
+{
+ "id": 3938514298,
+ "name": "Road Stone 2",
+ "internalName": "Build_TerrainMaterial_T1_Road_Stone_2",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/3938514298.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A road made from solid rock",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1062540209,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/road-stone-2-3938514298.md"
+}

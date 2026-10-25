@@ -1,0 +1,131 @@
+{
+ "id": 1815671523,
+ "name": "Cursed Fishing Rod",
+ "internalName": "Tool_T3_FishingRod_cursed_Loot",
+ "category": {
+  "id": "FishingRod",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1815671523.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "more likely to catch boot but also stronger > to catch uncommon/rare",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "values": [
+   {
+    "label": "Fishing Strength",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fishing Endurance",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2618433157,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 968828649,
+       "name": "Tbd T1 Palette 01 Reward A Fancy Outlook",
+       "page": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.md",
+       "json": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.json"
+      },
+      {
+       "id": 2607932810,
+       "name": "T4 Palette 02 Brown yellow red",
+       "page": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.md",
+       "json": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.json"
+      },
+      {
+       "id": 3687407983,
+       "name": "T4 Palette 03 maroon",
+       "page": "items/colorpalette/t4-palette-03-maroon-3687407983.md",
+       "json": "items/colorpalette/t4-palette-03-maroon-3687407983.json"
+      },
+      {
+       "id": 1860080518,
+       "name": "From Dusk Till Dawn",
+       "page": "items/colorpalette/from-dusk-till-dawn-1860080518.md",
+       "json": "items/colorpalette/from-dusk-till-dawn-1860080518.json"
+      },
+      {
+       "id": 1365809698,
+       "name": "Waves Of Valor",
+       "page": "items/colorpalette/waves-of-valor-1365809698.md",
+       "json": "items/colorpalette/waves-of-valor-1365809698.json"
+      },
+      {
+       "id": 1966532423,
+       "name": "Holly and Berry",
+       "page": "items/colorpalette/holly-and-berry-1966532423.md",
+       "json": "items/colorpalette/holly-and-berry-1966532423.json"
+      },
+      {
+       "id": 1932536216,
+       "name": "Color palette t6 reward 01 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 835723769,
+       "name": "Shades Of Red",
+       "page": "items/colorpalette/shades-of-red-835723769.md",
+       "json": "items/colorpalette/shades-of-red-835723769.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/cursed-fishing-rod-1815671523.md"
+}

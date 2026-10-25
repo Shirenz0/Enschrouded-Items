@@ -30,4 +30,4 @@ This glider is lighter and enables you to travel bigger distances.
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](advanced-glider-1397467393.json)

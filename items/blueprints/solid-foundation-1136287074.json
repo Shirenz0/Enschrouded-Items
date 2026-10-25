@@ -1,0 +1,25 @@
+{
+ "id": 1136287074,
+ "name": "Solid Foundation",
+ "internalName": "Blueprint_Voxel_Whitebox_Wood_Foundation_4m_old",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/blueprints/solid-foundation-1136287074.md"
+}

@@ -37,4 +37,4 @@ Crafting, Collector
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](skull-summoning-vessel-1567174048.json)

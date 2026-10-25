@@ -1,0 +1,25 @@
+{
+ "id": 1212732429,
+ "name": "Experience Scroll",
+ "internalName": "Consumable_Scroll_Experience",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1212732429.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The most different experiences gathered and described on a scroll.\n\nGain a small amount of Experience upon absorption of the content.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/consumables/experience-scroll-1212732429.md"
+}

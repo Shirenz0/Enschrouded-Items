@@ -1,0 +1,45 @@
+{
+ "id": 2435149273,
+ "name": "Wheat Grains",
+ "internalName": "Material_T3_Wheat_Grains",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/2435149273.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Both a cooking ingredient and a seed for the fields.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1811689543,
+   "name": "Wheat Seedling",
+   "page": "items/buildtools/wheat-seedling-1811689543.md",
+   "json": "items/buildtools/wheat-seedling-1811689543.json"
+  },
+  {
+   "id": 169532188,
+   "name": "Flour",
+   "page": "items/materials/flour-169532188.md",
+   "json": "items/materials/flour-169532188.json"
+  },
+  {
+   "id": 2553328095,
+   "name": "Food Turkey Feeding",
+   "page": "items/buildtools/food-turkey-feeding-2553328095.md",
+   "json": "items/buildtools/food-turkey-feeding-2553328095.json"
+  }
+ ],
+ "page": "items/materials/wheat-grains-2435149273.md"
+}

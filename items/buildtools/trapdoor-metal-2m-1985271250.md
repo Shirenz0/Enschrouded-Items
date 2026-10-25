@@ -21,4 +21,4 @@ This trap door might open unexpectedly beneath your feet. Watch your step!
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](trapdoor-metal-2m-1985271250.json)

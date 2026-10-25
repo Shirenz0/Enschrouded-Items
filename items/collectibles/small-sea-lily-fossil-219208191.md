@@ -17,4 +17,4 @@ A robust, small sea lily fossil. No matter how you turn it, you're always greete
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](small-sea-lily-fossil-219208191.json)

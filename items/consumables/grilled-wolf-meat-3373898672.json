@@ -1,0 +1,73 @@
+{
+ "id": 3373898672,
+ "name": "Grilled Wolf Meat",
+ "internalName": "Food_T1_processed_meat_Grilled_WolfMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3373898672.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Roasted ribs were a delicacy back in the day, granting a good amount of constitution to the consumer...",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 1200000,
+    "display": "20:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3390214803,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2968802610,
+      "name": "Raw Wolf Meat",
+      "page": "items/consumables/raw-wolf-meat-2968802610.md",
+      "json": "items/consumables/raw-wolf-meat-2968802610.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 790393972,
+   "name": "Open Sandwich",
+   "page": "items/consumables/open-sandwich-790393972.md",
+   "json": "items/consumables/open-sandwich-790393972.json"
+  },
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-wolf-meat-3373898672.md"
+}

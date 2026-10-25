@@ -1,0 +1,55 @@
+{
+ "name": "Male Upper Legs 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1263179440,
+   "name": "Male Upper Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-legs-01-1263179440.md",
+   "json": "items/customization/male-upper-legs-01-1263179440.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1536735357,
+   "name": "Male Upper Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-legs-01-1536735357.md",
+   "json": "items/customization/male-upper-legs-01-1536735357.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1735109735,
+   "name": "Male Upper Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-legs-01-1735109735.md",
+   "json": "items/customization/male-upper-legs-01-1735109735.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3049020197,
+   "name": "Male Upper Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-legs-01-3049020197.md",
+   "json": "items/customization/male-upper-legs-01-3049020197.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-upper-legs-01.md"
+}

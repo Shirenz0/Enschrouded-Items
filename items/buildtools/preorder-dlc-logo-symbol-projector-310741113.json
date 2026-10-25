@@ -1,0 +1,25 @@
+{
+ "id": 310741113,
+ "name": "PreOrder DLC Logo Symbol projector",
+ "internalName": "Prop_Decoration_DLC_EarlyAccessReward_LogoSymbol",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/310741113.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An illumination item that can be placed in your home.",
+ "lore": "Illumination",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/preorder-dlc-logo-symbol-projector-310741113.md"
+}

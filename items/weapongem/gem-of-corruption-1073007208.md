@@ -23,4 +23,4 @@ Hitting an enemy applies a  mark that can stack up to 5 times.  Marked enemies w
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-corruption-1073007208.json)

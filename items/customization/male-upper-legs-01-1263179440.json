@@ -1,0 +1,29 @@
+{
+ "id": 1263179440,
+ "name": "Male Upper Legs 01",
+ "internalName": "VC_Body_UpperLegs_Dummy",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/male-upper-legs-01.md",
+  "json": "objects/customization/male-upper-legs-01.json",
+  "versions": 4
+ },
+ "page": "items/customization/male-upper-legs-01-1263179440.md"
+}

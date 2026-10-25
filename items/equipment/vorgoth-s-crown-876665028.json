@@ -1,0 +1,136 @@
+{
+ "id": 876665028,
+ "name": "Vorgoth's Crown",
+ "internalName": "Armor_T7_Mage_Helmet_Vorgoth",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/876665028.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "His crown claws at him like reaching fingers. Much like the Mysterious Traveler, who needed no such grip to dig into his thoughts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Staff Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 17,
+    "display": "17",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Counter Strike",
+   "effect": "Increases the skill level of Counter Strike by +1"
+  },
+  {
+   "order": 2,
+   "name": "Spiritual",
+   "effect": "+28 Spiritual"
+  },
+  {
+   "order": 3,
+   "name": "+1 Necromancer",
+   "effect": "Increases the skill level of Necromancer by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Terror",
+   "effect": "Increases the skill level of Terror by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Spellslinger",
+   "effect": "Increases the skill level of Spellslinger by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 545797260,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 234899173,
+      "name": "Magma Gel",
+      "page": "items/materials/magma-gel-234899173.md",
+      "json": "items/materials/magma-gel-234899173.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1940778781,
+      "name": "Vorgoth Blood",
+      "page": "items/materials/vorgoth-blood-1940778781.md",
+      "json": "items/materials/vorgoth-blood-1940778781.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/vorgoth-s-crown-876665028.md"
+}

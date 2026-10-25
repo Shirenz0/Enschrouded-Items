@@ -1,0 +1,77 @@
+{
+ "id": 2382917560,
+ "name": "T4 Tank Chest",
+ "internalName": "Armor_T4_Warrior_Tank_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2382917560.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An incredibly sturdy chestpiece, often worn by generals or select members of the royal guard. It inspired fear as much as respect.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-tank-chest.md",
+  "json": "objects/equipment/t4-tank-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  }
+ ],
+ "page": "items/equipment/t4-tank-chest-2382917560.md"
+}

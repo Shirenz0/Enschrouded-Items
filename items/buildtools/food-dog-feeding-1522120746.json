@@ -1,0 +1,52 @@
+{
+ "id": 1522120746,
+ "name": "Food Dog Feeding",
+ "internalName": "Material_T2_Dog_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/1522120746.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "food dog feeding description",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1350512412,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2512460235,
+      "name": "Raw Game",
+      "page": "items/consumables/raw-game-2512460235.md",
+      "json": "items/consumables/raw-game-2512460235.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3707271437,
+      "name": "Red Berries",
+      "page": "items/consumables/red-berries-3707271437.md",
+      "json": "items/consumables/red-berries-3707271437.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/food-dog-feeding-1522120746.md"
+}

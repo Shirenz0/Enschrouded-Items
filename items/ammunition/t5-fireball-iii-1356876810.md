@@ -31,4 +31,4 @@ Magical ammunition that ignites a single fireball, errupting upon impact, dealin
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t5-fireball-iii-1356876810.json)

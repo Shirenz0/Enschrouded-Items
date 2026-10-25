@@ -1,0 +1,87 @@
+{
+ "id": 3509012331,
+ "name": "Mycelium",
+ "internalName": "Material_T1_FogTerrain_Mycelium",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3509012331.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Mycelium of fog mushrooms, absorbing the magical properties of the fog in the air. Could this be used for alchemical purposes?",
+ "lore": null,
+ "whereToFind": "Mining, Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2543947810,
+   "name": "Mycellium Overgrown Block",
+   "page": "items/buildtools/mycellium-overgrown-block-2543947810.md",
+   "json": "items/buildtools/mycellium-overgrown-block-2543947810.json"
+  },
+  {
+   "id": 2343620458,
+   "name": "Tbd T2 Palette 03 Reward",
+   "page": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.md",
+   "json": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.json"
+  },
+  {
+   "id": 2125851720,
+   "name": "Tbd T2 Palette 01 Reward Blue, Blue And Blue",
+   "page": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.md",
+   "json": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.json"
+  },
+  {
+   "id": 2967793968,
+   "name": "T2 Palette 03 Grey and Blue",
+   "page": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.md",
+   "json": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.json"
+  },
+  {
+   "id": 4016272699,
+   "name": "T2 Palette 01 Brown bright Grey",
+   "page": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.md",
+   "json": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.json"
+  },
+  {
+   "id": 3962501836,
+   "name": "Glow Dirt WarmWhite",
+   "page": "items/materials/glow-dirt-warmwhite-3962501836.md",
+   "json": "items/materials/glow-dirt-warmwhite-3962501836.json"
+  },
+  {
+   "id": 1513594761,
+   "name": "Alchemist Apprentice Boots",
+   "page": "items/equipment/alchemist-apprentice-boots-1513594761.md",
+   "json": "items/equipment/alchemist-apprentice-boots-1513594761.json"
+  },
+  {
+   "id": 1694671169,
+   "name": "Rising Fighter Boots",
+   "page": "items/equipment/rising-fighter-boots-1694671169.md",
+   "json": "items/equipment/rising-fighter-boots-1694671169.json"
+  },
+  {
+   "id": 3996283384,
+   "name": "Scout Boots",
+   "page": "items/equipment/scout-boots-3996283384.md",
+   "json": "items/equipment/scout-boots-3996283384.json"
+  },
+  {
+   "id": 1353762644,
+   "name": "Mycelium overgrowth",
+   "page": "items/buildtools/mycelium-overgrowth-1353762644.md",
+   "json": "items/buildtools/mycelium-overgrowth-1353762644.json"
+  }
+ ],
+ "page": "items/materials/mycelium-3509012331.md"
+}

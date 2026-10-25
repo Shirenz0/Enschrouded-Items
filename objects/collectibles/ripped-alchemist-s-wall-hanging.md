@@ -19,4 +19,4 @@ They differ in description; the table shows the values per version.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](ripped-alchemist-s-wall-hanging.json)

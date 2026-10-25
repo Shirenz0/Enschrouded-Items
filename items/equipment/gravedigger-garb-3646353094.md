@@ -27,4 +27,4 @@ These clothes smell of decay.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](gravedigger-garb-3646353094.json)

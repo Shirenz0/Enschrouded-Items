@@ -1,0 +1,57 @@
+{
+ "id": 1158895795,
+ "name": "Frozen Shroud Solids",
+ "internalName": "Material_T5_MushroomDrop_FrozenShroudSolids",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/1158895795.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Cold to the touch",
+ "lore": null,
+ "whereToFind": "find in Albaneve Summits Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1533278840,
+   "name": "T5 Ice Bolt III",
+   "page": "items/ammunition/t5-ice-bolt-iii-1533278840.md",
+   "json": "items/ammunition/t5-ice-bolt-iii-1533278840.json"
+  },
+  {
+   "id": 4195393452,
+   "name": "T5 Eternal Blizzard I",
+   "page": "items/ammunition/t5-eternal-blizzard-i-4195393452.md",
+   "json": "items/ammunition/t5-eternal-blizzard-i-4195393452.json"
+  },
+  {
+   "id": 4214162606,
+   "name": "Shroud Arrow II",
+   "page": "items/ammunition/shroud-arrow-ii-4214162606.md",
+   "json": "items/ammunition/shroud-arrow-ii-4214162606.json"
+  },
+  {
+   "id": 1783208373,
+   "name": "Chanterelle Seedling",
+   "page": "items/buildtools/chanterelle-seedling-1783208373.md",
+   "json": "items/buildtools/chanterelle-seedling-1783208373.json"
+  },
+  {
+   "id": 579568751,
+   "name": "Shroud Vapor",
+   "page": "items/materials/shroud-vapor-579568751.md",
+   "json": "items/materials/shroud-vapor-579568751.json"
+  }
+ ],
+ "page": "items/materials/frozen-shroud-solids-1158895795.md"
+}

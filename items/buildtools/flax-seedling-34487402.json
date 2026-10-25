@@ -1,0 +1,52 @@
+{
+ "id": 34487402,
+ "name": "Flax Seedling",
+ "internalName": "T2_Seedling_Material_Flax",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/34487402.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2532919992,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3898847112,
+      "name": "Flax",
+      "page": "items/materials/flax-3898847112.md",
+      "json": "items/materials/flax-3898847112.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/buildtools/flax-seedling-34487402.md"
+}

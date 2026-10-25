@@ -1,0 +1,43 @@
+{
+ "id": 3321738283,
+ "name": "Road Stone 3",
+ "internalName": "Build_TerrainMaterial_T3_Road_Stone_3",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/3321738283.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A road made from T3 Steppes Stones (lime?)",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1143560328,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/road-stone-3-3321738283.md"
+}

@@ -1,0 +1,70 @@
+{
+ "id": 1365809698,
+ "name": "Waves Of Valor",
+ "internalName": "ColorPalette_T6_ColorPalette_05",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1365809698.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A vivid palette of bright blue, blazing red, and pure white — crisp, bold, and full of energy, like a banner snapping in the wind. This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2650250422,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3728704408,
+      "name": "T5 Silver Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/waves-of-valor-1365809698.md"
+}

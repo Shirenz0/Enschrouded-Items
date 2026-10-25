@@ -25,4 +25,4 @@ Vanity  Outfit Sheep  chest  Desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-outfit-sheep-chest-590823529.json)

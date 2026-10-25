@@ -1,0 +1,77 @@
+{
+ "id": 2397258068,
+ "name": "T4 BattleMage Helmet",
+ "internalName": "Armor_T4_Mage_BattleWand_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2397258068.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A helmet which protects your sensitive cranial bone from harm.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-battlemage-helmet.md",
+  "json": "objects/equipment/t4-battlemage-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Radiant Aura",
+   "effect": "Increases the skill level of Radiant Aura by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+16 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  }
+ ],
+ "page": "items/equipment/t4-battlemage-helmet-2397258068.md"
+}

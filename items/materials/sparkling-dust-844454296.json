@@ -1,0 +1,264 @@
+{
+ "id": 844454296,
+ "name": "Sparkling Dust",
+ "internalName": "Material_T7_Sparkling_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/844454296.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Sparkling Dust",
+ "lore": null,
+ "whereToFind": "Crafting, Improved Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2340757433,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 61577244,
+      "name": "Diamond",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2035945146,
+      "name": "Celesthium Ore",
+      "page": "items/materials/celesthium-ore-2035945146.md",
+      "json": "items/materials/celesthium-ore-2035945146.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1898288525,
+      "name": "Mother-Of-Pearl",
+      "page": "items/materials/mother-of-pearl-1898288525.md",
+      "json": "items/materials/mother-of-pearl-1898288525.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 454345705,
+   "name": "Ancient Moon Stone Block",
+   "page": "items/buildtools/ancient-moon-stone-block-454345705.md",
+   "json": "items/buildtools/ancient-moon-stone-block-454345705.json"
+  },
+  {
+   "id": 2032176232,
+   "name": "T7 Eternal Mana Leech Beam VIII",
+   "page": "items/ammunition/t7-eternal-mana-leech-beam-viii-2032176232.md",
+   "json": "items/ammunition/t7-eternal-mana-leech-beam-viii-2032176232.json"
+  },
+  {
+   "id": 678529367,
+   "name": "Eternal Fire Arrow III",
+   "page": "items/ammunition/eternal-fire-arrow-iii-678529367.md",
+   "json": "items/ammunition/eternal-fire-arrow-iii-678529367.json"
+  },
+  {
+   "id": 2369196415,
+   "name": "Eternal Shock Arrow III",
+   "page": "items/ammunition/eternal-shock-arrow-iii-2369196415.md",
+   "json": "items/ammunition/eternal-shock-arrow-iii-2369196415.json"
+  },
+  {
+   "id": 3838422264,
+   "name": "T7 Eternal Fireball III",
+   "page": "items/ammunition/t7-eternal-fireball-iii-3838422264.md",
+   "json": "items/ammunition/t7-eternal-fireball-iii-3838422264.json"
+  },
+  {
+   "id": 3180367619,
+   "name": "T7 Eternal Pillar of Flames",
+   "page": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.md",
+   "json": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.json"
+  },
+  {
+   "id": 377316946,
+   "name": "T7 Eternal Light Burst II",
+   "page": "items/ammunition/t7-eternal-light-burst-ii-377316946.md",
+   "json": "items/ammunition/t7-eternal-light-burst-ii-377316946.json"
+  },
+  {
+   "id": 1144190206,
+   "name": "T7 Eternal Ice Bolt IV",
+   "page": "items/ammunition/t7-eternal-ice-bolt-iv-1144190206.md",
+   "json": "items/ammunition/t7-eternal-ice-bolt-iv-1144190206.json"
+  },
+  {
+   "id": 780965247,
+   "name": "T7 Ice Bolt IV",
+   "page": "items/ammunition/t7-ice-bolt-iv-780965247.md",
+   "json": "items/ammunition/t7-ice-bolt-iv-780965247.json"
+  },
+  {
+   "id": 3381945830,
+   "name": "T7 Eternal Blizzard II",
+   "page": "items/ammunition/t7-eternal-blizzard-ii-3381945830.md",
+   "json": "items/ammunition/t7-eternal-blizzard-ii-3381945830.json"
+  },
+  {
+   "id": 2894776039,
+   "name": "T7 Chain Lightning II",
+   "page": "items/ammunition/t7-chain-lightning-ii-2894776039.md",
+   "json": "items/ammunition/t7-chain-lightning-ii-2894776039.json"
+  },
+  {
+   "id": 2369199112,
+   "name": "T7 Eternal Ball Lightning",
+   "page": "items/ammunition/t7-eternal-ball-lightning-2369199112.md",
+   "json": "items/ammunition/t7-eternal-ball-lightning-2369199112.json"
+  },
+  {
+   "id": 3694023795,
+   "name": "T7 Eternal Shock Totem",
+   "page": "items/ammunition/t7-eternal-shock-totem-3694023795.md",
+   "json": "items/ammunition/t7-eternal-shock-totem-3694023795.json"
+  },
+  {
+   "id": 1408904500,
+   "name": "T7 Eternal Magic Shield",
+   "page": "items/ammunition/t7-eternal-magic-shield-1408904500.md",
+   "json": "items/ammunition/t7-eternal-magic-shield-1408904500.json"
+  },
+  {
+   "id": 2670118573,
+   "name": "Ancient/Archaic Infusion",
+   "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+   "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+  },
+  {
+   "id": 3983015116,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-3983015116.md",
+   "json": "items/weapons/halescourge-3983015116.json"
+  },
+  {
+   "id": 2988598231,
+   "name": "Incredible Ward",
+   "page": "items/equipment/incredible-ward-2988598231.md",
+   "json": "items/equipment/incredible-ward-2988598231.json"
+  },
+  {
+   "id": 3057743376,
+   "name": "Vorgoth's Boots",
+   "page": "items/equipment/vorgoth-s-boots-3057743376.md",
+   "json": "items/equipment/vorgoth-s-boots-3057743376.json"
+  },
+  {
+   "id": 3354262298,
+   "name": "Ancient Bed",
+   "page": "items/buildtools/ancient-bed-3354262298.md",
+   "json": "items/buildtools/ancient-bed-3354262298.json"
+  },
+  {
+   "id": 1352479860,
+   "name": "Ancient Bench",
+   "page": "items/buildtools/ancient-bench-1352479860.md",
+   "json": "items/buildtools/ancient-bench-1352479860.json"
+  },
+  {
+   "id": 3255588039,
+   "name": "Ancient Temple Bench",
+   "page": "items/buildtools/ancient-temple-bench-3255588039.md",
+   "json": "items/buildtools/ancient-temple-bench-3255588039.json"
+  },
+  {
+   "id": 562059957,
+   "name": "Large Ancient Temple Bench",
+   "page": "items/buildtools/large-ancient-temple-bench-562059957.md",
+   "json": "items/buildtools/large-ancient-temple-bench-562059957.json"
+  },
+  {
+   "id": 625794456,
+   "name": "Ancient Chair",
+   "page": "items/buildtools/ancient-chair-625794456.md",
+   "json": "items/buildtools/ancient-chair-625794456.json"
+  },
+  {
+   "id": 568670850,
+   "name": "Ancient Stool",
+   "page": "items/buildtools/ancient-stool-568670850.md",
+   "json": "items/buildtools/ancient-stool-568670850.json"
+  },
+  {
+   "id": 3419379175,
+   "name": "Astronomy Standing Lamp",
+   "page": "items/buildtools/astronomy-standing-lamp-3419379175.md",
+   "json": "items/buildtools/astronomy-standing-lamp-3419379175.json"
+  },
+  {
+   "id": 4055833197,
+   "name": "Astronomy Wall Lamp",
+   "page": "items/buildtools/astronomy-wall-lamp-4055833197.md",
+   "json": "items/buildtools/astronomy-wall-lamp-4055833197.json"
+  },
+  {
+   "id": 2703911785,
+   "name": "Astronomy Ceiling Lamp",
+   "page": "items/buildtools/astronomy-ceiling-lamp-2703911785.md",
+   "json": "items/buildtools/astronomy-ceiling-lamp-2703911785.json"
+  },
+  {
+   "id": 4160439418,
+   "name": "Ancient Ground Lamp Small",
+   "page": "items/buildtools/ancient-ground-lamp-small-4160439418.md",
+   "json": "items/buildtools/ancient-ground-lamp-small-4160439418.json"
+  },
+  {
+   "id": 2934669936,
+   "name": "Ancient Ground Lamp Tall",
+   "page": "items/buildtools/ancient-ground-lamp-tall-2934669936.md",
+   "json": "items/buildtools/ancient-ground-lamp-tall-2934669936.json"
+  },
+  {
+   "id": 3711901465,
+   "name": "Ancient Wall Lamp",
+   "page": "items/buildtools/ancient-wall-lamp-3711901465.md",
+   "json": "items/buildtools/ancient-wall-lamp-3711901465.json"
+  },
+  {
+   "id": 124010475,
+   "name": "Ancient Ceiling Lamp",
+   "page": "items/buildtools/ancient-ceiling-lamp-124010475.md",
+   "json": "items/buildtools/ancient-ceiling-lamp-124010475.json"
+  },
+  {
+   "id": 2979819557,
+   "name": "Round Ancient Door",
+   "page": "items/buildtools/round-ancient-door-2979819557.md",
+   "json": "items/buildtools/round-ancient-door-2979819557.json"
+  }
+ ],
+ "page": "items/materials/sparkling-dust-844454296.md"
+}

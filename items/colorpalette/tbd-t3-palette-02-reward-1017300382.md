@@ -25,4 +25,4 @@ Coloring Station
 
 ---
 
-[← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)
+[← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md) · [JSON](tbd-t3-palette-02-reward-1017300382.json)

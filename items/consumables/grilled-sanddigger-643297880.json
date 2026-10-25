@@ -1,0 +1,67 @@
+{
+ "id": 643297880,
+ "name": "Grilled Sanddigger",
+ "internalName": "Food_T4_processed_meat_grilled_SanddiggerMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/643297880.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A specialty of the desert - the customers dig it, especially so because of its health benefits!",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 160,
+    "display": "160",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2100000,
+    "display": "35:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2430711288,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1460600097,
+      "name": "Raw Sanddigger Meat",
+      "page": "items/consumables/raw-sanddigger-meat-1460600097.md",
+      "json": "items/consumables/raw-sanddigger-meat-1460600097.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-sanddigger-643297880.md"
+}

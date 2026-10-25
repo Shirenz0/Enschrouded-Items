@@ -1,0 +1,79 @@
+{
+ "id": 2840500800,
+ "name": "Meat Skewer with Corncob",
+ "internalName": "Food_T1_dish_grain_CorncobSkewer",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2840500800.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "With just some meat, a corncob, and a small fire, you can make this nutritious skewer anywhere and at any time.With just some meat, a corncob, and a small fire, you can make this nutritious skewer anywhere and at any time.",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1800000,
+    "display": "30:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3090001878,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3975408930,
+      "name": "Raw Meat and Corncob Skewer",
+      "page": "items/materials/raw-meat-and-corncob-skewer-3975408930.md",
+      "json": "items/materials/raw-meat-and-corncob-skewer-3975408930.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/meat-skewer-with-corncob-2840500800.md"
+}

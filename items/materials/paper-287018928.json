@@ -1,0 +1,110 @@
+{
+ "id": 287018928,
+ "name": "Paper",
+ "internalName": "Material_T4_Paper",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/287018928.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A traditional but mighty tool of communication used for the preservation of knowledge and communication over large distances.",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2781648867,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2027586500,
+      "name": "Ammoniak Gland",
+      "page": "items/materials/ammoniak-gland-2027586500.md",
+      "json": "items/materials/ammoniak-gland-2027586500.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3568384766,
+   "name": "T4 Dungeon bookrest",
+   "page": "items/buildtools/t4-dungeon-bookrest-3568384766.md",
+   "json": "items/buildtools/t4-dungeon-bookrest-3568384766.json"
+  },
+  {
+   "id": 869257370,
+   "name": "Big Almanach of Plants and Seedlings",
+   "page": "items/buildtools/big-almanach-of-plants-and-seedlings-869257370.md",
+   "json": "items/buildtools/big-almanach-of-plants-and-seedlings-869257370.json"
+  },
+  {
+   "id": 2191154793,
+   "name": "Secret Crude Wooden Bookshelf Door",
+   "page": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.md",
+   "json": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.json"
+  },
+  {
+   "id": 3126384595,
+   "name": "Carved Secret Bookshelf Door",
+   "page": "items/buildtools/carved-secret-bookshelf-door-3126384595.md",
+   "json": "items/buildtools/carved-secret-bookshelf-door-3126384595.json"
+  }
+ ],
+ "page": "items/materials/paper-287018928.md"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 2813422596,
+ "name": "Fish Showcase",
+ "internalName": "Prop_Collection_12_Wetland_Showcase_FishBoard",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2813422596.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Show your fishing achievements",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4248571083,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/fish-showcase-2813422596.md"
+}

@@ -17,4 +17,4 @@ Firing an arrow this gloves is effortless.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-ranger-arms.json)

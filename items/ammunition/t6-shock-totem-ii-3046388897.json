@@ -1,0 +1,96 @@
+{
+ "id": 3046388897,
+ "name": "T6 Shock Totem II",
+ "internalName": "Ammo_T6_Spell_Lightning_Totem_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 500,
+ "image": "images/icons/3046388897.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a totem that launches shocking projectiles. \nMaximum amount of summoned totems is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 41,
+    "display": "41",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 699,
+    "display": "0.699 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 9000,
+    "display": "9 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 209778732,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t6-shock-totem-ii-3046388897.md"
+}

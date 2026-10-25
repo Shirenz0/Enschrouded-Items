@@ -28,4 +28,4 @@ Lights your path, even under water. Not as strong as regular torches
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](gleam-root-diving-light-32289505.json)

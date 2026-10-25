@@ -33,4 +33,4 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](large-castle-table-519779949.json)

@@ -1,0 +1,29 @@
+{
+ "id": 476989835,
+ "name": "Hair 05 02",
+ "internalName": "VC_Haircap_01_buzz",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/hair-05-02.md",
+  "json": "objects/customization/hair-05-02.json",
+  "versions": 7
+ },
+ "page": "items/customization/hair-05-02-476989835.md"
+}

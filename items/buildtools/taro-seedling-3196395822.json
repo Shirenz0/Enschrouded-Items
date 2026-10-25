@@ -1,0 +1,52 @@
+{
+ "id": 3196395822,
+ "name": "Taro Seedling",
+ "internalName": "T6_Seedling_Vegetable_Taro",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3196395822.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2266206308,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2417552370,
+      "name": "Raw Taro",
+      "page": "items/consumables/raw-taro-2417552370.md",
+      "json": "items/consumables/raw-taro-2417552370.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 260133819,
+      "name": "Fertilised Farm Soil",
+      "page": "items/materials/fertilised-farm-soil-260133819.md",
+      "json": "items/materials/fertilised-farm-soil-260133819.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/taro-seedling-3196395822.md"
+}

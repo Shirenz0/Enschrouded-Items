@@ -1,0 +1,70 @@
+{
+ "id": 855563189,
+ "name": "Fell Fashion",
+ "internalName": "ColorPalette_T6_ColorPalette_07",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/855563189.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Look like a fell foe but make it fashion. this blue color palette resembles the colors of the shroud, with an added aquamarine This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1204304941,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3581489769,
+      "name": "Shroud Relic",
+      "page": "items/materials/shroud-relic-3581489769.md",
+      "json": "items/materials/shroud-relic-3581489769.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/fell-fashion-855563189.md"
+}

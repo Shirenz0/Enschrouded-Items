@@ -1,0 +1,25 @@
+{
+ "id": 2766282603,
+ "name": "Beard 02",
+ "internalName": "VC_Beard02_chincurtain",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/customization/beard-02-2766282603.md"
+}

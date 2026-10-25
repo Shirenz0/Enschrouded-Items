@@ -1,0 +1,36 @@
+{
+ "name": "Bamboo Fence Pole",
+ "category": "BuildTools",
+ "image": "images/icons/3349466374.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3121223720,
+   "name": "Bamboo Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3121223720.png",
+   "page": "items/buildtools/bamboo-fence-pole-3121223720.md",
+   "json": "items/buildtools/bamboo-fence-pole-3121223720.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3349466374,
+   "name": "Bamboo Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3349466374.png",
+   "page": "items/buildtools/bamboo-fence-pole-3349466374.md",
+   "json": "items/buildtools/bamboo-fence-pole-3349466374.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/bamboo-fence-pole.md"
+}

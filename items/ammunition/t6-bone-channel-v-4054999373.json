@@ -1,0 +1,80 @@
+{
+ "id": 4054999373,
+ "name": "T6 Bone Channel V",
+ "internalName": "Ammo_T6_Spell_Bone_Channel_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 500,
+ "image": "images/icons/4054999373.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hold to summon bone projectiles that seek out enemies.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 55,
+    "display": "55",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1524220483,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1903438107,
+      "name": "T5 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3895216255,
+      "name": "Giant Ice Bones",
+      "page": "items/materials/giant-ice-bones-3895216255.md",
+      "json": "items/materials/giant-ice-bones-3895216255.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1887970091,
+   "name": "T6 Eternal Bone Channel I",
+   "page": "items/ammunition/t6-eternal-bone-channel-i-1887970091.md",
+   "json": "items/ammunition/t6-eternal-bone-channel-i-1887970091.json"
+  }
+ ],
+ "page": "items/ammunition/t6-bone-channel-v-4054999373.md"
+}

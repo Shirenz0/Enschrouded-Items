@@ -17,4 +17,4 @@ A finely crafted helmet, usually worn by the kingdom's most feared warriors and 
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-dps-helmet.json)

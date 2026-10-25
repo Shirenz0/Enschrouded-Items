@@ -27,4 +27,4 @@ Landing after gliding for same time creates an explosion that deals %k fire dama
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-meteoric-descent-960232612.json)

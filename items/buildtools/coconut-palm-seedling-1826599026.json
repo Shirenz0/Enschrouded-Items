@@ -1,0 +1,52 @@
+{
+ "id": 1826599026,
+ "name": "Coconut Palm Seedling",
+ "internalName": "T6_Seedling_Coconut_Palm",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/1826599026.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested repeatedly.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 302272710,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 83196405,
+      "name": "Coconut",
+      "page": "items/consumables/coconut-83196405.md",
+      "json": "items/consumables/coconut-83196405.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 260133819,
+      "name": "Fertilised Farm Soil",
+      "page": "items/materials/fertilised-farm-soil-260133819.md",
+      "json": "items/materials/fertilised-farm-soil-260133819.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/coconut-palm-seedling-1826599026.md"
+}

@@ -32,4 +32,4 @@ Springlands
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](raw-wolf-meat-2968802610.json)

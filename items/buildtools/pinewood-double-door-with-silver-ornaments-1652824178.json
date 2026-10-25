@@ -1,0 +1,43 @@
+{
+ "id": 1652824178,
+ "name": "Pinewood Double Door with silver ornaments",
+ "internalName": "_Prop_Decoration_T5_Door_PineSilver_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1652824178.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 869361228,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4176703426,
+      "name": "Pinewood Door with silver ornaments",
+      "page": "items/buildtools/pinewood-door-with-silver-ornaments-4176703426.md",
+      "json": "items/buildtools/pinewood-door-with-silver-ornaments-4176703426.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/pinewood-double-door-with-silver-ornaments-1652824178.md"
+}

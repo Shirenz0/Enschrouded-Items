@@ -1,0 +1,52 @@
+{
+ "id": 3983205690,
+ "name": "Fence Hollow Halls",
+ "internalName": "Prop_Decoration_T4_Fence_HollowHalls",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3983205690.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1882996376,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/fence-hollow-halls-3983205690.md"
+}

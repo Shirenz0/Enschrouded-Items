@@ -1,0 +1,43 @@
+{
+ "id": 3376745431,
+ "name": "Granite rubble Road",
+ "internalName": "Build_TerrainMaterial_T5_Road_Granite_Rubble",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/3376745431.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Use this material to build roads in the mountains.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 439497276,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/granite-rubble-road-3376745431.md"
+}

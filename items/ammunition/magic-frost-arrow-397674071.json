@@ -1,0 +1,102 @@
+{
+ "id": 397674071,
+ "name": "Magic Frost Arrow",
+ "internalName": "Ammo_T2_Arrow_Magic_Ice_Eternal_lvl10",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/397674071.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical arrow that is not used up when shot.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+2 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Glacial",
+   "effect": "+5 Glacial"
+  },
+  {
+   "order": 5,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+2 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2681796192,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1284326318,
+      "name": "Brittle Shroud Petals",
+      "page": "items/materials/brittle-shroud-petals-1284326318.md",
+      "json": "items/materials/brittle-shroud-petals-1284326318.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/magic-frost-arrow-397674071.md"
+}

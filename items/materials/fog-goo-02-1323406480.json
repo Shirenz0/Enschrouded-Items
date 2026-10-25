@@ -1,0 +1,25 @@
+{
+ "id": 1323406480,
+ "name": "Fog Goo 02",
+ "internalName": "Material_T2_Fognest_Ressource",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 500,
+ "image": "images/icons/1323406480.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A radiant whirl of energy that is needed to insert gems into weaponry. \n\nWhile initially used by the Ancients, it was claimed by the Fell to fuel their brood until you freed it from its newly organic prison.",
+ "lore": null,
+ "whereToFind": "Revelwoods, Shroud Lairs",
+ "object": null,
+ "page": "items/materials/fog-goo-02-1323406480.md"
+}

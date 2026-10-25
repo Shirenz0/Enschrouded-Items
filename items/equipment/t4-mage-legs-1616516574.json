@@ -1,0 +1,131 @@
+{
+ "id": 1616516574,
+ "name": "T4 Mage Legs",
+ "internalName": "Armor_T4_Mage_Wizard_DPS_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1616516574.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Elegantly held together with cobalt linen and thread. Truly fitting for a sophisticated mage!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-mage-legs.md",
+  "json": "objects/equipment/t4-mage-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Letting",
+   "effect": "Increases the skill level of Blood Letting by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Terror",
+   "effect": "Increases the skill level of Terror by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3102209155,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2287874170,
+      "name": "Green Fabric",
+      "page": "items/materials/green-fabric-2287874170.md",
+      "json": "items/materials/green-fabric-2287874170.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2975006357,
+      "name": "Monstrous Ribs",
+      "page": "items/materials/monstrous-ribs-2975006357.md",
+      "json": "items/materials/monstrous-ribs-2975006357.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 4091795277,
+      "name": "Brittle Shroud Flakes",
+      "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+      "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-mage-legs-1616516574.md"
+}

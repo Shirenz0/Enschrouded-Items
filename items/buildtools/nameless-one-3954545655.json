@@ -1,0 +1,25 @@
+{
+ "id": 3954545655,
+ "name": "Nameless One",
+ "internalName": "NPC_Assistant_Crafter_cryptKeeper_01_namelessOne",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "A helpful townsfolk that will work and live in your base.",
+ "lore": "Crafting Assistant",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/nameless-one-3954545655.md"
+}

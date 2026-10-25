@@ -1,0 +1,303 @@
+{
+ "id": 2053375978,
+ "name": "Bones",
+ "internalName": "Material_T1_Bones",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/2053375978.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Containing the magic of the world, bones of living creatures have a lot of applications.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2361121883,
+   "name": "Bone Key",
+   "page": "items/tools/bone-key-2361121883.md",
+   "json": "items/tools/bone-key-2361121883.json"
+  },
+  {
+   "id": 1176719610,
+   "name": "Bones Block",
+   "page": "items/buildtools/bones-block-1176719610.md",
+   "json": "items/buildtools/bones-block-1176719610.json"
+  },
+  {
+   "id": 1707587232,
+   "name": "T0 Eternal Mana Leech Beam I",
+   "page": "items/ammunition/t0-eternal-mana-leech-beam-i-1707587232.md",
+   "json": "items/ammunition/t0-eternal-mana-leech-beam-i-1707587232.json"
+  },
+  {
+   "id": 1247095576,
+   "name": "Bone Arrow",
+   "page": "items/ammunition/bone-arrow-1247095576.md",
+   "json": "items/ammunition/bone-arrow-1247095576.json"
+  },
+  {
+   "id": 1843940779,
+   "name": "T1 Entangle I",
+   "page": "items/ammunition/t1-entangle-i-1843940779.md",
+   "json": "items/ammunition/t1-entangle-i-1843940779.json"
+  },
+  {
+   "id": 3045356884,
+   "name": "T3 Bone Channel II",
+   "page": "items/ammunition/t3-bone-channel-ii-3045356884.md",
+   "json": "items/ammunition/t3-bone-channel-ii-3045356884.json"
+  },
+  {
+   "id": 147615610,
+   "name": "T2 Bone Channel I",
+   "page": "items/ammunition/t2-bone-channel-i-147615610.md",
+   "json": "items/ammunition/t2-bone-channel-i-147615610.json"
+  },
+  {
+   "id": 1250423976,
+   "name": "T3 Summon Skeleton I",
+   "page": "items/ammunition/t3-summon-skeleton-i-1250423976.md",
+   "json": "items/ammunition/t3-summon-skeleton-i-1250423976.json"
+  },
+  {
+   "id": 3870359442,
+   "name": "Critter Crawler Bomb",
+   "page": "items/weapons/critter-crawler-bomb-3870359442.md",
+   "json": "items/weapons/critter-crawler-bomb-3870359442.json"
+  },
+  {
+   "id": 2982735558,
+   "name": "Bonemeal",
+   "page": "items/materials/bonemeal-2982735558.md",
+   "json": "items/materials/bonemeal-2982735558.json"
+  },
+  {
+   "id": 3748173823,
+   "name": "Bone Wand",
+   "page": "items/weapons/bone-wand-3748173823.md",
+   "json": "items/weapons/bone-wand-3748173823.json"
+  },
+  {
+   "id": 1210271138,
+   "name": "Simple Bone Staff",
+   "page": "items/weapons/simple-bone-staff-1210271138.md",
+   "json": "items/weapons/simple-bone-staff-1210271138.json"
+  },
+  {
+   "id": 764137977,
+   "name": "Sacrificial Vukah Dagger",
+   "page": "items/weapons/sacrificial-vukah-dagger-764137977.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-764137977.json"
+  },
+  {
+   "id": 3233786830,
+   "name": "Darya's Remorse",
+   "page": "items/weapons/darya-s-remorse-3233786830.md",
+   "json": "items/weapons/darya-s-remorse-3233786830.json"
+  },
+  {
+   "id": 3848774794,
+   "name": "Electric Initialiser",
+   "page": "items/weapons/electric-initialiser-3848774794.md",
+   "json": "items/weapons/electric-initialiser-3848774794.json"
+  },
+  {
+   "id": 62683222,
+   "name": "Proto Bone-Bender",
+   "page": "items/weapons/proto-bone-bender-62683222.md",
+   "json": "items/weapons/proto-bone-bender-62683222.json"
+  },
+  {
+   "id": 397149581,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-397149581.md",
+   "json": "items/weapons/t1-lore-wand-397149581.json"
+  },
+  {
+   "id": 4294860398,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-4294860398.md",
+   "json": "items/weapons/cryptic-wand-4294860398.json"
+  },
+  {
+   "id": 1242709289,
+   "name": "Scout Pants",
+   "page": "items/equipment/scout-pants-1242709289.md",
+   "json": "items/equipment/scout-pants-1242709289.json"
+  },
+  {
+   "id": 1972419518,
+   "name": "Scout Gloves",
+   "page": "items/equipment/scout-gloves-1972419518.md",
+   "json": "items/equipment/scout-gloves-1972419518.json"
+  },
+  {
+   "id": 4113785177,
+   "name": "Scout Chest",
+   "page": "items/equipment/scout-chest-4113785177.md",
+   "json": "items/equipment/scout-chest-4113785177.json"
+  },
+  {
+   "id": 3288375535,
+   "name": "Scout Hood",
+   "page": "items/equipment/scout-hood-3288375535.md",
+   "json": "items/equipment/scout-hood-3288375535.json"
+  },
+  {
+   "id": 3101300981,
+   "name": "T2 DPS Chest",
+   "page": "items/equipment/t2-dps-chest-3101300981.md",
+   "json": "items/equipment/t2-dps-chest-3101300981.json"
+  },
+  {
+   "id": 4040241990,
+   "name": "T2 Healer Helmet",
+   "page": "items/equipment/t2-healer-helmet-4040241990.md",
+   "json": "items/equipment/t2-healer-helmet-4040241990.json"
+  },
+  {
+   "id": 3590618366,
+   "name": "T2 Ranger Boots",
+   "page": "items/equipment/t2-ranger-boots-3590618366.md",
+   "json": "items/equipment/t2-ranger-boots-3590618366.json"
+  },
+  {
+   "id": 3559413170,
+   "name": "T2 Archer Legs",
+   "page": "items/equipment/t2-archer-legs-3559413170.md",
+   "json": "items/equipment/t2-archer-legs-3559413170.json"
+  },
+  {
+   "id": 4178035364,
+   "name": "T2 Tank Boots",
+   "page": "items/equipment/t2-tank-boots-4178035364.md",
+   "json": "items/equipment/t2-tank-boots-4178035364.json"
+  },
+  {
+   "id": 1751743189,
+   "name": "Throne T3",
+   "page": "items/buildtools/throne-t3-1751743189.md",
+   "json": "items/buildtools/throne-t3-1751743189.json"
+  },
+  {
+   "id": 2780985755,
+   "name": "T2 chair Dungeon",
+   "page": "items/buildtools/t2-chair-dungeon-2780985755.md",
+   "json": "items/buildtools/t2-chair-dungeon-2780985755.json"
+  },
+  {
+   "id": 1804479582,
+   "name": "Illumination T2 Bones Brazier",
+   "page": "items/buildtools/illumination-t2-bones-brazier-1804479582.md",
+   "json": "items/buildtools/illumination-t2-bones-brazier-1804479582.json"
+  },
+  {
+   "id": 2646644982,
+   "name": "Illumination T2 Bones Chandelier",
+   "page": "items/buildtools/illumination-t2-bones-chandelier-2646644982.md",
+   "json": "items/buildtools/illumination-t2-bones-chandelier-2646644982.json"
+  },
+  {
+   "id": 1722111434,
+   "name": "Illumination T2 Standing Torch Bone",
+   "page": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.json"
+  },
+  {
+   "id": 1493687266,
+   "name": "Candle 01 A",
+   "page": "items/buildtools/candle-01-a-1493687266.md",
+   "json": "items/buildtools/candle-01-a-1493687266.json"
+  },
+  {
+   "id": 1167552454,
+   "name": "Illumination T2 Small",
+   "page": "items/buildtools/illumination-t2-small-1167552454.md",
+   "json": "items/buildtools/illumination-t2-small-1167552454.json"
+  },
+  {
+   "id": 242624234,
+   "name": "Illumination T2 Wall Bones",
+   "page": "items/buildtools/illumination-t2-wall-bones-242624234.md",
+   "json": "items/buildtools/illumination-t2-wall-bones-242624234.json"
+  },
+  {
+   "id": 3708349200,
+   "name": "Table Large T2 Dungeon",
+   "page": "items/buildtools/table-large-t2-dungeon-3708349200.md",
+   "json": "items/buildtools/table-large-t2-dungeon-3708349200.json"
+  },
+  {
+   "id": 2950858301,
+   "name": "Table Medium T2 Dungeon",
+   "page": "items/buildtools/table-medium-t2-dungeon-2950858301.md",
+   "json": "items/buildtools/table-medium-t2-dungeon-2950858301.json"
+  },
+  {
+   "id": 2510133755,
+   "name": "Table Small T2 Dungeon",
+   "page": "items/buildtools/table-small-t2-dungeon-2510133755.md",
+   "json": "items/buildtools/table-small-t2-dungeon-2510133755.json"
+  },
+  {
+   "id": 662663034,
+   "name": "Decorative Skull I",
+   "page": "items/buildtools/decorative-skull-i-662663034.md",
+   "json": "items/buildtools/decorative-skull-i-662663034.json"
+  },
+  {
+   "id": 1977753491,
+   "name": "Decorative Skull II",
+   "page": "items/buildtools/decorative-skull-ii-1977753491.md",
+   "json": "items/buildtools/decorative-skull-ii-1977753491.json"
+  },
+  {
+   "id": 2273496401,
+   "name": "Decorative Skull III",
+   "page": "items/buildtools/decorative-skull-iii-2273496401.md",
+   "json": "items/buildtools/decorative-skull-iii-2273496401.json"
+  },
+  {
+   "id": 2971345775,
+   "name": "Flute",
+   "page": "items/buildtools/flute-2971345775.md",
+   "json": "items/buildtools/flute-2971345775.json"
+  },
+  {
+   "id": 2783674260,
+   "name": "T2 cabinet Dungeon Large",
+   "page": "items/buildtools/t2-cabinet-dungeon-large-2783674260.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-large-2783674260.json"
+  },
+  {
+   "id": 1793657421,
+   "name": "T2 cabinet Dungeon medium",
+   "page": "items/buildtools/t2-cabinet-dungeon-medium-1793657421.md",
+   "json": "items/buildtools/t2-cabinet-dungeon-medium-1793657421.json"
+  },
+  {
+   "id": 3316336574,
+   "name": "T2 Cupboard Dungeon Large",
+   "page": "items/buildtools/t2-cupboard-dungeon-large-3316336574.md",
+   "json": "items/buildtools/t2-cupboard-dungeon-large-3316336574.json"
+  },
+  {
+   "id": 883401509,
+   "name": "Skeleton Showkase",
+   "page": "items/buildtools/skeleton-showkase-883401509.md",
+   "json": "items/buildtools/skeleton-showkase-883401509.json"
+  }
+ ],
+ "page": "items/materials/bones-2053375978.md"
+}

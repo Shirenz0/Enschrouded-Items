@@ -1,0 +1,25 @@
+{
+ "id": 3737838005,
+ "name": "Logic System Trigger Zone",
+ "internalName": "Prop_Logic_Trigger",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3737838005.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Logic System Trigger Zone",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/logic-system-trigger-zone-3737838005.md"
+}

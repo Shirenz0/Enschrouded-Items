@@ -1,0 +1,76 @@
+{
+ "name": "Red Flower Pot",
+ "category": "BuildTools",
+ "image": "images/icons/3804066383.png",
+ "versions": 5,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 157147909,
+   "name": "Red Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/157147909.png",
+   "page": "items/buildtools/red-flower-pot-157147909.md",
+   "json": "items/buildtools/red-flower-pot-157147909.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2373764287,
+   "name": "Red Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2373764287.png",
+   "page": "items/buildtools/red-flower-pot-2373764287.md",
+   "json": "items/buildtools/red-flower-pot-2373764287.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 2413776919,
+   "name": "Red Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2413776919.png",
+   "page": "items/buildtools/red-flower-pot-2413776919.md",
+   "json": "items/buildtools/red-flower-pot-2413776919.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 3094342003,
+   "name": "Red Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3094342003.png",
+   "page": "items/buildtools/red-flower-pot-3094342003.md",
+   "json": "items/buildtools/red-flower-pot-3094342003.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 3804066383,
+   "name": "Red Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3804066383.png",
+   "page": "items/buildtools/red-flower-pot-3804066383.md",
+   "json": "items/buildtools/red-flower-pot-3804066383.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/red-flower-pot.md"
+}

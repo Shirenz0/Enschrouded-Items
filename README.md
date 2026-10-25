@@ -462,6 +462,7 @@ Many items exist in several versions with the same name and picture, for example
 ## Data
 
 - [`data/items.json`](data/items.json) and [`data/items.csv`](data/items.csv): every item with all fields, for use in tools, sites and mods.
+- Every Markdown page has a JSON twin next to it with the same content as data (same path, `.json` instead of `.md`, linked at the bottom of each page): item pages, object pages, category pages, and [`README.json`](README.json) for this page. Paths inside the JSON files are relative to the repository root.
 - Item IDs are the game's own `ItemId` values, the same ones used in save files and in memory.
 - Item pages also show the stats from the game data (slot, damage type, armor type and the tooltip values such as attack speed or stamina), the enhancements an item unlocks when it is upgraded, the recipes that make it (crafter or station and ingredients) and what it is used to make. Damage and armor numbers depend on the item level and are calculated by the game, so they are not listed.
 

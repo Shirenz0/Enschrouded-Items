@@ -1,0 +1,25 @@
+{
+ "id": 2682698206,
+ "name": "Bamboo Ladder II",
+ "internalName": "Prop_Decoration_T6_Bamboo_Ladder_6m",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2682698206.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/bamboo-ladder-ii-2682698206.md"
+}

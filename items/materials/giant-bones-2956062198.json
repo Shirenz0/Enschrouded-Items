@@ -1,0 +1,99 @@
+{
+ "id": 2956062198,
+ "name": "Giant bones",
+ "internalName": "Material_T2_Giant_Bones",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/2956062198.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The eartly remains of a big Skelleton.",
+ "lore": null,
+ "whereToFind": "Hollow Cyclops, First: Revelwood Hollow Halls",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3022088459,
+   "name": "Albaneve Summits Hollow Halls Key",
+   "page": "items/tools/albaneve-summits-hollow-halls-key-3022088459.md",
+   "json": "items/tools/albaneve-summits-hollow-halls-key-3022088459.json"
+  },
+  {
+   "id": 4053229560,
+   "name": "Bone Key",
+   "page": "items/tools/bone-key-4053229560.md",
+   "json": "items/tools/bone-key-4053229560.json"
+  },
+  {
+   "id": 2941384776,
+   "name": "T5 Giant Bone Arrow III",
+   "page": "items/ammunition/t5-giant-bone-arrow-iii-2941384776.md",
+   "json": "items/ammunition/t5-giant-bone-arrow-iii-2941384776.json"
+  },
+  {
+   "id": 3270347800,
+   "name": "T4 Giant Bone Arrow II",
+   "page": "items/ammunition/t4-giant-bone-arrow-ii-3270347800.md",
+   "json": "items/ammunition/t4-giant-bone-arrow-ii-3270347800.json"
+  },
+  {
+   "id": 2091572334,
+   "name": "T3 Giant Bone Arrow I",
+   "page": "items/ammunition/t3-giant-bone-arrow-i-2091572334.md",
+   "json": "items/ammunition/t3-giant-bone-arrow-i-2091572334.json"
+  },
+  {
+   "id": 4222822690,
+   "name": "T5 Bone Channel IV",
+   "page": "items/ammunition/t5-bone-channel-iv-4222822690.md",
+   "json": "items/ammunition/t5-bone-channel-iv-4222822690.json"
+  },
+  {
+   "id": 3014702000,
+   "name": "T4 Bone Channel III",
+   "page": "items/ammunition/t4-bone-channel-iii-3014702000.md",
+   "json": "items/ammunition/t4-bone-channel-iii-3014702000.json"
+  },
+  {
+   "id": 3759493341,
+   "name": "T5 Eternal Summon Skeleton I",
+   "page": "items/ammunition/t5-eternal-summon-skeleton-i-3759493341.md",
+   "json": "items/ammunition/t5-eternal-summon-skeleton-i-3759493341.json"
+  },
+  {
+   "id": 1751743189,
+   "name": "Throne T3",
+   "page": "items/buildtools/throne-t3-1751743189.md",
+   "json": "items/buildtools/throne-t3-1751743189.json"
+  },
+  {
+   "id": 662663034,
+   "name": "Decorative Skull I",
+   "page": "items/buildtools/decorative-skull-i-662663034.md",
+   "json": "items/buildtools/decorative-skull-i-662663034.json"
+  },
+  {
+   "id": 1977753491,
+   "name": "Decorative Skull II",
+   "page": "items/buildtools/decorative-skull-ii-1977753491.md",
+   "json": "items/buildtools/decorative-skull-ii-1977753491.json"
+  },
+  {
+   "id": 2273496401,
+   "name": "Decorative Skull III",
+   "page": "items/buildtools/decorative-skull-iii-2273496401.md",
+   "json": "items/buildtools/decorative-skull-iii-2273496401.json"
+  }
+ ],
+ "page": "items/materials/giant-bones-2956062198.md"
+}

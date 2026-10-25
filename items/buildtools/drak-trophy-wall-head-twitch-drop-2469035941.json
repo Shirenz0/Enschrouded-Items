@@ -1,0 +1,35 @@
+{
+ "id": 2469035941,
+ "name": "Drak Trophy Wall Head - Twitch Drop",
+ "internalName": "Prop_Decoration_T6_Trophy_Skull_02_A_Twitch",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/2469035941.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Drak Trophy Wall Head description - Twitch Drop",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/drak-trophy-wall-head-twitch-drop-2469035941.md"
+}

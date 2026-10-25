@@ -1,0 +1,67 @@
+{
+ "id": 1985343352,
+ "name": "Smelted Azure Russula",
+ "internalName": "Food_T2_processed_mushroom_Roasted_AzureRussula",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1985343352.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Tastes like water, but consists of pure magical liquid. Great power awaits the consumer.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 1500000,
+    "display": "25:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 719535586,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1304815894,
+      "name": "Azure Russula",
+      "page": "items/consumables/azure-russula-1304815894.md",
+      "json": "items/consumables/azure-russula-1304815894.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/smelted-azure-russula-1985343352.md"
+}

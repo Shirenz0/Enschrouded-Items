@@ -1,0 +1,36 @@
+{
+ "name": "Carved Wooden Window Frame",
+ "category": "BuildTools",
+ "image": "images/icons/3848003771.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3372636314,
+   "name": "Carved Wooden Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3372636314.png",
+   "page": "items/buildtools/carved-wooden-window-frame-3372636314.md",
+   "json": "items/buildtools/carved-wooden-window-frame-3372636314.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3848003771,
+   "name": "Carved Wooden Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3848003771.png",
+   "page": "items/buildtools/carved-wooden-window-frame-3848003771.md",
+   "json": "items/buildtools/carved-wooden-window-frame-3848003771.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/carved-wooden-window-frame.md"
+}

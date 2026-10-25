@@ -1,0 +1,76 @@
+{
+ "id": 2685638060,
+ "name": "Poisoned Celesthium Steel Arrow",
+ "internalName": "Ammo_T7_Arrow_Steel_Celesthium_Poison_lvl50",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 50,
+  "max": 50
+ },
+ "maxStack": 500,
+ "image": "images/icons/2685638060.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A poisoned Celesthium steel tipped arrow embellished with gold.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 50,
+   "Poison": 50
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 3573838789,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 2519697782,
+      "name": "Celesthium Steel Arrow",
+      "page": "items/ammunition/celesthium-steel-arrow-2519697782.md",
+      "json": "items/ammunition/celesthium-steel-arrow-2519697782.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 2632607216,
+       "name": "Poison Sting",
+       "page": "items/materials/poison-sting-2632607216.md",
+       "json": "items/materials/poison-sting-2632607216.json"
+      },
+      {
+       "id": 3610183331,
+       "name": "Fish Poison Gland",
+       "page": "items/materials/fish-poison-gland-3610183331.md",
+       "json": "items/materials/fish-poison-gland-3610183331.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/poisoned-celesthium-steel-arrow-2685638060.md"
+}

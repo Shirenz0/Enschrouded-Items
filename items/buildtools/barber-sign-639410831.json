@@ -1,0 +1,61 @@
+{
+ "id": 639410831,
+ "name": "Barber Sign",
+ "internalName": "Prop_Decoration_T5_Sign_Barber_01_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/639410831.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2586371537,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/barber-sign-639410831.md"
+}

@@ -1,0 +1,52 @@
+{
+ "id": 1187543406,
+ "name": "Road Stone 5 Ancientland",
+ "internalName": "Build_TerrainMaterial_T7_Road_Stone_5",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/1187543406.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A road made from Ancient Land Stones",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 462776423,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 7,
+     "item": {
+      "id": 885155884,
+      "name": "T7 material stone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2780052662,
+      "name": "T7 AncientLand Rubble",
+      "page": "items/materials/t7-ancientland-rubble-2780052662.md",
+      "json": "items/materials/t7-ancientland-rubble-2780052662.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/road-stone-5-ancientland-1187543406.md"
+}

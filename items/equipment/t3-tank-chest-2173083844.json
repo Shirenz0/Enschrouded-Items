@@ -1,0 +1,131 @@
+{
+ "id": 2173083844,
+ "name": "T3 Tank Chest",
+ "internalName": "Armor_T3_Warrior_Tank_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2173083844.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Prodigious tin armor which withstands and impact and inspires hope.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-tank-chest.md",
+  "json": "objects/equipment/t3-tank-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 180,
+    "display": "180",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2374236184,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2027586500,
+      "name": "Ammoniak Gland",
+      "page": "items/materials/ammoniak-gland-2027586500.md",
+      "json": "items/materials/ammoniak-gland-2027586500.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3594337385,
+      "name": "Petrified Fell Shell",
+      "page": "items/materials/petrified-fell-shell-3594337385.md",
+      "json": "items/materials/petrified-fell-shell-3594337385.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-tank-chest-2173083844.md"
+}

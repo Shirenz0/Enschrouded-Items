@@ -1,0 +1,51 @@
+{
+ "id": 1138733565,
+ "name": "Monstrosity Head",
+ "internalName": "Material_TX_Trophy_Fell_Monstrosity_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1138733565.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It grasps at anything. Hope, despair, loneliness... anything to fill the void.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3518673921,
+   "name": "Gold Fell Monstrosity trophy",
+   "page": "items/buildtools/gold-fell-monstrosity-trophy-3518673921.md",
+   "json": "items/buildtools/gold-fell-monstrosity-trophy-3518673921.json"
+  },
+  {
+   "id": 2198899126,
+   "name": "Metal Boss Trophy Fell Monstrosity",
+   "page": "items/buildtools/metal-boss-trophy-fell-monstrosity-2198899126.md",
+   "json": "items/buildtools/metal-boss-trophy-fell-monstrosity-2198899126.json"
+  },
+  {
+   "id": 1292654037,
+   "name": "Big Boss Trophy Fell Monstrosity",
+   "page": "items/buildtools/big-boss-trophy-fell-monstrosity-1292654037.md",
+   "json": "items/buildtools/big-boss-trophy-fell-monstrosity-1292654037.json"
+  },
+  {
+   "id": 4228452932,
+   "name": "Small Boss Trophy Fell Monstrosity",
+   "page": "items/buildtools/small-boss-trophy-fell-monstrosity-4228452932.md",
+   "json": "items/buildtools/small-boss-trophy-fell-monstrosity-4228452932.json"
+  }
+ ],
+ "page": "items/materials/monstrosity-head-1138733565.md"
+}

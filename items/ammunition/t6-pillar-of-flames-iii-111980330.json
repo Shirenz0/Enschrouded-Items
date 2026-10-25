@@ -1,0 +1,99 @@
+{
+ "id": 111980330,
+ "name": "T6 Pillar of Flames III",
+ "internalName": "Ammo_T6_Spell_Fire_Pillar_lvl44",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 44,
+  "max": 44
+ },
+ "maxStack": 500,
+ "image": "images/icons/111980330.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates a pillar of flames that deals fire damage to enemies and burns them.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 155,
+    "display": "155",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1250,
+    "display": "1.25 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 250,
+    "display": "250",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 5500,
+    "display": "5.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 11000,
+    "display": "11 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1176334703,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3486560156,
+      "name": "Placeholder: Pink Mushroom Meat",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t6-pillar-of-flames-iii-111980330.md"
+}

@@ -1,0 +1,168 @@
+{
+ "name": "Book I",
+ "category": "BuildTools",
+ "image": "images/icons/743954578.png",
+ "versions": 14,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1042567701,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1042567701.png",
+   "page": "items/buildtools/book-i-1042567701.md",
+   "json": "items/buildtools/book-i-1042567701.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1665817031,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1665817031.png",
+   "page": "items/buildtools/book-i-1665817031.md",
+   "json": "items/buildtools/book-i-1665817031.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1878602124,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1878602124.png",
+   "page": "items/buildtools/book-i-1878602124.md",
+   "json": "items/buildtools/book-i-1878602124.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1920341845,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1920341845.png",
+   "page": "items/buildtools/book-i-1920341845.md",
+   "json": "items/buildtools/book-i-1920341845.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2283198170,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2283198170.png",
+   "page": "items/buildtools/book-i-2283198170.md",
+   "json": "items/buildtools/book-i-2283198170.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2548133338,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2548133338.png",
+   "page": "items/buildtools/book-i-2548133338.md",
+   "json": "items/buildtools/book-i-2548133338.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2975370828,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2975370828.png",
+   "page": "items/buildtools/book-i-2975370828.md",
+   "json": "items/buildtools/book-i-2975370828.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3330526371,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3330526371.png",
+   "page": "items/buildtools/book-i-3330526371.md",
+   "json": "items/buildtools/book-i-3330526371.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3853710961,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3853710961.png",
+   "page": "items/buildtools/book-i-3853710961.md",
+   "json": "items/buildtools/book-i-3853710961.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 413542990,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/413542990.png",
+   "page": "items/buildtools/book-i-413542990.md",
+   "json": "items/buildtools/book-i-413542990.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 4242562036,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4242562036.png",
+   "page": "items/buildtools/book-i-4242562036.md",
+   "json": "items/buildtools/book-i-4242562036.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 589587638,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/589587638.png",
+   "page": "items/buildtools/book-i-589587638.md",
+   "json": "items/buildtools/book-i-589587638.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 676824530,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/676824530.png",
+   "page": "items/buildtools/book-i-676824530.md",
+   "json": "items/buildtools/book-i-676824530.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 743954578,
+   "name": "Book I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/743954578.png",
+   "page": "items/buildtools/book-i-743954578.md",
+   "json": "items/buildtools/book-i-743954578.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/book-i.md"
+}

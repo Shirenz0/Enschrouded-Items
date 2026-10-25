@@ -1,0 +1,77 @@
+{
+ "id": 2461700133,
+ "name": "T4 BattleMage boote",
+ "internalName": "Armor_T4_Mage_BattleWand_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2461700133.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Traditional warlock boots which protect the feet under all circumstances.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-battlemage-boote.md",
+  "json": "objects/equipment/t4-battlemage-boote.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Timeout Reduction",
+    "value": -350,
+    "display": "-0.35 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Frost",
+   "effect": "Increases the skill level of Frost by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+12 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Ice Resistance",
+   "effect": "Increases the skill level of Ice Resistance by +1"
+  }
+ ],
+ "page": "items/equipment/t4-battlemage-boote-2461700133.md"
+}

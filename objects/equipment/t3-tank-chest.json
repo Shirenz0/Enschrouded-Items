@@ -1,0 +1,35 @@
+{
+ "name": "T3 Tank Chest",
+ "category": "Equipment",
+ "image": "images/icons/350439808.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2173083844,
+   "name": "T3 Tank Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2173083844.png",
+   "page": "items/equipment/t3-tank-chest-2173083844.md",
+   "json": "items/equipment/t3-tank-chest-2173083844.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 350439808,
+   "name": "T3 Tank Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/350439808.png",
+   "page": "items/equipment/t3-tank-chest-350439808.md",
+   "json": "items/equipment/t3-tank-chest-350439808.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-tank-chest.md"
+}

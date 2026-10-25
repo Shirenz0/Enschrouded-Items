@@ -1,0 +1,102 @@
+{
+ "id": 1350606537,
+ "name": "Fog Oil",
+ "internalName": "Material_T4_Fog_Oil",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/1350606537.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Its uses are unknown even to the creator itself, but it definitely didn't help the skin of the fell!",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1640295406,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3622683972,
+      "name": "Shroud Fragments",
+      "page": "items/materials/shroud-fragments-3622683972.md",
+      "json": "items/materials/shroud-fragments-3622683972.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 4230023681,
+      "name": "Coal Powder",
+      "page": "items/materials/coal-powder-4230023681.md",
+      "json": "items/materials/coal-powder-4230023681.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 4091795277,
+      "name": "Brittle Shroud Flakes",
+      "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+      "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3357517884,
+   "name": "Ghost Glider",
+   "page": "items/tools/ghost-glider-3357517884.md",
+   "json": "items/tools/ghost-glider-3357517884.json"
+  },
+  {
+   "id": 4157937420,
+   "name": "Huge Magic Chest",
+   "page": "items/buildtools/huge-magic-chest-4157937420.md",
+   "json": "items/buildtools/huge-magic-chest-4157937420.json"
+  },
+  {
+   "id": 621614770,
+   "name": "T4 Blizzard II",
+   "page": "items/ammunition/t4-blizzard-ii-621614770.md",
+   "json": "items/ammunition/t4-blizzard-ii-621614770.json"
+  },
+  {
+   "id": 1138260679,
+   "name": "T4 Eternal Ice Totem I",
+   "page": "items/ammunition/t4-eternal-ice-totem-i-1138260679.md",
+   "json": "items/ammunition/t4-eternal-ice-totem-i-1138260679.json"
+  },
+  {
+   "id": 1685866698,
+   "name": "T4 Lightning Channel",
+   "page": "items/ammunition/t4-lightning-channel-1685866698.md",
+   "json": "items/ammunition/t4-lightning-channel-1685866698.json"
+  }
+ ],
+ "page": "items/materials/fog-oil-1350606537.md"
+}

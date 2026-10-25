@@ -25,4 +25,4 @@ While Wet or Soaked, damaging enemies will apply Soaked to them for %k Sec. Dama
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-currents-1634845335.json)

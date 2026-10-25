@@ -1,0 +1,62 @@
+{
+ "id": 2396593895,
+ "name": "Fenrig's Axe",
+ "internalName": "Weapon_T1_1H_Lore_Axe_Ministory_10",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2396593895.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/fenrig-s-axe.md",
+  "json": "objects/weapons/fenrig-s-axe.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  }
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "+3 Health Leech"
+  },
+  {
+   "order": 5,
+   "name": "",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/fenrig-s-axe-2396593895.md"
+}

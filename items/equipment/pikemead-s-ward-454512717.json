@@ -1,0 +1,109 @@
+{
+ "id": 454512717,
+ "name": "Pikemead's Ward",
+ "internalName": "Craft_Shield_T1_Lore_ShieldEpic_carpenter_hint06",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 6,
+  "max": 6
+ },
+ "maxStack": 1,
+ "image": "images/icons/454512717.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Even in death, the queen's shield unites those who seek protection behind it.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/pikemead-s-ward.md",
+  "json": "objects/equipment/pikemead-s-ward.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Fog Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Purification",
+   "effect": "Increases the skill level of Purification by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Survival Instinct",
+   "effect": "Increases the skill level of Survival Instinct"
+  },
+  {
+   "order": 4,
+   "name": "Cut Resistance",
+   "effect": "+5 Cut Resistance"
+  },
+  {
+   "order": 5,
+   "name": "Fog Resistance",
+   "effect": "+5 Fog Resistance"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2842942405,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1528590138,
+      "name": "Fog Core",
+      "page": "items/materials/fog-core-1528590138.md",
+      "json": "items/materials/fog-core-1528590138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/pikemead-s-ward-454512717.md"
+}

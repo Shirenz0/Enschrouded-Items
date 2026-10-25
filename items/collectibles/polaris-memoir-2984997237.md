@@ -25,4 +25,4 @@ A star high up in the sky, lost in a sea of only darkness around.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](polaris-memoir-2984997237.json)

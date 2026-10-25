@@ -1,0 +1,156 @@
+{
+ "id": 2149011961,
+ "name": "Glow Dirt Green",
+ "internalName": "Material_T2_GlowDirt_Green",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/2149011961.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A green glwoing dirt",
+ "lore": null,
+ "whereToFind": "Crafting, Ectoplasm Press",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2324899779,
+   "station": "skullCrockPot",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1549788273,
+      "name": "Toxic Goo",
+      "page": "items/materials/toxic-goo-1549788273.md",
+      "json": "items/materials/toxic-goo-1549788273.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3402080269,
+   "name": "Self Illuminating Block Green",
+   "page": "items/buildtools/self-illuminating-block-green-3402080269.md",
+   "json": "items/buildtools/self-illuminating-block-green-3402080269.json"
+  },
+  {
+   "id": 3379425226,
+   "name": "Small Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-i-3379425226.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-i-3379425226.json"
+  },
+  {
+   "id": 3473131825,
+   "name": "Small Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-ii-3473131825.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-ii-3473131825.json"
+  },
+  {
+   "id": 1727870443,
+   "name": "Small Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-iii-1727870443.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-iii-1727870443.json"
+  },
+  {
+   "id": 517050102,
+   "name": "Medium Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-i-517050102.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-i-517050102.json"
+  },
+  {
+   "id": 3506589171,
+   "name": "Medium Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-ii-3506589171.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-ii-3506589171.json"
+  },
+  {
+   "id": 2385353507,
+   "name": "Medium Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.json"
+  },
+  {
+   "id": 1229707250,
+   "name": "Big Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-i-1229707250.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-i-1229707250.json"
+  },
+  {
+   "id": 3003483125,
+   "name": "Big Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-ii-3003483125.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-ii-3003483125.json"
+  },
+  {
+   "id": 1102965817,
+   "name": "Big Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-iii-1102965817.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-iii-1102965817.json"
+  },
+  {
+   "id": 2564145075,
+   "name": "Showcase Skeletons 3 small and 2 medium slots",
+   "page": "items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.md",
+   "json": "items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.json"
+  },
+  {
+   "id": 3034421283,
+   "name": "Showcase Skeletons 3 small slots",
+   "page": "items/buildtools/showcase-skeletons-3-small-slots-3034421283.md",
+   "json": "items/buildtools/showcase-skeletons-3-small-slots-3034421283.json"
+  },
+  {
+   "id": 3512248515,
+   "name": "Showcase Skeletons 2 small slots",
+   "page": "items/buildtools/showcase-skeletons-2-small-slots-3512248515.md",
+   "json": "items/buildtools/showcase-skeletons-2-small-slots-3512248515.json"
+  },
+  {
+   "id": 1713893066,
+   "name": "Showcase Skeletons 1 large slot",
+   "page": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.md",
+   "json": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.json"
+  }
+ ],
+ "page": "items/materials/glow-dirt-green-2149011961.md"
+}

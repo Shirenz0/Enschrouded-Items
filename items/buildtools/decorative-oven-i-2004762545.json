@@ -1,0 +1,61 @@
+{
+ "id": 2004762545,
+ "name": "Decorative Oven I",
+ "internalName": "Prop_Decoration_TX_Decorative_Oven_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2004762545.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2887667358,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 1261933427,
+      "name": "Fired Brick",
+      "page": "items/materials/fired-brick-1261933427.md",
+      "json": "items/materials/fired-brick-1261933427.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/decorative-oven-i-2004762545.md"
+}

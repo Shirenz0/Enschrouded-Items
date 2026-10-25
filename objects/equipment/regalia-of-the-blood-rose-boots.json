@@ -1,0 +1,35 @@
+{
+ "name": "Regalia of the Blood Rose Boots",
+ "category": "Equipment",
+ "image": "images/icons/2730010681.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2387613955,
+   "name": "Regalia of the Blood Rose Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2387613955.png",
+   "page": "items/equipment/regalia-of-the-blood-rose-boots-2387613955.md",
+   "json": "items/equipment/regalia-of-the-blood-rose-boots-2387613955.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2730010681,
+   "name": "Regalia of the Blood Rose Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2730010681.png",
+   "page": "items/equipment/regalia-of-the-blood-rose-boots-2730010681.md",
+   "json": "items/equipment/regalia-of-the-blood-rose-boots-2730010681.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/regalia-of-the-blood-rose-boots.md"
+}

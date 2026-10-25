@@ -1,0 +1,79 @@
+{
+ "id": 2501086572,
+ "name": "Magic Infusion Station",
+ "internalName": "Prop_Production_T7_Infusion_Station",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2501086572.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It produces XY which can be used to magically infuse tools and create powerful items at the ancient researcher.",
+ "lore": "Furniture",
+ "whereToFind": "Crafting, Ancient Researcher",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2692486321,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 30,
+     "item": {
+      "id": 2851443310,
+      "name": "T7 material Ancient Land granite stone",
+      "page": "items/materials/t7-material-ancient-land-granite-stone-2851443310.md",
+      "json": "items/materials/t7-material-ancient-land-granite-stone-2851443310.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/magic-infusion-station-2501086572.md"
+}

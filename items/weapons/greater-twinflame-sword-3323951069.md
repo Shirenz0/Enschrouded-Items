@@ -39,4 +39,4 @@ Unlocked one after another as the item is upgraded, in this order. Armor and dam
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](greater-twinflame-sword-3323951069.json)

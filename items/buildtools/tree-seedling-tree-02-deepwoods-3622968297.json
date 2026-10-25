@@ -1,0 +1,52 @@
+{
+ "id": 3622968297,
+ "name": "Tree Seedling \"Tree 02 Deepwoods\"",
+ "internalName": "T2_Seedling_Deepforest_Tree_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3622968297.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will soon grow into a plant, should it be placed into the right ground.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 411343760,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/tree-seedling-tree-02-deepwoods-3622968297.md"
+}

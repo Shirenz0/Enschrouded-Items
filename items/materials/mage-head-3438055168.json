@@ -1,0 +1,51 @@
+{
+ "id": 3438055168,
+ "name": "Mage Head",
+ "internalName": "Material_TX_Trophy_Fell_Mage_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3438055168.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "There's still a faint  glow behind it's eyes. Hopefully they won't follow your every move.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2819075555,
+   "name": "Gold Fell Sicklescythe Trophy",
+   "page": "items/buildtools/gold-fell-sicklescythe-trophy-2819075555.md",
+   "json": "items/buildtools/gold-fell-sicklescythe-trophy-2819075555.json"
+  },
+  {
+   "id": 4030944652,
+   "name": "Metal Boss Trophy Fell Heavy Mage",
+   "page": "items/buildtools/metal-boss-trophy-fell-heavy-mage-4030944652.md",
+   "json": "items/buildtools/metal-boss-trophy-fell-heavy-mage-4030944652.json"
+  },
+  {
+   "id": 3381543901,
+   "name": "Big Boss Trophy Fell Heavy Mage",
+   "page": "items/buildtools/big-boss-trophy-fell-heavy-mage-3381543901.md",
+   "json": "items/buildtools/big-boss-trophy-fell-heavy-mage-3381543901.json"
+  },
+  {
+   "id": 3377541648,
+   "name": "Small Boss Trophy Fell Heavy Mage",
+   "page": "items/buildtools/small-boss-trophy-fell-heavy-mage-3377541648.md",
+   "json": "items/buildtools/small-boss-trophy-fell-heavy-mage-3377541648.json"
+  }
+ ],
+ "page": "items/materials/mage-head-3438055168.md"
+}

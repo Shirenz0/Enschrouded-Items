@@ -1,0 +1,77 @@
+{
+ "id": 536768042,
+ "name": "T3 Mage Arms",
+ "internalName": "Armor_T3_Mage_Wizard_DPS_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/536768042.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magician's gloves, bound by magic infused golden thread.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-mage-arms.md",
+  "json": "objects/equipment/t3-mage-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Staff Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Magical Foes",
+    "value": 7,
+    "display": "7",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Quick Charge",
+   "effect": "Increases the skill level of Quick Charge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+20 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Arsonist",
+   "effect": "Increases the skill level of Arsonist by +1"
+  }
+ ],
+ "page": "items/equipment/t3-mage-arms-536768042.md"
+}

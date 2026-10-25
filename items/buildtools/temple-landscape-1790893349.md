@@ -31,4 +31,4 @@ A decorative object to design and beautify yout home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](temple-landscape-1790893349.json)

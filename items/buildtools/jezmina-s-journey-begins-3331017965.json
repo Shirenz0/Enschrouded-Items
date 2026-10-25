@@ -1,0 +1,25 @@
+{
+ "id": 3331017965,
+ "name": "Jezmina's Journey Begins",
+ "internalName": "Collection_paintings_09",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3331017965.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A stunning painting that can be displayed in your home.\n\n(link to intro slide text)",
+ "lore": "Art",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/jezmina-s-journey-begins-3331017965.md"
+}

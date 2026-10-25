@@ -29,4 +29,4 @@ Crafting, Collector
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](ice-protection-lotion-386738695.json)

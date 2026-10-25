@@ -1,0 +1,131 @@
+{
+ "id": 2743374359,
+ "name": "T3 Mage Legs",
+ "internalName": "Armor_T3_Mage_Wizard_DPS_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2743374359.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These pants were made from silky smooth cloth, gracing only the most esteemed magicians.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-mage-legs.md",
+  "json": "objects/equipment/t3-mage-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 27,
+    "display": "27",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Letting",
+   "effect": "Increases the skill level of Blood Letting by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+20 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Terror",
+   "effect": "Increases the skill level of Terror by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2363417709,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2341333485,
+      "name": "Aurum Lily",
+      "page": "items/materials/aurum-lily-2341333485.md",
+      "json": "items/materials/aurum-lily-2341333485.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-mage-legs-2743374359.md"
+}

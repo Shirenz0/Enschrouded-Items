@@ -1,0 +1,35 @@
+{
+ "name": "T3 Archer Legs",
+ "category": "Equipment",
+ "image": "images/icons/807077323.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3281783103,
+   "name": "T3 Archer Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3281783103.png",
+   "page": "items/equipment/t3-archer-legs-3281783103.md",
+   "json": "items/equipment/t3-archer-legs-3281783103.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 807077323,
+   "name": "T3 Archer Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/807077323.png",
+   "page": "items/equipment/t3-archer-legs-807077323.md",
+   "json": "items/equipment/t3-archer-legs-807077323.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-archer-legs.md"
+}

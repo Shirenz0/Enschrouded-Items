@@ -17,4 +17,4 @@ Big and bulky gloves, usually seen weilding large weaponry and shields.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-tank-arms.json)

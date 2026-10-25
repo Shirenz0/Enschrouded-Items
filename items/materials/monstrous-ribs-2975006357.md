@@ -25,4 +25,4 @@ Fell Monstrosity, First: Nomad Highlands Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](monstrous-ribs-2975006357.json)

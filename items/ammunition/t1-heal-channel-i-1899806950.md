@@ -30,4 +30,4 @@ Ammunition that, upon use, releases healing projectiles.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t1-heal-channel-i-1899806950.json)

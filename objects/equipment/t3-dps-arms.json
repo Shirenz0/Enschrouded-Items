@@ -1,0 +1,35 @@
+{
+ "name": "T3 DPS Arms",
+ "category": "Equipment",
+ "image": "images/icons/3752044615.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2202659557,
+   "name": "T3 DPS Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2202659557.png",
+   "page": "items/equipment/t3-dps-arms-2202659557.md",
+   "json": "items/equipment/t3-dps-arms-2202659557.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3752044615,
+   "name": "T3 DPS Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3752044615.png",
+   "page": "items/equipment/t3-dps-arms-3752044615.md",
+   "json": "items/equipment/t3-dps-arms-3752044615.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-dps-arms.md"
+}

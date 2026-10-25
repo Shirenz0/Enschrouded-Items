@@ -1,0 +1,33 @@
+{
+ "id": 2821339070,
+ "name": "Water Reptile Hide",
+ "internalName": "Material_T6_Water_Reptile_Hide",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2821339070.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The usable parts of fallen \"Water Croco\"",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2059656108,
+   "name": "Water Reptile Leather",
+   "page": "items/materials/water-reptile-leather-2059656108.md",
+   "json": "items/materials/water-reptile-leather-2059656108.json"
+  }
+ ],
+ "page": "items/materials/water-reptile-hide-2821339070.md"
+}

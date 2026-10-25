@@ -1,0 +1,93 @@
+{
+ "id": 4229884102,
+ "name": "Shroud Mush",
+ "internalName": "Material_T2_MushroomDrop_ShroudMush",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/4229884102.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Bäh!",
+ "lore": null,
+ "whereToFind": "find in Revelwood Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2635793540,
+   "name": "Flask of the Fallen",
+   "page": "items/consumables/flask-of-the-fallen-2635793540.md",
+   "json": "items/consumables/flask-of-the-fallen-2635793540.json"
+  },
+  {
+   "id": 3776129035,
+   "name": "Glowing Mushroom Seedling",
+   "page": "items/buildtools/glowing-mushroom-seedling-3776129035.md",
+   "json": "items/buildtools/glowing-mushroom-seedling-3776129035.json"
+  },
+  {
+   "id": 2371777842,
+   "name": "Alchemical Base",
+   "page": "items/materials/alchemical-base-2371777842.md",
+   "json": "items/materials/alchemical-base-2371777842.json"
+  },
+  {
+   "id": 389689356,
+   "name": "T2 Palette 04 Grey and Blue",
+   "page": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.md",
+   "json": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.json"
+  },
+  {
+   "id": 3403995938,
+   "name": "Goo",
+   "page": "items/materials/goo-3403995938.md",
+   "json": "items/materials/goo-3403995938.json"
+  },
+  {
+   "id": 4279969253,
+   "name": "T2 DPS Helmet",
+   "page": "items/equipment/t2-dps-helmet-4279969253.md",
+   "json": "items/equipment/t2-dps-helmet-4279969253.json"
+  },
+  {
+   "id": 4040241990,
+   "name": "T2 Healer Helmet",
+   "page": "items/equipment/t2-healer-helmet-4040241990.md",
+   "json": "items/equipment/t2-healer-helmet-4040241990.json"
+  },
+  {
+   "id": 3237374405,
+   "name": "T2 Mage Helmet",
+   "page": "items/equipment/t2-mage-helmet-3237374405.md",
+   "json": "items/equipment/t2-mage-helmet-3237374405.json"
+  },
+  {
+   "id": 1617642810,
+   "name": "T2 Ranger Helmet",
+   "page": "items/equipment/t2-ranger-helmet-1617642810.md",
+   "json": "items/equipment/t2-ranger-helmet-1617642810.json"
+  },
+  {
+   "id": 3351665828,
+   "name": "T2 Archer Helmet",
+   "page": "items/equipment/t2-archer-helmet-3351665828.md",
+   "json": "items/equipment/t2-archer-helmet-3351665828.json"
+  },
+  {
+   "id": 2292844068,
+   "name": "T2 Tank Helmet",
+   "page": "items/equipment/t2-tank-helmet-2292844068.md",
+   "json": "items/equipment/t2-tank-helmet-2292844068.json"
+  }
+ ],
+ "page": "items/materials/shroud-mush-4229884102.md"
+}

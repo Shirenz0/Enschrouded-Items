@@ -1,0 +1,71 @@
+{
+ "id": 3536356032,
+ "name": "Spiritual Cane",
+ "internalName": "Weapon_T1_2H_Staff_Craft",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/3536356032.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A basic magical staff that allows the wearer to release spells at the cost of mana and magical ammunition.\n\nThe spells need to be crafted or found.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ranged weapon"
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4286539113,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/spiritual-cane-3536356032.md"
+}

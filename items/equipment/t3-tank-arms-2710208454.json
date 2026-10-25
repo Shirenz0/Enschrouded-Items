@@ -1,0 +1,77 @@
+{
+ "id": 2710208454,
+ "name": "T3 Tank Arms",
+ "internalName": "Armor_T3_Warrior_Tank_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2710208454.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Big and bulky gloves, usually seen weilding large weaponry and shields.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-tank-arms.md",
+  "json": "objects/equipment/t3-tank-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Block",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  }
+ ],
+ "page": "items/equipment/t3-tank-arms-2710208454.md"
+}

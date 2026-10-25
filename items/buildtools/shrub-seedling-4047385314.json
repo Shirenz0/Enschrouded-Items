@@ -1,0 +1,52 @@
+{
+ "id": 4047385314,
+ "name": "Shrub Seedling",
+ "internalName": "T1_Seedling_Material_Shrub",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/4047385314.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1544334533,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3316218728,
+      "name": "Plant Fibre",
+      "page": "items/materials/plant-fibre-3316218728.md",
+      "json": "items/materials/plant-fibre-3316218728.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/shrub-seedling-4047385314.md"
+}

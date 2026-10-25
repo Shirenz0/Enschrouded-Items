@@ -27,4 +27,4 @@ Party Hat Desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](party-hat-ii-572945787.json)

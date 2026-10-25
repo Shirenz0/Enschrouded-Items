@@ -27,4 +27,4 @@ A yellow headband that keeps your hair out of your face when hunting or lumberin
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](hunter-headband-769686837.json)

@@ -1,0 +1,29 @@
+{
+ "id": 2470943261,
+ "name": "Handrail",
+ "internalName": "Z_Prop_Decoration_T3_Fence_Wood_Stairs_01_OLD_NORECIPE",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2470943261.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/handrail.md",
+  "json": "objects/buildtools/handrail.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/handrail-2470943261.md"
+}

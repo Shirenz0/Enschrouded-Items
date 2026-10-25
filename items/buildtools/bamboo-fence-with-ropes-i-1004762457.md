@@ -25,4 +25,4 @@ A decorative object to design and beautify yout home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](bamboo-fence-with-ropes-i-1004762457.json)

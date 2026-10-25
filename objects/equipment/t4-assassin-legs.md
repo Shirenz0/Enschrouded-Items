@@ -17,4 +17,4 @@ A plain pair of pants. Under different circumstances, they would allow the weare
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-assassin-legs.json)

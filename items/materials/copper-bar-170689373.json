@@ -1,0 +1,451 @@
+{
+ "id": 170689373,
+ "name": "Copper Bar",
+ "internalName": "Material_T2_Copper_Bar",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/170689373.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A rare metal and valuable metal thanks to its thermal conductivity. Its often used to create things that require a lot of heat.",
+ "lore": null,
+ "whereToFind": "Smelter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 263546871,
+   "station": "Blast Furnace",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 731732847,
+      "name": "Copper Ore",
+      "page": "items/materials/copper-ore-731732847.md",
+      "json": "items/materials/copper-ore-731732847.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  },
+  {
+   "recipeId": 2859124257,
+   "station": "Smelter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 731732847,
+      "name": "Copper Ore",
+      "page": "items/materials/copper-ore-731732847.md",
+      "json": "items/materials/copper-ore-731732847.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3697152581,
+   "name": "Grappling Hook Pull Up Anchor",
+   "page": "items/buildtools/grappling-hook-pull-up-anchor-3697152581.md",
+   "json": "items/buildtools/grappling-hook-pull-up-anchor-3697152581.json"
+  },
+  {
+   "id": 996907151,
+   "name": "Grappling Hook Swing Anchor",
+   "page": "items/buildtools/grappling-hook-swing-anchor-996907151.md",
+   "json": "items/buildtools/grappling-hook-swing-anchor-996907151.json"
+  },
+  {
+   "id": 577103459,
+   "name": "Logic Switchbox",
+   "page": "items/buildtools/logic-switchbox-577103459.md",
+   "json": "items/buildtools/logic-switchbox-577103459.json"
+  },
+  {
+   "id": 533387743,
+   "name": "Water Barrel",
+   "page": "items/buildtools/water-barrel-533387743.md",
+   "json": "items/buildtools/water-barrel-533387743.json"
+  },
+  {
+   "id": 1619485296,
+   "name": "Copper Block",
+   "page": "items/buildtools/copper-block-1619485296.md",
+   "json": "items/buildtools/copper-block-1619485296.json"
+  },
+  {
+   "id": 4046432840,
+   "name": "Copper Arrow",
+   "page": "items/ammunition/copper-arrow-4046432840.md",
+   "json": "items/ammunition/copper-arrow-4046432840.json"
+  },
+  {
+   "id": 1048548069,
+   "name": "T2 Chain Lightning I",
+   "page": "items/ammunition/t2-chain-lightning-i-1048548069.md",
+   "json": "items/ammunition/t2-chain-lightning-i-1048548069.json"
+  },
+  {
+   "id": 1685866698,
+   "name": "T4 Lightning Channel",
+   "page": "items/ammunition/t4-lightning-channel-1685866698.md",
+   "json": "items/ammunition/t4-lightning-channel-1685866698.json"
+  },
+  {
+   "id": 1750422149,
+   "name": "Laboratory",
+   "page": "items/buildtools/laboratory-1750422149.md",
+   "json": "items/buildtools/laboratory-1750422149.json"
+  },
+  {
+   "id": 2407454540,
+   "name": "Skull Press",
+   "page": "items/buildtools/skull-press-2407454540.md",
+   "json": "items/buildtools/skull-press-2407454540.json"
+  },
+  {
+   "id": 3764911324,
+   "name": "Alchemical Station",
+   "page": "items/buildtools/alchemical-station-3764911324.md",
+   "json": "items/buildtools/alchemical-station-3764911324.json"
+  },
+  {
+   "id": 3587916203,
+   "name": "Kitchen",
+   "page": "items/buildtools/kitchen-3587916203.md",
+   "json": "items/buildtools/kitchen-3587916203.json"
+  },
+  {
+   "id": 625549676,
+   "name": "Logic System Workbench",
+   "page": "items/buildtools/logic-system-workbench-625549676.md",
+   "json": "items/buildtools/logic-system-workbench-625549676.json"
+  },
+  {
+   "id": 642002617,
+   "name": "Bronze Bars",
+   "page": "items/materials/bronze-bars-642002617.md",
+   "json": "items/materials/bronze-bars-642002617.json"
+  },
+  {
+   "id": 1978632298,
+   "name": "Copper Axe",
+   "page": "items/tools/copper-axe-1978632298.md",
+   "json": "items/tools/copper-axe-1978632298.json"
+  },
+  {
+   "id": 2671192505,
+   "name": "Copper Pickaxe",
+   "page": "items/buildtools/copper-pickaxe-2671192505.md",
+   "json": "items/buildtools/copper-pickaxe-2671192505.json"
+  },
+  {
+   "id": 3671319442,
+   "name": "Greater Twinflame Sword",
+   "page": "items/weapons/greater-twinflame-sword-3671319442.md",
+   "json": "items/weapons/greater-twinflame-sword-3671319442.json"
+  },
+  {
+   "id": 1786607643,
+   "name": "Lesser Twinflame Sword",
+   "page": "items/weapons/lesser-twinflame-sword-1786607643.md",
+   "json": "items/weapons/lesser-twinflame-sword-1786607643.json"
+  },
+  {
+   "id": 2440163799,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-2440163799.md",
+   "json": "items/weapons/fenrig-s-axe-2440163799.json"
+  },
+  {
+   "id": 907435246,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-907435246.md",
+   "json": "items/weapons/halescourge-907435246.json"
+  },
+  {
+   "id": 197300979,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-197300979.md",
+   "json": "items/weapons/wailing-blade-197300979.json"
+  },
+  {
+   "id": 3738285842,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-3738285842.md",
+   "json": "items/equipment/pikemead-s-ward-3738285842.json"
+  },
+  {
+   "id": 2972800174,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-2972800174.md",
+   "json": "items/equipment/riptide-2972800174.json"
+  },
+  {
+   "id": 40007242,
+   "name": "Hero's Shield",
+   "page": "items/equipment/hero-s-shield-40007242.md",
+   "json": "items/equipment/hero-s-shield-40007242.json"
+  },
+  {
+   "id": 3886257993,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-3886257993.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-3886257993.json"
+  },
+  {
+   "id": 3108868150,
+   "name": "Sacrificial Vukah Dagger",
+   "page": "items/weapons/sacrificial-vukah-dagger-3108868150.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-3108868150.json"
+  },
+  {
+   "id": 1729196030,
+   "name": "Valor Heart Dagger",
+   "page": "items/weapons/valor-heart-dagger-1729196030.md",
+   "json": "items/weapons/valor-heart-dagger-1729196030.json"
+  },
+  {
+   "id": 2331461341,
+   "name": "Ghostly Shield",
+   "page": "items/equipment/ghostly-shield-2331461341.md",
+   "json": "items/equipment/ghostly-shield-2331461341.json"
+  },
+  {
+   "id": 3288350660,
+   "name": "T2 DPS Legs",
+   "page": "items/equipment/t2-dps-legs-3288350660.md",
+   "json": "items/equipment/t2-dps-legs-3288350660.json"
+  },
+  {
+   "id": 1108317357,
+   "name": "T2 DPS Arms",
+   "page": "items/equipment/t2-dps-arms-1108317357.md",
+   "json": "items/equipment/t2-dps-arms-1108317357.json"
+  },
+  {
+   "id": 3101300981,
+   "name": "T2 DPS Chest",
+   "page": "items/equipment/t2-dps-chest-3101300981.md",
+   "json": "items/equipment/t2-dps-chest-3101300981.json"
+  },
+  {
+   "id": 4279969253,
+   "name": "T2 DPS Helmet",
+   "page": "items/equipment/t2-dps-helmet-4279969253.md",
+   "json": "items/equipment/t2-dps-helmet-4279969253.json"
+  },
+  {
+   "id": 722422442,
+   "name": "T2 Healer Legs",
+   "page": "items/equipment/t2-healer-legs-722422442.md",
+   "json": "items/equipment/t2-healer-legs-722422442.json"
+  },
+  {
+   "id": 2707905851,
+   "name": "T2 Healer Chest",
+   "page": "items/equipment/t2-healer-chest-2707905851.md",
+   "json": "items/equipment/t2-healer-chest-2707905851.json"
+  },
+  {
+   "id": 1798843751,
+   "name": "T2 Mage Legs",
+   "page": "items/equipment/t2-mage-legs-1798843751.md",
+   "json": "items/equipment/t2-mage-legs-1798843751.json"
+  },
+  {
+   "id": 3494556891,
+   "name": "T2 Mage Chest",
+   "page": "items/equipment/t2-mage-chest-3494556891.md",
+   "json": "items/equipment/t2-mage-chest-3494556891.json"
+  },
+  {
+   "id": 1883961235,
+   "name": "T2 Ranger Arms",
+   "page": "items/equipment/t2-ranger-arms-1883961235.md",
+   "json": "items/equipment/t2-ranger-arms-1883961235.json"
+  },
+  {
+   "id": 1856277122,
+   "name": "T2 Ranger Chest",
+   "page": "items/equipment/t2-ranger-chest-1856277122.md",
+   "json": "items/equipment/t2-ranger-chest-1856277122.json"
+  },
+  {
+   "id": 2683908044,
+   "name": "T2 Archer Arms",
+   "page": "items/equipment/t2-archer-arms-2683908044.md",
+   "json": "items/equipment/t2-archer-arms-2683908044.json"
+  },
+  {
+   "id": 1543470770,
+   "name": "T2 Archer Chest",
+   "page": "items/equipment/t2-archer-chest-1543470770.md",
+   "json": "items/equipment/t2-archer-chest-1543470770.json"
+  },
+  {
+   "id": 1113469647,
+   "name": "T2 Tank Arms",
+   "page": "items/equipment/t2-tank-arms-1113469647.md",
+   "json": "items/equipment/t2-tank-arms-1113469647.json"
+  },
+  {
+   "id": 1555932121,
+   "name": "T2 Tank Chest",
+   "page": "items/equipment/t2-tank-chest-1555932121.md",
+   "json": "items/equipment/t2-tank-chest-1555932121.json"
+  },
+  {
+   "id": 2292844068,
+   "name": "T2 Tank Helmet",
+   "page": "items/equipment/t2-tank-helmet-2292844068.md",
+   "json": "items/equipment/t2-tank-helmet-2292844068.json"
+  },
+  {
+   "id": 3238278001,
+   "name": "Throne T2",
+   "page": "items/buildtools/throne-t2-3238278001.md",
+   "json": "items/buildtools/throne-t2-3238278001.json"
+  },
+  {
+   "id": 815801972,
+   "name": "Copper Platter",
+   "page": "items/buildtools/copper-platter-815801972.md",
+   "json": "items/buildtools/copper-platter-815801972.json"
+  },
+  {
+   "id": 130322938,
+   "name": "Copper Cup",
+   "page": "items/buildtools/copper-cup-130322938.md",
+   "json": "items/buildtools/copper-cup-130322938.json"
+  },
+  {
+   "id": 555173681,
+   "name": "Copper Bowl",
+   "page": "items/buildtools/copper-bowl-555173681.md",
+   "json": "items/buildtools/copper-bowl-555173681.json"
+  },
+  {
+   "id": 3860676568,
+   "name": "Copper Jug",
+   "page": "items/buildtools/copper-jug-3860676568.md",
+   "json": "items/buildtools/copper-jug-3860676568.json"
+  },
+  {
+   "id": 3005030010,
+   "name": "Decorative Oven III",
+   "page": "items/buildtools/decorative-oven-iii-3005030010.md",
+   "json": "items/buildtools/decorative-oven-iii-3005030010.json"
+  },
+  {
+   "id": 4097150814,
+   "name": "Decorative Bells III",
+   "page": "items/buildtools/decorative-bells-iii-4097150814.md",
+   "json": "items/buildtools/decorative-bells-iii-4097150814.json"
+  },
+  {
+   "id": 2945317938,
+   "name": "Decorative Bells II",
+   "page": "items/buildtools/decorative-bells-ii-2945317938.md",
+   "json": "items/buildtools/decorative-bells-ii-2945317938.json"
+  },
+  {
+   "id": 1244709120,
+   "name": "Decorative Bells I",
+   "page": "items/buildtools/decorative-bells-i-1244709120.md",
+   "json": "items/buildtools/decorative-bells-i-1244709120.json"
+  },
+  {
+   "id": 1055652774,
+   "name": "Copper Fence",
+   "page": "items/buildtools/copper-fence-1055652774.md",
+   "json": "items/buildtools/copper-fence-1055652774.json"
+  },
+  {
+   "id": 311508484,
+   "name": "Cauldron",
+   "page": "items/buildtools/cauldron-311508484.md",
+   "json": "items/buildtools/cauldron-311508484.json"
+  },
+  {
+   "id": 2247014936,
+   "name": "Drum",
+   "page": "items/buildtools/drum-2247014936.md",
+   "json": "items/buildtools/drum-2247014936.json"
+  },
+  {
+   "id": 134682651,
+   "name": "Harp",
+   "page": "items/buildtools/harp-134682651.md",
+   "json": "items/buildtools/harp-134682651.json"
+  },
+  {
+   "id": 171960142,
+   "name": "PikeMeadStatue Showcase",
+   "page": "items/buildtools/pikemeadstatue-showcase-171960142.md",
+   "json": "items/buildtools/pikemeadstatue-showcase-171960142.json"
+  },
+  {
+   "id": 1038314424,
+   "name": "Ancient Temple Door",
+   "page": "items/buildtools/ancient-temple-door-1038314424.md",
+   "json": "items/buildtools/ancient-temple-door-1038314424.json"
+  },
+  {
+   "id": 3608731525,
+   "name": "Copper Door",
+   "page": "items/buildtools/copper-door-3608731525.md",
+   "json": "items/buildtools/copper-door-3608731525.json"
+  },
+  {
+   "id": 2432974923,
+   "name": "High Ancient Temple Window Frame",
+   "page": "items/buildtools/high-ancient-temple-window-frame-2432974923.md",
+   "json": "items/buildtools/high-ancient-temple-window-frame-2432974923.json"
+  },
+  {
+   "id": 3039294020,
+   "name": "Large Ancient Temple Window Frame",
+   "page": "items/buildtools/large-ancient-temple-window-frame-3039294020.md",
+   "json": "items/buildtools/large-ancient-temple-window-frame-3039294020.json"
+  },
+  {
+   "id": 2799025465,
+   "name": "Lightning trap",
+   "page": "items/buildtools/lightning-trap-2799025465.md",
+   "json": "items/buildtools/lightning-trap-2799025465.json"
+  }
+ ],
+ "page": "items/materials/copper-bar-170689373.md"
+}

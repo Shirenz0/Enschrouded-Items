@@ -1,0 +1,85 @@
+{
+ "id": 480197774,
+ "name": "T6 Drak Boots - Unique",
+ "internalName": "Armor_T6_Unique_Drak_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/480197774.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 Drak boots desc - unique",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -250,
+    "display": "-0.25 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Drak",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 90000,
+    "display": "1:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+24 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Stalking",
+   "effect": "+10 Damage against Wildlife and Wildbeasts"
+  },
+  {
+   "order": 5,
+   "name": "Ophidian",
+   "effect": "+10 Damage against Drak"
+  }
+ ],
+ "page": "items/equipment/t6-drak-boots-unique-480197774.md"
+}

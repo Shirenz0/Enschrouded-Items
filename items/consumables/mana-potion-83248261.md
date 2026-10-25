@@ -31,4 +31,4 @@ Crafting, Alchemist
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](mana-potion-83248261.json)

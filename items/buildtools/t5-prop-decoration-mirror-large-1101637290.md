@@ -23,4 +23,4 @@ A decorative object to design and beautify yout home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](t5-prop-decoration-mirror-large-1101637290.json)

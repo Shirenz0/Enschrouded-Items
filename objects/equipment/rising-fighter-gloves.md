@@ -17,4 +17,4 @@ Gloves made for beginner fighters. Robust, but agile. They will mainly protect y
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](rising-fighter-gloves.json)

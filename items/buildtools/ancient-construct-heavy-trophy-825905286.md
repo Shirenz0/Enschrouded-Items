@@ -31,4 +31,4 @@ A severed Ancient Construct: Heavy Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](ancient-construct-heavy-trophy-825905286.json)

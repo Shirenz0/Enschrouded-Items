@@ -1,0 +1,117 @@
+{
+ "id": 61698870,
+ "name": "T7 Eternal Heal Channel II",
+ "internalName": "Ammo_T7_Spell_Heal_Channel_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/61698870.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical spellstone imbued with the power of the T1 Heal Channel I spell, channeling initely without the use of ammunition, healing all allies in need.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Healing": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 5,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2242995535,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 50,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 40,
+     "item": {
+      "id": 1958601376,
+      "name": "T7 Heal Channel II",
+      "page": "items/ammunition/t7-heal-channel-ii-1958601376.md",
+      "json": "items/ammunition/t7-heal-channel-ii-1958601376.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3845850476,
+      "name": "Placeholder: Greater Fell Heart",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-heal-channel-ii-61698870.md"
+}

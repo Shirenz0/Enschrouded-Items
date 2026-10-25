@@ -25,4 +25,4 @@ Albaneve Summits, night
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](shadow-rose-310580024.json)

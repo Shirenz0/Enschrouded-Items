@@ -1,0 +1,52 @@
+{
+ "id": 2543947810,
+ "name": "Mycellium Overgrown Block",
+ "internalName": "Block_T1_Stone_Mycelium_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2543947810.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A block of stone infested by mycellium. Does it still carry the Shroud infestation?",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2157249790,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3509012331,
+      "name": "Mycelium",
+      "page": "items/materials/mycelium-3509012331.md",
+      "json": "items/materials/mycelium-3509012331.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/mycellium-overgrown-block-2543947810.md"
+}

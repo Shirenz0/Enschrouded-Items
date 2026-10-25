@@ -27,4 +27,4 @@ noble dress legs desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t1-noble-dress-legs-3224594917.json)

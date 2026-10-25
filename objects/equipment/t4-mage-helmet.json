@@ -1,0 +1,35 @@
+{
+ "name": "T4 Mage Helmet",
+ "category": "Equipment",
+ "image": "images/icons/3056375359.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1362050004,
+   "name": "T4 Mage Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1362050004.png",
+   "page": "items/equipment/t4-mage-helmet-1362050004.md",
+   "json": "items/equipment/t4-mage-helmet-1362050004.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3056375359,
+   "name": "T4 Mage Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3056375359.png",
+   "page": "items/equipment/t4-mage-helmet-3056375359.md",
+   "json": "items/equipment/t4-mage-helmet-3056375359.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-mage-helmet.md"
+}

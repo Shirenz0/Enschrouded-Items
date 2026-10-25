@@ -21,4 +21,4 @@ An axe  which carves a path through enemies no matter what. Swinging it fearless
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](jezmina-s-apotheosis.json)

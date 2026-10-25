@@ -25,4 +25,4 @@ A decorative object to design and beautify yout home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](sword-garden-gnome-2775007815.json)

@@ -1,0 +1,77 @@
+{
+ "id": 863496468,
+ "name": "T4 Tank Arms",
+ "internalName": "Armor_T4_Warrior_Tank_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/863496468.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Heavy gloves which can swing any weaponry with added might.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-tank-arms.md",
+  "json": "objects/equipment/t4-tank-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Melee Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Block",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  }
+ ],
+ "page": "items/equipment/t4-tank-arms-863496468.md"
+}

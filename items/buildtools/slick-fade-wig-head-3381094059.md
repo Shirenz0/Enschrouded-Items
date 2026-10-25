@@ -25,4 +25,4 @@ A wig head that unlocks more haircuts.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](slick-fade-wig-head-3381094059.json)

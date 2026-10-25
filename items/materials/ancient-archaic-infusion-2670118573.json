@@ -1,0 +1,135 @@
+{
+ "id": 2670118573,
+ "name": "Ancient/Archaic Infusion",
+ "internalName": "Material_T7_Ancient_Infusion",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/2670118573.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "this ancient infusion is created from exclusive ancient materials and holds extraterrestrial abilities(?) the ancient researcher npc can use it and create magical things with it for you.",
+ "lore": null,
+ "whereToFind": "Magic Infusion Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4066144683,
+   "station": "Magic Infusion Station",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 234899173,
+      "name": "Magma Gel",
+      "page": "items/materials/magma-gel-234899173.md",
+      "json": "items/materials/magma-gel-234899173.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 2135602472,
+      "name": "Fog Goo 07 Archaic Essence VII",
+      "page": "items/materials/fog-goo-07-archaic-essence-vii-2135602472.md",
+      "json": "items/materials/fog-goo-07-archaic-essence-vii-2135602472.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3084703100,
+      "name": "Archaic Core",
+      "page": "items/materials/archaic-core-3084703100.md",
+      "json": "items/materials/archaic-core-3084703100.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 678529367,
+   "name": "Eternal Fire Arrow III",
+   "page": "items/ammunition/eternal-fire-arrow-iii-678529367.md",
+   "json": "items/ammunition/eternal-fire-arrow-iii-678529367.json"
+  },
+  {
+   "id": 2369196415,
+   "name": "Eternal Shock Arrow III",
+   "page": "items/ammunition/eternal-shock-arrow-iii-2369196415.md",
+   "json": "items/ammunition/eternal-shock-arrow-iii-2369196415.json"
+  },
+  {
+   "id": 3180367619,
+   "name": "T7 Eternal Pillar of Flames",
+   "page": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.md",
+   "json": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.json"
+  },
+  {
+   "id": 3381945830,
+   "name": "T7 Eternal Blizzard II",
+   "page": "items/ammunition/t7-eternal-blizzard-ii-3381945830.md",
+   "json": "items/ammunition/t7-eternal-blizzard-ii-3381945830.json"
+  },
+  {
+   "id": 3901795018,
+   "name": "T7 Eternal Lightning Channel II",
+   "page": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.md",
+   "json": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.json"
+  },
+  {
+   "id": 1408904500,
+   "name": "T7 Eternal Magic Shield",
+   "page": "items/ammunition/t7-eternal-magic-shield-1408904500.md",
+   "json": "items/ammunition/t7-eternal-magic-shield-1408904500.json"
+  },
+  {
+   "id": 3250908839,
+   "name": "Player Base Gem Forge",
+   "page": "items/buildtools/player-base-gem-forge-3250908839.md",
+   "json": "items/buildtools/player-base-gem-forge-3250908839.json"
+  },
+  {
+   "id": 248650235,
+   "name": "Vorgoth's Chest",
+   "page": "items/equipment/vorgoth-s-chest-248650235.md",
+   "json": "items/equipment/vorgoth-s-chest-248650235.json"
+  },
+  {
+   "id": 2655579347,
+   "name": "Ancient Night Door",
+   "page": "items/buildtools/ancient-night-door-2655579347.md",
+   "json": "items/buildtools/ancient-night-door-2655579347.json"
+  }
+ ],
+ "page": "items/materials/ancient-archaic-infusion-2670118573.md"
+}

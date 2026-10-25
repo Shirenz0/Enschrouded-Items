@@ -21,4 +21,4 @@ Key for the Wetland Hollow Halls
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](wetland-hollow-halls-key-2543839394.json)

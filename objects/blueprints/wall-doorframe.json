@@ -1,0 +1,44 @@
+{
+ "name": "Wall Doorframe",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 3,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2492886765,
+   "name": "Wall Doorframe",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-doorframe-2492886765.md",
+   "json": "items/blueprints/wall-doorframe-2492886765.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2697997511,
+   "name": "Wall Doorframe",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-doorframe-2697997511.md",
+   "json": "items/blueprints/wall-doorframe-2697997511.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3793200211,
+   "name": "Wall Doorframe",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-doorframe-3793200211.md",
+   "json": "items/blueprints/wall-doorframe-3793200211.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/wall-doorframe.md"
+}

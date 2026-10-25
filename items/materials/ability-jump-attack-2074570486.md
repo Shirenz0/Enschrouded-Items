@@ -15,4 +15,4 @@ One of 5 versions of this item: see [Ability Jump Attack](../../objects/material
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ability-jump-attack-2074570486.json)

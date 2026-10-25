@@ -1,0 +1,79 @@
+{
+ "id": 1768658046,
+ "name": "Buttermilk",
+ "internalName": "Food_T3_processed_hydration_ButterMilk",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/1768658046.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A refreshing jug of buttermilk. With its lightly sour flavor and silky texture, it's very refreshing.",
+ "lore": null,
+ "whereToFind": "Butter Churn",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 900000,
+    "display": "15:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1912168097,
+   "station": "Butter Churn",
+   "inputs": [
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 2873455991,
+       "name": "Milk",
+       "page": "items/consumables/milk-2873455991.md",
+       "json": "items/consumables/milk-2873455991.json"
+      },
+      {
+       "id": 443792978,
+       "name": "Mountaingoat Milk",
+       "page": "items/consumables/mountaingoat-milk-443792978.md",
+       "json": "items/consumables/mountaingoat-milk-443792978.json"
+      },
+      {
+       "id": 2012645754,
+       "name": "Uncoocked Catdeer Milk",
+       "page": "items/consumables/uncoocked-catdeer-milk-2012645754.md",
+       "json": "items/consumables/uncoocked-catdeer-milk-2012645754.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/buttermilk-1768658046.md"
+}

@@ -1,0 +1,68 @@
+{
+ "id": 832661139,
+ "name": "Moonstone Piercing Arrow",
+ "internalName": "Ammo_T7_Arrow_Moonstone_lvl47",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 47,
+  "max": 47
+ },
+ "maxStack": 500,
+ "image": "images/icons/832661139.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An arrow tipped with a sharp shard of Moonstone, with piercing properties.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Cutting": 50,
+   "Piercing": 50
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 726146076,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/moonstone-piercing-arrow-832661139.md"
+}

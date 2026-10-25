@@ -25,4 +25,4 @@ They differ in description; the table shows the values per version.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-dps-boots.json)

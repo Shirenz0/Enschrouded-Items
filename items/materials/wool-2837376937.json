@@ -1,0 +1,147 @@
+{
+ "id": 2837376937,
+ "name": "Wool",
+ "internalName": "Material_T5_Wool",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/2837376937.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Wool Desc",
+ "lore": null,
+ "whereToFind": "Spinning Machine",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1949084797,
+   "station": "Improved Spinning Wheel",
+   "inputs": [
+    {
+     "count": 16,
+     "item": {
+      "id": 1979607477,
+      "name": "Raw Wool",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 12
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 175691458,
+   "name": "Big Elegant Sofa",
+   "page": "items/buildtools/big-elegant-sofa-175691458.md",
+   "json": "items/buildtools/big-elegant-sofa-175691458.json"
+  },
+  {
+   "id": 3816262638,
+   "name": "Small Elegant Sofa",
+   "page": "items/buildtools/small-elegant-sofa-3816262638.md",
+   "json": "items/buildtools/small-elegant-sofa-3816262638.json"
+  },
+  {
+   "id": 3921820605,
+   "name": "High Elegant Armchair",
+   "page": "items/buildtools/high-elegant-armchair-3921820605.md",
+   "json": "items/buildtools/high-elegant-armchair-3921820605.json"
+  },
+  {
+   "id": 1775964566,
+   "name": "Low Elegant Armchair",
+   "page": "items/buildtools/low-elegant-armchair-1775964566.md",
+   "json": "items/buildtools/low-elegant-armchair-1775964566.json"
+  },
+  {
+   "id": 500134615,
+   "name": "Wall Tapestry I",
+   "page": "items/buildtools/wall-tapestry-i-500134615.md",
+   "json": "items/buildtools/wall-tapestry-i-500134615.json"
+  },
+  {
+   "id": 3696120404,
+   "name": "Wall Tapestry II",
+   "page": "items/buildtools/wall-tapestry-ii-3696120404.md",
+   "json": "items/buildtools/wall-tapestry-ii-3696120404.json"
+  },
+  {
+   "id": 1201052636,
+   "name": "Wall Tapestry III",
+   "page": "items/buildtools/wall-tapestry-iii-1201052636.md",
+   "json": "items/buildtools/wall-tapestry-iii-1201052636.json"
+  },
+  {
+   "id": 1546063432,
+   "name": "Wall Tapestry IV",
+   "page": "items/buildtools/wall-tapestry-iv-1546063432.md",
+   "json": "items/buildtools/wall-tapestry-iv-1546063432.json"
+  },
+  {
+   "id": 2303973776,
+   "name": "Wall Tapestry V",
+   "page": "items/buildtools/wall-tapestry-v-2303973776.md",
+   "json": "items/buildtools/wall-tapestry-v-2303973776.json"
+  },
+  {
+   "id": 415346333,
+   "name": "Blue Wall Banner I",
+   "page": "items/buildtools/blue-wall-banner-i-415346333.md",
+   "json": "items/buildtools/blue-wall-banner-i-415346333.json"
+  },
+  {
+   "id": 2942267456,
+   "name": "Big Blue Wall Banner I",
+   "page": "items/buildtools/big-blue-wall-banner-i-2942267456.md",
+   "json": "items/buildtools/big-blue-wall-banner-i-2942267456.json"
+  },
+  {
+   "id": 614525060,
+   "name": "Blue Wall Banner II",
+   "page": "items/buildtools/blue-wall-banner-ii-614525060.md",
+   "json": "items/buildtools/blue-wall-banner-ii-614525060.json"
+  },
+  {
+   "id": 2467158158,
+   "name": "Big Blue Wall Banner II",
+   "page": "items/buildtools/big-blue-wall-banner-ii-2467158158.md",
+   "json": "items/buildtools/big-blue-wall-banner-ii-2467158158.json"
+  },
+  {
+   "id": 3705686568,
+   "name": "Yellow Wall Banner",
+   "page": "items/buildtools/yellow-wall-banner-3705686568.md",
+   "json": "items/buildtools/yellow-wall-banner-3705686568.json"
+  },
+  {
+   "id": 2260715396,
+   "name": "Big Yellow Wall Banner",
+   "page": "items/buildtools/big-yellow-wall-banner-2260715396.md",
+   "json": "items/buildtools/big-yellow-wall-banner-2260715396.json"
+  },
+  {
+   "id": 2717313341,
+   "name": "Red Wall Banner",
+   "page": "items/buildtools/red-wall-banner-2717313341.md",
+   "json": "items/buildtools/red-wall-banner-2717313341.json"
+  },
+  {
+   "id": 267045293,
+   "name": "Big Red Wall Banner",
+   "page": "items/buildtools/big-red-wall-banner-267045293.md",
+   "json": "items/buildtools/big-red-wall-banner-267045293.json"
+  }
+ ],
+ "page": "items/materials/wool-2837376937.md"
+}

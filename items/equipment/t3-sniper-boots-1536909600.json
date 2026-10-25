@@ -1,0 +1,73 @@
+{
+ "id": 1536909600,
+ "name": "T3 Sniper Boots",
+ "internalName": "Armor_T3_Ranger_Sniper_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1536909600.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Move as if carried by silver wings when wearing these boots.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  }
+ ],
+ "page": "items/equipment/t3-sniper-boots-1536909600.md"
+}

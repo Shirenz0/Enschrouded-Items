@@ -25,4 +25,4 @@ Fell Critter Queen, First: Revelwood Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](giant-critter-scales-3571891401.json)

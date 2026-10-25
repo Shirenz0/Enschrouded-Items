@@ -1,0 +1,186 @@
+{
+ "id": 1711247619,
+ "name": "Padding",
+ "internalName": "Material_T4_Padding_Kit",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/1711247619.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A basic ingredient for all advanced armors. The padding worked in below the hard shell can create comfort and soften impacts.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 454410298,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3062146687,
+   "name": "T5 Shield Tank",
+   "page": "items/equipment/t5-shield-tank-3062146687.md",
+   "json": "items/equipment/t5-shield-tank-3062146687.json"
+  },
+  {
+   "id": 1294112531,
+   "name": "T5 Shield DPS",
+   "page": "items/equipment/t5-shield-dps-1294112531.md",
+   "json": "items/equipment/t5-shield-dps-1294112531.json"
+  },
+  {
+   "id": 2584194594,
+   "name": "Shield of Light",
+   "page": "items/equipment/shield-of-light-2584194594.md",
+   "json": "items/equipment/shield-of-light-2584194594.json"
+  },
+  {
+   "id": 2802395209,
+   "name": "T4 Assassin Chest",
+   "page": "items/equipment/t4-assassin-chest-2802395209.md",
+   "json": "items/equipment/t4-assassin-chest-2802395209.json"
+  },
+  {
+   "id": 1331200386,
+   "name": "T4 BattleMage Chest",
+   "page": "items/equipment/t4-battlemage-chest-1331200386.md",
+   "json": "items/equipment/t4-battlemage-chest-1331200386.json"
+  },
+  {
+   "id": 1478658636,
+   "name": "T4 DPS Arms",
+   "page": "items/equipment/t4-dps-arms-1478658636.md",
+   "json": "items/equipment/t4-dps-arms-1478658636.json"
+  },
+  {
+   "id": 1567003886,
+   "name": "T4 DPS Chest",
+   "page": "items/equipment/t4-dps-chest-1567003886.md",
+   "json": "items/equipment/t4-dps-chest-1567003886.json"
+  },
+  {
+   "id": 1791031659,
+   "name": "T4 Healer Arms",
+   "page": "items/equipment/t4-healer-arms-1791031659.md",
+   "json": "items/equipment/t4-healer-arms-1791031659.json"
+  },
+  {
+   "id": 3472179568,
+   "name": "T4 Healer Helmet",
+   "page": "items/equipment/t4-healer-helmet-3472179568.md",
+   "json": "items/equipment/t4-healer-helmet-3472179568.json"
+  },
+  {
+   "id": 1299163561,
+   "name": "T4 Mage Chest",
+   "page": "items/equipment/t4-mage-chest-1299163561.md",
+   "json": "items/equipment/t4-mage-chest-1299163561.json"
+  },
+  {
+   "id": 960184859,
+   "name": "T4 Ranger Chest",
+   "page": "items/equipment/t4-ranger-chest-960184859.md",
+   "json": "items/equipment/t4-ranger-chest-960184859.json"
+  },
+  {
+   "id": 1676245323,
+   "name": "T4 Rogue Chest",
+   "page": "items/equipment/t4-rogue-chest-1676245323.md",
+   "json": "items/equipment/t4-rogue-chest-1676245323.json"
+  },
+  {
+   "id": 3452463502,
+   "name": "T4 Sniper Chest",
+   "page": "items/equipment/t4-sniper-chest-3452463502.md",
+   "json": "items/equipment/t4-sniper-chest-3452463502.json"
+  },
+  {
+   "id": 1838950390,
+   "name": "T4 Tank Arms",
+   "page": "items/equipment/t4-tank-arms-1838950390.md",
+   "json": "items/equipment/t4-tank-arms-1838950390.json"
+  },
+  {
+   "id": 403577806,
+   "name": "T4 Tank Chest",
+   "page": "items/equipment/t4-tank-chest-403577806.md",
+   "json": "items/equipment/t4-tank-chest-403577806.json"
+  },
+  {
+   "id": 2616343052,
+   "name": "Iron Bench",
+   "page": "items/buildtools/iron-bench-2616343052.md",
+   "json": "items/buildtools/iron-bench-2616343052.json"
+  },
+  {
+   "id": 3406484035,
+   "name": "T5 Prop Decoration Comfort Granite Throne",
+   "page": "items/buildtools/t5-prop-decoration-comfort-granite-throne-3406484035.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-granite-throne-3406484035.json"
+  },
+  {
+   "id": 3587974368,
+   "name": "Sand Throne",
+   "page": "items/buildtools/sand-throne-3587974368.md",
+   "json": "items/buildtools/sand-throne-3587974368.json"
+  },
+  {
+   "id": 4157590434,
+   "name": "T4 Chair",
+   "page": "items/buildtools/t4-chair-4157590434.md",
+   "json": "items/buildtools/t4-chair-4157590434.json"
+  }
+ ],
+ "page": "items/materials/padding-1711247619.md"
+}

@@ -1,0 +1,43 @@
+{
+ "id": 34316523,
+ "name": "Small Stone Arc",
+ "internalName": "Prop_Decoration_T6_ThroneRoom_Arc_2m",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/34316523.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2973039199,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/small-stone-arc-34316523.md"
+}

@@ -17,4 +17,4 @@ Taking down even big predators or prey is far easier with this finely made hunte
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-ranger-chest.json)

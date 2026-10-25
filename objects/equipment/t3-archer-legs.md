@@ -17,4 +17,4 @@ The pants were made from a set of different materials and protect all the most i
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-archer-legs.json)

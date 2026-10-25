@@ -33,4 +33,4 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](blue-floor-light-i-1747355696.json)

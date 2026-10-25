@@ -1,0 +1,90 @@
+{
+ "id": 738997972,
+ "name": "T3 Light Burst",
+ "internalName": "Ammo_T3_Spell_Fire_Lightburst_lvl17",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 17,
+  "max": 17
+ },
+ "maxStack": 500,
+ "image": "images/icons/738997972.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that releases a flash of light, bright enough to push pack enemies around the caster.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 13,
+    "display": "13",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 851852894,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 4230023681,
+      "name": "Coal Powder",
+      "page": "items/materials/coal-powder-4230023681.md",
+      "json": "items/materials/coal-powder-4230023681.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2698923038,
+      "name": "Fell Mist",
+      "page": "items/materials/fell-mist-2698923038.md",
+      "json": "items/materials/fell-mist-2698923038.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t3-light-burst-738997972.md"
+}

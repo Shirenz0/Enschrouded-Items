@@ -1,0 +1,70 @@
+{
+ "id": 3436474234,
+ "name": "Health Potion",
+ "internalName": "Consumable_Potion_Health_T1",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3436474234.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Filled with vitalizing ingredients, it instantly restores a good amount of Health.",
+ "lore": "Level 5 Potion",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 200,
+    "display": "200",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3690387919,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 600862405,
+      "name": "Penny Bun",
+      "page": "items/consumables/penny-bun-600862405.md",
+      "json": "items/consumables/penny-bun-600862405.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3707271437,
+      "name": "Red Berries",
+      "page": "items/consumables/red-berries-3707271437.md",
+      "json": "items/consumables/red-berries-3707271437.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2949322768,
+   "name": "Health Potion improved",
+   "page": "items/consumables/health-potion-improved-2949322768.md",
+   "json": "items/consumables/health-potion-improved-2949322768.json"
+  }
+ ],
+ "page": "items/consumables/health-potion-3436474234.md"
+}

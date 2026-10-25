@@ -1,0 +1,51 @@
+{
+ "id": 3721356294,
+ "name": "Red Marble Dungeon Block",
+ "internalName": "Block_T2_Dungeon_Marble_HallowHalls_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3721356294.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Made from polished Marble",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2232701845,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2530601241,
+      "name": "Red Marble fragment",
+      "page": "items/materials/red-marble-fragment-2530601241.md",
+      "json": "items/materials/red-marble-fragment-2530601241.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1293427697,
+   "name": "Red Marble Secret",
+   "page": "items/buildtools/red-marble-secret-1293427697.md",
+   "json": "items/buildtools/red-marble-secret-1293427697.json"
+  }
+ ],
+ "page": "items/buildtools/red-marble-dungeon-block-3721356294.md"
+}

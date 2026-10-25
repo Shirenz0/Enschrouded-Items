@@ -1,0 +1,25 @@
+{
+ "id": 101085309,
+ "name": "Kindlewastes Miniature Piece",
+ "internalName": "Collection_Worldmap_Desert",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/101085309.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Sandy dunes and rugged cliffs. Orindell wasn't always like this. How would this piece look different, if water had never stopped flowing through the region?",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/kindlewastes-miniature-piece-101085309.md"
+}

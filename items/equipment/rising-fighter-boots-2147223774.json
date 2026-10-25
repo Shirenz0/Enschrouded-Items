@@ -1,0 +1,71 @@
+{
+ "id": 2147223774,
+ "name": "Rising Fighter Boots",
+ "internalName": "Armor_T1_Warrior_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/2147223774.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Footwork is the most important basic of swordsmanship. These boots should prepare you for your later and make learning the first steps easier.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/rising-fighter-boots.md",
+  "json": "objects/equipment/rising-fighter-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+3 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  }
+ ],
+ "page": "items/equipment/rising-fighter-boots-2147223774.md"
+}

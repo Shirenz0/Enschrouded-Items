@@ -1,0 +1,73 @@
+{
+ "id": 3562885124,
+ "name": "T4 Wizard Chest",
+ "internalName": "Armor_T4_Mage_BattleSword_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3562885124.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The inner lining of this coat follows the direction of the body's veins, allowing for easier magic channeling.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "One-Handed Melee",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  }
+ ],
+ "page": "items/equipment/t4-wizard-chest-3562885124.md"
+}

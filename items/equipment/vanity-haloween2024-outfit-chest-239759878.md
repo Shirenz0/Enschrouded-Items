@@ -27,4 +27,4 @@ Vanity Haloween2024 Outfit chest  Desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-haloween2024-outfit-chest-239759878.json)

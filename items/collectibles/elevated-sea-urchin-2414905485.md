@@ -17,4 +17,4 @@ This sea urchin sits atop a small platform and is too delicate to attempt remova
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](elevated-sea-urchin-2414905485.json)

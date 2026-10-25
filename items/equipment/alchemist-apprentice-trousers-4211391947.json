@@ -1,0 +1,71 @@
+{
+ "id": 4211391947,
+ "name": "Alchemist Apprentice Trousers",
+ "internalName": "Armor_T1_Mage_Wizard_DPS_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/4211391947.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Comfortable trousers for long walks.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/alchemist-apprentice-trousers.md",
+  "json": "objects/equipment/alchemist-apprentice-trousers.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Letting",
+   "effect": "Increases the skill level of Blood Letting by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+10 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Terror",
+   "effect": "Increases the skill level of Terror by +1"
+  }
+ ],
+ "page": "items/equipment/alchemist-apprentice-trousers-4211391947.md"
+}

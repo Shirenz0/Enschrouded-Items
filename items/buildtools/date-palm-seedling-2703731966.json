@@ -1,0 +1,52 @@
+{
+ "id": 2703731966,
+ "name": "Date Palm Seedling",
+ "internalName": "T4_Seedling_Desert_Tree_DatePalm",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/2703731966.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested repeatedly.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2760620289,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4231900495,
+      "name": "Date",
+      "page": "items/consumables/date-4231900495.md",
+      "json": "items/consumables/date-4231900495.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3489782185,
+      "name": "Fine Sand",
+      "page": "items/materials/fine-sand-3489782185.md",
+      "json": "items/materials/fine-sand-3489782185.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/date-palm-seedling-2703731966.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 543168017,
+ "name": "Early Access Reward Book",
+ "internalName": "Prop_DLC_EarlyAccessReward_Book",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/543168017.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A reward for dedicated early access players. \n\nYou shaped this world. It's your story to tell!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/early-access-reward-book-543168017.md"
+}

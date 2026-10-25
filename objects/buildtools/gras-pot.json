@@ -1,0 +1,52 @@
+{
+ "name": "Gras Pot",
+ "category": "BuildTools",
+ "image": "images/icons/814558577.png",
+ "versions": 3,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1479156124,
+   "name": "Gras Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1479156124.png",
+   "page": "items/buildtools/gras-pot-1479156124.md",
+   "json": "items/buildtools/gras-pot-1479156124.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 4231642797,
+   "name": "Gras Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4231642797.png",
+   "page": "items/buildtools/gras-pot-4231642797.md",
+   "json": "items/buildtools/gras-pot-4231642797.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 814558577,
+   "name": "Gras Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/814558577.png",
+   "page": "items/buildtools/gras-pot-814558577.md",
+   "json": "items/buildtools/gras-pot-814558577.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/gras-pot.md"
+}

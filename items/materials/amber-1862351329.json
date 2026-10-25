@@ -1,0 +1,177 @@
+{
+ "id": 1862351329,
+ "name": "Amber",
+ "internalName": "Material_T2_Amber",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/1862351329.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Created over years and years of petrification of Resin in the depths of the earth, it has become a beautiful material used for production.",
+ "lore": null,
+ "whereToFind": "find in Revelwood Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1790474262,
+   "name": "T2 Fire Bolt III",
+   "page": "items/ammunition/t2-fire-bolt-iii-1790474262.md",
+   "json": "items/ammunition/t2-fire-bolt-iii-1790474262.json"
+  },
+  {
+   "id": 3498203616,
+   "name": "T3 Fire Bolt IV",
+   "page": "items/ammunition/t3-fire-bolt-iv-3498203616.md",
+   "json": "items/ammunition/t3-fire-bolt-iv-3498203616.json"
+  },
+  {
+   "id": 1912744772,
+   "name": "T3 Eternal Fireball I",
+   "page": "items/ammunition/t3-eternal-fireball-i-1912744772.md",
+   "json": "items/ammunition/t3-eternal-fireball-i-1912744772.json"
+  },
+  {
+   "id": 1833734179,
+   "name": "T2 Fireball II",
+   "page": "items/ammunition/t2-fireball-ii-1833734179.md",
+   "json": "items/ammunition/t2-fireball-ii-1833734179.json"
+  },
+  {
+   "id": 901722888,
+   "name": "T2 Pillar of Flames I",
+   "page": "items/ammunition/t2-pillar-of-flames-i-901722888.md",
+   "json": "items/ammunition/t2-pillar-of-flames-i-901722888.json"
+  },
+  {
+   "id": 2830104367,
+   "name": "T3 Fire Totem",
+   "page": "items/ammunition/t3-fire-totem-2830104367.md",
+   "json": "items/ammunition/t3-fire-totem-2830104367.json"
+  },
+  {
+   "id": 551568007,
+   "name": "Poisoned Bronze Arrow",
+   "page": "items/ammunition/poisoned-bronze-arrow-551568007.md",
+   "json": "items/ammunition/poisoned-bronze-arrow-551568007.json"
+  },
+  {
+   "id": 649877474,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-649877474.md",
+   "json": "items/weapons/jezmina-s-apotheosis-649877474.json"
+  },
+  {
+   "id": 105288636,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-105288636.md",
+   "json": "items/weapons/wailing-blade-105288636.json"
+  },
+  {
+   "id": 2176171412,
+   "name": "Golden Recruit Axe",
+   "page": "items/weapons/golden-recruit-axe-2176171412.md",
+   "json": "items/weapons/golden-recruit-axe-2176171412.json"
+  },
+  {
+   "id": 3578254606,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-3578254606.md",
+   "json": "items/weapons/draconian-bow-3578254606.json"
+  },
+  {
+   "id": 4192516670,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-4192516670.md",
+   "json": "items/weapons/cryptic-wand-4192516670.json"
+  },
+  {
+   "id": 2331461341,
+   "name": "Ghostly Shield",
+   "page": "items/equipment/ghostly-shield-2331461341.md",
+   "json": "items/equipment/ghostly-shield-2331461341.json"
+  },
+  {
+   "id": 3101300981,
+   "name": "T2 DPS Chest",
+   "page": "items/equipment/t2-dps-chest-3101300981.md",
+   "json": "items/equipment/t2-dps-chest-3101300981.json"
+  },
+  {
+   "id": 2707905851,
+   "name": "T2 Healer Chest",
+   "page": "items/equipment/t2-healer-chest-2707905851.md",
+   "json": "items/equipment/t2-healer-chest-2707905851.json"
+  },
+  {
+   "id": 3494556891,
+   "name": "T2 Mage Chest",
+   "page": "items/equipment/t2-mage-chest-3494556891.md",
+   "json": "items/equipment/t2-mage-chest-3494556891.json"
+  },
+  {
+   "id": 1856277122,
+   "name": "T2 Ranger Chest",
+   "page": "items/equipment/t2-ranger-chest-1856277122.md",
+   "json": "items/equipment/t2-ranger-chest-1856277122.json"
+  },
+  {
+   "id": 2683908044,
+   "name": "T2 Archer Arms",
+   "page": "items/equipment/t2-archer-arms-2683908044.md",
+   "json": "items/equipment/t2-archer-arms-2683908044.json"
+  },
+  {
+   "id": 1543470770,
+   "name": "T2 Archer Chest",
+   "page": "items/equipment/t2-archer-chest-1543470770.md",
+   "json": "items/equipment/t2-archer-chest-1543470770.json"
+  },
+  {
+   "id": 1555932121,
+   "name": "T2 Tank Chest",
+   "page": "items/equipment/t2-tank-chest-1555932121.md",
+   "json": "items/equipment/t2-tank-chest-1555932121.json"
+  },
+  {
+   "id": 3587974368,
+   "name": "Sand Throne",
+   "page": "items/buildtools/sand-throne-3587974368.md",
+   "json": "items/buildtools/sand-throne-3587974368.json"
+  },
+  {
+   "id": 3238278001,
+   "name": "Throne T2",
+   "page": "items/buildtools/throne-t2-3238278001.md",
+   "json": "items/buildtools/throne-t2-3238278001.json"
+  },
+  {
+   "id": 924954650,
+   "name": "T5 Prop Decoration Comfort Table Magnificent",
+   "page": "items/buildtools/t5-prop-decoration-comfort-table-magnificent-924954650.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-table-magnificent-924954650.json"
+  },
+  {
+   "id": 4189323092,
+   "name": "T5 Prop Decoration Cupboard",
+   "page": "items/buildtools/t5-prop-decoration-cupboard-4189323092.md",
+   "json": "items/buildtools/t5-prop-decoration-cupboard-4189323092.json"
+  },
+  {
+   "id": 3695950981,
+   "name": "T4 Cupboard large",
+   "page": "items/buildtools/t4-cupboard-large-3695950981.md",
+   "json": "items/buildtools/t4-cupboard-large-3695950981.json"
+  }
+ ],
+ "page": "items/materials/amber-1862351329.md"
+}

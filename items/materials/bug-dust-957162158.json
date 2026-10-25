@@ -1,0 +1,129 @@
+{
+ "id": 957162158,
+ "name": "Bug Dust",
+ "internalName": "Material_T2_Bug_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/957162158.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A protein rich ingredient created from pounded critter shells.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3958261047,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3264892278,
+      "name": "Critter Parts",
+      "page": "items/materials/critter-parts-3264892278.md",
+      "json": "items/materials/critter-parts-3264892278.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2239380894,
+   "name": "Wisp of Light",
+   "page": "items/consumables/wisp-of-light-2239380894.md",
+   "json": "items/consumables/wisp-of-light-2239380894.json"
+  },
+  {
+   "id": 711941661,
+   "name": "T2 Eternal Mana Leech Beam III",
+   "page": "items/ammunition/t2-eternal-mana-leech-beam-iii-711941661.md",
+   "json": "items/ammunition/t2-eternal-mana-leech-beam-iii-711941661.json"
+  },
+  {
+   "id": 397674071,
+   "name": "Magic Frost Arrow",
+   "page": "items/ammunition/magic-frost-arrow-397674071.md",
+   "json": "items/ammunition/magic-frost-arrow-397674071.json"
+  },
+  {
+   "id": 2875641903,
+   "name": "T2 Shock Wisp I",
+   "page": "items/ammunition/t2-shock-wisp-i-2875641903.md",
+   "json": "items/ammunition/t2-shock-wisp-i-2875641903.json"
+  },
+  {
+   "id": 2371220722,
+   "name": "Stun Arrow",
+   "page": "items/ammunition/stun-arrow-2371220722.md",
+   "json": "items/ammunition/stun-arrow-2371220722.json"
+  },
+  {
+   "id": 2967793968,
+   "name": "T2 Palette 03 Grey and Blue",
+   "page": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.md",
+   "json": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.json"
+  },
+  {
+   "id": 3403995938,
+   "name": "Goo",
+   "page": "items/materials/goo-3403995938.md",
+   "json": "items/materials/goo-3403995938.json"
+  },
+  {
+   "id": 4279969253,
+   "name": "T2 DPS Helmet",
+   "page": "items/equipment/t2-dps-helmet-4279969253.md",
+   "json": "items/equipment/t2-dps-helmet-4279969253.json"
+  },
+  {
+   "id": 722422442,
+   "name": "T2 Healer Legs",
+   "page": "items/equipment/t2-healer-legs-722422442.md",
+   "json": "items/equipment/t2-healer-legs-722422442.json"
+  },
+  {
+   "id": 2841320705,
+   "name": "T2 Mage Boots",
+   "page": "items/equipment/t2-mage-boots-2841320705.md",
+   "json": "items/equipment/t2-mage-boots-2841320705.json"
+  },
+  {
+   "id": 1798843751,
+   "name": "T2 Mage Legs",
+   "page": "items/equipment/t2-mage-legs-1798843751.md",
+   "json": "items/equipment/t2-mage-legs-1798843751.json"
+  },
+  {
+   "id": 1617642810,
+   "name": "T2 Ranger Helmet",
+   "page": "items/equipment/t2-ranger-helmet-1617642810.md",
+   "json": "items/equipment/t2-ranger-helmet-1617642810.json"
+  },
+  {
+   "id": 3351665828,
+   "name": "T2 Archer Helmet",
+   "page": "items/equipment/t2-archer-helmet-3351665828.md",
+   "json": "items/equipment/t2-archer-helmet-3351665828.json"
+  },
+  {
+   "id": 2509853978,
+   "name": "T2 Tank Legs",
+   "page": "items/equipment/t2-tank-legs-2509853978.md",
+   "json": "items/equipment/t2-tank-legs-2509853978.json"
+  }
+ ],
+ "page": "items/materials/bug-dust-957162158.md"
+}

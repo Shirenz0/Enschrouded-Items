@@ -1,0 +1,96 @@
+{
+ "id": 2830104367,
+ "name": "T3 Fire Totem",
+ "internalName": "Ammo_T3_Spell_Fire_Totem_lvl17",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 17,
+  "max": 17
+ },
+ "maxStack": 500,
+ "image": "images/icons/2830104367.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a totem that launches fiery projectiles at enemies and explodes when it expires. \nMaximum amount of summoned totems is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 37,
+    "display": "37",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 699,
+    "display": "0.699 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 8000,
+    "display": "8 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 122266458,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t3-fire-totem-2830104367.md"
+}

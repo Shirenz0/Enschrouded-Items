@@ -31,4 +31,4 @@ A severed Vorgoth Eye. Collect multiple to craft the iron trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-vorgoth-eye-trophy-3043171452.json)

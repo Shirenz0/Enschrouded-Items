@@ -1,0 +1,75 @@
+{
+ "id": 1257792166,
+ "name": "Rubble",
+ "internalName": "Build_TerrainMaterial_T1_Rubble",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1257792166.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The rests of materials mixed together after the construction work is done.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3337807364,
+   "name": "Roughly Cut Stone Block",
+   "page": "items/buildtools/roughly-cut-stone-block-3337807364.md",
+   "json": "items/buildtools/roughly-cut-stone-block-3337807364.json"
+  },
+  {
+   "id": 2780052662,
+   "name": "T7 AncientLand Rubble",
+   "page": "items/materials/t7-ancientland-rubble-2780052662.md",
+   "json": "items/materials/t7-ancientland-rubble-2780052662.json"
+  },
+  {
+   "id": 2252426664,
+   "name": "T6 Wetlands Rubble",
+   "page": "items/materials/t6-wetlands-rubble-2252426664.md",
+   "json": "items/materials/t6-wetlands-rubble-2252426664.json"
+  },
+  {
+   "id": 4056696698,
+   "name": "Desert Rubble",
+   "page": "items/materials/desert-rubble-4056696698.md",
+   "json": "items/materials/desert-rubble-4056696698.json"
+  },
+  {
+   "id": 3232269711,
+   "name": "Steppes Rubble",
+   "page": "items/materials/steppes-rubble-3232269711.md",
+   "json": "items/materials/steppes-rubble-3232269711.json"
+  },
+  {
+   "id": 3620677285,
+   "name": "T2 Talltrees Rubble",
+   "page": "items/materials/t2-talltrees-rubble-3620677285.md",
+   "json": "items/materials/t2-talltrees-rubble-3620677285.json"
+  },
+  {
+   "id": 1619282664,
+   "name": "Deepforest Rubble",
+   "page": "items/materials/deepforest-rubble-1619282664.md",
+   "json": "items/materials/deepforest-rubble-1619282664.json"
+  },
+  {
+   "id": 4233423640,
+   "name": "Grassland Rubble",
+   "page": "items/materials/grassland-rubble-4233423640.md",
+   "json": "items/materials/grassland-rubble-4233423640.json"
+  }
+ ],
+ "page": "items/materials/rubble-1257792166.md"
+}

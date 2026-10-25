@@ -31,4 +31,4 @@ Description Cyclops Base Wall Trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](boss-trophy-holow-cyclops-2854812789.json)

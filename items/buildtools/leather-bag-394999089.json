@@ -1,0 +1,52 @@
+{
+ "id": 394999089,
+ "name": "Leather Bag",
+ "internalName": "Prop_Decoration_T3_Bag_Leather",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/394999089.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1722942701,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/leather-bag-394999089.md"
+}

@@ -29,4 +29,4 @@ Crafting, Drying Rack
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](reptile-leather-291752398.json)

@@ -1,0 +1,61 @@
+{
+ "id": 1364879646,
+ "name": "Small Water Wheel",
+ "internalName": "Prop_Production_T6_Water_Wheel_Power_Small",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1364879646.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Small power wheel but still enough for running a grinder",
+ "lore": "Furniture",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3871490863,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 7,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/small-water-wheel-1364879646.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "T2 Tank Chest",
+ "category": "Equipment",
+ "image": "images/icons/1555932121.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1409292027,
+   "name": "T2 Tank Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1409292027.png",
+   "page": "items/equipment/t2-tank-chest-1409292027.md",
+   "json": "items/equipment/t2-tank-chest-1409292027.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1555932121,
+   "name": "T2 Tank Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1555932121.png",
+   "page": "items/equipment/t2-tank-chest-1555932121.md",
+   "json": "items/equipment/t2-tank-chest-1555932121.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-tank-chest.md"
+}

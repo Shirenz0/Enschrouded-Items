@@ -37,4 +37,4 @@ Unlocked one after another as the item is upgraded, in this order. Armor and dam
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](commander-s-ring-1993216032.json)

@@ -1,0 +1,98 @@
+{
+ "id": 1853225094,
+ "name": "Fenrig's Axe",
+ "internalName": "Craft_Weapon_T4_1H_Lore_Axe_Ministory_10",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 21,
+  "max": 21
+ },
+ "maxStack": 1,
+ "image": "images/icons/1853225094.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/fenrig-s-axe.md",
+  "json": "objects/weapons/fenrig-s-axe.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  }
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "+6 Health Leech"
+  },
+  {
+   "order": 5,
+   "name": "",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 214857048,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/fenrig-s-axe-1853225094.md"
+}

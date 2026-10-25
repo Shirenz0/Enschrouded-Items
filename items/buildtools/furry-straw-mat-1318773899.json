@@ -1,0 +1,71 @@
+{
+ "id": 1318773899,
+ "name": "Furry straw mat",
+ "internalName": "Prop_Decoration_Comfort_T3_Floor_FurStraw_small",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1318773899.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Flooring",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Carpet",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3110463068,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/furry-straw-mat-1318773899.md"
+}

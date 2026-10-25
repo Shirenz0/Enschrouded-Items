@@ -1,0 +1,87 @@
+{
+ "id": 1356876810,
+ "name": "T5 Fireball III",
+ "internalName": "Ammo_T5_Spell_Fire_Ball_lvl30",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 500,
+ "image": "images/icons/1356876810.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that ignites a single fireball, errupting upon impact, dealing damage in a small area.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 157,
+    "display": "157",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2500,
+    "display": "2.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 440,
+    "display": "440",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 461546005,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1997243371,
+      "name": "T5 Material Amethyst",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3376734441,
+      "name": "T5 Obsidian",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t5-fireball-iii-1356876810.md"
+}

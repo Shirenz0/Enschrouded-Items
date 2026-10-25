@@ -1,0 +1,25 @@
+{
+ "id": 4076482688,
+ "name": "DLC SUpporter Warrior Banner Wall",
+ "internalName": "Prop_Decoration_DLC_Supporter_Warrior_Banner_Wall",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4076482688.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/dlc-supporter-warrior-banner-wall-4076482688.md"
+}

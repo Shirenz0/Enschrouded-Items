@@ -40,4 +40,4 @@ Unlocked one after another as the item is upgraded, in this order. Armor and dam
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](golden-recruit-axe-1464929321.json)

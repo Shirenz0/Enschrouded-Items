@@ -1,0 +1,50 @@
+{
+ "id": 3816235332,
+ "name": "Vanity Outfit Sheep boots",
+ "internalName": "Vanity_T5_Sheep_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3816235332.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Vanity  Outfit Sheep  boots  Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/vanity-outfit-sheep-boots.md",
+  "json": "objects/equipment/vanity-outfit-sheep-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet"
+ },
+ "recipes": [
+  {
+   "recipeId": 4124173588,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/vanity-outfit-sheep-boots-3816235332.md"
+}

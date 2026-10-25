@@ -1,0 +1,25 @@
+{
+ "id": 3261257614,
+ "name": "Terrain Block",
+ "internalName": "Blueprint_Terrain_05m",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/blueprints/terrain-block-3261257614.md"
+}

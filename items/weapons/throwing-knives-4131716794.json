@@ -1,0 +1,121 @@
+{
+ "id": 4131716794,
+ "name": "Throwing Knives",
+ "internalName": "Craft_Weapon_T6_2H_Lore_Daggers_DPS_ministory_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/4131716794.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/throwing-knives.md",
+  "json": "objects/weapons/throwing-knives.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 400,
+    "display": "0.4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Sneaky",
+   "effect": "+22 Sneaky"
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Sneaky",
+   "effect": "+22 Sneaky"
+  },
+  {
+   "order": 4,
+   "name": "Brutal",
+   "effect": "+22 Brutal"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+22 Brutal"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1064834190,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1476017101,
+      "name": "Aquamarine",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/throwing-knives-4131716794.md"
+}

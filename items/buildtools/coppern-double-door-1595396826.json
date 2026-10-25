@@ -1,0 +1,43 @@
+{
+ "id": 1595396826,
+ "name": "Coppern Double Door",
+ "internalName": "Prop_Decoration_T2_Door_Coppern_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1595396826.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 935971100,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 3608731525,
+      "name": "Copper Door",
+      "page": "items/buildtools/copper-door-3608731525.md",
+      "json": "items/buildtools/copper-door-3608731525.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/coppern-double-door-1595396826.md"
+}

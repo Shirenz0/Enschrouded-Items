@@ -25,4 +25,4 @@ Philipp_Buoyancy_Platform
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](philipp-buoyancy-platform-3247058638.json)

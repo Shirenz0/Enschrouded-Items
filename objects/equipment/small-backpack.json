@@ -1,0 +1,37 @@
+{
+ "name": "Small Backpack",
+ "category": "Equipment",
+ "image": "images/icons/4231879756.png",
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 3728213390,
+   "name": "Small Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3728213390.png",
+   "page": "items/equipment/small-backpack-3728213390.md",
+   "json": "items/equipment/small-backpack-3728213390.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4231879756,
+   "name": "Small Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4231879756.png",
+   "page": "items/equipment/small-backpack-4231879756.md",
+   "json": "items/equipment/small-backpack-4231879756.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/equipment/small-backpack.md"
+}

@@ -1,0 +1,71 @@
+{
+ "id": 628018019,
+ "name": "T2 Healer Helmet",
+ "internalName": "Armor_T2_Mage_Healer_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/628018019.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A headwrap which helps to protect from the inevidable. Only a little bit, though.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-healer-helmet.md",
+  "json": "objects/equipment/t2-healer-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Revive Duration",
+    "value": -500,
+    "display": "-0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+8 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  }
+ ],
+ "page": "items/equipment/t2-healer-helmet-628018019.md"
+}

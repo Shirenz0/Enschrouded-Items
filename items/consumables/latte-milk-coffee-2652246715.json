@@ -1,0 +1,103 @@
+{
+ "id": 2652246715,
+ "name": "Latte/Milk coffee",
+ "internalName": "Food_T6_dish_hydration_CoffeeMilk",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2652246715.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Coffee with a splash of milk",
+ "lore": null,
+ "whereToFind": "Coffee Brewery",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 3300000,
+    "display": "55:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2139932937,
+   "station": "Roaster",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1358181917,
+      "name": "Ground Coffee Beans",
+      "page": "items/materials/ground-coffee-beans-1358181917.md",
+      "json": "items/materials/ground-coffee-beans-1358181917.json"
+     }
+    },
+    {
+     "count": 3,
+     "oneOf": [
+      {
+       "id": 2873455991,
+       "name": "Milk",
+       "page": "items/consumables/milk-2873455991.md",
+       "json": "items/consumables/milk-2873455991.json"
+      },
+      {
+       "id": 443792978,
+       "name": "Mountaingoat Milk",
+       "page": "items/consumables/mountaingoat-milk-443792978.md",
+       "json": "items/consumables/mountaingoat-milk-443792978.json"
+      },
+      {
+       "id": 2012645754,
+       "name": "Uncoocked Catdeer Milk",
+       "page": "items/consumables/uncoocked-catdeer-milk-2012645754.md",
+       "json": "items/consumables/uncoocked-catdeer-milk-2012645754.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/latte-milk-coffee-2652246715.md"
+}

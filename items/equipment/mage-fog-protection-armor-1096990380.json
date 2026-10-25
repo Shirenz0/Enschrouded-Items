@@ -1,0 +1,112 @@
+{
+ "id": 1096990380,
+ "name": "Mage Fog Protection Armor",
+ "internalName": "Armor_T3_Mage_FogProtection_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1096990380.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hastely put together from fell monster parts. Offers extended protection against the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/mage-fog-protection-armor.md",
+  "json": "objects/equipment/mage-fog-protection-armor.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magic Fire Damage while in the Shroud",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fog Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Arsonist",
+   "effect": "Increases the skill level of Arsonist by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 336987897,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 342099111,
+      "name": "Shroud Jelly",
+      "page": "items/materials/shroud-jelly-342099111.md",
+      "json": "items/materials/shroud-jelly-342099111.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/mage-fog-protection-armor-1096990380.md"
+}

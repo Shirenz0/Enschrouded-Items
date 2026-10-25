@@ -32,4 +32,4 @@ A fire place that can be placed in your home to provide warmth to receive the Re
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](clay-fire-place-1910038255.json)

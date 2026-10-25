@@ -1,0 +1,43 @@
+{
+ "id": 554708154,
+ "name": "Large Red Marble Arc",
+ "internalName": "Prop_Decoration_TX_RedMarble_Arc_4m",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/554708154.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3471202326,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2530601241,
+      "name": "Red Marble fragment",
+      "page": "items/materials/red-marble-fragment-2530601241.md",
+      "json": "items/materials/red-marble-fragment-2530601241.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/large-red-marble-arc-554708154.md"
+}

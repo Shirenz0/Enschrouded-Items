@@ -1,0 +1,52 @@
+{
+ "id": 779558916,
+ "name": "Climbing Rose overgrowth plant",
+ "internalName": "Material_T2_Overgrowth_ClimbingRose",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 1000,
+ "image": "images/icons/779558916.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Use this material to decorate any voxel material using the ??? tool",
+ "lore": "Plants",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 933251407,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3937186197,
+      "name": "Deep Forest Dirt",
+      "page": "items/materials/deep-forest-dirt-3937186197.md",
+      "json": "items/materials/deep-forest-dirt-3937186197.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3898847112,
+      "name": "Flax",
+      "page": "items/materials/flax-3898847112.md",
+      "json": "items/materials/flax-3898847112.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/climbing-rose-overgrowth-plant-779558916.md"
+}

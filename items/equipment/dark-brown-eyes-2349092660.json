@@ -1,0 +1,25 @@
+{
+ "id": 2349092660,
+ "name": "Dark Brown Eyes",
+ "internalName": "Icon_EyeColor_brown_dark",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2349092660.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Visit the Barber to change your appearance. Once you've unlocked this color, you can use it on any server.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/equipment/dark-brown-eyes-2349092660.md"
+}

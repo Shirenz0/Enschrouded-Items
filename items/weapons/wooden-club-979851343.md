@@ -29,4 +29,4 @@ A club carved out of wood. At least something to defend with. Better than nothin
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](wooden-club-979851343.json)

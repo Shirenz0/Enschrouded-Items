@@ -1,0 +1,80 @@
+{
+ "id": 3331812155,
+ "name": "Magnicifent chair",
+ "internalName": "Prop_Decoration_Comfort6_T5_Chair_Magnificent",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3331812155.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Chair",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3480574329,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3376734441,
+      "name": "T5 Obsidian",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3522105835,
+      "name": "T5 Material Violet Fabric",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/magnicifent-chair-3331812155.md"
+}

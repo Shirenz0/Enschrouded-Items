@@ -1,0 +1,73 @@
+{
+ "id": 4061156246,
+ "name": "T4 Archer Chest",
+ "internalName": "Armor_T4_Ranger_Adventurer_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/4061156246.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A formidable chestpiece that's been decorated with many elements resembling nature, vines and petals.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Depletion Climbing",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Well Rested",
+   "effect": "Increases the skill level of Well Rested by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Rebound",
+   "effect": "Increases the skill level of Rebound by +1"
+  }
+ ],
+ "page": "items/equipment/t4-archer-chest-4061156246.md"
+}

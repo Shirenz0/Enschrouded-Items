@@ -1,0 +1,52 @@
+{
+ "id": 3415410466,
+ "name": "Thyme Seedling",
+ "internalName": "T7_Seedling_Herb_Thyme",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3415410466.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in **basalt farm soil**. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1518363768,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3466985705,
+      "name": "Thyme",
+      "page": "items/consumables/thyme-3466985705.md",
+      "json": "items/consumables/thyme-3466985705.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1930450533,
+      "name": "Basalt Farm Soil",
+      "page": "items/materials/basalt-farm-soil-1930450533.md",
+      "json": "items/materials/basalt-farm-soil-1930450533.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/thyme-seedling-3415410466.md"
+}

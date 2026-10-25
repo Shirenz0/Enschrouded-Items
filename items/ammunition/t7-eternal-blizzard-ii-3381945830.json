@@ -1,0 +1,135 @@
+{
+ "id": 3381945830,
+ "name": "T7 Eternal Blizzard II",
+ "internalName": "Ammo_T7_Spell_Ice_Blizzard_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/3381945830.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates an icy storm that slows down enemies and deals damage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 287,
+    "display": "287",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 600,
+    "display": "600",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 12000,
+    "display": "12 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 80,
+    "display": "80",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-10 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-10 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Glacial",
+   "effect": "+10 Glacial"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1256080694,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 30,
+     "item": {
+      "id": 4199799645,
+      "name": "T5 Ice",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2670118573,
+      "name": "Ancient/Archaic Infusion",
+      "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+      "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-blizzard-ii-3381945830.md"
+}

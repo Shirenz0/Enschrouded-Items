@@ -1,0 +1,77 @@
+{
+ "id": 887413477,
+ "name": "T4 Assassin Legs",
+ "internalName": "Armor_T4_Ranger_Assassin_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/887413477.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A plain pair of pants. Under different circumstances, they would allow the wearer to easily blend into any crowd.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-assassin-legs.md",
+  "json": "objects/equipment/t4-assassin-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Sneak  Speed",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Cutthroat",
+   "effect": "Increases the skill level of Cutthroat by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  }
+ ],
+ "page": "items/equipment/t4-assassin-legs-887413477.md"
+}

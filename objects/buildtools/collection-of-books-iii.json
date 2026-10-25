@@ -1,0 +1,36 @@
+{
+ "name": "Collection Of Books III",
+ "category": "BuildTools",
+ "image": "images/icons/523691097.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 186386614,
+   "name": "Collection Of Books III",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/186386614.png",
+   "page": "items/buildtools/collection-of-books-iii-186386614.md",
+   "json": "items/buildtools/collection-of-books-iii-186386614.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 523691097,
+   "name": "Collection Of Books III",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/523691097.png",
+   "page": "items/buildtools/collection-of-books-iii-523691097.md",
+   "json": "items/buildtools/collection-of-books-iii-523691097.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/collection-of-books-iii.md"
+}

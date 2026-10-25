@@ -1,0 +1,29 @@
+{
+ "id": 2381061644,
+ "name": "The Dragon's Map",
+ "internalName": "8kLoreText_TreasureMap_completed_communityQuest_2025",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2381061644.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A reconstructed map, consisting of 4 former map pieces. There's writing on the back:",
+ "lore": "Map",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/collectibles/the-dragon-s-map.md",
+  "json": "objects/collectibles/the-dragon-s-map.json",
+  "versions": 2
+ },
+ "page": "items/collectibles/the-dragon-s-map-2381061644.md"
+}

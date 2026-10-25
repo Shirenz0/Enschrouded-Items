@@ -1,0 +1,198 @@
+{
+ "id": 2287874170,
+ "name": "Green Fabric",
+ "internalName": "Material_T4_Fabric_Green",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2287874170.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The color of life - a wonderful color for clothes.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2578831737,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3091686369,
+   "name": "T4 DPS Helmet",
+   "page": "items/equipment/t4-dps-helmet-3091686369.md",
+   "json": "items/equipment/t4-dps-helmet-3091686369.json"
+  },
+  {
+   "id": 3615964892,
+   "name": "T4 Healer Boots",
+   "page": "items/equipment/t4-healer-boots-3615964892.md",
+   "json": "items/equipment/t4-healer-boots-3615964892.json"
+  },
+  {
+   "id": 3183764632,
+   "name": "T4 Healer Legs",
+   "page": "items/equipment/t4-healer-legs-3183764632.md",
+   "json": "items/equipment/t4-healer-legs-3183764632.json"
+  },
+  {
+   "id": 1791031659,
+   "name": "T4 Healer Arms",
+   "page": "items/equipment/t4-healer-arms-1791031659.md",
+   "json": "items/equipment/t4-healer-arms-1791031659.json"
+  },
+  {
+   "id": 1947086683,
+   "name": "T4 Healer Chest",
+   "page": "items/equipment/t4-healer-chest-1947086683.md",
+   "json": "items/equipment/t4-healer-chest-1947086683.json"
+  },
+  {
+   "id": 3472179568,
+   "name": "T4 Healer Helmet",
+   "page": "items/equipment/t4-healer-helmet-3472179568.md",
+   "json": "items/equipment/t4-healer-helmet-3472179568.json"
+  },
+  {
+   "id": 1616516574,
+   "name": "T4 Mage Legs",
+   "page": "items/equipment/t4-mage-legs-1616516574.md",
+   "json": "items/equipment/t4-mage-legs-1616516574.json"
+  },
+  {
+   "id": 398094556,
+   "name": "T4 Mage Arms",
+   "page": "items/equipment/t4-mage-arms-398094556.md",
+   "json": "items/equipment/t4-mage-arms-398094556.json"
+  },
+  {
+   "id": 3056375359,
+   "name": "T4 Mage Helmet",
+   "page": "items/equipment/t4-mage-helmet-3056375359.md",
+   "json": "items/equipment/t4-mage-helmet-3056375359.json"
+  },
+  {
+   "id": 960184859,
+   "name": "T4 Ranger Chest",
+   "page": "items/equipment/t4-ranger-chest-960184859.md",
+   "json": "items/equipment/t4-ranger-chest-960184859.json"
+  },
+  {
+   "id": 2666667832,
+   "name": "T4 Ranger Helmet",
+   "page": "items/equipment/t4-ranger-helmet-2666667832.md",
+   "json": "items/equipment/t4-ranger-helmet-2666667832.json"
+  },
+  {
+   "id": 403577806,
+   "name": "T4 Tank Chest",
+   "page": "items/equipment/t4-tank-chest-403577806.md",
+   "json": "items/equipment/t4-tank-chest-403577806.json"
+  },
+  {
+   "id": 2053490668,
+   "name": "Kingsize Bed",
+   "page": "items/buildtools/kingsize-bed-2053490668.md",
+   "json": "items/buildtools/kingsize-bed-2053490668.json"
+  },
+  {
+   "id": 449366573,
+   "name": "T4 Bed",
+   "page": "items/buildtools/t4-bed-449366573.md",
+   "json": "items/buildtools/t4-bed-449366573.json"
+  },
+  {
+   "id": 888761991,
+   "name": "Hophare Pillow",
+   "page": "items/buildtools/hophare-pillow-888761991.md",
+   "json": "items/buildtools/hophare-pillow-888761991.json"
+  },
+  {
+   "id": 1936163292,
+   "name": "Fae Deer Pillow",
+   "page": "items/buildtools/fae-deer-pillow-1936163292.md",
+   "json": "items/buildtools/fae-deer-pillow-1936163292.json"
+  },
+  {
+   "id": 1568297956,
+   "name": "Flightless Redtail Pillow",
+   "page": "items/buildtools/flightless-redtail-pillow-1568297956.md",
+   "json": "items/buildtools/flightless-redtail-pillow-1568297956.json"
+  },
+  {
+   "id": 3063700121,
+   "name": "Cylindrical Pillow",
+   "page": "items/buildtools/cylindrical-pillow-3063700121.md",
+   "json": "items/buildtools/cylindrical-pillow-3063700121.json"
+  },
+  {
+   "id": 32887851,
+   "name": "Flag Pole I",
+   "page": "items/buildtools/flag-pole-i-32887851.md",
+   "json": "items/buildtools/flag-pole-i-32887851.json"
+  },
+  {
+   "id": 1596806993,
+   "name": "Flag Pole II",
+   "page": "items/buildtools/flag-pole-ii-1596806993.md",
+   "json": "items/buildtools/flag-pole-ii-1596806993.json"
+  },
+  {
+   "id": 383915057,
+   "name": "Flag Pole III",
+   "page": "items/buildtools/flag-pole-iii-383915057.md",
+   "json": "items/buildtools/flag-pole-iii-383915057.json"
+  },
+  {
+   "id": 2344368210,
+   "name": "Flag Pole V",
+   "page": "items/buildtools/flag-pole-v-2344368210.md",
+   "json": "items/buildtools/flag-pole-v-2344368210.json"
+  },
+  {
+   "id": 3929204963,
+   "name": "Flag Pole IV",
+   "page": "items/buildtools/flag-pole-iv-3929204963.md",
+   "json": "items/buildtools/flag-pole-iv-3929204963.json"
+  },
+  {
+   "id": 3078925869,
+   "name": "Flag Pole VI",
+   "page": "items/buildtools/flag-pole-vi-3078925869.md",
+   "json": "items/buildtools/flag-pole-vi-3078925869.json"
+  }
+ ],
+ "page": "items/materials/green-fabric-2287874170.md"
+}

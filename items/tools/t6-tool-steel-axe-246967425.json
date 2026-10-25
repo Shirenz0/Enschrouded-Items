@@ -1,0 +1,98 @@
+{
+ "id": 246967425,
+ "name": "T6 Tool Steel Axe",
+ "internalName": "Tool_T6_Axe_Steel_Gold_Wetlands",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/246967425.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 tool steel axe with gold ornaments desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Enduring",
+   "effect": "+18 Enduring"
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+24 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Lumberjack",
+   "effect": "Increases the skill level of Lumberjack by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1320962747,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/t6-tool-steel-axe-246967425.md"
+}

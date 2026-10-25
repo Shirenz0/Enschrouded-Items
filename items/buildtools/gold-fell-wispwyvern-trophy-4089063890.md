@@ -31,4 +31,4 @@ defeat boss multiple times to craft golden trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-fell-wispwyvern-trophy-4089063890.json)

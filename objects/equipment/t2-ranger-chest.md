@@ -17,4 +17,4 @@ Minor protection, but it hardly matters. Just hit them before they ever see you.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-ranger-chest.json)

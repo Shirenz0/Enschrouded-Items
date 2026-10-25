@@ -27,4 +27,4 @@ People don't make eye contact with gravediggers because it brings bad luck. Some
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](gravedigger-hat-1467780184.json)

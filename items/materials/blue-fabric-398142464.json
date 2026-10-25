@@ -1,0 +1,174 @@
+{
+ "id": 398142464,
+ "name": "Blue Fabric",
+ "internalName": "Material_T4_Blue_Fabric",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/398142464.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Blue dyed fabric used for clothing.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1030345578,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1621012936,
+   "name": "Bed T5 Kingsize",
+   "page": "items/buildtools/bed-t5-kingsize-1621012936.md",
+   "json": "items/buildtools/bed-t5-kingsize-1621012936.json"
+  },
+  {
+   "id": 3769824548,
+   "name": "Keen Games Banner",
+   "page": "items/buildtools/keen-games-banner-3769824548.md",
+   "json": "items/buildtools/keen-games-banner-3769824548.json"
+  },
+  {
+   "id": 1216107588,
+   "name": "Standing Banner of the Ancients I",
+   "page": "items/buildtools/standing-banner-of-the-ancients-i-1216107588.md",
+   "json": "items/buildtools/standing-banner-of-the-ancients-i-1216107588.json"
+  },
+  {
+   "id": 914979767,
+   "name": "Standing Banner of the Ancients II",
+   "page": "items/buildtools/standing-banner-of-the-ancients-ii-914979767.md",
+   "json": "items/buildtools/standing-banner-of-the-ancients-ii-914979767.json"
+  },
+  {
+   "id": 1643475525,
+   "name": "Wall Banner of the Ancients I",
+   "page": "items/buildtools/wall-banner-of-the-ancients-i-1643475525.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-i-1643475525.json"
+  },
+  {
+   "id": 3504476430,
+   "name": "Wall Banner of the Ancients II",
+   "page": "items/buildtools/wall-banner-of-the-ancients-ii-3504476430.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-ii-3504476430.json"
+  },
+  {
+   "id": 2493505667,
+   "name": "Wall Banner of the Ancients III",
+   "page": "items/buildtools/wall-banner-of-the-ancients-iii-2493505667.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-iii-2493505667.json"
+  },
+  {
+   "id": 415346333,
+   "name": "Blue Wall Banner I",
+   "page": "items/buildtools/blue-wall-banner-i-415346333.md",
+   "json": "items/buildtools/blue-wall-banner-i-415346333.json"
+  },
+  {
+   "id": 2942267456,
+   "name": "Big Blue Wall Banner I",
+   "page": "items/buildtools/big-blue-wall-banner-i-2942267456.md",
+   "json": "items/buildtools/big-blue-wall-banner-i-2942267456.json"
+  },
+  {
+   "id": 614525060,
+   "name": "Blue Wall Banner II",
+   "page": "items/buildtools/blue-wall-banner-ii-614525060.md",
+   "json": "items/buildtools/blue-wall-banner-ii-614525060.json"
+  },
+  {
+   "id": 2467158158,
+   "name": "Big Blue Wall Banner II",
+   "page": "items/buildtools/big-blue-wall-banner-ii-2467158158.md",
+   "json": "items/buildtools/big-blue-wall-banner-ii-2467158158.json"
+  },
+  {
+   "id": 1210445973,
+   "name": "Wall Banner",
+   "page": "items/buildtools/wall-banner-1210445973.md",
+   "json": "items/buildtools/wall-banner-1210445973.json"
+  },
+  {
+   "id": 3862593821,
+   "name": "Long Wall Banner",
+   "page": "items/buildtools/long-wall-banner-3862593821.md",
+   "json": "items/buildtools/long-wall-banner-3862593821.json"
+  },
+  {
+   "id": 1539285358,
+   "name": "Ornate Wall Banner",
+   "page": "items/buildtools/ornate-wall-banner-1539285358.md",
+   "json": "items/buildtools/ornate-wall-banner-1539285358.json"
+  },
+  {
+   "id": 32887851,
+   "name": "Flag Pole I",
+   "page": "items/buildtools/flag-pole-i-32887851.md",
+   "json": "items/buildtools/flag-pole-i-32887851.json"
+  },
+  {
+   "id": 1596806993,
+   "name": "Flag Pole II",
+   "page": "items/buildtools/flag-pole-ii-1596806993.md",
+   "json": "items/buildtools/flag-pole-ii-1596806993.json"
+  },
+  {
+   "id": 383915057,
+   "name": "Flag Pole III",
+   "page": "items/buildtools/flag-pole-iii-383915057.md",
+   "json": "items/buildtools/flag-pole-iii-383915057.json"
+  },
+  {
+   "id": 2344368210,
+   "name": "Flag Pole V",
+   "page": "items/buildtools/flag-pole-v-2344368210.md",
+   "json": "items/buildtools/flag-pole-v-2344368210.json"
+  },
+  {
+   "id": 3929204963,
+   "name": "Flag Pole IV",
+   "page": "items/buildtools/flag-pole-iv-3929204963.md",
+   "json": "items/buildtools/flag-pole-iv-3929204963.json"
+  },
+  {
+   "id": 3078925869,
+   "name": "Flag Pole VI",
+   "page": "items/buildtools/flag-pole-vi-3078925869.md",
+   "json": "items/buildtools/flag-pole-vi-3078925869.json"
+  }
+ ],
+ "page": "items/materials/blue-fabric-398142464.md"
+}

@@ -1,0 +1,104 @@
+{
+ "name": "Pikemead's Ward",
+ "category": "Equipment",
+ "image": "images/icons/1828068654.png",
+ "versions": 8,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 454512717,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/454512717.png",
+   "page": "items/equipment/pikemead-s-ward-454512717.md",
+   "json": "items/equipment/pikemead-s-ward-454512717.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3738285842,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3738285842.png",
+   "page": "items/equipment/pikemead-s-ward-3738285842.md",
+   "json": "items/equipment/pikemead-s-ward-3738285842.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1237193461,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/1237193461.png",
+   "page": "items/equipment/pikemead-s-ward-1237193461.md",
+   "json": "items/equipment/pikemead-s-ward-1237193461.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2164917554,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2164917554.png",
+   "page": "items/equipment/pikemead-s-ward-2164917554.md",
+   "json": "items/equipment/pikemead-s-ward-2164917554.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 514520429,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/514520429.png",
+   "page": "items/equipment/pikemead-s-ward-514520429.md",
+   "json": "items/equipment/pikemead-s-ward-514520429.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 255353296,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/255353296.png",
+   "page": "items/equipment/pikemead-s-ward-255353296.md",
+   "json": "items/equipment/pikemead-s-ward-255353296.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3957855784,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/3957855784.png",
+   "page": "items/equipment/pikemead-s-ward-3957855784.md",
+   "json": "items/equipment/pikemead-s-ward-3957855784.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1828068654,
+   "name": "Pikemead's Ward",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1828068654.png",
+   "page": "items/equipment/pikemead-s-ward-1828068654.md",
+   "json": "items/equipment/pikemead-s-ward-1828068654.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/pikemead-s-ward.md"
+}

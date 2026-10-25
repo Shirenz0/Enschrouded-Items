@@ -1,0 +1,61 @@
+{
+ "id": 4247975958,
+ "name": "Table Saw",
+ "internalName": "Prop_Production_T2_Table_Saw",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4247975958.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An important tool to follow the ways of the Carpenter, which will unlock many new recipes.",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 858112803,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1461371688,
+      "name": "Circular Sawblades",
+      "page": "items/materials/circular-sawblades-1461371688.md",
+      "json": "items/materials/circular-sawblades-1461371688.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/table-saw-4247975958.md"
+}

@@ -1,0 +1,40 @@
+{
+ "id": 1756403655,
+ "name": "Trap Fireball",
+ "internalName": "Ammo_Trap_Wetland_Bamboo_Projectile",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1756403655.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Trap Fireball",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/ammunition/trap-fireball.md",
+  "json": "objects/ammunition/trap-fireball.json",
+  "versions": 10
+ },
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/ammunition/trap-fireball-1756403655.md"
+}

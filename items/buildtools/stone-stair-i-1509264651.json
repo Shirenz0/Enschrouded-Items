@@ -1,0 +1,52 @@
+{
+ "id": 1509264651,
+ "name": "Stone Stair I",
+ "internalName": "Prop_Decoration_T1_Stone_Stair_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1509264651.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3670617800,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3585782303,
+      "name": "Moss",
+      "page": "items/materials/moss-3585782303.md",
+      "json": "items/materials/moss-3585782303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/stone-stair-i-1509264651.md"
+}

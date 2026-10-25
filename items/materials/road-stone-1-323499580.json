@@ -1,0 +1,52 @@
+{
+ "id": 323499580,
+ "name": "Road Stone 1",
+ "internalName": "Build_TerrainMaterial_T1_Road_Stone_1",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/323499580.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A road made from Dirt and Stone",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 39216331,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/road-stone-1-323499580.md"
+}

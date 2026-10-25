@@ -1,0 +1,57 @@
+{
+ "id": 57557573,
+ "name": "Ancient Circles Block",
+ "internalName": "_Block_T7_Dark_Circles_Ancient_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/57557573.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "ancient circles block description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3288939903,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2851443310,
+      "name": "T7 material Ancient Land granite stone",
+      "page": "items/materials/t7-material-ancient-land-granite-stone-2851443310.md",
+      "json": "items/materials/t7-material-ancient-land-granite-stone-2851443310.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4020448547,
+   "name": "Ancient Wall Secret",
+   "page": "items/buildtools/ancient-wall-secret-4020448547.md",
+   "json": "items/buildtools/ancient-wall-secret-4020448547.json"
+  },
+  {
+   "id": 190504416,
+   "name": "Huge Ancient Door",
+   "page": "items/buildtools/huge-ancient-door-190504416.md",
+   "json": "items/buildtools/huge-ancient-door-190504416.json"
+  }
+ ],
+ "page": "items/buildtools/ancient-circles-block-57557573.md"
+}

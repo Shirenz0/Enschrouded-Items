@@ -1,0 +1,43 @@
+{
+ "id": 3700807169,
+ "name": "Blue Rocket",
+ "internalName": "Consumable_Toy_Fireworks_02_Blue_Rocket_T2",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3700807169.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Alchemy!",
+ "lore": "Consumables",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1935466713,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/buildtools/blue-rocket-3700807169.md"
+}

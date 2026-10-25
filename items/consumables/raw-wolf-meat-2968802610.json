@@ -1,0 +1,49 @@
+{
+ "id": 2968802610,
+ "name": "Raw Wolf Meat",
+ "internalName": "Food_T1_raw_bad_meat_WolfMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2968802610.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Who knows what the wolf ate? Maybe cooking it could help...",
+ "lore": null,
+ "whereToFind": "Springlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": -20,
+    "display": "-20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3373898672,
+   "name": "Grilled Wolf Meat",
+   "page": "items/consumables/grilled-wolf-meat-3373898672.md",
+   "json": "items/consumables/grilled-wolf-meat-3373898672.json"
+  }
+ ],
+ "page": "items/consumables/raw-wolf-meat-2968802610.md"
+}

@@ -25,4 +25,4 @@ A direction sign that you can write on.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](direction-sign-877616264.json)

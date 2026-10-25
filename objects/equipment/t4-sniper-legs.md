@@ -17,4 +17,4 @@ These pants are nimble and light. Ideal for hunting.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-sniper-legs.json)

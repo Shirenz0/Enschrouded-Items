@@ -1,0 +1,122 @@
+{
+ "id": 3472179568,
+ "name": "T4 Healer Helmet",
+ "internalName": "Armor_T4_Mage_Healer_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3472179568.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "You can't read sacred scrolls if you can't see, but true understanding comes from within, anyway.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-healer-helmet.md",
+  "json": "objects/equipment/t4-healer-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Revive Duration",
+    "value": -1100,
+    "display": "-1.1 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+16 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2879281076,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2287874170,
+      "name": "Green Fabric",
+      "page": "items/materials/green-fabric-2287874170.md",
+      "json": "items/materials/green-fabric-2287874170.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2698923038,
+      "name": "Fell Mist",
+      "page": "items/materials/fell-mist-2698923038.md",
+      "json": "items/materials/fell-mist-2698923038.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-healer-helmet-3472179568.md"
+}

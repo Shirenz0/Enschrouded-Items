@@ -1,0 +1,85 @@
+{
+ "id": 3779366146,
+ "name": "T5 Food Raw Herb Gentian",
+ "internalName": "Food_T5_raw_herb_Gentian",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3779366146.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t5 food raw herb Gentian desc. Adds spirit",
+ "lore": null,
+ "whereToFind": "Albaneve Summits",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 100,
+    "display": "100",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1200000,
+    "display": "20:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2905059781,
+   "name": "Pumpkin Soup",
+   "page": "items/consumables/pumpkin-soup-2905059781.md",
+   "json": "items/consumables/pumpkin-soup-2905059781.json"
+  },
+  {
+   "id": 3268443018,
+   "name": "Mountain herbs tea",
+   "page": "items/consumables/mountain-herbs-tea-3268443018.md",
+   "json": "items/consumables/mountain-herbs-tea-3268443018.json"
+  },
+  {
+   "id": 305385380,
+   "name": "Yellow Glow Soup",
+   "page": "items/consumables/yellow-glow-soup-305385380.md",
+   "json": "items/consumables/yellow-glow-soup-305385380.json"
+  },
+  {
+   "id": 2405125031,
+   "name": "T5 Health potion",
+   "page": "items/consumables/t5-health-potion-2405125031.md",
+   "json": "items/consumables/t5-health-potion-2405125031.json"
+  },
+  {
+   "id": 3087876,
+   "name": "Consumable Potion Mana T5",
+   "page": "items/consumables/consumable-potion-mana-t5-3087876.md",
+   "json": "items/consumables/consumable-potion-mana-t5-3087876.json"
+  },
+  {
+   "id": 3216582163,
+   "name": "T5 Chain Heal II",
+   "page": "items/ammunition/t5-chain-heal-ii-3216582163.md",
+   "json": "items/ammunition/t5-chain-heal-ii-3216582163.json"
+  },
+  {
+   "id": 961655092,
+   "name": "T5 gentian seedling",
+   "page": "items/buildtools/t5-gentian-seedling-961655092.md",
+   "json": "items/buildtools/t5-gentian-seedling-961655092.json"
+  }
+ ],
+ "page": "items/consumables/t5-food-raw-herb-gentian-3779366146.md"
+}

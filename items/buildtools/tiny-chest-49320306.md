@@ -21,4 +21,4 @@ A crude, but easy to craft, storage. It holds space for a few items.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](tiny-chest-49320306.json)

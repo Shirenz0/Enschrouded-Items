@@ -1,0 +1,29 @@
+{
+ "id": 1456389031,
+ "name": "Shape Medium",
+ "internalName": "Building_Decay_Shape_Medium",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1456389031.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/shape-medium.md",
+  "json": "objects/blueprints/shape-medium.json",
+  "versions": 2
+ },
+ "page": "items/blueprints/shape-medium-1456389031.md"
+}

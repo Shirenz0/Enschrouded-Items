@@ -1,0 +1,82 @@
+{
+ "name": "Lupa's scalper",
+ "category": "Weapons",
+ "image": "images/icons/3548335929.png",
+ "versions": 6,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 2387592374,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2387592374.png",
+   "page": "items/weapons/lupa-s-scalper-2387592374.md",
+   "json": "items/weapons/lupa-s-scalper-2387592374.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1019461234,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1019461234.png",
+   "page": "items/weapons/lupa-s-scalper-1019461234.md",
+   "json": "items/weapons/lupa-s-scalper-1019461234.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 552284259,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/552284259.png",
+   "page": "items/weapons/lupa-s-scalper-552284259.md",
+   "json": "items/weapons/lupa-s-scalper-552284259.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2432243778,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2432243778.png",
+   "page": "items/weapons/lupa-s-scalper-2432243778.md",
+   "json": "items/weapons/lupa-s-scalper-2432243778.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 863684883,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/863684883.png",
+   "page": "items/weapons/lupa-s-scalper-863684883.md",
+   "json": "items/weapons/lupa-s-scalper-863684883.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3548335929,
+   "name": "Lupa's scalper",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3548335929.png",
+   "page": "items/weapons/lupa-s-scalper-3548335929.md",
+   "json": "items/weapons/lupa-s-scalper-3548335929.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/lupa-s-scalper.md"
+}

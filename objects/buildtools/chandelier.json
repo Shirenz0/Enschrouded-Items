@@ -1,0 +1,47 @@
+{
+ "name": "Chandelier",
+ "category": "BuildTools",
+ "image": "images/icons/4178847220.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1464322006,
+   "name": "Chandelier",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1464322006.png",
+   "page": "items/buildtools/chandelier-1464322006.md",
+   "json": "items/buildtools/chandelier-1464322006.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3129268711,
+   "name": "Chandelier",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3129268711.png",
+   "page": "items/buildtools/chandelier-3129268711.md",
+   "json": "items/buildtools/chandelier-3129268711.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 4178847220,
+   "name": "Chandelier",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4178847220.png",
+   "page": "items/buildtools/chandelier-4178847220.md",
+   "json": "items/buildtools/chandelier-4178847220.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/chandelier.md"
+}

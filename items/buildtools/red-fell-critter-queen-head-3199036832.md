@@ -31,4 +31,4 @@ A severed Red Fell Critter Queen Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](red-fell-critter-queen-head-3199036832.json)

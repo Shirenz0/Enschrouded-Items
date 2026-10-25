@@ -1,0 +1,70 @@
+{
+ "id": 3695950981,
+ "name": "T4 Cupboard large",
+ "internalName": "Prop_Decoration_T4_Cupboard_large",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3695950981.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 509731672,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 16,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 16,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t4-cupboard-large-3695950981.md"
+}

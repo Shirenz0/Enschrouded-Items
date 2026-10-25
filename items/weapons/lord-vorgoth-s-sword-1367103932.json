@@ -1,0 +1,121 @@
+{
+ "id": 1367103932,
+ "name": "Lord Vorgoth's Sword",
+ "internalName": "Craft_Weapon_T7_2H_Lore_GreatSwordEpic_Ministory_20",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/1367103932.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/lord-vorgoth-s-sword.md",
+  "json": "objects/weapons/lord-vorgoth-s-sword.json",
+  "versions": 3
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Brutal",
+   "effect": "+22 Brutal"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2285565393,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/lord-vorgoth-s-sword-1367103932.md"
+}

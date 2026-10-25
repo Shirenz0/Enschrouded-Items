@@ -1,0 +1,69 @@
+{
+ "id": 2032176232,
+ "name": "T7 Eternal Mana Leech Beam VIII",
+ "internalName": "Ammo_T7_Spell_ManaLeechBeam_Channel_lvl47",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 47,
+  "max": 47
+ },
+ "maxStack": 1,
+ "image": "images/icons/2032176232.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical Beam that leeches Mana from enemies without dealing damage to them.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 28,
+    "display": "28",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2885537089,
+   "station": null,
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-mana-leech-beam-viii-2032176232.md"
+}

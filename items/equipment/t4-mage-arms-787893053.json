@@ -1,0 +1,77 @@
+{
+ "id": 787893053,
+ "name": "T4 Mage Arms",
+ "internalName": "Armor_T4_Mage_Wizard_DPS_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/787893053.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Worn by the most talented, renowned and successful mages of the kingdom.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-mage-arms.md",
+  "json": "objects/equipment/t4-mage-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Staff Damage",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Magical Foes",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Quick Charge",
+   "effect": "Increases the skill level of Quick Charge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Arsonist",
+   "effect": "Increases the skill level of Arsonist by +1"
+  }
+ ],
+ "page": "items/equipment/t4-mage-arms-787893053.md"
+}

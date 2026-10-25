@@ -1,0 +1,43 @@
+{
+ "id": 447697249,
+ "name": "Road Dirt",
+ "internalName": "Build_TerrainMaterial_T1_Road_Dirt_1",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/447697249.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Simple Dirt road",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3259708237,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/road-dirt-447697249.md"
+}

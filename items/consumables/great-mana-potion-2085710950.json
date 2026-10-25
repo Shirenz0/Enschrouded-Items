@@ -1,0 +1,70 @@
+{
+ "id": 2085710950,
+ "name": "Great Mana Potion",
+ "internalName": "Consumable_Potion_Mana_T3",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2085710950.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Higher concentrated Mana Potion, instantly restoring a great amount of Mana upon use.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 150,
+    "display": "150",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3593783071,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1304815894,
+      "name": "Azure Russula",
+      "page": "items/consumables/azure-russula-1304815894.md",
+      "json": "items/consumables/azure-russula-1304815894.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4065514205,
+   "name": "Great Mana Potion improved",
+   "page": "items/consumables/great-mana-potion-improved-4065514205.md",
+   "json": "items/consumables/great-mana-potion-improved-4065514205.json"
+  }
+ ],
+ "page": "items/consumables/great-mana-potion-2085710950.md"
+}

@@ -1,0 +1,73 @@
+{
+ "id": 1109330340,
+ "name": "T4 Warrior Helmet",
+ "internalName": "Armor_T4_Warrior_Brawler_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1109330340.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It's said that the original owner of this helmet wore it in order to hide his hideously deformed face.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Melee Strike Chance",
+    "value": 11,
+    "display": "11",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Unarmed Melee",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Battle Heal",
+   "effect": "Increases the skill level of Battle Heal by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+12 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Battle Heal",
+   "effect": "Increases the skill level of Battle Heal by +1"
+  }
+ ],
+ "page": "items/equipment/t4-warrior-helmet-1109330340.md"
+}

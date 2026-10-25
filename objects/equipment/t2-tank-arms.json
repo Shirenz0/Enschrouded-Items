@@ -1,0 +1,35 @@
+{
+ "name": "T2 Tank Arms",
+ "category": "Equipment",
+ "image": "images/icons/562817724.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1113469647,
+   "name": "T2 Tank Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1113469647.png",
+   "page": "items/equipment/t2-tank-arms-1113469647.md",
+   "json": "items/equipment/t2-tank-arms-1113469647.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 562817724,
+   "name": "T2 Tank Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/562817724.png",
+   "page": "items/equipment/t2-tank-arms-562817724.md",
+   "json": "items/equipment/t2-tank-arms-562817724.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-tank-arms.md"
+}

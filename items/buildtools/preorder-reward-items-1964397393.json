@@ -1,0 +1,25 @@
+{
+ "id": 1964397393,
+ "name": "PreOrder Reward Items",
+ "internalName": "Prop_DLCDelivery_PreOrderReward_Container_UNUSED",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1964397393.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Find all Items for the PreOrder Rewards here.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/preorder-reward-items-1964397393.md"
+}

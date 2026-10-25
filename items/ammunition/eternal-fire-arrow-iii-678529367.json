@@ -1,0 +1,102 @@
+{
+ "id": 678529367,
+ "name": "Eternal Fire Arrow III",
+ "internalName": "Ammo_T7_Arrow_Magic_Fire_Eternal_lvl45",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/678529367.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal Fire Arrow desc",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 38,
+    "display": "38",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-6 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-6 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+2 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Blazing",
+   "effect": "+10 Blazing"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 108815807,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2670118573,
+      "name": "Ancient/Archaic Infusion",
+      "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+      "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 25,
+     "item": {
+      "id": 234899173,
+      "name": "Magma Gel",
+      "page": "items/materials/magma-gel-234899173.md",
+      "json": "items/materials/magma-gel-234899173.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/eternal-fire-arrow-iii-678529367.md"
+}

@@ -1,0 +1,73 @@
+{
+ "id": 3186603067,
+ "name": "T4 Skeleton helmet",
+ "internalName": "Armor_T4_MultiClass_SkeletonArmor_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3186603067.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "skeleton armor helmet desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Strike Chance",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 13,
+    "display": "13",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Ice Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Bone to Ash",
+   "effect": "Increases the skill level of Bone to Ash by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Bone to Ash",
+   "effect": "Increases the skill level of Bone to Ash by +1"
+  },
+  {
+   "order": 5,
+   "name": "All Physical Blunt Damage",
+   "effect": "+5 All Physical Blunt Damage"
+  }
+ ],
+ "page": "items/equipment/t4-skeleton-helmet-3186603067.md"
+}

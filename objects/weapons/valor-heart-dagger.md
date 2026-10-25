@@ -22,4 +22,4 @@ A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. I
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](valor-heart-dagger.json)

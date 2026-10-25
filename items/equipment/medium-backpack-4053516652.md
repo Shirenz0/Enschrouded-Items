@@ -26,4 +26,4 @@ An extension to your backpack that increases your inventory by a measurable amou
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](medium-backpack-4053516652.json)

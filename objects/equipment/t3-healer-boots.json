@@ -1,0 +1,35 @@
+{
+ "name": "T3 Healer Boots",
+ "category": "Equipment",
+ "image": "images/icons/3902182454.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1977989355,
+   "name": "T3 Healer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1977989355.png",
+   "page": "items/equipment/t3-healer-boots-1977989355.md",
+   "json": "items/equipment/t3-healer-boots-1977989355.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3902182454,
+   "name": "T3 Healer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3902182454.png",
+   "page": "items/equipment/t3-healer-boots-3902182454.md",
+   "json": "items/equipment/t3-healer-boots-3902182454.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-healer-boots.md"
+}

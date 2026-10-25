@@ -1,0 +1,61 @@
+{
+ "id": 308070755,
+ "name": "Vault Door",
+ "internalName": "_Prop_Decoration_T5_Door_Vault_Round",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/308070755.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 63506280,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/vault-door-308070755.md"
+}

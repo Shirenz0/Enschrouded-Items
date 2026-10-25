@@ -1,0 +1,67 @@
+{
+ "id": 4180130855,
+ "name": "St. John's Wort",
+ "internalName": "Food_T1_raw_herb_StJohnsWort",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/4180130855.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A beautfiul yellow flower with magical properties that increases the users mana.",
+ "lore": null,
+ "whereToFind": "Springlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 600000,
+    "display": "10:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1899806950,
+   "name": "T1 Heal Channel I",
+   "page": "items/ammunition/t1-heal-channel-i-1899806950.md",
+   "json": "items/ammunition/t1-heal-channel-i-1899806950.json"
+  },
+  {
+   "id": 2762446918,
+   "name": "St Johns Worth Seedling",
+   "page": "items/buildtools/st-johns-worth-seedling-2762446918.md",
+   "json": "items/buildtools/st-johns-worth-seedling-2762446918.json"
+  },
+  {
+   "id": 2154839974,
+   "name": "Bait Sand Digger",
+   "page": "items/buildtools/bait-sand-digger-2154839974.md",
+   "json": "items/buildtools/bait-sand-digger-2154839974.json"
+  },
+  {
+   "id": 439541859,
+   "name": "Flower Wreath",
+   "page": "items/buildtools/flower-wreath-439541859.md",
+   "json": "items/buildtools/flower-wreath-439541859.json"
+  }
+ ],
+ "page": "items/consumables/st-john-s-wort-4180130855.md"
+}

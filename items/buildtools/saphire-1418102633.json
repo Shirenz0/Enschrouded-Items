@@ -1,0 +1,25 @@
+{
+ "id": 1418102633,
+ "name": "Saphire",
+ "internalName": "Animal_Pet_Cat_03_Bright",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1418102633.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A gleefull little rascal. This cat likes to get into trouble despite it's angelic looks! You can never be too mad, though.",
+ "lore": "Pet",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/saphire-1418102633.md"
+}

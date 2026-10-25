@@ -25,4 +25,4 @@ A wig head that unlocks more haircuts.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](braid-wig-head-867322513.json)

@@ -1,0 +1,122 @@
+{
+ "id": 1977989355,
+ "name": "T3 Healer Boots",
+ "internalName": "Armor_T3_Mage_Healer_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1977989355.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Quickly dash to the rescue in these comfortable and snug boots!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-healer-boots.md",
+  "json": "objects/equipment/t3-healer-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Healing",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+12 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Righteous Fire",
+   "effect": "Increases the skill level of Righteous Fire by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 276142434,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 409810488,
+      "name": "Acidic Shroud",
+      "page": "items/materials/acidic-shroud-409810488.md",
+      "json": "items/materials/acidic-shroud-409810488.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-healer-boots-1977989355.md"
+}

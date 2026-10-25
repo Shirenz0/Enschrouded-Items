@@ -25,4 +25,4 @@ A tome og ancient History presented on an Iron Stand.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](t4-dungeon-bookrest-3568384766.json)

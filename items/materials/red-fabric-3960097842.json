@@ -1,0 +1,186 @@
+{
+ "id": 3960097842,
+ "name": "Red Fabric",
+ "internalName": "Material_T4_Fabric_Red",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/3960097842.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Red - the color of the flame fitting for a flameborn!",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3546468094,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3024345321,
+   "name": "Heart Pillow",
+   "page": "items/buildtools/heart-pillow-3024345321.md",
+   "json": "items/buildtools/heart-pillow-3024345321.json"
+  },
+  {
+   "id": 888761991,
+   "name": "Hophare Pillow",
+   "page": "items/buildtools/hophare-pillow-888761991.md",
+   "json": "items/buildtools/hophare-pillow-888761991.json"
+  },
+  {
+   "id": 1936163292,
+   "name": "Fae Deer Pillow",
+   "page": "items/buildtools/fae-deer-pillow-1936163292.md",
+   "json": "items/buildtools/fae-deer-pillow-1936163292.json"
+  },
+  {
+   "id": 3063700121,
+   "name": "Cylindrical Pillow",
+   "page": "items/buildtools/cylindrical-pillow-3063700121.md",
+   "json": "items/buildtools/cylindrical-pillow-3063700121.json"
+  },
+  {
+   "id": 595694028,
+   "name": "Horizontal Banner I",
+   "page": "items/buildtools/horizontal-banner-i-595694028.md",
+   "json": "items/buildtools/horizontal-banner-i-595694028.json"
+  },
+  {
+   "id": 215344206,
+   "name": "Horizontal Banner II",
+   "page": "items/buildtools/horizontal-banner-ii-215344206.md",
+   "json": "items/buildtools/horizontal-banner-ii-215344206.json"
+  },
+  {
+   "id": 1847513367,
+   "name": "Vertical Banner I",
+   "page": "items/buildtools/vertical-banner-i-1847513367.md",
+   "json": "items/buildtools/vertical-banner-i-1847513367.json"
+  },
+  {
+   "id": 3490053092,
+   "name": "Vertical Banner II",
+   "page": "items/buildtools/vertical-banner-ii-3490053092.md",
+   "json": "items/buildtools/vertical-banner-ii-3490053092.json"
+  },
+  {
+   "id": 3492878315,
+   "name": "Vertical Banner III",
+   "page": "items/buildtools/vertical-banner-iii-3492878315.md",
+   "json": "items/buildtools/vertical-banner-iii-3492878315.json"
+  },
+  {
+   "id": 3401744803,
+   "name": "Vertical Banner IV",
+   "page": "items/buildtools/vertical-banner-iv-3401744803.md",
+   "json": "items/buildtools/vertical-banner-iv-3401744803.json"
+  },
+  {
+   "id": 2717313341,
+   "name": "Red Wall Banner",
+   "page": "items/buildtools/red-wall-banner-2717313341.md",
+   "json": "items/buildtools/red-wall-banner-2717313341.json"
+  },
+  {
+   "id": 267045293,
+   "name": "Big Red Wall Banner",
+   "page": "items/buildtools/big-red-wall-banner-267045293.md",
+   "json": "items/buildtools/big-red-wall-banner-267045293.json"
+  },
+  {
+   "id": 32887851,
+   "name": "Flag Pole I",
+   "page": "items/buildtools/flag-pole-i-32887851.md",
+   "json": "items/buildtools/flag-pole-i-32887851.json"
+  },
+  {
+   "id": 1596806993,
+   "name": "Flag Pole II",
+   "page": "items/buildtools/flag-pole-ii-1596806993.md",
+   "json": "items/buildtools/flag-pole-ii-1596806993.json"
+  },
+  {
+   "id": 383915057,
+   "name": "Flag Pole III",
+   "page": "items/buildtools/flag-pole-iii-383915057.md",
+   "json": "items/buildtools/flag-pole-iii-383915057.json"
+  },
+  {
+   "id": 2344368210,
+   "name": "Flag Pole V",
+   "page": "items/buildtools/flag-pole-v-2344368210.md",
+   "json": "items/buildtools/flag-pole-v-2344368210.json"
+  },
+  {
+   "id": 3929204963,
+   "name": "Flag Pole IV",
+   "page": "items/buildtools/flag-pole-iv-3929204963.md",
+   "json": "items/buildtools/flag-pole-iv-3929204963.json"
+  },
+  {
+   "id": 3078925869,
+   "name": "Flag Pole VI",
+   "page": "items/buildtools/flag-pole-vi-3078925869.md",
+   "json": "items/buildtools/flag-pole-vi-3078925869.json"
+  },
+  {
+   "id": 4097150814,
+   "name": "Decorative Bells III",
+   "page": "items/buildtools/decorative-bells-iii-4097150814.md",
+   "json": "items/buildtools/decorative-bells-iii-4097150814.json"
+  },
+  {
+   "id": 2945317938,
+   "name": "Decorative Bells II",
+   "page": "items/buildtools/decorative-bells-ii-2945317938.md",
+   "json": "items/buildtools/decorative-bells-ii-2945317938.json"
+  },
+  {
+   "id": 1244709120,
+   "name": "Decorative Bells I",
+   "page": "items/buildtools/decorative-bells-i-1244709120.md",
+   "json": "items/buildtools/decorative-bells-i-1244709120.json"
+  },
+  {
+   "id": 3734612767,
+   "name": "Party Hat III",
+   "page": "items/equipment/party-hat-iii-3734612767.md",
+   "json": "items/equipment/party-hat-iii-3734612767.json"
+  }
+ ],
+ "page": "items/materials/red-fabric-3960097842.md"
+}

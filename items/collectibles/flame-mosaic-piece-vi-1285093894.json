@@ -1,0 +1,25 @@
+{
+ "id": 1285093894,
+ "name": "Flame Mosaic Piece VI",
+ "internalName": "Collection_mosaics_01_flame_piece6",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1285093894.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Placeholder Description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/flame-mosaic-piece-vi-1285093894.md"
+}

@@ -21,4 +21,4 @@ Skeleton T7 Boss Head des
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](skeleton-t7-boss-head-2573714663.json)

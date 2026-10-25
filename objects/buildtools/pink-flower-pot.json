@@ -1,0 +1,76 @@
+{
+ "name": "Pink Flower Pot",
+ "category": "BuildTools",
+ "image": "images/icons/4272163256.png",
+ "versions": 5,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1682046505,
+   "name": "Pink Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1682046505.png",
+   "page": "items/buildtools/pink-flower-pot-1682046505.md",
+   "json": "items/buildtools/pink-flower-pot-1682046505.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2741207192,
+   "name": "Pink Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2741207192.png",
+   "page": "items/buildtools/pink-flower-pot-2741207192.md",
+   "json": "items/buildtools/pink-flower-pot-2741207192.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2927706943,
+   "name": "Pink Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2927706943.png",
+   "page": "items/buildtools/pink-flower-pot-2927706943.md",
+   "json": "items/buildtools/pink-flower-pot-2927706943.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 308344880,
+   "name": "Pink Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/308344880.png",
+   "page": "items/buildtools/pink-flower-pot-308344880.md",
+   "json": "items/buildtools/pink-flower-pot-308344880.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 4272163256,
+   "name": "Pink Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4272163256.png",
+   "page": "items/buildtools/pink-flower-pot-4272163256.md",
+   "json": "items/buildtools/pink-flower-pot-4272163256.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/pink-flower-pot.md"
+}

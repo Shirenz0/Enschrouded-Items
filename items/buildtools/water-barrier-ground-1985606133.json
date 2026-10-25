@@ -1,0 +1,52 @@
+{
+ "id": 1985606133,
+ "name": "Water Barrier Ground",
+ "internalName": "Prop_WaterBarrier_4m_Medium_Ground",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1985606133.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A water barrier that uses some magic",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2137777625,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/water-barrier-ground-1985606133.md"
+}

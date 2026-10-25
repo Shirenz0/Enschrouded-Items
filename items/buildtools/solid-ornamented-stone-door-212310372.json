@@ -1,0 +1,69 @@
+{
+ "id": 212310372,
+ "name": "Solid Ornamented Stone Door",
+ "internalName": "Prop_Decoration_T3_Door_Solid_Ornamented_Stone",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/212310372.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3825264468,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 693578082,
+   "name": "Ornamented Stone Double Door",
+   "page": "items/buildtools/ornamented-stone-double-door-693578082.md",
+   "json": "items/buildtools/ornamented-stone-double-door-693578082.json"
+  }
+ ],
+ "page": "items/buildtools/solid-ornamented-stone-door-212310372.md"
+}

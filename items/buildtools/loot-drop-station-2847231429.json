@@ -1,0 +1,61 @@
+{
+ "id": 2847231429,
+ "name": "Loot Drop Station",
+ "internalName": "Prop_Storage_Loot_Drop_Station_16x16",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2847231429.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This Loot Drop Station can be used to drop items from your backpack to matching items stacks in magic chests within range. Magic chests need to be placed in a 16x16m range.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 815269409,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1528590138,
+      "name": "Fog Core",
+      "page": "items/materials/fog-core-1528590138.md",
+      "json": "items/materials/fog-core-1528590138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1181280513,
+      "name": "Deepforest Stone",
+      "page": "items/materials/deepforest-stone-1181280513.md",
+      "json": "items/materials/deepforest-stone-1181280513.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/loot-drop-station-2847231429.md"
+}

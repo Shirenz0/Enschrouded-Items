@@ -25,4 +25,4 @@ A wig head that unlocks more haircuts.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](afro-wig-head-3652154887.json)

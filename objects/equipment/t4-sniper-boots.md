@@ -17,4 +17,4 @@ Boots which are perfect for keeping a stable stance while aiming, shooting, and 
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-sniper-boots.json)

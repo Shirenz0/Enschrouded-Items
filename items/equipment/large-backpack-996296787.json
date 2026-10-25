@@ -1,0 +1,67 @@
+{
+ "id": 996296787,
+ "name": "Large Backpack",
+ "internalName": "Backpack_T3_NEW",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/996296787.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Backpack t3  NEW Copy from old one",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/large-backpack.md",
+  "json": "objects/equipment/large-backpack.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Backpack",
+  "values": [
+   {
+    "label": "Slots",
+    "value": 32,
+    "display": "32",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1178762891,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/large-backpack-996296787.md"
+}

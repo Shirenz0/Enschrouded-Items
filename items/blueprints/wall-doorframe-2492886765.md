@@ -15,4 +15,4 @@ One of 3 versions of this item: see [Wall Doorframe](../../objects/blueprints/wa
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](wall-doorframe-2492886765.json)

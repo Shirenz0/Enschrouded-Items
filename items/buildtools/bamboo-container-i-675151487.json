@@ -1,0 +1,70 @@
+{
+ "id": 675151487,
+ "name": "Bamboo Container I",
+ "internalName": "Prop_Decoration_T6_Container_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/675151487.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4209916013,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1026141130,
+      "name": "Paper Reed",
+      "page": "items/materials/paper-reed-1026141130.md",
+      "json": "items/materials/paper-reed-1026141130.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 521230189,
+      "name": "Palm Leaves",
+      "page": "items/materials/palm-leaves-521230189.md",
+      "json": "items/materials/palm-leaves-521230189.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1381084162,
+      "name": "Bamboo Logs",
+      "page": "items/materials/bamboo-logs-1381084162.md",
+      "json": "items/materials/bamboo-logs-1381084162.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/bamboo-container-i-675151487.md"
+}

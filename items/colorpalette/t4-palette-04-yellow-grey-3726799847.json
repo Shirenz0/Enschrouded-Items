@@ -1,0 +1,70 @@
+{
+ "id": 3726799847,
+ "name": "T4 Palette 04 yellow Grey",
+ "internalName": "ColorPalette_T4_ColorPalette_04",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3726799847.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t4 palette yellow gray",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3776618003,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2206878080,
+      "name": "Nitrate",
+      "page": "items/materials/nitrate-2206878080.md",
+      "json": "items/materials/nitrate-2206878080.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4091795277,
+      "name": "Brittle Shroud Flakes",
+      "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+      "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t4-palette-04-yellow-grey-3726799847.md"
+}

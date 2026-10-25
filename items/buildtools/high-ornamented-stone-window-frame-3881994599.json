@@ -1,0 +1,43 @@
+{
+ "id": 3881994599,
+ "name": "High Ornamented Stone Window Frame",
+ "internalName": "Prop_Decoration_T3_Window_Ornamented_Stone_Frame_High",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3881994599.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3434795814,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/high-ornamented-stone-window-frame-3881994599.md"
+}

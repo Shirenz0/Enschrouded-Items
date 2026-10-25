@@ -1,0 +1,37 @@
+{
+ "name": "Wall Lantern",
+ "category": "BuildTools",
+ "image": "images/icons/3019273830.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "lore"
+ ],
+ "items": [
+  {
+   "id": 2560383707,
+   "name": "Wall Lantern",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2560383707.png",
+   "page": "items/buildtools/wall-lantern-2560383707.md",
+   "json": "items/buildtools/wall-lantern-2560383707.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3019273830,
+   "name": "Wall Lantern",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3019273830.png",
+   "page": "items/buildtools/wall-lantern-3019273830.md",
+   "json": "items/buildtools/wall-lantern-3019273830.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/wall-lantern.md"
+}

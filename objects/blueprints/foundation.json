@@ -1,0 +1,33 @@
+{
+ "name": "Foundation",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3828821633,
+   "name": "Foundation",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/foundation-3828821633.md",
+   "json": "items/blueprints/foundation-3828821633.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 950598916,
+   "name": "Foundation",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/foundation-950598916.md",
+   "json": "items/blueprints/foundation-950598916.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/foundation.md"
+}

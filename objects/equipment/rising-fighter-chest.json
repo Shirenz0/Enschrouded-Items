@@ -1,0 +1,35 @@
+{
+ "name": "Rising Fighter Chest",
+ "category": "Equipment",
+ "image": "images/icons/2937561739.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2051116629,
+   "name": "Rising Fighter Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2051116629.png",
+   "page": "items/equipment/rising-fighter-chest-2051116629.md",
+   "json": "items/equipment/rising-fighter-chest-2051116629.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2937561739,
+   "name": "Rising Fighter Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2937561739.png",
+   "page": "items/equipment/rising-fighter-chest-2937561739.md",
+   "json": "items/equipment/rising-fighter-chest-2937561739.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/rising-fighter-chest.md"
+}

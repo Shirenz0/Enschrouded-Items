@@ -1,0 +1,29 @@
+{
+ "id": 697485895,
+ "name": "Exeptional Hang-Drum",
+ "internalName": "Instrument_Hangdrum_Epic",
+ "category": {
+  "id": "Instrument",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/697485895.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An epic hang drum is a hand-played steel instrument whose gentle tones spread like ripples across still water.",
+ "lore": "Instruments",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "comfort": 3
+ },
+ "page": "items/buildtools/exeptional-hang-drum-697485895.md"
+}

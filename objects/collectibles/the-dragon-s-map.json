@@ -1,0 +1,40 @@
+{
+ "name": "The Dragon's Map",
+ "category": "Collectibles",
+ "image": "images/icons/3491672504.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "max stack",
+  "lore"
+ ],
+ "items": [
+  {
+   "id": 2381061644,
+   "name": "The Dragon's Map",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2381061644.png",
+   "page": "items/collectibles/the-dragon-s-map-2381061644.md",
+   "json": "items/collectibles/the-dragon-s-map-2381061644.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3491672504,
+   "name": "The Dragon's Map",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3491672504.png",
+   "page": "items/collectibles/the-dragon-s-map-3491672504.md",
+   "json": "items/collectibles/the-dragon-s-map-3491672504.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "lore"
+   ]
+  }
+ ],
+ "page": "objects/collectibles/the-dragon-s-map.md"
+}

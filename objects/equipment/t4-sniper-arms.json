@@ -1,0 +1,35 @@
+{
+ "name": "T4 Sniper Arms",
+ "category": "Equipment",
+ "image": "images/icons/3073964148.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2398113532,
+   "name": "T4 Sniper Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2398113532.png",
+   "page": "items/equipment/t4-sniper-arms-2398113532.md",
+   "json": "items/equipment/t4-sniper-arms-2398113532.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3073964148,
+   "name": "T4 Sniper Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3073964148.png",
+   "page": "items/equipment/t4-sniper-arms-3073964148.md",
+   "json": "items/equipment/t4-sniper-arms-3073964148.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-sniper-arms.md"
+}

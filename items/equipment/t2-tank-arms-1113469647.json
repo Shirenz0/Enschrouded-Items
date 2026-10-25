@@ -1,0 +1,116 @@
+{
+ "id": 1113469647,
+ "name": "T2 Tank Arms",
+ "internalName": "Armor_T2_Warrior_Tank_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1113469647.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Metal plated gloves which protect the hands during a brawl.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-tank-arms.md",
+  "json": "objects/equipment/t2-tank-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Block",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1934769002,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1728169696,
+      "name": "Fog Sack",
+      "page": "items/materials/fog-sack-1728169696.md",
+      "json": "items/materials/fog-sack-1728169696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-tank-arms-1113469647.md"
+}

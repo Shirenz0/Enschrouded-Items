@@ -1,0 +1,85 @@
+{
+ "id": 3841156584,
+ "name": "T4b Warrior Boots",
+ "internalName": "Armor_T5-TX_Warrior_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 30,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3841156584.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Expertly crafted boots which are embelished with flame spouting shields.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Timeout Reduction",
+    "value": -400,
+    "display": "-0.4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 90000,
+    "display": "1:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fire Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Vital",
+   "effect": "+15 Vital"
+  },
+  {
+   "order": 3,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  },
+  {
+   "order": 4,
+   "name": "Ice Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Earth Aura",
+   "effect": "Increases the skill level of Earth Aura by +1"
+  }
+ ],
+ "page": "items/equipment/t4b-warrior-boots-3841156584.md"
+}

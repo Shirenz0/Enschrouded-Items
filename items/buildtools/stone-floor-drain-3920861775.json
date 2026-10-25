@@ -1,0 +1,43 @@
+{
+ "id": 3920861775,
+ "name": "Stone Floor Drain",
+ "internalName": "Prop_WaterDrain_Stone_Floor",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3920861775.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Place this Drain on the Floor and it will suck in all water, that is placed above.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1480437413,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/stone-floor-drain-3920861775.md"
+}

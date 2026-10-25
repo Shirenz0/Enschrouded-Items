@@ -1,0 +1,219 @@
+{
+ "id": 2982735558,
+ "name": "Bonemeal",
+ "internalName": "Material_T1_Bonemeal",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/2982735558.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Pounded bones - useful for alchemical and magical purposes.",
+ "lore": null,
+ "whereToFind": "Crafting, Hand Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3623488598,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 386738695,
+   "name": "Ice Protection Lotion",
+   "page": "items/consumables/ice-protection-lotion-386738695.md",
+   "json": "items/consumables/ice-protection-lotion-386738695.json"
+  },
+  {
+   "id": 3918049792,
+   "name": "T1 Fireball I",
+   "page": "items/ammunition/t1-fireball-i-3918049792.md",
+   "json": "items/ammunition/t1-fireball-i-3918049792.json"
+  },
+  {
+   "id": 1899806950,
+   "name": "T1 Heal Channel I",
+   "page": "items/ammunition/t1-heal-channel-i-1899806950.md",
+   "json": "items/ammunition/t1-heal-channel-i-1899806950.json"
+  },
+  {
+   "id": 3878494540,
+   "name": "T2 Chain Heal I",
+   "page": "items/ammunition/t2-chain-heal-i-3878494540.md",
+   "json": "items/ammunition/t2-chain-heal-i-3878494540.json"
+  },
+  {
+   "id": 1048548069,
+   "name": "T2 Chain Lightning I",
+   "page": "items/ammunition/t2-chain-lightning-i-1048548069.md",
+   "json": "items/ammunition/t2-chain-lightning-i-1048548069.json"
+  },
+  {
+   "id": 1735403844,
+   "name": "T3 Ball Lightning",
+   "page": "items/ammunition/t3-ball-lightning-1735403844.md",
+   "json": "items/ammunition/t3-ball-lightning-1735403844.json"
+  },
+  {
+   "id": 4044132453,
+   "name": "T3 Shock Totem I",
+   "page": "items/ammunition/t3-shock-totem-i-4044132453.md",
+   "json": "items/ammunition/t3-shock-totem-i-4044132453.json"
+  },
+  {
+   "id": 1596935538,
+   "name": "Skull Summoning Vessel",
+   "page": "items/weapons/skull-summoning-vessel-1596935538.md",
+   "json": "items/weapons/skull-summoning-vessel-1596935538.json"
+  },
+  {
+   "id": 305542871,
+   "name": "Skull companion Level 20",
+   "page": "items/weapons/skull-companion-level-20-305542871.md",
+   "json": "items/weapons/skull-companion-level-20-305542871.json"
+  },
+  {
+   "id": 1105258830,
+   "name": "Skull companion Level 15",
+   "page": "items/weapons/skull-companion-level-15-1105258830.md",
+   "json": "items/weapons/skull-companion-level-15-1105258830.json"
+  },
+  {
+   "id": 3124613974,
+   "name": "Skull Companion",
+   "page": "items/weapons/skull-companion-3124613974.md",
+   "json": "items/weapons/skull-companion-3124613974.json"
+  },
+  {
+   "id": 751481953,
+   "name": "Penny Bun Seedling",
+   "page": "items/buildtools/penny-bun-seedling-751481953.md",
+   "json": "items/buildtools/penny-bun-seedling-751481953.json"
+  },
+  {
+   "id": 4018682338,
+   "name": "Sage Seedling",
+   "page": "items/buildtools/sage-seedling-4018682338.md",
+   "json": "items/buildtools/sage-seedling-4018682338.json"
+  },
+  {
+   "id": 2762446918,
+   "name": "St Johns Worth Seedling",
+   "page": "items/buildtools/st-johns-worth-seedling-2762446918.md",
+   "json": "items/buildtools/st-johns-worth-seedling-2762446918.json"
+  },
+  {
+   "id": 468594079,
+   "name": "T5 Palette 03 Pink and Grey",
+   "page": "items/colorpalette/t5-palette-03-pink-and-grey-468594079.md",
+   "json": "items/colorpalette/t5-palette-03-pink-and-grey-468594079.json"
+  },
+  {
+   "id": 103217131,
+   "name": "T1 Palette 03 Brown dark grey",
+   "page": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.md",
+   "json": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.json"
+  },
+  {
+   "id": 51104213,
+   "name": "T1 Palette 02 Grey Brown",
+   "page": "items/colorpalette/t1-palette-02-grey-brown-51104213.md",
+   "json": "items/colorpalette/t1-palette-02-grey-brown-51104213.json"
+  },
+  {
+   "id": 3953523416,
+   "name": "Krypt Krystal",
+   "page": "items/materials/krypt-krystal-3953523416.md",
+   "json": "items/materials/krypt-krystal-3953523416.json"
+  },
+  {
+   "id": 968828649,
+   "name": "Tbd T1 Palette 01 Reward A Fancy Outlook",
+   "page": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.md",
+   "json": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.json"
+  },
+  {
+   "id": 3962501836,
+   "name": "Glow Dirt WarmWhite",
+   "page": "items/materials/glow-dirt-warmwhite-3962501836.md",
+   "json": "items/materials/glow-dirt-warmwhite-3962501836.json"
+  },
+  {
+   "id": 2195022120,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-2195022120.md",
+   "json": "items/weapons/t1-lore-wand-2195022120.json"
+  },
+  {
+   "id": 3536356032,
+   "name": "Spiritual Cane",
+   "page": "items/weapons/spiritual-cane-3536356032.md",
+   "json": "items/weapons/spiritual-cane-3536356032.json"
+  },
+  {
+   "id": 201987856,
+   "name": "Spectral Shield",
+   "page": "items/equipment/spectral-shield-201987856.md",
+   "json": "items/equipment/spectral-shield-201987856.json"
+  },
+  {
+   "id": 2554999858,
+   "name": "Alchemist Apprentice Trousers",
+   "page": "items/equipment/alchemist-apprentice-trousers-2554999858.md",
+   "json": "items/equipment/alchemist-apprentice-trousers-2554999858.json"
+  },
+  {
+   "id": 3303276493,
+   "name": "Alchemist Apprentice Gloves",
+   "page": "items/equipment/alchemist-apprentice-gloves-3303276493.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-3303276493.json"
+  },
+  {
+   "id": 3440719310,
+   "name": "Alchemist Apprentice Chest",
+   "page": "items/equipment/alchemist-apprentice-chest-3440719310.md",
+   "json": "items/equipment/alchemist-apprentice-chest-3440719310.json"
+  },
+  {
+   "id": 1572355779,
+   "name": "Alchemist Apprentice Hat",
+   "page": "items/equipment/alchemist-apprentice-hat-1572355779.md",
+   "json": "items/equipment/alchemist-apprentice-hat-1572355779.json"
+  },
+  {
+   "id": 311508484,
+   "name": "Cauldron",
+   "page": "items/buildtools/cauldron-311508484.md",
+   "json": "items/buildtools/cauldron-311508484.json"
+  },
+  {
+   "id": 1823674426,
+   "name": "Farm Soil",
+   "page": "items/materials/farm-soil-1823674426.md",
+   "json": "items/materials/farm-soil-1823674426.json"
+  }
+ ],
+ "page": "items/materials/bonemeal-2982735558.md"
+}

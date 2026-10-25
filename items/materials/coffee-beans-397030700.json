@@ -1,0 +1,39 @@
+{
+ "id": 397030700,
+ "name": "Coffee Beans",
+ "internalName": "Material_T6_raw_CoffeeBeans",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/397030700.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Raw Coffee Beans, have to be roasted and ground for further use",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3358339224,
+   "name": "Coffee Seedling",
+   "page": "items/buildtools/coffee-seedling-3358339224.md",
+   "json": "items/buildtools/coffee-seedling-3358339224.json"
+  },
+  {
+   "id": 3373396030,
+   "name": "Roasted Coffee Beans",
+   "page": "items/materials/roasted-coffee-beans-3373396030.md",
+   "json": "items/materials/roasted-coffee-beans-3373396030.json"
+  }
+ ],
+ "page": "items/materials/coffee-beans-397030700.md"
+}

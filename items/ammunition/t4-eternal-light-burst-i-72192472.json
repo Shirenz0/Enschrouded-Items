@@ -1,0 +1,117 @@
+{
+ "id": 72192472,
+ "name": "T4 Eternal Light Burst I",
+ "internalName": "Ammo_T4_Spell_Fire_Lightburst_lvl20_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/72192472.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A spellstone imbued with the power of the T3 Light Burst spell. Are you in need of a flashlight? Without the use of ammunition, the user is able to infintely flash his surrounding with a bright burst of light, pushing back enemies.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-4 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-4 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 5,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 9435335,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 30,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t4-eternal-light-burst-i-72192472.md"
+}

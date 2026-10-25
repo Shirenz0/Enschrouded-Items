@@ -1,0 +1,32 @@
+{
+ "id": 2273370026,
+ "name": "Jezmina's Yearwake Pants",
+ "internalName": "Vanity_TwitchDrop_T2_springButterfly_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2273370026.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Jezmina's Yearwake pants desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/jezmina-s-yearwake-pants.md",
+  "json": "objects/equipment/jezmina-s-yearwake-pants.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs"
+ },
+ "page": "items/equipment/jezmina-s-yearwake-pants-2273370026.md"
+}

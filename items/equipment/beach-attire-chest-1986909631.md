@@ -25,4 +25,4 @@ BeachAttire chest desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](beach-attire-chest-1986909631.json)

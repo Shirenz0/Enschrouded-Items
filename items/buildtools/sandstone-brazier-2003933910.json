@@ -1,0 +1,86 @@
+{
+ "id": 2003933910,
+ "name": "Sandstone Brazier",
+ "internalName": "Prop_Decoration_Comfort_T4_IlluminationFloor_Brazier",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2003933910.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative Item, which will provide warmth and illumination in its proximitye .\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Hearth",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Hearth",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1657312502,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 9,
+     "item": {
+      "id": 1401630464,
+      "name": "Sandstone",
+      "page": "items/materials/sandstone-1401630464.md",
+      "json": "items/materials/sandstone-1401630464.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/sandstone-brazier-2003933910.md"
+}

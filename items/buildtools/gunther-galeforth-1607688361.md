@@ -21,4 +21,4 @@ A helpful townsfolk that will work and live in your base.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gunther-galeforth-1607688361.json)

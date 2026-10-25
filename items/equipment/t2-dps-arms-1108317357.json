@@ -1,0 +1,116 @@
+{
+ "id": 1108317357,
+ "name": "T2 DPS Arms",
+ "internalName": "Armor_T2_Warrior_DPS_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1108317357.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Sturdy gloves which protect the hands while exploring the thicket.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-dps-arms.md",
+  "json": "objects/equipment/t2-dps-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Melee Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Handed",
+   "effect": "Increases the skill level of Heavy Handed by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3779855308,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 291752398,
+      "name": "Reptile Leather",
+      "page": "items/materials/reptile-leather-291752398.md",
+      "json": "items/materials/reptile-leather-291752398.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1728169696,
+      "name": "Fog Sack",
+      "page": "items/materials/fog-sack-1728169696.md",
+      "json": "items/materials/fog-sack-1728169696.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-dps-arms-1108317357.md"
+}

@@ -1,0 +1,89 @@
+{
+ "id": 3921820605,
+ "name": "High Elegant Armchair",
+ "internalName": "Prop_Decoration_Comfort8_T5_SofaChair02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3921820605.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Chair",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1678212476,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 580338882,
+      "name": "T5 Padding Kit Warm",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 2837376937,
+      "name": "Wool",
+      "page": "items/materials/wool-2837376937.md",
+      "json": "items/materials/wool-2837376937.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1752294708,
+      "name": "T5 Hardened Leather",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/high-elegant-armchair-3921820605.md"
+}

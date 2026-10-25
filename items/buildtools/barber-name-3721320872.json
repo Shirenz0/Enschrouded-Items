@@ -1,0 +1,25 @@
+{
+ "id": 3721320872,
+ "name": "(Barber Name)",
+ "internalName": "NPC_Crafter_Barber01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "Placeholder: The Barber (barber name) allows you to change your appearance.",
+ "lore": "Survivor",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/barber-name-3721320872.md"
+}

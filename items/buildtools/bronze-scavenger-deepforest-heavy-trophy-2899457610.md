@@ -27,4 +27,4 @@ A severed Scavenger Deepforest HeavyHead. Collect multiple to craft the bronze t
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](bronze-scavenger-deepforest-heavy-trophy-2899457610.json)

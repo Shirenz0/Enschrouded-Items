@@ -1,0 +1,66 @@
+{
+ "id": 1125155603,
+ "name": "Bronzen Sword",
+ "internalName": "Weapon_T1_1H_SwordEpic_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1125155603.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A light and swift sword of beautiful color. It gets dull quickly though...",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Vicious",
+   "effect": "+12 Vicious"
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  }
+ ],
+ "page": "items/weapons/bronzen-sword-1125155603.md"
+}

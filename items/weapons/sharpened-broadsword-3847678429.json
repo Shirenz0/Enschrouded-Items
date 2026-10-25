@@ -1,0 +1,66 @@
+{
+ "id": 3847678429,
+ "name": "Sharpened Broadsword",
+ "internalName": "Weapon_T1-TX_1H_Sword_Enemy_Fogger_Soldier",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3847678429.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A broadsword almost too big to be comfortable. The original user must have been a giant of a man.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Scrounging",
+   "effect": "+5 Damage against Scavenger"
+  }
+ ],
+ "page": "items/weapons/sharpened-broadsword-3847678429.md"
+}

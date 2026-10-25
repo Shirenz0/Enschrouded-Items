@@ -17,4 +17,4 @@ Breaches all - flesh, scales, borders.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](breaching-bow.json)

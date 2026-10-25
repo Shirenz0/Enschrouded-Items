@@ -1,0 +1,80 @@
+{
+ "id": 2388891615,
+ "name": "Bandage T5",
+ "internalName": "Consumable_Bandage_T5",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2388891615.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "further improved bandage - wound ointment - silver dust - moss",
+ "lore": "Bandage",
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Healing per second",
+    "value": 7,
+    "display": "7",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4151180898,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 702516473,
+      "name": "T5 Wound Ointment",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3585782303,
+      "name": "Moss",
+      "page": "items/materials/moss-3585782303.md",
+      "json": "items/materials/moss-3585782303.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/bandage-t5-2388891615.md"
+}

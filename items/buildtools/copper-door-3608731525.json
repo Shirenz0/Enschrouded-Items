@@ -1,0 +1,69 @@
+{
+ "id": 3608731525,
+ "name": "Copper Door",
+ "internalName": "Prop_Decoration_T2_Door_Copper",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3608731525.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3522851499,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1181280513,
+      "name": "Deepforest Stone",
+      "page": "items/materials/deepforest-stone-1181280513.md",
+      "json": "items/materials/deepforest-stone-1181280513.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1595396826,
+   "name": "Coppern Double Door",
+   "page": "items/buildtools/coppern-double-door-1595396826.md",
+   "json": "items/buildtools/coppern-double-door-1595396826.json"
+  }
+ ],
+ "page": "items/buildtools/copper-door-3608731525.md"
+}

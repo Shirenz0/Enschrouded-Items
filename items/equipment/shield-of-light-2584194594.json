@@ -1,0 +1,112 @@
+{
+ "id": 2584194594,
+ "name": "Shield of Light",
+ "internalName": "Shield_T4_Tank",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2584194594.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This sacred shield consecrated by the Flame allows you to **block** physical attacks. Blocking drains Stamina.\nFlame Power allows you to stay in the Fog longer.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/shield-of-light.md",
+  "json": "objects/equipment/shield-of-light.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 3,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3475528989,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/shield-of-light-2584194594.md"
+}

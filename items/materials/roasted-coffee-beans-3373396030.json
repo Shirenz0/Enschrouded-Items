@@ -1,0 +1,60 @@
+{
+ "id": 3373396030,
+ "name": "Roasted Coffee Beans",
+ "internalName": "Material_T6_roasted_CoffeeBeans",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/3373396030.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Roasted Coffee Beans, they smell very good but still need to be ground",
+ "lore": null,
+ "whereToFind": "CoffeeDrumRoaster",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4065032035,
+   "station": "Roaster",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 397030700,
+      "name": "Coffee Beans",
+      "page": "items/materials/coffee-beans-397030700.md",
+      "json": "items/materials/coffee-beans-397030700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1358181917,
+   "name": "Ground Coffee Beans",
+   "page": "items/materials/ground-coffee-beans-1358181917.md",
+   "json": "items/materials/ground-coffee-beans-1358181917.json"
+  }
+ ],
+ "page": "items/materials/roasted-coffee-beans-3373396030.md"
+}

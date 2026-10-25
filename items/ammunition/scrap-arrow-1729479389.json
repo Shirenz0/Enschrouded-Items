@@ -1,0 +1,59 @@
+{
+ "id": 1729479389,
+ "name": "Scrap Arrow",
+ "internalName": "Ammo_T1_Arrow_Scrap_lvl10",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 500,
+ "image": "images/icons/1729479389.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A slightly enhanced version of the Wooden Arrow, reinforced with a piece of scrap at the tip.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Cutting": 50,
+   "Piercing": 50
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 545325798,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/scrap-arrow-1729479389.md"
+}

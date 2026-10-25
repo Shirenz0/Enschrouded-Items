@@ -1,0 +1,102 @@
+{
+ "id": 945340556,
+ "name": "Eternal Frost Arrow II",
+ "internalName": "Ammo_T5_Arrow_Magic_Ice_Eternal_lvl28",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 28,
+  "max": 28
+ },
+ "maxStack": 1,
+ "image": "images/icons/945340556.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical arrow that is not used up when shot.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 28,
+    "display": "28",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Glacial",
+   "effect": "+5 Glacial"
+  },
+  {
+   "order": 5,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2407043483,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 4199799645,
+      "name": "T5 Ice",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2861211892,
+      "name": "Evil Cyclops Eye",
+      "page": "items/materials/evil-cyclops-eye-2861211892.md",
+      "json": "items/materials/evil-cyclops-eye-2861211892.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/eternal-frost-arrow-ii-945340556.md"
+}

@@ -1,0 +1,74 @@
+{
+ "id": 2659920887,
+ "name": "T5 Prop Decoration Mirror Large",
+ "internalName": "Prop_Decoration_T5_Mirror_Large",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2659920887.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/t5-prop-decoration-mirror-large.md",
+  "json": "objects/buildtools/t5-prop-decoration-mirror-large.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 3771290661,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3376734441,
+      "name": "T5 Obsidian",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t5-prop-decoration-mirror-large-2659920887.md"
+}

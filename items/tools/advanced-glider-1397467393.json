@@ -1,0 +1,93 @@
+{
+ "id": 1397467393,
+ "name": "Advanced Glider",
+ "internalName": "Tool_Glider_T2",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1397467393.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This glider is lighter and enables you to travel bigger distances.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Glider",
+  "values": [
+   {
+    "label": "Stamina per Second",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Range",
+    "value": 150,
+    "display": "150",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Speed",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1986690656,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 1728169696,
+      "name": "Fog Sack",
+      "page": "items/materials/fog-sack-1728169696.md",
+      "json": "items/materials/fog-sack-1728169696.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/advanced-glider-1397467393.md"
+}

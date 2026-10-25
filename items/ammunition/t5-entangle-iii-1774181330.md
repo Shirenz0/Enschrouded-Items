@@ -32,4 +32,4 @@ Entangling Roots that prevent enemies from moving for a short duration.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t5-entangle-iii-1774181330.json)

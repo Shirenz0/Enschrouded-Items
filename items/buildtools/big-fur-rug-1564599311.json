@@ -1,0 +1,62 @@
+{
+ "id": 1564599311,
+ "name": "Big Fur Rug",
+ "internalName": "Prop_Decoration_Comfort_T2_Floor_Big_Fur",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1564599311.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Flooring",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Carpet",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2850997047,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-fur-rug-1564599311.md"
+}

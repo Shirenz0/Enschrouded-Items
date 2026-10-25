@@ -1,0 +1,49 @@
+{
+ "name": "Big Boss Trophy Dragon",
+ "category": "BuildTools",
+ "image": "images/icons/3355099703.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 78841720,
+   "name": "Big Boss Trophy Dragon",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/78841720.png",
+   "page": "items/buildtools/big-boss-trophy-dragon-78841720.md",
+   "json": "items/buildtools/big-boss-trophy-dragon-78841720.json",
+   "maxStack": 10,
+   "ownTexts": []
+  },
+  {
+   "id": 1887740102,
+   "name": "Big Boss Trophy Dragon",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1887740102.png",
+   "page": "items/buildtools/big-boss-trophy-dragon-1887740102.md",
+   "json": "items/buildtools/big-boss-trophy-dragon-1887740102.json",
+   "maxStack": 10,
+   "ownTexts": []
+  },
+  {
+   "id": 3355099703,
+   "name": "Big Boss Trophy Dragon",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/3355099703.png",
+   "page": "items/buildtools/big-boss-trophy-dragon-3355099703.md",
+   "json": "items/buildtools/big-boss-trophy-dragon-3355099703.json",
+   "maxStack": 10,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/big-boss-trophy-dragon.md"
+}

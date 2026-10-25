@@ -1,0 +1,25 @@
+{
+ "id": 1240116813,
+ "name": "Marianne Reed",
+ "internalName": "NPC_Townsfolk_Female_Villager_02_MarianneReed",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "A helpful townsfolk that will work and live in your base.",
+ "lore": "Villager",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/marianne-reed-1240116813.md"
+}

@@ -1,0 +1,73 @@
+{
+ "id": 48989544,
+ "name": "T4 Warrior Legs",
+ "internalName": "Armor_T4_Warrior_Brawler_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/48989544.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This piece of armor is covered in dust, dried blood and grime. It has seen many years of battle.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Counter Strike",
+   "effect": "Increases the skill level of Counter Strike by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Counter Strike",
+   "effect": "Increases the skill level of Counter Strike by +1"
+  }
+ ],
+ "page": "items/equipment/t4-warrior-legs-48989544.md"
+}

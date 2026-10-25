@@ -1,0 +1,74 @@
+{
+ "id": 3556995300,
+ "name": "Honey Baked Banana with Cashews",
+ "internalName": "Food_T6_dish_sweets_HoneyBanana",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3556995300.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 honey baked banana with cashew desc",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 540000,
+    "display": "9:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 85,
+    "display": "85",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 642990862,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2626897582,
+      "name": "Banana",
+      "page": "items/consumables/banana-2626897582.md",
+      "json": "items/consumables/banana-2626897582.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/honey-baked-banana-with-cashews-3556995300.md"
+}

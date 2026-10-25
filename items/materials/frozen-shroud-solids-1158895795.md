@@ -25,4 +25,4 @@ find in Albaneve Summits Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](frozen-shroud-solids-1158895795.json)

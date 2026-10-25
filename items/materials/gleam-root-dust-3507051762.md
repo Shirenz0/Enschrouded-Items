@@ -29,4 +29,4 @@ Crafting, Improved Grinder
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](gleam-root-dust-3507051762.json)

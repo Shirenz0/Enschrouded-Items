@@ -25,4 +25,4 @@ Crafting, Huntress
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](orange-fabric-2891068633.json)

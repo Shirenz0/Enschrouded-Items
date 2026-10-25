@@ -1,0 +1,110 @@
+{
+ "name": "Beard 05",
+ "category": "Customization",
+ "image": null,
+ "versions": 9,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 122889537,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-122889537.md",
+   "json": "items/customization/beard-05-122889537.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1409790270,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-1409790270.md",
+   "json": "items/customization/beard-05-1409790270.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2446716422,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-2446716422.md",
+   "json": "items/customization/beard-05-2446716422.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3238503535,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-3238503535.md",
+   "json": "items/customization/beard-05-3238503535.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 339561247,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-339561247.md",
+   "json": "items/customization/beard-05-339561247.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 37260002,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-37260002.md",
+   "json": "items/customization/beard-05-37260002.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3821140117,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-3821140117.md",
+   "json": "items/customization/beard-05-3821140117.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 456803383,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-456803383.md",
+   "json": "items/customization/beard-05-456803383.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 688362181,
+   "name": "Beard 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/beard-05-688362181.md",
+   "json": "items/customization/beard-05-688362181.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/beard-05.md"
+}

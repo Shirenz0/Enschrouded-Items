@@ -29,4 +29,4 @@ Skeleton armor twitch drop desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](skeleton-armor-twitch-drop-helmet-3619572274.json)

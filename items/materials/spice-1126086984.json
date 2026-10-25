@@ -1,0 +1,123 @@
+{
+ "id": 1126086984,
+ "name": "Spice",
+ "internalName": "Material_T4_magic_Spice",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/1126086984.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Nobody really knows what it is. They just call it the \"Spice\". It makes food much more delicious though, so it is highly sought after!",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1410005116,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 1172450293,
+      "name": "Shroud Sand",
+      "page": "items/materials/shroud-sand-1172450293.md",
+      "json": "items/materials/shroud-sand-1172450293.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1628543982,
+      "name": "Rooibos",
+      "page": "items/materials/rooibos-1628543982.md",
+      "json": "items/materials/rooibos-1628543982.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1024666423,
+      "name": "Desert Flower",
+      "page": "items/materials/desert-flower-1024666423.md",
+      "json": "items/materials/desert-flower-1024666423.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4124427746,
+   "name": "T6 Taro Root Curry",
+   "page": "items/consumables/t6-taro-root-curry-4124427746.md",
+   "json": "items/consumables/t6-taro-root-curry-4124427746.json"
+  },
+  {
+   "id": 1105965780,
+   "name": "Stir-Fried Vegetables",
+   "page": "items/consumables/stir-fried-vegetables-1105965780.md",
+   "json": "items/consumables/stir-fried-vegetables-1105965780.json"
+  },
+  {
+   "id": 1263589034,
+   "name": "Spiced Tea",
+   "page": "items/consumables/spiced-tea-1263589034.md",
+   "json": "items/consumables/spiced-tea-1263589034.json"
+  },
+  {
+   "id": 2884389562,
+   "name": "Banana Curry",
+   "page": "items/consumables/banana-curry-2884389562.md",
+   "json": "items/consumables/banana-curry-2884389562.json"
+  },
+  {
+   "id": 574360589,
+   "name": "Soup Of Blue Light",
+   "page": "items/consumables/soup-of-blue-light-574360589.md",
+   "json": "items/consumables/soup-of-blue-light-574360589.json"
+  },
+  {
+   "id": 3133483038,
+   "name": "Eternal Shock Arrow I",
+   "page": "items/ammunition/eternal-shock-arrow-i-3133483038.md",
+   "json": "items/ammunition/eternal-shock-arrow-i-3133483038.json"
+  },
+  {
+   "id": 1937493913,
+   "name": "T4 Eternal Shock Wisp I",
+   "page": "items/ammunition/t4-eternal-shock-wisp-i-1937493913.md",
+   "json": "items/ammunition/t4-eternal-shock-wisp-i-1937493913.json"
+  }
+ ],
+ "page": "items/materials/spice-1126086984.md"
+}

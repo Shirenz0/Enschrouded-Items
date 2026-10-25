@@ -29,4 +29,4 @@ Crafting, Improved Grinder
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](piscine-ivory-dust-545888475.json)

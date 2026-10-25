@@ -1,0 +1,35 @@
+{
+ "name": "T4 BattleMage Legs",
+ "category": "Equipment",
+ "image": "images/icons/420053010.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1563449197,
+   "name": "T4 BattleMage Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1563449197.png",
+   "page": "items/equipment/t4-battlemage-legs-1563449197.md",
+   "json": "items/equipment/t4-battlemage-legs-1563449197.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 420053010,
+   "name": "T4 BattleMage Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/420053010.png",
+   "page": "items/equipment/t4-battlemage-legs-420053010.md",
+   "json": "items/equipment/t4-battlemage-legs-420053010.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-battlemage-legs.md"
+}

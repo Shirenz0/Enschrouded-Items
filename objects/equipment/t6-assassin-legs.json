@@ -1,0 +1,35 @@
+{
+ "name": "T6 Assassin Legs",
+ "category": "Equipment",
+ "image": "images/icons/3519262696.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2230173783,
+   "name": "T6 Assassin Legs",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/2230173783.png",
+   "page": "items/equipment/t6-assassin-legs-2230173783.md",
+   "json": "items/equipment/t6-assassin-legs-2230173783.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3519262696,
+   "name": "T6 Assassin Legs",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/3519262696.png",
+   "page": "items/equipment/t6-assassin-legs-3519262696.md",
+   "json": "items/equipment/t6-assassin-legs-3519262696.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t6-assassin-legs.md"
+}

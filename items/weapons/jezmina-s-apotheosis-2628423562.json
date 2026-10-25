@@ -1,0 +1,116 @@
+{
+ "id": 2628423562,
+ "name": "Jezmina's Apotheosis",
+ "internalName": "Craft_Weapon_T3_1H_Lore_AxeEpic_Ministory_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 16,
+  "max": 16
+ },
+ "maxStack": 1,
+ "image": "images/icons/2628423562.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/jezmina-s-apotheosis.md",
+  "json": "objects/weapons/jezmina-s-apotheosis.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+16 Brutal"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1171657669,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2341333485,
+      "name": "Aurum Lily",
+      "page": "items/materials/aurum-lily-2341333485.md",
+      "json": "items/materials/aurum-lily-2341333485.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/jezmina-s-apotheosis-2628423562.md"
+}

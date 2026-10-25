@@ -25,4 +25,4 @@ Giant Skeletons
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](fossilized-bone-3095665634.json)

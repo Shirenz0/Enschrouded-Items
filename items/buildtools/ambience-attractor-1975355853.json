@@ -1,0 +1,35 @@
+{
+ "id": 1975355853,
+ "name": "Ambience Attractor",
+ "internalName": "Prop_Logic_Musicbox",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1975355853.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Changes the sound ambience around it",
+ "lore": "Ambience Attractor",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Wellness",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/ambience-attractor-1975355853.md"
+}

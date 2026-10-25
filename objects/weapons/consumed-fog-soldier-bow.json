@@ -1,0 +1,93 @@
+{
+ "name": "Consumed fog soldier bow",
+ "category": "Weapons",
+ "image": "images/icons/2664238131.png",
+ "versions": 7,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 3886257993,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3886257993.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-3886257993.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-3886257993.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2517864696,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2517864696.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-2517864696.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2517864696.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4016669731,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/4016669731.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-4016669731.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-4016669731.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1454083076,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1454083076.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-1454083076.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-1454083076.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 852156015,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/852156015.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-852156015.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-852156015.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2676513257,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2676513257.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-2676513257.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2676513257.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2664238131,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2664238131.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-2664238131.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2664238131.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/consumed-fog-soldier-bow.md"
+}

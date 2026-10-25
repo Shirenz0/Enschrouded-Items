@@ -1,0 +1,29 @@
+{
+ "id": 339561247,
+ "name": "Beard 05",
+ "internalName": "VC_Beard13_stubble",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/beard-05.md",
+  "json": "objects/customization/beard-05.json",
+  "versions": 9
+ },
+ "page": "items/customization/beard-05-339561247.md"
+}

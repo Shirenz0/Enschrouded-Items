@@ -1,0 +1,73 @@
+{
+ "id": 856255382,
+ "name": "T3 Wizard Helmet",
+ "internalName": "Armor_T3_Mage_BattleWand_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/856255382.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wizard's hat. Most likely worn during lunar ceremonies or divinations.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 22,
+    "display": "22",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Radiant Aura",
+   "effect": "Increases the skill level of Radiant Aura by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+12 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  }
+ ],
+ "page": "items/equipment/t3-wizard-helmet-856255382.md"
+}

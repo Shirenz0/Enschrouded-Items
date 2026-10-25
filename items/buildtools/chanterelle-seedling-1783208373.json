@@ -1,0 +1,61 @@
+{
+ "id": 1783208373,
+ "name": "Chanterelle Seedling",
+ "internalName": "T5_Seedling_YellowFogMushroom",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/1783208373.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2345769106,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1158895795,
+      "name": "Frozen Shroud Solids",
+      "page": "items/materials/frozen-shroud-solids-1158895795.md",
+      "json": "items/materials/frozen-shroud-solids-1158895795.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1683685602,
+      "name": "Yellow Shroud Mushroom",
+      "page": "items/consumables/yellow-shroud-mushroom-1683685602.md",
+      "json": "items/consumables/yellow-shroud-mushroom-1683685602.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/chanterelle-seedling-1783208373.md"
+}

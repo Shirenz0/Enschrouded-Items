@@ -1,0 +1,55 @@
+{
+ "id": 93904474,
+ "name": "Alchemist Ring",
+ "internalName": "Ring_T0_Alchemists_Ring",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 2,
+  "max": 2
+ },
+ "maxStack": 1,
+ "image": "images/icons/93904474.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A ring with glowing blue engravings that read: \n\n\"May the Shroud never do us part - Your Balthazar\"",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Flame Power",
+    "value": 30000,
+    "display": "30,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Health",
+   "effect": "+20 Health"
+  }
+ ],
+ "page": "items/equipment/alchemist-ring-93904474.md"
+}

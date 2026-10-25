@@ -24,4 +24,4 @@ After performing a Dodge, your next hit deals %k additional cut damage and reple
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-agility-4128996534.json)

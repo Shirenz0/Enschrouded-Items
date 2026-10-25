@@ -1,0 +1,35 @@
+{
+ "name": "T4 Rogue Chest",
+ "category": "Equipment",
+ "image": "images/icons/3836740140.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1676245323,
+   "name": "T4 Rogue Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1676245323.png",
+   "page": "items/equipment/t4-rogue-chest-1676245323.md",
+   "json": "items/equipment/t4-rogue-chest-1676245323.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3836740140,
+   "name": "T4 Rogue Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3836740140.png",
+   "page": "items/equipment/t4-rogue-chest-3836740140.md",
+   "json": "items/equipment/t4-rogue-chest-3836740140.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-rogue-chest.md"
+}

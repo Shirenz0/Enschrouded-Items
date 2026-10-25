@@ -1,0 +1,125 @@
+{
+ "id": 722422442,
+ "name": "T2 Healer Legs",
+ "internalName": "Armor_T2_Mage_Healer_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/722422442.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Woven pants which keep the wearer from scraping their knees.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-healer-legs.md",
+  "json": "objects/equipment/t2-healer-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Revive Duration",
+    "value": 7,
+    "display": "0.007 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Healing Revive",
+   "effect": "Increases the skill level of Healing Revive by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Healing Revive",
+   "effect": "Increases the skill level of Healing Revive by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3249095461,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3405461465,
+      "name": "Corrupted Boar Tusk",
+      "page": "items/materials/corrupted-boar-tusk-3405461465.md",
+      "json": "items/materials/corrupted-boar-tusk-3405461465.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-healer-legs-722422442.md"
+}

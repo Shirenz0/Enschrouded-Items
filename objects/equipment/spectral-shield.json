@@ -1,0 +1,35 @@
+{
+ "name": "Spectral Shield",
+ "category": "Equipment",
+ "image": "images/icons/201987856.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1405047893,
+   "name": "Spectral Shield",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1405047893.png",
+   "page": "items/equipment/spectral-shield-1405047893.md",
+   "json": "items/equipment/spectral-shield-1405047893.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 201987856,
+   "name": "Spectral Shield",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/201987856.png",
+   "page": "items/equipment/spectral-shield-201987856.md",
+   "json": "items/equipment/spectral-shield-201987856.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/spectral-shield.md"
+}

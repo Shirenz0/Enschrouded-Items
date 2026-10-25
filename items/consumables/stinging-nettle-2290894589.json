@@ -1,0 +1,61 @@
+{
+ "id": 2290894589,
+ "name": "Stinging Nettle",
+ "internalName": "Food_T2_raw_herb_StingingNettle",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/2290894589.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "One has to be careful when harvesting this herb and it takes a lot of courage, but the reward is surely woth it.",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 750000,
+    "display": "12:30 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1096715929,
+   "name": "Food Buff Removal",
+   "page": "items/consumables/food-buff-removal-1096715929.md",
+   "json": "items/consumables/food-buff-removal-1096715929.json"
+  },
+  {
+   "id": 2298603989,
+   "name": "Nettle Seedling",
+   "page": "items/buildtools/nettle-seedling-2298603989.md",
+   "json": "items/buildtools/nettle-seedling-2298603989.json"
+  },
+  {
+   "id": 4286973253,
+   "name": "Tbd T2 Palette 02 Reward",
+   "page": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.md",
+   "json": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.json"
+  }
+ ],
+ "page": "items/consumables/stinging-nettle-2290894589.md"
+}

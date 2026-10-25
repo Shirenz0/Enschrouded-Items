@@ -21,4 +21,4 @@ A fake secret you can install in your base to confuse others.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](fake-wood-wall-secret-2809296280.json)

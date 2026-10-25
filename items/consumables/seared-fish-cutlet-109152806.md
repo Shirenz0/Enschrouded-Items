@@ -33,4 +33,4 @@ Seafood Grill
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](seared-fish-cutlet-109152806.json)

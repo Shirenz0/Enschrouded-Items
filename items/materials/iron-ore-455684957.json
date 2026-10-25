@@ -1,0 +1,33 @@
+{
+ "id": 455684957,
+ "name": "Iron Ore",
+ "internalName": "Material_T4_Ore_Iron",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/455684957.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The natural ressource needed to create Iron Bars, an important material for every adventurer on the way to the top.",
+ "lore": null,
+ "whereToFind": "find in Kindlewastes  Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 159114158,
+   "name": "Iron Bars",
+   "page": "items/materials/iron-bars-159114158.md",
+   "json": "items/materials/iron-bars-159114158.json"
+  }
+ ],
+ "page": "items/materials/iron-ore-455684957.md"
+}

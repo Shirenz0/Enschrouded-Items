@@ -1,0 +1,39 @@
+{
+ "id": 2145533653,
+ "name": "Gleam Root",
+ "internalName": "Material_T6_Night_GleamRoot_under_water",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2145533653.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 gleam root desc",
+ "lore": null,
+ "whereToFind": "find in T6 underwater",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 814867063,
+   "name": "Ultimate Mana Potion +",
+   "page": "items/consumables/ultimate-mana-potion-814867063.md",
+   "json": "items/consumables/ultimate-mana-potion-814867063.json"
+  },
+  {
+   "id": 3507051762,
+   "name": "Gleam Root Dust",
+   "page": "items/materials/gleam-root-dust-3507051762.md",
+   "json": "items/materials/gleam-root-dust-3507051762.json"
+  }
+ ],
+ "page": "items/materials/gleam-root-2145533653.md"
+}

@@ -37,4 +37,4 @@ Kitchen
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](chamomile-tea-2337909498.json)

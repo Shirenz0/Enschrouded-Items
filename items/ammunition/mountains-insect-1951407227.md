@@ -31,4 +31,4 @@ Albaneve Summits
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](mountains-insect-1951407227.json)

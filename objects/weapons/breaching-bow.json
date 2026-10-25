@@ -1,0 +1,38 @@
+{
+ "name": "Breaching Bow",
+ "category": "Weapons",
+ "image": "images/icons/101106603.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 3854011426,
+   "name": "Breaching Bow",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3854011426.png",
+   "page": "items/weapons/breaching-bow-3854011426.md",
+   "json": "items/weapons/breaching-bow-3854011426.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 101106603,
+   "name": "Breaching Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/101106603.png",
+   "page": "items/weapons/breaching-bow-101106603.md",
+   "json": "items/weapons/breaching-bow-101106603.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/breaching-bow.md"
+}

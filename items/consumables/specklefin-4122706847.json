@@ -1,0 +1,39 @@
+{
+ "id": 4122706847,
+ "name": "Specklefin",
+ "internalName": "_Food_raw_bad_T7_fish_epic_04",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 30,
+ "image": "images/icons/4122706847.png",
+ "placeholderImage": null,
+ "caption": "Fish",
+ "description": "It's spotted skin secretes a numbing poison. It's pattern is a warning, not a decoration.\n\nIt can be eaten raw, but will be even more beneficial when processed further.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2860029933,
+   "name": "Grilled Specklefin",
+   "page": "items/consumables/grilled-specklefin-2860029933.md",
+   "json": "items/consumables/grilled-specklefin-2860029933.json"
+  },
+  {
+   "id": 4040557403,
+   "name": "Fish Scales",
+   "page": "items/materials/fish-scales-4040557403.md",
+   "json": "items/materials/fish-scales-4040557403.json"
+  }
+ ],
+ "page": "items/consumables/specklefin-4122706847.md"
+}

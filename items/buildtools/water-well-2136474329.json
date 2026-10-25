@@ -1,0 +1,61 @@
+{
+ "id": 2136474329,
+ "name": "Water Well",
+ "internalName": "Prop_NPC_T2_Water_Well",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2136474329.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A well deep enough to reach the unlimited water sources of the world.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 342752009,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 100,
+     "item": {
+      "id": 1181280513,
+      "name": "Deepforest Stone",
+      "page": "items/materials/deepforest-stone-1181280513.md",
+      "json": "items/materials/deepforest-stone-1181280513.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3107844914,
+      "name": "Wood Bucket",
+      "page": "items/buildtools/wood-bucket-3107844914.md",
+      "json": "items/buildtools/wood-bucket-3107844914.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/water-well-2136474329.md"
+}

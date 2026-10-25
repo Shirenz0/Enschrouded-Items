@@ -13,4 +13,4 @@
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](lore-text-guidance-brokenvillage-1997294632.json)

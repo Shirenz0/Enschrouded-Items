@@ -27,4 +27,4 @@ noble dress chest desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t1-noble-dress-chest-3179795171.json)

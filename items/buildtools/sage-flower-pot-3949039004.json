@@ -1,0 +1,52 @@
+{
+ "id": 3949039004,
+ "name": "Sage Flower Pot",
+ "internalName": "Flower_Pot_Medium_Sage",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3949039004.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A medium potted plant to beautify your home.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3103471748,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 624884086,
+      "name": "Empty Flower Pot II",
+      "page": "items/buildtools/empty-flower-pot-ii-624884086.md",
+      "json": "items/buildtools/empty-flower-pot-ii-624884086.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/sage-flower-pot-3949039004.md"
+}

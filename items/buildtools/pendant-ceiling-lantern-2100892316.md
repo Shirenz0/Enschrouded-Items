@@ -29,4 +29,4 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](pendant-ceiling-lantern-2100892316.json)

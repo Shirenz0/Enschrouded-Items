@@ -25,4 +25,4 @@ A hammer collection - the heart of every smithy. Not only useful, but heartwarmi
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](smithing-tools-637869357.json)

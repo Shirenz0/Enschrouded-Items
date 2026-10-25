@@ -1,0 +1,381 @@
+{
+ "id": 4135223598,
+ "name": "Leather",
+ "internalName": "Material_T3_Leather",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/4135223598.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A versatile and durable material, that is smooth to the touch. It has also the advantage of being waterproof.",
+ "lore": null,
+ "whereToFind": "Crafting, Tanning Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 466947039,
+   "station": "Tanning Station",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2027586500,
+      "name": "Ammoniak Gland",
+      "page": "items/materials/ammoniak-gland-2027586500.md",
+      "json": "items/materials/ammoniak-gland-2027586500.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 996296787,
+   "name": "Large Backpack",
+   "page": "items/equipment/large-backpack-996296787.md",
+   "json": "items/equipment/large-backpack-996296787.json"
+  },
+  {
+   "id": 284247111,
+   "name": "Extraordinary Glider",
+   "page": "items/tools/extraordinary-glider-284247111.md",
+   "json": "items/tools/extraordinary-glider-284247111.json"
+  },
+  {
+   "id": 1053852637,
+   "name": "Channelled Water Tool",
+   "page": "items/buildtools/channelled-water-tool-1053852637.md",
+   "json": "items/buildtools/channelled-water-tool-1053852637.json"
+  },
+  {
+   "id": 2585799720,
+   "name": "Pocket Heater",
+   "page": "items/consumables/pocket-heater-2585799720.md",
+   "json": "items/consumables/pocket-heater-2585799720.json"
+  },
+  {
+   "id": 1711247619,
+   "name": "Padding",
+   "page": "items/materials/padding-1711247619.md",
+   "json": "items/materials/padding-1711247619.json"
+  },
+  {
+   "id": 1019461234,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-1019461234.md",
+   "json": "items/weapons/lupa-s-scalper-1019461234.json"
+  },
+  {
+   "id": 2108531401,
+   "name": "Stormshield",
+   "page": "items/equipment/stormshield-2108531401.md",
+   "json": "items/equipment/stormshield-2108531401.json"
+  },
+  {
+   "id": 30416182,
+   "name": "T3 DPS Boots",
+   "page": "items/equipment/t3-dps-boots-30416182.md",
+   "json": "items/equipment/t3-dps-boots-30416182.json"
+  },
+  {
+   "id": 2034875163,
+   "name": "T3 DPS Legs",
+   "page": "items/equipment/t3-dps-legs-2034875163.md",
+   "json": "items/equipment/t3-dps-legs-2034875163.json"
+  },
+  {
+   "id": 3800404508,
+   "name": "T3 DPS Chest",
+   "page": "items/equipment/t3-dps-chest-3800404508.md",
+   "json": "items/equipment/t3-dps-chest-3800404508.json"
+  },
+  {
+   "id": 1977989355,
+   "name": "T3 Healer Boots",
+   "page": "items/equipment/t3-healer-boots-1977989355.md",
+   "json": "items/equipment/t3-healer-boots-1977989355.json"
+  },
+  {
+   "id": 4053860811,
+   "name": "T3 Healer Arms",
+   "page": "items/equipment/t3-healer-arms-4053860811.md",
+   "json": "items/equipment/t3-healer-arms-4053860811.json"
+  },
+  {
+   "id": 2793515653,
+   "name": "T3 Healer Chest",
+   "page": "items/equipment/t3-healer-chest-2793515653.md",
+   "json": "items/equipment/t3-healer-chest-2793515653.json"
+  },
+  {
+   "id": 1240317845,
+   "name": "T3 Healer Helmet",
+   "page": "items/equipment/t3-healer-helmet-1240317845.md",
+   "json": "items/equipment/t3-healer-helmet-1240317845.json"
+  },
+  {
+   "id": 1847071028,
+   "name": "T3 Mage Boots",
+   "page": "items/equipment/t3-mage-boots-1847071028.md",
+   "json": "items/equipment/t3-mage-boots-1847071028.json"
+  },
+  {
+   "id": 886063879,
+   "name": "T3 Mage Arms",
+   "page": "items/equipment/t3-mage-arms-886063879.md",
+   "json": "items/equipment/t3-mage-arms-886063879.json"
+  },
+  {
+   "id": 4289077760,
+   "name": "T3 Mage Helmet",
+   "page": "items/equipment/t3-mage-helmet-4289077760.md",
+   "json": "items/equipment/t3-mage-helmet-4289077760.json"
+  },
+  {
+   "id": 4045860943,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-4045860943.md",
+   "json": "items/equipment/mage-fog-protection-armor-4045860943.json"
+  },
+  {
+   "id": 161814920,
+   "name": "T3 Ranger Boots",
+   "page": "items/equipment/t3-ranger-boots-161814920.md",
+   "json": "items/equipment/t3-ranger-boots-161814920.json"
+  },
+  {
+   "id": 383069883,
+   "name": "T3 Ranger Arms",
+   "page": "items/equipment/t3-ranger-arms-383069883.md",
+   "json": "items/equipment/t3-ranger-arms-383069883.json"
+  },
+  {
+   "id": 977735658,
+   "name": "T3 Ranger Helmet",
+   "page": "items/equipment/t3-ranger-helmet-977735658.md",
+   "json": "items/equipment/t3-ranger-helmet-977735658.json"
+  },
+  {
+   "id": 935025760,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-935025760.md",
+   "json": "items/equipment/ranger-fog-protection-armor-935025760.json"
+  },
+  {
+   "id": 905258707,
+   "name": "T3 Archer Boots",
+   "page": "items/equipment/t3-archer-boots-905258707.md",
+   "json": "items/equipment/t3-archer-boots-905258707.json"
+  },
+  {
+   "id": 699269342,
+   "name": "T3 Archer Arms",
+   "page": "items/equipment/t3-archer-arms-699269342.md",
+   "json": "items/equipment/t3-archer-arms-699269342.json"
+  },
+  {
+   "id": 1822528443,
+   "name": "T3 Archer Helmet",
+   "page": "items/equipment/t3-archer-helmet-1822528443.md",
+   "json": "items/equipment/t3-archer-helmet-1822528443.json"
+  },
+  {
+   "id": 1365818369,
+   "name": "T3 Tank Legs",
+   "page": "items/equipment/t3-tank-legs-1365818369.md",
+   "json": "items/equipment/t3-tank-legs-1365818369.json"
+  },
+  {
+   "id": 4212426126,
+   "name": "T3 Tank Arms",
+   "page": "items/equipment/t3-tank-arms-4212426126.md",
+   "json": "items/equipment/t3-tank-arms-4212426126.json"
+  },
+  {
+   "id": 2173083844,
+   "name": "T3 Tank Chest",
+   "page": "items/equipment/t3-tank-chest-2173083844.md",
+   "json": "items/equipment/t3-tank-chest-2173083844.json"
+  },
+  {
+   "id": 1150388410,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-1150388410.md",
+   "json": "items/equipment/warrior-fog-protection-armor-1150388410.json"
+  },
+  {
+   "id": 4024884903,
+   "name": "T4 Assassin Boots",
+   "page": "items/equipment/t4-assassin-boots-4024884903.md",
+   "json": "items/equipment/t4-assassin-boots-4024884903.json"
+  },
+  {
+   "id": 853658470,
+   "name": "T4 Assassin Arms",
+   "page": "items/equipment/t4-assassin-arms-853658470.md",
+   "json": "items/equipment/t4-assassin-arms-853658470.json"
+  },
+  {
+   "id": 1123774086,
+   "name": "T4 Assassin Helmet",
+   "page": "items/equipment/t4-assassin-helmet-1123774086.md",
+   "json": "items/equipment/t4-assassin-helmet-1123774086.json"
+  },
+  {
+   "id": 1563449197,
+   "name": "T4 BattleMage Legs",
+   "page": "items/equipment/t4-battlemage-legs-1563449197.md",
+   "json": "items/equipment/t4-battlemage-legs-1563449197.json"
+  },
+  {
+   "id": 620048429,
+   "name": "T4 DPS Boots",
+   "page": "items/equipment/t4-dps-boots-620048429.md",
+   "json": "items/equipment/t4-dps-boots-620048429.json"
+  },
+  {
+   "id": 3072220773,
+   "name": "T4 DPS Legs",
+   "page": "items/equipment/t4-dps-legs-3072220773.md",
+   "json": "items/equipment/t4-dps-legs-3072220773.json"
+  },
+  {
+   "id": 1953528963,
+   "name": "T4 Mage Boots",
+   "page": "items/equipment/t4-mage-boots-1953528963.md",
+   "json": "items/equipment/t4-mage-boots-1953528963.json"
+  },
+  {
+   "id": 3486210573,
+   "name": "T4 Ranger Boots",
+   "page": "items/equipment/t4-ranger-boots-3486210573.md",
+   "json": "items/equipment/t4-ranger-boots-3486210573.json"
+  },
+  {
+   "id": 1123016064,
+   "name": "T4 Ranger Legs",
+   "page": "items/equipment/t4-ranger-legs-1123016064.md",
+   "json": "items/equipment/t4-ranger-legs-1123016064.json"
+  },
+  {
+   "id": 706627686,
+   "name": "T4 DPS Arms",
+   "page": "items/equipment/t4-dps-arms-706627686.md",
+   "json": "items/equipment/t4-dps-arms-706627686.json"
+  },
+  {
+   "id": 345073573,
+   "name": "T4 sniper boots",
+   "page": "items/equipment/t4-sniper-boots-345073573.md",
+   "json": "items/equipment/t4-sniper-boots-345073573.json"
+  },
+  {
+   "id": 2035835813,
+   "name": "T4 Sniper Legs",
+   "page": "items/equipment/t4-sniper-legs-2035835813.md",
+   "json": "items/equipment/t4-sniper-legs-2035835813.json"
+  },
+  {
+   "id": 1058485756,
+   "name": "T4 Tank Boots",
+   "page": "items/equipment/t4-tank-boots-1058485756.md",
+   "json": "items/equipment/t4-tank-boots-1058485756.json"
+  },
+  {
+   "id": 2206143874,
+   "name": "Big furry straw mat",
+   "page": "items/buildtools/big-furry-straw-mat-2206143874.md",
+   "json": "items/buildtools/big-furry-straw-mat-2206143874.json"
+  },
+  {
+   "id": 1318773899,
+   "name": "Furry straw mat",
+   "page": "items/buildtools/furry-straw-mat-1318773899.md",
+   "json": "items/buildtools/furry-straw-mat-1318773899.json"
+  },
+  {
+   "id": 394999089,
+   "name": "Leather Bag",
+   "page": "items/buildtools/leather-bag-394999089.md",
+   "json": "items/buildtools/leather-bag-394999089.json"
+  },
+  {
+   "id": 3568384766,
+   "name": "T4 Dungeon bookrest",
+   "page": "items/buildtools/t4-dungeon-bookrest-3568384766.md",
+   "json": "items/buildtools/t4-dungeon-bookrest-3568384766.json"
+  },
+  {
+   "id": 1034343716,
+   "name": "Big Leather Crate",
+   "page": "items/buildtools/big-leather-crate-1034343716.md",
+   "json": "items/buildtools/big-leather-crate-1034343716.json"
+  },
+  {
+   "id": 1878726569,
+   "name": "Leather Crate",
+   "page": "items/buildtools/leather-crate-1878726569.md",
+   "json": "items/buildtools/leather-crate-1878726569.json"
+  },
+  {
+   "id": 2247014936,
+   "name": "Drum",
+   "page": "items/buildtools/drum-2247014936.md",
+   "json": "items/buildtools/drum-2247014936.json"
+  },
+  {
+   "id": 2191154793,
+   "name": "Secret Crude Wooden Bookshelf Door",
+   "page": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.md",
+   "json": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.json"
+  },
+  {
+   "id": 3126384595,
+   "name": "Carved Secret Bookshelf Door",
+   "page": "items/buildtools/carved-secret-bookshelf-door-3126384595.md",
+   "json": "items/buildtools/carved-secret-bookshelf-door-3126384595.json"
+  },
+  {
+   "id": 2847426289,
+   "name": "Jump Pad High",
+   "page": "items/buildtools/jump-pad-high-2847426289.md",
+   "json": "items/buildtools/jump-pad-high-2847426289.json"
+  },
+  {
+   "id": 1412155513,
+   "name": "Jump Pad Medium",
+   "page": "items/buildtools/jump-pad-medium-1412155513.md",
+   "json": "items/buildtools/jump-pad-medium-1412155513.json"
+  }
+ ],
+ "page": "items/materials/leather-4135223598.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 800792662,
+ "name": "Fell Well Heavy Head",
+ "internalName": "_Material_TX_Trophy_Fell_Heavy_Berserker_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/800792662.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The head of the fell well heavy enemy",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/fell-well-heavy-head-800792662.md"
+}

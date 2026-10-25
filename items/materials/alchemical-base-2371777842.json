@@ -1,0 +1,114 @@
+{
+ "id": 2371777842,
+ "name": "Alchemical Base",
+ "internalName": "Material_T3_Alchemical_Base",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 16,
+  "max": 16
+ },
+ "maxStack": 250,
+ "image": "images/icons/2371777842.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A clear liquid with a sharp smell. Usually, it's is used to enhance alchemical reactions.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemy Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3011856006,
+   "station": "Alchemy Station",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4229884102,
+      "name": "Shroud Mush",
+      "page": "items/materials/shroud-mush-4229884102.md",
+      "json": "items/materials/shroud-mush-4229884102.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 409810488,
+      "name": "Acidic Shroud",
+      "page": "items/materials/acidic-shroud-409810488.md",
+      "json": "items/materials/acidic-shroud-409810488.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3622683972,
+      "name": "Shroud Fragments",
+      "page": "items/materials/shroud-fragments-3622683972.md",
+      "json": "items/materials/shroud-fragments-3622683972.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2302389683,
+      "name": "Corrosive Blood",
+      "page": "items/materials/corrosive-blood-2302389683.md",
+      "json": "items/materials/corrosive-blood-2302389683.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3681207826,
+   "name": "Magic Large Chest",
+   "page": "items/buildtools/magic-large-chest-3681207826.md",
+   "json": "items/buildtools/magic-large-chest-3681207826.json"
+  },
+  {
+   "id": 209497692,
+   "name": "Greater Fog Survival Flask",
+   "page": "items/consumables/greater-fog-survival-flask-209497692.md",
+   "json": "items/consumables/greater-fog-survival-flask-209497692.json"
+  },
+  {
+   "id": 3702644205,
+   "name": "Revitalizing Health Potion",
+   "page": "items/consumables/revitalizing-health-potion-3702644205.md",
+   "json": "items/consumables/revitalizing-health-potion-3702644205.json"
+  },
+  {
+   "id": 2085710950,
+   "name": "Great Mana Potion",
+   "page": "items/consumables/great-mana-potion-2085710950.md",
+   "json": "items/consumables/great-mana-potion-2085710950.json"
+  },
+  {
+   "id": 685713190,
+   "name": "Eternal Fire Arrow I",
+   "page": "items/ammunition/eternal-fire-arrow-i-685713190.md",
+   "json": "items/ammunition/eternal-fire-arrow-i-685713190.json"
+  },
+  {
+   "id": 1735403844,
+   "name": "T3 Ball Lightning",
+   "page": "items/ammunition/t3-ball-lightning-1735403844.md",
+   "json": "items/ammunition/t3-ball-lightning-1735403844.json"
+  },
+  {
+   "id": 2371220722,
+   "name": "Stun Arrow",
+   "page": "items/ammunition/stun-arrow-2371220722.md",
+   "json": "items/ammunition/stun-arrow-2371220722.json"
+  }
+ ],
+ "page": "items/materials/alchemical-base-2371777842.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1195343032,
+ "name": "Catdeer",
+ "internalName": "Animal_Farming_Catdeer",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1195343032.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Catdeer",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/catdeer-1195343032.md"
+}

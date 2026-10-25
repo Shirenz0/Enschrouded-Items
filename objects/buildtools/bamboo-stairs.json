@@ -1,0 +1,36 @@
+{
+ "name": "Bamboo Stairs",
+ "category": "BuildTools",
+ "image": "images/icons/2175416596.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1517467835,
+   "name": "Bamboo Stairs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1517467835.png",
+   "page": "items/buildtools/bamboo-stairs-1517467835.md",
+   "json": "items/buildtools/bamboo-stairs-1517467835.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2175416596,
+   "name": "Bamboo Stairs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2175416596.png",
+   "page": "items/buildtools/bamboo-stairs-2175416596.md",
+   "json": "items/buildtools/bamboo-stairs-2175416596.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/bamboo-stairs.md"
+}

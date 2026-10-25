@@ -35,4 +35,4 @@ Crafting, Alchemist
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](swim-sprint-stamina-reduction-flask-3254225118.json)

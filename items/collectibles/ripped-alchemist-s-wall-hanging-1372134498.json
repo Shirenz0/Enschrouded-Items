@@ -1,0 +1,29 @@
+{
+ "id": 1372134498,
+ "name": "Ripped Alchemist's Wall Hanging",
+ "internalName": "Collection_Alchemist_WallHang_Piece_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1372134498.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The second half of a wall hanging, visualizing the complex simbiosis of the natural, and magical. When paired with the other half, perhaps this ancient wisdom could be understood.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/collectibles/ripped-alchemist-s-wall-hanging.md",
+  "json": "objects/collectibles/ripped-alchemist-s-wall-hanging.json",
+  "versions": 2
+ },
+ "page": "items/collectibles/ripped-alchemist-s-wall-hanging-1372134498.md"
+}

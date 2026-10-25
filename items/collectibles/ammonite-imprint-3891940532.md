@@ -17,4 +17,4 @@ A stone with multiple large ammonite imprints. There's a mysterious spiralling s
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](ammonite-imprint-3891940532.json)

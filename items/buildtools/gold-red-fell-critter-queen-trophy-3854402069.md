@@ -31,4 +31,4 @@ A severed Red Fell Critter Queen Head. Collect multiple to craft the golden trop
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-red-fell-critter-queen-trophy-3854402069.json)

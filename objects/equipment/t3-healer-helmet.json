@@ -1,0 +1,35 @@
+{
+ "name": "T3 Healer Helmet",
+ "category": "Equipment",
+ "image": "images/icons/2431930862.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1240317845,
+   "name": "T3 Healer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1240317845.png",
+   "page": "items/equipment/t3-healer-helmet-1240317845.md",
+   "json": "items/equipment/t3-healer-helmet-1240317845.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2431930862,
+   "name": "T3 Healer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2431930862.png",
+   "page": "items/equipment/t3-healer-helmet-2431930862.md",
+   "json": "items/equipment/t3-healer-helmet-2431930862.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-healer-helmet.md"
+}

@@ -1,0 +1,84 @@
+{
+ "id": 1614998716,
+ "name": "Explosive Powder Grenade",
+ "internalName": "Consumable_Grenade_Explosive_PowderBall_T4",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 21,
+  "max": 21
+ },
+ "maxStack": 20,
+ "image": "images/icons/1614998716.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A throwable explosive with astounding power!",
+ "lore": "Level 1 KABOOM!",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2059346759,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3316218728,
+      "name": "Plant Fibre",
+      "page": "items/materials/plant-fibre-3316218728.md",
+      "json": "items/materials/plant-fibre-3316218728.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1828629573,
+      "name": "Black Powder",
+      "page": "items/materials/black-powder-1828629573.md",
+      "json": "items/materials/black-powder-1828629573.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/explosive-powder-grenade-1614998716.md"
+}

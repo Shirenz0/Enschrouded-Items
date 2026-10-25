@@ -1,0 +1,877 @@
+{
+ "id": 159114158,
+ "name": "Iron Bars",
+ "internalName": "Material_T4_Iron_Bar",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/159114158.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A glistening silver metal that has a wide range of applications.",
+ "lore": null,
+ "whereToFind": "Smelter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 46805630,
+   "station": "Blast Furnace",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 455684957,
+      "name": "Iron Ore",
+      "page": "items/materials/iron-ore-455684957.md",
+      "json": "items/materials/iron-ore-455684957.json"
+     }
+    },
+    {
+     "count": 40,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 20
+  },
+  {
+   "recipeId": 3802269334,
+   "station": "Smelter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 455684957,
+      "name": "Iron Ore",
+      "page": "items/materials/iron-ore-455684957.md",
+      "json": "items/materials/iron-ore-455684957.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2834235854,
+   "name": "Huge Chest",
+   "page": "items/buildtools/huge-chest-2834235854.md",
+   "json": "items/buildtools/huge-chest-2834235854.json"
+  },
+  {
+   "id": 4157937420,
+   "name": "Huge Magic Chest",
+   "page": "items/buildtools/huge-magic-chest-4157937420.md",
+   "json": "items/buildtools/huge-magic-chest-4157937420.json"
+  },
+  {
+   "id": 3680025842,
+   "name": "Metal Wall Drain I",
+   "page": "items/buildtools/metal-wall-drain-i-3680025842.md",
+   "json": "items/buildtools/metal-wall-drain-i-3680025842.json"
+  },
+  {
+   "id": 2706897970,
+   "name": "Metal Floor Drain I",
+   "page": "items/buildtools/metal-floor-drain-i-2706897970.md",
+   "json": "items/buildtools/metal-floor-drain-i-2706897970.json"
+  },
+  {
+   "id": 469436401,
+   "name": "Improved Fishing Rod",
+   "page": "items/buildtools/improved-fishing-rod-469436401.md",
+   "json": "items/buildtools/improved-fishing-rod-469436401.json"
+  },
+  {
+   "id": 276744828,
+   "name": "Iron Block",
+   "page": "items/buildtools/iron-block-276744828.md",
+   "json": "items/buildtools/iron-block-276744828.json"
+  },
+  {
+   "id": 1454438654,
+   "name": "Iron Arrow",
+   "page": "items/ammunition/iron-arrow-1454438654.md",
+   "json": "items/ammunition/iron-arrow-1454438654.json"
+  },
+  {
+   "id": 1805048399,
+   "name": "T4 Pillar of Flames II",
+   "page": "items/ammunition/t4-pillar-of-flames-ii-1805048399.md",
+   "json": "items/ammunition/t4-pillar-of-flames-ii-1805048399.json"
+  },
+  {
+   "id": 72192472,
+   "name": "T4 Eternal Light Burst I",
+   "page": "items/ammunition/t4-eternal-light-burst-i-72192472.md",
+   "json": "items/ammunition/t4-eternal-light-burst-i-72192472.json"
+  },
+  {
+   "id": 1138260679,
+   "name": "T4 Eternal Ice Totem I",
+   "page": "items/ammunition/t4-eternal-ice-totem-i-1138260679.md",
+   "json": "items/ammunition/t4-eternal-ice-totem-i-1138260679.json"
+  },
+  {
+   "id": 1685866698,
+   "name": "T4 Lightning Channel",
+   "page": "items/ammunition/t4-lightning-channel-1685866698.md",
+   "json": "items/ammunition/t4-lightning-channel-1685866698.json"
+  },
+  {
+   "id": 1364879646,
+   "name": "Small Water Wheel",
+   "page": "items/buildtools/small-water-wheel-1364879646.md",
+   "json": "items/buildtools/small-water-wheel-1364879646.json"
+  },
+  {
+   "id": 2961306312,
+   "name": "Small Windmill",
+   "page": "items/buildtools/small-windmill-2961306312.md",
+   "json": "items/buildtools/small-windmill-2961306312.json"
+  },
+  {
+   "id": 2340842635,
+   "name": "Large Water Wheel",
+   "page": "items/buildtools/large-water-wheel-2340842635.md",
+   "json": "items/buildtools/large-water-wheel-2340842635.json"
+  },
+  {
+   "id": 2465126757,
+   "name": "T5 Prop Production Blast Furnace",
+   "page": "items/buildtools/t5-prop-production-blast-furnace-2465126757.md",
+   "json": "items/buildtools/t5-prop-production-blast-furnace-2465126757.json"
+  },
+  {
+   "id": 637869357,
+   "name": "Smithing Tools",
+   "page": "items/buildtools/smithing-tools-637869357.md",
+   "json": "items/buildtools/smithing-tools-637869357.json"
+  },
+  {
+   "id": 4114143627,
+   "name": "Iron Dust",
+   "page": "items/materials/iron-dust-4114143627.md",
+   "json": "items/materials/iron-dust-4114143627.json"
+  },
+  {
+   "id": 4131324901,
+   "name": "Iron Axe",
+   "page": "items/tools/iron-axe-4131324901.md",
+   "json": "items/tools/iron-axe-4131324901.json"
+  },
+  {
+   "id": 1345456437,
+   "name": "Iron Pickaxe",
+   "page": "items/buildtools/iron-pickaxe-1345456437.md",
+   "json": "items/buildtools/iron-pickaxe-1345456437.json"
+  },
+  {
+   "id": 1853225094,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-1853225094.md",
+   "json": "items/weapons/fenrig-s-axe-1853225094.json"
+  },
+  {
+   "id": 2509571957,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-2509571957.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2509571957.json"
+  },
+  {
+   "id": 1019461234,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-1019461234.md",
+   "json": "items/weapons/lupa-s-scalper-1019461234.json"
+  },
+  {
+   "id": 2264411387,
+   "name": "Wolf's Hydra",
+   "page": "items/weapons/wolf-s-hydra-2264411387.md",
+   "json": "items/weapons/wolf-s-hydra-2264411387.json"
+  },
+  {
+   "id": 3145841208,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-3145841208.md",
+   "json": "items/weapons/halescourge-3145841208.json"
+  },
+  {
+   "id": 246702506,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-246702506.md",
+   "json": "items/weapons/wailing-blade-246702506.json"
+  },
+  {
+   "id": 3434497058,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-3434497058.md",
+   "json": "items/weapons/dragon-sword-3434497058.json"
+  },
+  {
+   "id": 2164917554,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-2164917554.md",
+   "json": "items/equipment/pikemead-s-ward-2164917554.json"
+  },
+  {
+   "id": 2644725310,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-2644725310.md",
+   "json": "items/equipment/riptide-2644725310.json"
+  },
+  {
+   "id": 2584194594,
+   "name": "Shield of Light",
+   "page": "items/equipment/shield-of-light-2584194594.md",
+   "json": "items/equipment/shield-of-light-2584194594.json"
+  },
+  {
+   "id": 2385920638,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-2385920638.md",
+   "json": "items/weapons/soothsayer-2385920638.json"
+  },
+  {
+   "id": 4016669731,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-4016669731.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-4016669731.json"
+  },
+  {
+   "id": 463074629,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-463074629.md",
+   "json": "items/weapons/draconian-bow-463074629.json"
+  },
+  {
+   "id": 1155686002,
+   "name": "Sacrificial Vukah Dagger",
+   "page": "items/weapons/sacrificial-vukah-dagger-1155686002.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1155686002.json"
+  },
+  {
+   "id": 3717136224,
+   "name": "Valor Heart Dagger",
+   "page": "items/weapons/valor-heart-dagger-3717136224.md",
+   "json": "items/weapons/valor-heart-dagger-3717136224.json"
+  },
+  {
+   "id": 1614998716,
+   "name": "Explosive Powder Grenade",
+   "page": "items/weapons/explosive-powder-grenade-1614998716.md",
+   "json": "items/weapons/explosive-powder-grenade-1614998716.json"
+  },
+  {
+   "id": 1343375854,
+   "name": "Shroud Weaver",
+   "page": "items/weapons/shroud-weaver-1343375854.md",
+   "json": "items/weapons/shroud-weaver-1343375854.json"
+  },
+  {
+   "id": 2418290854,
+   "name": "Ethereal Plane",
+   "page": "items/equipment/ethereal-plane-2418290854.md",
+   "json": "items/equipment/ethereal-plane-2418290854.json"
+  },
+  {
+   "id": 4024884903,
+   "name": "T4 Assassin Boots",
+   "page": "items/equipment/t4-assassin-boots-4024884903.md",
+   "json": "items/equipment/t4-assassin-boots-4024884903.json"
+  },
+  {
+   "id": 3413443507,
+   "name": "T4 Assassin Legs",
+   "page": "items/equipment/t4-assassin-legs-3413443507.md",
+   "json": "items/equipment/t4-assassin-legs-3413443507.json"
+  },
+  {
+   "id": 2802395209,
+   "name": "T4 Assassin Chest",
+   "page": "items/equipment/t4-assassin-chest-2802395209.md",
+   "json": "items/equipment/t4-assassin-chest-2802395209.json"
+  },
+  {
+   "id": 1331200386,
+   "name": "T4 BattleMage Chest",
+   "page": "items/equipment/t4-battlemage-chest-1331200386.md",
+   "json": "items/equipment/t4-battlemage-chest-1331200386.json"
+  },
+  {
+   "id": 620048429,
+   "name": "T4 DPS Boots",
+   "page": "items/equipment/t4-dps-boots-620048429.md",
+   "json": "items/equipment/t4-dps-boots-620048429.json"
+  },
+  {
+   "id": 3072220773,
+   "name": "T4 DPS Legs",
+   "page": "items/equipment/t4-dps-legs-3072220773.md",
+   "json": "items/equipment/t4-dps-legs-3072220773.json"
+  },
+  {
+   "id": 1478658636,
+   "name": "T4 DPS Arms",
+   "page": "items/equipment/t4-dps-arms-1478658636.md",
+   "json": "items/equipment/t4-dps-arms-1478658636.json"
+  },
+  {
+   "id": 1567003886,
+   "name": "T4 DPS Chest",
+   "page": "items/equipment/t4-dps-chest-1567003886.md",
+   "json": "items/equipment/t4-dps-chest-1567003886.json"
+  },
+  {
+   "id": 3091686369,
+   "name": "T4 DPS Helmet",
+   "page": "items/equipment/t4-dps-helmet-3091686369.md",
+   "json": "items/equipment/t4-dps-helmet-3091686369.json"
+  },
+  {
+   "id": 1947086683,
+   "name": "T4 Healer Chest",
+   "page": "items/equipment/t4-healer-chest-1947086683.md",
+   "json": "items/equipment/t4-healer-chest-1947086683.json"
+  },
+  {
+   "id": 3472179568,
+   "name": "T4 Healer Helmet",
+   "page": "items/equipment/t4-healer-helmet-3472179568.md",
+   "json": "items/equipment/t4-healer-helmet-3472179568.json"
+  },
+  {
+   "id": 1616516574,
+   "name": "T4 Mage Legs",
+   "page": "items/equipment/t4-mage-legs-1616516574.md",
+   "json": "items/equipment/t4-mage-legs-1616516574.json"
+  },
+  {
+   "id": 1299163561,
+   "name": "T4 Mage Chest",
+   "page": "items/equipment/t4-mage-chest-1299163561.md",
+   "json": "items/equipment/t4-mage-chest-1299163561.json"
+  },
+  {
+   "id": 2309078212,
+   "name": "T4 Ranger Arms",
+   "page": "items/equipment/t4-ranger-arms-2309078212.md",
+   "json": "items/equipment/t4-ranger-arms-2309078212.json"
+  },
+  {
+   "id": 960184859,
+   "name": "T4 Ranger Chest",
+   "page": "items/equipment/t4-ranger-chest-960184859.md",
+   "json": "items/equipment/t4-ranger-chest-960184859.json"
+  },
+  {
+   "id": 2666667832,
+   "name": "T4 Ranger Helmet",
+   "page": "items/equipment/t4-ranger-helmet-2666667832.md",
+   "json": "items/equipment/t4-ranger-helmet-2666667832.json"
+  },
+  {
+   "id": 1676245323,
+   "name": "T4 Rogue Chest",
+   "page": "items/equipment/t4-rogue-chest-1676245323.md",
+   "json": "items/equipment/t4-rogue-chest-1676245323.json"
+  },
+  {
+   "id": 107717902,
+   "name": "T4 Rogue Helmet",
+   "page": "items/equipment/t4-rogue-helmet-107717902.md",
+   "json": "items/equipment/t4-rogue-helmet-107717902.json"
+  },
+  {
+   "id": 2035835813,
+   "name": "T4 Sniper Legs",
+   "page": "items/equipment/t4-sniper-legs-2035835813.md",
+   "json": "items/equipment/t4-sniper-legs-2035835813.json"
+  },
+  {
+   "id": 3073964148,
+   "name": "T4 Sniper Arms",
+   "page": "items/equipment/t4-sniper-arms-3073964148.md",
+   "json": "items/equipment/t4-sniper-arms-3073964148.json"
+  },
+  {
+   "id": 3452463502,
+   "name": "T4 Sniper Chest",
+   "page": "items/equipment/t4-sniper-chest-3452463502.md",
+   "json": "items/equipment/t4-sniper-chest-3452463502.json"
+  },
+  {
+   "id": 1058485756,
+   "name": "T4 Tank Boots",
+   "page": "items/equipment/t4-tank-boots-1058485756.md",
+   "json": "items/equipment/t4-tank-boots-1058485756.json"
+  },
+  {
+   "id": 3856381953,
+   "name": "T4 Tank Legs",
+   "page": "items/equipment/t4-tank-legs-3856381953.md",
+   "json": "items/equipment/t4-tank-legs-3856381953.json"
+  },
+  {
+   "id": 1838950390,
+   "name": "T4 Tank Arms",
+   "page": "items/equipment/t4-tank-arms-1838950390.md",
+   "json": "items/equipment/t4-tank-arms-1838950390.json"
+  },
+  {
+   "id": 403577806,
+   "name": "T4 Tank Chest",
+   "page": "items/equipment/t4-tank-chest-403577806.md",
+   "json": "items/equipment/t4-tank-chest-403577806.json"
+  },
+  {
+   "id": 2870440263,
+   "name": "T4 Tank Helmet",
+   "page": "items/equipment/t4-tank-helmet-2870440263.md",
+   "json": "items/equipment/t4-tank-helmet-2870440263.json"
+  },
+  {
+   "id": 2616343052,
+   "name": "Iron Bench",
+   "page": "items/buildtools/iron-bench-2616343052.md",
+   "json": "items/buildtools/iron-bench-2616343052.json"
+  },
+  {
+   "id": 3587974368,
+   "name": "Sand Throne",
+   "page": "items/buildtools/sand-throne-3587974368.md",
+   "json": "items/buildtools/sand-throne-3587974368.json"
+  },
+  {
+   "id": 1404381373,
+   "name": "Iron stove t4",
+   "page": "items/buildtools/iron-stove-t4-1404381373.md",
+   "json": "items/buildtools/iron-stove-t4-1404381373.json"
+  },
+  {
+   "id": 2003933910,
+   "name": "Sandstone Brazier",
+   "page": "items/buildtools/sandstone-brazier-2003933910.md",
+   "json": "items/buildtools/sandstone-brazier-2003933910.json"
+  },
+  {
+   "id": 2021009419,
+   "name": "Illumination T4 Brazier HallowHalls",
+   "page": "items/buildtools/illumination-t4-brazier-hallowhalls-2021009419.md",
+   "json": "items/buildtools/illumination-t4-brazier-hallowhalls-2021009419.json"
+  },
+  {
+   "id": 900587002,
+   "name": "Illumination T4 Brazier Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-brazier-huge-hallowhalls-900587002.md",
+   "json": "items/buildtools/illumination-t4-brazier-huge-hallowhalls-900587002.json"
+  },
+  {
+   "id": 4178847220,
+   "name": "Chandelier",
+   "page": "items/buildtools/chandelier-4178847220.md",
+   "json": "items/buildtools/chandelier-4178847220.json"
+  },
+  {
+   "id": 1631158255,
+   "name": "Lantern",
+   "page": "items/buildtools/lantern-1631158255.md",
+   "json": "items/buildtools/lantern-1631158255.json"
+  },
+  {
+   "id": 2560383707,
+   "name": "Wall Lantern",
+   "page": "items/buildtools/wall-lantern-2560383707.md",
+   "json": "items/buildtools/wall-lantern-2560383707.json"
+  },
+  {
+   "id": 1701190539,
+   "name": "Illumination T4 Chandelier Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-chandelier-huge-hallowhalls-1701190539.md",
+   "json": "items/buildtools/illumination-t4-chandelier-huge-hallowhalls-1701190539.json"
+  },
+  {
+   "id": 2539367258,
+   "name": "Illumination T4 Wall Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-wall-huge-hallowhalls-2539367258.md",
+   "json": "items/buildtools/illumination-t4-wall-huge-hallowhalls-2539367258.json"
+  },
+  {
+   "id": 2277507438,
+   "name": "Iron Wall Torch",
+   "page": "items/buildtools/iron-wall-torch-2277507438.md",
+   "json": "items/buildtools/iron-wall-torch-2277507438.json"
+  },
+  {
+   "id": 3043171452,
+   "name": "Iron Vorgoth Eye Trophy",
+   "page": "items/buildtools/iron-vorgoth-eye-trophy-3043171452.md",
+   "json": "items/buildtools/iron-vorgoth-eye-trophy-3043171452.json"
+  },
+  {
+   "id": 1753788725,
+   "name": "Iron Ancient Construct: Heavy Trophy",
+   "page": "items/buildtools/iron-ancient-construct-heavy-trophy-1753788725.md",
+   "json": "items/buildtools/iron-ancient-construct-heavy-trophy-1753788725.json"
+  },
+  {
+   "id": 2151396097,
+   "name": "Iron Hollow Wispwyvern Trophy",
+   "page": "items/buildtools/iron-hollow-wispwyvern-trophy-2151396097.md",
+   "json": "items/buildtools/iron-hollow-wispwyvern-trophy-2151396097.json"
+  },
+  {
+   "id": 3531113233,
+   "name": "Iron Hydrak'Dal Trophy",
+   "page": "items/buildtools/iron-hydrak-dal-trophy-3531113233.md",
+   "json": "items/buildtools/iron-hydrak-dal-trophy-3531113233.json"
+  },
+  {
+   "id": 2459686699,
+   "name": "Iron Hollow Heavy Hero Trophy",
+   "page": "items/buildtools/iron-hollow-heavy-hero-trophy-2459686699.md",
+   "json": "items/buildtools/iron-hollow-heavy-hero-trophy-2459686699.json"
+  },
+  {
+   "id": 887325393,
+   "name": "Metal Boss Trophy Dragon",
+   "page": "items/buildtools/metal-boss-trophy-dragon-887325393.md",
+   "json": "items/buildtools/metal-boss-trophy-dragon-887325393.json"
+  },
+  {
+   "id": 2422133492,
+   "name": "Metal Boss Trophy Cyclops Fell",
+   "page": "items/buildtools/metal-boss-trophy-cyclops-fell-2422133492.md",
+   "json": "items/buildtools/metal-boss-trophy-cyclops-fell-2422133492.json"
+  },
+  {
+   "id": 3561979363,
+   "name": "Metal Boss Trophy Cyclops",
+   "page": "items/buildtools/metal-boss-trophy-cyclops-3561979363.md",
+   "json": "items/buildtools/metal-boss-trophy-cyclops-3561979363.json"
+  },
+  {
+   "id": 644718122,
+   "name": "Iron Scavenger Tyrant Trophy",
+   "page": "items/buildtools/iron-scavenger-tyrant-trophy-644718122.md",
+   "json": "items/buildtools/iron-scavenger-tyrant-trophy-644718122.json"
+  },
+  {
+   "id": 4030944652,
+   "name": "Metal Boss Trophy Fell Heavy Mage",
+   "page": "items/buildtools/metal-boss-trophy-fell-heavy-mage-4030944652.md",
+   "json": "items/buildtools/metal-boss-trophy-fell-heavy-mage-4030944652.json"
+  },
+  {
+   "id": 2198899126,
+   "name": "Metal Boss Trophy Fell Monstrosity",
+   "page": "items/buildtools/metal-boss-trophy-fell-monstrosity-2198899126.md",
+   "json": "items/buildtools/metal-boss-trophy-fell-monstrosity-2198899126.json"
+  },
+  {
+   "id": 1790649468,
+   "name": "Iron Red Fell Critter Queen Trophy",
+   "page": "items/buildtools/iron-red-fell-critter-queen-trophy-1790649468.md",
+   "json": "items/buildtools/iron-red-fell-critter-queen-trophy-1790649468.json"
+  },
+  {
+   "id": 1414430028,
+   "name": "Iron Fell Critter Queen Trophy",
+   "page": "items/buildtools/iron-fell-critter-queen-trophy-1414430028.md",
+   "json": "items/buildtools/iron-fell-critter-queen-trophy-1414430028.json"
+  },
+  {
+   "id": 1054730604,
+   "name": "Metal Boss Trophy Hollow Cyclops",
+   "page": "items/buildtools/metal-boss-trophy-hollow-cyclops-1054730604.md",
+   "json": "items/buildtools/metal-boss-trophy-hollow-cyclops-1054730604.json"
+  },
+  {
+   "id": 4057512959,
+   "name": "Iron Werewolf Trophy",
+   "page": "items/buildtools/iron-werewolf-trophy-4057512959.md",
+   "json": "items/buildtools/iron-werewolf-trophy-4057512959.json"
+  },
+  {
+   "id": 2569708054,
+   "name": "Metal Boss Trophy Vukah",
+   "page": "items/buildtools/metal-boss-trophy-vukah-2569708054.md",
+   "json": "items/buildtools/metal-boss-trophy-vukah-2569708054.json"
+  },
+  {
+   "id": 2434354410,
+   "name": "Metal Boss Trophy Scavenger Mage",
+   "page": "items/buildtools/metal-boss-trophy-scavenger-mage-2434354410.md",
+   "json": "items/buildtools/metal-boss-trophy-scavenger-mage-2434354410.json"
+  },
+  {
+   "id": 2220616524,
+   "name": "Metal Boss Trophy Heavy",
+   "page": "items/buildtools/metal-boss-trophy-heavy-2220616524.md",
+   "json": "items/buildtools/metal-boss-trophy-heavy-2220616524.json"
+  },
+  {
+   "id": 2187829385,
+   "name": "Shield Wall Emblem I",
+   "page": "items/buildtools/shield-wall-emblem-i-2187829385.md",
+   "json": "items/buildtools/shield-wall-emblem-i-2187829385.json"
+  },
+  {
+   "id": 220736750,
+   "name": "Shield Wall Emblem II",
+   "page": "items/buildtools/shield-wall-emblem-ii-220736750.md",
+   "json": "items/buildtools/shield-wall-emblem-ii-220736750.json"
+  },
+  {
+   "id": 2918524342,
+   "name": "Diamond Wall Emblem I",
+   "page": "items/buildtools/diamond-wall-emblem-i-2918524342.md",
+   "json": "items/buildtools/diamond-wall-emblem-i-2918524342.json"
+  },
+  {
+   "id": 2980093307,
+   "name": "Diamond Wall Emblem II",
+   "page": "items/buildtools/diamond-wall-emblem-ii-2980093307.md",
+   "json": "items/buildtools/diamond-wall-emblem-ii-2980093307.json"
+  },
+  {
+   "id": 1210445973,
+   "name": "Wall Banner",
+   "page": "items/buildtools/wall-banner-1210445973.md",
+   "json": "items/buildtools/wall-banner-1210445973.json"
+  },
+  {
+   "id": 3862593821,
+   "name": "Long Wall Banner",
+   "page": "items/buildtools/long-wall-banner-3862593821.md",
+   "json": "items/buildtools/long-wall-banner-3862593821.json"
+  },
+  {
+   "id": 1539285358,
+   "name": "Ornate Wall Banner",
+   "page": "items/buildtools/ornate-wall-banner-1539285358.md",
+   "json": "items/buildtools/ornate-wall-banner-1539285358.json"
+  },
+  {
+   "id": 3639737989,
+   "name": "Broken hollow Halls Banner",
+   "page": "items/buildtools/broken-hollow-halls-banner-3639737989.md",
+   "json": "items/buildtools/broken-hollow-halls-banner-3639737989.json"
+  },
+  {
+   "id": 553983871,
+   "name": "Medium hollow Halls Banner",
+   "page": "items/buildtools/medium-hollow-halls-banner-553983871.md",
+   "json": "items/buildtools/medium-hollow-halls-banner-553983871.json"
+  },
+  {
+   "id": 3200238404,
+   "name": "Giant hollow Halls Banner",
+   "page": "items/buildtools/giant-hollow-halls-banner-3200238404.md",
+   "json": "items/buildtools/giant-hollow-halls-banner-3200238404.json"
+  },
+  {
+   "id": 3918097779,
+   "name": "Prison Room Divider I",
+   "page": "items/buildtools/prison-room-divider-i-3918097779.md",
+   "json": "items/buildtools/prison-room-divider-i-3918097779.json"
+  },
+  {
+   "id": 3805998945,
+   "name": "Prison Room Divider II",
+   "page": "items/buildtools/prison-room-divider-ii-3805998945.md",
+   "json": "items/buildtools/prison-room-divider-ii-3805998945.json"
+  },
+  {
+   "id": 117538727,
+   "name": "Iron Bucket",
+   "page": "items/buildtools/iron-bucket-117538727.md",
+   "json": "items/buildtools/iron-bucket-117538727.json"
+  },
+  {
+   "id": 2583752204,
+   "name": "Iron Grate",
+   "page": "items/buildtools/iron-grate-2583752204.md",
+   "json": "items/buildtools/iron-grate-2583752204.json"
+  },
+  {
+   "id": 2279483419,
+   "name": "Chain",
+   "page": "items/buildtools/chain-2279483419.md",
+   "json": "items/buildtools/chain-2279483419.json"
+  },
+  {
+   "id": 2746999550,
+   "name": "Pulley",
+   "page": "items/buildtools/pulley-2746999550.md",
+   "json": "items/buildtools/pulley-2746999550.json"
+  },
+  {
+   "id": 3959792094,
+   "name": "Iron Fence",
+   "page": "items/buildtools/iron-fence-3959792094.md",
+   "json": "items/buildtools/iron-fence-3959792094.json"
+  },
+  {
+   "id": 3546099400,
+   "name": "Prison Fence Pole",
+   "page": "items/buildtools/prison-fence-pole-3546099400.md",
+   "json": "items/buildtools/prison-fence-pole-3546099400.json"
+  },
+  {
+   "id": 2452070869,
+   "name": "Prison Fence",
+   "page": "items/buildtools/prison-fence-2452070869.md",
+   "json": "items/buildtools/prison-fence-2452070869.json"
+  },
+  {
+   "id": 1994301209,
+   "name": "Prison Fence Gate",
+   "page": "items/buildtools/prison-fence-gate-1994301209.md",
+   "json": "items/buildtools/prison-fence-gate-1994301209.json"
+  },
+  {
+   "id": 3983205690,
+   "name": "Fence Hollow Halls",
+   "page": "items/buildtools/fence-hollow-halls-3983205690.md",
+   "json": "items/buildtools/fence-hollow-halls-3983205690.json"
+  },
+  {
+   "id": 1799390834,
+   "name": "Fence Hollow Halls Big",
+   "page": "items/buildtools/fence-hollow-halls-big-1799390834.md",
+   "json": "items/buildtools/fence-hollow-halls-big-1799390834.json"
+  },
+  {
+   "id": 895710916,
+   "name": "Scientific Instruments",
+   "page": "items/buildtools/scientific-instruments-895710916.md",
+   "json": "items/buildtools/scientific-instruments-895710916.json"
+  },
+  {
+   "id": 311508484,
+   "name": "Cauldron",
+   "page": "items/buildtools/cauldron-311508484.md",
+   "json": "items/buildtools/cauldron-311508484.json"
+  },
+  {
+   "id": 2010028904,
+   "name": "Masonry Tools",
+   "page": "items/buildtools/masonry-tools-2010028904.md",
+   "json": "items/buildtools/masonry-tools-2010028904.json"
+  },
+  {
+   "id": 1461371688,
+   "name": "Circular Sawblades",
+   "page": "items/materials/circular-sawblades-1461371688.md",
+   "json": "items/materials/circular-sawblades-1461371688.json"
+  },
+  {
+   "id": 1615246126,
+   "name": "Spiral Iron Stairs",
+   "page": "items/buildtools/spiral-iron-stairs-1615246126.md",
+   "json": "items/buildtools/spiral-iron-stairs-1615246126.json"
+  },
+  {
+   "id": 2893449858,
+   "name": "Round Iron plated door",
+   "page": "items/buildtools/round-iron-plated-door-2893449858.md",
+   "json": "items/buildtools/round-iron-plated-door-2893449858.json"
+  },
+  {
+   "id": 437915741,
+   "name": "Ornate Iron Door",
+   "page": "items/buildtools/ornate-iron-door-437915741.md",
+   "json": "items/buildtools/ornate-iron-door-437915741.json"
+  },
+  {
+   "id": 813310886,
+   "name": "Iron Prison Door",
+   "page": "items/buildtools/iron-prison-door-813310886.md",
+   "json": "items/buildtools/iron-prison-door-813310886.json"
+  },
+  {
+   "id": 2382841178,
+   "name": "Huge Hollow Halls Door",
+   "page": "items/buildtools/huge-hollow-halls-door-2382841178.md",
+   "json": "items/buildtools/huge-hollow-halls-door-2382841178.json"
+  },
+  {
+   "id": 2031829546,
+   "name": "Large Hollow Halls door",
+   "page": "items/buildtools/large-hollow-halls-door-2031829546.md",
+   "json": "items/buildtools/large-hollow-halls-door-2031829546.json"
+  },
+  {
+   "id": 852718536,
+   "name": "Hollow Halls Gate",
+   "page": "items/buildtools/hollow-halls-gate-852718536.md",
+   "json": "items/buildtools/hollow-halls-gate-852718536.json"
+  },
+  {
+   "id": 2466361529,
+   "name": "Iron Window Frame",
+   "page": "items/buildtools/iron-window-frame-2466361529.md",
+   "json": "items/buildtools/iron-window-frame-2466361529.json"
+  },
+  {
+   "id": 484740866,
+   "name": "Large Iron Window Frame",
+   "page": "items/buildtools/large-iron-window-frame-484740866.md",
+   "json": "items/buildtools/large-iron-window-frame-484740866.json"
+  },
+  {
+   "id": 3767898883,
+   "name": "High Iron Window Frame I",
+   "page": "items/buildtools/high-iron-window-frame-i-3767898883.md",
+   "json": "items/buildtools/high-iron-window-frame-i-3767898883.json"
+  },
+  {
+   "id": 2100770641,
+   "name": "High Iron Window Frame II",
+   "page": "items/buildtools/high-iron-window-frame-ii-2100770641.md",
+   "json": "items/buildtools/high-iron-window-frame-ii-2100770641.json"
+  },
+  {
+   "id": 2927359933,
+   "name": "Small Iron Window Frame",
+   "page": "items/buildtools/small-iron-window-frame-2927359933.md",
+   "json": "items/buildtools/small-iron-window-frame-2927359933.json"
+  },
+  {
+   "id": 2046629640,
+   "name": "Iron Window Frame I",
+   "page": "items/buildtools/iron-window-frame-i-2046629640.md",
+   "json": "items/buildtools/iron-window-frame-i-2046629640.json"
+  },
+  {
+   "id": 240211609,
+   "name": "Iron Window Frame II",
+   "page": "items/buildtools/iron-window-frame-ii-240211609.md",
+   "json": "items/buildtools/iron-window-frame-ii-240211609.json"
+  }
+ ],
+ "page": "items/materials/iron-bars-159114158.md"
+}

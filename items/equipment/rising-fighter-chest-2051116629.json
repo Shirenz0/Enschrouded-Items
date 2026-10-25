@@ -1,0 +1,71 @@
+{
+ "id": 2051116629,
+ "name": "Rising Fighter Chest",
+ "internalName": "Armor_T1_Warrior_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/2051116629.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Light, polstered and ready to take a few hits - the perfect chest armor for a beginner.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/rising-fighter-chest.md",
+  "json": "objects/equipment/rising-fighter-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Rage",
+   "effect": "Increases the skill level of Blood Rage by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+20 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  }
+ ],
+ "page": "items/equipment/rising-fighter-chest-2051116629.md"
+}

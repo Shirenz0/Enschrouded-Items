@@ -1,0 +1,255 @@
+{
+ "id": 1283252179,
+ "name": "Tropical Wood",
+ "internalName": "Material_T6_Wood_Logs_Tropical",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1283252179.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Tropical wood, resource from very large/tall trees, sturdy material",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2943277884,
+   "name": "Excellent Fishing Rod",
+   "page": "items/buildtools/excellent-fishing-rod-2943277884.md",
+   "json": "items/buildtools/excellent-fishing-rod-2943277884.json"
+  },
+  {
+   "id": 3304880057,
+   "name": "Irrigation Gate Small",
+   "page": "items/buildtools/irrigation-gate-small-3304880057.md",
+   "json": "items/buildtools/irrigation-gate-small-3304880057.json"
+  },
+  {
+   "id": 177271020,
+   "name": "Irrigation Gate Large",
+   "page": "items/buildtools/irrigation-gate-large-177271020.md",
+   "json": "items/buildtools/irrigation-gate-large-177271020.json"
+  },
+  {
+   "id": 1253279979,
+   "name": "T6 Palmwood shellime plaster Pirate Bay Blocks",
+   "page": "items/buildtools/t6-palmwood-shellime-plaster-pirate-bay-blocks-1253279979.md",
+   "json": "items/buildtools/t6-palmwood-shellime-plaster-pirate-bay-blocks-1253279979.json"
+  },
+  {
+   "id": 1364879646,
+   "name": "Small Water Wheel",
+   "page": "items/buildtools/small-water-wheel-1364879646.md",
+   "json": "items/buildtools/small-water-wheel-1364879646.json"
+  },
+  {
+   "id": 2961306312,
+   "name": "Small Windmill",
+   "page": "items/buildtools/small-windmill-2961306312.md",
+   "json": "items/buildtools/small-windmill-2961306312.json"
+  },
+  {
+   "id": 2340842635,
+   "name": "Large Water Wheel",
+   "page": "items/buildtools/large-water-wheel-2340842635.md",
+   "json": "items/buildtools/large-water-wheel-2340842635.json"
+  },
+  {
+   "id": 2994798992,
+   "name": "Mangrove Seedling",
+   "page": "items/buildtools/mangrove-seedling-2994798992.md",
+   "json": "items/buildtools/mangrove-seedling-2994798992.json"
+  },
+  {
+   "id": 431218523,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-431218523.md",
+   "json": "items/weapons/fenrig-s-axe-431218523.json"
+  },
+  {
+   "id": 1323450933,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-1323450933.md",
+   "json": "items/weapons/jezmina-s-apotheosis-1323450933.json"
+  },
+  {
+   "id": 863684883,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-863684883.md",
+   "json": "items/weapons/lupa-s-scalper-863684883.json"
+  },
+  {
+   "id": 2594618935,
+   "name": "Dragonsbane",
+   "page": "items/weapons/dragonsbane-2594618935.md",
+   "json": "items/weapons/dragonsbane-2594618935.json"
+  },
+  {
+   "id": 2409952376,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-2409952376.md",
+   "json": "items/weapons/halescourge-2409952376.json"
+  },
+  {
+   "id": 349263893,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-349263893.md",
+   "json": "items/equipment/riptide-349263893.json"
+  },
+  {
+   "id": 500747971,
+   "name": "Golden Recruit Axe",
+   "page": "items/weapons/golden-recruit-axe-500747971.md",
+   "json": "items/weapons/golden-recruit-axe-500747971.json"
+  },
+  {
+   "id": 2347176360,
+   "name": "Golden War Veteran Axe",
+   "page": "items/weapons/golden-war-veteran-axe-2347176360.md",
+   "json": "items/weapons/golden-war-veteran-axe-2347176360.json"
+  },
+  {
+   "id": 430276931,
+   "name": "Ancestral Star",
+   "page": "items/weapons/ancestral-star-430276931.md",
+   "json": "items/weapons/ancestral-star-430276931.json"
+  },
+  {
+   "id": 1166996760,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-1166996760.md",
+   "json": "items/weapons/soothsayer-1166996760.json"
+  },
+  {
+   "id": 2676513257,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-2676513257.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2676513257.json"
+  },
+  {
+   "id": 3626685627,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-3626685627.md",
+   "json": "items/weapons/draconian-bow-3626685627.json"
+  },
+  {
+   "id": 595694028,
+   "name": "Horizontal Banner I",
+   "page": "items/buildtools/horizontal-banner-i-595694028.md",
+   "json": "items/buildtools/horizontal-banner-i-595694028.json"
+  },
+  {
+   "id": 215344206,
+   "name": "Horizontal Banner II",
+   "page": "items/buildtools/horizontal-banner-ii-215344206.md",
+   "json": "items/buildtools/horizontal-banner-ii-215344206.json"
+  },
+  {
+   "id": 1847513367,
+   "name": "Vertical Banner I",
+   "page": "items/buildtools/vertical-banner-i-1847513367.md",
+   "json": "items/buildtools/vertical-banner-i-1847513367.json"
+  },
+  {
+   "id": 3490053092,
+   "name": "Vertical Banner II",
+   "page": "items/buildtools/vertical-banner-ii-3490053092.md",
+   "json": "items/buildtools/vertical-banner-ii-3490053092.json"
+  },
+  {
+   "id": 3492878315,
+   "name": "Vertical Banner III",
+   "page": "items/buildtools/vertical-banner-iii-3492878315.md",
+   "json": "items/buildtools/vertical-banner-iii-3492878315.json"
+  },
+  {
+   "id": 3401744803,
+   "name": "Vertical Banner IV",
+   "page": "items/buildtools/vertical-banner-iv-3401744803.md",
+   "json": "items/buildtools/vertical-banner-iv-3401744803.json"
+  },
+  {
+   "id": 4264389715,
+   "name": "Fish Drying Rack",
+   "page": "items/buildtools/fish-drying-rack-4264389715.md",
+   "json": "items/buildtools/fish-drying-rack-4264389715.json"
+  },
+  {
+   "id": 3456819812,
+   "name": "Drak Wood Totem I",
+   "page": "items/buildtools/drak-wood-totem-i-3456819812.md",
+   "json": "items/buildtools/drak-wood-totem-i-3456819812.json"
+  },
+  {
+   "id": 2892618521,
+   "name": "Drak Wood Totem II",
+   "page": "items/buildtools/drak-wood-totem-ii-2892618521.md",
+   "json": "items/buildtools/drak-wood-totem-ii-2892618521.json"
+  },
+  {
+   "id": 1874208947,
+   "name": "Drak Wood Totem III",
+   "page": "items/buildtools/drak-wood-totem-iii-1874208947.md",
+   "json": "items/buildtools/drak-wood-totem-iii-1874208947.json"
+  },
+  {
+   "id": 2468542740,
+   "name": "Drak Wood Totem IV",
+   "page": "items/buildtools/drak-wood-totem-iv-2468542740.md",
+   "json": "items/buildtools/drak-wood-totem-iv-2468542740.json"
+  },
+  {
+   "id": 1898842260,
+   "name": "Drak Wood Totem V",
+   "page": "items/buildtools/drak-wood-totem-v-1898842260.md",
+   "json": "items/buildtools/drak-wood-totem-v-1898842260.json"
+  },
+  {
+   "id": 2339691082,
+   "name": "Carved Tropical Wood Fence with Ropes I",
+   "page": "items/buildtools/carved-tropical-wood-fence-with-ropes-i-2339691082.md",
+   "json": "items/buildtools/carved-tropical-wood-fence-with-ropes-i-2339691082.json"
+  },
+  {
+   "id": 1736007350,
+   "name": "Carved Tropical Wood Fence with Ropes II",
+   "page": "items/buildtools/carved-tropical-wood-fence-with-ropes-ii-1736007350.md",
+   "json": "items/buildtools/carved-tropical-wood-fence-with-ropes-ii-1736007350.json"
+  },
+  {
+   "id": 161588181,
+   "name": "Carved Tropical Wood Fence Pole",
+   "page": "items/buildtools/carved-tropical-wood-fence-pole-161588181.md",
+   "json": "items/buildtools/carved-tropical-wood-fence-pole-161588181.json"
+  },
+  {
+   "id": 156080606,
+   "name": "Simple Tropical Wood Fence with Ropes I",
+   "page": "items/buildtools/simple-tropical-wood-fence-with-ropes-i-156080606.md",
+   "json": "items/buildtools/simple-tropical-wood-fence-with-ropes-i-156080606.json"
+  },
+  {
+   "id": 2103140295,
+   "name": "Simple Tropical Wood Fence with Ropes II",
+   "page": "items/buildtools/simple-tropical-wood-fence-with-ropes-ii-2103140295.md",
+   "json": "items/buildtools/simple-tropical-wood-fence-with-ropes-ii-2103140295.json"
+  },
+  {
+   "id": 2813422596,
+   "name": "Fish Showcase",
+   "page": "items/buildtools/fish-showcase-2813422596.md",
+   "json": "items/buildtools/fish-showcase-2813422596.json"
+  }
+ ],
+ "page": "items/materials/tropical-wood-1283252179.md"
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Fine Wooden Fence",
+ "category": "BuildTools",
+ "image": "images/icons/703273030.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [
+  "max stack"
+ ],
+ "items": [
+  {
+   "id": 3166374248,
+   "name": "Fine Wooden Fence",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3166374248.png",
+   "page": "items/buildtools/fine-wooden-fence-3166374248.md",
+   "json": "items/buildtools/fine-wooden-fence-3166374248.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3307829786,
+   "name": "Fine Wooden Fence",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3307829786.png",
+   "page": "items/buildtools/fine-wooden-fence-3307829786.md",
+   "json": "items/buildtools/fine-wooden-fence-3307829786.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 703273030,
+   "name": "Fine Wooden Fence",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/703273030.png",
+   "page": "items/buildtools/fine-wooden-fence-703273030.md",
+   "json": "items/buildtools/fine-wooden-fence-703273030.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/fine-wooden-fence.md"
+}

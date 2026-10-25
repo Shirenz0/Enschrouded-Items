@@ -1,0 +1,39 @@
+{
+ "id": 4090772336,
+ "name": "Fresh Shroud Spore",
+ "internalName": "Material_T1_Shroud_Medicine",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/4090772336.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Fresh shroud spores are used to craft medicine that can cure shroud infection.",
+ "lore": null,
+ "whereToFind": "night",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1518794687,
+   "name": "Shroud Curse Cleanser",
+   "page": "items/consumables/shroud-curse-cleanser-1518794687.md",
+   "json": "items/consumables/shroud-curse-cleanser-1518794687.json"
+  },
+  {
+   "id": 1782997504,
+   "name": "Fog Survival Flask",
+   "page": "items/consumables/fog-survival-flask-1782997504.md",
+   "json": "items/consumables/fog-survival-flask-1782997504.json"
+  }
+ ],
+ "page": "items/materials/fresh-shroud-spore-4090772336.md"
+}

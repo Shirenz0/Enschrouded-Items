@@ -1,0 +1,43 @@
+{
+ "id": 2581939916,
+ "name": "Dead Wood Block",
+ "internalName": "Block_T1_Wood_Deadwood_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2581939916.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wood block made from trees that died a long time ago. They are extremely common in Shroud areas.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1904288857,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/dead-wood-block-2581939916.md"
+}

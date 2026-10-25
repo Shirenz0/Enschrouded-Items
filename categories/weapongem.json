@@ -1,0 +1,260 @@
+{
+ "category": "WeaponGem",
+ "title": "Weapon Gems",
+ "count": 28,
+ "page": "categories/weapongem.md",
+ "items": [
+  {
+   "id": 591982940,
+   "name": "Gem of Aerobatics",
+   "rarity": "Epic",
+   "level": "1-105",
+   "image": "images/icons/591982940.png",
+   "page": "items/weapongem/gem-of-aerobatics-591982940.md",
+   "json": "items/weapongem/gem-of-aerobatics-591982940.json"
+  },
+  {
+   "id": 4128996534,
+   "name": "Gem of Agility",
+   "rarity": "Rare",
+   "level": "1-105",
+   "image": "images/icons/4128996534.png",
+   "page": "items/weapongem/gem-of-agility-4128996534.md",
+   "json": "items/weapongem/gem-of-agility-4128996534.json"
+  },
+  {
+   "id": 2686813646,
+   "name": "Gem of Armoring",
+   "rarity": "Legendary",
+   "level": "1-105",
+   "image": "images/icons/2686813646.png",
+   "page": "items/weapongem/gem-of-armoring-2686813646.md",
+   "json": "items/weapongem/gem-of-armoring-2686813646.json"
+  },
+  {
+   "id": 697993352,
+   "name": "Gem of Bleeding",
+   "rarity": "Common",
+   "level": "1-105",
+   "image": "images/icons/697993352.png",
+   "page": "items/weapongem/gem-of-bleeding-697993352.md",
+   "json": "items/weapongem/gem-of-bleeding-697993352.json"
+  },
+  {
+   "id": 1066469057,
+   "name": "Gem of Bloodlust",
+   "rarity": "Rare",
+   "level": "1-105",
+   "image": "images/icons/1066469057.png",
+   "page": "items/weapongem/gem-of-bloodlust-1066469057.md",
+   "json": "items/weapongem/gem-of-bloodlust-1066469057.json"
+  },
+  {
+   "id": 3663511234,
+   "name": "Gem of Burning",
+   "rarity": "Common",
+   "level": "1-105",
+   "image": "images/icons/3663511234.png",
+   "page": "items/weapongem/gem-of-burning-3663511234.md",
+   "json": "items/weapongem/gem-of-burning-3663511234.json"
+  },
+  {
+   "id": 312775854,
+   "name": "Gem of Cleansing",
+   "rarity": "Epic",
+   "level": "1-105",
+   "image": "images/icons/312775854.png",
+   "page": "items/weapongem/gem-of-cleansing-312775854.md",
+   "json": "items/weapongem/gem-of-cleansing-312775854.json"
+  },
+  {
+   "id": 3203425312,
+   "name": "Gem of Cold Composure",
+   "rarity": "Legendary",
+   "level": "1-105",
+   "image": "images/icons/3203425312.png",
+   "page": "items/weapongem/gem-of-cold-composure-3203425312.md",
+   "json": "items/weapongem/gem-of-cold-composure-3203425312.json"
+  },
+  {
+   "id": 3844758208,
+   "name": "Gem of Conduction",
+   "rarity": "Uncommon",
+   "level": "1-105",
+   "image": "images/icons/3844758208.png",
+   "page": "items/weapongem/gem-of-conduction-3844758208.md",
+   "json": "items/weapongem/gem-of-conduction-3844758208.json"
+  },
+  {
+   "id": 1073007208,
+   "name": "Gem of Corruption",
+   "rarity": "Epic",
+   "level": "1-105",
+   "image": "images/icons/1073007208.png",
+   "page": "items/weapongem/gem-of-corruption-1073007208.md",
+   "json": "items/weapongem/gem-of-corruption-1073007208.json"
+  },
+  {
+   "id": 1634845335,
+   "name": "Gem of Currents",
+   "rarity": "Rare",
+   "level": "1-105",
+   "image": "images/icons/1634845335.png",
+   "page": "items/weapongem/gem-of-currents-1634845335.md",
+   "json": "items/weapongem/gem-of-currents-1634845335.json"
+  },
+  {
+   "id": 2622336202,
+   "name": "Gem of Destiny",
+   "rarity": "Epic",
+   "level": "1-105",
+   "image": "images/icons/2622336202.png",
+   "page": "items/weapongem/gem-of-destiny-2622336202.md",
+   "json": "items/weapongem/gem-of-destiny-2622336202.json"
+  },
+  {
+   "id": 63026718,
+   "name": "Gem of Focused Light",
+   "rarity": "Legendary",
+   "level": "1-105",
+   "image": "images/icons/63026718.png",
+   "page": "items/weapongem/gem-of-focused-light-63026718.md",
+   "json": "items/weapongem/gem-of-focused-light-63026718.json"
+  },
+  {
+   "id": 1786201577,
+   "name": "Gem of Fracturing",
+   "rarity": "Rare",
+   "level": "1-105",
+   "image": "images/icons/1786201577.png",
+   "page": "items/weapongem/gem-of-fracturing-1786201577.md",
+   "json": "items/weapongem/gem-of-fracturing-1786201577.json"
+  },
+  {
+   "id": 2267960734,
+   "name": "Gem of Greater Necromancy",
+   "rarity": "Rare",
+   "level": "1-105",
+   "image": "images/icons/2267960734.png",
+   "page": "items/weapongem/gem-of-greater-necromancy-2267960734.md",
+   "json": "items/weapongem/gem-of-greater-necromancy-2267960734.json"
+  },
+  {
+   "id": 4099513710,
+   "name": "Gem of Hopeful Embers",
+   "rarity": "Rare",
+   "level": "1-105",
+   "image": "images/icons/4099513710.png",
+   "page": "items/weapongem/gem-of-hopeful-embers-4099513710.md",
+   "json": "items/weapongem/gem-of-hopeful-embers-4099513710.json"
+  },
+  {
+   "id": 2418233534,
+   "name": "Gem of Hyperspecialization",
+   "rarity": "Legendary",
+   "level": "1-105",
+   "image": "images/icons/2418233534.png",
+   "page": "items/weapongem/gem-of-hyperspecialization-2418233534.md",
+   "json": "items/weapongem/gem-of-hyperspecialization-2418233534.json"
+  },
+  {
+   "id": 2671415350,
+   "name": "Gem of Lesser Necromancy",
+   "rarity": "Uncommon",
+   "level": "1-105",
+   "image": "images/icons/2671415350.png",
+   "page": "items/weapongem/gem-of-lesser-necromancy-2671415350.md",
+   "json": "items/weapongem/gem-of-lesser-necromancy-2671415350.json"
+  },
+  {
+   "id": 1460033731,
+   "name": "Gem of Lycanthropy",
+   "rarity": "Legendary",
+   "level": "1-105",
+   "image": "images/icons/1460033731.png",
+   "page": "items/weapongem/gem-of-lycanthropy-1460033731.md",
+   "json": "items/weapongem/gem-of-lycanthropy-1460033731.json"
+  },
+  {
+   "id": 960232612,
+   "name": "Gem of Meteoric Descent",
+   "rarity": "Epic",
+   "level": "1-105",
+   "image": "images/icons/960232612.png",
+   "page": "items/weapongem/gem-of-meteoric-descent-960232612.md",
+   "json": "items/weapongem/gem-of-meteoric-descent-960232612.json"
+  },
+  {
+   "id": 100480458,
+   "name": "Gem of Obsession",
+   "rarity": "Rare",
+   "level": "1-105",
+   "image": "images/icons/100480458.png",
+   "page": "items/weapongem/gem-of-obsession-100480458.md",
+   "json": "items/weapongem/gem-of-obsession-100480458.json"
+  },
+  {
+   "id": 2729865674,
+   "name": "Gem of Overpowering",
+   "rarity": "Uncommon",
+   "level": "1-105",
+   "image": "images/icons/2729865674.png",
+   "page": "items/weapongem/gem-of-overpowering-2729865674.md",
+   "json": "items/weapongem/gem-of-overpowering-2729865674.json"
+  },
+  {
+   "id": 844759039,
+   "name": "Gem of Repetition",
+   "rarity": "Common",
+   "level": "1-105",
+   "image": "images/icons/844759039.png",
+   "page": "items/weapongem/gem-of-repetition-844759039.md",
+   "json": "items/weapongem/gem-of-repetition-844759039.json"
+  },
+  {
+   "id": 2157770933,
+   "name": "Gem of Retaliation",
+   "rarity": "Common",
+   "level": "1-105",
+   "image": "images/icons/2157770933.png",
+   "page": "items/weapongem/gem-of-retaliation-2157770933.md",
+   "json": "items/weapongem/gem-of-retaliation-2157770933.json"
+  },
+  {
+   "id": 3928711197,
+   "name": "Gem of Skulls",
+   "rarity": "Uncommon",
+   "level": "1-105",
+   "image": "images/icons/3928711197.png",
+   "page": "items/weapongem/gem-of-skulls-3928711197.md",
+   "json": "items/weapongem/gem-of-skulls-3928711197.json"
+  },
+  {
+   "id": 173591857,
+   "name": "Gem of Soul Reaping",
+   "rarity": "Epic",
+   "level": "1-105",
+   "image": "images/icons/173591857.png",
+   "page": "items/weapongem/gem-of-soul-reaping-173591857.md",
+   "json": "items/weapongem/gem-of-soul-reaping-173591857.json"
+  },
+  {
+   "id": 1378756449,
+   "name": "Gem of Swiftness",
+   "rarity": "Uncommon",
+   "level": "1-105",
+   "image": "images/icons/1378756449.png",
+   "page": "items/weapongem/gem-of-swiftness-1378756449.md",
+   "json": "items/weapongem/gem-of-swiftness-1378756449.json"
+  },
+  {
+   "id": 415736304,
+   "name": "Gem of Toxic Reaction",
+   "rarity": "Uncommon",
+   "level": "1-105",
+   "image": "images/icons/415736304.png",
+   "page": "items/weapongem/gem-of-toxic-reaction-415736304.md",
+   "json": "items/weapongem/gem-of-toxic-reaction-415736304.json"
+  }
+ ]
+}

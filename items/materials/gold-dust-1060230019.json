@@ -1,0 +1,261 @@
+{
+ "id": 1060230019,
+ "name": "Gold Dust",
+ "internalName": "Material_T6_Gold_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1060230019.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 gold dust desc",
+ "lore": null,
+ "whereToFind": "Crafting, Improved Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2442750350,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3326121147,
+   "name": "Underwater Grappling Hook",
+   "page": "items/tools/underwater-grappling-hook-3326121147.md",
+   "json": "items/tools/underwater-grappling-hook-3326121147.json"
+  },
+  {
+   "id": 1476723348,
+   "name": "Lucky Fishing Rod",
+   "page": "items/buildtools/lucky-fishing-rod-1476723348.md",
+   "json": "items/buildtools/lucky-fishing-rod-1476723348.json"
+  },
+  {
+   "id": 2943277884,
+   "name": "Excellent Fishing Rod",
+   "page": "items/buildtools/excellent-fishing-rod-2943277884.md",
+   "json": "items/buildtools/excellent-fishing-rod-2943277884.json"
+  },
+  {
+   "id": 2519697782,
+   "name": "Celesthium Steel Arrow",
+   "page": "items/ammunition/celesthium-steel-arrow-2519697782.md",
+   "json": "items/ammunition/celesthium-steel-arrow-2519697782.json"
+  },
+  {
+   "id": 3634108976,
+   "name": "Golden Steel Arrow",
+   "page": "items/ammunition/golden-steel-arrow-3634108976.md",
+   "json": "items/ammunition/golden-steel-arrow-3634108976.json"
+  },
+  {
+   "id": 111980330,
+   "name": "T6 Pillar of Flames III",
+   "page": "items/ammunition/t6-pillar-of-flames-iii-111980330.md",
+   "json": "items/ammunition/t6-pillar-of-flames-iii-111980330.json"
+  },
+  {
+   "id": 3250908839,
+   "name": "Player Base Gem Forge",
+   "page": "items/buildtools/player-base-gem-forge-3250908839.md",
+   "json": "items/buildtools/player-base-gem-forge-3250908839.json"
+  },
+  {
+   "id": 2501086572,
+   "name": "Magic Infusion Station",
+   "page": "items/buildtools/magic-infusion-station-2501086572.md",
+   "json": "items/buildtools/magic-infusion-station-2501086572.json"
+  },
+  {
+   "id": 2068629527,
+   "name": "Coffee Roastery",
+   "page": "items/buildtools/coffee-roastery-2068629527.md",
+   "json": "items/buildtools/coffee-roastery-2068629527.json"
+  },
+  {
+   "id": 4185580477,
+   "name": "Brewer",
+   "page": "items/buildtools/brewer-4185580477.md",
+   "json": "items/buildtools/brewer-4185580477.json"
+  },
+  {
+   "id": 1860080518,
+   "name": "From Dusk Till Dawn",
+   "page": "items/colorpalette/from-dusk-till-dawn-1860080518.md",
+   "json": "items/colorpalette/from-dusk-till-dawn-1860080518.json"
+  },
+  {
+   "id": 2979937043,
+   "name": "Passionflower at night",
+   "page": "items/colorpalette/passionflower-at-night-2979937043.md",
+   "json": "items/colorpalette/passionflower-at-night-2979937043.json"
+  },
+  {
+   "id": 1323450933,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-1323450933.md",
+   "json": "items/weapons/jezmina-s-apotheosis-1323450933.json"
+  },
+  {
+   "id": 2594618935,
+   "name": "Dragonsbane",
+   "page": "items/weapons/dragonsbane-2594618935.md",
+   "json": "items/weapons/dragonsbane-2594618935.json"
+  },
+  {
+   "id": 3584171520,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-3584171520.md",
+   "json": "items/weapons/dragon-sword-3584171520.json"
+  },
+  {
+   "id": 1142953776,
+   "name": "Darya's Wand",
+   "page": "items/weapons/darya-s-wand-1142953776.md",
+   "json": "items/weapons/darya-s-wand-1142953776.json"
+  },
+  {
+   "id": 2913802289,
+   "name": "Maritime Shower",
+   "page": "items/buildtools/maritime-shower-2913802289.md",
+   "json": "items/buildtools/maritime-shower-2913802289.json"
+  },
+  {
+   "id": 22428115,
+   "name": "Maritime Bathtub",
+   "page": "items/buildtools/maritime-bathtub-22428115.md",
+   "json": "items/buildtools/maritime-bathtub-22428115.json"
+  },
+  {
+   "id": 1948270754,
+   "name": "Maritime Toilet",
+   "page": "items/buildtools/maritime-toilet-1948270754.md",
+   "json": "items/buildtools/maritime-toilet-1948270754.json"
+  },
+  {
+   "id": 101619585,
+   "name": "Maritime Sink",
+   "page": "items/buildtools/maritime-sink-101619585.md",
+   "json": "items/buildtools/maritime-sink-101619585.json"
+  },
+  {
+   "id": 492657660,
+   "name": "Ancient Temple Wall Brazier",
+   "page": "items/buildtools/ancient-temple-wall-brazier-492657660.md",
+   "json": "items/buildtools/ancient-temple-wall-brazier-492657660.json"
+  },
+  {
+   "id": 2672833225,
+   "name": "Ancient Temple Floor Brazier I",
+   "page": "items/buildtools/ancient-temple-floor-brazier-i-2672833225.md",
+   "json": "items/buildtools/ancient-temple-floor-brazier-i-2672833225.json"
+  },
+  {
+   "id": 629845468,
+   "name": "Ancient Temple Floor Brazier II",
+   "page": "items/buildtools/ancient-temple-floor-brazier-ii-629845468.md",
+   "json": "items/buildtools/ancient-temple-floor-brazier-ii-629845468.json"
+  },
+  {
+   "id": 1217351495,
+   "name": "Small Throneroom Brazier",
+   "page": "items/buildtools/small-throneroom-brazier-1217351495.md",
+   "json": "items/buildtools/small-throneroom-brazier-1217351495.json"
+  },
+  {
+   "id": 737777235,
+   "name": "Large Throneroom Brazier",
+   "page": "items/buildtools/large-throneroom-brazier-737777235.md",
+   "json": "items/buildtools/large-throneroom-brazier-737777235.json"
+  },
+  {
+   "id": 3411679342,
+   "name": "Throneroom Wall Brazier",
+   "page": "items/buildtools/throneroom-wall-brazier-3411679342.md",
+   "json": "items/buildtools/throneroom-wall-brazier-3411679342.json"
+  },
+  {
+   "id": 678777236,
+   "name": "Throneroom Floor Lamp",
+   "page": "items/buildtools/throneroom-floor-lamp-678777236.md",
+   "json": "items/buildtools/throneroom-floor-lamp-678777236.json"
+  },
+  {
+   "id": 2079216961,
+   "name": "Throneroom Wall Lamp",
+   "page": "items/buildtools/throneroom-wall-lamp-2079216961.md",
+   "json": "items/buildtools/throneroom-wall-lamp-2079216961.json"
+  },
+  {
+   "id": 3456819812,
+   "name": "Drak Wood Totem I",
+   "page": "items/buildtools/drak-wood-totem-i-3456819812.md",
+   "json": "items/buildtools/drak-wood-totem-i-3456819812.json"
+  },
+  {
+   "id": 2892618521,
+   "name": "Drak Wood Totem II",
+   "page": "items/buildtools/drak-wood-totem-ii-2892618521.md",
+   "json": "items/buildtools/drak-wood-totem-ii-2892618521.json"
+  },
+  {
+   "id": 1874208947,
+   "name": "Drak Wood Totem III",
+   "page": "items/buildtools/drak-wood-totem-iii-1874208947.md",
+   "json": "items/buildtools/drak-wood-totem-iii-1874208947.json"
+  },
+  {
+   "id": 2468542740,
+   "name": "Drak Wood Totem IV",
+   "page": "items/buildtools/drak-wood-totem-iv-2468542740.md",
+   "json": "items/buildtools/drak-wood-totem-iv-2468542740.json"
+  },
+  {
+   "id": 1898842260,
+   "name": "Drak Wood Totem V",
+   "page": "items/buildtools/drak-wood-totem-v-1898842260.md",
+   "json": "items/buildtools/drak-wood-totem-v-1898842260.json"
+  },
+  {
+   "id": 1551372920,
+   "name": "Meteorite Showcase (3 Small Slots)",
+   "page": "items/buildtools/meteorite-showcase-3-small-slots-1551372920.md",
+   "json": "items/buildtools/meteorite-showcase-3-small-slots-1551372920.json"
+  },
+  {
+   "id": 878567414,
+   "name": "Meteorite Showcase (1 Large Slot)",
+   "page": "items/buildtools/meteorite-showcase-1-large-slot-878567414.md",
+   "json": "items/buildtools/meteorite-showcase-1-large-slot-878567414.json"
+  },
+  {
+   "id": 382673697,
+   "name": "Meteorite Showcase (5 Small Slots)",
+   "page": "items/buildtools/meteorite-showcase-5-small-slots-382673697.md",
+   "json": "items/buildtools/meteorite-showcase-5-small-slots-382673697.json"
+  }
+ ],
+ "page": "items/materials/gold-dust-1060230019.md"
+}

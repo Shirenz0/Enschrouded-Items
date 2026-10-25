@@ -17,4 +17,4 @@ Breathable and swift pants which allow magic wielders to engage further in comba
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-battlemage-legs.json)

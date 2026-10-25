@@ -1,0 +1,61 @@
+{
+ "id": 3360608010,
+ "name": "Hazelnut",
+ "internalName": "Food_T2_raw_grain_Hazelnut",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3360608010.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A nice snack for the way. The strength it takes to crack its shell, it gives back upon consumption.",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Melee Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 750000,
+    "display": "12:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2630618097,
+   "name": "Raw Meat and Hazelnut Skewer",
+   "page": "items/materials/raw-meat-and-hazelnut-skewer-2630618097.md",
+   "json": "items/materials/raw-meat-and-hazelnut-skewer-2630618097.json"
+  },
+  {
+   "id": 2666875137,
+   "name": "Hazelnut bush seedling",
+   "page": "items/buildtools/hazelnut-bush-seedling-2666875137.md",
+   "json": "items/buildtools/hazelnut-bush-seedling-2666875137.json"
+  },
+  {
+   "id": 1674254183,
+   "name": "Food Bunny Feeding",
+   "page": "items/buildtools/food-bunny-feeding-1674254183.md",
+   "json": "items/buildtools/food-bunny-feeding-1674254183.json"
+  }
+ ],
+ "page": "items/consumables/hazelnut-3360608010.md"
+}

@@ -1,0 +1,47 @@
+{
+ "id": 2058567631,
+ "name": "Prayer of the Flame Scroll",
+ "internalName": "Consumable_Scroll_Prayer_Of_The_Flame_Buff",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2058567631.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers a small prayer to the flame, that increases your characters Spell Damage and Fog Survivability for a short amount of time.",
+ "lore": "A tiny flame, a tiny light\nbanishes the darkness and all it's blight",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Fog Survivability",
+    "value": 120000,
+    "display": "120,000",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Cost",
+    "value": 55,
+    "display": "55",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Increased Fire Damage",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/prayer-of-the-flame-scroll-2058567631.md"
+}

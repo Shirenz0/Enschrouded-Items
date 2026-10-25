@@ -1,0 +1,124 @@
+{
+ "id": 71610791,
+ "name": "Fish Tacos",
+ "internalName": "Food_T7_dish_fish_FishTacos",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/71610791.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Fish Tacos filled with rice that is made of plantains",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3600000,
+    "display": "60:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Maximum Oxygen",
+    "value": 75,
+    "display": "75",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1736846922,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2349456895,
+      "name": "Plantain",
+      "page": "items/consumables/plantain-2349456895.md",
+      "json": "items/consumables/plantain-2349456895.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2160078991,
+      "name": "Flat Bread",
+      "page": "items/consumables/flat-bread-2160078991.md",
+      "json": "items/consumables/flat-bread-2160078991.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3317538148,
+      "name": "Ancient \"Beans\"",
+      "page": "items/consumables/ancient-beans-3317538148.md",
+      "json": "items/consumables/ancient-beans-3317538148.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 4044713321,
+       "name": "Fish epic 01 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 780626079,
+       "name": "Fish epic 02 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 2176589336,
+       "name": "Fish epic 03 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 4122706847,
+       "name": "Specklefin",
+       "page": "items/consumables/specklefin-4122706847.md",
+       "json": "items/consumables/specklefin-4122706847.json"
+      },
+      {
+       "id": 1692397990,
+       "name": "Cinderscale",
+       "page": "items/consumables/cinderscale-1692397990.md",
+       "json": "items/consumables/cinderscale-1692397990.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/fish-tacos-71610791.md"
+}

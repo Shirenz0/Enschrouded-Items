@@ -1,0 +1,25 @@
+{
+ "id": 3093259221,
+ "name": "Copper Hair",
+ "internalName": "Icon_HairColor_red",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3093259221.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Visit the Barber to change your appearance. Once you've unlocked this color, you can use it on any server.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/equipment/copper-hair-3093259221.md"
+}

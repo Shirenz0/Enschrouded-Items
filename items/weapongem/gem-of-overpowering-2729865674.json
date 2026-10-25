@@ -1,0 +1,35 @@
+{
+ "id": 2729865674,
+ "name": "Gem of Overpowering",
+ "internalName": "T3_Gem_GemOfOverpowering",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/2729865674.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Attacking a blocking enemy deals %k additional Stamina Damage and increased pushback.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-overpowering-2729865674.md"
+}

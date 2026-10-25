@@ -21,4 +21,4 @@ The century old wood found beyond the bark of the Blackmire trees.
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](blackmire-heartwood-1745782985.json)

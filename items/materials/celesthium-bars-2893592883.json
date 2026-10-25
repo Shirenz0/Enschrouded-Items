@@ -1,0 +1,630 @@
+{
+ "id": 2893592883,
+ "name": "Celesthium Bars",
+ "internalName": "Material_T7_Celesthium_Bar",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/2893592883.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t7 Celesthium Bars desc",
+ "lore": null,
+ "whereToFind": "Blast Furnace",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 383093495,
+   "station": "Blast Furnace",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 2035945146,
+      "name": "Celesthium Ore",
+      "page": "items/materials/celesthium-ore-2035945146.md",
+      "json": "items/materials/celesthium-ore-2035945146.json"
+     }
+    },
+    {
+     "count": 40,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3833476832,
+   "name": "Eternal Frost Arrow III",
+   "page": "items/ammunition/eternal-frost-arrow-iii-3833476832.md",
+   "json": "items/ammunition/eternal-frost-arrow-iii-3833476832.json"
+  },
+  {
+   "id": 2369196415,
+   "name": "Eternal Shock Arrow III",
+   "page": "items/ammunition/eternal-shock-arrow-iii-2369196415.md",
+   "json": "items/ammunition/eternal-shock-arrow-iii-2369196415.json"
+  },
+  {
+   "id": 2519697782,
+   "name": "Celesthium Steel Arrow",
+   "page": "items/ammunition/celesthium-steel-arrow-2519697782.md",
+   "json": "items/ammunition/celesthium-steel-arrow-2519697782.json"
+  },
+  {
+   "id": 3180367619,
+   "name": "T7 Eternal Pillar of Flames",
+   "page": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.md",
+   "json": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.json"
+  },
+  {
+   "id": 377316946,
+   "name": "T7 Eternal Light Burst II",
+   "page": "items/ammunition/t7-eternal-light-burst-ii-377316946.md",
+   "json": "items/ammunition/t7-eternal-light-burst-ii-377316946.json"
+  },
+  {
+   "id": 3381945830,
+   "name": "T7 Eternal Blizzard II",
+   "page": "items/ammunition/t7-eternal-blizzard-ii-3381945830.md",
+   "json": "items/ammunition/t7-eternal-blizzard-ii-3381945830.json"
+  },
+  {
+   "id": 3681008420,
+   "name": "T7 Eternal Ice Totem II",
+   "page": "items/ammunition/t7-eternal-ice-totem-ii-3681008420.md",
+   "json": "items/ammunition/t7-eternal-ice-totem-ii-3681008420.json"
+  },
+  {
+   "id": 1943367547,
+   "name": "T7 Eternal Chain Lightning III",
+   "page": "items/ammunition/t7-eternal-chain-lightning-iii-1943367547.md",
+   "json": "items/ammunition/t7-eternal-chain-lightning-iii-1943367547.json"
+  },
+  {
+   "id": 2369199112,
+   "name": "T7 Eternal Ball Lightning",
+   "page": "items/ammunition/t7-eternal-ball-lightning-2369199112.md",
+   "json": "items/ammunition/t7-eternal-ball-lightning-2369199112.json"
+  },
+  {
+   "id": 3694023795,
+   "name": "T7 Eternal Shock Totem",
+   "page": "items/ammunition/t7-eternal-shock-totem-3694023795.md",
+   "json": "items/ammunition/t7-eternal-shock-totem-3694023795.json"
+  },
+  {
+   "id": 3250908839,
+   "name": "Player Base Gem Forge",
+   "page": "items/buildtools/player-base-gem-forge-3250908839.md",
+   "json": "items/buildtools/player-base-gem-forge-3250908839.json"
+  },
+  {
+   "id": 2501086572,
+   "name": "Magic Infusion Station",
+   "page": "items/buildtools/magic-infusion-station-2501086572.md",
+   "json": "items/buildtools/magic-infusion-station-2501086572.json"
+  },
+  {
+   "id": 2941673930,
+   "name": "Ancinet Workbench",
+   "page": "items/buildtools/ancinet-workbench-2941673930.md",
+   "json": "items/buildtools/ancinet-workbench-2941673930.json"
+  },
+  {
+   "id": 431218523,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-431218523.md",
+   "json": "items/weapons/fenrig-s-axe-431218523.json"
+  },
+  {
+   "id": 1323450933,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-1323450933.md",
+   "json": "items/weapons/jezmina-s-apotheosis-1323450933.json"
+  },
+  {
+   "id": 863684883,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-863684883.md",
+   "json": "items/weapons/lupa-s-scalper-863684883.json"
+  },
+  {
+   "id": 2594618935,
+   "name": "Dragonsbane",
+   "page": "items/weapons/dragonsbane-2594618935.md",
+   "json": "items/weapons/dragonsbane-2594618935.json"
+  },
+  {
+   "id": 2894102737,
+   "name": "Wolf's Hydra",
+   "page": "items/weapons/wolf-s-hydra-2894102737.md",
+   "json": "items/weapons/wolf-s-hydra-2894102737.json"
+  },
+  {
+   "id": 3983015116,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-3983015116.md",
+   "json": "items/weapons/halescourge-3983015116.json"
+  },
+  {
+   "id": 905080090,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-905080090.md",
+   "json": "items/weapons/wailing-blade-905080090.json"
+  },
+  {
+   "id": 751194917,
+   "name": "Greater Twinflame Sword",
+   "page": "items/weapons/greater-twinflame-sword-751194917.md",
+   "json": "items/weapons/greater-twinflame-sword-751194917.json"
+  },
+  {
+   "id": 2487547952,
+   "name": "Lesser Twinflame Sword",
+   "page": "items/weapons/lesser-twinflame-sword-2487547952.md",
+   "json": "items/weapons/lesser-twinflame-sword-2487547952.json"
+  },
+  {
+   "id": 3584171520,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-3584171520.md",
+   "json": "items/weapons/dragon-sword-3584171520.json"
+  },
+  {
+   "id": 255353296,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-255353296.md",
+   "json": "items/equipment/pikemead-s-ward-255353296.json"
+  },
+  {
+   "id": 349263893,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-349263893.md",
+   "json": "items/equipment/riptide-349263893.json"
+  },
+  {
+   "id": 500747971,
+   "name": "Golden Recruit Axe",
+   "page": "items/weapons/golden-recruit-axe-500747971.md",
+   "json": "items/weapons/golden-recruit-axe-500747971.json"
+  },
+  {
+   "id": 2347176360,
+   "name": "Golden War Veteran Axe",
+   "page": "items/weapons/golden-war-veteran-axe-2347176360.md",
+   "json": "items/weapons/golden-war-veteran-axe-2347176360.json"
+  },
+  {
+   "id": 430276931,
+   "name": "Ancestral Star",
+   "page": "items/weapons/ancestral-star-430276931.md",
+   "json": "items/weapons/ancestral-star-430276931.json"
+  },
+  {
+   "id": 1166996760,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-1166996760.md",
+   "json": "items/weapons/soothsayer-1166996760.json"
+  },
+  {
+   "id": 1367103932,
+   "name": "Lord Vorgoth's Sword",
+   "page": "items/weapons/lord-vorgoth-s-sword-1367103932.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-1367103932.json"
+  },
+  {
+   "id": 3854011426,
+   "name": "Breaching Bow",
+   "page": "items/weapons/breaching-bow-3854011426.md",
+   "json": "items/weapons/breaching-bow-3854011426.json"
+  },
+  {
+   "id": 2187973877,
+   "name": "Spearfisher Bow",
+   "page": "items/weapons/spearfisher-bow-2187973877.md",
+   "json": "items/weapons/spearfisher-bow-2187973877.json"
+  },
+  {
+   "id": 2676513257,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-2676513257.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2676513257.json"
+  },
+  {
+   "id": 3626685627,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-3626685627.md",
+   "json": "items/weapons/draconian-bow-3626685627.json"
+  },
+  {
+   "id": 764137977,
+   "name": "Sacrificial Vukah Dagger",
+   "page": "items/weapons/sacrificial-vukah-dagger-764137977.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-764137977.json"
+  },
+  {
+   "id": 3096148752,
+   "name": "Valor Heart Dagger",
+   "page": "items/weapons/valor-heart-dagger-3096148752.md",
+   "json": "items/weapons/valor-heart-dagger-3096148752.json"
+  },
+  {
+   "id": 3618171376,
+   "name": "Throwing Knives",
+   "page": "items/weapons/throwing-knives-3618171376.md",
+   "json": "items/weapons/throwing-knives-3618171376.json"
+  },
+  {
+   "id": 3233786830,
+   "name": "Darya's Remorse",
+   "page": "items/weapons/darya-s-remorse-3233786830.md",
+   "json": "items/weapons/darya-s-remorse-3233786830.json"
+  },
+  {
+   "id": 3848774794,
+   "name": "Electric Initialiser",
+   "page": "items/weapons/electric-initialiser-3848774794.md",
+   "json": "items/weapons/electric-initialiser-3848774794.json"
+  },
+  {
+   "id": 62683222,
+   "name": "Proto Bone-Bender",
+   "page": "items/weapons/proto-bone-bender-62683222.md",
+   "json": "items/weapons/proto-bone-bender-62683222.json"
+  },
+  {
+   "id": 397149581,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-397149581.md",
+   "json": "items/weapons/t1-lore-wand-397149581.json"
+  },
+  {
+   "id": 1142953776,
+   "name": "Darya's Wand",
+   "page": "items/weapons/darya-s-wand-1142953776.md",
+   "json": "items/weapons/darya-s-wand-1142953776.json"
+  },
+  {
+   "id": 1069361064,
+   "name": "Shroud Weaver",
+   "page": "items/weapons/shroud-weaver-1069361064.md",
+   "json": "items/weapons/shroud-weaver-1069361064.json"
+  },
+  {
+   "id": 1271805655,
+   "name": "Darya's Staff",
+   "page": "items/weapons/darya-s-staff-1271805655.md",
+   "json": "items/weapons/darya-s-staff-1271805655.json"
+  },
+  {
+   "id": 2988598231,
+   "name": "Incredible Ward",
+   "page": "items/equipment/incredible-ward-2988598231.md",
+   "json": "items/equipment/incredible-ward-2988598231.json"
+  },
+  {
+   "id": 3158681634,
+   "name": "Vorgoth's Gloves",
+   "page": "items/equipment/vorgoth-s-gloves-3158681634.md",
+   "json": "items/equipment/vorgoth-s-gloves-3158681634.json"
+  },
+  {
+   "id": 3057743376,
+   "name": "Vorgoth's Boots",
+   "page": "items/equipment/vorgoth-s-boots-3057743376.md",
+   "json": "items/equipment/vorgoth-s-boots-3057743376.json"
+  },
+  {
+   "id": 248650235,
+   "name": "Vorgoth's Chest",
+   "page": "items/equipment/vorgoth-s-chest-248650235.md",
+   "json": "items/equipment/vorgoth-s-chest-248650235.json"
+  },
+  {
+   "id": 876665028,
+   "name": "Vorgoth's Crown",
+   "page": "items/equipment/vorgoth-s-crown-876665028.md",
+   "json": "items/equipment/vorgoth-s-crown-876665028.json"
+  },
+  {
+   "id": 3057524028,
+   "name": "Vorgoth's Pants",
+   "page": "items/equipment/vorgoth-s-pants-3057524028.md",
+   "json": "items/equipment/vorgoth-s-pants-3057524028.json"
+  },
+  {
+   "id": 492657660,
+   "name": "Ancient Temple Wall Brazier",
+   "page": "items/buildtools/ancient-temple-wall-brazier-492657660.md",
+   "json": "items/buildtools/ancient-temple-wall-brazier-492657660.json"
+  },
+  {
+   "id": 2672833225,
+   "name": "Ancient Temple Floor Brazier I",
+   "page": "items/buildtools/ancient-temple-floor-brazier-i-2672833225.md",
+   "json": "items/buildtools/ancient-temple-floor-brazier-i-2672833225.json"
+  },
+  {
+   "id": 629845468,
+   "name": "Ancient Temple Floor Brazier II",
+   "page": "items/buildtools/ancient-temple-floor-brazier-ii-629845468.md",
+   "json": "items/buildtools/ancient-temple-floor-brazier-ii-629845468.json"
+  },
+  {
+   "id": 3488815830,
+   "name": "Large Ancient Table",
+   "page": "items/buildtools/large-ancient-table-3488815830.md",
+   "json": "items/buildtools/large-ancient-table-3488815830.json"
+  },
+  {
+   "id": 147999202,
+   "name": "Medium Ancient Table",
+   "page": "items/buildtools/medium-ancient-table-147999202.md",
+   "json": "items/buildtools/medium-ancient-table-147999202.json"
+  },
+  {
+   "id": 647745472,
+   "name": "Small Ancient Table",
+   "page": "items/buildtools/small-ancient-table-647745472.md",
+   "json": "items/buildtools/small-ancient-table-647745472.json"
+  },
+  {
+   "id": 3591471319,
+   "name": "Celestium Platter",
+   "page": "items/buildtools/celestium-platter-3591471319.md",
+   "json": "items/buildtools/celestium-platter-3591471319.json"
+  },
+  {
+   "id": 629640210,
+   "name": "Celestium Cup",
+   "page": "items/buildtools/celestium-cup-629640210.md",
+   "json": "items/buildtools/celestium-cup-629640210.json"
+  },
+  {
+   "id": 824995482,
+   "name": "Celestium Bowl",
+   "page": "items/buildtools/celestium-bowl-824995482.md",
+   "json": "items/buildtools/celestium-bowl-824995482.json"
+  },
+  {
+   "id": 3204624954,
+   "name": "Celestium Jug",
+   "page": "items/buildtools/celestium-jug-3204624954.md",
+   "json": "items/buildtools/celestium-jug-3204624954.json"
+  },
+  {
+   "id": 4040513107,
+   "name": "Large Golden/Ancient Divider",
+   "page": "items/buildtools/large-golden-ancient-divider-4040513107.md",
+   "json": "items/buildtools/large-golden-ancient-divider-4040513107.json"
+  },
+  {
+   "id": 1162275055,
+   "name": "Golden/Ancient Divider",
+   "page": "items/buildtools/golden-ancient-divider-1162275055.md",
+   "json": "items/buildtools/golden-ancient-divider-1162275055.json"
+  },
+  {
+   "id": 3286648280,
+   "name": "Golden/Ancient Fence",
+   "page": "items/buildtools/golden-ancient-fence-3286648280.md",
+   "json": "items/buildtools/golden-ancient-fence-3286648280.json"
+  },
+  {
+   "id": 2152383033,
+   "name": "Ancient Fence",
+   "page": "items/buildtools/ancient-fence-2152383033.md",
+   "json": "items/buildtools/ancient-fence-2152383033.json"
+  },
+  {
+   "id": 1069919690,
+   "name": "Ancient Centrifuge",
+   "page": "items/buildtools/ancient-centrifuge-1069919690.md",
+   "json": "items/buildtools/ancient-centrifuge-1069919690.json"
+  },
+  {
+   "id": 2702448213,
+   "name": "Ancient Cooling Unit",
+   "page": "items/buildtools/ancient-cooling-unit-2702448213.md",
+   "json": "items/buildtools/ancient-cooling-unit-2702448213.json"
+  },
+  {
+   "id": 3897312417,
+   "name": "Ancient Microscope I",
+   "page": "items/buildtools/ancient-microscope-i-3897312417.md",
+   "json": "items/buildtools/ancient-microscope-i-3897312417.json"
+  },
+  {
+   "id": 758912437,
+   "name": "Ancient Microscope II",
+   "page": "items/buildtools/ancient-microscope-ii-758912437.md",
+   "json": "items/buildtools/ancient-microscope-ii-758912437.json"
+  },
+  {
+   "id": 873559594,
+   "name": "Ancient Microscope III",
+   "page": "items/buildtools/ancient-microscope-iii-873559594.md",
+   "json": "items/buildtools/ancient-microscope-iii-873559594.json"
+  },
+  {
+   "id": 1422320714,
+   "name": "Ancient Pipette",
+   "page": "items/buildtools/ancient-pipette-1422320714.md",
+   "json": "items/buildtools/ancient-pipette-1422320714.json"
+  },
+  {
+   "id": 3072049069,
+   "name": "Ancient Ceiling Mobile I",
+   "page": "items/buildtools/ancient-ceiling-mobile-i-3072049069.md",
+   "json": "items/buildtools/ancient-ceiling-mobile-i-3072049069.json"
+  },
+  {
+   "id": 2773180896,
+   "name": "Ancient Ceiling Mobile II",
+   "page": "items/buildtools/ancient-ceiling-mobile-ii-2773180896.md",
+   "json": "items/buildtools/ancient-ceiling-mobile-ii-2773180896.json"
+  },
+  {
+   "id": 3480966914,
+   "name": "Ancient Ceiling Mobile III",
+   "page": "items/buildtools/ancient-ceiling-mobile-iii-3480966914.md",
+   "json": "items/buildtools/ancient-ceiling-mobile-iii-3480966914.json"
+  },
+  {
+   "id": 606217020,
+   "name": "Astronomy Desk I",
+   "page": "items/buildtools/astronomy-desk-i-606217020.md",
+   "json": "items/buildtools/astronomy-desk-i-606217020.json"
+  },
+  {
+   "id": 1006888198,
+   "name": "Astronomy Desk II",
+   "page": "items/buildtools/astronomy-desk-ii-1006888198.md",
+   "json": "items/buildtools/astronomy-desk-ii-1006888198.json"
+  },
+  {
+   "id": 1589845330,
+   "name": "Globe",
+   "page": "items/buildtools/globe-1589845330.md",
+   "json": "items/buildtools/globe-1589845330.json"
+  },
+  {
+   "id": 3252953392,
+   "name": "Measuring Device I",
+   "page": "items/buildtools/measuring-device-i-3252953392.md",
+   "json": "items/buildtools/measuring-device-i-3252953392.json"
+  },
+  {
+   "id": 3641163278,
+   "name": "Measuring Device II",
+   "page": "items/buildtools/measuring-device-ii-3641163278.md",
+   "json": "items/buildtools/measuring-device-ii-3641163278.json"
+  },
+  {
+   "id": 3716077081,
+   "name": "Giant Telescope",
+   "page": "items/buildtools/giant-telescope-3716077081.md",
+   "json": "items/buildtools/giant-telescope-3716077081.json"
+  },
+  {
+   "id": 1834258828,
+   "name": "Small Telescope",
+   "page": "items/buildtools/small-telescope-1834258828.md",
+   "json": "items/buildtools/small-telescope-1834258828.json"
+  },
+  {
+   "id": 1581972653,
+   "name": "Ancient Pracer Beacon Large",
+   "page": "items/buildtools/ancient-pracer-beacon-large-1581972653.md",
+   "json": "items/buildtools/ancient-pracer-beacon-large-1581972653.json"
+  },
+  {
+   "id": 2527029391,
+   "name": "Ancient Pracer Beacon Medium",
+   "page": "items/buildtools/ancient-pracer-beacon-medium-2527029391.md",
+   "json": "items/buildtools/ancient-pracer-beacon-medium-2527029391.json"
+  },
+  {
+   "id": 3686324609,
+   "name": "Ancient Pracer Beacon Small",
+   "page": "items/buildtools/ancient-pracer-beacon-small-3686324609.md",
+   "json": "items/buildtools/ancient-pracer-beacon-small-3686324609.json"
+  },
+  {
+   "id": 3879322402,
+   "name": "Ancient Temple Shelf Small",
+   "page": "items/buildtools/ancient-temple-shelf-small-3879322402.md",
+   "json": "items/buildtools/ancient-temple-shelf-small-3879322402.json"
+  },
+  {
+   "id": 254775798,
+   "name": "Ancient Temple Shelf Medium",
+   "page": "items/buildtools/ancient-temple-shelf-medium-254775798.md",
+   "json": "items/buildtools/ancient-temple-shelf-medium-254775798.json"
+  },
+  {
+   "id": 2239837360,
+   "name": "Ancient Temple Shelf Large",
+   "page": "items/buildtools/ancient-temple-shelf-large-2239837360.md",
+   "json": "items/buildtools/ancient-temple-shelf-large-2239837360.json"
+  },
+  {
+   "id": 1632396469,
+   "name": "Golden Dome",
+   "page": "items/buildtools/golden-dome-1632396469.md",
+   "json": "items/buildtools/golden-dome-1632396469.json"
+  },
+  {
+   "id": 218943292,
+   "name": "Golden Curved Palisade",
+   "page": "items/buildtools/golden-curved-palisade-218943292.md",
+   "json": "items/buildtools/golden-curved-palisade-218943292.json"
+  },
+  {
+   "id": 458026804,
+   "name": "Ancient Shelf",
+   "page": "items/buildtools/ancient-shelf-458026804.md",
+   "json": "items/buildtools/ancient-shelf-458026804.json"
+  },
+  {
+   "id": 1777021858,
+   "name": "Large Ancient Sideboard",
+   "page": "items/buildtools/large-ancient-sideboard-1777021858.md",
+   "json": "items/buildtools/large-ancient-sideboard-1777021858.json"
+  },
+  {
+   "id": 2848789791,
+   "name": "Small Ancient Sideboard",
+   "page": "items/buildtools/small-ancient-sideboard-2848789791.md",
+   "json": "items/buildtools/small-ancient-sideboard-2848789791.json"
+  },
+  {
+   "id": 1390578094,
+   "name": "Large Ancient Cupboard",
+   "page": "items/buildtools/large-ancient-cupboard-1390578094.md",
+   "json": "items/buildtools/large-ancient-cupboard-1390578094.json"
+  },
+  {
+   "id": 1872768226,
+   "name": "Small Ancient Cupboard",
+   "page": "items/buildtools/small-ancient-cupboard-1872768226.md",
+   "json": "items/buildtools/small-ancient-cupboard-1872768226.json"
+  },
+  {
+   "id": 1551372920,
+   "name": "Meteorite Showcase (3 Small Slots)",
+   "page": "items/buildtools/meteorite-showcase-3-small-slots-1551372920.md",
+   "json": "items/buildtools/meteorite-showcase-3-small-slots-1551372920.json"
+  },
+  {
+   "id": 878567414,
+   "name": "Meteorite Showcase (1 Large Slot)",
+   "page": "items/buildtools/meteorite-showcase-1-large-slot-878567414.md",
+   "json": "items/buildtools/meteorite-showcase-1-large-slot-878567414.json"
+  },
+  {
+   "id": 382673697,
+   "name": "Meteorite Showcase (5 Small Slots)",
+   "page": "items/buildtools/meteorite-showcase-5-small-slots-382673697.md",
+   "json": "items/buildtools/meteorite-showcase-5-small-slots-382673697.json"
+  }
+ ],
+ "page": "items/materials/celesthium-bars-2893592883.md"
+}

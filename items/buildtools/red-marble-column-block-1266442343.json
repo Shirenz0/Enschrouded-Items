@@ -1,0 +1,25 @@
+{
+ "id": 1266442343,
+ "name": "Red Marble Column Block",
+ "internalName": "Prop_Decoration_TX_RedMarble_Column_Block",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1266442343.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/red-marble-column-block-1266442343.md"
+}

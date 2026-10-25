@@ -17,4 +17,4 @@ Jezmina's Yearwake pants desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](jezmina-s-yearwake-pants.json)

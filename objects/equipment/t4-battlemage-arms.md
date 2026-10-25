@@ -17,4 +17,4 @@ Both spells and smiting blows are easily dealt with this simple warlock gloves.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-battlemage-arms.json)

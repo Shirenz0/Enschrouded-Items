@@ -17,4 +17,4 @@ A heavy wand that's bright as the sun, decorated by a flower that wraps around t
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](darya-s-remorse.json)

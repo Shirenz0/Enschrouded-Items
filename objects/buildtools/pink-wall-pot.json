@@ -1,0 +1,39 @@
+{
+ "name": "Pink Wall Pot",
+ "category": "BuildTools",
+ "image": "images/icons/533905592.png",
+ "versions": 2,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1416182802,
+   "name": "Pink Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1416182802.png",
+   "page": "items/buildtools/pink-wall-pot-1416182802.md",
+   "json": "items/buildtools/pink-wall-pot-1416182802.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 533905592,
+   "name": "Pink Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/533905592.png",
+   "page": "items/buildtools/pink-wall-pot-533905592.md",
+   "json": "items/buildtools/pink-wall-pot-533905592.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/pink-wall-pot.md"
+}

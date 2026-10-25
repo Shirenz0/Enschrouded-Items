@@ -17,4 +17,4 @@ Metal plated gloves which protect the hands during a brawl.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-tank-arms.json)

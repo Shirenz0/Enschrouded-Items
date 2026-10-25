@@ -1,0 +1,105 @@
+{
+ "id": 1693311429,
+ "name": "Critter Glands",
+ "internalName": "Material_T3_CritterParts_CritterGlands",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/1693311429.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Slippery",
+ "lore": null,
+ "whereToFind": "Nomad Highlands and Kindlewastes Fell Enemies",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3377002158,
+   "name": "Repair Kit",
+   "page": "items/consumables/repair-kit-3377002158.md",
+   "json": "items/consumables/repair-kit-3377002158.json"
+  },
+  {
+   "id": 209497692,
+   "name": "Greater Fog Survival Flask",
+   "page": "items/consumables/greater-fog-survival-flask-209497692.md",
+   "json": "items/consumables/greater-fog-survival-flask-209497692.json"
+  },
+  {
+   "id": 3145568607,
+   "name": "Pheromone Shroud",
+   "page": "items/weapons/pheromone-shroud-3145568607.md",
+   "json": "items/weapons/pheromone-shroud-3145568607.json"
+  },
+  {
+   "id": 2034875163,
+   "name": "T3 DPS Legs",
+   "page": "items/equipment/t3-dps-legs-2034875163.md",
+   "json": "items/equipment/t3-dps-legs-2034875163.json"
+  },
+  {
+   "id": 1240317845,
+   "name": "T3 Healer Helmet",
+   "page": "items/equipment/t3-healer-helmet-1240317845.md",
+   "json": "items/equipment/t3-healer-helmet-1240317845.json"
+  },
+  {
+   "id": 2743374359,
+   "name": "T3 Mage Legs",
+   "page": "items/equipment/t3-mage-legs-2743374359.md",
+   "json": "items/equipment/t3-mage-legs-2743374359.json"
+  },
+  {
+   "id": 886063879,
+   "name": "T3 Mage Arms",
+   "page": "items/equipment/t3-mage-arms-886063879.md",
+   "json": "items/equipment/t3-mage-arms-886063879.json"
+  },
+  {
+   "id": 4103714612,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-4103714612.md",
+   "json": "items/equipment/mage-fog-protection-armor-4103714612.json"
+  },
+  {
+   "id": 383069883,
+   "name": "T3 Ranger Arms",
+   "page": "items/equipment/t3-ranger-arms-383069883.md",
+   "json": "items/equipment/t3-ranger-arms-383069883.json"
+  },
+  {
+   "id": 1352959398,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-1352959398.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1352959398.json"
+  },
+  {
+   "id": 699269342,
+   "name": "T3 Archer Arms",
+   "page": "items/equipment/t3-archer-arms-699269342.md",
+   "json": "items/equipment/t3-archer-arms-699269342.json"
+  },
+  {
+   "id": 4212426126,
+   "name": "T3 Tank Arms",
+   "page": "items/equipment/t3-tank-arms-4212426126.md",
+   "json": "items/equipment/t3-tank-arms-4212426126.json"
+  },
+  {
+   "id": 147265330,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-147265330.md",
+   "json": "items/equipment/warrior-fog-protection-armor-147265330.json"
+  }
+ ],
+ "page": "items/materials/critter-glands-1693311429.md"
+}

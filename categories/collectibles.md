@@ -77,4 +77,4 @@
 | <img src="../images/icons/1734789862.png" width="48"> | [Trilobites](../items/collectibles/trilobites-1734789862.md) | 🔵 Rare | - | 20 |
 | <img src="../images/icons/2175709549.png" width="48"> | [Veilwater Basin Miniature Piece](../items/collectibles/veilwater-basin-miniature-piece-2175709549.md) | 🔵 Rare | - | 20 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](collectibles.json)

@@ -1,0 +1,51 @@
+{
+ "id": 2310197711,
+ "name": "Trophy Cyclops",
+ "internalName": "Material_TX_Trophy_Cyclops_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2310197711.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "trophy cyclpos desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2288002943,
+   "name": "Gold Cyclops Trophy",
+   "page": "items/buildtools/gold-cyclops-trophy-2288002943.md",
+   "json": "items/buildtools/gold-cyclops-trophy-2288002943.json"
+  },
+  {
+   "id": 3561979363,
+   "name": "Metal Boss Trophy Cyclops",
+   "page": "items/buildtools/metal-boss-trophy-cyclops-3561979363.md",
+   "json": "items/buildtools/metal-boss-trophy-cyclops-3561979363.json"
+  },
+  {
+   "id": 2412815222,
+   "name": "Big Boss Trophy Cyclops",
+   "page": "items/buildtools/big-boss-trophy-cyclops-2412815222.md",
+   "json": "items/buildtools/big-boss-trophy-cyclops-2412815222.json"
+  },
+  {
+   "id": 2846600790,
+   "name": "Boss Trophy Cyclops",
+   "page": "items/buildtools/boss-trophy-cyclops-2846600790.md",
+   "json": "items/buildtools/boss-trophy-cyclops-2846600790.json"
+  }
+ ],
+ "page": "items/materials/trophy-cyclops-2310197711.md"
+}

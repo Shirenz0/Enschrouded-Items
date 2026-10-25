@@ -1,0 +1,130 @@
+{
+ "id": 1467281560,
+ "name": "Ward T6",
+ "internalName": "Ward_T6",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/1467281560.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "ward t6 desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/ward-t6.md",
+  "json": "objects/equipment/ward-t6.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 7,
+    "display": "7",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ice Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Shock Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Eternal Spark",
+   "effect": "Increases the skill level of Eternal Spark by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Shroud Resistance",
+   "effect": "Increases the skill level of Shroud Resistance by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Arcane Deflection",
+   "effect": "Increases the skill level of Arcane Deflection by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Unity",
+   "effect": "Increases the skill level of Unity by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3628261521,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1476017101,
+      "name": "Aquamarine",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1604789280,
+      "name": "Pearl",
+      "page": "items/materials/pearl-1604789280.md",
+      "json": "items/materials/pearl-1604789280.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3845850476,
+      "name": "Placeholder: Greater Fell Heart",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/ward-t6-1467281560.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1004393385,
+ "name": "Emily",
+ "internalName": "NPC_Crafter_Farmer01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "The farmer ZZZ crafts food and helps you grow your plants.",
+ "lore": "Survivor",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/emily-1004393385.md"
+}

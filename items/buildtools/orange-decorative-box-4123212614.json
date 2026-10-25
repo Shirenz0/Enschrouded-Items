@@ -1,0 +1,70 @@
+{
+ "id": 4123212614,
+ "name": "Orange Decorative Box",
+ "internalName": "_Prop_Decoration_T4_Present06_orange_Anniversary",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/4123212614.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative wrapped present",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 177144370,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/orange-decorative-box-4123212614.md"
+}

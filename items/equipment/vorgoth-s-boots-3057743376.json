@@ -1,0 +1,136 @@
+{
+ "id": 3057743376,
+ "name": "Vorgoth's Boots",
+ "internalName": "Armor_T7_Warrior_Boots_Vorgoth",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/3057743376.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Solid iron and froged shut. No gap, no give.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Great Sword Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Timeout Reduction",
+    "value": -500,
+    "display": "-0.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 90000,
+    "display": "1:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 2,
+   "name": "Vital",
+   "effect": "+21 Vital"
+  },
+  {
+   "order": 3,
+   "name": "+1 Vigorous Deflection",
+   "effect": "Increases the skill level of Vigorous Deflection by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Titan Edge",
+   "effect": "Increases the skill level of Titan Edge by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3126116011,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1940778781,
+      "name": "Vorgoth Blood",
+      "page": "items/materials/vorgoth-blood-1940778781.md",
+      "json": "items/materials/vorgoth-blood-1940778781.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 61577244,
+      "name": "Diamond",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/vorgoth-s-boots-3057743376.md"
+}

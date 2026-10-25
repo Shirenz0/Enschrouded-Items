@@ -1,0 +1,60 @@
+{
+ "id": 3975408930,
+ "name": "Raw Meat and Corncob Skewer",
+ "internalName": "Material_T1_raw_dish_GrainSkewer",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3975408930.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will increase your **melee damage, boost your maximum health and accelerate your health regeneration.**",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3183680033,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3118804138,
+      "name": "Corncob",
+      "page": "items/consumables/corncob-3118804138.md",
+      "json": "items/consumables/corncob-3118804138.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1492892444,
+      "name": "Raw Lean Meat",
+      "page": "items/consumables/raw-lean-meat-1492892444.md",
+      "json": "items/consumables/raw-lean-meat-1492892444.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2840500800,
+   "name": "Meat Skewer with Corncob",
+   "page": "items/consumables/meat-skewer-with-corncob-2840500800.md",
+   "json": "items/consumables/meat-skewer-with-corncob-2840500800.json"
+  }
+ ],
+ "page": "items/materials/raw-meat-and-corncob-skewer-3975408930.md"
+}

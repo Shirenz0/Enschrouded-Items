@@ -1,0 +1,25 @@
+{
+ "id": 2656673382,
+ "name": "Sideboard T5 large",
+ "internalName": "_Prop_Decoration_T5_Sideboard_Large",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2656673382.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/sideboard-t5-large-2656673382.md"
+}

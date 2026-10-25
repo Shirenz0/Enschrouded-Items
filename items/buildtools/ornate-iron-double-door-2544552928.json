@@ -1,0 +1,43 @@
+{
+ "id": 2544552928,
+ "name": "Ornate Iron Double Door",
+ "internalName": "Prop_Decoration_T4_Door_Ornate_Iron_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2544552928.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2134259140,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 437915741,
+      "name": "Ornate Iron Door",
+      "page": "items/buildtools/ornate-iron-door-437915741.md",
+      "json": "items/buildtools/ornate-iron-door-437915741.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/ornate-iron-double-door-2544552928.md"
+}

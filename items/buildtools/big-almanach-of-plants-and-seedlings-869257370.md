@@ -29,4 +29,4 @@ Farmer
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](big-almanach-of-plants-and-seedlings-869257370.json)

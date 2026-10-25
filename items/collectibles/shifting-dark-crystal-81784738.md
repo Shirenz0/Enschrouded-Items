@@ -17,4 +17,4 @@ When gazing upon the crystal's surface, you feel the mirror image warp and shift
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](shifting-dark-crystal-81784738.json)

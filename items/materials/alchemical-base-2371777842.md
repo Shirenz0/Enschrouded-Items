@@ -29,4 +29,4 @@ Crafting, Alchemy Station
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](alchemical-base-2371777842.json)

@@ -1,0 +1,122 @@
+{
+ "id": 1838950390,
+ "name": "T4 Tank Arms",
+ "internalName": "Armor_T4_Warrior_Tank_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1838950390.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Heavy gloves which can swing any weaponry with added might.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-tank-arms.md",
+  "json": "objects/equipment/t4-tank-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Melee Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Block",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Soul Leech",
+   "effect": "Increases the skill level of Soul Leech by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3957393191,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2102228606,
+      "name": "Giant Fell Talon",
+      "page": "items/materials/giant-fell-talon-2102228606.md",
+      "json": "items/materials/giant-fell-talon-2102228606.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3436629486,
+      "name": "Yellow Fabric",
+      "page": "items/materials/yellow-fabric-3436629486.md",
+      "json": "items/materials/yellow-fabric-3436629486.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-tank-arms-1838950390.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "T4 Sniper Legs",
+ "category": "Equipment",
+ "image": "images/icons/2035835813.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1462202648,
+   "name": "T4 Sniper Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1462202648.png",
+   "page": "items/equipment/t4-sniper-legs-1462202648.md",
+   "json": "items/equipment/t4-sniper-legs-1462202648.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2035835813,
+   "name": "T4 Sniper Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2035835813.png",
+   "page": "items/equipment/t4-sniper-legs-2035835813.md",
+   "json": "items/equipment/t4-sniper-legs-2035835813.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-sniper-legs.md"
+}

@@ -1,0 +1,43 @@
+{
+ "id": 531118786,
+ "name": "T6 Bamboo Wood Block",
+ "internalName": "Block_T6_Wood_Bamboo",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/531118786.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Bamboo Wood Block description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2534613032,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1381084162,
+      "name": "Bamboo Logs",
+      "page": "items/materials/bamboo-logs-1381084162.md",
+      "json": "items/materials/bamboo-logs-1381084162.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/t6-bamboo-wood-block-531118786.md"
+}

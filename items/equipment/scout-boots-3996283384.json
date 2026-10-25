@@ -1,0 +1,116 @@
+{
+ "id": 3996283384,
+ "name": "Scout Boots",
+ "internalName": "Armor_T1_Ranger_Archer_DPS_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/3996283384.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "On quiet soles the path of the scout is a little easier.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/scout-boots.md",
+  "json": "objects/equipment/scout-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+3 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1706382566,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3509012331,
+      "name": "Mycelium",
+      "page": "items/materials/mycelium-3509012331.md",
+      "json": "items/materials/mycelium-3509012331.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/scout-boots-3996283384.md"
+}

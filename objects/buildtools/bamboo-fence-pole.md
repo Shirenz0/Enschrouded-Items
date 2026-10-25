@@ -21,4 +21,4 @@ Furniture
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](bamboo-fence-pole.json)

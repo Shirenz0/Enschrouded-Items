@@ -1,0 +1,85 @@
+{
+ "id": 1477759855,
+ "name": "T4b Wizard Helmet",
+ "internalName": "Armor_T5-TX_Mage_Wizard_DPS_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 30,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1477759855.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The past, present and future all unfold infront of your eyes like blooming aureolins.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Spiritual",
+   "effect": "+20 Spiritual"
+  },
+  {
+   "order": 3,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  },
+  {
+   "order": 4,
+   "name": "Shock Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Radiant Aura",
+   "effect": "Increases the skill level of Radiant Aura by +1"
+  }
+ ],
+ "page": "items/equipment/t4b-wizard-helmet-1477759855.md"
+}

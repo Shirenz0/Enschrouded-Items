@@ -1,0 +1,59 @@
+{
+ "id": 1717387680,
+ "name": "Dried Banana Chips",
+ "internalName": "Food_T6_processed_fruit_BananaChips",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1717387680.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "When conserved, the Banana Chips do not regenerate as much Health as the Banana. However, the duration lasts longer.",
+ "lore": null,
+ "whereToFind": "Crafting, Drying Rack",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1080000,
+    "display": "18:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2863840981,
+   "station": "Drying Rack",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2626897582,
+      "name": "Banana",
+      "page": "items/consumables/banana-2626897582.md",
+      "json": "items/consumables/banana-2626897582.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/dried-banana-chips-1717387680.md"
+}

@@ -31,4 +31,4 @@ A severed Vorgoth Eye. Collect multiple to craft the golden trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-vorgoth-eye-trophy-2903890683.json)

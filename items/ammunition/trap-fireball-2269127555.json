@@ -1,0 +1,32 @@
+{
+ "id": 2269127555,
+ "name": "Trap Fireball",
+ "internalName": "Ammo_Enemy_Projectile_Magical_Ice_Lightning",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2269127555.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Trap Fireball",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/ammunition/trap-fireball.md",
+  "json": "objects/ammunition/trap-fireball.json",
+  "versions": 10
+ },
+ "stats": {
+  "slot": "Spell"
+ },
+ "page": "items/ammunition/trap-fireball-2269127555.md"
+}

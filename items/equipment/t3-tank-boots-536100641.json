@@ -1,0 +1,122 @@
+{
+ "id": 536100641,
+ "name": "T3 Tank Boots",
+ "internalName": "Armor_T3_Warrior_Tank_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/536100641.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hefty boots which will make you leavy considerable footprints in the ground when defending those in need.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-tank-boots.md",
+  "json": "objects/equipment/t3-tank-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Purification",
+   "effect": "Increases the skill level of Purification by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+9 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Earth Aura",
+   "effect": "Increases the skill level of Earth Aura by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 632617125,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2302389683,
+      "name": "Corrosive Blood",
+      "page": "items/materials/corrosive-blood-2302389683.md",
+      "json": "items/materials/corrosive-blood-2302389683.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-tank-boots-536100641.md"
+}

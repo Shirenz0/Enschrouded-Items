@@ -1,0 +1,61 @@
+{
+ "id": 426586658,
+ "name": "Ancient \"Artichoke\"",
+ "internalName": "Food_T7_raw_fruit_Artichoke",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/426586658.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It looks like an Artichoke but its a fruit! Filled with much fruit juice and a sweet flesh.",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 210000,
+    "display": "3:30 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1603269825,
+   "name": "Fancy Fruit Juice",
+   "page": "items/consumables/fancy-fruit-juice-1603269825.md",
+   "json": "items/consumables/fancy-fruit-juice-1603269825.json"
+  },
+  {
+   "id": 270916101,
+   "name": "Fruit Salad",
+   "page": "items/consumables/fruit-salad-270916101.md",
+   "json": "items/consumables/fruit-salad-270916101.json"
+  },
+  {
+   "id": 3397770029,
+   "name": "Ancient \"Artichoke\" Seedling",
+   "page": "items/buildtools/ancient-artichoke-seedling-3397770029.md",
+   "json": "items/buildtools/ancient-artichoke-seedling-3397770029.json"
+  }
+ ],
+ "page": "items/consumables/ancient-artichoke-426586658.md"
+}

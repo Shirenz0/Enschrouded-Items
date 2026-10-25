@@ -1,0 +1,71 @@
+{
+ "id": 3646011305,
+ "name": "Werewolf Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Wildbeast_Wolf_Heavy_01_wood",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/3646011305.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Werewolf Head. Collect multiple to craft the trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2558246585,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1285378490,
+      "name": "Wolf Heavy Head",
+      "page": "items/materials/wolf-heavy-head-1285378490.md",
+      "json": "items/materials/wolf-heavy-head-1285378490.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/werewolf-trophy-3646011305.md"
+}

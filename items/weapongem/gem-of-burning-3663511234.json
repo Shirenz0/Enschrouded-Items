@@ -1,0 +1,47 @@
+{
+ "id": 3663511234,
+ "name": "Gem of Burning",
+ "internalName": "T1_Gem_GemOfIgnition",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/3663511234.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Dealing fire damage applies  burning for %k which deals %k per second. After a succesful trigger, it has a cooldown of %k",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Debuff Duration",
+    "value": 3000,
+    "display": "3 s",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Fire Damage per Second",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Cooldown Duration",
+    "value": 5000,
+    "display": "5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-burning-3663511234.md"
+}

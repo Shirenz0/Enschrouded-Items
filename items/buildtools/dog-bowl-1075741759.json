@@ -1,0 +1,43 @@
+{
+ "id": 1075741759,
+ "name": "Dog Bowl",
+ "internalName": "Animal_Pet_Feeder_Dog",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1075741759.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Wuff",
+ "lore": "Furniture",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1766601754,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/dog-bowl-1075741759.md"
+}

@@ -29,4 +29,4 @@ delicious grilled fish - increases health and diving time
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](grilled-fish-common-02-1845941074.json)

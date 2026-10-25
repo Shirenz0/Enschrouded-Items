@@ -1,0 +1,36 @@
+{
+ "name": "Flower Wreath",
+ "category": "BuildTools",
+ "image": "images/icons/627624860.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 439541859,
+   "name": "Flower Wreath",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/439541859.png",
+   "page": "items/buildtools/flower-wreath-439541859.md",
+   "json": "items/buildtools/flower-wreath-439541859.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 627624860,
+   "name": "Flower Wreath",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/627624860.png",
+   "page": "items/buildtools/flower-wreath-627624860.md",
+   "json": "items/buildtools/flower-wreath-627624860.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/flower-wreath.md"
+}

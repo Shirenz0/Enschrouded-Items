@@ -1,0 +1,67 @@
+{
+ "id": 771316050,
+ "name": "Epic goat club",
+ "internalName": "Weapon_T4_1H_MaceEpic_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/771316050.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Epic goat club descr",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 50,
+   "Ice": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "page": "items/weapons/epic-goat-club-771316050.md"
+}

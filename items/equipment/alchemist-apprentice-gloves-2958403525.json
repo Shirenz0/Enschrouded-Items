@@ -1,0 +1,71 @@
+{
+ "id": 2958403525,
+ "name": "Alchemist Apprentice Gloves",
+ "internalName": "Armor_T1_Mage_Wizard_DPS_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/2958403525.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Starting out on the path of being an alchemist apprentice, these gloves will make your life a little more comfortable.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/alchemist-apprentice-gloves.md",
+  "json": "objects/equipment/alchemist-apprentice-gloves.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Quick Charge",
+   "effect": "Increases the skill level of Quick Charge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+10 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Arsonist",
+   "effect": "Increases the skill level of Arsonist by +1"
+  }
+ ],
+ "page": "items/equipment/alchemist-apprentice-gloves-2958403525.md"
+}

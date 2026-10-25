@@ -1,0 +1,77 @@
+{
+ "id": 1090544834,
+ "name": "T4 DPS Arms",
+ "internalName": "Armor_T4_Warrior_Rogue_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1090544834.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Protects the fingers from traps and cuts. A rogue's best friend!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-dps-arms.md",
+  "json": "objects/equipment/t4-dps-arms.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "One-Handed Melee",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Melee Foes",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Vigorous Deflection",
+   "effect": "Increases the skill level of Vigorous Deflection by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  }
+ ],
+ "page": "items/equipment/t4-dps-arms-1090544834.md"
+}

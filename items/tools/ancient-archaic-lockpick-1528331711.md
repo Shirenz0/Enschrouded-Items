@@ -22,4 +22,4 @@ Lockpicks used by the ancients exclusively in their structures, dungeons etc.
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](ancient-archaic-lockpick-1528331711.json)

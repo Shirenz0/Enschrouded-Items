@@ -17,4 +17,4 @@ This dusty old tome vibrates with a silent hate. Sometimes, the chains rattle at
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](rage-inducing-tome-2402001907.json)

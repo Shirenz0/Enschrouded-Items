@@ -1,0 +1,52 @@
+{
+ "id": 2417128668,
+ "name": "Food Catdeer Feeding",
+ "internalName": "Material_T2_Catdeer_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/2417128668.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "food catdeer feeding description",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4142964910,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3316218728,
+      "name": "Plant Fibre",
+      "page": "items/materials/plant-fibre-3316218728.md",
+      "json": "items/materials/plant-fibre-3316218728.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3542827745,
+      "name": "Forest Beet",
+      "page": "items/consumables/forest-beet-3542827745.md",
+      "json": "items/consumables/forest-beet-3542827745.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/food-catdeer-feeding-2417128668.md"
+}

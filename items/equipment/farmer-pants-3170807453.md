@@ -27,4 +27,4 @@ Sunbleached pants, carefully patched and sown with leftover thread. The cloth is
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](farmer-pants-3170807453.json)

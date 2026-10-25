@@ -1,0 +1,50 @@
+{
+ "id": 3203382450,
+ "name": "T2 royal arms",
+ "internalName": "Vanity_T2_Royal_Gloves",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3203382450.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "royal arms desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-royal-arms.md",
+  "json": "objects/equipment/t2-royal-arms.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Hands"
+ },
+ "recipes": [
+  {
+   "recipeId": 3226011232,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-royal-arms-3203382450.md"
+}

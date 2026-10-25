@@ -21,4 +21,4 @@ The head of the wolf heavy enemy.
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](wolf-heavy-head-1285378490.json)

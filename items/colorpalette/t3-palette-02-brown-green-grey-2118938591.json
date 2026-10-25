@@ -1,0 +1,70 @@
+{
+ "id": 2118938591,
+ "name": "T3 Palette 02 Brown Green Grey",
+ "internalName": "ColorPalette_T3_ColorPalette_02",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2118938591.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "darker Shades of Brown and Green",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1280903710,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2027586500,
+      "name": "Ammoniak Gland",
+      "page": "items/materials/ammoniak-gland-2027586500.md",
+      "json": "items/materials/ammoniak-gland-2027586500.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3749540900,
+      "name": "Tin Ore",
+      "page": "items/materials/tin-ore-3749540900.md",
+      "json": "items/materials/tin-ore-3749540900.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t3-palette-02-brown-green-grey-2118938591.md"
+}

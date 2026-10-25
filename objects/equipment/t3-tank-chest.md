@@ -17,4 +17,4 @@ Prodigious tin armor which withstands and impact and inspires hope.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-tank-chest.json)

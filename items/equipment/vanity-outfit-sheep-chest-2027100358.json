@@ -1,0 +1,50 @@
+{
+ "id": 2027100358,
+ "name": "Vanity Outfit Sheep chest",
+ "internalName": "Vanity_T5_Sheep_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2027100358.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Vanity  Outfit Sheep  chest  Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/vanity-outfit-sheep-chest.md",
+  "json": "objects/equipment/vanity-outfit-sheep-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest"
+ },
+ "recipes": [
+  {
+   "recipeId": 465453287,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/vanity-outfit-sheep-chest-2027100358.md"
+}

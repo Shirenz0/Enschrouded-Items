@@ -1,0 +1,41 @@
+{
+ "id": 1481532079,
+ "name": "Cashew Nut",
+ "internalName": "_UNUSED_Food_T6_raw_grain_CashewNut",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1481532079.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 cashew nut desc: they're not actually nuts, but enjoy their taste and extra strength anyway!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Melee Damage",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1500000,
+    "display": "25:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/cashew-nut-1481532079.md"
+}

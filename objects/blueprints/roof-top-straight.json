@@ -1,0 +1,33 @@
+{
+ "name": "Roof Top Straight",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3236763530,
+   "name": "Roof Top Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-straight-3236763530.md",
+   "json": "items/blueprints/roof-top-straight-3236763530.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 40821618,
+   "name": "Roof Top Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-straight-40821618.md",
+   "json": "items/blueprints/roof-top-straight-40821618.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/roof-top-straight.md"
+}

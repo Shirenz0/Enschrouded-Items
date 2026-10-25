@@ -1,0 +1,57 @@
+{
+ "id": 1368893472,
+ "name": "Skeleton Heavy head",
+ "internalName": "Material_TX_Trophy_Skeleton_Heavy_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1368893472.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Why does it only have one eye???",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2407454540,
+   "name": "Skull Press",
+   "page": "items/buildtools/skull-press-2407454540.md",
+   "json": "items/buildtools/skull-press-2407454540.json"
+  },
+  {
+   "id": 987744055,
+   "name": "Gold Hollow Cyclops Trophy",
+   "page": "items/buildtools/gold-hollow-cyclops-trophy-987744055.md",
+   "json": "items/buildtools/gold-hollow-cyclops-trophy-987744055.json"
+  },
+  {
+   "id": 1054730604,
+   "name": "Metal Boss Trophy Hollow Cyclops",
+   "page": "items/buildtools/metal-boss-trophy-hollow-cyclops-1054730604.md",
+   "json": "items/buildtools/metal-boss-trophy-hollow-cyclops-1054730604.json"
+  },
+  {
+   "id": 458991736,
+   "name": "Big Boss Trophy Hollow Cyclops",
+   "page": "items/buildtools/big-boss-trophy-hollow-cyclops-458991736.md",
+   "json": "items/buildtools/big-boss-trophy-hollow-cyclops-458991736.json"
+  },
+  {
+   "id": 2854812789,
+   "name": "Boss Trophy Holow Cyclops",
+   "page": "items/buildtools/boss-trophy-holow-cyclops-2854812789.md",
+   "json": "items/buildtools/boss-trophy-holow-cyclops-2854812789.json"
+  }
+ ],
+ "page": "items/materials/skeleton-heavy-head-1368893472.md"
+}

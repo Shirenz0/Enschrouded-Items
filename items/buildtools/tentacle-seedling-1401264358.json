@@ -1,0 +1,61 @@
+{
+ "id": 1401264358,
+ "name": "Tentacle Seedling",
+ "internalName": "T5_Seedling_TentacleSeed",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/1401264358.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will soon grow into a tentacle, should it be placed into Shroud Sand.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4095457619,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 409810488,
+      "name": "Acidic Shroud",
+      "page": "items/materials/acidic-shroud-409810488.md",
+      "json": "items/materials/acidic-shroud-409810488.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3234886486,
+      "name": "Shroud Infused Farm Soil",
+      "page": "items/materials/shroud-infused-farm-soil-3234886486.md",
+      "json": "items/materials/shroud-infused-farm-soil-3234886486.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/tentacle-seedling-1401264358.md"
+}

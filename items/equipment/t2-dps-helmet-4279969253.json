@@ -1,0 +1,116 @@
+{
+ "id": 4279969253,
+ "name": "T2 DPS Helmet",
+ "internalName": "Armor_T2_Warrior_DPS_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/4279969253.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A simple but reliable helmet.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-dps-helmet.md",
+  "json": "objects/equipment/t2-dps-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Melee Strike Chance",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Barbarians Path",
+   "effect": "Increases the skill level of Barbarian's Path"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+6 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Brute",
+   "effect": "Increases the skill level of Brute by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 663403006,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 4229884102,
+      "name": "Shroud Mush",
+      "page": "items/materials/shroud-mush-4229884102.md",
+      "json": "items/materials/shroud-mush-4229884102.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 291752398,
+      "name": "Reptile Leather",
+      "page": "items/materials/reptile-leather-291752398.md",
+      "json": "items/materials/reptile-leather-291752398.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-dps-helmet-4279969253.md"
+}

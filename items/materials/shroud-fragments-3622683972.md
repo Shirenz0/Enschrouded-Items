@@ -25,4 +25,4 @@ Fell Enemies, Nomad Highlands Shroud, Kindlewastes Shroud and Albaneve Summits S
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](shroud-fragments-3622683972.json)

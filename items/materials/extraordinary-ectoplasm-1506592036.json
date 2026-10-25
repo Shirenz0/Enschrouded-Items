@@ -1,0 +1,78 @@
+{
+ "id": 1506592036,
+ "name": "Extraordinary Ectoplasm",
+ "internalName": "Material_T6_SlurpBroth",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1506592036.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 slurp broth desc",
+ "lore": null,
+ "whereToFind": "Crafting, Ectoplasm Press",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1731238690,
+   "station": "skullCrockPot",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 4005698976,
+      "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+      "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+      "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 1898288525,
+      "name": "Mother-Of-Pearl",
+      "page": "items/materials/mother-of-pearl-1898288525.md",
+      "json": "items/materials/mother-of-pearl-1898288525.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3329610289,
+   "name": "Extraordinary Ectoplasm Soup",
+   "page": "items/consumables/extraordinary-ectoplasm-soup-3329610289.md",
+   "json": "items/consumables/extraordinary-ectoplasm-soup-3329610289.json"
+  }
+ ],
+ "page": "items/materials/extraordinary-ectoplasm-1506592036.md"
+}

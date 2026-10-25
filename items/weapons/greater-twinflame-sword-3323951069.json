@@ -1,0 +1,70 @@
+{
+ "id": 3323951069,
+ "name": "Greater Twinflame Sword",
+ "internalName": "Weapon_T5_1H_Lore_SwordEpic_ministory_28",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3323951069.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/greater-twinflame-sword.md",
+  "json": "objects/weapons/greater-twinflame-sword.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 5,
+   "name": "All Physical Cut Damage",
+   "effect": "+10 All Physical Cut Damage"
+  }
+ ],
+ "page": "items/weapons/greater-twinflame-sword-3323951069.md"
+}

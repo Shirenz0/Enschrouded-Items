@@ -1,0 +1,67 @@
+{
+ "id": 2585181438,
+ "name": "T2 Warrior Helmet",
+ "internalName": "Armor_T2_Warrior_Rogue_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/2585181438.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Dive headfirst into battle with this metal helmet.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Merciless Strike Damage",
+    "value": 63,
+    "display": "63",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Finesse",
+   "effect": "Increases the skill level of Finesse by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+6 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  }
+ ],
+ "page": "items/equipment/t2-warrior-helmet-2585181438.md"
+}

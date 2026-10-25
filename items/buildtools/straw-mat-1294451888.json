@@ -1,0 +1,53 @@
+{
+ "id": 1294451888,
+ "name": "Straw mat",
+ "internalName": "Prop_Decoration_Comfort_T1_Floor_Plantfibre_small",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1294451888.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Flooring",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Carpet",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 689126447,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3316218728,
+      "name": "Plant Fibre",
+      "page": "items/materials/plant-fibre-3316218728.md",
+      "json": "items/materials/plant-fibre-3316218728.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/straw-mat-1294451888.md"
+}

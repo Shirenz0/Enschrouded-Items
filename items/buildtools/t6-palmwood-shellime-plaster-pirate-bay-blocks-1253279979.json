@@ -1,0 +1,52 @@
+{
+ "id": 1253279979,
+ "name": "T6 Palmwood shellime plaster Pirate Bay Blocks",
+ "internalName": "Block_T6_Wood_Palmwood_Shelllime_PirateBay_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1253279979.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Palmwood and shellime plaster Pirate Bay Blocks description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4273120880,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/t6-palmwood-shellime-plaster-pirate-bay-blocks-1253279979.md"
+}

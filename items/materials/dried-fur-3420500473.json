@@ -1,0 +1,252 @@
+{
+ "id": 3420500473,
+ "name": "Dried Fur",
+ "internalName": "Material_T1_Dried_Fur",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3420500473.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "After drying the Animal Fur on theDrying Rack, it becames sturdier and durable for a longer period of time.",
+ "lore": null,
+ "whereToFind": "Crafting, Drying Rack",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3250891407,
+   "station": "Drying Rack",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 984234407,
+      "name": "Animal Fur",
+      "page": "items/materials/animal-fur-984234407.md",
+      "json": "items/materials/animal-fur-984234407.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3728213390,
+   "name": "Small Backpack",
+   "page": "items/equipment/small-backpack-3728213390.md",
+   "json": "items/equipment/small-backpack-3728213390.json"
+  },
+  {
+   "id": 4135223598,
+   "name": "Leather",
+   "page": "items/materials/leather-4135223598.md",
+   "json": "items/materials/leather-4135223598.json"
+  },
+  {
+   "id": 3996283384,
+   "name": "Scout Boots",
+   "page": "items/equipment/scout-boots-3996283384.md",
+   "json": "items/equipment/scout-boots-3996283384.json"
+  },
+  {
+   "id": 1242709289,
+   "name": "Scout Pants",
+   "page": "items/equipment/scout-pants-1242709289.md",
+   "json": "items/equipment/scout-pants-1242709289.json"
+  },
+  {
+   "id": 1972419518,
+   "name": "Scout Gloves",
+   "page": "items/equipment/scout-gloves-1972419518.md",
+   "json": "items/equipment/scout-gloves-1972419518.json"
+  },
+  {
+   "id": 4113785177,
+   "name": "Scout Chest",
+   "page": "items/equipment/scout-chest-4113785177.md",
+   "json": "items/equipment/scout-chest-4113785177.json"
+  },
+  {
+   "id": 3288375535,
+   "name": "Scout Hood",
+   "page": "items/equipment/scout-hood-3288375535.md",
+   "json": "items/equipment/scout-hood-3288375535.json"
+  },
+  {
+   "id": 3288350660,
+   "name": "T2 DPS Legs",
+   "page": "items/equipment/t2-dps-legs-3288350660.md",
+   "json": "items/equipment/t2-dps-legs-3288350660.json"
+  },
+  {
+   "id": 3101300981,
+   "name": "T2 DPS Chest",
+   "page": "items/equipment/t2-dps-chest-3101300981.md",
+   "json": "items/equipment/t2-dps-chest-3101300981.json"
+  },
+  {
+   "id": 4089349181,
+   "name": "T2 Healer Boots",
+   "page": "items/equipment/t2-healer-boots-4089349181.md",
+   "json": "items/equipment/t2-healer-boots-4089349181.json"
+  },
+  {
+   "id": 3590618366,
+   "name": "T2 Ranger Boots",
+   "page": "items/equipment/t2-ranger-boots-3590618366.md",
+   "json": "items/equipment/t2-ranger-boots-3590618366.json"
+  },
+  {
+   "id": 1617642810,
+   "name": "T2 Ranger Helmet",
+   "page": "items/equipment/t2-ranger-helmet-1617642810.md",
+   "json": "items/equipment/t2-ranger-helmet-1617642810.json"
+  },
+  {
+   "id": 2731186757,
+   "name": "T2 Archer Boots",
+   "page": "items/equipment/t2-archer-boots-2731186757.md",
+   "json": "items/equipment/t2-archer-boots-2731186757.json"
+  },
+  {
+   "id": 1543470770,
+   "name": "T2 Archer Chest",
+   "page": "items/equipment/t2-archer-chest-1543470770.md",
+   "json": "items/equipment/t2-archer-chest-1543470770.json"
+  },
+  {
+   "id": 3351665828,
+   "name": "T2 Archer Helmet",
+   "page": "items/equipment/t2-archer-helmet-3351665828.md",
+   "json": "items/equipment/t2-archer-helmet-3351665828.json"
+  },
+  {
+   "id": 1113469647,
+   "name": "T2 Tank Arms",
+   "page": "items/equipment/t2-tank-arms-1113469647.md",
+   "json": "items/equipment/t2-tank-arms-1113469647.json"
+  },
+  {
+   "id": 2292844068,
+   "name": "T2 Tank Helmet",
+   "page": "items/equipment/t2-tank-helmet-2292844068.md",
+   "json": "items/equipment/t2-tank-helmet-2292844068.json"
+  },
+  {
+   "id": 2304873217,
+   "name": "Bed T2",
+   "page": "items/buildtools/bed-t2-2304873217.md",
+   "json": "items/buildtools/bed-t2-2304873217.json"
+  },
+  {
+   "id": 2940001508,
+   "name": "Bed T1",
+   "page": "items/buildtools/bed-t1-2940001508.md",
+   "json": "items/buildtools/bed-t1-2940001508.json"
+  },
+  {
+   "id": 571574366,
+   "name": "Sun Lounger",
+   "page": "items/buildtools/sun-lounger-571574366.md",
+   "json": "items/buildtools/sun-lounger-571574366.json"
+  },
+  {
+   "id": 2206143874,
+   "name": "Big furry straw mat",
+   "page": "items/buildtools/big-furry-straw-mat-2206143874.md",
+   "json": "items/buildtools/big-furry-straw-mat-2206143874.json"
+  },
+  {
+   "id": 1318773899,
+   "name": "Furry straw mat",
+   "page": "items/buildtools/furry-straw-mat-1318773899.md",
+   "json": "items/buildtools/furry-straw-mat-1318773899.json"
+  },
+  {
+   "id": 1564599311,
+   "name": "Big Fur Rug",
+   "page": "items/buildtools/big-fur-rug-1564599311.md",
+   "json": "items/buildtools/big-fur-rug-1564599311.json"
+  },
+  {
+   "id": 3910511825,
+   "name": "Fur Rug",
+   "page": "items/buildtools/fur-rug-3910511825.md",
+   "json": "items/buildtools/fur-rug-3910511825.json"
+  },
+  {
+   "id": 3985086598,
+   "name": "Barber Stool",
+   "page": "items/buildtools/barber-stool-3985086598.md",
+   "json": "items/buildtools/barber-stool-3985086598.json"
+  },
+  {
+   "id": 1890067674,
+   "name": "Chair T2",
+   "page": "items/buildtools/chair-t2-1890067674.md",
+   "json": "items/buildtools/chair-t2-1890067674.json"
+  },
+  {
+   "id": 4140714720,
+   "name": "T2 explorer boots",
+   "page": "items/equipment/t2-explorer-boots-4140714720.md",
+   "json": "items/equipment/t2-explorer-boots-4140714720.json"
+  },
+  {
+   "id": 3664044083,
+   "name": "T2 explorer legs",
+   "page": "items/equipment/t2-explorer-legs-3664044083.md",
+   "json": "items/equipment/t2-explorer-legs-3664044083.json"
+  },
+  {
+   "id": 2375429314,
+   "name": "T2 explorerArms",
+   "page": "items/equipment/t2-explorerarms-2375429314.md",
+   "json": "items/equipment/t2-explorerarms-2375429314.json"
+  },
+  {
+   "id": 2140158419,
+   "name": "T2 explorer chest",
+   "page": "items/equipment/t2-explorer-chest-2140158419.md",
+   "json": "items/equipment/t2-explorer-chest-2140158419.json"
+  },
+  {
+   "id": 723826501,
+   "name": "T2 explorer helmet",
+   "page": "items/equipment/t2-explorer-helmet-723826501.md",
+   "json": "items/equipment/t2-explorer-helmet-723826501.json"
+  },
+  {
+   "id": 134682651,
+   "name": "Harp",
+   "page": "items/buildtools/harp-134682651.md",
+   "json": "items/buildtools/harp-134682651.json"
+  },
+  {
+   "id": 1892437103,
+   "name": "Lute",
+   "page": "items/buildtools/lute-1892437103.md",
+   "json": "items/buildtools/lute-1892437103.json"
+  }
+ ],
+ "page": "items/materials/dried-fur-3420500473.md"
+}

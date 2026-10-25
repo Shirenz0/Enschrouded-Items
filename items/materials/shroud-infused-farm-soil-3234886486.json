@@ -1,0 +1,69 @@
+{
+ "id": 3234886486,
+ "name": "Shroud Infused Farm Soil",
+ "internalName": "Build_TerrainMaterial_T5_Farmsoil_ShroudInfused",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/3234886486.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It stinks!",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 54060466,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1985910431,
+      "name": "Chitin Podwer",
+      "page": "items/materials/chitin-podwer-1985910431.md",
+      "json": "items/materials/chitin-podwer-1985910431.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1172450293,
+      "name": "Shroud Sand",
+      "page": "items/materials/shroud-sand-1172450293.md",
+      "json": "items/materials/shroud-sand-1172450293.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1401264358,
+   "name": "Tentacle Seedling",
+   "page": "items/buildtools/tentacle-seedling-1401264358.md",
+   "json": "items/buildtools/tentacle-seedling-1401264358.json"
+  }
+ ],
+ "page": "items/materials/shroud-infused-farm-soil-3234886486.md"
+}

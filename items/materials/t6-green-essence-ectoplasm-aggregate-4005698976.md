@@ -25,4 +25,4 @@ Veilwater Basin, Hollow Halls
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](t6-green-essence-ectoplasm-aggregate-4005698976.json)

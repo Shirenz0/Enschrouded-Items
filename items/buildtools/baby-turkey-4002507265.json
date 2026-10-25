@@ -1,0 +1,25 @@
+{
+ "id": 4002507265,
+ "name": "Baby Turkey",
+ "internalName": "Animal_Baby_Turkey",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4002507265.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Cute little flappy",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-turkey-4002507265.md"
+}

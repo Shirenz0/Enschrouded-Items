@@ -1,0 +1,25 @@
+{
+ "id": 3185865067,
+ "name": "Ancient Force Generator",
+ "internalName": "Prop_Production_T7_Force_Generator",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3185865067.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Feed it with Archaic Essence to start generating Force. Higher-quality archaic essence generates more force than others. The generated force speeds up the production speed of all factories nearby.",
+ "lore": "Furniture",
+ "whereToFind": "Crafting, Ancient Researcher",
+ "object": null,
+ "page": "items/buildtools/ancient-force-generator-3185865067.md"
+}

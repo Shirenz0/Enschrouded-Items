@@ -1,0 +1,133 @@
+{
+ "id": 4048093059,
+ "name": "Cryptic wand",
+ "internalName": "Craft_Weapon_T2_1H_Lore_WandEpic_Ministory_09_Lightning",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 11,
+  "max": 11
+ },
+ "maxStack": 1,
+ "image": "images/icons/4048093059.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/cryptic-wand.md",
+  "json": "objects/weapons/cryptic-wand.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 13,
+    "display": "13",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Mana Leech",
+   "effect": "+4 Mana Leech"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 5,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2845497763,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1284326318,
+      "name": "Brittle Shroud Petals",
+      "page": "items/materials/brittle-shroud-petals-1284326318.md",
+      "json": "items/materials/brittle-shroud-petals-1284326318.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/cryptic-wand-4048093059.md"
+}

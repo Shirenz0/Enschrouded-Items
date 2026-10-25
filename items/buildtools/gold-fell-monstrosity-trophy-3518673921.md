@@ -31,4 +31,4 @@ defeat boss multiple times to craft gold trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-fell-monstrosity-trophy-3518673921.json)

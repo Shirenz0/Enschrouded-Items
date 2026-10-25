@@ -1,0 +1,52 @@
+{
+ "id": 917858421,
+ "name": "Medieval Grill",
+ "internalName": "Prop_Production_T6_MedievalGrill",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/917858421.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A medieval grill that can be used to prepare advanced fish dishes. your fish filets will become extra crispy with this.",
+ "lore": "Furniture",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1889095333,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1261933427,
+      "name": "Fired Brick",
+      "page": "items/materials/fired-brick-1261933427.md",
+      "json": "items/materials/fired-brick-1261933427.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/medieval-grill-917858421.md"
+}

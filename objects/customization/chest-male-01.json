@@ -1,0 +1,55 @@
+{
+ "name": "Chest Male 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1748578377,
+   "name": "Chest Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/chest-male-01-1748578377.md",
+   "json": "items/customization/chest-male-01-1748578377.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2295898355,
+   "name": "Chest Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/chest-male-01-2295898355.md",
+   "json": "items/customization/chest-male-01-2295898355.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 318982743,
+   "name": "Chest Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/chest-male-01-318982743.md",
+   "json": "items/customization/chest-male-01-318982743.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3724937051,
+   "name": "Chest Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/chest-male-01-3724937051.md",
+   "json": "items/customization/chest-male-01-3724937051.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/chest-male-01.md"
+}

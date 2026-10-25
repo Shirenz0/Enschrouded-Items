@@ -1,0 +1,84 @@
+{
+ "id": 4104616591,
+ "name": "Epic Shock Wand",
+ "internalName": "Weapon_T4_1H_WandEpic_02_Lightning",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/4104616591.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This wand can bring the lighting down on your enemies. - Multishot: Fires multiple projectiles but at reduced damage.  - Multishot: Fires multiple projectiles but at reduced damage",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Brutal",
+   "effect": "+18 Brutal"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/epic-shock-wand-4104616591.md"
+}

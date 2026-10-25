@@ -38,4 +38,4 @@ Campfire
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](meat-skewer-with-corncob-2840500800.json)

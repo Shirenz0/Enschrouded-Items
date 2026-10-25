@@ -1,0 +1,77 @@
+{
+ "id": 1200796186,
+ "name": "T4 DPS Boots",
+ "internalName": "Armor_T4_Warrior_Rogue_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1200796186.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It is clear that any person wearing these boots should not be messed with.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-dps-boots.md",
+  "json": "objects/equipment/t4-dps-boots.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -350,
+    "display": "-0.35 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Finesse",
+   "effect": "Increases the skill level of Finesse by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  }
+ ],
+ "page": "items/equipment/t4-dps-boots-1200796186.md"
+}

@@ -1,0 +1,69 @@
+{
+ "id": 1652235601,
+ "name": "Greater Ring of Stamina",
+ "internalName": "Ring_T3_Ring_of_Stamina",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1652235601.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This  ancient ring will  give you stamina and increase your recovery.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 2,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 3,
+   "name": "+1 Sniper",
+   "effect": "Increases the skill level of Sniper by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina Leech",
+   "effect": "+3 Stamina Leech"
+  },
+  {
+   "order": 5,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "page": "items/equipment/greater-ring-of-stamina-1652235601.md"
+}

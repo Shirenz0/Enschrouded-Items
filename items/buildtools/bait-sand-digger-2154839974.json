@@ -1,0 +1,79 @@
+{
+ "id": 2154839974,
+ "name": "Bait Sand Digger",
+ "internalName": "Food_T4_SandDigger_Bait",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2154839974.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "bait sanddigger desc",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2342450387,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2008478235,
+      "name": "Yucca Fruit",
+      "page": "items/consumables/yucca-fruit-2008478235.md",
+      "json": "items/consumables/yucca-fruit-2008478235.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 169532188,
+      "name": "Flour",
+      "page": "items/materials/flour-169532188.md",
+      "json": "items/materials/flour-169532188.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3562500384,
+      "name": "Sage Leaves",
+      "page": "items/consumables/sage-leaves-3562500384.md",
+      "json": "items/consumables/sage-leaves-3562500384.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4180130855,
+      "name": "St. John's Wort",
+      "page": "items/consumables/st-john-s-wort-4180130855.md",
+      "json": "items/consumables/st-john-s-wort-4180130855.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/buildtools/bait-sand-digger-2154839974.md"
+}

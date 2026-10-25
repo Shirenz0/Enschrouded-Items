@@ -1,0 +1,55 @@
+{
+ "id": 3259443869,
+ "name": "Collection of Books I",
+ "internalName": "Prop_Decoration_Book_Pile_01_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3259443869.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "What is better than one  book?",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/collection-of-books-i.md",
+  "json": "objects/buildtools/collection-of-books-i.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 26176031,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 2610555646,
+       "name": "Old Books",
+       "page": "items/materials/old-books-2610555646.md",
+       "json": "items/materials/old-books-2610555646.json"
+      },
+      {
+       "id": 287018928,
+       "name": "Paper",
+       "page": "items/materials/paper-287018928.md",
+       "json": "items/materials/paper-287018928.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/collection-of-books-i-3259443869.md"
+}

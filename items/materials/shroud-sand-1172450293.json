@@ -1,0 +1,126 @@
+{
+ "id": 1172450293,
+ "name": "Shroud Sand",
+ "internalName": "Material_T4_FogTerrain_ShroudSand",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/1172450293.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Soo fine...",
+ "lore": null,
+ "whereToFind": "find in Kindlewastes  Shroud",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1388268392,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1401630464,
+      "name": "Sandstone",
+      "page": "items/materials/sandstone-1401630464.md",
+      "json": "items/materials/sandstone-1401630464.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 409810488,
+      "name": "Acidic Shroud",
+      "page": "items/materials/acidic-shroud-409810488.md",
+      "json": "items/materials/acidic-shroud-409810488.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1087441899,
+   "name": "T4 Heal Beam Channel",
+   "page": "items/ammunition/t4-heal-beam-channel-1087441899.md",
+   "json": "items/ammunition/t4-heal-beam-channel-1087441899.json"
+  },
+  {
+   "id": 1126086984,
+   "name": "Spice",
+   "page": "items/materials/spice-1126086984.md",
+   "json": "items/materials/spice-1126086984.json"
+  },
+  {
+   "id": 2206878080,
+   "name": "Nitrate",
+   "page": "items/materials/nitrate-2206878080.md",
+   "json": "items/materials/nitrate-2206878080.json"
+  },
+  {
+   "id": 4024884903,
+   "name": "T4 Assassin Boots",
+   "page": "items/equipment/t4-assassin-boots-4024884903.md",
+   "json": "items/equipment/t4-assassin-boots-4024884903.json"
+  },
+  {
+   "id": 219898735,
+   "name": "T4 BattleMage boote",
+   "page": "items/equipment/t4-battlemage-boote-219898735.md",
+   "json": "items/equipment/t4-battlemage-boote-219898735.json"
+  },
+  {
+   "id": 620048429,
+   "name": "T4 DPS Boots",
+   "page": "items/equipment/t4-dps-boots-620048429.md",
+   "json": "items/equipment/t4-dps-boots-620048429.json"
+  },
+  {
+   "id": 3615964892,
+   "name": "T4 Healer Boots",
+   "page": "items/equipment/t4-healer-boots-3615964892.md",
+   "json": "items/equipment/t4-healer-boots-3615964892.json"
+  },
+  {
+   "id": 1953528963,
+   "name": "T4 Mage Boots",
+   "page": "items/equipment/t4-mage-boots-1953528963.md",
+   "json": "items/equipment/t4-mage-boots-1953528963.json"
+  },
+  {
+   "id": 3486210573,
+   "name": "T4 Ranger Boots",
+   "page": "items/equipment/t4-ranger-boots-3486210573.md",
+   "json": "items/equipment/t4-ranger-boots-3486210573.json"
+  },
+  {
+   "id": 345073573,
+   "name": "T4 sniper boots",
+   "page": "items/equipment/t4-sniper-boots-345073573.md",
+   "json": "items/equipment/t4-sniper-boots-345073573.json"
+  },
+  {
+   "id": 1058485756,
+   "name": "T4 Tank Boots",
+   "page": "items/equipment/t4-tank-boots-1058485756.md",
+   "json": "items/equipment/t4-tank-boots-1058485756.json"
+  },
+  {
+   "id": 3234886486,
+   "name": "Shroud Infused Farm Soil",
+   "page": "items/materials/shroud-infused-farm-soil-3234886486.md",
+   "json": "items/materials/shroud-infused-farm-soil-3234886486.json"
+  }
+ ],
+ "page": "items/materials/shroud-sand-1172450293.md"
+}

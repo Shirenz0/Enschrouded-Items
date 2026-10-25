@@ -1,0 +1,39 @@
+{
+ "id": 2181045178,
+ "name": "T6 Wetlands Sand",
+ "internalName": "Build_TerrainMaterial_T6_Dirt_Wetlands_Sand",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2181045178.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A bright Sand from shells",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1358181917,
+   "name": "Ground Coffee Beans",
+   "page": "items/materials/ground-coffee-beans-1358181917.md",
+   "json": "items/materials/ground-coffee-beans-1358181917.json"
+  },
+  {
+   "id": 1422307195,
+   "name": "Fertile Wetlands T6 Dirt",
+   "page": "items/materials/fertile-wetlands-t6-dirt-1422307195.md",
+   "json": "items/materials/fertile-wetlands-t6-dirt-1422307195.json"
+  }
+ ],
+ "page": "items/materials/t6-wetlands-sand-2181045178.md"
+}

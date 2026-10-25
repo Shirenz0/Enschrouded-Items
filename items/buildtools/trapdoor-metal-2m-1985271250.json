@@ -1,0 +1,43 @@
+{
+ "id": 1985271250,
+ "name": "Trapdoor metal 2m",
+ "internalName": "Prop_Logic_Trap_Door_Metal_00_2m",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1985271250.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This trap door might open unexpectedly beneath your feet. Watch your step!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4274336833,
+   "station": "Logic System Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/trapdoor-metal-2m-1985271250.md"
+}

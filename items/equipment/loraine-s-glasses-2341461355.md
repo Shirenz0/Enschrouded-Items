@@ -27,4 +27,4 @@ These glasses haven seen it all (almost). Marked by Vulter fang marks (?)
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](loraine-s-glasses-2341461355.json)

@@ -1,0 +1,25 @@
+{
+ "id": 1549647644,
+ "name": "Climbing Claws",
+ "internalName": "Tool_ClimbingClaws",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1549647644.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Claws that were designed to climb steep walls. They are especially useful in case of a lost front door key.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/tools/climbing-claws-1549647644.md"
+}

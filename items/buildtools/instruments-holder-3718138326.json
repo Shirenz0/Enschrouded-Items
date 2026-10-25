@@ -1,0 +1,52 @@
+{
+ "id": 3718138326,
+ "name": "Instruments holder",
+ "internalName": "_Prop_Collection_InstrumentHolder_Wall",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3718138326.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A display for your Instruments",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3882533958,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/instruments-holder-3718138326.md"
+}

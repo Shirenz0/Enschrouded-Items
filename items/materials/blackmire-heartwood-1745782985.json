@@ -1,0 +1,45 @@
+{
+ "id": 1745782985,
+ "name": "Blackmire Heartwood",
+ "internalName": "Build_TerrainMaterial_T2_TallTree_Inner",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/1745782985.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The century old wood found beyond the bark of the Blackmire trees.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3646522155,
+   "name": "Talltree Table Large",
+   "page": "items/buildtools/talltree-table-large-3646522155.md",
+   "json": "items/buildtools/talltree-table-large-3646522155.json"
+  },
+  {
+   "id": 646677194,
+   "name": "Talltree Table Medium",
+   "page": "items/buildtools/talltree-table-medium-646677194.md",
+   "json": "items/buildtools/talltree-table-medium-646677194.json"
+  },
+  {
+   "id": 366247640,
+   "name": "Talltree Table Small",
+   "page": "items/buildtools/talltree-table-small-366247640.md",
+   "json": "items/buildtools/talltree-table-small-366247640.json"
+  }
+ ],
+ "page": "items/materials/blackmire-heartwood-1745782985.md"
+}

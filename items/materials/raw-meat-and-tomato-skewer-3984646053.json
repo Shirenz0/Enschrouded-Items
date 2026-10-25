@@ -1,0 +1,60 @@
+{
+ "id": 3984646053,
+ "name": "Raw Meat and Tomato Skewer",
+ "internalName": "Material_T1_raw_dish_VegetableSkewer",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3984646053.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hunter's favorite ration, crafted for precision. After you've grilled it over a fire, it will grant you **more maximum health, increase your ranged and dagger damage and expand your maximum stamina.**",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2911028651,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1036540037,
+      "name": "Tomatos",
+      "page": "items/consumables/tomatos-1036540037.md",
+      "json": "items/consumables/tomatos-1036540037.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1492892444,
+      "name": "Raw Lean Meat",
+      "page": "items/consumables/raw-lean-meat-1492892444.md",
+      "json": "items/consumables/raw-lean-meat-1492892444.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1767022245,
+   "name": "Meat Skewer with Tomato",
+   "page": "items/consumables/meat-skewer-with-tomato-1767022245.md",
+   "json": "items/consumables/meat-skewer-with-tomato-1767022245.json"
+  }
+ ],
+ "page": "items/materials/raw-meat-and-tomato-skewer-3984646053.md"
+}

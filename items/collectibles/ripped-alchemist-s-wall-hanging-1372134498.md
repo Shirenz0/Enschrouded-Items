@@ -19,4 +19,4 @@ The second half of a wall hanging, visualizing the complex simbiosis of the natu
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](ripped-alchemist-s-wall-hanging-1372134498.json)

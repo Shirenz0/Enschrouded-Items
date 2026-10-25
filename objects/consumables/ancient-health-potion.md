@@ -23,4 +23,4 @@ Crafting, Alchemist
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](ancient-health-potion.json)

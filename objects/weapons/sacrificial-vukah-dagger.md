@@ -23,4 +23,4 @@ A crude dagger, previously used by a Vukah.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](sacrificial-vukah-dagger.json)

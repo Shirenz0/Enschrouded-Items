@@ -1,0 +1,116 @@
+{
+ "id": 199517504,
+ "name": "Rising Fighter Gloves",
+ "internalName": "Armor_T1_Warrior_DPS_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/199517504.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Gloves made for beginner fighters. Robust, but agile. They will mainly protect you from the blisters of swinging the sword.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/rising-fighter-gloves.md",
+  "json": "objects/equipment/rising-fighter-gloves.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Melee Damage",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Handed",
+   "effect": "Increases the skill level of Heavy Handed by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+20 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 71037767,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 984234407,
+      "name": "Animal Fur",
+      "page": "items/materials/animal-fur-984234407.md",
+      "json": "items/materials/animal-fur-984234407.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2832562682,
+      "name": "Aerated Shroud Gel",
+      "page": "items/materials/aerated-shroud-gel-2832562682.md",
+      "json": "items/materials/aerated-shroud-gel-2832562682.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/rising-fighter-gloves-199517504.md"
+}

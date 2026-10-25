@@ -1,0 +1,67 @@
+{
+ "id": 53318001,
+ "name": "Acid Cleaver",
+ "internalName": "Weapon_T2-TX_1H_Sword_Enemy_Scavenger_Elite_AcidCleaver",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/53318001.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A heavy cleaver coated with the scavengers poison",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Poison": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Vicious",
+   "effect": "+14 Vicious"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Primal",
+   "effect": "+6 Damage against Vukah"
+  }
+ ],
+ "page": "items/weapons/acid-cleaver-53318001.md"
+}

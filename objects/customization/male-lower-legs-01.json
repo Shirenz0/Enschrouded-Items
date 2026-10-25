@@ -1,0 +1,55 @@
+{
+ "name": "Male Lower Legs 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1099771612,
+   "name": "Male Lower Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-legs-01-1099771612.md",
+   "json": "items/customization/male-lower-legs-01-1099771612.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1468687235,
+   "name": "Male Lower Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-legs-01-1468687235.md",
+   "json": "items/customization/male-lower-legs-01-1468687235.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1482242764,
+   "name": "Male Lower Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-legs-01-1482242764.md",
+   "json": "items/customization/male-lower-legs-01-1482242764.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 476048257,
+   "name": "Male Lower Legs 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-legs-01-476048257.md",
+   "json": "items/customization/male-lower-legs-01-476048257.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-lower-legs-01.md"
+}

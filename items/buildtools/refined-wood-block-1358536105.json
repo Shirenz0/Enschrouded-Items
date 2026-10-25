@@ -1,0 +1,52 @@
+{
+ "id": 1358536105,
+ "name": "Refined Wood Block",
+ "internalName": "Block_T2_Wood_Fancy_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1358536105.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Highly qualitative wood that was manufactured with an eye for detail.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1551025143,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/refined-wood-block-1358536105.md"
+}

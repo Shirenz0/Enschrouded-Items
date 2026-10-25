@@ -33,4 +33,4 @@ Defeat the Boss multiple times to craft one of those.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](metal-boss-trophy-dragon-887325393.json)

@@ -1,0 +1,74 @@
+{
+ "id": 3999300572,
+ "name": "Candied Ginger",
+ "internalName": "Food_T6_dish_sweets_CandiedGinger",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3999300572.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 candied ginger desc",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 540000,
+    "display": "9:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 865208820,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 814096701,
+      "name": "Ginger",
+      "page": "items/consumables/ginger-814096701.md",
+      "json": "items/consumables/ginger-814096701.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1800945978,
+      "name": "Sugar",
+      "page": "items/consumables/sugar-1800945978.md",
+      "json": "items/consumables/sugar-1800945978.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/candied-ginger-3999300572.md"
+}

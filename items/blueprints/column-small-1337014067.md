@@ -15,4 +15,4 @@ One of 2 versions of this item: see [Column Small](../../objects/blueprints/colu
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](column-small-1337014067.json)

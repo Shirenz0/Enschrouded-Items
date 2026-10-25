@@ -23,4 +23,4 @@ Warrior Supporter gloves description
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](warrior-supporter-gloves-547743748.json)

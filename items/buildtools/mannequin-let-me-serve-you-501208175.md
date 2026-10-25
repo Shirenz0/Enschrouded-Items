@@ -25,4 +25,4 @@ A mannequin which cn be dressed in Armor or vanity Items to tell tales of an adv
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](mannequin-let-me-serve-you-501208175.json)

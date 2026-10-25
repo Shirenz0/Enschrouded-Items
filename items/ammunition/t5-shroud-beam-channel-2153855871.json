@@ -1,0 +1,78 @@
+{
+ "id": 2153855871,
+ "name": "T5 Shroud Beam Channel",
+ "internalName": "Ammo_T5_Spell_Fog_Beam_Channel_lvl30",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 500,
+ "image": "images/icons/2153855871.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hold to deal continous fog damage in a beam of up to 20 meters range. Hitting an enemy reduces your Shroud Time.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Shroud": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 42,
+    "display": "42",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max Shroud Survivability",
+    "value": -240000,
+    "display": "-240,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2582415057,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1985910431,
+      "name": "Chitin Podwer",
+      "page": "items/materials/chitin-podwer-1985910431.md",
+      "json": "items/materials/chitin-podwer-1985910431.json"
+     }
+    },
+    {
+     "count": 50,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t5-shroud-beam-channel-2153855871.md"
+}

@@ -1,0 +1,69 @@
+{
+ "id": 2971039479,
+ "name": "T5 Eternal Mana Leech Beam VI",
+ "internalName": "Ammo_T5_Spell_ManaLeechBeam_Channel_lvl28",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 1,
+ "image": "images/icons/2971039479.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical Beam that leeches Mana from enemies without dealing damage to them.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 22,
+    "display": "22",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2358192529,
+   "station": null,
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1997243371,
+      "name": "T5 Material Amethyst",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 310580024,
+      "name": "Shadow Rose",
+      "page": "items/materials/shadow-rose-310580024.md",
+      "json": "items/materials/shadow-rose-310580024.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t5-eternal-mana-leech-beam-vi-2971039479.md"
+}

@@ -32,4 +32,4 @@ A wonderfully inviting fireplace made from red bricks.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](brick-fireplace-4243711088.json)

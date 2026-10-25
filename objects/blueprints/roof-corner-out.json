@@ -1,0 +1,33 @@
+{
+ "name": "Roof Corner Out",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3000989055,
+   "name": "Roof Corner Out",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-out-3000989055.md",
+   "json": "items/blueprints/roof-corner-out-3000989055.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 985540864,
+   "name": "Roof Corner Out",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-out-985540864.md",
+   "json": "items/blueprints/roof-corner-out-985540864.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/roof-corner-out.md"
+}

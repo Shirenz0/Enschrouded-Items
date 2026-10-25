@@ -1,0 +1,86 @@
+{
+ "id": 623229764,
+ "name": "Stone Pickaxe",
+ "internalName": "Tool_T0_Pickaxe_Stone_Grassland",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 1,
+ "image": "images/icons/623229764.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A basic mining tool, made of the simplest materials. Its not very durable or efficient, but it does what it's supposed to.",
+ "lore": "Tools",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 110,
+    "display": "110",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2639138855,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/stone-pickaxe-623229764.md"
+}

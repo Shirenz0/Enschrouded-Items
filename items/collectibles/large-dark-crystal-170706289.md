@@ -17,4 +17,4 @@ A large crystal with a threatening aura.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](large-dark-crystal-170706289.json)

@@ -1,0 +1,35 @@
+{
+ "name": "Ward T6",
+ "category": "Equipment",
+ "image": "images/icons/2664004828.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1467281560,
+   "name": "Ward T6",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/1467281560.png",
+   "page": "items/equipment/ward-t6-1467281560.md",
+   "json": "items/equipment/ward-t6-1467281560.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2664004828,
+   "name": "Ward T6",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/2664004828.png",
+   "page": "items/equipment/ward-t6-2664004828.md",
+   "json": "items/equipment/ward-t6-2664004828.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/ward-t6.md"
+}

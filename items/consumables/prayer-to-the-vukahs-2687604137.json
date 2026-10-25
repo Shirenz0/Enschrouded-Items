@@ -1,0 +1,47 @@
+{
+ "id": 2687604137,
+ "name": "Prayer To The Vukahs",
+ "internalName": "Consumable_Scroll_Prayer_To_The_Vukah_Buff",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2687604137.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers a prayer to the ancient Vukahs. If answered, the user receives their blessing.",
+ "lore": "A tiny flame, a tiny light\nbanishes the darkness and all it's blight",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 55,
+    "display": "55",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Poison Resistance",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Scavenger",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/prayer-to-the-vukahs-2687604137.md"
+}

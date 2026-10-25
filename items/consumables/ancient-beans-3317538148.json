@@ -1,0 +1,67 @@
+{
+ "id": 3317538148,
+ "name": "Ancient \"Beans\"",
+ "internalName": "Food_T7_raw_bad_vegetable_Beans",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3317538148.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These rainbow-colored bean-like structures grow from the blossom. Both the color and the taste are like something from another world. They need to be cooked to be edible.",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": -70,
+    "display": "-70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -80,
+    "display": "-80",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3497094022,
+   "name": "Plantain Salad with ancient beans",
+   "page": "items/consumables/plantain-salad-with-ancient-beans-3497094022.md",
+   "json": "items/consumables/plantain-salad-with-ancient-beans-3497094022.json"
+  },
+  {
+   "id": 71610791,
+   "name": "Fish Tacos",
+   "page": "items/consumables/fish-tacos-71610791.md",
+   "json": "items/consumables/fish-tacos-71610791.json"
+  },
+  {
+   "id": 2074901818,
+   "name": "Rice with ancient \"beans\"",
+   "page": "items/consumables/rice-with-ancient-beans-2074901818.md",
+   "json": "items/consumables/rice-with-ancient-beans-2074901818.json"
+  },
+  {
+   "id": 2816539508,
+   "name": "Ancient \"Bean\" Seedling",
+   "page": "items/buildtools/ancient-bean-seedling-2816539508.md",
+   "json": "items/buildtools/ancient-bean-seedling-2816539508.json"
+  }
+ ],
+ "page": "items/consumables/ancient-beans-3317538148.md"
+}

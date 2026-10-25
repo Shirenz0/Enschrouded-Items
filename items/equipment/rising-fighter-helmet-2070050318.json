@@ -1,0 +1,116 @@
+{
+ "id": 2070050318,
+ "name": "Rising Fighter Helmet",
+ "internalName": "Armor_T1_Warrior_DPS_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/2070050318.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A head piece to keep your head safe, while taking your first steps as a fighter.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/rising-fighter-helmet.md",
+  "json": "objects/equipment/rising-fighter-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Melee Strike Chance",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Barbarians Path",
+   "effect": "Increases the skill level of Barbarian's Path"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+3 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Brute",
+   "effect": "Increases the skill level of Brute by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1000427678,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 984234407,
+      "name": "Animal Fur",
+      "page": "items/materials/animal-fur-984234407.md",
+      "json": "items/materials/animal-fur-984234407.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2832562682,
+      "name": "Aerated Shroud Gel",
+      "page": "items/materials/aerated-shroud-gel-2832562682.md",
+      "json": "items/materials/aerated-shroud-gel-2832562682.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/rising-fighter-helmet-2070050318.md"
+}

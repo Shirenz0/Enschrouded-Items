@@ -17,4 +17,4 @@ A fibre-made garment held together by oakwood buttons, a woven belt and magic it
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-mage-chest.json)

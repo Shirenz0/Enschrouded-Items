@@ -1,0 +1,75 @@
+{
+ "id": 634473105,
+ "name": "Shroud Nexus",
+ "internalName": "Material_T3_Fog_Core02_ShroudNexus",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/634473105.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The highest concentration of shroud energy.",
+ "lore": null,
+ "whereToFind": "Alchemist or Fell Monstrosity and Fell Sicklescythe",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 178080144,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 3622683972,
+      "name": "Shroud Fragments",
+      "page": "items/materials/shroud-fragments-3622683972.md",
+      "json": "items/materials/shroud-fragments-3622683972.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4157937420,
+   "name": "Huge Magic Chest",
+   "page": "items/buildtools/huge-magic-chest-4157937420.md",
+   "json": "items/buildtools/huge-magic-chest-4157937420.json"
+  },
+  {
+   "id": 514520429,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-514520429.md",
+   "json": "items/equipment/pikemead-s-ward-514520429.json"
+  }
+ ],
+ "page": "items/materials/shroud-nexus-634473105.md"
+}

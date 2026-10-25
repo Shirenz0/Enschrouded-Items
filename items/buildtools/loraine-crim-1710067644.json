@@ -1,0 +1,25 @@
+{
+ "id": 1710067644,
+ "name": "Loraine Crim",
+ "internalName": "NPC_Townsfolk_Female_Villager_06_LoraineCrim_AncientResearcher",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "Loraine Crim is an Ancient researcher and adventure enthusiast.",
+ "lore": "Villager",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/loraine-crim-1710067644.md"
+}

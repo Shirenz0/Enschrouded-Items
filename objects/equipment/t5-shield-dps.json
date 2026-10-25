@@ -1,0 +1,35 @@
+{
+ "name": "T5 Shield DPS",
+ "category": "Equipment",
+ "image": "images/icons/3395268278.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1294112531,
+   "name": "T5 Shield DPS",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/1294112531.png",
+   "page": "items/equipment/t5-shield-dps-1294112531.md",
+   "json": "items/equipment/t5-shield-dps-1294112531.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3395268278,
+   "name": "T5 Shield DPS",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/3395268278.png",
+   "page": "items/equipment/t5-shield-dps-3395268278.md",
+   "json": "items/equipment/t5-shield-dps-3395268278.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t5-shield-dps.md"
+}

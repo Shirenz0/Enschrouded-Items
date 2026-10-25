@@ -1,0 +1,70 @@
+{
+ "id": 3980109078,
+ "name": "T5 Palette 02 Pink and Grey",
+ "internalName": "ColorPalette_T5_ColorPalette_02",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3980109078.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Dark shades of Purple and Grey",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2842125135,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 579568751,
+      "name": "Shroud Vapor",
+      "page": "items/materials/shroud-vapor-579568751.md",
+      "json": "items/materials/shroud-vapor-579568751.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1997243371,
+      "name": "T5 Material Amethyst",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1240806864,
+      "name": "T5 Obsidian Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t5-palette-02-pink-and-grey-3980109078.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 2479098085,
+ "name": "Mushroom Flesh",
+ "internalName": "Build_TerrainMaterial_T2_TallTree_GiantMushroom",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/2479098085.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Flesh of the giant mushrooms that grow in the Blackmire.",
+ "lore": null,
+ "whereToFind": "Blackmire",
+ "object": null,
+ "page": "items/materials/mushroom-flesh-2479098085.md"
+}

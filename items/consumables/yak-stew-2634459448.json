@@ -1,0 +1,98 @@
+{
+ "id": 2634459448,
+ "name": "Yak Stew",
+ "internalName": "Food_T5_dish_meat_YakStew",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2634459448.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A burning hot, meaty stew. Increases your resistance against extreme cold and improves your health and melee damage.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2298212674,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1896276940,
+      "name": "Eggs",
+      "page": "items/consumables/eggs-1896276940.md",
+      "json": "items/consumables/eggs-1896276940.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2306767560,
+      "name": "T5 Raw Fat Meat",
+      "page": "items/consumables/t5-raw-fat-meat-2306767560.md",
+      "json": "items/consumables/t5-raw-fat-meat-2306767560.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1036540037,
+      "name": "Tomatos",
+      "page": "items/consumables/tomatos-1036540037.md",
+      "json": "items/consumables/tomatos-1036540037.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 443792978,
+      "name": "Mountaingoat Milk",
+      "page": "items/consumables/mountaingoat-milk-443792978.md",
+      "json": "items/consumables/mountaingoat-milk-443792978.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/yak-stew-2634459448.md"
+}

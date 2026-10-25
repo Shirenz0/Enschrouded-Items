@@ -1,0 +1,59 @@
+{
+ "id": 1528331711,
+ "name": "Ancient/Archaic Lockpick",
+ "internalName": "Lockpick_Ancient_T7",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1528331711.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Lockpicks used by the ancients exclusively in their structures, dungeons etc.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1152467552,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 4165714679,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/ancient-archaic-lockpick-1528331711.md"
+}

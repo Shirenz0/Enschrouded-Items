@@ -17,4 +17,4 @@ Made from many different patches of leather, these gloves have been refined to b
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-archer-arms.json)

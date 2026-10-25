@@ -1,0 +1,115 @@
+{
+ "id": 2432243778,
+ "name": "Lupa's scalper",
+ "internalName": "Craft_Weapon_T6_2H_Lore_DaggersEpic_DPS_hunter_hint04",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/2432243778.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "\"A Shadow over Umber Hollow -Lupa\" is etched on the side.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/lupa-s-scalper.md",
+  "json": "objects/weapons/lupa-s-scalper.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 400,
+    "display": "0.4 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+8 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Vicious",
+   "effect": "+22 Vicious"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3051640905,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1752294708,
+      "name": "T5 Hardened Leather",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/lupa-s-scalper-2432243778.md"
+}

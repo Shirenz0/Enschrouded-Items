@@ -36,4 +36,4 @@ Seafood Grill
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](grilled-algae-buds-3423336686.json)

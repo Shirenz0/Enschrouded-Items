@@ -17,4 +17,4 @@ A garment which is often displayed by mages and wizards walking into battle.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-battlemage-chest.json)

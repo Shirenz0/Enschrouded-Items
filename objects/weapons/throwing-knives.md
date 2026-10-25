@@ -19,4 +19,4 @@ Throwing knives that can do a lot of damage if left in untrained hands! Better w
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](throwing-knives.json)

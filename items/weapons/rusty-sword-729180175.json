@@ -1,0 +1,66 @@
+{
+ "id": 729180175,
+ "name": "Rusty Sword",
+ "internalName": "Weapon_T1_1H_Sword_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/729180175.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A rusted Simple Copper Sword, damaged over time. Its best times are far gone.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Vicious",
+   "effect": "+12 Vicious"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Vicious",
+   "effect": "+12 Vicious"
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  }
+ ],
+ "page": "items/weapons/rusty-sword-729180175.md"
+}

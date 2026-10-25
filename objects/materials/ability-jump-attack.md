@@ -16,4 +16,4 @@ The versions have the same level range, rarity, stack size and texts; the game k
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ability-jump-attack.json)

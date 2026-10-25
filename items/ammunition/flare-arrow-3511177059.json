@@ -1,0 +1,64 @@
+{
+ "id": 3511177059,
+ "name": "Flare Arrow",
+ "internalName": "Ammo_T1_Arrow_Flare_lvl10",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 500,
+ "image": "images/icons/3511177059.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Scouting ahead can be quite challenging, especially in the dark. The Flare Arrow leaves a flare at the point of impact, spending a little light.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition"
+ },
+ "recipes": [
+  {
+   "recipeId": 3199801672,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1422216404,
+      "name": "Flint Arrow",
+      "page": "items/ammunition/flint-arrow-1422216404.md",
+      "json": "items/ammunition/flint-arrow-1422216404.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/ammunition/flare-arrow-3511177059.md"
+}

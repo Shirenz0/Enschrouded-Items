@@ -1,0 +1,35 @@
+{
+ "id": 1073007208,
+ "name": "Gem of Corruption",
+ "internalName": "T4_Gem_GemOfCorruption",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/1073007208.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hitting an enemy applies a  mark that can stack up to 5 times.  Marked enemies will emit an explosion when no new stack of  mark has been added for %k or if the enemy dies. The explosion deals %k shroud damage in a 1m radius. Each stack adds 0,5m and %k of the base damage to the explosion.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Base Shroud Damage",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-corruption-1073007208.md"
+}

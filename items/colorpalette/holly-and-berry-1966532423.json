@@ -1,0 +1,70 @@
+{
+ "id": 1966532423,
+ "name": "Holly and Berry",
+ "internalName": "ColorPalette_T6_ColorPalette_06",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1966532423.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This color palette is energetic and festive, evoking lush foliage and joyful celebrations This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1726742235,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3728704408,
+      "name": "T5 Silver Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/holly-and-berry-1966532423.md"
+}

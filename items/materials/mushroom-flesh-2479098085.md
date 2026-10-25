@@ -21,4 +21,4 @@ Blackmire
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](mushroom-flesh-2479098085.json)

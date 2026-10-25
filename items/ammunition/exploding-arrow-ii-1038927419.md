@@ -32,4 +32,4 @@ Crafting, Huntress
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](exploding-arrow-ii-1038927419.json)

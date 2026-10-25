@@ -25,4 +25,4 @@ This Loot Drop Station can be used to drop items from your backpack to matching 
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](loot-drop-station-2847231429.json)

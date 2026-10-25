@@ -1,0 +1,116 @@
+{
+ "id": 4113785177,
+ "name": "Scout Chest",
+ "internalName": "Armor_T1_Ranger_Archer_DPS_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/4113785177.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A simple light chest piece to compliment the rest of the armor.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/scout-chest.md",
+  "json": "objects/equipment/scout-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Vitality Surge",
+   "effect": "Increases the skill level of Vitality Surge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+4 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Ranger",
+   "effect": "Increases the skill level of Ranger by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2530053767,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 25,
+     "item": {
+      "id": 2179075323,
+      "name": "ActiveMycelium",
+      "page": "items/materials/activemycelium-2179075323.md",
+      "json": "items/materials/activemycelium-2179075323.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/scout-chest-4113785177.md"
+}

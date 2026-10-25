@@ -17,4 +17,4 @@ A piece of the Blackmire, the long forgotten woods. While there are no human set
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](blackmire-miniature-piece-132383618.json)

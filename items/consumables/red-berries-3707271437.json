@@ -1,0 +1,79 @@
+{
+ "id": 3707271437,
+ "name": "Red Berries",
+ "internalName": "Food_T1_raw_fruit_Red_Berries",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3707271437.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Tasty and fresh berries, stimulating the bodily regeneration abilities with fresh vitamins for a short duration.",
+ "lore": null,
+ "whereToFind": "Springlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 30000,
+    "display": "30 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 917304835,
+   "name": "Fruit Bowl",
+   "page": "items/consumables/fruit-bowl-917304835.md",
+   "json": "items/consumables/fruit-bowl-917304835.json"
+  },
+  {
+   "id": 2824141465,
+   "name": "Dried Red Berry",
+   "page": "items/consumables/dried-red-berry-2824141465.md",
+   "json": "items/consumables/dried-red-berry-2824141465.json"
+  },
+  {
+   "id": 3102924359,
+   "name": "Greater Health Potion",
+   "page": "items/consumables/greater-health-potion-3102924359.md",
+   "json": "items/consumables/greater-health-potion-3102924359.json"
+  },
+  {
+   "id": 3436474234,
+   "name": "Health Potion",
+   "page": "items/consumables/health-potion-3436474234.md",
+   "json": "items/consumables/health-potion-3436474234.json"
+  },
+  {
+   "id": 1174705547,
+   "name": "Berry Bush Seedling",
+   "page": "items/buildtools/berry-bush-seedling-1174705547.md",
+   "json": "items/buildtools/berry-bush-seedling-1174705547.json"
+  },
+  {
+   "id": 1522120746,
+   "name": "Food Dog Feeding",
+   "page": "items/buildtools/food-dog-feeding-1522120746.md",
+   "json": "items/buildtools/food-dog-feeding-1522120746.json"
+  }
+ ],
+ "page": "items/consumables/red-berries-3707271437.md"
+}

@@ -29,4 +29,4 @@ Seedbed
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](devil-s-claw-seedling-1898312963.json)

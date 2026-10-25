@@ -1,0 +1,69 @@
+{
+ "id": 3084703100,
+ "name": "Archaic Core",
+ "internalName": "Material_T7_Archaic_Core",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/3084703100.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "archaic core, the thing that can be found inside of ancient guardians, what powers them",
+ "lore": null,
+ "whereToFind": "Ancient Land, Elite Ancient Guardians",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3833476832,
+   "name": "Eternal Frost Arrow III",
+   "page": "items/ammunition/eternal-frost-arrow-iii-3833476832.md",
+   "json": "items/ammunition/eternal-frost-arrow-iii-3833476832.json"
+  },
+  {
+   "id": 334395711,
+   "name": "T7 Eternal Giant Bone Arrow II",
+   "page": "items/ammunition/t7-eternal-giant-bone-arrow-ii-334395711.md",
+   "json": "items/ammunition/t7-eternal-giant-bone-arrow-ii-334395711.json"
+  },
+  {
+   "id": 2753909436,
+   "name": "T7 Eternal Heal Beam Channel II",
+   "page": "items/ammunition/t7-eternal-heal-beam-channel-ii-2753909436.md",
+   "json": "items/ammunition/t7-eternal-heal-beam-channel-ii-2753909436.json"
+  },
+  {
+   "id": 1408904500,
+   "name": "T7 Eternal Magic Shield",
+   "page": "items/ammunition/t7-eternal-magic-shield-1408904500.md",
+   "json": "items/ammunition/t7-eternal-magic-shield-1408904500.json"
+  },
+  {
+   "id": 297685721,
+   "name": "T7 Eternal Bone Channel II",
+   "page": "items/ammunition/t7-eternal-bone-channel-ii-297685721.md",
+   "json": "items/ammunition/t7-eternal-bone-channel-ii-297685721.json"
+  },
+  {
+   "id": 3370079249,
+   "name": "T7 Eternal Summon Skeleton II",
+   "page": "items/ammunition/t7-eternal-summon-skeleton-ii-3370079249.md",
+   "json": "items/ammunition/t7-eternal-summon-skeleton-ii-3370079249.json"
+  },
+  {
+   "id": 2670118573,
+   "name": "Ancient/Archaic Infusion",
+   "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+   "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+  }
+ ],
+ "page": "items/materials/archaic-core-3084703100.md"
+}

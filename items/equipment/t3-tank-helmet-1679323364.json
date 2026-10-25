@@ -1,0 +1,71 @@
+{
+ "id": 1679323364,
+ "name": "T3 Tank Helmet",
+ "internalName": "Armor_T3_Warrior_Tank_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1679323364.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Seeing this helmet makes others feel safe and secure.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-tank-helmet.md",
+  "json": "objects/equipment/t3-tank-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Merciless Strike Damage",
+    "value": 35,
+    "display": "35",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Purification",
+   "effect": "Increases the skill level of Purification by +1"
+  },
+  {
+   "order": 4,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Nemesis",
+   "effect": "Increases the skill level of Nemesis by +1"
+  }
+ ],
+ "page": "items/equipment/t3-tank-helmet-1679323364.md"
+}

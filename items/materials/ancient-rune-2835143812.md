@@ -25,4 +25,4 @@ Blacksmith
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ancient-rune-2835143812.json)

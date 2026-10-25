@@ -19,4 +19,4 @@ Requires to be **within the range of a Flame Altar** to work.
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](celestium-improved-hammer-of-the-ancients-1468357474.json)

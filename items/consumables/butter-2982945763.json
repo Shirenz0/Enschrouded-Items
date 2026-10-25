@@ -1,0 +1,65 @@
+{
+ "id": 2982945763,
+ "name": "Butter",
+ "internalName": "Food_T3_processed_bad_Butter",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/2982945763.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creamy butter with full milky richness — perfect for bringing depth and tenderness to your baked creations.",
+ "lore": null,
+ "whereToFind": "Butter Churn",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2507691227,
+   "station": "Butter Churn",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 2873455991,
+       "name": "Milk",
+       "page": "items/consumables/milk-2873455991.md",
+       "json": "items/consumables/milk-2873455991.json"
+      },
+      {
+       "id": 443792978,
+       "name": "Mountaingoat Milk",
+       "page": "items/consumables/mountaingoat-milk-443792978.md",
+       "json": "items/consumables/mountaingoat-milk-443792978.json"
+      },
+      {
+       "id": 2012645754,
+       "name": "Uncoocked Catdeer Milk",
+       "page": "items/consumables/uncoocked-catdeer-milk-2012645754.md",
+       "json": "items/consumables/uncoocked-catdeer-milk-2012645754.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3614911410,
+   "name": "Shortcrust Pastry Base",
+   "page": "items/materials/shortcrust-pastry-base-3614911410.md",
+   "json": "items/materials/shortcrust-pastry-base-3614911410.json"
+  }
+ ],
+ "page": "items/consumables/butter-2982945763.md"
+}

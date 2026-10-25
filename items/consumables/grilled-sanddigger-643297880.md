@@ -36,4 +36,4 @@ Cooking Station
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](grilled-sanddigger-643297880.json)

@@ -1,0 +1,68 @@
+{
+ "id": 1509402971,
+ "name": "Greater Health Potion improved",
+ "internalName": "_Consumable_Potion_Health_T2_T3_HoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1509402971.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some Health instantly and provides an additional healing over time effect for 20 seconds.",
+ "lore": "Level 5 Potion",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Healing per second",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4126477490,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3102924359,
+      "name": "Greater Health Potion",
+      "page": "items/consumables/greater-health-potion-3102924359.md",
+      "json": "items/consumables/greater-health-potion-3102924359.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3173308572,
+      "name": "Night Berry",
+      "page": "items/consumables/night-berry-3173308572.md",
+      "json": "items/consumables/night-berry-3173308572.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/greater-health-potion-improved-1509402971.md"
+}

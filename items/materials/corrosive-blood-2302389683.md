@@ -25,4 +25,4 @@ Fell Enemies, First: Nomad Highlands Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](corrosive-blood-2302389683.json)

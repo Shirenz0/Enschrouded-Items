@@ -1,0 +1,80 @@
+{
+ "id": 4208954912,
+ "name": "Black Coffee",
+ "internalName": "Food_T6_dish_hydration_CoffeeBlack",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4208954912.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A freshly brewed cup of coffee. What better way to start the day?",
+ "lore": null,
+ "whereToFind": "Coffee Brewery",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3300000,
+    "display": "55:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2786682973,
+   "station": "Roaster",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1358181917,
+      "name": "Ground Coffee Beans",
+      "page": "items/materials/ground-coffee-beans-1358181917.md",
+      "json": "items/materials/ground-coffee-beans-1358181917.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/black-coffee-4208954912.md"
+}

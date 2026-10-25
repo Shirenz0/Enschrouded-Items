@@ -1,0 +1,58 @@
+{
+ "id": 2091572334,
+ "name": "T3 Giant Bone Arrow I",
+ "internalName": "Ammo_T3_Arrow_Bone_lvl20",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 500,
+ "image": "images/icons/2091572334.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An arrow made from Bone.\n\nThe force of this arrow allows it to penetrate hit targets.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Blunt": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 1391926658,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2617088387,
+      "name": "T2 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2956062198,
+      "name": "Giant bones",
+      "page": "items/materials/giant-bones-2956062198.md",
+      "json": "items/materials/giant-bones-2956062198.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t3-giant-bone-arrow-i-2091572334.md"
+}

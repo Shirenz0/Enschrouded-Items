@@ -1,0 +1,52 @@
+{
+ "id": 3686324609,
+ "name": "Ancient Pracer Beacon Small",
+ "internalName": "Prop_Decoration_T7_AncientTemple_PrayerBeacon_Small",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3686324609.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3516514978,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2851443310,
+      "name": "T7 material Ancient Land granite stone",
+      "page": "items/materials/t7-material-ancient-land-granite-stone-2851443310.md",
+      "json": "items/materials/t7-material-ancient-land-granite-stone-2851443310.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/ancient-pracer-beacon-small-3686324609.md"
+}

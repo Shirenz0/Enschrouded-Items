@@ -1,0 +1,35 @@
+{
+ "name": "Ripped piece of a Wall Tapestry",
+ "category": "Collectibles",
+ "image": "images/icons/3603348812.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2252200136,
+   "name": "Ripped piece of a Wall Tapestry",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2252200136.png",
+   "page": "items/collectibles/ripped-piece-of-a-wall-tapestry-2252200136.md",
+   "json": "items/collectibles/ripped-piece-of-a-wall-tapestry-2252200136.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 3603348812,
+   "name": "Ripped piece of a Wall Tapestry",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3603348812.png",
+   "page": "items/collectibles/ripped-piece-of-a-wall-tapestry-3603348812.md",
+   "json": "items/collectibles/ripped-piece-of-a-wall-tapestry-3603348812.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/collectibles/ripped-piece-of-a-wall-tapestry.md"
+}

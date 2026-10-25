@@ -1,0 +1,61 @@
+{
+ "id": 3620677285,
+ "name": "T2 Talltrees Rubble",
+ "internalName": "Build_TerrainMaterial_T2_TallTree_Rubble",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3620677285.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "mix of materials, mainly stones and dirt",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 147970733,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1257792166,
+      "name": "Rubble",
+      "page": "items/materials/rubble-1257792166.md",
+      "json": "items/materials/rubble-1257792166.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2385754716,
+      "name": "T2 tall trees dirt",
+      "page": "items/materials/t2-tall-trees-dirt-2385754716.md",
+      "json": "items/materials/t2-tall-trees-dirt-2385754716.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 760251531,
+      "name": "T2 Talltree Stone",
+      "page": "items/materials/t2-talltree-stone-760251531.md",
+      "json": "items/materials/t2-talltree-stone-760251531.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/t2-talltrees-rubble-3620677285.md"
+}

@@ -1,0 +1,73 @@
+{
+ "id": 3167272673,
+ "name": "T4 Wizard Boots",
+ "internalName": "Armor_T4_Mage_BattleSword_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3167272673.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Ground yourself, feel the earth beaneath your feet. Connect to the magical core of the world.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Frost",
+   "effect": "Increases the skill level of Frost by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+12 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  }
+ ],
+ "page": "items/equipment/t4-wizard-boots-3167272673.md"
+}

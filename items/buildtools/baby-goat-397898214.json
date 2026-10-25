@@ -1,0 +1,25 @@
+{
+ "id": 397898214,
+ "name": "Baby Goat",
+ "internalName": "Animal_Baby_Goat",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/397898214.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A cute little baby Goat",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-goat-397898214.md"
+}

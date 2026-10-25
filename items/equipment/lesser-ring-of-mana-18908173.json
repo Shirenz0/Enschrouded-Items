@@ -1,0 +1,69 @@
+{
+ "id": 18908173,
+ "name": "Lesser Ring of Mana",
+ "internalName": "Ring_T1_Ring_of_Mana",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/18908173.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This ring will increase your Mana and its replenishment.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Mana",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana",
+   "effect": "+10 Mana"
+  },
+  {
+   "order": 2,
+   "name": "Spiritual",
+   "effect": "+4 Spiritual"
+  },
+  {
+   "order": 3,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana Leech",
+   "effect": "+2 Mana Leech"
+  },
+  {
+   "order": 5,
+   "name": "+1 Spellslinger",
+   "effect": "Increases the skill level of Spellslinger by +1"
+  }
+ ],
+ "page": "items/equipment/lesser-ring-of-mana-18908173.md"
+}

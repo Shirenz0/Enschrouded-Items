@@ -1,0 +1,88 @@
+{
+ "id": 2405125031,
+ "name": "T5 Health potion",
+ "internalName": "Consumable_Potion_Health_T5",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2405125031.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T5 Health potion description",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3933528092,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3779366146,
+      "name": "T5 Food Raw Herb Gentian",
+      "page": "items/consumables/t5-food-raw-herb-gentian-3779366146.md",
+      "json": "items/consumables/t5-food-raw-herb-gentian-3779366146.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 579568751,
+      "name": "Shroud Vapor",
+      "page": "items/materials/shroud-vapor-579568751.md",
+      "json": "items/materials/shroud-vapor-579568751.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 844956750,
+   "name": "T5 Health Potion improved",
+   "page": "items/consumables/t5-health-potion-improved-844956750.md",
+   "json": "items/consumables/t5-health-potion-improved-844956750.json"
+  }
+ ],
+ "page": "items/consumables/t5-health-potion-2405125031.md"
+}

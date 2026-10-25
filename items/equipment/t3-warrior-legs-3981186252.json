@@ -1,0 +1,73 @@
+{
+ "id": 3981186252,
+ "name": "T3 Warrior Legs",
+ "internalName": "Armor_T3_Warrior_Rogue_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/3981186252.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Knightly pants. The cloth attached brandishes a glorious golden thread.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 7,
+    "display": "7",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  }
+ ],
+ "page": "items/equipment/t3-warrior-legs-3981186252.md"
+}

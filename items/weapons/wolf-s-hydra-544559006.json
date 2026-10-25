@@ -1,0 +1,70 @@
+{
+ "id": 544559006,
+ "name": "Wolf's Hydra",
+ "internalName": "Weapon_T3_1H_Lore_Mace_ministory_04",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/544559006.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A heavy club adorned with multiple wolf heads near the handle.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/wolf-s-hydra.md",
+  "json": "objects/weapons/wolf-s-hydra.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Merciless",
+   "effect": "+16 Merciless"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Merciless",
+   "effect": "+16 Merciless"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/wolf-s-hydra-544559006.md"
+}

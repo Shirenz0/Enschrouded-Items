@@ -25,4 +25,4 @@ Fell Mushroom Crabs, Nomad Highlands Shroud and Kindlewastes Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ammoniak-gland-2027586500.json)

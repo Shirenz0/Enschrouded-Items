@@ -1,0 +1,98 @@
+{
+ "id": 2811112772,
+ "name": "Scrappy Axe",
+ "internalName": "Tool_T1_Axe_Scrap_Grassland",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/2811112772.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe made out of scrap metal with an improved durability and efficiency compared to the Stone Axe.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Enduring",
+   "effect": "+3 Enduring"
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+4 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Lumberjack",
+   "effect": "Increases the skill level of Lumberjack by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3743819373,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/scrappy-axe-2811112772.md"
+}

@@ -1,0 +1,75 @@
+{
+ "id": 1014087456,
+ "name": "Ring of the Ancients",
+ "internalName": "Ring_T4_Ring_of_The_Ancients",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1014087456.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An amazing  work of Art, Beauty and power.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  },
+  {
+   "order": 4,
+   "name": "Brutal",
+   "effect": "+10 Brutal"
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+3 Precise"
+  }
+ ],
+ "page": "items/equipment/ring-of-the-ancients-1014087456.md"
+}

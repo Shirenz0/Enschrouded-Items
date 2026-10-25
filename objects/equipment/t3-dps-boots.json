@@ -1,0 +1,35 @@
+{
+ "name": "T3 DPS Boots",
+ "category": "Equipment",
+ "image": "images/icons/955633059.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 30416182,
+   "name": "T3 DPS Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/30416182.png",
+   "page": "items/equipment/t3-dps-boots-30416182.md",
+   "json": "items/equipment/t3-dps-boots-30416182.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 955633059,
+   "name": "T3 DPS Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/955633059.png",
+   "page": "items/equipment/t3-dps-boots-955633059.md",
+   "json": "items/equipment/t3-dps-boots-955633059.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-dps-boots.md"
+}

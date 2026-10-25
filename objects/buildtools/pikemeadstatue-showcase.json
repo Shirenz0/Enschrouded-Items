@@ -1,0 +1,47 @@
+{
+ "name": "PikeMeadStatue Showcase",
+ "category": "BuildTools",
+ "image": "images/icons/791796170.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 171960142,
+   "name": "PikeMeadStatue Showcase",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/171960142.png",
+   "page": "items/buildtools/pikemeadstatue-showcase-171960142.md",
+   "json": "items/buildtools/pikemeadstatue-showcase-171960142.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2102661805,
+   "name": "PikeMeadStatue Showcase",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2102661805.png",
+   "page": "items/buildtools/pikemeadstatue-showcase-2102661805.md",
+   "json": "items/buildtools/pikemeadstatue-showcase-2102661805.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 791796170,
+   "name": "PikeMeadStatue Showcase",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/791796170.png",
+   "page": "items/buildtools/pikemeadstatue-showcase-791796170.md",
+   "json": "items/buildtools/pikemeadstatue-showcase-791796170.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/pikemeadstatue-showcase.md"
+}

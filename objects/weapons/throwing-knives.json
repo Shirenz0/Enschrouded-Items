@@ -1,0 +1,60 @@
+{
+ "name": "Throwing Knives",
+ "category": "Weapons",
+ "image": "images/icons/913533703.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 890590294,
+   "name": "Throwing Knives",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/890590294.png",
+   "page": "items/weapons/throwing-knives-890590294.md",
+   "json": "items/weapons/throwing-knives-890590294.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4131716794,
+   "name": "Throwing Knives",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/4131716794.png",
+   "page": "items/weapons/throwing-knives-4131716794.md",
+   "json": "items/weapons/throwing-knives-4131716794.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3618171376,
+   "name": "Throwing Knives",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3618171376.png",
+   "page": "items/weapons/throwing-knives-3618171376.md",
+   "json": "items/weapons/throwing-knives-3618171376.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 913533703,
+   "name": "Throwing Knives",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/913533703.png",
+   "page": "items/weapons/throwing-knives-913533703.md",
+   "json": "items/weapons/throwing-knives-913533703.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/throwing-knives.md"
+}

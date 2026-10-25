@@ -25,4 +25,4 @@ A statue of the late queen Pikemead. An Ingraving reads: Gather 'round, we're dr
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](statue-of-pikemead-4212724325.json)

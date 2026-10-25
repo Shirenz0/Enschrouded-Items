@@ -1,0 +1,63 @@
+{
+ "id": 3266681262,
+ "name": "T2 Lore Armor Fogger Chest",
+ "internalName": "Armor_T2_MultiClass_FogPowered_Chest_ministory_13",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3266681262.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Chest piece of an elixir infused armor set",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max Shroud Survivability",
+    "value": -60000,
+    "display": "-60,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "page": "items/equipment/t2-lore-armor-fogger-chest-3266681262.md"
+}

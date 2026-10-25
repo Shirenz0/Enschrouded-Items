@@ -1,0 +1,86 @@
+{
+ "id": 305385380,
+ "name": "Yellow Glow Soup",
+ "internalName": "Food_T5_dish_mushroom_YellowGlowSoup",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/305385380.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It tastes a bit bitter, but is known to increase mana, mana regeneration and magic damage. What a magical soup!",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 100,
+    "display": "100",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 207238628,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1683685602,
+      "name": "Yellow Shroud Mushroom",
+      "page": "items/consumables/yellow-shroud-mushroom-1683685602.md",
+      "json": "items/consumables/yellow-shroud-mushroom-1683685602.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3779366146,
+      "name": "T5 Food Raw Herb Gentian",
+      "page": "items/consumables/t5-food-raw-herb-gentian-3779366146.md",
+      "json": "items/consumables/t5-food-raw-herb-gentian-3779366146.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/yellow-glow-soup-305385380.md"
+}

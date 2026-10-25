@@ -1,0 +1,35 @@
+{
+ "name": "T2 Tank Boots",
+ "category": "Equipment",
+ "image": "images/icons/945263736.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 4178035364,
+   "name": "T2 Tank Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4178035364.png",
+   "page": "items/equipment/t2-tank-boots-4178035364.md",
+   "json": "items/equipment/t2-tank-boots-4178035364.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 945263736,
+   "name": "T2 Tank Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/945263736.png",
+   "page": "items/equipment/t2-tank-boots-945263736.md",
+   "json": "items/equipment/t2-tank-boots-945263736.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-tank-boots.md"
+}

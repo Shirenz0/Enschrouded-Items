@@ -1,0 +1,25 @@
+{
+ "id": 3158646752,
+ "name": "Baby Catdeer",
+ "internalName": "Animal_Baby_Catdeer",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3158646752.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "AWWWWWW!",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-catdeer-3158646752.md"
+}

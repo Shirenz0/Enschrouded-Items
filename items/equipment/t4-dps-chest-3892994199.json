@@ -1,0 +1,77 @@
+{
+ "id": 3892994199,
+ "name": "T4 DPS Chest",
+ "internalName": "Armor_T4_Warrior_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3892994199.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This regal soldier armor symbolizes chivalry, glory and valor.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-dps-chest.md",
+  "json": "objects/equipment/t4-dps-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Rage",
+   "effect": "Increases the skill level of Blood Rage by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  }
+ ],
+ "page": "items/equipment/t4-dps-chest-3892994199.md"
+}

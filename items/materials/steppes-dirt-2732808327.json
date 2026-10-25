@@ -1,0 +1,57 @@
+{
+ "id": 2732808327,
+ "name": "Steppes Dirt",
+ "internalName": "Build_TerrainMaterial_T3_Dirt_Steppes",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2732808327.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1506458989,
+   "name": "Castle Wall Stone Block",
+   "page": "items/buildtools/castle-wall-stone-block-1506458989.md",
+   "json": "items/buildtools/castle-wall-stone-block-1506458989.json"
+  },
+  {
+   "id": 2653935294,
+   "name": "T3 Palette 03 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.md",
+   "json": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.json"
+  },
+  {
+   "id": 2821660974,
+   "name": "T3 Palette 04 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.md",
+   "json": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.json"
+  },
+  {
+   "id": 3787344002,
+   "name": "Fertile Steppes Dirt",
+   "page": "items/materials/fertile-steppes-dirt-3787344002.md",
+   "json": "items/materials/fertile-steppes-dirt-3787344002.json"
+  },
+  {
+   "id": 3232269711,
+   "name": "Steppes Rubble",
+   "page": "items/materials/steppes-rubble-3232269711.md",
+   "json": "items/materials/steppes-rubble-3232269711.json"
+  }
+ ],
+ "page": "items/materials/steppes-dirt-2732808327.md"
+}

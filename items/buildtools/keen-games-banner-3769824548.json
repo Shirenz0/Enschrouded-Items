@@ -1,0 +1,61 @@
+{
+ "id": 3769824548,
+ "name": "Keen Games Banner",
+ "internalName": "Prop_Decoration_Ancients_keen_credits_Banner_Wall",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3769824548.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A grand banner with the keen games logo on it.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1899769411,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 398142464,
+      "name": "Blue Fabric",
+      "page": "items/materials/blue-fabric-398142464.md",
+      "json": "items/materials/blue-fabric-398142464.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/keen-games-banner-3769824548.md"
+}

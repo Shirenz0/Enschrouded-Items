@@ -1,0 +1,61 @@
+{
+ "id": 2942267456,
+ "name": "Big Blue Wall Banner I",
+ "internalName": "Prop_Decoration_T5_Banner_Wall_blue_01_big",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2942267456.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1575568765,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2837376937,
+      "name": "Wool",
+      "page": "items/materials/wool-2837376937.md",
+      "json": "items/materials/wool-2837376937.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 398142464,
+      "name": "Blue Fabric",
+      "page": "items/materials/blue-fabric-398142464.md",
+      "json": "items/materials/blue-fabric-398142464.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-blue-wall-banner-i-2942267456.md"
+}

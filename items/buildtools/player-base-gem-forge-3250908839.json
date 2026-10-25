@@ -1,0 +1,88 @@
+{
+ "id": 3250908839,
+ "name": "Player Base Gem Forge",
+ "internalName": "_Prop_T7_Player_GemForge",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3250908839.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This gem forge can be placed inside your base and can be used to upgrade any gem and insert gems into your weapons in the comfort of your own home.",
+ "lore": null,
+ "whereToFind": "Crafting, Ancient Researcher",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3673130376,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 30,
+     "item": {
+      "id": 2851443310,
+      "name": "T7 material Ancient Land granite stone",
+      "page": "items/materials/t7-material-ancient-land-granite-stone-2851443310.md",
+      "json": "items/materials/t7-material-ancient-land-granite-stone-2851443310.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2670118573,
+      "name": "Ancient/Archaic Infusion",
+      "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+      "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/player-base-gem-forge-3250908839.md"
+}

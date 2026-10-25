@@ -1,0 +1,35 @@
+{
+ "name": "T4 Tank Boots",
+ "category": "Equipment",
+ "image": "images/icons/3406588270.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1058485756,
+   "name": "T4 Tank Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1058485756.png",
+   "page": "items/equipment/t4-tank-boots-1058485756.md",
+   "json": "items/equipment/t4-tank-boots-1058485756.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3406588270,
+   "name": "T4 Tank Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3406588270.png",
+   "page": "items/equipment/t4-tank-boots-3406588270.md",
+   "json": "items/equipment/t4-tank-boots-3406588270.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-tank-boots.md"
+}

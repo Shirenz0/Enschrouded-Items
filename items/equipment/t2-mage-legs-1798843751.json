@@ -1,0 +1,125 @@
+{
+ "id": 1798843751,
+ "name": "T2 Mage Legs",
+ "internalName": "Armor_T2_Mage_Wizard_DPS_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1798843751.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These comfortable and plain pants are perfect for apprentice mages looking to gather some first hand experience out in the wilderness.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-mage-legs.md",
+  "json": "objects/equipment/t2-mage-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Letting",
+   "effect": "Increases the skill level of Blood Letting by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+15 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Terror",
+   "effect": "Increases the skill level of Terror by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3202173235,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3405461465,
+      "name": "Corrupted Boar Tusk",
+      "page": "items/materials/corrupted-boar-tusk-3405461465.md",
+      "json": "items/materials/corrupted-boar-tusk-3405461465.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-mage-legs-1798843751.md"
+}

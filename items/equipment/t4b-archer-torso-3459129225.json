@@ -1,0 +1,85 @@
+{
+ "id": 3459129225,
+ "name": "T4b Archer Torso",
+ "internalName": "Armor_T5-TX_Ranger_Archer_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 30,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3459129225.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The bright adornment on this armor piece provides shines brightly, and resembles the glorious flame itself.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 150,
+    "display": "150",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 180000,
+    "display": "3:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+20 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Vitality Surge",
+   "effect": "Increases the skill level of Vitality Surge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Ranger",
+   "effect": "Increases the skill level of Ranger by +1"
+  }
+ ],
+ "page": "items/equipment/t4b-archer-torso-3459129225.md"
+}

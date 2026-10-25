@@ -1,0 +1,25 @@
+{
+ "id": 3317009560,
+ "name": "Large Ancient Plant Pot",
+ "internalName": "Empty_Flower_Pot_Ancient_Large_Empty",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3317009560.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/large-ancient-plant-pot-3317009560.md"
+}

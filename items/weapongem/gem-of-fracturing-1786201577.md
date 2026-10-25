@@ -25,4 +25,4 @@ Killing an enemy with blunt damage has a  %k chance to create homing bone shards
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-fracturing-1786201577.json)

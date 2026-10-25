@@ -1,0 +1,1144 @@
+{
+ "id": 372029138,
+ "name": "Charcoal",
+ "internalName": "Material_T1_Charcoal",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/372029138.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Created in a **kiln** under high temperatures.\n\nBurned wood mixed with oxygen creates a flammable material, highly convenient and needed to dive into the world of craftsmanship.",
+ "lore": null,
+ "whereToFind": "Crafting, Charcoal Kiln",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4008871773,
+   "station": "Charcoal Kiln",
+   "inputs": [
+    {
+     "count": 12,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    },
+    {
+     "count": 3,
+     "oneOf": [
+      {
+       "id": 1558115984,
+       "name": "Dirt",
+       "page": "items/materials/dirt-1558115984.md",
+       "json": "items/materials/dirt-1558115984.json"
+      },
+      {
+       "id": 3937186197,
+       "name": "Deep Forest Dirt",
+       "page": "items/materials/deep-forest-dirt-3937186197.md",
+       "json": "items/materials/deep-forest-dirt-3937186197.json"
+      },
+      {
+       "id": 2385754716,
+       "name": "T2 tall trees dirt",
+       "page": "items/materials/t2-tall-trees-dirt-2385754716.md",
+       "json": "items/materials/t2-tall-trees-dirt-2385754716.json"
+      },
+      {
+       "id": 2732808327,
+       "name": "Steppes Dirt",
+       "page": "items/materials/steppes-dirt-2732808327.md",
+       "json": "items/materials/steppes-dirt-2732808327.json"
+      },
+      {
+       "id": 2080424991,
+       "name": "T5 Mountain Dirt",
+       "page": "items/materials/t5-mountain-dirt-2080424991.md",
+       "json": "items/materials/t5-mountain-dirt-2080424991.json"
+      },
+      {
+       "id": 4095370049,
+       "name": "T6 Wetlands Dirt",
+       "page": "items/materials/t6-wetlands-dirt-4095370049.md",
+       "json": "items/materials/t6-wetlands-dirt-4095370049.json"
+      },
+      {
+       "id": 2421105715,
+       "name": "T7 AncientLand Dirt",
+       "page": "items/materials/t7-ancientland-dirt-2421105715.md",
+       "json": "items/materials/t7-ancientland-dirt-2421105715.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2176546463,
+   "name": "Scrappy Rake",
+   "page": "items/buildtools/scrappy-rake-2176546463.md",
+   "json": "items/buildtools/scrappy-rake-2176546463.json"
+  },
+  {
+   "id": 1788793277,
+   "name": "Silver chest",
+   "page": "items/buildtools/silver-chest-1788793277.md",
+   "json": "items/buildtools/silver-chest-1788793277.json"
+  },
+  {
+   "id": 1302084846,
+   "name": "Wooden Chest",
+   "page": "items/buildtools/wooden-chest-1302084846.md",
+   "json": "items/buildtools/wooden-chest-1302084846.json"
+  },
+  {
+   "id": 533387743,
+   "name": "Water Barrel",
+   "page": "items/buildtools/water-barrel-533387743.md",
+   "json": "items/buildtools/water-barrel-533387743.json"
+  },
+  {
+   "id": 2395034423,
+   "name": "Watering Can",
+   "page": "items/buildtools/watering-can-2395034423.md",
+   "json": "items/buildtools/watering-can-2395034423.json"
+  },
+  {
+   "id": 3498203616,
+   "name": "T3 Fire Bolt IV",
+   "page": "items/ammunition/t3-fire-bolt-iv-3498203616.md",
+   "json": "items/ammunition/t3-fire-bolt-iv-3498203616.json"
+  },
+  {
+   "id": 3838422264,
+   "name": "T7 Eternal Fireball III",
+   "page": "items/ammunition/t7-eternal-fireball-iii-3838422264.md",
+   "json": "items/ammunition/t7-eternal-fireball-iii-3838422264.json"
+  },
+  {
+   "id": 83283491,
+   "name": "T7 Fireball",
+   "page": "items/ammunition/t7-fireball-83283491.md",
+   "json": "items/ammunition/t7-fireball-83283491.json"
+  },
+  {
+   "id": 1334157650,
+   "name": "T6 Eternal Fireball II",
+   "page": "items/ammunition/t6-eternal-fireball-ii-1334157650.md",
+   "json": "items/ammunition/t6-eternal-fireball-ii-1334157650.json"
+  },
+  {
+   "id": 1912744772,
+   "name": "T3 Eternal Fireball I",
+   "page": "items/ammunition/t3-eternal-fireball-i-1912744772.md",
+   "json": "items/ammunition/t3-eternal-fireball-i-1912744772.json"
+  },
+  {
+   "id": 3180367619,
+   "name": "T7 Eternal Pillar of Flames",
+   "page": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.md",
+   "json": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.json"
+  },
+  {
+   "id": 901722888,
+   "name": "T2 Pillar of Flames I",
+   "page": "items/ammunition/t2-pillar-of-flames-i-901722888.md",
+   "json": "items/ammunition/t2-pillar-of-flames-i-901722888.json"
+  },
+  {
+   "id": 72192472,
+   "name": "T4 Eternal Light Burst I",
+   "page": "items/ammunition/t4-eternal-light-burst-i-72192472.md",
+   "json": "items/ammunition/t4-eternal-light-burst-i-72192472.json"
+  },
+  {
+   "id": 3916550351,
+   "name": "T7 Eternal Fire Totem II",
+   "page": "items/ammunition/t7-eternal-fire-totem-ii-3916550351.md",
+   "json": "items/ammunition/t7-eternal-fire-totem-ii-3916550351.json"
+  },
+  {
+   "id": 2830104367,
+   "name": "T3 Fire Totem",
+   "page": "items/ammunition/t3-fire-totem-2830104367.md",
+   "json": "items/ammunition/t3-fire-totem-2830104367.json"
+  },
+  {
+   "id": 1685866698,
+   "name": "T4 Lightning Channel",
+   "page": "items/ammunition/t4-lightning-channel-1685866698.md",
+   "json": "items/ammunition/t4-lightning-channel-1685866698.json"
+  },
+  {
+   "id": 4291668892,
+   "name": "T4 Eternal Acid Cone I",
+   "page": "items/ammunition/t4-eternal-acid-cone-i-4291668892.md",
+   "json": "items/ammunition/t4-eternal-acid-cone-i-4291668892.json"
+  },
+  {
+   "id": 2407454540,
+   "name": "Skull Press",
+   "page": "items/buildtools/skull-press-2407454540.md",
+   "json": "items/buildtools/skull-press-2407454540.json"
+  },
+  {
+   "id": 770717366,
+   "name": "Forge",
+   "page": "items/buildtools/forge-770717366.md",
+   "json": "items/buildtools/forge-770717366.json"
+  },
+  {
+   "id": 159114158,
+   "name": "Iron Bars",
+   "page": "items/materials/iron-bars-159114158.md",
+   "json": "items/materials/iron-bars-159114158.json"
+  },
+  {
+   "id": 2246309017,
+   "name": "Glass",
+   "page": "items/materials/glass-2246309017.md",
+   "json": "items/materials/glass-2246309017.json"
+  },
+  {
+   "id": 642002617,
+   "name": "Bronze Bars",
+   "page": "items/materials/bronze-bars-642002617.md",
+   "json": "items/materials/bronze-bars-642002617.json"
+  },
+  {
+   "id": 1072522988,
+   "name": "Tin Bars",
+   "page": "items/materials/tin-bars-1072522988.md",
+   "json": "items/materials/tin-bars-1072522988.json"
+  },
+  {
+   "id": 170689373,
+   "name": "Copper Bar",
+   "page": "items/materials/copper-bar-170689373.md",
+   "json": "items/materials/copper-bar-170689373.json"
+  },
+  {
+   "id": 2149011961,
+   "name": "Glow Dirt Green",
+   "page": "items/materials/glow-dirt-green-2149011961.md",
+   "json": "items/materials/glow-dirt-green-2149011961.json"
+  },
+  {
+   "id": 4271896226,
+   "name": "Metal Sheets",
+   "page": "items/materials/metal-sheets-4271896226.md",
+   "json": "items/materials/metal-sheets-4271896226.json"
+  },
+  {
+   "id": 4230023681,
+   "name": "Coal Powder",
+   "page": "items/materials/coal-powder-4230023681.md",
+   "json": "items/materials/coal-powder-4230023681.json"
+  },
+  {
+   "id": 2283229289,
+   "name": "Explosive Powder Ball",
+   "page": "items/weapons/explosive-powder-ball-2283229289.md",
+   "json": "items/weapons/explosive-powder-ball-2283229289.json"
+  },
+  {
+   "id": 431218523,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-431218523.md",
+   "json": "items/weapons/fenrig-s-axe-431218523.json"
+  },
+  {
+   "id": 2264411387,
+   "name": "Wolf's Hydra",
+   "page": "items/weapons/wolf-s-hydra-2264411387.md",
+   "json": "items/weapons/wolf-s-hydra-2264411387.json"
+  },
+  {
+   "id": 2584194594,
+   "name": "Shield of Light",
+   "page": "items/equipment/shield-of-light-2584194594.md",
+   "json": "items/equipment/shield-of-light-2584194594.json"
+  },
+  {
+   "id": 2108531401,
+   "name": "Stormshield",
+   "page": "items/equipment/stormshield-2108531401.md",
+   "json": "items/equipment/stormshield-2108531401.json"
+  },
+  {
+   "id": 2159741777,
+   "name": "Valiant Shield",
+   "page": "items/equipment/valiant-shield-2159741777.md",
+   "json": "items/equipment/valiant-shield-2159741777.json"
+  },
+  {
+   "id": 40007242,
+   "name": "Hero's Shield",
+   "page": "items/equipment/hero-s-shield-40007242.md",
+   "json": "items/equipment/hero-s-shield-40007242.json"
+  },
+  {
+   "id": 710844874,
+   "name": "T2 DPS Boots",
+   "page": "items/equipment/t2-dps-boots-710844874.md",
+   "json": "items/equipment/t2-dps-boots-710844874.json"
+  },
+  {
+   "id": 722422442,
+   "name": "T2 Healer Legs",
+   "page": "items/equipment/t2-healer-legs-722422442.md",
+   "json": "items/equipment/t2-healer-legs-722422442.json"
+  },
+  {
+   "id": 1798843751,
+   "name": "T2 Mage Legs",
+   "page": "items/equipment/t2-mage-legs-1798843751.md",
+   "json": "items/equipment/t2-mage-legs-1798843751.json"
+  },
+  {
+   "id": 4178035364,
+   "name": "T2 Tank Boots",
+   "page": "items/equipment/t2-tank-boots-4178035364.md",
+   "json": "items/equipment/t2-tank-boots-4178035364.json"
+  },
+  {
+   "id": 2509853978,
+   "name": "T2 Tank Legs",
+   "page": "items/equipment/t2-tank-legs-2509853978.md",
+   "json": "items/equipment/t2-tank-legs-2509853978.json"
+  },
+  {
+   "id": 106014299,
+   "name": "Scavanger Bonfire",
+   "page": "items/buildtools/scavanger-bonfire-106014299.md",
+   "json": "items/buildtools/scavanger-bonfire-106014299.json"
+  },
+  {
+   "id": 1746188152,
+   "name": "T5 Comfort Decoration Bathroom Shower",
+   "page": "items/buildtools/t5-comfort-decoration-bathroom-shower-1746188152.md",
+   "json": "items/buildtools/t5-comfort-decoration-bathroom-shower-1746188152.json"
+  },
+  {
+   "id": 1254673006,
+   "name": "T5 Comfort Decoration Bathroom Tub",
+   "page": "items/buildtools/t5-comfort-decoration-bathroom-tub-1254673006.md",
+   "json": "items/buildtools/t5-comfort-decoration-bathroom-tub-1254673006.json"
+  },
+  {
+   "id": 2283398908,
+   "name": "T5 Comfort Decoration Bathroom Toilet",
+   "page": "items/buildtools/t5-comfort-decoration-bathroom-toilet-2283398908.md",
+   "json": "items/buildtools/t5-comfort-decoration-bathroom-toilet-2283398908.json"
+  },
+  {
+   "id": 4088195184,
+   "name": "T5 Comfort Decoration Bathroom Sink",
+   "page": "items/buildtools/t5-comfort-decoration-bathroom-sink-4088195184.md",
+   "json": "items/buildtools/t5-comfort-decoration-bathroom-sink-4088195184.json"
+  },
+  {
+   "id": 2071416918,
+   "name": "T3 Shower",
+   "page": "items/buildtools/t3-shower-2071416918.md",
+   "json": "items/buildtools/t3-shower-2071416918.json"
+  },
+  {
+   "id": 1695495104,
+   "name": "Bathtub T3",
+   "page": "items/buildtools/bathtub-t3-1695495104.md",
+   "json": "items/buildtools/bathtub-t3-1695495104.json"
+  },
+  {
+   "id": 1715616386,
+   "name": "Toilet T3",
+   "page": "items/buildtools/toilet-t3-1715616386.md",
+   "json": "items/buildtools/toilet-t3-1715616386.json"
+  },
+  {
+   "id": 821307402,
+   "name": "Sink T2",
+   "page": "items/buildtools/sink-t2-821307402.md",
+   "json": "items/buildtools/sink-t2-821307402.json"
+  },
+  {
+   "id": 2616343052,
+   "name": "Iron Bench",
+   "page": "items/buildtools/iron-bench-2616343052.md",
+   "json": "items/buildtools/iron-bench-2616343052.json"
+  },
+  {
+   "id": 3406484035,
+   "name": "T5 Prop Decoration Comfort Granite Throne",
+   "page": "items/buildtools/t5-prop-decoration-comfort-granite-throne-3406484035.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-granite-throne-3406484035.json"
+  },
+  {
+   "id": 3587974368,
+   "name": "Sand Throne",
+   "page": "items/buildtools/sand-throne-3587974368.md",
+   "json": "items/buildtools/sand-throne-3587974368.json"
+  },
+  {
+   "id": 1404381373,
+   "name": "Iron stove t4",
+   "page": "items/buildtools/iron-stove-t4-1404381373.md",
+   "json": "items/buildtools/iron-stove-t4-1404381373.json"
+  },
+  {
+   "id": 2003933910,
+   "name": "Sandstone Brazier",
+   "page": "items/buildtools/sandstone-brazier-2003933910.md",
+   "json": "items/buildtools/sandstone-brazier-2003933910.json"
+  },
+  {
+   "id": 2021009419,
+   "name": "Illumination T4 Brazier HallowHalls",
+   "page": "items/buildtools/illumination-t4-brazier-hallowhalls-2021009419.md",
+   "json": "items/buildtools/illumination-t4-brazier-hallowhalls-2021009419.json"
+  },
+  {
+   "id": 900587002,
+   "name": "Illumination T4 Brazier Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-brazier-huge-hallowhalls-900587002.md",
+   "json": "items/buildtools/illumination-t4-brazier-huge-hallowhalls-900587002.json"
+  },
+  {
+   "id": 3457345820,
+   "name": "Polished Scrap Brazier",
+   "page": "items/buildtools/polished-scrap-brazier-3457345820.md",
+   "json": "items/buildtools/polished-scrap-brazier-3457345820.json"
+  },
+  {
+   "id": 1804479582,
+   "name": "Illumination T2 Bones Brazier",
+   "page": "items/buildtools/illumination-t2-bones-brazier-1804479582.md",
+   "json": "items/buildtools/illumination-t2-bones-brazier-1804479582.json"
+  },
+  {
+   "id": 3103489139,
+   "name": "Silver Candleholder",
+   "page": "items/buildtools/silver-candleholder-3103489139.md",
+   "json": "items/buildtools/silver-candleholder-3103489139.json"
+  },
+  {
+   "id": 4178847220,
+   "name": "Chandelier",
+   "page": "items/buildtools/chandelier-4178847220.md",
+   "json": "items/buildtools/chandelier-4178847220.json"
+  },
+  {
+   "id": 1631158255,
+   "name": "Lantern",
+   "page": "items/buildtools/lantern-1631158255.md",
+   "json": "items/buildtools/lantern-1631158255.json"
+  },
+  {
+   "id": 2560383707,
+   "name": "Wall Lantern",
+   "page": "items/buildtools/wall-lantern-2560383707.md",
+   "json": "items/buildtools/wall-lantern-2560383707.json"
+  },
+  {
+   "id": 1701190539,
+   "name": "Illumination T4 Chandelier Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-chandelier-huge-hallowhalls-1701190539.md",
+   "json": "items/buildtools/illumination-t4-chandelier-huge-hallowhalls-1701190539.json"
+  },
+  {
+   "id": 2539367258,
+   "name": "Illumination T4 Wall Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-wall-huge-hallowhalls-2539367258.md",
+   "json": "items/buildtools/illumination-t4-wall-huge-hallowhalls-2539367258.json"
+  },
+  {
+   "id": 2277507438,
+   "name": "Iron Wall Torch",
+   "page": "items/buildtools/iron-wall-torch-2277507438.md",
+   "json": "items/buildtools/iron-wall-torch-2277507438.json"
+  },
+  {
+   "id": 2646644982,
+   "name": "Illumination T2 Bones Chandelier",
+   "page": "items/buildtools/illumination-t2-bones-chandelier-2646644982.md",
+   "json": "items/buildtools/illumination-t2-bones-chandelier-2646644982.json"
+  },
+  {
+   "id": 3107093572,
+   "name": "Candleholder",
+   "page": "items/buildtools/candleholder-3107093572.md",
+   "json": "items/buildtools/candleholder-3107093572.json"
+  },
+  {
+   "id": 665220347,
+   "name": "Wall Torch",
+   "page": "items/buildtools/wall-torch-665220347.md",
+   "json": "items/buildtools/wall-torch-665220347.json"
+  },
+  {
+   "id": 450440154,
+   "name": "Illumination T2 Wall",
+   "page": "items/buildtools/illumination-t2-wall-450440154.md",
+   "json": "items/buildtools/illumination-t2-wall-450440154.json"
+  },
+  {
+   "id": 1722111434,
+   "name": "Illumination T2 Standing Torch Bone",
+   "page": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.json"
+  },
+  {
+   "id": 3652824994,
+   "name": "Illumination T2 Standing Torch",
+   "page": "items/buildtools/illumination-t2-standing-torch-3652824994.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-3652824994.json"
+  },
+  {
+   "id": 3948355948,
+   "name": "Illumination T2 Small Bones",
+   "page": "items/buildtools/illumination-t2-small-bones-3948355948.md",
+   "json": "items/buildtools/illumination-t2-small-bones-3948355948.json"
+  },
+  {
+   "id": 242624234,
+   "name": "Illumination T2 Wall Bones",
+   "page": "items/buildtools/illumination-t2-wall-bones-242624234.md",
+   "json": "items/buildtools/illumination-t2-wall-bones-242624234.json"
+  },
+  {
+   "id": 1057970078,
+   "name": "Paper Lantern I",
+   "page": "items/buildtools/paper-lantern-i-1057970078.md",
+   "json": "items/buildtools/paper-lantern-i-1057970078.json"
+  },
+  {
+   "id": 1987268311,
+   "name": "Paper Lantern II",
+   "page": "items/buildtools/paper-lantern-ii-1987268311.md",
+   "json": "items/buildtools/paper-lantern-ii-1987268311.json"
+  },
+  {
+   "id": 924954650,
+   "name": "T5 Prop Decoration Comfort Table Magnificent",
+   "page": "items/buildtools/t5-prop-decoration-comfort-table-magnificent-924954650.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-table-magnificent-924954650.json"
+  },
+  {
+   "id": 2187829385,
+   "name": "Shield Wall Emblem I",
+   "page": "items/buildtools/shield-wall-emblem-i-2187829385.md",
+   "json": "items/buildtools/shield-wall-emblem-i-2187829385.json"
+  },
+  {
+   "id": 220736750,
+   "name": "Shield Wall Emblem II",
+   "page": "items/buildtools/shield-wall-emblem-ii-220736750.md",
+   "json": "items/buildtools/shield-wall-emblem-ii-220736750.json"
+  },
+  {
+   "id": 2918524342,
+   "name": "Diamond Wall Emblem I",
+   "page": "items/buildtools/diamond-wall-emblem-i-2918524342.md",
+   "json": "items/buildtools/diamond-wall-emblem-i-2918524342.json"
+  },
+  {
+   "id": 2980093307,
+   "name": "Diamond Wall Emblem II",
+   "page": "items/buildtools/diamond-wall-emblem-ii-2980093307.md",
+   "json": "items/buildtools/diamond-wall-emblem-ii-2980093307.json"
+  },
+  {
+   "id": 1210445973,
+   "name": "Wall Banner",
+   "page": "items/buildtools/wall-banner-1210445973.md",
+   "json": "items/buildtools/wall-banner-1210445973.json"
+  },
+  {
+   "id": 3862593821,
+   "name": "Long Wall Banner",
+   "page": "items/buildtools/long-wall-banner-3862593821.md",
+   "json": "items/buildtools/long-wall-banner-3862593821.json"
+  },
+  {
+   "id": 1539285358,
+   "name": "Ornate Wall Banner",
+   "page": "items/buildtools/ornate-wall-banner-1539285358.md",
+   "json": "items/buildtools/ornate-wall-banner-1539285358.json"
+  },
+  {
+   "id": 3639737989,
+   "name": "Broken hollow Halls Banner",
+   "page": "items/buildtools/broken-hollow-halls-banner-3639737989.md",
+   "json": "items/buildtools/broken-hollow-halls-banner-3639737989.json"
+  },
+  {
+   "id": 553983871,
+   "name": "Medium hollow Halls Banner",
+   "page": "items/buildtools/medium-hollow-halls-banner-553983871.md",
+   "json": "items/buildtools/medium-hollow-halls-banner-553983871.json"
+  },
+  {
+   "id": 3200238404,
+   "name": "Giant hollow Halls Banner",
+   "page": "items/buildtools/giant-hollow-halls-banner-3200238404.md",
+   "json": "items/buildtools/giant-hollow-halls-banner-3200238404.json"
+  },
+  {
+   "id": 2977882835,
+   "name": "Blue Globe",
+   "page": "items/buildtools/blue-globe-2977882835.md",
+   "json": "items/buildtools/blue-globe-2977882835.json"
+  },
+  {
+   "id": 2020294526,
+   "name": "Falsk Medium",
+   "page": "items/buildtools/falsk-medium-2020294526.md",
+   "json": "items/buildtools/falsk-medium-2020294526.json"
+  },
+  {
+   "id": 1668858460,
+   "name": "Flask Small",
+   "page": "items/buildtools/flask-small-1668858460.md",
+   "json": "items/buildtools/flask-small-1668858460.json"
+  },
+  {
+   "id": 3291221650,
+   "name": "Urn",
+   "page": "items/buildtools/urn-3291221650.md",
+   "json": "items/buildtools/urn-3291221650.json"
+  },
+  {
+   "id": 3186070284,
+   "name": "Fire Bowl",
+   "page": "items/buildtools/fire-bowl-3186070284.md",
+   "json": "items/buildtools/fire-bowl-3186070284.json"
+  },
+  {
+   "id": 3854576156,
+   "name": "Jewelry Box",
+   "page": "items/buildtools/jewelry-box-3854576156.md",
+   "json": "items/buildtools/jewelry-box-3854576156.json"
+  },
+  {
+   "id": 3682420039,
+   "name": "Palanthir",
+   "page": "items/buildtools/palanthir-3682420039.md",
+   "json": "items/buildtools/palanthir-3682420039.json"
+  },
+  {
+   "id": 3591471319,
+   "name": "Celestium Platter",
+   "page": "items/buildtools/celestium-platter-3591471319.md",
+   "json": "items/buildtools/celestium-platter-3591471319.json"
+  },
+  {
+   "id": 629640210,
+   "name": "Celestium Cup",
+   "page": "items/buildtools/celestium-cup-629640210.md",
+   "json": "items/buildtools/celestium-cup-629640210.json"
+  },
+  {
+   "id": 824995482,
+   "name": "Celestium Bowl",
+   "page": "items/buildtools/celestium-bowl-824995482.md",
+   "json": "items/buildtools/celestium-bowl-824995482.json"
+  },
+  {
+   "id": 3204624954,
+   "name": "Celestium Jug",
+   "page": "items/buildtools/celestium-jug-3204624954.md",
+   "json": "items/buildtools/celestium-jug-3204624954.json"
+  },
+  {
+   "id": 540246780,
+   "name": "Prop Decoration T5 Silver Platter",
+   "page": "items/buildtools/prop-decoration-t5-silver-platter-540246780.md",
+   "json": "items/buildtools/prop-decoration-t5-silver-platter-540246780.json"
+  },
+  {
+   "id": 787502604,
+   "name": "Prop Decoration T5 Silver Cup",
+   "page": "items/buildtools/prop-decoration-t5-silver-cup-787502604.md",
+   "json": "items/buildtools/prop-decoration-t5-silver-cup-787502604.json"
+  },
+  {
+   "id": 4167872472,
+   "name": "Prop Decoration T5 Silver Bowl",
+   "page": "items/buildtools/prop-decoration-t5-silver-bowl-4167872472.md",
+   "json": "items/buildtools/prop-decoration-t5-silver-bowl-4167872472.json"
+  },
+  {
+   "id": 332207654,
+   "name": "Prop Decoration T5 Silver Jug",
+   "page": "items/buildtools/prop-decoration-t5-silver-jug-332207654.md",
+   "json": "items/buildtools/prop-decoration-t5-silver-jug-332207654.json"
+  },
+  {
+   "id": 3225687185,
+   "name": "Crystal Platter",
+   "page": "items/buildtools/crystal-platter-3225687185.md",
+   "json": "items/buildtools/crystal-platter-3225687185.json"
+  },
+  {
+   "id": 4020741429,
+   "name": "Crystal Cup",
+   "page": "items/buildtools/crystal-cup-4020741429.md",
+   "json": "items/buildtools/crystal-cup-4020741429.json"
+  },
+  {
+   "id": 1444307995,
+   "name": "Crystal Bowl",
+   "page": "items/buildtools/crystal-bowl-1444307995.md",
+   "json": "items/buildtools/crystal-bowl-1444307995.json"
+  },
+  {
+   "id": 977816684,
+   "name": "Crystal Jug",
+   "page": "items/buildtools/crystal-jug-977816684.md",
+   "json": "items/buildtools/crystal-jug-977816684.json"
+  },
+  {
+   "id": 3308565609,
+   "name": "Bronze Platter",
+   "page": "items/buildtools/bronze-platter-3308565609.md",
+   "json": "items/buildtools/bronze-platter-3308565609.json"
+  },
+  {
+   "id": 382655677,
+   "name": "Bronze Cup",
+   "page": "items/buildtools/bronze-cup-382655677.md",
+   "json": "items/buildtools/bronze-cup-382655677.json"
+  },
+  {
+   "id": 1775891612,
+   "name": "Bronze Bowl",
+   "page": "items/buildtools/bronze-bowl-1775891612.md",
+   "json": "items/buildtools/bronze-bowl-1775891612.json"
+  },
+  {
+   "id": 1351534348,
+   "name": "Bronze Jug",
+   "page": "items/buildtools/bronze-jug-1351534348.md",
+   "json": "items/buildtools/bronze-jug-1351534348.json"
+  },
+  {
+   "id": 815801972,
+   "name": "Copper Platter",
+   "page": "items/buildtools/copper-platter-815801972.md",
+   "json": "items/buildtools/copper-platter-815801972.json"
+  },
+  {
+   "id": 130322938,
+   "name": "Copper Cup",
+   "page": "items/buildtools/copper-cup-130322938.md",
+   "json": "items/buildtools/copper-cup-130322938.json"
+  },
+  {
+   "id": 555173681,
+   "name": "Copper Bowl",
+   "page": "items/buildtools/copper-bowl-555173681.md",
+   "json": "items/buildtools/copper-bowl-555173681.json"
+  },
+  {
+   "id": 3860676568,
+   "name": "Copper Jug",
+   "page": "items/buildtools/copper-jug-3860676568.md",
+   "json": "items/buildtools/copper-jug-3860676568.json"
+  },
+  {
+   "id": 1951710379,
+   "name": "Scrap Pan I",
+   "page": "items/buildtools/scrap-pan-i-1951710379.md",
+   "json": "items/buildtools/scrap-pan-i-1951710379.json"
+  },
+  {
+   "id": 679720975,
+   "name": "Scrap Pan II",
+   "page": "items/buildtools/scrap-pan-ii-679720975.md",
+   "json": "items/buildtools/scrap-pan-ii-679720975.json"
+  },
+  {
+   "id": 2677755918,
+   "name": "Scrap Pot I",
+   "page": "items/buildtools/scrap-pot-i-2677755918.md",
+   "json": "items/buildtools/scrap-pot-i-2677755918.json"
+  },
+  {
+   "id": 1334996496,
+   "name": "Scrap Pot II",
+   "page": "items/buildtools/scrap-pot-ii-1334996496.md",
+   "json": "items/buildtools/scrap-pot-ii-1334996496.json"
+  },
+  {
+   "id": 2056180036,
+   "name": "Scrap Pot III",
+   "page": "items/buildtools/scrap-pot-iii-2056180036.md",
+   "json": "items/buildtools/scrap-pot-iii-2056180036.json"
+  },
+  {
+   "id": 2942210273,
+   "name": "Scrap Pot IV",
+   "page": "items/buildtools/scrap-pot-iv-2942210273.md",
+   "json": "items/buildtools/scrap-pot-iv-2942210273.json"
+  },
+  {
+   "id": 3248551594,
+   "name": "Scrap Pot V",
+   "page": "items/buildtools/scrap-pot-v-3248551594.md",
+   "json": "items/buildtools/scrap-pot-v-3248551594.json"
+  },
+  {
+   "id": 3272063351,
+   "name": "Scrap Pot VI",
+   "page": "items/buildtools/scrap-pot-vi-3272063351.md",
+   "json": "items/buildtools/scrap-pot-vi-3272063351.json"
+  },
+  {
+   "id": 1416182802,
+   "name": "Pink Wall Pot",
+   "page": "items/buildtools/pink-wall-pot-1416182802.md",
+   "json": "items/buildtools/pink-wall-pot-1416182802.json"
+  },
+  {
+   "id": 1699546726,
+   "name": "Red Wall Pot",
+   "page": "items/buildtools/red-wall-pot-1699546726.md",
+   "json": "items/buildtools/red-wall-pot-1699546726.json"
+  },
+  {
+   "id": 2553292740,
+   "name": "White Wall Pot",
+   "page": "items/buildtools/white-wall-pot-2553292740.md",
+   "json": "items/buildtools/white-wall-pot-2553292740.json"
+  },
+  {
+   "id": 3643820464,
+   "name": "Yellow Wall Pot",
+   "page": "items/buildtools/yellow-wall-pot-3643820464.md",
+   "json": "items/buildtools/yellow-wall-pot-3643820464.json"
+  },
+  {
+   "id": 117538727,
+   "name": "Iron Bucket",
+   "page": "items/buildtools/iron-bucket-117538727.md",
+   "json": "items/buildtools/iron-bucket-117538727.json"
+  },
+  {
+   "id": 3218270728,
+   "name": "Decorative Butter Churn",
+   "page": "items/buildtools/decorative-butter-churn-3218270728.md",
+   "json": "items/buildtools/decorative-butter-churn-3218270728.json"
+  },
+  {
+   "id": 2583752204,
+   "name": "Iron Grate",
+   "page": "items/buildtools/iron-grate-2583752204.md",
+   "json": "items/buildtools/iron-grate-2583752204.json"
+  },
+  {
+   "id": 2279483419,
+   "name": "Chain",
+   "page": "items/buildtools/chain-2279483419.md",
+   "json": "items/buildtools/chain-2279483419.json"
+  },
+  {
+   "id": 2746999550,
+   "name": "Pulley",
+   "page": "items/buildtools/pulley-2746999550.md",
+   "json": "items/buildtools/pulley-2746999550.json"
+  },
+  {
+   "id": 2829385261,
+   "name": "Scavanger Gong",
+   "page": "items/buildtools/scavanger-gong-2829385261.md",
+   "json": "items/buildtools/scavanger-gong-2829385261.json"
+  },
+  {
+   "id": 2813708659,
+   "name": "Bronzen Barrel",
+   "page": "items/buildtools/bronzen-barrel-2813708659.md",
+   "json": "items/buildtools/bronzen-barrel-2813708659.json"
+  },
+  {
+   "id": 4054901860,
+   "name": "Standing Wooden Barrel",
+   "page": "items/buildtools/standing-wooden-barrel-4054901860.md",
+   "json": "items/buildtools/standing-wooden-barrel-4054901860.json"
+  },
+  {
+   "id": 476656696,
+   "name": "Lying Wooden Barrel",
+   "page": "items/buildtools/lying-wooden-barrel-476656696.md",
+   "json": "items/buildtools/lying-wooden-barrel-476656696.json"
+  },
+  {
+   "id": 2646674848,
+   "name": "Half Wooden Barrel",
+   "page": "items/buildtools/half-wooden-barrel-2646674848.md",
+   "json": "items/buildtools/half-wooden-barrel-2646674848.json"
+  },
+  {
+   "id": 198228932,
+   "name": "Vat I",
+   "page": "items/buildtools/vat-i-198228932.md",
+   "json": "items/buildtools/vat-i-198228932.json"
+  },
+  {
+   "id": 3153333595,
+   "name": "Vat II",
+   "page": "items/buildtools/vat-ii-3153333595.md",
+   "json": "items/buildtools/vat-ii-3153333595.json"
+  },
+  {
+   "id": 2797806241,
+   "name": "Vat III",
+   "page": "items/buildtools/vat-iii-2797806241.md",
+   "json": "items/buildtools/vat-iii-2797806241.json"
+  },
+  {
+   "id": 3104389949,
+   "name": "Scrap Vat I",
+   "page": "items/buildtools/scrap-vat-i-3104389949.md",
+   "json": "items/buildtools/scrap-vat-i-3104389949.json"
+  },
+  {
+   "id": 4129664761,
+   "name": "Scrap Vat II",
+   "page": "items/buildtools/scrap-vat-ii-4129664761.md",
+   "json": "items/buildtools/scrap-vat-ii-4129664761.json"
+  },
+  {
+   "id": 3137506637,
+   "name": "Scap Cage",
+   "page": "items/buildtools/scap-cage-3137506637.md",
+   "json": "items/buildtools/scap-cage-3137506637.json"
+  },
+  {
+   "id": 3407492288,
+   "name": "Scrappy Crate",
+   "page": "items/buildtools/scrappy-crate-3407492288.md",
+   "json": "items/buildtools/scrappy-crate-3407492288.json"
+  },
+  {
+   "id": 3761076482,
+   "name": "Scrap Bucket",
+   "page": "items/buildtools/scrap-bucket-3761076482.md",
+   "json": "items/buildtools/scrap-bucket-3761076482.json"
+  },
+  {
+   "id": 2346845127,
+   "name": "Big Bronze Statue \"Snake\"",
+   "page": "items/buildtools/big-bronze-statue-snake-2346845127.md",
+   "json": "items/buildtools/big-bronze-statue-snake-2346845127.json"
+  },
+  {
+   "id": 3959792094,
+   "name": "Iron Fence",
+   "page": "items/buildtools/iron-fence-3959792094.md",
+   "json": "items/buildtools/iron-fence-3959792094.json"
+  },
+  {
+   "id": 3546099400,
+   "name": "Prison Fence Pole",
+   "page": "items/buildtools/prison-fence-pole-3546099400.md",
+   "json": "items/buildtools/prison-fence-pole-3546099400.json"
+  },
+  {
+   "id": 2452070869,
+   "name": "Prison Fence",
+   "page": "items/buildtools/prison-fence-2452070869.md",
+   "json": "items/buildtools/prison-fence-2452070869.json"
+  },
+  {
+   "id": 1994301209,
+   "name": "Prison Fence Gate",
+   "page": "items/buildtools/prison-fence-gate-1994301209.md",
+   "json": "items/buildtools/prison-fence-gate-1994301209.json"
+  },
+  {
+   "id": 3983205690,
+   "name": "Fence Hollow Halls",
+   "page": "items/buildtools/fence-hollow-halls-3983205690.md",
+   "json": "items/buildtools/fence-hollow-halls-3983205690.json"
+  },
+  {
+   "id": 1799390834,
+   "name": "Fence Hollow Halls Big",
+   "page": "items/buildtools/fence-hollow-halls-big-1799390834.md",
+   "json": "items/buildtools/fence-hollow-halls-big-1799390834.json"
+  },
+  {
+   "id": 1055652774,
+   "name": "Copper Fence",
+   "page": "items/buildtools/copper-fence-1055652774.md",
+   "json": "items/buildtools/copper-fence-1055652774.json"
+  },
+  {
+   "id": 895710916,
+   "name": "Scientific Instruments",
+   "page": "items/buildtools/scientific-instruments-895710916.md",
+   "json": "items/buildtools/scientific-instruments-895710916.json"
+  },
+  {
+   "id": 2777715830,
+   "name": "Mortar",
+   "page": "items/buildtools/mortar-2777715830.md",
+   "json": "items/buildtools/mortar-2777715830.json"
+  },
+  {
+   "id": 2010028904,
+   "name": "Masonry Tools",
+   "page": "items/buildtools/masonry-tools-2010028904.md",
+   "json": "items/buildtools/masonry-tools-2010028904.json"
+  },
+  {
+   "id": 1461371688,
+   "name": "Circular Sawblades",
+   "page": "items/materials/circular-sawblades-1461371688.md",
+   "json": "items/materials/circular-sawblades-1461371688.json"
+  },
+  {
+   "id": 3107844914,
+   "name": "Wood Bucket",
+   "page": "items/buildtools/wood-bucket-3107844914.md",
+   "json": "items/buildtools/wood-bucket-3107844914.json"
+  },
+  {
+   "id": 2247014936,
+   "name": "Drum",
+   "page": "items/buildtools/drum-2247014936.md",
+   "json": "items/buildtools/drum-2247014936.json"
+  },
+  {
+   "id": 883401509,
+   "name": "Skeleton Showkase",
+   "page": "items/buildtools/skeleton-showkase-883401509.md",
+   "json": "items/buildtools/skeleton-showkase-883401509.json"
+  },
+  {
+   "id": 2893449858,
+   "name": "Round Iron plated door",
+   "page": "items/buildtools/round-iron-plated-door-2893449858.md",
+   "json": "items/buildtools/round-iron-plated-door-2893449858.json"
+  },
+  {
+   "id": 813310886,
+   "name": "Iron Prison Door",
+   "page": "items/buildtools/iron-prison-door-813310886.md",
+   "json": "items/buildtools/iron-prison-door-813310886.json"
+  },
+  {
+   "id": 2382841178,
+   "name": "Huge Hollow Halls Door",
+   "page": "items/buildtools/huge-hollow-halls-door-2382841178.md",
+   "json": "items/buildtools/huge-hollow-halls-door-2382841178.json"
+  },
+  {
+   "id": 2031829546,
+   "name": "Large Hollow Halls door",
+   "page": "items/buildtools/large-hollow-halls-door-2031829546.md",
+   "json": "items/buildtools/large-hollow-halls-door-2031829546.json"
+  },
+  {
+   "id": 852718536,
+   "name": "Hollow Halls Gate",
+   "page": "items/buildtools/hollow-halls-gate-852718536.md",
+   "json": "items/buildtools/hollow-halls-gate-852718536.json"
+  },
+  {
+   "id": 212310372,
+   "name": "Solid Ornamented Stone Door",
+   "page": "items/buildtools/solid-ornamented-stone-door-212310372.md",
+   "json": "items/buildtools/solid-ornamented-stone-door-212310372.json"
+  },
+  {
+   "id": 2466361529,
+   "name": "Iron Window Frame",
+   "page": "items/buildtools/iron-window-frame-2466361529.md",
+   "json": "items/buildtools/iron-window-frame-2466361529.json"
+  },
+  {
+   "id": 484740866,
+   "name": "Large Iron Window Frame",
+   "page": "items/buildtools/large-iron-window-frame-484740866.md",
+   "json": "items/buildtools/large-iron-window-frame-484740866.json"
+  },
+  {
+   "id": 3767898883,
+   "name": "High Iron Window Frame I",
+   "page": "items/buildtools/high-iron-window-frame-i-3767898883.md",
+   "json": "items/buildtools/high-iron-window-frame-i-3767898883.json"
+  },
+  {
+   "id": 2100770641,
+   "name": "High Iron Window Frame II",
+   "page": "items/buildtools/high-iron-window-frame-ii-2100770641.md",
+   "json": "items/buildtools/high-iron-window-frame-ii-2100770641.json"
+  },
+  {
+   "id": 2927359933,
+   "name": "Small Iron Window Frame",
+   "page": "items/buildtools/small-iron-window-frame-2927359933.md",
+   "json": "items/buildtools/small-iron-window-frame-2927359933.json"
+  },
+  {
+   "id": 2046629640,
+   "name": "Iron Window Frame I",
+   "page": "items/buildtools/iron-window-frame-i-2046629640.md",
+   "json": "items/buildtools/iron-window-frame-i-2046629640.json"
+  },
+  {
+   "id": 240211609,
+   "name": "Iron Window Frame II",
+   "page": "items/buildtools/iron-window-frame-ii-240211609.md",
+   "json": "items/buildtools/iron-window-frame-ii-240211609.json"
+  }
+ ],
+ "page": "items/materials/charcoal-372029138.md"
+}

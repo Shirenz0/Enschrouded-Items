@@ -1,0 +1,81 @@
+{
+ "id": 853884133,
+ "name": "Shroud Eminence",
+ "internalName": "Material_T6_Fog_Core03_ShroudEminence",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/853884133.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The highest concentration of shroud energy, even higher than shroud nexus..",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2685909042,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3581489769,
+      "name": "Shroud Relic",
+      "page": "items/materials/shroud-relic-3581489769.md",
+      "json": "items/materials/shroud-relic-3581489769.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3486560156,
+      "name": "Placeholder: Pink Mushroom Meat",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3326121147,
+   "name": "Underwater Grappling Hook",
+   "page": "items/tools/underwater-grappling-hook-3326121147.md",
+   "json": "items/tools/underwater-grappling-hook-3326121147.json"
+  },
+  {
+   "id": 30818586,
+   "name": "Enormous Magic Chest",
+   "page": "items/buildtools/enormous-magic-chest-30818586.md",
+   "json": "items/buildtools/enormous-magic-chest-30818586.json"
+  },
+  {
+   "id": 255353296,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-255353296.md",
+   "json": "items/equipment/pikemead-s-ward-255353296.json"
+  }
+ ],
+ "page": "items/materials/shroud-eminence-853884133.md"
+}

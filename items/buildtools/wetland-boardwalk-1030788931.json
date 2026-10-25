@@ -1,0 +1,29 @@
+{
+ "id": 1030788931,
+ "name": "Wetland Boardwalk",
+ "internalName": "Prop_Decoration_T6_Boardwalk_4m_01_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1030788931.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/wetland-boardwalk.md",
+  "json": "objects/buildtools/wetland-boardwalk.json",
+  "versions": 4
+ },
+ "page": "items/buildtools/wetland-boardwalk-1030788931.md"
+}

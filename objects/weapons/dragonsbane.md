@@ -19,4 +19,4 @@ An axe found inside the skullcap of a giant dragon skeleton.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](dragonsbane.json)

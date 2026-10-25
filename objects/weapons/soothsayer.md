@@ -21,4 +21,4 @@ A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by th
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](soothsayer.json)

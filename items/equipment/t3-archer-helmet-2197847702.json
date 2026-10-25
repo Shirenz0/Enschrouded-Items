@@ -1,0 +1,77 @@
+{
+ "id": 2197847702,
+ "name": "T3 Archer Helmet",
+ "internalName": "Armor_T3_Ranger_Assassin_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2197847702.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The metal adornment on this hood faintly resemmles a hawk.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-archer-helmet.md",
+  "json": "objects/equipment/t3-archer-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Melee Strike Chance",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 3,
+   "name": "+1 Backstab Mastery",
+   "effect": "Increases the skill level of Backstab Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Ice Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Backstab Mastery",
+   "effect": "Increases the skill level of Backstab Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/t3-archer-helmet-2197847702.md"
+}

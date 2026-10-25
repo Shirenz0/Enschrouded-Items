@@ -27,4 +27,4 @@ A heavy tunic with fur lining.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](lumberer-chest-851178402.json)

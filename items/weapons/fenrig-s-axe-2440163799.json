@@ -1,0 +1,98 @@
+{
+ "id": 2440163799,
+ "name": "Fenrig's Axe",
+ "internalName": "Craft_Weapon_T2_1H_Lore_Axe_Ministory_10",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 11,
+  "max": 11
+ },
+ "maxStack": 1,
+ "image": "images/icons/2440163799.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/fenrig-s-axe.md",
+  "json": "objects/weapons/fenrig-s-axe.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  }
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "+4 Health Leech"
+  },
+  {
+   "order": 5,
+   "name": "",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1030879321,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/fenrig-s-axe-2440163799.md"
+}

@@ -1,0 +1,92 @@
+{
+ "id": 2848753277,
+ "name": "Cabbage Mushroom Rice",
+ "internalName": "Food_T7_dish_mushroom_CabbageMushroomRice",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2848753277.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "chopped cabbage leaves, mushrooms and tomatos fried in a pan",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3600000,
+    "display": "60:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 140,
+    "display": "140",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2555818463,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3354704185,
+      "name": "Shiitake Mushroom",
+      "page": "items/consumables/shiitake-mushroom-3354704185.md",
+      "json": "items/consumables/shiitake-mushroom-3354704185.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3688068238,
+      "name": "Cooked Rice",
+      "page": "items/consumables/cooked-rice-3688068238.md",
+      "json": "items/consumables/cooked-rice-3688068238.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1682430863,
+      "name": "Ancient \"Cabbage\" Leaves",
+      "page": "items/consumables/ancient-cabbage-leaves-1682430863.md",
+      "json": "items/consumables/ancient-cabbage-leaves-1682430863.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3466985705,
+      "name": "Thyme",
+      "page": "items/consumables/thyme-3466985705.md",
+      "json": "items/consumables/thyme-3466985705.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/cabbage-mushroom-rice-2848753277.md"
+}

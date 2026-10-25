@@ -1,0 +1,33 @@
+{
+ "id": 2640854911,
+ "name": "Glass Shards",
+ "internalName": "Material_T4_Glass_Shards",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2640854911.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Glass broken into pieces offers many sharp edges used to increase the threat of a weapon.",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2246309017,
+   "name": "Glass",
+   "page": "items/materials/glass-2246309017.md",
+   "json": "items/materials/glass-2246309017.json"
+  }
+ ],
+ "page": "items/materials/glass-shards-2640854911.md"
+}

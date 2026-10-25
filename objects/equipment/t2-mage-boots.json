@@ -1,0 +1,35 @@
+{
+ "name": "T2 Mage Boots",
+ "category": "Equipment",
+ "image": "images/icons/3954314149.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2841320705,
+   "name": "T2 Mage Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2841320705.png",
+   "page": "items/equipment/t2-mage-boots-2841320705.md",
+   "json": "items/equipment/t2-mage-boots-2841320705.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3954314149,
+   "name": "T2 Mage Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3954314149.png",
+   "page": "items/equipment/t2-mage-boots-3954314149.md",
+   "json": "items/equipment/t2-mage-boots-3954314149.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-mage-boots.md"
+}

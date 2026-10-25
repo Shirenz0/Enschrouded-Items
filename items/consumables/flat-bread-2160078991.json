@@ -1,0 +1,100 @@
+{
+ "id": 2160078991,
+ "name": "Flat Bread",
+ "internalName": "Food_T3_dish_grain_baked_FlatBread",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2160078991.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A simple meal, granting a lasting Melee Damage boost upon consumption. It tastes better in combination with other things, though.",
+ "lore": null,
+ "whereToFind": "Oven",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 2400000,
+    "display": "40:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4219401774,
+   "station": "Oven",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 169532188,
+      "name": "Flour",
+      "page": "items/materials/flour-169532188.md",
+      "json": "items/materials/flour-169532188.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3744591176,
+   "name": "Meat Wrap",
+   "page": "items/consumables/meat-wrap-3744591176.md",
+   "json": "items/consumables/meat-wrap-3744591176.json"
+  },
+  {
+   "id": 71610791,
+   "name": "Fish Tacos",
+   "page": "items/consumables/fish-tacos-71610791.md",
+   "json": "items/consumables/fish-tacos-71610791.json"
+  },
+  {
+   "id": 2661195564,
+   "name": "T4 Nightplant Wrap",
+   "page": "items/consumables/t4-nightplant-wrap-2661195564.md",
+   "json": "items/consumables/t4-nightplant-wrap-2661195564.json"
+  },
+  {
+   "id": 790393972,
+   "name": "Open Sandwich",
+   "page": "items/consumables/open-sandwich-790393972.md",
+   "json": "items/consumables/open-sandwich-790393972.json"
+  }
+ ],
+ "page": "items/consumables/flat-bread-2160078991.md"
+}

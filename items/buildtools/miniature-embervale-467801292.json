@@ -1,0 +1,25 @@
+{
+ "id": 467801292,
+ "name": "Miniature Embervale",
+ "internalName": "Prop_Decoration_T7_Embervale_Miniature_WorldMap",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/467801292.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A miniature model of Embervale. Can you locate yourself in it?",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/miniature-embervale-467801292.md"
+}

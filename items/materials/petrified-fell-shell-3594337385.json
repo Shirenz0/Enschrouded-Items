@@ -1,0 +1,81 @@
+{
+ "id": 3594337385,
+ "name": "Petrified Fell Shell",
+ "internalName": "Material_T3_PetrifiedFellShell",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/3594337385.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A dense, stone-like carapace torn from the Predator, a ruthless assassin of the Fell. Its near-unbreakable structure makes it a crucial material for forging exceptionally hard and resilient armor.",
+ "lore": null,
+ "whereToFind": "Shroud Stalker, First: Nomad Highlands Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1912744772,
+   "name": "T3 Eternal Fireball I",
+   "page": "items/ammunition/t3-eternal-fireball-i-1912744772.md",
+   "json": "items/ammunition/t3-eternal-fireball-i-1912744772.json"
+  },
+  {
+   "id": 3800404508,
+   "name": "T3 DPS Chest",
+   "page": "items/equipment/t3-dps-chest-3800404508.md",
+   "json": "items/equipment/t3-dps-chest-3800404508.json"
+  },
+  {
+   "id": 1240317845,
+   "name": "T3 Healer Helmet",
+   "page": "items/equipment/t3-healer-helmet-1240317845.md",
+   "json": "items/equipment/t3-healer-helmet-1240317845.json"
+  },
+  {
+   "id": 4289077760,
+   "name": "T3 Mage Helmet",
+   "page": "items/equipment/t3-mage-helmet-4289077760.md",
+   "json": "items/equipment/t3-mage-helmet-4289077760.json"
+  },
+  {
+   "id": 2746111440,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-2746111440.md",
+   "json": "items/equipment/mage-fog-protection-armor-2746111440.json"
+  },
+  {
+   "id": 1236068115,
+   "name": "T3 Ranger Legs",
+   "page": "items/equipment/t3-ranger-legs-1236068115.md",
+   "json": "items/equipment/t3-ranger-legs-1236068115.json"
+  },
+  {
+   "id": 3281783103,
+   "name": "T3 Archer Legs",
+   "page": "items/equipment/t3-archer-legs-3281783103.md",
+   "json": "items/equipment/t3-archer-legs-3281783103.json"
+  },
+  {
+   "id": 2173083844,
+   "name": "T3 Tank Chest",
+   "page": "items/equipment/t3-tank-chest-2173083844.md",
+   "json": "items/equipment/t3-tank-chest-2173083844.json"
+  },
+  {
+   "id": 3354677077,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-3354677077.md",
+   "json": "items/equipment/warrior-fog-protection-armor-3354677077.json"
+  }
+ ],
+ "page": "items/materials/petrified-fell-shell-3594337385.md"
+}

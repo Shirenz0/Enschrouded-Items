@@ -1,0 +1,56 @@
+{
+ "id": 3087012652,
+ "name": "Tree Seedling",
+ "internalName": "T1_Seedling_Greenhillzone_Tree_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3087012652.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will soon grow into a plant, should it be placed into the right ground.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": {
+  "page": "objects/buildtools/tree-seedling.md",
+  "json": "objects/buildtools/tree-seedling.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 1079205366,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/tree-seedling-3087012652.md"
+}

@@ -1,0 +1,112 @@
+{
+ "id": 1352959398,
+ "name": "Ranger Fog Protection Armor",
+ "internalName": "Armor_T3_Ranger_FogProtection_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1352959398.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hastely put together from fell monster parts. Offers extended protection against the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/ranger-fog-protection-armor.md",
+  "json": "objects/equipment/ranger-fog-protection-armor.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Ranged Damage while in the Shroud",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fog Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Skillshot",
+   "effect": "Increases the skill level of Skillshot by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4120196448,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/ranger-fog-protection-armor-1352959398.md"
+}

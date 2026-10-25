@@ -1,0 +1,25 @@
+{
+ "id": 3160910629,
+ "name": "Meteorite II",
+ "internalName": "Collection_Meteorites_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3160910629.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Looks like a pallasit, is a pallasit.\n\nThis collectible is found in Cinder's Cradle.1",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/meteorite-ii-3160910629.md"
+}

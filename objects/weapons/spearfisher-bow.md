@@ -17,4 +17,4 @@ A bow used by the Drak to try and catch fish through arrows and luck. They weren
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](spearfisher-bow.json)

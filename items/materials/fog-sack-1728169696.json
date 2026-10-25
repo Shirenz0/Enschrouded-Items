@@ -1,0 +1,87 @@
+{
+ "id": 1728169696,
+ "name": "Fog Sack",
+ "internalName": "Material_T2_Fog_Sack",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/1728169696.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An organic bag containing highly concentrated fog.",
+ "lore": null,
+ "whereToFind": "Fell Enemies, First: Revelwood Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1397467393,
+   "name": "Advanced Glider",
+   "page": "items/tools/advanced-glider-1397467393.md",
+   "json": "items/tools/advanced-glider-1397467393.json"
+  },
+  {
+   "id": 3761680048,
+   "name": "Fog Arrow",
+   "page": "items/ammunition/fog-arrow-3761680048.md",
+   "json": "items/ammunition/fog-arrow-3761680048.json"
+  },
+  {
+   "id": 3145568607,
+   "name": "Pheromone Shroud",
+   "page": "items/weapons/pheromone-shroud-3145568607.md",
+   "json": "items/weapons/pheromone-shroud-3145568607.json"
+  },
+  {
+   "id": 3288350660,
+   "name": "T2 DPS Legs",
+   "page": "items/equipment/t2-dps-legs-3288350660.md",
+   "json": "items/equipment/t2-dps-legs-3288350660.json"
+  },
+  {
+   "id": 1108317357,
+   "name": "T2 DPS Arms",
+   "page": "items/equipment/t2-dps-arms-1108317357.md",
+   "json": "items/equipment/t2-dps-arms-1108317357.json"
+  },
+  {
+   "id": 614770460,
+   "name": "T2 Healer Arms",
+   "page": "items/equipment/t2-healer-arms-614770460.md",
+   "json": "items/equipment/t2-healer-arms-614770460.json"
+  },
+  {
+   "id": 475314263,
+   "name": "T2 Mage Arms",
+   "page": "items/equipment/t2-mage-arms-475314263.md",
+   "json": "items/equipment/t2-mage-arms-475314263.json"
+  },
+  {
+   "id": 1883961235,
+   "name": "T2 Ranger Arms",
+   "page": "items/equipment/t2-ranger-arms-1883961235.md",
+   "json": "items/equipment/t2-ranger-arms-1883961235.json"
+  },
+  {
+   "id": 2683908044,
+   "name": "T2 Archer Arms",
+   "page": "items/equipment/t2-archer-arms-2683908044.md",
+   "json": "items/equipment/t2-archer-arms-2683908044.json"
+  },
+  {
+   "id": 1113469647,
+   "name": "T2 Tank Arms",
+   "page": "items/equipment/t2-tank-arms-1113469647.md",
+   "json": "items/equipment/t2-tank-arms-1113469647.json"
+  }
+ ],
+ "page": "items/materials/fog-sack-1728169696.md"
+}

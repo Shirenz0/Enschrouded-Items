@@ -1,0 +1,80 @@
+{
+ "id": 1753788725,
+ "name": "Iron Ancient Construct: Heavy Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Ancient_Construct_Heavy_03_iron",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/1753788725.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Ancient Construct: Heavy Head. Collect multiple to craft the iron trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2224539383,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2477070271,
+      "name": "Ancient Construct: Heavy Head",
+      "page": "items/materials/ancient-construct-heavy-head-2477070271.md",
+      "json": "items/materials/ancient-construct-heavy-head-2477070271.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/iron-ancient-construct-heavy-trophy-1753788725.md"
+}

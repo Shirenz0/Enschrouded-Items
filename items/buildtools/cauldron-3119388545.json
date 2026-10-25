@@ -1,0 +1,29 @@
+{
+ "id": 3119388545,
+ "name": "Cauldron",
+ "internalName": "Prop_Furniture_Cauldron_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3119388545.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/cauldron.md",
+  "json": "objects/buildtools/cauldron.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/cauldron-3119388545.md"
+}

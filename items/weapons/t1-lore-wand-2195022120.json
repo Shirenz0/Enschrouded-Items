@@ -1,0 +1,124 @@
+{
+ "id": 2195022120,
+ "name": "T1 lore wand",
+ "internalName": "Craft_Weapon_T1_1H_Lore_Wand_Ministory_02_Lightning",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 6,
+  "max": 6
+ },
+ "maxStack": 1,
+ "image": "images/icons/2195022120.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T1 lore wand",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/t1-lore-wand.md",
+  "json": "objects/weapons/t1-lore-wand.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Mana Leech",
+   "effect": "On Hit Leech %Percentage% Damage as Mana"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 88460151,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2832562682,
+      "name": "Aerated Shroud Gel",
+      "page": "items/materials/aerated-shroud-gel-2832562682.md",
+      "json": "items/materials/aerated-shroud-gel-2832562682.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/t1-lore-wand-2195022120.md"
+}

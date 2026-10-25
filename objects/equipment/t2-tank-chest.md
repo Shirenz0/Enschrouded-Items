@@ -17,4 +17,4 @@ The copper plating of this armor piece lets you withstand many blows at the fron
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-tank-chest.json)

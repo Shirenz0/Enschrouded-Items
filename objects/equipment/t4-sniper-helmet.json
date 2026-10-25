@@ -1,0 +1,35 @@
+{
+ "name": "T4 Sniper Helmet",
+ "category": "Equipment",
+ "image": "images/icons/3687213212.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3141427238,
+   "name": "T4 Sniper Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3141427238.png",
+   "page": "items/equipment/t4-sniper-helmet-3141427238.md",
+   "json": "items/equipment/t4-sniper-helmet-3141427238.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3687213212,
+   "name": "T4 Sniper Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3687213212.png",
+   "page": "items/equipment/t4-sniper-helmet-3687213212.md",
+   "json": "items/equipment/t4-sniper-helmet-3687213212.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-sniper-helmet.md"
+}

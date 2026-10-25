@@ -1,0 +1,52 @@
+{
+ "id": 1410921691,
+ "name": "Hemotoxication Antidode",
+ "internalName": "Consumable_Potion_Antidote_Hemotoxication",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1410921691.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Removes Hemotoxication Sickness.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3917658497,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1212327967,
+      "name": "Spider Gland",
+      "page": "items/materials/spider-gland-1212327967.md",
+      "json": "items/materials/spider-gland-1212327967.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2201448182,
+      "name": "Moth",
+      "page": "items/ammunition/moth-2201448182.md",
+      "json": "items/ammunition/moth-2201448182.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/hemotoxication-antidode-1410921691.md"
+}

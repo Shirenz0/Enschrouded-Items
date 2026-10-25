@@ -1,0 +1,52 @@
+{
+ "id": 44037605,
+ "name": "Graveyard Fence",
+ "internalName": "Prop_Decoration_T3_Fence_Graveyard",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/44037605.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 614723856,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1055652774,
+      "name": "Copper Fence",
+      "page": "items/buildtools/copper-fence-1055652774.md",
+      "json": "items/buildtools/copper-fence-1055652774.json"
+     }
+    }
+   ],
+   "outputCount": 2
+  }
+ ],
+ "page": "items/buildtools/graveyard-fence-44037605.md"
+}

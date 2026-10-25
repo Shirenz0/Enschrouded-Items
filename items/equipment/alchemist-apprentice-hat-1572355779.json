@@ -1,0 +1,125 @@
+{
+ "id": 1572355779,
+ "name": "Alchemist Apprentice Hat",
+ "internalName": "Armor_T1_Mage_Wizard_DPS_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/1572355779.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Spending general protection and providing shade, the alchemists apprentice hat is perfect to wander around the world.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/alchemist-apprentice-hat.md",
+  "json": "objects/equipment/alchemist-apprentice-hat.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+4 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thunder",
+   "effect": "Increases the skill level of Thunder by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3385892197,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2832562682,
+      "name": "Aerated Shroud Gel",
+      "page": "items/materials/aerated-shroud-gel-2832562682.md",
+      "json": "items/materials/aerated-shroud-gel-2832562682.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/alchemist-apprentice-hat-1572355779.md"
+}

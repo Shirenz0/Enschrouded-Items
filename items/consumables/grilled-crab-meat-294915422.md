@@ -36,4 +36,4 @@ Seafood Grill
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](grilled-crab-meat-294915422.json)

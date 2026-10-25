@@ -1,0 +1,85 @@
+{
+ "id": 2264547367,
+ "name": "T6 Adventurer Legs - Unique",
+ "internalName": "Armor_T6_Unique_Adventurer_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/2264547367.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 adventurer legs desc - unique",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Sprint  Speed",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Depletion Climbing",
+    "value": -20,
+    "display": "-20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Depletion Climbing",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Stamina",
+   "effect": "+24 Stamina"
+  },
+  {
+   "order": 2,
+   "name": "Enduring",
+   "effect": "+18 Enduring"
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Airborne",
+   "effect": "Increases the skill level of Airborne by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Rebound",
+   "effect": "Increases the skill level of Rebound by +1"
+  }
+ ],
+ "page": "items/equipment/t6-adventurer-legs-unique-2264547367.md"
+}

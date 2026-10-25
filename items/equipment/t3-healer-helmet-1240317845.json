@@ -1,0 +1,122 @@
+{
+ "id": 1240317845,
+ "name": "T3 Healer Helmet",
+ "internalName": "Armor_T3_Mage_Healer_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1240317845.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Healing others is suprisingly hard when you can't actually see them.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-healer-helmet.md",
+  "json": "objects/equipment/t3-healer-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Revive Duration",
+    "value": -800,
+    "display": "-0.8 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+12 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 735163055,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2341333485,
+      "name": "Aurum Lily",
+      "page": "items/materials/aurum-lily-2341333485.md",
+      "json": "items/materials/aurum-lily-2341333485.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3594337385,
+      "name": "Petrified Fell Shell",
+      "page": "items/materials/petrified-fell-shell-3594337385.md",
+      "json": "items/materials/petrified-fell-shell-3594337385.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-healer-helmet-1240317845.md"
+}

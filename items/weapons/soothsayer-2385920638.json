@@ -1,0 +1,112 @@
+{
+ "id": 2385920638,
+ "name": "Soothsayer",
+ "internalName": "Craft_Weapon_T4_2H_Lore_HammerEpic_ministory_19",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 21,
+  "max": 21
+ },
+ "maxStack": 1,
+ "image": "images/icons/2385920638.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/soothsayer.md",
+  "json": "objects/weapons/soothsayer.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+5 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3004373563,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/soothsayer-2385920638.md"
+}

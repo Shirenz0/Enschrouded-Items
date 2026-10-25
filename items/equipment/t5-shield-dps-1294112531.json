@@ -1,0 +1,112 @@
+{
+ "id": 1294112531,
+ "name": "T5 Shield DPS",
+ "internalName": "Shield_T5_DPS",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 1,
+ "image": "images/icons/1294112531.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T5 Shield dps desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t5-shield-dps.md",
+  "json": "objects/equipment/t5-shield-dps.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Opportunity",
+   "effect": "Increases the skill level of Opportunity by +1"
+  },
+  {
+   "order": 4,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Bash",
+   "effect": "Increases the skill level of Bash by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2436955280,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t5-shield-dps-1294112531.md"
+}

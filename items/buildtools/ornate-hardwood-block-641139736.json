@@ -1,0 +1,43 @@
+{
+ "id": 641139736,
+ "name": "Ornate Hardwood Block",
+ "internalName": "Block_T2_Wood_Deepforest_WoodPlanks_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/641139736.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An ornate hardwood building block with intricate details.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1869104874,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/ornate-hardwood-block-641139736.md"
+}

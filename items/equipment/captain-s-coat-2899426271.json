@@ -1,0 +1,46 @@
+{
+ "id": 2899426271,
+ "name": "Captain's Coat",
+ "internalName": "Vanity_T6_Pirate_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2899426271.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Regal, lived-in and vaguely... salty.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest"
+ },
+ "recipes": [
+  {
+   "recipeId": 58890156,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/captain-s-coat-2899426271.md"
+}

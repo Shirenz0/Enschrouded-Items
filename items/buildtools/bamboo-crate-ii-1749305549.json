@@ -1,0 +1,52 @@
+{
+ "id": 1749305549,
+ "name": "Bamboo Crate II",
+ "internalName": "Prop_Decoration_T6_Crate_Bamboo_03",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1749305549.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4083399319,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1381084162,
+      "name": "Bamboo Logs",
+      "page": "items/materials/bamboo-logs-1381084162.md",
+      "json": "items/materials/bamboo-logs-1381084162.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/bamboo-crate-ii-1749305549.md"
+}

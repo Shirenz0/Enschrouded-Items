@@ -1,0 +1,117 @@
+{
+ "id": 1586398842,
+ "name": "Flintstone",
+ "internalName": "Material_T1_Stone_Flint",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1586398842.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A soft small rock that became famous for its ability to release sparks. It has been associated with the flame ever since.",
+ "lore": null,
+ "whereToFind": "Springlands",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3288587434,
+   "name": "Yellow Glow Block",
+   "page": "items/buildtools/yellow-glow-block-3288587434.md",
+   "json": "items/buildtools/yellow-glow-block-3288587434.json"
+  },
+  {
+   "id": 3877300758,
+   "name": "Green Glow Block",
+   "page": "items/buildtools/green-glow-block-3877300758.md",
+   "json": "items/buildtools/green-glow-block-3877300758.json"
+  },
+  {
+   "id": 296562836,
+   "name": "Refined Stone Block",
+   "page": "items/buildtools/refined-stone-block-296562836.md",
+   "json": "items/buildtools/refined-stone-block-296562836.json"
+  },
+  {
+   "id": 1405390032,
+   "name": "Rough Flintstone Block",
+   "page": "items/buildtools/rough-flintstone-block-1405390032.md",
+   "json": "items/buildtools/rough-flintstone-block-1405390032.json"
+  },
+  {
+   "id": 1699388154,
+   "name": "Stone Shingle Block",
+   "page": "items/buildtools/stone-shingle-block-1699388154.md",
+   "json": "items/buildtools/stone-shingle-block-1699388154.json"
+  },
+  {
+   "id": 1422216404,
+   "name": "Flint Arrow",
+   "page": "items/ammunition/flint-arrow-1422216404.md",
+   "json": "items/ammunition/flint-arrow-1422216404.json"
+  },
+  {
+   "id": 72192472,
+   "name": "T4 Eternal Light Burst I",
+   "page": "items/ammunition/t4-eternal-light-burst-i-72192472.md",
+   "json": "items/ammunition/t4-eternal-light-burst-i-72192472.json"
+  },
+  {
+   "id": 1048548069,
+   "name": "T2 Chain Lightning I",
+   "page": "items/ammunition/t2-chain-lightning-i-1048548069.md",
+   "json": "items/ammunition/t2-chain-lightning-i-1048548069.json"
+  },
+  {
+   "id": 3881781700,
+   "name": "Cooking Station",
+   "page": "items/buildtools/cooking-station-3881781700.md",
+   "json": "items/buildtools/cooking-station-3881781700.json"
+  },
+  {
+   "id": 4243734462,
+   "name": "Grinding Stones",
+   "page": "items/buildtools/grinding-stones-4243734462.md",
+   "json": "items/buildtools/grinding-stones-4243734462.json"
+  },
+  {
+   "id": 1462961786,
+   "name": "Incendiary Ball",
+   "page": "items/weapons/incendiary-ball-1462961786.md",
+   "json": "items/weapons/incendiary-ball-1462961786.json"
+  },
+  {
+   "id": 4212724325,
+   "name": "Statue of Pikemead",
+   "page": "items/buildtools/statue-of-pikemead-4212724325.md",
+   "json": "items/buildtools/statue-of-pikemead-4212724325.json"
+  },
+  {
+   "id": 2615961605,
+   "name": "Big Decorative Tree",
+   "page": "items/buildtools/big-decorative-tree-2615961605.md",
+   "json": "items/buildtools/big-decorative-tree-2615961605.json"
+  },
+  {
+   "id": 2244944221,
+   "name": "Small Decorative Tree",
+   "page": "items/buildtools/small-decorative-tree-2244944221.md",
+   "json": "items/buildtools/small-decorative-tree-2244944221.json"
+  },
+  {
+   "id": 3938747715,
+   "name": "Improved Grindingstone",
+   "page": "items/buildtools/improved-grindingstone-3938747715.md",
+   "json": "items/buildtools/improved-grindingstone-3938747715.json"
+  }
+ ],
+ "page": "items/materials/flintstone-1586398842.md"
+}

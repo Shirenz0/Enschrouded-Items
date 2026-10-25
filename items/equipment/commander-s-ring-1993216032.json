@@ -1,0 +1,70 @@
+{
+ "id": 1993216032,
+ "name": "Commander's Ring",
+ "internalName": "Ring_T3_ministory_03",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1993216032.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A simple and sturdy ring, decorated with 3 azure gemstones. It was found inside the maw of the creature that haunts the Citadel.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Bash",
+   "effect": "Increases the skill level of Bash by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  },
+  {
+   "order": 3,
+   "name": "Health Leech",
+   "effect": "+4 Health Leech"
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  }
+ ],
+ "page": "items/equipment/commander-s-ring-1993216032.md"
+}

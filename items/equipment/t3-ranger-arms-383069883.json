@@ -1,0 +1,122 @@
+{
+ "id": 383069883,
+ "name": "T3 Ranger Arms",
+ "internalName": "Armor_T3_Ranger_Archer_DPS_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/383069883.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These leather gloves are adorned with metal which protects the wearer's knuckles.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-ranger-arms.md",
+  "json": "objects/equipment/t3-ranger-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Ranged Damage",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Ranged  Foes",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2562872979,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-ranger-arms-383069883.md"
+}

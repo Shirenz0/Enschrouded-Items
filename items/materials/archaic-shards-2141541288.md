@@ -25,4 +25,4 @@ Ancient Land, Ancient Guardians
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](archaic-shards-2141541288.json)

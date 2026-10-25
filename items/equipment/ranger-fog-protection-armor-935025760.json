@@ -1,0 +1,112 @@
+{
+ "id": 935025760,
+ "name": "Ranger Fog Protection Armor",
+ "internalName": "Armor_T3_Ranger_FogProtection_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/935025760.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hastely put together from fell monster parts. Offers extended protection against the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/ranger-fog-protection-armor.md",
+  "json": "objects/equipment/ranger-fog-protection-armor.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fog Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1845366438,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 409810488,
+      "name": "Acidic Shroud",
+      "page": "items/materials/acidic-shroud-409810488.md",
+      "json": "items/materials/acidic-shroud-409810488.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/ranger-fog-protection-armor-935025760.md"
+}

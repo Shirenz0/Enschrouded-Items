@@ -17,4 +17,4 @@ A fossilized tooth that has stood the test of time. The tip has dulled through t
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](dull-shark-tooth-3320435774.json)

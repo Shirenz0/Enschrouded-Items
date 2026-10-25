@@ -17,4 +17,4 @@ In old times, these gloves were worn by the wisest scholars of the kingdom.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-healer-arms.json)

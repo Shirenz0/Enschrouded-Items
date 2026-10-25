@@ -1,0 +1,35 @@
+{
+ "name": "Scout Gloves",
+ "category": "Equipment",
+ "image": "images/icons/1972419518.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1155497204,
+   "name": "Scout Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1155497204.png",
+   "page": "items/equipment/scout-gloves-1155497204.md",
+   "json": "items/equipment/scout-gloves-1155497204.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1972419518,
+   "name": "Scout Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1972419518.png",
+   "page": "items/equipment/scout-gloves-1972419518.md",
+   "json": "items/equipment/scout-gloves-1972419518.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/scout-gloves.md"
+}

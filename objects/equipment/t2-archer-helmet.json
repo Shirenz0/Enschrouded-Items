@@ -1,0 +1,35 @@
+{
+ "name": "T2 Archer Helmet",
+ "category": "Equipment",
+ "image": "images/icons/3351665828.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2933533544,
+   "name": "T2 Archer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2933533544.png",
+   "page": "items/equipment/t2-archer-helmet-2933533544.md",
+   "json": "items/equipment/t2-archer-helmet-2933533544.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3351665828,
+   "name": "T2 Archer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3351665828.png",
+   "page": "items/equipment/t2-archer-helmet-3351665828.md",
+   "json": "items/equipment/t2-archer-helmet-3351665828.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-archer-helmet.md"
+}

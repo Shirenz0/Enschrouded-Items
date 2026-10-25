@@ -1,0 +1,66 @@
+{
+ "id": 213584320,
+ "name": "Epic Sword",
+ "internalName": "Weapon_T2_1H_SwordEpic_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/213584320.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Every swing is true and just.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "page": "items/weapons/epic-sword-213584320.md"
+}

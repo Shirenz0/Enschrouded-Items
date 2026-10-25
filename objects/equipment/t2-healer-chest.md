@@ -17,4 +17,4 @@ A breathable tunic with ample space for storing bandages, herbs, and tissues.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-healer-chest.json)

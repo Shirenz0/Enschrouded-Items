@@ -27,4 +27,4 @@ Sturdy boots for gathering wood. They're lined with fur, ideal for the summits.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](lumberer-boots-1498407362.json)

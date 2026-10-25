@@ -29,4 +29,4 @@ A basic simple fishing rod made out of the simplest ingredients. it still allows
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](simple-fishing-rod-425570534.json)

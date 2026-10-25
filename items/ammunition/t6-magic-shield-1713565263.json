@@ -1,0 +1,90 @@
+{
+ "id": 1713565263,
+ "name": "T6 Magic Shield",
+ "internalName": "Ammo_T6_Spell_MagicShield_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 500,
+ "image": "images/icons/1713565263.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Create a magical barrier that protects from projectiles and reduces melee damage taken.\n\nThe shield fades when its health are depleted or after 15 seconds.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 260,
+    "display": "260",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 4000,
+    "display": "4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Shield Strength",
+    "value": 1200,
+    "display": "1,200",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 45000,
+    "display": "45 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4117084889,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3845850476,
+      "name": "Placeholder: Greater Fell Heart",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 3486560156,
+      "name": "Placeholder: Pink Mushroom Meat",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t6-magic-shield-1713565263.md"
+}

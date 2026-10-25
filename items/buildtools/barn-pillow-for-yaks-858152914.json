@@ -1,0 +1,61 @@
+{
+ "id": 858152914,
+ "name": "Barn Pillow for Yaks",
+ "internalName": "Animal_Farm_Housing_Sleeping_Bed_YAK_Sanddigger",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/858152914.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A cosy bed  for tamed Yaky.",
+ "lore": "Furniture",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 785107990,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/barn-pillow-for-yaks-858152914.md"
+}

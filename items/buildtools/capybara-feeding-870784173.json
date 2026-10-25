@@ -1,0 +1,52 @@
+{
+ "id": 870784173,
+ "name": "Capybara Feeding",
+ "internalName": "Material_T6_Capybara_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/870784173.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Capybara feeding desc",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2057390840,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1026141130,
+      "name": "Paper Reed",
+      "page": "items/materials/paper-reed-1026141130.md",
+      "json": "items/materials/paper-reed-1026141130.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 806123624,
+      "name": "Algae",
+      "page": "items/consumables/algae-806123624.md",
+      "json": "items/consumables/algae-806123624.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/capybara-feeding-870784173.md"
+}

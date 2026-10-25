@@ -1,0 +1,35 @@
+{
+ "name": "T4 Tank Chest",
+ "category": "Equipment",
+ "image": "images/icons/403577806.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2382917560,
+   "name": "T4 Tank Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2382917560.png",
+   "page": "items/equipment/t4-tank-chest-2382917560.md",
+   "json": "items/equipment/t4-tank-chest-2382917560.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 403577806,
+   "name": "T4 Tank Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/403577806.png",
+   "page": "items/equipment/t4-tank-chest-403577806.md",
+   "json": "items/equipment/t4-tank-chest-403577806.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-tank-chest.md"
+}

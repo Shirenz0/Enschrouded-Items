@@ -1,0 +1,29 @@
+{
+ "id": 216358741,
+ "name": "Male Collar 01",
+ "internalName": "VC_Body_Collar_Female_05_elder",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/male-collar-01.md",
+  "json": "objects/customization/male-collar-01.json",
+  "versions": 4
+ },
+ "page": "items/customization/male-collar-01-216358741.md"
+}

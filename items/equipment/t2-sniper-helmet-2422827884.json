@@ -1,0 +1,71 @@
+{
+ "id": 2422827884,
+ "name": "T2 Sniper Helmet",
+ "internalName": "Armor_T2_Ranger_Sniper_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/2422827884.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An archer's hood. The leather trim provides additional protection and camouflages the wearer between the trees.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-sniper-helmet.md",
+  "json": "objects/equipment/t2-sniper-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Skillshot Damage",
+    "value": 13,
+    "display": "13",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Sniper",
+   "effect": "Increases the skill level of Sniper by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+6 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Sniper",
+   "effect": "Increases the skill level of Sniper by +1"
+  }
+ ],
+ "page": "items/equipment/t2-sniper-helmet-2422827884.md"
+}

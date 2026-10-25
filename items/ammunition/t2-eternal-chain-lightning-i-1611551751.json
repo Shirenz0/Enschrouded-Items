@@ -1,0 +1,99 @@
+{
+ "id": 1611551751,
+ "name": "T2 Eternal Chain Lightning I",
+ "internalName": "Ammo_T2_Spell_Lightning_Chain_lvl10_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1611551751.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal Chain Lightning desc.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 70,
+    "display": "70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1200,
+    "display": "1.2 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 5,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4256123908,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 40,
+     "item": {
+      "id": 1048548069,
+      "name": "T2 Chain Lightning I",
+      "page": "items/ammunition/t2-chain-lightning-i-1048548069.md",
+      "json": "items/ammunition/t2-chain-lightning-i-1048548069.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t2-eternal-chain-lightning-i-1611551751.md"
+}

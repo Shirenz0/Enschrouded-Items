@@ -1,0 +1,25 @@
+{
+ "id": 33917198,
+ "name": "Wig Head",
+ "internalName": "Prop_NPC_barber_hairstyle_dummy_wigHead_00_empty",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5,
+ "image": "images/icons/33917198.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wig head that unlocks more haircuts.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/wig-head-33917198.md"
+}

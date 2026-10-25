@@ -1,0 +1,52 @@
+{
+ "id": 3622239347,
+ "name": "Pumpkin Seedling",
+ "internalName": "T5_Seedling_Pumpkin_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3622239347.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1088505648,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4234426543,
+      "name": "Pumpkin",
+      "page": "items/consumables/pumpkin-4234426543.md",
+      "json": "items/consumables/pumpkin-4234426543.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 260133819,
+      "name": "Fertilised Farm Soil",
+      "page": "items/materials/fertilised-farm-soil-260133819.md",
+      "json": "items/materials/fertilised-farm-soil-260133819.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/pumpkin-seedling-3622239347.md"
+}

@@ -1,0 +1,99 @@
+{
+ "id": 3960177886,
+ "name": "T6 Ice Totem II",
+ "internalName": "Ammo_T6_Spell_Ice_Totem_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 500,
+ "image": "images/icons/3960177886.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a totem that slows nearby enemies and deals ice damage. \nMaximum amount of summoned totems is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 58,
+    "display": "58",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 699,
+    "display": "0.699 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 10000,
+    "display": "10 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 5000,
+    "display": "5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3338252782,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1898288525,
+      "name": "Mother-Of-Pearl",
+      "page": "items/materials/mother-of-pearl-1898288525.md",
+      "json": "items/materials/mother-of-pearl-1898288525.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t6-ice-totem-ii-3960177886.md"
+}

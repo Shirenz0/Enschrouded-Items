@@ -1,0 +1,41 @@
+{
+ "id": 697993352,
+ "name": "Gem of Bleeding",
+ "internalName": "T1_Gem_GemOfBleeding",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/697993352.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Critical hits with cut damage applies  bleeding on the enemy, that deals %k per second for %k",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Cutting damage per second",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 6000,
+    "display": "6 s",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-bleeding-697993352.md"
+}

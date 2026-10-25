@@ -1,0 +1,25 @@
+{
+ "id": 3773857537,
+ "name": "Sea Urchin Cluster",
+ "internalName": "Collection_fossils_05_urchins_urchin_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3773857537.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A strange cluster of sea urchins.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/sea-urchin-cluster-3773857537.md"
+}

@@ -1,0 +1,48 @@
+{
+ "name": "Tree Seedling",
+ "category": "BuildTools",
+ "image": "images/icons/688553119.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore",
+  "where to find"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 191874528,
+   "name": "Tree Seedling",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/191874528.png",
+   "page": "items/buildtools/tree-seedling-191874528.md",
+   "json": "items/buildtools/tree-seedling-191874528.json",
+   "maxStack": 100,
+   "ownTexts": []
+  },
+  {
+   "id": 3087012652,
+   "name": "Tree Seedling",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3087012652.png",
+   "page": "items/buildtools/tree-seedling-3087012652.md",
+   "json": "items/buildtools/tree-seedling-3087012652.json",
+   "maxStack": 100,
+   "ownTexts": []
+  },
+  {
+   "id": 688553119,
+   "name": "Tree Seedling",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/688553119.png",
+   "page": "items/buildtools/tree-seedling-688553119.md",
+   "json": "items/buildtools/tree-seedling-688553119.json",
+   "maxStack": 100,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/tree-seedling.md"
+}

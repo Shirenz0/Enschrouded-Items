@@ -1,0 +1,114 @@
+{
+ "id": 1930450533,
+ "name": "Basalt Farm Soil",
+ "internalName": "Build_TerrainMaterial_T7_Farmsoil_Basalt",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/1930450533.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The added basalt dust make this farm soil extra nutrious, which is needed for ancient land plants (and maybe increases growth speed of other plants too tbd)",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3485858611,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 260133819,
+      "name": "Fertilised Farm Soil",
+      "page": "items/materials/fertilised-farm-soil-260133819.md",
+      "json": "items/materials/fertilised-farm-soil-260133819.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 284304129,
+      "name": "Basalt Dust",
+      "page": "items/materials/basalt-dust-284304129.md",
+      "json": "items/materials/basalt-dust-284304129.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3397770029,
+   "name": "Ancient \"Artichoke\" Seedling",
+   "page": "items/buildtools/ancient-artichoke-seedling-3397770029.md",
+   "json": "items/buildtools/ancient-artichoke-seedling-3397770029.json"
+  },
+  {
+   "id": 3166342350,
+   "name": "Ancient \"Pomegranate\" Seedling",
+   "page": "items/buildtools/ancient-pomegranate-seedling-3166342350.md",
+   "json": "items/buildtools/ancient-pomegranate-seedling-3166342350.json"
+  },
+  {
+   "id": 3415410466,
+   "name": "Thyme Seedling",
+   "page": "items/buildtools/thyme-seedling-3415410466.md",
+   "json": "items/buildtools/thyme-seedling-3415410466.json"
+  },
+  {
+   "id": 2816539508,
+   "name": "Ancient \"Bean\" Seedling",
+   "page": "items/buildtools/ancient-bean-seedling-2816539508.md",
+   "json": "items/buildtools/ancient-bean-seedling-2816539508.json"
+  },
+  {
+   "id": 954995911,
+   "name": "Ancient \"Cabbage\" Seedling",
+   "page": "items/buildtools/ancient-cabbage-seedling-954995911.md",
+   "json": "items/buildtools/ancient-cabbage-seedling-954995911.json"
+  },
+  {
+   "id": 1020559529,
+   "name": "Large Bloomheart Fruit Flower Pot I",
+   "page": "items/buildtools/large-bloomheart-fruit-flower-pot-i-1020559529.md",
+   "json": "items/buildtools/large-bloomheart-fruit-flower-pot-i-1020559529.json"
+  },
+  {
+   "id": 768813484,
+   "name": "Large Bloomheart Fruit Flower Pot II",
+   "page": "items/buildtools/large-bloomheart-fruit-flower-pot-ii-768813484.md",
+   "json": "items/buildtools/large-bloomheart-fruit-flower-pot-ii-768813484.json"
+  },
+  {
+   "id": 3415299643,
+   "name": "Large Grandleaf Cabbage Plant Pot",
+   "page": "items/buildtools/large-grandleaf-cabbage-plant-pot-3415299643.md",
+   "json": "items/buildtools/large-grandleaf-cabbage-plant-pot-3415299643.json"
+  },
+  {
+   "id": 197885818,
+   "name": "Small Prickle Pearl Plant Pot",
+   "page": "items/buildtools/small-prickle-pearl-plant-pot-197885818.md",
+   "json": "items/buildtools/small-prickle-pearl-plant-pot-197885818.json"
+  },
+  {
+   "id": 2001581152,
+   "name": "Small Aurora Beans Plant Pot",
+   "page": "items/buildtools/small-aurora-beans-plant-pot-2001581152.md",
+   "json": "items/buildtools/small-aurora-beans-plant-pot-2001581152.json"
+  }
+ ],
+ "page": "items/materials/basalt-farm-soil-1930450533.md"
+}

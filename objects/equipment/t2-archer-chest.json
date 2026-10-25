@@ -1,0 +1,35 @@
+{
+ "name": "T2 Archer Chest",
+ "category": "Equipment",
+ "image": "images/icons/246760110.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1543470770,
+   "name": "T2 Archer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1543470770.png",
+   "page": "items/equipment/t2-archer-chest-1543470770.md",
+   "json": "items/equipment/t2-archer-chest-1543470770.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 246760110,
+   "name": "T2 Archer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/246760110.png",
+   "page": "items/equipment/t2-archer-chest-246760110.md",
+   "json": "items/equipment/t2-archer-chest-246760110.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-archer-chest.md"
+}

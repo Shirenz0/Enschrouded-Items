@@ -1,0 +1,109 @@
+{
+ "id": 870935206,
+ "name": "Riptide",
+ "internalName": "Craft_Shield_T3_Lore_ShieldEpic_Ministory_17",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 16,
+  "max": 16
+ },
+ "maxStack": 1,
+ "image": "images/icons/870935206.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/riptide.md",
+  "json": "objects/equipment/riptide.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Poison Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Heavy Handed",
+   "effect": "Increases the skill level of Heavy Handed by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Bash",
+   "effect": "Increases the skill level of Bash by +1"
+  },
+  {
+   "order": 4,
+   "name": "Pierce Resistance",
+   "effect": "+5 Pierce Resistance"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1554035816,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2027586500,
+      "name": "Ammoniak Gland",
+      "page": "items/materials/ammoniak-gland-2027586500.md",
+      "json": "items/materials/ammoniak-gland-2027586500.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/riptide-870935206.md"
+}

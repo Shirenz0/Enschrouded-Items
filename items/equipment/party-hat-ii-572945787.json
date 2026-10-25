@@ -1,0 +1,55 @@
+{
+ "id": 572945787,
+ "name": "Party Hat II",
+ "internalName": "Vanity_TX_PartyHat_02_Tint_WIP",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/572945787.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Party Hat Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head"
+ },
+ "recipes": [
+  {
+   "recipeId": 276180732,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3522105835,
+      "name": "T5 Material Violet Fabric",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/party-hat-ii-572945787.md"
+}

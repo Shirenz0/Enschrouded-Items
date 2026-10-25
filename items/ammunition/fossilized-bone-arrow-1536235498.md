@@ -32,4 +32,4 @@ Crafting, Huntress
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](fossilized-bone-arrow-1536235498.json)

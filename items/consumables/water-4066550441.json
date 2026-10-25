@@ -1,0 +1,47 @@
+{
+ "id": 4066550441,
+ "name": "Water",
+ "internalName": "Food_T1_raw_hydration_Water_Pouch_Filled_DEPRECATED",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/4066550441.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A refreshing bottle of water that helps to user recharge his power! Stay hydrated.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 900000,
+    "display": "15:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/water-4066550441.md"
+}

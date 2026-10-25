@@ -1,0 +1,25 @@
+{
+ "id": 4043331491,
+ "name": "Lore Text Open Book",
+ "internalName": "8kLoreText_OpenBook_Item",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4043331491.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/lore-text-open-book-4043331491.md"
+}

@@ -1,0 +1,77 @@
+{
+ "id": 1050570715,
+ "name": "Poisoned Golden Steel Arrow",
+ "internalName": "Ammo_T6_Arrow_Steel_Gold_Poison_lvl44",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 44,
+  "max": 44
+ },
+ "maxStack": 500,
+ "image": "images/icons/1050570715.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A poisoned steel tipped arrow embellished with gold.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 50,
+   "Poison": 50
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 1953088697,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 3634108976,
+      "name": "Golden Steel Arrow",
+      "page": "items/ammunition/golden-steel-arrow-3634108976.md",
+      "json": "items/ammunition/golden-steel-arrow-3634108976.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4288816568,
+      "name": "Placeholder: Improved Variant Of Poison Sack",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1897605064,
+      "name": "Daylily Flower",
+      "page": "items/materials/daylily-flower-1897605064.md",
+      "json": "items/materials/daylily-flower-1897605064.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2632607216,
+      "name": "Poison Sting",
+      "page": "items/materials/poison-sting-2632607216.md",
+      "json": "items/materials/poison-sting-2632607216.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/poisoned-golden-steel-arrow-1050570715.md"
+}

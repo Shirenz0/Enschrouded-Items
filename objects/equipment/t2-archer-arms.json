@@ -1,0 +1,35 @@
+{
+ "name": "T2 Archer Arms",
+ "category": "Equipment",
+ "image": "images/icons/3232965601.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2683908044,
+   "name": "T2 Archer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2683908044.png",
+   "page": "items/equipment/t2-archer-arms-2683908044.md",
+   "json": "items/equipment/t2-archer-arms-2683908044.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3232965601,
+   "name": "T2 Archer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3232965601.png",
+   "page": "items/equipment/t2-archer-arms-3232965601.md",
+   "json": "items/equipment/t2-archer-arms-3232965601.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-archer-arms.md"
+}

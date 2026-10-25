@@ -1,0 +1,133 @@
+{
+ "id": 4192516670,
+ "name": "Cryptic wand",
+ "internalName": "Craft_Weapon_T4_1H_Lore_WandEpic_Ministory_09_Lightning",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 21,
+  "max": 21
+ },
+ "maxStack": 1,
+ "image": "images/icons/4192516670.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/cryptic-wand.md",
+  "json": "objects/weapons/cryptic-wand.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 19,
+    "display": "19",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Mana Leech",
+   "effect": "+6 Mana Leech"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 5,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 325497326,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/cryptic-wand-4192516670.md"
+}

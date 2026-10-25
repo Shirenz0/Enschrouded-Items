@@ -1,0 +1,77 @@
+{
+ "id": 2613010861,
+ "name": "T3 Ranger Chest",
+ "internalName": "Armor_T3_Ranger_Archer_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2613010861.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Taking down even big predators or prey is far easier with this finely made hunter's armor.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-ranger-chest.md",
+  "json": "objects/equipment/t3-ranger-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 90,
+    "display": "90",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Vitality Surge",
+   "effect": "Increases the skill level of Vitality Surge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Ranger",
+   "effect": "Increases the skill level of Ranger by +1"
+  }
+ ],
+ "page": "items/equipment/t3-ranger-chest-2613010861.md"
+}

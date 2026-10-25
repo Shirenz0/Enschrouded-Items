@@ -27,4 +27,4 @@ A severed Scavenger Desert Heavy Head. Collect multiple to craft the golden trop
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-scavenger-desert-heavy-trophy-2276260824.json)

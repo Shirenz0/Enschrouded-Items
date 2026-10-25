@@ -1,0 +1,51 @@
+{
+ "id": 2587516407,
+ "name": "T6 Shelllime Wall Block Pirate Bay",
+ "internalName": "Block_T6_Stone_Shelllime_PirateBay_wall_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2587516407.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Shelllime Wall Block Pirate Bay description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 389634471,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2541182637,
+   "name": "Secret Shell Limestone Door",
+   "page": "items/buildtools/secret-shell-limestone-door-2541182637.md",
+   "json": "items/buildtools/secret-shell-limestone-door-2541182637.json"
+  }
+ ],
+ "page": "items/buildtools/t6-shelllime-wall-block-pirate-bay-2587516407.md"
+}

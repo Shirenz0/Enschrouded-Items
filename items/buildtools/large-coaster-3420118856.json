@@ -1,0 +1,43 @@
+{
+ "id": 3420118856,
+ "name": "Large Coaster",
+ "internalName": "Prop_Collection_Food_Plate_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3420118856.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wooden plate to display foods and drinks on a table.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3139474882,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/large-coaster-3420118856.md"
+}

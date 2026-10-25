@@ -1,0 +1,75 @@
+{
+ "id": 1234854024,
+ "name": "Gemini Ring",
+ "internalName": "Ring_T1_ministory_05",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/1234854024.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A delicate ring with a gemini symbol inside. It quivers with hate under the moonlight.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Fogger",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Backstab Mastery",
+   "effect": "Increases the skill level of Backstab Mastery by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "+3 Health Leech"
+  },
+  {
+   "order": 5,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "page": "items/equipment/gemini-ring-1234854024.md"
+}

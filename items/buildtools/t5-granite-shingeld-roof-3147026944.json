@@ -1,0 +1,43 @@
+{
+ "id": 3147026944,
+ "name": "T5 Granite Shingeld Roof",
+ "internalName": "Block_Roof_T5_Granite_Shingles",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3147026944.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T5 Granite Shingled  Roof desc",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 615784943,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/t5-granite-shingeld-roof-3147026944.md"
+}

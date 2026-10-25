@@ -29,4 +29,4 @@ Crafting, Alchemist
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](small-windmill-2961306312.json)

@@ -25,4 +25,4 @@ A wig head that unlocks more haircuts.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](cowlick-wig-head-1641258379.json)

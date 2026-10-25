@@ -1,0 +1,41 @@
+{
+ "id": 1378756449,
+ "name": "Gem of Swiftness",
+ "internalName": "T2_Gem_GemOfSwiftness",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/1378756449.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "After sprinting for a short time your attacks deal %k bonus cut damage for %k. The duration refreshes everytime you deal damage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Additional Weapon Cut Damage",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Buff Duration",
+    "value": 5000,
+    "display": "5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-swiftness-1378756449.md"
+}

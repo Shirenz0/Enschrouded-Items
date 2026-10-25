@@ -31,4 +31,4 @@ A severed Ancient Construct: Heavy Head. Collect multiple to craft the iron trop
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-ancient-construct-heavy-trophy-1753788725.json)

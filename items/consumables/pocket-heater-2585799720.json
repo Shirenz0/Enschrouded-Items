@@ -1,0 +1,71 @@
+{
+ "id": 2585799720,
+ "name": "Pocket Heater",
+ "internalName": "Consumable_FreezeResistance_T5",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2585799720.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "After Ignition the Leather limits the amount of air, causing the coal to burn slowly at a low temperature.",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Cold Resistance",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 934178881,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/pocket-heater-2585799720.md"
+}

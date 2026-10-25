@@ -1,0 +1,35 @@
+{
+ "name": "T4 Healer Boots",
+ "category": "Equipment",
+ "image": "images/icons/902782975.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3615964892,
+   "name": "T4 Healer Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3615964892.png",
+   "page": "items/equipment/t4-healer-boots-3615964892.md",
+   "json": "items/equipment/t4-healer-boots-3615964892.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 902782975,
+   "name": "T4 Healer Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/902782975.png",
+   "page": "items/equipment/t4-healer-boots-902782975.md",
+   "json": "items/equipment/t4-healer-boots-902782975.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-healer-boots.md"
+}

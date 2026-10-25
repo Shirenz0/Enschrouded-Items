@@ -25,4 +25,4 @@ Vanity  Outfit Sheep  gloves  Desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-outfit-sheep-gloves-302659874.json)

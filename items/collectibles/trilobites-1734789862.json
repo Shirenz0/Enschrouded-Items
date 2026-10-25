@@ -1,0 +1,25 @@
+{
+ "id": 1734789862,
+ "name": "Trilobites",
+ "internalName": "Collection_fossils_02_Trilobites_trilobite_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1734789862.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Multiple ancient trilobites, perfectly still and preserved in a petrified coat of sediment.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/trilobites-1734789862.md"
+}

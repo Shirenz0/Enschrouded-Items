@@ -17,4 +17,4 @@ These comfortable and plain pants are perfect for apprentice mages looking to ga
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-mage-legs.json)

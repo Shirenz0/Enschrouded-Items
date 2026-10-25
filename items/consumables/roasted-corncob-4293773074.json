@@ -1,0 +1,59 @@
+{
+ "id": 4293773074,
+ "name": "Roasted Corncob",
+ "internalName": "Food_T1_processed_grain_Grilled_Corncob",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4293773074.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Roasted with a smoky aroma it’s a real pleasure for the taste buds, able to set free all of its strengthening attributes.",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 1200000,
+    "display": "20:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2187125707,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3118804138,
+      "name": "Corncob",
+      "page": "items/consumables/corncob-3118804138.md",
+      "json": "items/consumables/corncob-3118804138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/roasted-corncob-4293773074.md"
+}

@@ -34,4 +34,4 @@ Crafting, Collector
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t4-bone-channel-iii-3014702000.json)

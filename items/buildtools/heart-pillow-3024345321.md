@@ -33,4 +33,4 @@ Heart Pillow description
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](heart-pillow-3024345321.json)

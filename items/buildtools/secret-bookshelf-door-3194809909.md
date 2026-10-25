@@ -21,4 +21,4 @@ A fake secret you can install in your base to confuse others.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](secret-bookshelf-door-3194809909.json)

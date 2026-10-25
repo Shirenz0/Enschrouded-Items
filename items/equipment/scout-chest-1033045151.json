@@ -1,0 +1,71 @@
+{
+ "id": 1033045151,
+ "name": "Scout Chest",
+ "internalName": "Armor_T1_Ranger_Archer_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/1033045151.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A simple light chest piece to compliment the rest of the armor.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/scout-chest.md",
+  "json": "objects/equipment/scout-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Vitality Surge",
+   "effect": "Increases the skill level of Vitality Surge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+4 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Ranger",
+   "effect": "Increases the skill level of Ranger by +1"
+  }
+ ],
+ "page": "items/equipment/scout-chest-1033045151.md"
+}

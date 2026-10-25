@@ -28,4 +28,4 @@ This Grappling Hook also works under water
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](underwater-grappling-hook-3326121147.json)

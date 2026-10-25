@@ -22,4 +22,4 @@ A shield that was washed into a grotto by the river. Must have belonged to a val
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](riptide.json)

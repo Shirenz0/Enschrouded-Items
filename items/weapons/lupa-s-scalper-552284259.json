@@ -1,0 +1,106 @@
+{
+ "id": 552284259,
+ "name": "Lupa's scalper",
+ "internalName": "Craft_Weapon_T5_2H_Lore_DaggersEpic_DPS_hunter_hint04",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 26,
+  "max": 26
+ },
+ "maxStack": 1,
+ "image": "images/icons/552284259.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "\"A Shadow over Umber Hollow -Lupa\" is etched on the side.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/lupa-s-scalper.md",
+  "json": "objects/weapons/lupa-s-scalper.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 400,
+    "display": "0.4 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+8 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Vicious",
+   "effect": "+20 Vicious"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1436015527,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1752294708,
+      "name": "T5 Hardened Leather",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/lupa-s-scalper-552284259.md"
+}

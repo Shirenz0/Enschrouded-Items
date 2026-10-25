@@ -1,0 +1,75 @@
+{
+ "id": 3581489769,
+ "name": "Shroud Relic",
+ "internalName": "Material_T6_Fog_Essence03_ShroudRelic",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/3581489769.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A higher concentration of shroud compared to shroud particles.",
+ "lore": null,
+ "whereToFind": "Fell Enemies, First: Veilwater Basin Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3326121147,
+   "name": "Underwater Grappling Hook",
+   "page": "items/tools/underwater-grappling-hook-3326121147.md",
+   "json": "items/tools/underwater-grappling-hook-3326121147.json"
+  },
+  {
+   "id": 2753909436,
+   "name": "T7 Eternal Heal Beam Channel II",
+   "page": "items/ammunition/t7-eternal-heal-beam-channel-ii-2753909436.md",
+   "json": "items/ammunition/t7-eternal-heal-beam-channel-ii-2753909436.json"
+  },
+  {
+   "id": 1209734633,
+   "name": "T7 Eternal Shock Wisp",
+   "page": "items/ammunition/t7-eternal-shock-wisp-1209734633.md",
+   "json": "items/ammunition/t7-eternal-shock-wisp-1209734633.json"
+  },
+  {
+   "id": 803538053,
+   "name": "T7 Eternal Shroud Beam Channel",
+   "page": "items/ammunition/t7-eternal-shroud-beam-channel-803538053.md",
+   "json": "items/ammunition/t7-eternal-shroud-beam-channel-803538053.json"
+  },
+  {
+   "id": 1835123088,
+   "name": "T7 Eternal Shroud Meteor",
+   "page": "items/ammunition/t7-eternal-shroud-meteor-1835123088.md",
+   "json": "items/ammunition/t7-eternal-shroud-meteor-1835123088.json"
+  },
+  {
+   "id": 3494273287,
+   "name": "Gold In The Water",
+   "page": "items/colorpalette/gold-in-the-water-3494273287.md",
+   "json": "items/colorpalette/gold-in-the-water-3494273287.json"
+  },
+  {
+   "id": 855563189,
+   "name": "Fell Fashion",
+   "page": "items/colorpalette/fell-fashion-855563189.md",
+   "json": "items/colorpalette/fell-fashion-855563189.json"
+  },
+  {
+   "id": 853884133,
+   "name": "Shroud Eminence",
+   "page": "items/materials/shroud-eminence-853884133.md",
+   "json": "items/materials/shroud-eminence-853884133.json"
+  }
+ ],
+ "page": "items/materials/shroud-relic-3581489769.md"
+}

@@ -1,0 +1,70 @@
+{
+ "id": 1860080518,
+ "name": "From Dusk Till Dawn",
+ "internalName": "ColorPalette_T6_ColorPalette_04",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1860080518.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Through the dark night until the dawn arrives and drapes te sky in hues of gold-ish yellow and red. This color combination sure would also look great on a flag! This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3878672009,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/from-dusk-till-dawn-1860080518.md"
+}

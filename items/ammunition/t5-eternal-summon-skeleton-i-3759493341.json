@@ -1,0 +1,106 @@
+{
+ "id": 3759493341,
+ "name": "T5 Eternal Summon Skeleton I",
+ "internalName": "Ammo_T5_Spell_Skeleton_lvl28_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 28,
+  "max": 28
+ },
+ "maxStack": 1,
+ "image": "images/icons/3759493341.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a Skeleton that attacks enemies. \nMaximum limit of summoned Skeletons is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Cutting": 50,
+   "Ice": 50
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 203,
+    "display": "203",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 80000,
+    "display": "1:20 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 5,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4011487061,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 60,
+     "item": {
+      "id": 3236482539,
+      "name": "T4 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2956062198,
+      "name": "Giant bones",
+      "page": "items/materials/giant-bones-2956062198.md",
+      "json": "items/materials/giant-bones-2956062198.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t5-eternal-summon-skeleton-i-3759493341.md"
+}

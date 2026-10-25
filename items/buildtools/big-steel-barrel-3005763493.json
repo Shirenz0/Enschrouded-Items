@@ -1,0 +1,52 @@
+{
+ "id": 3005763493,
+ "name": "Big Steel Barrel",
+ "internalName": "Prop_Decoration_T5_Barrel_Steel_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3005763493.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1845292821,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-steel-barrel-3005763493.md"
+}

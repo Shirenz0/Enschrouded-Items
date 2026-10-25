@@ -1,0 +1,79 @@
+{
+ "id": 3549560668,
+ "name": "Snowpal Dad",
+ "internalName": "Prop_Decoration_T5_WinterProps_Snowman01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3549560668.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A nice figure made from snow",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2823599644,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2541805223,
+      "name": "T5 Snow",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3542827745,
+      "name": "Forest Beet",
+      "page": "items/consumables/forest-beet-3542827745.md",
+      "json": "items/consumables/forest-beet-3542827745.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/snowpal-dad-3549560668.md"
+}

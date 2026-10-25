@@ -1,0 +1,537 @@
+{
+ "id": 2572858337,
+ "name": "T6 Material Gold Coins",
+ "internalName": "Build_TerrainMaterial_T6_Wetlands_Gold_Coins",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2572858337.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 material gold coins description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1476723348,
+   "name": "Lucky Fishing Rod",
+   "page": "items/buildtools/lucky-fishing-rod-1476723348.md",
+   "json": "items/buildtools/lucky-fishing-rod-1476723348.json"
+  },
+  {
+   "id": 2943277884,
+   "name": "Excellent Fishing Rod",
+   "page": "items/buildtools/excellent-fishing-rod-2943277884.md",
+   "json": "items/buildtools/excellent-fishing-rod-2943277884.json"
+  },
+  {
+   "id": 663961575,
+   "name": "Fish Cutlet",
+   "page": "items/consumables/fish-cutlet-663961575.md",
+   "json": "items/consumables/fish-cutlet-663961575.json"
+  },
+  {
+   "id": 576061222,
+   "name": "Fish Filet",
+   "page": "items/consumables/fish-filet-576061222.md",
+   "json": "items/consumables/fish-filet-576061222.json"
+  },
+  {
+   "id": 4208954912,
+   "name": "Black Coffee",
+   "page": "items/consumables/black-coffee-4208954912.md",
+   "json": "items/consumables/black-coffee-4208954912.json"
+  },
+  {
+   "id": 2652246715,
+   "name": "Latte/Milk coffee",
+   "page": "items/consumables/latte-milk-coffee-2652246715.md",
+   "json": "items/consumables/latte-milk-coffee-2652246715.json"
+  },
+  {
+   "id": 623430551,
+   "name": "Mokka",
+   "page": "items/consumables/mokka-623430551.md",
+   "json": "items/consumables/mokka-623430551.json"
+  },
+  {
+   "id": 471470231,
+   "name": "Epic Fishing Bait I",
+   "page": "items/ammunition/epic-fishing-bait-i-471470231.md",
+   "json": "items/ammunition/epic-fishing-bait-i-471470231.json"
+  },
+  {
+   "id": 3765704048,
+   "name": "Epic Fishing Bait II",
+   "page": "items/ammunition/epic-fishing-bait-ii-3765704048.md",
+   "json": "items/ammunition/epic-fishing-bait-ii-3765704048.json"
+  },
+  {
+   "id": 1313427371,
+   "name": "Rare Bait",
+   "page": "items/ammunition/rare-bait-1313427371.md",
+   "json": "items/ammunition/rare-bait-1313427371.json"
+  },
+  {
+   "id": 2520666169,
+   "name": "Uncommon Bait",
+   "page": "items/ammunition/uncommon-bait-2520666169.md",
+   "json": "items/ammunition/uncommon-bait-2520666169.json"
+  },
+  {
+   "id": 1246545941,
+   "name": "Common Bait",
+   "page": "items/ammunition/common-bait-1246545941.md",
+   "json": "items/ammunition/common-bait-1246545941.json"
+  },
+  {
+   "id": 3610183331,
+   "name": "Fish Poison Gland",
+   "page": "items/materials/fish-poison-gland-3610183331.md",
+   "json": "items/materials/fish-poison-gland-3610183331.json"
+  },
+  {
+   "id": 4040557403,
+   "name": "Fish Scales",
+   "page": "items/materials/fish-scales-4040557403.md",
+   "json": "items/materials/fish-scales-4040557403.json"
+  },
+  {
+   "id": 2244383765,
+   "name": "Fish Bones",
+   "page": "items/materials/fish-bones-2244383765.md",
+   "json": "items/materials/fish-bones-2244383765.json"
+  },
+  {
+   "id": 2352305513,
+   "name": "Fish Teeth",
+   "page": "items/materials/fish-teeth-2352305513.md",
+   "json": "items/materials/fish-teeth-2352305513.json"
+  },
+  {
+   "id": 2720721975,
+   "name": "Electric organ",
+   "page": "items/materials/electric-organ-2720721975.md",
+   "json": "items/materials/electric-organ-2720721975.json"
+  },
+  {
+   "id": 2248886360,
+   "name": "Blacksmith Boots",
+   "page": "items/equipment/blacksmith-boots-2248886360.md",
+   "json": "items/equipment/blacksmith-boots-2248886360.json"
+  },
+  {
+   "id": 938566115,
+   "name": "Blacksmith Pants",
+   "page": "items/equipment/blacksmith-pants-938566115.md",
+   "json": "items/equipment/blacksmith-pants-938566115.json"
+  },
+  {
+   "id": 1760668826,
+   "name": "Blacksmith Garb",
+   "page": "items/equipment/blacksmith-garb-1760668826.md",
+   "json": "items/equipment/blacksmith-garb-1760668826.json"
+  },
+  {
+   "id": 3308197043,
+   "name": "Blacksmith Hat",
+   "page": "items/equipment/blacksmith-hat-3308197043.md",
+   "json": "items/equipment/blacksmith-hat-3308197043.json"
+  },
+  {
+   "id": 392289623,
+   "name": "Gravedigger Boots",
+   "page": "items/equipment/gravedigger-boots-392289623.md",
+   "json": "items/equipment/gravedigger-boots-392289623.json"
+  },
+  {
+   "id": 324635127,
+   "name": "Gravedigger Pants",
+   "page": "items/equipment/gravedigger-pants-324635127.md",
+   "json": "items/equipment/gravedigger-pants-324635127.json"
+  },
+  {
+   "id": 3646353094,
+   "name": "Gravedigger Garb",
+   "page": "items/equipment/gravedigger-garb-3646353094.md",
+   "json": "items/equipment/gravedigger-garb-3646353094.json"
+  },
+  {
+   "id": 1467780184,
+   "name": "Gravedigger Hat",
+   "page": "items/equipment/gravedigger-hat-1467780184.md",
+   "json": "items/equipment/gravedigger-hat-1467780184.json"
+  },
+  {
+   "id": 3771575140,
+   "name": "Farmer Boots",
+   "page": "items/equipment/farmer-boots-3771575140.md",
+   "json": "items/equipment/farmer-boots-3771575140.json"
+  },
+  {
+   "id": 3170807453,
+   "name": "Farmer Pants",
+   "page": "items/equipment/farmer-pants-3170807453.md",
+   "json": "items/equipment/farmer-pants-3170807453.json"
+  },
+  {
+   "id": 147255114,
+   "name": "Farmer Garb",
+   "page": "items/equipment/farmer-garb-147255114.md",
+   "json": "items/equipment/farmer-garb-147255114.json"
+  },
+  {
+   "id": 3123715137,
+   "name": "Farmer Hat",
+   "page": "items/equipment/farmer-hat-3123715137.md",
+   "json": "items/equipment/farmer-hat-3123715137.json"
+  },
+  {
+   "id": 1965220207,
+   "name": "Hunter Boots",
+   "page": "items/equipment/hunter-boots-1965220207.md",
+   "json": "items/equipment/hunter-boots-1965220207.json"
+  },
+  {
+   "id": 1059698570,
+   "name": "Hunter Pants",
+   "page": "items/equipment/hunter-pants-1059698570.md",
+   "json": "items/equipment/hunter-pants-1059698570.json"
+  },
+  {
+   "id": 4272107080,
+   "name": "Hunter Garb",
+   "page": "items/equipment/hunter-garb-4272107080.md",
+   "json": "items/equipment/hunter-garb-4272107080.json"
+  },
+  {
+   "id": 769686837,
+   "name": "Hunter Headband",
+   "page": "items/equipment/hunter-headband-769686837.md",
+   "json": "items/equipment/hunter-headband-769686837.json"
+  },
+  {
+   "id": 1498407362,
+   "name": "Lumberer Boots",
+   "page": "items/equipment/lumberer-boots-1498407362.md",
+   "json": "items/equipment/lumberer-boots-1498407362.json"
+  },
+  {
+   "id": 3588454306,
+   "name": "Lumberer Pants",
+   "page": "items/equipment/lumberer-pants-3588454306.md",
+   "json": "items/equipment/lumberer-pants-3588454306.json"
+  },
+  {
+   "id": 1443602914,
+   "name": "Lumberer Gloves",
+   "page": "items/equipment/lumberer-gloves-1443602914.md",
+   "json": "items/equipment/lumberer-gloves-1443602914.json"
+  },
+  {
+   "id": 851178402,
+   "name": "Lumberer Chest",
+   "page": "items/equipment/lumberer-chest-851178402.md",
+   "json": "items/equipment/lumberer-chest-851178402.json"
+  },
+  {
+   "id": 3216732270,
+   "name": "Lumberer Hat",
+   "page": "items/equipment/lumberer-hat-3216732270.md",
+   "json": "items/equipment/lumberer-hat-3216732270.json"
+  },
+  {
+   "id": 3847929949,
+   "name": "Maid/Farmer Garb",
+   "page": "items/equipment/maid-farmer-garb-3847929949.md",
+   "json": "items/equipment/maid-farmer-garb-3847929949.json"
+  },
+  {
+   "id": 3232881227,
+   "name": "Maid Farmer Hat",
+   "page": "items/equipment/maid-farmer-hat-3232881227.md",
+   "json": "items/equipment/maid-farmer-hat-3232881227.json"
+  },
+  {
+   "id": 2717355704,
+   "name": "Maid Garb",
+   "page": "items/equipment/maid-garb-2717355704.md",
+   "json": "items/equipment/maid-garb-2717355704.json"
+  },
+  {
+   "id": 3181929447,
+   "name": "Maid Hat",
+   "page": "items/equipment/maid-hat-3181929447.md",
+   "json": "items/equipment/maid-hat-3181929447.json"
+  },
+  {
+   "id": 2434837386,
+   "name": "T1 noble dress boots",
+   "page": "items/equipment/t1-noble-dress-boots-2434837386.md",
+   "json": "items/equipment/t1-noble-dress-boots-2434837386.json"
+  },
+  {
+   "id": 3224594917,
+   "name": "T1 noble dress legs",
+   "page": "items/equipment/t1-noble-dress-legs-3224594917.md",
+   "json": "items/equipment/t1-noble-dress-legs-3224594917.json"
+  },
+  {
+   "id": 357631245,
+   "name": "T1 noble dress arms",
+   "page": "items/equipment/t1-noble-dress-arms-357631245.md",
+   "json": "items/equipment/t1-noble-dress-arms-357631245.json"
+  },
+  {
+   "id": 3179795171,
+   "name": "T1 noble dress chest",
+   "page": "items/equipment/t1-noble-dress-chest-3179795171.md",
+   "json": "items/equipment/t1-noble-dress-chest-3179795171.json"
+  },
+  {
+   "id": 3948210071,
+   "name": "T1 noble dress crown",
+   "page": "items/equipment/t1-noble-dress-crown-3948210071.md",
+   "json": "items/equipment/t1-noble-dress-crown-3948210071.json"
+  },
+  {
+   "id": 284131825,
+   "name": "T2 royal boots",
+   "page": "items/equipment/t2-royal-boots-284131825.md",
+   "json": "items/equipment/t2-royal-boots-284131825.json"
+  },
+  {
+   "id": 1966514023,
+   "name": "T2 royal legs",
+   "page": "items/equipment/t2-royal-legs-1966514023.md",
+   "json": "items/equipment/t2-royal-legs-1966514023.json"
+  },
+  {
+   "id": 3203382450,
+   "name": "T2 royal arms",
+   "page": "items/equipment/t2-royal-arms-3203382450.md",
+   "json": "items/equipment/t2-royal-arms-3203382450.json"
+  },
+  {
+   "id": 4254847360,
+   "name": "T2 royal chest",
+   "page": "items/equipment/t2-royal-chest-4254847360.md",
+   "json": "items/equipment/t2-royal-chest-4254847360.json"
+  },
+  {
+   "id": 3353610165,
+   "name": "T2 royal crown",
+   "page": "items/equipment/t2-royal-crown-3353610165.md",
+   "json": "items/equipment/t2-royal-crown-3353610165.json"
+  },
+  {
+   "id": 2249070596,
+   "name": "Jezmina's Yearwake Pants",
+   "page": "items/equipment/jezmina-s-yearwake-pants-2249070596.md",
+   "json": "items/equipment/jezmina-s-yearwake-pants-2249070596.json"
+  },
+  {
+   "id": 4187113723,
+   "name": "Jezmina's Yearwake Gloves",
+   "page": "items/equipment/jezmina-s-yearwake-gloves-4187113723.md",
+   "json": "items/equipment/jezmina-s-yearwake-gloves-4187113723.json"
+  },
+  {
+   "id": 1464549788,
+   "name": "Jezmina's Yearwake Helmet",
+   "page": "items/equipment/jezmina-s-yearwake-helmet-1464549788.md",
+   "json": "items/equipment/jezmina-s-yearwake-helmet-1464549788.json"
+  },
+  {
+   "id": 4274321037,
+   "name": "Vanity Haloween2024 Outfit boots",
+   "page": "items/equipment/vanity-haloween2024-outfit-boots-4274321037.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-boots-4274321037.json"
+  },
+  {
+   "id": 1987039042,
+   "name": "Vanity Haloween2024 Outfit leg",
+   "page": "items/equipment/vanity-haloween2024-outfit-leg-1987039042.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-leg-1987039042.json"
+  },
+  {
+   "id": 1651157598,
+   "name": "Vanity Haloween2024 Outfit gloves",
+   "page": "items/equipment/vanity-haloween2024-outfit-gloves-1651157598.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-gloves-1651157598.json"
+  },
+  {
+   "id": 239759878,
+   "name": "Vanity Haloween2024 Outfit chest",
+   "page": "items/equipment/vanity-haloween2024-outfit-chest-239759878.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-chest-239759878.json"
+  },
+  {
+   "id": 1872522625,
+   "name": "Vanity Haloween2024 Outfit Helmet",
+   "page": "items/equipment/vanity-haloween2024-outfit-helmet-1872522625.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-helmet-1872522625.json"
+  },
+  {
+   "id": 3816235332,
+   "name": "Vanity Outfit Sheep boots",
+   "page": "items/equipment/vanity-outfit-sheep-boots-3816235332.md",
+   "json": "items/equipment/vanity-outfit-sheep-boots-3816235332.json"
+  },
+  {
+   "id": 453745299,
+   "name": "Vanity Outfit Sheep legs",
+   "page": "items/equipment/vanity-outfit-sheep-legs-453745299.md",
+   "json": "items/equipment/vanity-outfit-sheep-legs-453745299.json"
+  },
+  {
+   "id": 99678308,
+   "name": "Vanity Outfit Sheep gloves",
+   "page": "items/equipment/vanity-outfit-sheep-gloves-99678308.md",
+   "json": "items/equipment/vanity-outfit-sheep-gloves-99678308.json"
+  },
+  {
+   "id": 2027100358,
+   "name": "Vanity Outfit Sheep chest",
+   "page": "items/equipment/vanity-outfit-sheep-chest-2027100358.md",
+   "json": "items/equipment/vanity-outfit-sheep-chest-2027100358.json"
+  },
+  {
+   "id": 2461388514,
+   "name": "Vanity Outfit Sheep helmet",
+   "page": "items/equipment/vanity-outfit-sheep-helmet-2461388514.md",
+   "json": "items/equipment/vanity-outfit-sheep-helmet-2461388514.json"
+  },
+  {
+   "id": 1827887436,
+   "name": "Beach Attire chest",
+   "page": "items/equipment/beach-attire-chest-1827887436.md",
+   "json": "items/equipment/beach-attire-chest-1827887436.json"
+  },
+  {
+   "id": 2899426271,
+   "name": "Captain's Coat",
+   "page": "items/equipment/captain-s-coat-2899426271.md",
+   "json": "items/equipment/captain-s-coat-2899426271.json"
+  },
+  {
+   "id": 3575624386,
+   "name": "Summer Games Pants",
+   "page": "items/equipment/summer-games-pants-3575624386.md",
+   "json": "items/equipment/summer-games-pants-3575624386.json"
+  },
+  {
+   "id": 1064138195,
+   "name": "Summer Games Gloves / arm bands",
+   "page": "items/equipment/summer-games-gloves-arm-bands-1064138195.md",
+   "json": "items/equipment/summer-games-gloves-arm-bands-1064138195.json"
+  },
+  {
+   "id": 2730010681,
+   "name": "Regalia of the Blood Rose Boots",
+   "page": "items/equipment/regalia-of-the-blood-rose-boots-2730010681.md",
+   "json": "items/equipment/regalia-of-the-blood-rose-boots-2730010681.json"
+  },
+  {
+   "id": 3087335855,
+   "name": "Vanity Helmet 03 Name Jester",
+   "page": "items/equipment/vanity-helmet-03-name-jester-3087335855.md",
+   "json": "items/equipment/vanity-helmet-03-name-jester-3087335855.json"
+  },
+  {
+   "id": 2342616229,
+   "name": "Vanity Helmet 04 Name Bandana",
+   "page": "items/equipment/vanity-helmet-04-name-bandana-2342616229.md",
+   "json": "items/equipment/vanity-helmet-04-name-bandana-2342616229.json"
+  },
+  {
+   "id": 999268147,
+   "name": "Vanity Helmet 05 Name Tricorn",
+   "page": "items/equipment/vanity-helmet-05-name-tricorn-999268147.md",
+   "json": "items/equipment/vanity-helmet-05-name-tricorn-999268147.json"
+  },
+  {
+   "id": 3619572274,
+   "name": "Skeleton armor twitch drop helmet",
+   "page": "items/equipment/skeleton-armor-twitch-drop-helmet-3619572274.md",
+   "json": "items/equipment/skeleton-armor-twitch-drop-helmet-3619572274.json"
+  },
+  {
+   "id": 1539502869,
+   "name": "Loraine's Top",
+   "page": "items/equipment/loraine-s-top-1539502869.md",
+   "json": "items/equipment/loraine-s-top-1539502869.json"
+  },
+  {
+   "id": 2341461355,
+   "name": "Loraine's Glasses",
+   "page": "items/equipment/loraine-s-glasses-2341461355.md",
+   "json": "items/equipment/loraine-s-glasses-2341461355.json"
+  },
+  {
+   "id": 2741323263,
+   "name": "Red Fountain",
+   "page": "items/buildtools/red-fountain-2741323263.md",
+   "json": "items/buildtools/red-fountain-2741323263.json"
+  },
+  {
+   "id": 3860327004,
+   "name": "Yellow Fountain",
+   "page": "items/buildtools/yellow-fountain-3860327004.md",
+   "json": "items/buildtools/yellow-fountain-3860327004.json"
+  },
+  {
+   "id": 2092617605,
+   "name": "Purple Rocket",
+   "page": "items/buildtools/purple-rocket-2092617605.md",
+   "json": "items/buildtools/purple-rocket-2092617605.json"
+  },
+  {
+   "id": 3700807169,
+   "name": "Blue Rocket",
+   "page": "items/buildtools/blue-rocket-3700807169.md",
+   "json": "items/buildtools/blue-rocket-3700807169.json"
+  },
+  {
+   "id": 2519152989,
+   "name": "Green Rocket",
+   "page": "items/buildtools/green-rocket-2519152989.md",
+   "json": "items/buildtools/green-rocket-2519152989.json"
+  },
+  {
+   "id": 3422704366,
+   "name": "Red Confetti Mortar",
+   "page": "items/buildtools/red-confetti-mortar-3422704366.md",
+   "json": "items/buildtools/red-confetti-mortar-3422704366.json"
+  },
+  {
+   "id": 2553641502,
+   "name": "Yellow Confetti Mortar",
+   "page": "items/buildtools/yellow-confetti-mortar-2553641502.md",
+   "json": "items/buildtools/yellow-confetti-mortar-2553641502.json"
+  },
+  {
+   "id": 4245730713,
+   "name": "Blue Confetti Mortar",
+   "page": "items/buildtools/blue-confetti-mortar-4245730713.md",
+   "json": "items/buildtools/blue-confetti-mortar-4245730713.json"
+  },
+  {
+   "id": 2813422596,
+   "name": "Fish Showcase",
+   "page": "items/buildtools/fish-showcase-2813422596.md",
+   "json": "items/buildtools/fish-showcase-2813422596.json"
+  }
+ ],
+ "page": "items/materials/t6-material-gold-coins-2572858337.md"
+}

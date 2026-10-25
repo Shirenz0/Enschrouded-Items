@@ -27,4 +27,4 @@ Regal, lived-in and vaguely... salty.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](captain-s-coat-2899426271.json)

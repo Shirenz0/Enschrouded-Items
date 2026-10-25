@@ -1,0 +1,79 @@
+{
+ "id": 3490852408,
+ "name": "Transcendental Screen",
+ "internalName": "Ward_T3_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/3490852408.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "ward t3 desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/transcendental-screen.md",
+  "json": "objects/equipment/transcendental-screen.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Shock Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Eternal Spark",
+   "effect": "Increases the skill level of Eternal Spark by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Shock Resistance",
+   "effect": "Increases the skill level of Shock Resistance by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Arcane Deflection",
+   "effect": "Increases the skill level of Arcane Deflection by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Unity",
+   "effect": "Increases the skill level of Unity by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/transcendental-screen-3490852408.md"
+}

@@ -1,0 +1,183 @@
+{
+ "id": 3921293392,
+ "name": "Straw",
+ "internalName": "Material_T3_Straw",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/3921293392.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A natural plant, rests of the agriculture left behind, that grows in the world. It serves as food for the animals in the world and can protect the head in wet nights.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 551181842,
+   "name": "Straw Roof Block",
+   "page": "items/buildtools/straw-roof-block-551181842.md",
+   "json": "items/buildtools/straw-roof-block-551181842.json"
+  },
+  {
+   "id": 3389648330,
+   "name": "Tarred Straw Block",
+   "page": "items/buildtools/tarred-straw-block-3389648330.md",
+   "json": "items/buildtools/tarred-straw-block-3389648330.json"
+  },
+  {
+   "id": 2830104367,
+   "name": "T3 Fire Totem",
+   "page": "items/ammunition/t3-fire-totem-2830104367.md",
+   "json": "items/ammunition/t3-fire-totem-2830104367.json"
+  },
+  {
+   "id": 2792360705,
+   "name": "Honey Bee Hive",
+   "page": "items/buildtools/honey-bee-hive-2792360705.md",
+   "json": "items/buildtools/honey-bee-hive-2792360705.json"
+  },
+  {
+   "id": 1621012936,
+   "name": "Bed T5 Kingsize",
+   "page": "items/buildtools/bed-t5-kingsize-1621012936.md",
+   "json": "items/buildtools/bed-t5-kingsize-1621012936.json"
+  },
+  {
+   "id": 4266264621,
+   "name": "Bed T5",
+   "page": "items/buildtools/bed-t5-4266264621.md",
+   "json": "items/buildtools/bed-t5-4266264621.json"
+  },
+  {
+   "id": 2053490668,
+   "name": "Kingsize Bed",
+   "page": "items/buildtools/kingsize-bed-2053490668.md",
+   "json": "items/buildtools/kingsize-bed-2053490668.json"
+  },
+  {
+   "id": 449366573,
+   "name": "T4 Bed",
+   "page": "items/buildtools/t4-bed-449366573.md",
+   "json": "items/buildtools/t4-bed-449366573.json"
+  },
+  {
+   "id": 3415766653,
+   "name": "Bed T3",
+   "page": "items/buildtools/bed-t3-3415766653.md",
+   "json": "items/buildtools/bed-t3-3415766653.json"
+  },
+  {
+   "id": 2206143874,
+   "name": "Big furry straw mat",
+   "page": "items/buildtools/big-furry-straw-mat-2206143874.md",
+   "json": "items/buildtools/big-furry-straw-mat-2206143874.json"
+  },
+  {
+   "id": 1318773899,
+   "name": "Furry straw mat",
+   "page": "items/buildtools/furry-straw-mat-1318773899.md",
+   "json": "items/buildtools/furry-straw-mat-1318773899.json"
+  },
+  {
+   "id": 1434999137,
+   "name": "Standing Target",
+   "page": "items/buildtools/standing-target-1434999137.md",
+   "json": "items/buildtools/standing-target-1434999137.json"
+  },
+  {
+   "id": 2528530653,
+   "name": "Wall Target",
+   "page": "items/buildtools/wall-target-2528530653.md",
+   "json": "items/buildtools/wall-target-2528530653.json"
+  },
+  {
+   "id": 439541859,
+   "name": "Flower Wreath",
+   "page": "items/buildtools/flower-wreath-439541859.md",
+   "json": "items/buildtools/flower-wreath-439541859.json"
+  },
+  {
+   "id": 2376457969,
+   "name": "Straw Pile",
+   "page": "items/buildtools/straw-pile-2376457969.md",
+   "json": "items/buildtools/straw-pile-2376457969.json"
+  },
+  {
+   "id": 2938349424,
+   "name": "Scarecrow",
+   "page": "items/buildtools/scarecrow-2938349424.md",
+   "json": "items/buildtools/scarecrow-2938349424.json"
+  },
+  {
+   "id": 3685057724,
+   "name": "Training Doll I",
+   "page": "items/buildtools/training-doll-i-3685057724.md",
+   "json": "items/buildtools/training-doll-i-3685057724.json"
+  },
+  {
+   "id": 843297444,
+   "name": "Training Doll II",
+   "page": "items/buildtools/training-doll-ii-843297444.md",
+   "json": "items/buildtools/training-doll-ii-843297444.json"
+  },
+  {
+   "id": 2505765670,
+   "name": "Training Doll III",
+   "page": "items/buildtools/training-doll-iii-2505765670.md",
+   "json": "items/buildtools/training-doll-iii-2505765670.json"
+  },
+  {
+   "id": 3492385253,
+   "name": "Basket I",
+   "page": "items/buildtools/basket-i-3492385253.md",
+   "json": "items/buildtools/basket-i-3492385253.json"
+  },
+  {
+   "id": 443111672,
+   "name": "Basket II",
+   "page": "items/buildtools/basket-ii-443111672.md",
+   "json": "items/buildtools/basket-ii-443111672.json"
+  },
+  {
+   "id": 3069345802,
+   "name": "Basket III",
+   "page": "items/buildtools/basket-iii-3069345802.md",
+   "json": "items/buildtools/basket-iii-3069345802.json"
+  },
+  {
+   "id": 845694072,
+   "name": "Basket IV",
+   "page": "items/buildtools/basket-iv-845694072.md",
+   "json": "items/buildtools/basket-iv-845694072.json"
+  },
+  {
+   "id": 209007569,
+   "name": "Basket V",
+   "page": "items/buildtools/basket-v-209007569.md",
+   "json": "items/buildtools/basket-v-209007569.json"
+  },
+  {
+   "id": 944764654,
+   "name": "Basket VI",
+   "page": "items/buildtools/basket-vi-944764654.md",
+   "json": "items/buildtools/basket-vi-944764654.json"
+  },
+  {
+   "id": 858152914,
+   "name": "Barn Pillow for Yaks",
+   "page": "items/buildtools/barn-pillow-for-yaks-858152914.md",
+   "json": "items/buildtools/barn-pillow-for-yaks-858152914.json"
+  }
+ ],
+ "page": "items/materials/straw-3921293392.md"
+}

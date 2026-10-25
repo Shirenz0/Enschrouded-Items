@@ -46,4 +46,4 @@
 | <img src="../images/icons/391330740.png" width="48"> | [Veil Of Blues](../items/colorpalette/veil-of-blues-391330740.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1365809698.png" width="48"> | [Waves Of Valor](../items/colorpalette/waves-of-valor-1365809698.md) | ⚪ Common | - | 50 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](colorpalette.json)

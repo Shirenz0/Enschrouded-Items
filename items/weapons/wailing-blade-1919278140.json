@@ -1,0 +1,71 @@
+{
+ "id": 1919278140,
+ "name": "Wailing Blade",
+ "internalName": "Weapon_T1_1H_Lore_SwordEpic_Ministory_09",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1919278140.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/wailing-blade.md",
+  "json": "objects/weapons/wailing-blade.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/wailing-blade-1919278140.md"
+}

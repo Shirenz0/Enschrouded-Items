@@ -1,0 +1,122 @@
+{
+ "id": 2309078212,
+ "name": "T4 Ranger Arms",
+ "internalName": "Armor_T4_Ranger_Archer_DPS_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2309078212.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Firing an arrow this gloves is effortless.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-ranger-arms.md",
+  "json": "objects/equipment/t4-ranger-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Ranged Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Ranged  Foes",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2194425619,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4079068070,
+      "name": "Sanddigger Scales",
+      "page": "items/materials/sanddigger-scales-4079068070.md",
+      "json": "items/materials/sanddigger-scales-4079068070.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2102228606,
+      "name": "Giant Fell Talon",
+      "page": "items/materials/giant-fell-talon-2102228606.md",
+      "json": "items/materials/giant-fell-talon-2102228606.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-ranger-arms-2309078212.md"
+}

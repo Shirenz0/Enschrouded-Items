@@ -31,4 +31,4 @@ defeat boss multiple times to craft gold trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-vukah-brawler-trophy-3298516900.json)

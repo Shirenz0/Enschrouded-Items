@@ -17,4 +17,4 @@ These boots are great for lurking through bushes or wading through mud without m
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-ranger-boots.json)

@@ -17,4 +17,4 @@ Try to find the missing pieces to reassemble a Wall Tapestry.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](ripped-piece-of-a-wall-tapestry.json)

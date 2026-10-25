@@ -17,4 +17,4 @@ The cloth straps attached to this mask glide softly in the wind, helping to disc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-ranger-helmet.json)

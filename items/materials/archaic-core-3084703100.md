@@ -25,4 +25,4 @@ Ancient Land, Elite Ancient Guardians
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](archaic-core-3084703100.json)

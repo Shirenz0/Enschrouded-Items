@@ -33,4 +33,4 @@ Albaneve Summits, Tamed Frizzy Goat
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](mountaingoat-milk-443792978.json)

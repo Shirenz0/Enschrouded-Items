@@ -26,4 +26,4 @@ An extension to your backpack that enlarges your inventory a bit.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](small-backpack-4231879756.json)

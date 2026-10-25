@@ -1,0 +1,29 @@
+{
+ "id": 945847733,
+ "name": "Exceptional Harp",
+ "internalName": "Instrument_Harp_Epic",
+ "category": {
+  "id": "Instrument",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/945847733.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Epic Harp desc",
+ "lore": "Instruments",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "comfort": 3
+ },
+ "page": "items/buildtools/exceptional-harp-945847733.md"
+}

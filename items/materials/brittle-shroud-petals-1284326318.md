@@ -25,4 +25,4 @@ Enemies, Revelwood Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](brittle-shroud-petals-1284326318.json)

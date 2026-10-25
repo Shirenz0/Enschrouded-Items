@@ -1,0 +1,25 @@
+{
+ "id": 313933079,
+ "name": "Bamboo Barricade III",
+ "internalName": "Prop_Decoration_T6_Barricade_Bamboo_01_C",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/313933079.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/bamboo-barricade-iii-313933079.md"
+}

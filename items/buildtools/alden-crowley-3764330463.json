@@ -1,0 +1,25 @@
+{
+ "id": 3764330463,
+ "name": "Alden Crowley",
+ "internalName": "NPC_Crafter_CryptKeeper01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "The Collector, Alden Crowley, infuses bone shards and remains with essences to create special bone furniture.",
+ "lore": "Survivor",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/alden-crowley-3764330463.md"
+}

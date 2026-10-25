@@ -1,0 +1,35 @@
+{
+ "name": "T5 Shield Tank",
+ "category": "Equipment",
+ "image": "images/icons/3062146687.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1942545282,
+   "name": "T5 Shield Tank",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/1942545282.png",
+   "page": "items/equipment/t5-shield-tank-1942545282.md",
+   "json": "items/equipment/t5-shield-tank-1942545282.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3062146687,
+   "name": "T5 Shield Tank",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/3062146687.png",
+   "page": "items/equipment/t5-shield-tank-3062146687.md",
+   "json": "items/equipment/t5-shield-tank-3062146687.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t5-shield-tank.md"
+}

@@ -1,0 +1,89 @@
+{
+ "id": 698608775,
+ "name": "Skull Trophy V",
+ "internalName": "Prop_Decoration_T6_Skull_Trophy_03_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/698608775.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Drak Trophy Wall Head description",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3733450393,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 922637727,
+      "name": "Drak Teeth",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3260045641,
+      "name": "Drak Claws",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1897605064,
+      "name": "Daylily Flower",
+      "page": "items/materials/daylily-flower-1897605064.md",
+      "json": "items/materials/daylily-flower-1897605064.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/skull-trophy-v-698608775.md"
+}

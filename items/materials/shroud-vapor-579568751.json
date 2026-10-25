@@ -1,0 +1,123 @@
+{
+ "id": 579568751,
+ "name": "Shroud Vapor",
+ "internalName": "Material_T5_Base_ShroudVapor",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/579568751.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A potent base for crafting potions of various kind.",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2730753971,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1158895795,
+      "name": "Frozen Shroud Solids",
+      "page": "items/materials/frozen-shroud-solids-1158895795.md",
+      "json": "items/materials/frozen-shroud-solids-1158895795.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2179075323,
+      "name": "ActiveMycelium",
+      "page": "items/materials/activemycelium-2179075323.md",
+      "json": "items/materials/activemycelium-2179075323.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2545181812,
+   "name": "Consumable Potion Antidote T5",
+   "page": "items/consumables/consumable-potion-antidote-t5-2545181812.md",
+   "json": "items/consumables/consumable-potion-antidote-t5-2545181812.json"
+  },
+  {
+   "id": 2405125031,
+   "name": "T5 Health potion",
+   "page": "items/consumables/t5-health-potion-2405125031.md",
+   "json": "items/consumables/t5-health-potion-2405125031.json"
+  },
+  {
+   "id": 3087876,
+   "name": "Consumable Potion Mana T5",
+   "page": "items/consumables/consumable-potion-mana-t5-3087876.md",
+   "json": "items/consumables/consumable-potion-mana-t5-3087876.json"
+  },
+  {
+   "id": 887761434,
+   "name": "Flammable Goo",
+   "page": "items/materials/flammable-goo-887761434.md",
+   "json": "items/materials/flammable-goo-887761434.json"
+  },
+  {
+   "id": 468594079,
+   "name": "T5 Palette 03 Pink and Grey",
+   "page": "items/colorpalette/t5-palette-03-pink-and-grey-468594079.md",
+   "json": "items/colorpalette/t5-palette-03-pink-and-grey-468594079.json"
+  },
+  {
+   "id": 4152960602,
+   "name": "T5 Palette 01 Pink and Grey",
+   "page": "items/colorpalette/t5-palette-01-pink-and-grey-4152960602.md",
+   "json": "items/colorpalette/t5-palette-01-pink-and-grey-4152960602.json"
+  },
+  {
+   "id": 1779078295,
+   "name": "T5 Palette 01 reward Purple, Pink, Mauve",
+   "page": "items/colorpalette/t5-palette-01-reward-purple-pink-mauve-1779078295.md",
+   "json": "items/colorpalette/t5-palette-01-reward-purple-pink-mauve-1779078295.json"
+  },
+  {
+   "id": 1123597225,
+   "name": "T5 Palette 04 Pink and Grey",
+   "page": "items/colorpalette/t5-palette-04-pink-and-grey-1123597225.md",
+   "json": "items/colorpalette/t5-palette-04-pink-and-grey-1123597225.json"
+  },
+  {
+   "id": 3980109078,
+   "name": "T5 Palette 02 Pink and Grey",
+   "page": "items/colorpalette/t5-palette-02-pink-and-grey-3980109078.md",
+   "json": "items/colorpalette/t5-palette-02-pink-and-grey-3980109078.json"
+  },
+  {
+   "id": 2394759659,
+   "name": "Ward T5",
+   "page": "items/equipment/ward-t5-2394759659.md",
+   "json": "items/equipment/ward-t5-2394759659.json"
+  }
+ ],
+ "page": "items/materials/shroud-vapor-579568751.md"
+}

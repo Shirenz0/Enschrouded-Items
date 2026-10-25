@@ -17,4 +17,4 @@ These pants were made from silky smooth cloth, gracing only the most esteemed ma
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-mage-legs.json)

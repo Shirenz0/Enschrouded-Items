@@ -21,4 +21,4 @@ Hollow Heavy Hero head desc
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](hollow-heavy-hero-head-3411381312.json)

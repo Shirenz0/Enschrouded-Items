@@ -1,0 +1,32 @@
+{
+ "id": 1986909631,
+ "name": "Beach Attire chest",
+ "internalName": "Vanity_TwitchDrop_Wetlands_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1986909631.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "BeachAttire chest desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/beach-attire-chest.md",
+  "json": "objects/equipment/beach-attire-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest"
+ },
+ "page": "items/equipment/beach-attire-chest-1986909631.md"
+}

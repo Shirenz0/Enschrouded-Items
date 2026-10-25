@@ -1,0 +1,703 @@
+{
+ "id": 642002617,
+ "name": "Bronze Bars",
+ "internalName": "Material_T3_Bronze_Bar",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/642002617.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A beautiful material known for its warm and bright colour. Artisans around the world have turned towards it for centuries, due to its workable characteristics.",
+ "lore": null,
+ "whereToFind": "Smelter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3469996162,
+   "station": "Blast Furnace",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 20
+  },
+  {
+   "recipeId": 3059364296,
+   "station": "Smelter",
+   "inputs": [
+    {
+     "count": 7,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3286071567,
+   "name": "Decay Tool",
+   "page": "items/blueprints/decay-tool-3286071567.md",
+   "json": "items/blueprints/decay-tool-3286071567.json"
+  },
+  {
+   "id": 4204849649,
+   "name": "Large Chest",
+   "page": "items/buildtools/large-chest-4204849649.md",
+   "json": "items/buildtools/large-chest-4204849649.json"
+  },
+  {
+   "id": 3681207826,
+   "name": "Magic Large Chest",
+   "page": "items/buildtools/magic-large-chest-3681207826.md",
+   "json": "items/buildtools/magic-large-chest-3681207826.json"
+  },
+  {
+   "id": 1053852637,
+   "name": "Channelled Water Tool",
+   "page": "items/buildtools/channelled-water-tool-1053852637.md",
+   "json": "items/buildtools/channelled-water-tool-1053852637.json"
+  },
+  {
+   "id": 1815671523,
+   "name": "Cursed Fishing Rod",
+   "page": "items/buildtools/cursed-fishing-rod-1815671523.md",
+   "json": "items/buildtools/cursed-fishing-rod-1815671523.json"
+  },
+  {
+   "id": 688801496,
+   "name": "Moonshine and Stars Block",
+   "page": "items/buildtools/moonshine-and-stars-block-688801496.md",
+   "json": "items/buildtools/moonshine-and-stars-block-688801496.json"
+  },
+  {
+   "id": 2848160320,
+   "name": "HallowHalls Decorative Dungeon Block",
+   "page": "items/buildtools/hallowhalls-decorative-dungeon-block-2848160320.md",
+   "json": "items/buildtools/hallowhalls-decorative-dungeon-block-2848160320.json"
+  },
+  {
+   "id": 53541119,
+   "name": "Bronze Block",
+   "page": "items/buildtools/bronze-block-53541119.md",
+   "json": "items/buildtools/bronze-block-53541119.json"
+  },
+  {
+   "id": 3899129081,
+   "name": "T4 Desert Shingles",
+   "page": "items/buildtools/t4-desert-shingles-3899129081.md",
+   "json": "items/buildtools/t4-desert-shingles-3899129081.json"
+  },
+  {
+   "id": 3990911183,
+   "name": "Bronze Arrow",
+   "page": "items/ammunition/bronze-arrow-3990911183.md",
+   "json": "items/ammunition/bronze-arrow-3990911183.json"
+  },
+  {
+   "id": 1912744772,
+   "name": "T3 Eternal Fireball I",
+   "page": "items/ammunition/t3-eternal-fireball-i-1912744772.md",
+   "json": "items/ammunition/t3-eternal-fireball-i-1912744772.json"
+  },
+  {
+   "id": 2830104367,
+   "name": "T3 Fire Totem",
+   "page": "items/ammunition/t3-fire-totem-2830104367.md",
+   "json": "items/ammunition/t3-fire-totem-2830104367.json"
+  },
+  {
+   "id": 1155756187,
+   "name": "Improved Water Well",
+   "page": "items/buildtools/improved-water-well-1155756187.md",
+   "json": "items/buildtools/improved-water-well-1155756187.json"
+  },
+  {
+   "id": 720550594,
+   "name": "Spinning Wheel",
+   "page": "items/buildtools/spinning-wheel-720550594.md",
+   "json": "items/buildtools/spinning-wheel-720550594.json"
+  },
+  {
+   "id": 48453107,
+   "name": "Loom",
+   "page": "items/buildtools/loom-48453107.md",
+   "json": "items/buildtools/loom-48453107.json"
+  },
+  {
+   "id": 1012249632,
+   "name": "Bronze Axe",
+   "page": "items/tools/bronze-axe-1012249632.md",
+   "json": "items/tools/bronze-axe-1012249632.json"
+  },
+  {
+   "id": 2410457699,
+   "name": "Bronze Pickaxe",
+   "page": "items/buildtools/bronze-pickaxe-2410457699.md",
+   "json": "items/buildtools/bronze-pickaxe-2410457699.json"
+  },
+  {
+   "id": 3530269879,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-3530269879.md",
+   "json": "items/weapons/fenrig-s-axe-3530269879.json"
+  },
+  {
+   "id": 2628423562,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-2628423562.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2628423562.json"
+  },
+  {
+   "id": 2387592374,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-2387592374.md",
+   "json": "items/weapons/lupa-s-scalper-2387592374.json"
+  },
+  {
+   "id": 4103969369,
+   "name": "Wolf's Hydra",
+   "page": "items/weapons/wolf-s-hydra-4103969369.md",
+   "json": "items/weapons/wolf-s-hydra-4103969369.json"
+  },
+  {
+   "id": 602591868,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-602591868.md",
+   "json": "items/weapons/halescourge-602591868.json"
+  },
+  {
+   "id": 4253086109,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-4253086109.md",
+   "json": "items/weapons/wailing-blade-4253086109.json"
+  },
+  {
+   "id": 3907468980,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-3907468980.md",
+   "json": "items/weapons/dragon-sword-3907468980.json"
+  },
+  {
+   "id": 2584194594,
+   "name": "Shield of Light",
+   "page": "items/equipment/shield-of-light-2584194594.md",
+   "json": "items/equipment/shield-of-light-2584194594.json"
+  },
+  {
+   "id": 1237193461,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-1237193461.md",
+   "json": "items/equipment/pikemead-s-ward-1237193461.json"
+  },
+  {
+   "id": 870935206,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-870935206.md",
+   "json": "items/equipment/riptide-870935206.json"
+  },
+  {
+   "id": 430276931,
+   "name": "Ancestral Star",
+   "page": "items/weapons/ancestral-star-430276931.md",
+   "json": "items/weapons/ancestral-star-430276931.json"
+  },
+  {
+   "id": 2176171412,
+   "name": "Golden Recruit Axe",
+   "page": "items/weapons/golden-recruit-axe-2176171412.md",
+   "json": "items/weapons/golden-recruit-axe-2176171412.json"
+  },
+  {
+   "id": 1877646424,
+   "name": "Golden War Veteran Axe",
+   "page": "items/weapons/golden-war-veteran-axe-1877646424.md",
+   "json": "items/weapons/golden-war-veteran-axe-1877646424.json"
+  },
+  {
+   "id": 1716859550,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-1716859550.md",
+   "json": "items/weapons/soothsayer-1716859550.json"
+  },
+  {
+   "id": 2517864696,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-2517864696.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2517864696.json"
+  },
+  {
+   "id": 4131716794,
+   "name": "Throwing Knives",
+   "page": "items/weapons/throwing-knives-4131716794.md",
+   "json": "items/weapons/throwing-knives-4131716794.json"
+  },
+  {
+   "id": 1072446832,
+   "name": "Sacrificial Vukah Dagger",
+   "page": "items/weapons/sacrificial-vukah-dagger-1072446832.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1072446832.json"
+  },
+  {
+   "id": 2837156111,
+   "name": "Valor Heart Dagger",
+   "page": "items/weapons/valor-heart-dagger-2837156111.md",
+   "json": "items/weapons/valor-heart-dagger-2837156111.json"
+  },
+  {
+   "id": 2104873327,
+   "name": "Darya's Wand",
+   "page": "items/weapons/darya-s-wand-2104873327.md",
+   "json": "items/weapons/darya-s-wand-2104873327.json"
+  },
+  {
+   "id": 4000975642,
+   "name": "Darya's Staff",
+   "page": "items/weapons/darya-s-staff-4000975642.md",
+   "json": "items/weapons/darya-s-staff-4000975642.json"
+  },
+  {
+   "id": 2821143924,
+   "name": "Transcendental Screen",
+   "page": "items/equipment/transcendental-screen-2821143924.md",
+   "json": "items/equipment/transcendental-screen-2821143924.json"
+  },
+  {
+   "id": 30416182,
+   "name": "T3 DPS Boots",
+   "page": "items/equipment/t3-dps-boots-30416182.md",
+   "json": "items/equipment/t3-dps-boots-30416182.json"
+  },
+  {
+   "id": 2034875163,
+   "name": "T3 DPS Legs",
+   "page": "items/equipment/t3-dps-legs-2034875163.md",
+   "json": "items/equipment/t3-dps-legs-2034875163.json"
+  },
+  {
+   "id": 2202659557,
+   "name": "T3 DPS Arms",
+   "page": "items/equipment/t3-dps-arms-2202659557.md",
+   "json": "items/equipment/t3-dps-arms-2202659557.json"
+  },
+  {
+   "id": 3800404508,
+   "name": "T3 DPS Chest",
+   "page": "items/equipment/t3-dps-chest-3800404508.md",
+   "json": "items/equipment/t3-dps-chest-3800404508.json"
+  },
+  {
+   "id": 3255447356,
+   "name": "T3 DPS Helmet",
+   "page": "items/equipment/t3-dps-helmet-3255447356.md",
+   "json": "items/equipment/t3-dps-helmet-3255447356.json"
+  },
+  {
+   "id": 823841299,
+   "name": "T3 Healer Legs",
+   "page": "items/equipment/t3-healer-legs-823841299.md",
+   "json": "items/equipment/t3-healer-legs-823841299.json"
+  },
+  {
+   "id": 2793515653,
+   "name": "T3 Healer Chest",
+   "page": "items/equipment/t3-healer-chest-2793515653.md",
+   "json": "items/equipment/t3-healer-chest-2793515653.json"
+  },
+  {
+   "id": 2743374359,
+   "name": "T3 Mage Legs",
+   "page": "items/equipment/t3-mage-legs-2743374359.md",
+   "json": "items/equipment/t3-mage-legs-2743374359.json"
+  },
+  {
+   "id": 1523324827,
+   "name": "T3 Mage Chest",
+   "page": "items/equipment/t3-mage-chest-1523324827.md",
+   "json": "items/equipment/t3-mage-chest-1523324827.json"
+  },
+  {
+   "id": 4103714612,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-4103714612.md",
+   "json": "items/equipment/mage-fog-protection-armor-4103714612.json"
+  },
+  {
+   "id": 1236068115,
+   "name": "T3 Ranger Legs",
+   "page": "items/equipment/t3-ranger-legs-1236068115.md",
+   "json": "items/equipment/t3-ranger-legs-1236068115.json"
+  },
+  {
+   "id": 2255840984,
+   "name": "T3 Ranger Chest",
+   "page": "items/equipment/t3-ranger-chest-2255840984.md",
+   "json": "items/equipment/t3-ranger-chest-2255840984.json"
+  },
+  {
+   "id": 1184502832,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-1184502832.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1184502832.json"
+  },
+  {
+   "id": 3281783103,
+   "name": "T3 Archer Legs",
+   "page": "items/equipment/t3-archer-legs-3281783103.md",
+   "json": "items/equipment/t3-archer-legs-3281783103.json"
+  },
+  {
+   "id": 2301277967,
+   "name": "T3 Archer Chest",
+   "page": "items/equipment/t3-archer-chest-2301277967.md",
+   "json": "items/equipment/t3-archer-chest-2301277967.json"
+  },
+  {
+   "id": 536100641,
+   "name": "T3 Tank Boots",
+   "page": "items/equipment/t3-tank-boots-536100641.md",
+   "json": "items/equipment/t3-tank-boots-536100641.json"
+  },
+  {
+   "id": 1365818369,
+   "name": "T3 Tank Legs",
+   "page": "items/equipment/t3-tank-legs-1365818369.md",
+   "json": "items/equipment/t3-tank-legs-1365818369.json"
+  },
+  {
+   "id": 4212426126,
+   "name": "T3 Tank Arms",
+   "page": "items/equipment/t3-tank-arms-4212426126.md",
+   "json": "items/equipment/t3-tank-arms-4212426126.json"
+  },
+  {
+   "id": 2173083844,
+   "name": "T3 Tank Chest",
+   "page": "items/equipment/t3-tank-chest-2173083844.md",
+   "json": "items/equipment/t3-tank-chest-2173083844.json"
+  },
+  {
+   "id": 1221959339,
+   "name": "T3 Tank Helmet",
+   "page": "items/equipment/t3-tank-helmet-1221959339.md",
+   "json": "items/equipment/t3-tank-helmet-1221959339.json"
+  },
+  {
+   "id": 875044567,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-875044567.md",
+   "json": "items/equipment/warrior-fog-protection-armor-875044567.json"
+  },
+  {
+   "id": 2071416918,
+   "name": "T3 Shower",
+   "page": "items/buildtools/t3-shower-2071416918.md",
+   "json": "items/buildtools/t3-shower-2071416918.json"
+  },
+  {
+   "id": 1695495104,
+   "name": "Bathtub T3",
+   "page": "items/buildtools/bathtub-t3-1695495104.md",
+   "json": "items/buildtools/bathtub-t3-1695495104.json"
+  },
+  {
+   "id": 1715616386,
+   "name": "Toilet T3",
+   "page": "items/buildtools/toilet-t3-1715616386.md",
+   "json": "items/buildtools/toilet-t3-1715616386.json"
+  },
+  {
+   "id": 821307402,
+   "name": "Sink T2",
+   "page": "items/buildtools/sink-t2-821307402.md",
+   "json": "items/buildtools/sink-t2-821307402.json"
+  },
+  {
+   "id": 4243711088,
+   "name": "Brick Fireplace",
+   "page": "items/buildtools/brick-fireplace-4243711088.md",
+   "json": "items/buildtools/brick-fireplace-4243711088.json"
+  },
+  {
+   "id": 3107093572,
+   "name": "Candleholder",
+   "page": "items/buildtools/candleholder-3107093572.md",
+   "json": "items/buildtools/candleholder-3107093572.json"
+  },
+  {
+   "id": 665220347,
+   "name": "Wall Torch",
+   "page": "items/buildtools/wall-torch-665220347.md",
+   "json": "items/buildtools/wall-torch-665220347.json"
+  },
+  {
+   "id": 3129268711,
+   "name": "Chandelier",
+   "page": "items/buildtools/chandelier-3129268711.md",
+   "json": "items/buildtools/chandelier-3129268711.json"
+  },
+  {
+   "id": 3943343867,
+   "name": "Bronze Vorgoth Eye Trophy",
+   "page": "items/buildtools/bronze-vorgoth-eye-trophy-3943343867.md",
+   "json": "items/buildtools/bronze-vorgoth-eye-trophy-3943343867.json"
+  },
+  {
+   "id": 1715982707,
+   "name": "Bronze Ancient Construct: Heavy Trophy",
+   "page": "items/buildtools/bronze-ancient-construct-heavy-trophy-1715982707.md",
+   "json": "items/buildtools/bronze-ancient-construct-heavy-trophy-1715982707.json"
+  },
+  {
+   "id": 530618702,
+   "name": "Bronze Hollow Wispwyvern Trophy",
+   "page": "items/buildtools/bronze-hollow-wispwyvern-trophy-530618702.md",
+   "json": "items/buildtools/bronze-hollow-wispwyvern-trophy-530618702.json"
+  },
+  {
+   "id": 645413968,
+   "name": "Bronze Hydrak'Dal Trophy",
+   "page": "items/buildtools/bronze-hydrak-dal-trophy-645413968.md",
+   "json": "items/buildtools/bronze-hydrak-dal-trophy-645413968.json"
+  },
+  {
+   "id": 683546152,
+   "name": "Bronze Hollow Heavy Hero Trophy",
+   "page": "items/buildtools/bronze-hollow-heavy-hero-trophy-683546152.md",
+   "json": "items/buildtools/bronze-hollow-heavy-hero-trophy-683546152.json"
+  },
+  {
+   "id": 3355099703,
+   "name": "Big Boss Trophy Dragon",
+   "page": "items/buildtools/big-boss-trophy-dragon-3355099703.md",
+   "json": "items/buildtools/big-boss-trophy-dragon-3355099703.json"
+  },
+  {
+   "id": 2052036286,
+   "name": "Big Boss Trophy Cyclops Fell",
+   "page": "items/buildtools/big-boss-trophy-cyclops-fell-2052036286.md",
+   "json": "items/buildtools/big-boss-trophy-cyclops-fell-2052036286.json"
+  },
+  {
+   "id": 2412815222,
+   "name": "Big Boss Trophy Cyclops",
+   "page": "items/buildtools/big-boss-trophy-cyclops-2412815222.md",
+   "json": "items/buildtools/big-boss-trophy-cyclops-2412815222.json"
+  },
+  {
+   "id": 4278983138,
+   "name": "Bronze Scavenger Tyrant Trophy",
+   "page": "items/buildtools/bronze-scavenger-tyrant-trophy-4278983138.md",
+   "json": "items/buildtools/bronze-scavenger-tyrant-trophy-4278983138.json"
+  },
+  {
+   "id": 3381543901,
+   "name": "Big Boss Trophy Fell Heavy Mage",
+   "page": "items/buildtools/big-boss-trophy-fell-heavy-mage-3381543901.md",
+   "json": "items/buildtools/big-boss-trophy-fell-heavy-mage-3381543901.json"
+  },
+  {
+   "id": 1292654037,
+   "name": "Big Boss Trophy Fell Monstrosity",
+   "page": "items/buildtools/big-boss-trophy-fell-monstrosity-1292654037.md",
+   "json": "items/buildtools/big-boss-trophy-fell-monstrosity-1292654037.json"
+  },
+  {
+   "id": 332453501,
+   "name": "Bronze Red Fell Critter Queen Trophy",
+   "page": "items/buildtools/bronze-red-fell-critter-queen-trophy-332453501.md",
+   "json": "items/buildtools/bronze-red-fell-critter-queen-trophy-332453501.json"
+  },
+  {
+   "id": 1318672109,
+   "name": "Bronze Fell Critter Queen Trophy",
+   "page": "items/buildtools/bronze-fell-critter-queen-trophy-1318672109.md",
+   "json": "items/buildtools/bronze-fell-critter-queen-trophy-1318672109.json"
+  },
+  {
+   "id": 458991736,
+   "name": "Big Boss Trophy Hollow Cyclops",
+   "page": "items/buildtools/big-boss-trophy-hollow-cyclops-458991736.md",
+   "json": "items/buildtools/big-boss-trophy-hollow-cyclops-458991736.json"
+  },
+  {
+   "id": 653572237,
+   "name": "Bronze Werewolf Trophy",
+   "page": "items/buildtools/bronze-werewolf-trophy-653572237.md",
+   "json": "items/buildtools/bronze-werewolf-trophy-653572237.json"
+  },
+  {
+   "id": 2536014482,
+   "name": "Big Boss Trophy Vukah",
+   "page": "items/buildtools/big-boss-trophy-vukah-2536014482.md",
+   "json": "items/buildtools/big-boss-trophy-vukah-2536014482.json"
+  },
+  {
+   "id": 3566928922,
+   "name": "Big Boss Trophy Scavenger Mage",
+   "page": "items/buildtools/big-boss-trophy-scavenger-mage-3566928922.md",
+   "json": "items/buildtools/big-boss-trophy-scavenger-mage-3566928922.json"
+  },
+  {
+   "id": 4185380829,
+   "name": "Big Boss Trophy Heavy",
+   "page": "items/buildtools/big-boss-trophy-heavy-4185380829.md",
+   "json": "items/buildtools/big-boss-trophy-heavy-4185380829.json"
+  },
+  {
+   "id": 2977882835,
+   "name": "Blue Globe",
+   "page": "items/buildtools/blue-globe-2977882835.md",
+   "json": "items/buildtools/blue-globe-2977882835.json"
+  },
+  {
+   "id": 3291221650,
+   "name": "Urn",
+   "page": "items/buildtools/urn-3291221650.md",
+   "json": "items/buildtools/urn-3291221650.json"
+  },
+  {
+   "id": 3186070284,
+   "name": "Fire Bowl",
+   "page": "items/buildtools/fire-bowl-3186070284.md",
+   "json": "items/buildtools/fire-bowl-3186070284.json"
+  },
+  {
+   "id": 3854576156,
+   "name": "Jewelry Box",
+   "page": "items/buildtools/jewelry-box-3854576156.md",
+   "json": "items/buildtools/jewelry-box-3854576156.json"
+  },
+  {
+   "id": 3682420039,
+   "name": "Palanthir",
+   "page": "items/buildtools/palanthir-3682420039.md",
+   "json": "items/buildtools/palanthir-3682420039.json"
+  },
+  {
+   "id": 3308565609,
+   "name": "Bronze Platter",
+   "page": "items/buildtools/bronze-platter-3308565609.md",
+   "json": "items/buildtools/bronze-platter-3308565609.json"
+  },
+  {
+   "id": 382655677,
+   "name": "Bronze Cup",
+   "page": "items/buildtools/bronze-cup-382655677.md",
+   "json": "items/buildtools/bronze-cup-382655677.json"
+  },
+  {
+   "id": 1775891612,
+   "name": "Bronze Bowl",
+   "page": "items/buildtools/bronze-bowl-1775891612.md",
+   "json": "items/buildtools/bronze-bowl-1775891612.json"
+  },
+  {
+   "id": 1351534348,
+   "name": "Bronze Jug",
+   "page": "items/buildtools/bronze-jug-1351534348.md",
+   "json": "items/buildtools/bronze-jug-1351534348.json"
+  },
+  {
+   "id": 2813708659,
+   "name": "Bronzen Barrel",
+   "page": "items/buildtools/bronzen-barrel-2813708659.md",
+   "json": "items/buildtools/bronzen-barrel-2813708659.json"
+  },
+  {
+   "id": 2346845127,
+   "name": "Big Bronze Statue \"Snake\"",
+   "page": "items/buildtools/big-bronze-statue-snake-2346845127.md",
+   "json": "items/buildtools/big-bronze-statue-snake-2346845127.json"
+  },
+  {
+   "id": 3002231083,
+   "name": "Athanor",
+   "page": "items/buildtools/athanor-3002231083.md",
+   "json": "items/buildtools/athanor-3002231083.json"
+  },
+  {
+   "id": 895710916,
+   "name": "Scientific Instruments",
+   "page": "items/buildtools/scientific-instruments-895710916.md",
+   "json": "items/buildtools/scientific-instruments-895710916.json"
+  },
+  {
+   "id": 212310372,
+   "name": "Solid Ornamented Stone Door",
+   "page": "items/buildtools/solid-ornamented-stone-door-212310372.md",
+   "json": "items/buildtools/solid-ornamented-stone-door-212310372.json"
+  },
+  {
+   "id": 2503926869,
+   "name": "Ranged switch",
+   "page": "items/buildtools/ranged-switch-2503926869.md",
+   "json": "items/buildtools/ranged-switch-2503926869.json"
+  },
+  {
+   "id": 1487232849,
+   "name": "Goalpost",
+   "page": "items/buildtools/goalpost-1487232849.md",
+   "json": "items/buildtools/goalpost-1487232849.json"
+  }
+ ],
+ "page": "items/materials/bronze-bars-642002617.md"
+}

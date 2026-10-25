@@ -1,0 +1,67 @@
+{
+ "id": 3950291290,
+ "name": "T2 Wizard Arms",
+ "internalName": "Armor_T2_Mage_BattleWand_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3950291290.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A dark and dreary set of gloves. They make spellcasting feel ominous!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Wand Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+8 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/t2-wizard-arms-3950291290.md"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 2349456895,
+ "name": "Plantain",
+ "internalName": "Food_T6_raw_bad_fruit_GreenBanana",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2349456895.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "this plantain cannot be eaten raw, it has to be cooked in a dish",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": -70,
+    "display": "-70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -80,
+    "display": "-80",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3497094022,
+   "name": "Plantain Salad with ancient beans",
+   "page": "items/consumables/plantain-salad-with-ancient-beans-3497094022.md",
+   "json": "items/consumables/plantain-salad-with-ancient-beans-3497094022.json"
+  },
+  {
+   "id": 2884389562,
+   "name": "Banana Curry",
+   "page": "items/consumables/banana-curry-2884389562.md",
+   "json": "items/consumables/banana-curry-2884389562.json"
+  },
+  {
+   "id": 71610791,
+   "name": "Fish Tacos",
+   "page": "items/consumables/fish-tacos-71610791.md",
+   "json": "items/consumables/fish-tacos-71610791.json"
+  }
+ ],
+ "page": "items/consumables/plantain-2349456895.md"
+}

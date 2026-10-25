@@ -25,4 +25,4 @@ Springlands Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](activemycelium-2179075323.json)

@@ -1,0 +1,112 @@
+{
+ "id": 3038310088,
+ "name": "Ranger Fog Protection Armor",
+ "internalName": "Armor_T3_Ranger_FogProtection_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/3038310088.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hastely put together from fell monster parts. Offers extended protection against the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/ranger-fog-protection-armor.md",
+  "json": "objects/equipment/ranger-fog-protection-armor.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Strike Chance Ranged",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Flame Power",
+    "value": 30000,
+    "display": "30,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Sniper",
+   "effect": "Increases the skill level of Sniper by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4241403829,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 342099111,
+      "name": "Shroud Jelly",
+      "page": "items/materials/shroud-jelly-342099111.md",
+      "json": "items/materials/shroud-jelly-342099111.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/ranger-fog-protection-armor-3038310088.md"
+}

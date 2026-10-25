@@ -1,0 +1,95 @@
+{
+ "id": 4170361020,
+ "name": "Fur Gloves",
+ "internalName": "Armor_T0_Fur_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 4,
+  "max": 4
+ },
+ "maxStack": 1,
+ "image": "images/icons/4170361020.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A simple protection for hands.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Shock Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Handed",
+   "effect": "Increases the skill level of Heavy Handed by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+20 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 509841756,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/fur-gloves-4170361020.md"
+}

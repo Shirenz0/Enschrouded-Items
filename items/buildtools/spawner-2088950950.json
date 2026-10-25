@@ -1,0 +1,25 @@
+{
+ "id": 2088950950,
+ "name": "Spawner",
+ "internalName": "Prop_Logic_Spawner",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2088950950.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Spawner",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/spawner-2088950950.md"
+}

@@ -33,4 +33,4 @@ Defeat the Boss multiple times to craft one of those.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](big-boss-trophy-dragon-78841720.json)

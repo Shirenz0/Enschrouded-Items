@@ -1,0 +1,81 @@
+{
+ "id": 3216582163,
+ "name": "T5 Chain Heal II",
+ "internalName": "Ammo_T5_Spell_Heal_Chain_lvl35",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 500,
+ "image": "images/icons/3216582163.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that releases a healing wave, which jumps to nearby allies.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Healing": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 58,
+    "display": "58",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1919449454,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3779366146,
+      "name": "T5 Food Raw Herb Gentian",
+      "page": "items/consumables/t5-food-raw-herb-gentian-3779366146.md",
+      "json": "items/consumables/t5-food-raw-herb-gentian-3779366146.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t5-chain-heal-ii-3216582163.md"
+}

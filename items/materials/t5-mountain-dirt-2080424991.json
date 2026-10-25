@@ -1,0 +1,25 @@
+{
+ "id": 2080424991,
+ "name": "T5 Mountain Dirt",
+ "internalName": "Build_TerrainMaterial_T5_Dirt_ColdHeights",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2080424991.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/t5-mountain-dirt-2080424991.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1405702064,
+ "name": "DLC SUpporter Ranger Banner Standing",
+ "internalName": "Prop_Decoration_DLC_Supporter_Ranger_Banner_Standing",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1405702064.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/dlc-supporter-ranger-banner-standing-1405702064.md"
+}

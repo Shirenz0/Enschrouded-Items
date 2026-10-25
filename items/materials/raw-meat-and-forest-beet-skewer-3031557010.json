@@ -1,0 +1,60 @@
+{
+ "id": 3031557010,
+ "name": "Raw Meat and Forest Beet Skewer",
+ "internalName": "Material_T2_raw_dish_VegetableSkewer",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 250,
+ "image": "images/icons/3031557010.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hunter's favorite ration, crafted for precision. After you've grilled it over a fire, it will grant you **more maximum health, increase your ranged and dagger damage and expand your maximum stamina.**",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 764527042,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3542827745,
+      "name": "Forest Beet",
+      "page": "items/consumables/forest-beet-3542827745.md",
+      "json": "items/consumables/forest-beet-3542827745.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2512460235,
+      "name": "Raw Game",
+      "page": "items/consumables/raw-game-2512460235.md",
+      "json": "items/consumables/raw-game-2512460235.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 16567466,
+   "name": "Meat Skewer with Forest Beet",
+   "page": "items/consumables/meat-skewer-with-forest-beet-16567466.md",
+   "json": "items/consumables/meat-skewer-with-forest-beet-16567466.json"
+  }
+ ],
+ "page": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.md"
+}

@@ -24,4 +24,4 @@ After triggering the weapons Special Ability, any kill within %k will return %k 
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-hyperspecialization-2418233534.json)

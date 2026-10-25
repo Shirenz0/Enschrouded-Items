@@ -1,0 +1,145 @@
+{
+ "id": 3057524028,
+ "name": "Vorgoth's Pants",
+ "internalName": "Armor_T7_Mage_Legs_Vorgoth",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/3057524028.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Iron-clad from hip to heel.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Wand Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 63,
+    "display": "63",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Life Essences",
+   "effect": "Increases the skill level of Life Essences by +1"
+  },
+  {
+   "order": 2,
+   "name": "Spiritual",
+   "effect": "+28 Spiritual"
+  },
+  {
+   "order": 3,
+   "name": "+1 Unity",
+   "effect": "Increases the skill level of Unity by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Terror",
+   "effect": "Increases the skill level of Terror by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Wand Mastery",
+   "effect": "Increases the skill level of Wand Mastery by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 317975060,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1940778781,
+      "name": "Vorgoth Blood",
+      "page": "items/materials/vorgoth-blood-1940778781.md",
+      "json": "items/materials/vorgoth-blood-1940778781.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2179075323,
+      "name": "ActiveMycelium",
+      "page": "items/materials/activemycelium-2179075323.md",
+      "json": "items/materials/activemycelium-2179075323.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/vorgoth-s-pants-3057524028.md"
+}

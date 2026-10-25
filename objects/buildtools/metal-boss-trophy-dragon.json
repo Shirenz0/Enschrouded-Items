@@ -1,0 +1,36 @@
+{
+ "name": "Metal Boss Trophy Dragon",
+ "category": "BuildTools",
+ "image": "images/icons/887325393.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3936373846,
+   "name": "Metal Boss Trophy Dragon",
+   "rarity": "Legendary",
+   "level": "-",
+   "image": "images/icons/3936373846.png",
+   "page": "items/buildtools/metal-boss-trophy-dragon-3936373846.md",
+   "json": "items/buildtools/metal-boss-trophy-dragon-3936373846.json",
+   "maxStack": 10,
+   "ownTexts": []
+  },
+  {
+   "id": 887325393,
+   "name": "Metal Boss Trophy Dragon",
+   "rarity": "Legendary",
+   "level": "-",
+   "image": "images/icons/887325393.png",
+   "page": "items/buildtools/metal-boss-trophy-dragon-887325393.md",
+   "json": "items/buildtools/metal-boss-trophy-dragon-887325393.json",
+   "maxStack": 10,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/metal-boss-trophy-dragon.md"
+}

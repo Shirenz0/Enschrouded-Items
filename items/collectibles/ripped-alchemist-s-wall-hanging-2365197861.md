@@ -19,4 +19,4 @@ A ripped piece of fabric, detailing alchemical wisdom. Someone might be able to 
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](ripped-alchemist-s-wall-hanging-2365197861.json)

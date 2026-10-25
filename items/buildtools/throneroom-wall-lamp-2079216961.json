@@ -1,0 +1,71 @@
+{
+ "id": 2079216961,
+ "name": "Throneroom Wall Lamp",
+ "internalName": "Prop_Decoration_Comfort_T6_IlluminationWall_Throneroom",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2079216961.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An illumination item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Illumination",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Illumination",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1601788346,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/throneroom-wall-lamp-2079216961.md"
+}

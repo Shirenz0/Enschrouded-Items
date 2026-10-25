@@ -1,0 +1,69 @@
+{
+ "id": 2404490725,
+ "name": "T6 Eternal Mana Leech Beam VII",
+ "internalName": "Ammo_T6_Spell_ManaLeechBeam_Channel_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 1,
+ "image": "images/icons/2404490725.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical Beam that leeches Mana from enemies without dealing damage to them.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3802152769,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 4148439656,
+      "name": "Passionflower",
+      "page": "items/materials/passionflower-4148439656.md",
+      "json": "items/materials/passionflower-4148439656.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t6-eternal-mana-leech-beam-vii-2404490725.md"
+}

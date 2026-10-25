@@ -31,4 +31,4 @@ defeat boss multiple times to craft the gold trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-scavenger-matron-trophy-2696524924.json)

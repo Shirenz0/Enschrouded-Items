@@ -1,0 +1,25 @@
+{
+ "id": 329575215,
+ "name": "Bard song 10 drums",
+ "internalName": "8kLoreText_scroll_bard_song_drums_unlocked",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/collectibles.svg",
+ "caption": null,
+ "description": "Flaming heartbeat desc placeholder",
+ "lore": "Music",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/bard-song-10-drums-329575215.md"
+}

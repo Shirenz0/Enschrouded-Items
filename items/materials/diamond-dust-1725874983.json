@@ -1,0 +1,153 @@
+{
+ "id": 1725874983,
+ "name": "Diamond Dust",
+ "internalName": "Material_T7_Diamond_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/1725874983.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "diamond dust desc",
+ "lore": null,
+ "whereToFind": "Crafting, Improved Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2965674274,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 61577244,
+      "name": "Diamond",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 609216940,
+   "name": "Ancient Health Potion",
+   "page": "items/consumables/ancient-health-potion-609216940.md",
+   "json": "items/consumables/ancient-health-potion-609216940.json"
+  },
+  {
+   "id": 83283491,
+   "name": "T7 Fireball",
+   "page": "items/ammunition/t7-fireball-83283491.md",
+   "json": "items/ammunition/t7-fireball-83283491.json"
+  },
+  {
+   "id": 2753909436,
+   "name": "T7 Eternal Heal Beam Channel II",
+   "page": "items/ammunition/t7-eternal-heal-beam-channel-ii-2753909436.md",
+   "json": "items/ammunition/t7-eternal-heal-beam-channel-ii-2753909436.json"
+  },
+  {
+   "id": 3681008420,
+   "name": "T7 Eternal Ice Totem II",
+   "page": "items/ammunition/t7-eternal-ice-totem-ii-3681008420.md",
+   "json": "items/ammunition/t7-eternal-ice-totem-ii-3681008420.json"
+  },
+  {
+   "id": 3901795018,
+   "name": "T7 Eternal Lightning Channel II",
+   "page": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.md",
+   "json": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.json"
+  },
+  {
+   "id": 2369199112,
+   "name": "T7 Eternal Ball Lightning",
+   "page": "items/ammunition/t7-eternal-ball-lightning-2369199112.md",
+   "json": "items/ammunition/t7-eternal-ball-lightning-2369199112.json"
+  },
+  {
+   "id": 1209734633,
+   "name": "T7 Eternal Shock Wisp",
+   "page": "items/ammunition/t7-eternal-shock-wisp-1209734633.md",
+   "json": "items/ammunition/t7-eternal-shock-wisp-1209734633.json"
+  },
+  {
+   "id": 803538053,
+   "name": "T7 Eternal Shroud Beam Channel",
+   "page": "items/ammunition/t7-eternal-shroud-beam-channel-803538053.md",
+   "json": "items/ammunition/t7-eternal-shroud-beam-channel-803538053.json"
+  },
+  {
+   "id": 297685721,
+   "name": "T7 Eternal Bone Channel II",
+   "page": "items/ammunition/t7-eternal-bone-channel-ii-297685721.md",
+   "json": "items/ammunition/t7-eternal-bone-channel-ii-297685721.json"
+  },
+  {
+   "id": 3370079249,
+   "name": "T7 Eternal Summon Skeleton II",
+   "page": "items/ammunition/t7-eternal-summon-skeleton-ii-3370079249.md",
+   "json": "items/ammunition/t7-eternal-summon-skeleton-ii-3370079249.json"
+  },
+  {
+   "id": 4160116201,
+   "name": "Exploding Arrow IV",
+   "page": "items/ammunition/exploding-arrow-iv-4160116201.md",
+   "json": "items/ammunition/exploding-arrow-iv-4160116201.json"
+  },
+  {
+   "id": 3250908839,
+   "name": "Player Base Gem Forge",
+   "page": "items/buildtools/player-base-gem-forge-3250908839.md",
+   "json": "items/buildtools/player-base-gem-forge-3250908839.json"
+  },
+  {
+   "id": 2501086572,
+   "name": "Magic Infusion Station",
+   "page": "items/buildtools/magic-infusion-station-2501086572.md",
+   "json": "items/buildtools/magic-infusion-station-2501086572.json"
+  },
+  {
+   "id": 1367103932,
+   "name": "Lord Vorgoth's Sword",
+   "page": "items/weapons/lord-vorgoth-s-sword-1367103932.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-1367103932.json"
+  },
+  {
+   "id": 3233786830,
+   "name": "Darya's Remorse",
+   "page": "items/weapons/darya-s-remorse-3233786830.md",
+   "json": "items/weapons/darya-s-remorse-3233786830.json"
+  },
+  {
+   "id": 3848774794,
+   "name": "Electric Initialiser",
+   "page": "items/weapons/electric-initialiser-3848774794.md",
+   "json": "items/weapons/electric-initialiser-3848774794.json"
+  },
+  {
+   "id": 62683222,
+   "name": "Proto Bone-Bender",
+   "page": "items/weapons/proto-bone-bender-62683222.md",
+   "json": "items/weapons/proto-bone-bender-62683222.json"
+  },
+  {
+   "id": 397149581,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-397149581.md",
+   "json": "items/weapons/t1-lore-wand-397149581.json"
+  }
+ ],
+ "page": "items/materials/diamond-dust-1725874983.md"
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Wall Roof Inverted",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1444745133,
+   "name": "Wall Roof Inverted",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-inverted-1444745133.md",
+   "json": "items/blueprints/wall-roof-inverted-1444745133.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4211995022,
+   "name": "Wall Roof Inverted",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-inverted-4211995022.md",
+   "json": "items/blueprints/wall-roof-inverted-4211995022.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/wall-roof-inverted.md"
+}

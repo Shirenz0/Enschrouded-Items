@@ -17,4 +17,4 @@ These leather gloves are adorned with metal which protects the wearer's knuckles
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-ranger-arms.json)

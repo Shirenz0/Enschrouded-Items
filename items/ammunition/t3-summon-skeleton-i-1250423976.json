@@ -1,0 +1,79 @@
+{
+ "id": 1250423976,
+ "name": "T3 Summon Skeleton I",
+ "internalName": "Ammo_T3_Spell_Skeleton_lvl17",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 17,
+  "max": 17
+ },
+ "maxStack": 500,
+ "image": "images/icons/1250423976.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a Skeleton that attacks enemies. \nMaximum limit of summoned Skeletons is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Cutting": 50,
+   "Ice": 50
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 102,
+    "display": "102",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 60000,
+    "display": "1:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2933402986,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 2617088387,
+      "name": "T2 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 50,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/ammunition/t3-summon-skeleton-i-1250423976.md"
+}

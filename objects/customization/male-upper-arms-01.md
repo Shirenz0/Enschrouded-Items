@@ -15,4 +15,4 @@ The versions have the same level range, rarity, stack size and texts; the game k
 
 ---
 
-[← Customization](../../categories/customization.md) · [All categories](../../README.md)
+[← Customization](../../categories/customization.md) · [All categories](../../README.md) · [JSON](male-upper-arms-01.json)

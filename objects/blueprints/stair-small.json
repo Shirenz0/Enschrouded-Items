@@ -1,0 +1,55 @@
+{
+ "name": "Stair Small",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1740166566,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-1740166566.md",
+   "json": "items/blueprints/stair-small-1740166566.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1982827643,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-1982827643.md",
+   "json": "items/blueprints/stair-small-1982827643.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2108853004,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-2108853004.md",
+   "json": "items/blueprints/stair-small-2108853004.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3575993170,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-3575993170.md",
+   "json": "items/blueprints/stair-small-3575993170.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/stair-small.md"
+}

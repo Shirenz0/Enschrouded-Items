@@ -17,4 +17,4 @@ Seeing this helmet makes others feel safe and secure.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-tank-helmet.json)

@@ -25,4 +25,4 @@ Veilwater Basin Enemies and Cinder's Cradle Crops
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](poison-sting-2632607216.json)

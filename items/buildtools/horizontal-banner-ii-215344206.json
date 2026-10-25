@@ -1,0 +1,61 @@
+{
+ "id": 215344206,
+ "name": "Horizontal Banner II",
+ "internalName": "Prop_Decoration_T6_Throneroom_Banner_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/215344206.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3667314315,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3960097842,
+      "name": "Red Fabric",
+      "page": "items/materials/red-fabric-3960097842.md",
+      "json": "items/materials/red-fabric-3960097842.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1897605064,
+      "name": "Daylily Flower",
+      "page": "items/materials/daylily-flower-1897605064.md",
+      "json": "items/materials/daylily-flower-1897605064.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/horizontal-banner-ii-215344206.md"
+}

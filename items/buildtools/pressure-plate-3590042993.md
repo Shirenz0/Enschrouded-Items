@@ -21,4 +21,4 @@ A pressure plate that can be used in a logic system. Walking onto it activates i
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](pressure-plate-3590042993.json)

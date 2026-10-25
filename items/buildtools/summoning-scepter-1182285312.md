@@ -25,4 +25,4 @@ Summons rescued souls into your bases around an Altar.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](summoning-scepter-1182285312.json)

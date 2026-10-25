@@ -1,0 +1,25 @@
+{
+ "id": 4032968739,
+ "name": "Large Sea Lily Fossil",
+ "internalName": "Collection_fossils_06_seaCreatures_seaLily_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4032968739.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A large and slender sea lily, reaching up towards the surface and sky. If it had any sense of perception, it'd be able to judge the rise and fall of the sea, as well as the looming change in the waters.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/large-sea-lily-fossil-4032968739.md"
+}

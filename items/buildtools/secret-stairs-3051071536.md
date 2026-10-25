@@ -21,4 +21,4 @@ A secret you can install in your base.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](secret-stairs-3051071536.json)

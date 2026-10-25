@@ -17,4 +17,4 @@ Robust gloves which hide the wearer's palms and true intentions.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-assassin-arms.json)

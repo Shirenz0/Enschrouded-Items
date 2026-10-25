@@ -1,0 +1,116 @@
+{
+ "id": 4293917741,
+ "name": "Rising Fighter Trousers",
+ "internalName": "Armor_T1_Warrior_DPS_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/4293917741.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Polstered trousers to dampen your fall in fighting practice.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/rising-fighter-trousers.md",
+  "json": "objects/equipment/rising-fighter-trousers.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 23,
+    "display": "23",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+20 Health"
+  },
+  {
+   "order": 5,
+   "name": "Barbarians Path",
+   "effect": "Increases the skill level of Barbarian's Path"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1746529235,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 984234407,
+      "name": "Animal Fur",
+      "page": "items/materials/animal-fur-984234407.md",
+      "json": "items/materials/animal-fur-984234407.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 860644516,
+      "name": "Fog Liquid",
+      "page": "items/materials/fog-liquid-860644516.md",
+      "json": "items/materials/fog-liquid-860644516.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/rising-fighter-trousers-4293917741.md"
+}

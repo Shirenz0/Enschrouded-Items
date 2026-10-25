@@ -1,0 +1,25 @@
+{
+ "id": 3432840465,
+ "name": "Deluxe Edition Items",
+ "internalName": "Prop_DLCDelivery_Supporter_Complete_Container",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3432840465.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Find all Deluxe Edition items in this chest.",
+ "lore": "Special Item",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/deluxe-edition-items-3432840465.md"
+}

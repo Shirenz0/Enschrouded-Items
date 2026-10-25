@@ -1,0 +1,309 @@
+{
+ "id": 631520303,
+ "name": "Stone",
+ "internalName": "Build_TerrainMaterial_T1_Stone",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/631520303.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The best stories start small. For example with a stone. For whoever asks it could be a famous one.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2574733718,
+   "name": "Wooden Rake",
+   "page": "items/buildtools/wooden-rake-2574733718.md",
+   "json": "items/buildtools/wooden-rake-2574733718.json"
+  },
+  {
+   "id": 497414641,
+   "name": "Stone Axe",
+   "page": "items/tools/stone-axe-497414641.md",
+   "json": "items/tools/stone-axe-497414641.json"
+  },
+  {
+   "id": 623229764,
+   "name": "Stone Pickaxe",
+   "page": "items/buildtools/stone-pickaxe-623229764.md",
+   "json": "items/buildtools/stone-pickaxe-623229764.json"
+  },
+  {
+   "id": 192912459,
+   "name": "Self Illumination Block",
+   "page": "items/buildtools/self-illumination-block-192912459.md",
+   "json": "items/buildtools/self-illumination-block-192912459.json"
+  },
+  {
+   "id": 3402080269,
+   "name": "Self Illuminating Block Green",
+   "page": "items/buildtools/self-illuminating-block-green-3402080269.md",
+   "json": "items/buildtools/self-illuminating-block-green-3402080269.json"
+  },
+  {
+   "id": 2310650651,
+   "name": "Self Illuminating Block Warm white",
+   "page": "items/buildtools/self-illuminating-block-warm-white-2310650651.md",
+   "json": "items/buildtools/self-illuminating-block-warm-white-2310650651.json"
+  },
+  {
+   "id": 582832101,
+   "name": "Highly Polished Stone Block",
+   "page": "items/buildtools/highly-polished-stone-block-582832101.md",
+   "json": "items/buildtools/highly-polished-stone-block-582832101.json"
+  },
+  {
+   "id": 310129061,
+   "name": "Waterproof Stone Block",
+   "page": "items/buildtools/waterproof-stone-block-310129061.md",
+   "json": "items/buildtools/waterproof-stone-block-310129061.json"
+  },
+  {
+   "id": 1406367026,
+   "name": "Weathered Stone Block",
+   "page": "items/buildtools/weathered-stone-block-1406367026.md",
+   "json": "items/buildtools/weathered-stone-block-1406367026.json"
+  },
+  {
+   "id": 1506458989,
+   "name": "Castle Wall Stone Block",
+   "page": "items/buildtools/castle-wall-stone-block-1506458989.md",
+   "json": "items/buildtools/castle-wall-stone-block-1506458989.json"
+  },
+  {
+   "id": 3312174805,
+   "name": "Regular Stone Block",
+   "page": "items/buildtools/regular-stone-block-3312174805.md",
+   "json": "items/buildtools/regular-stone-block-3312174805.json"
+  },
+  {
+   "id": 3337807364,
+   "name": "Roughly Cut Stone Block",
+   "page": "items/buildtools/roughly-cut-stone-block-3337807364.md",
+   "json": "items/buildtools/roughly-cut-stone-block-3337807364.json"
+  },
+  {
+   "id": 2041116756,
+   "name": "Fallen Crypt Block",
+   "page": "items/buildtools/fallen-crypt-block-2041116756.md",
+   "json": "items/buildtools/fallen-crypt-block-2041116756.json"
+  },
+  {
+   "id": 2175686957,
+   "name": "Rough Stone Block",
+   "page": "items/buildtools/rough-stone-block-2175686957.md",
+   "json": "items/buildtools/rough-stone-block-2175686957.json"
+  },
+  {
+   "id": 2543947810,
+   "name": "Mycellium Overgrown Block",
+   "page": "items/buildtools/mycellium-overgrown-block-2543947810.md",
+   "json": "items/buildtools/mycellium-overgrown-block-2543947810.json"
+  },
+  {
+   "id": 1699388154,
+   "name": "Stone Shingle Block",
+   "page": "items/buildtools/stone-shingle-block-1699388154.md",
+   "json": "items/buildtools/stone-shingle-block-1699388154.json"
+  },
+  {
+   "id": 3938514298,
+   "name": "Road Stone 2",
+   "page": "items/materials/road-stone-2-3938514298.md",
+   "json": "items/materials/road-stone-2-3938514298.json"
+  },
+  {
+   "id": 2992740264,
+   "name": "Field Stones",
+   "page": "items/materials/field-stones-2992740264.md",
+   "json": "items/materials/field-stones-2992740264.json"
+  },
+  {
+   "id": 323499580,
+   "name": "Road Stone 1",
+   "page": "items/materials/road-stone-1-323499580.md",
+   "json": "items/materials/road-stone-1-323499580.json"
+  },
+  {
+   "id": 3940653429,
+   "name": "T4 Shroud Meteor",
+   "page": "items/ammunition/t4-shroud-meteor-3940653429.md",
+   "json": "items/ammunition/t4-shroud-meteor-3940653429.json"
+  },
+  {
+   "id": 2407454540,
+   "name": "Skull Press",
+   "page": "items/buildtools/skull-press-2407454540.md",
+   "json": "items/buildtools/skull-press-2407454540.json"
+  },
+  {
+   "id": 4243734462,
+   "name": "Grinding Stones",
+   "page": "items/buildtools/grinding-stones-4243734462.md",
+   "json": "items/buildtools/grinding-stones-4243734462.json"
+  },
+  {
+   "id": 367322414,
+   "name": "Charcoal Kiln",
+   "page": "items/buildtools/charcoal-kiln-367322414.md",
+   "json": "items/buildtools/charcoal-kiln-367322414.json"
+  },
+  {
+   "id": 770717366,
+   "name": "Forge",
+   "page": "items/buildtools/forge-770717366.md",
+   "json": "items/buildtools/forge-770717366.json"
+  },
+  {
+   "id": 979851343,
+   "name": "Wooden Club",
+   "page": "items/weapons/wooden-club-979851343.md",
+   "json": "items/weapons/wooden-club-979851343.json"
+  },
+  {
+   "id": 2553759691,
+   "name": "Basic Fire Place",
+   "page": "items/buildtools/basic-fire-place-2553759691.md",
+   "json": "items/buildtools/basic-fire-place-2553759691.json"
+  },
+  {
+   "id": 3677711018,
+   "name": "Stone Fire Place",
+   "page": "items/buildtools/stone-fire-place-3677711018.md",
+   "json": "items/buildtools/stone-fire-place-3677711018.json"
+  },
+  {
+   "id": 673405648,
+   "name": "Fern Pot",
+   "page": "items/buildtools/fern-pot-673405648.md",
+   "json": "items/buildtools/fern-pot-673405648.json"
+  },
+  {
+   "id": 3688073501,
+   "name": "White Cymbidum Flower Pot",
+   "page": "items/buildtools/white-cymbidum-flower-pot-3688073501.md",
+   "json": "items/buildtools/white-cymbidum-flower-pot-3688073501.json"
+  },
+  {
+   "id": 3125832694,
+   "name": "Yellow Cymbidum Flower Pot",
+   "page": "items/buildtools/yellow-cymbidum-flower-pot-3125832694.md",
+   "json": "items/buildtools/yellow-cymbidum-flower-pot-3125832694.json"
+  },
+  {
+   "id": 1920323571,
+   "name": "Two-colored Lily Flower Pot",
+   "page": "items/buildtools/two-colored-lily-flower-pot-1920323571.md",
+   "json": "items/buildtools/two-colored-lily-flower-pot-1920323571.json"
+  },
+  {
+   "id": 3859722488,
+   "name": "Yellow Lily Flower Pot",
+   "page": "items/buildtools/yellow-lily-flower-pot-3859722488.md",
+   "json": "items/buildtools/yellow-lily-flower-pot-3859722488.json"
+  },
+  {
+   "id": 3148035436,
+   "name": "Pink Lily Flower Pot",
+   "page": "items/buildtools/pink-lily-flower-pot-3148035436.md",
+   "json": "items/buildtools/pink-lily-flower-pot-3148035436.json"
+  },
+  {
+   "id": 2278407208,
+   "name": "Fine Stone Fence",
+   "page": "items/buildtools/fine-stone-fence-2278407208.md",
+   "json": "items/buildtools/fine-stone-fence-2278407208.json"
+  },
+  {
+   "id": 1746907104,
+   "name": "Stone Handrail",
+   "page": "items/buildtools/stone-handrail-1746907104.md",
+   "json": "items/buildtools/stone-handrail-1746907104.json"
+  },
+  {
+   "id": 2841036941,
+   "name": "Fine Stone Fence Pole",
+   "page": "items/buildtools/fine-stone-fence-pole-2841036941.md",
+   "json": "items/buildtools/fine-stone-fence-pole-2841036941.json"
+  },
+  {
+   "id": 34316523,
+   "name": "Small Stone Arc",
+   "page": "items/buildtools/small-stone-arc-34316523.md",
+   "json": "items/buildtools/small-stone-arc-34316523.json"
+  },
+  {
+   "id": 3325960453,
+   "name": "Large Stone Arc",
+   "page": "items/buildtools/large-stone-arc-3325960453.md",
+   "json": "items/buildtools/large-stone-arc-3325960453.json"
+  },
+  {
+   "id": 4234270396,
+   "name": "Stone Column",
+   "page": "items/buildtools/stone-column-4234270396.md",
+   "json": "items/buildtools/stone-column-4234270396.json"
+  },
+  {
+   "id": 672261632,
+   "name": "Stone Column Base",
+   "page": "items/buildtools/stone-column-base-672261632.md",
+   "json": "items/buildtools/stone-column-base-672261632.json"
+  },
+  {
+   "id": 3180227033,
+   "name": "Stone Column Block",
+   "page": "items/buildtools/stone-column-block-3180227033.md",
+   "json": "items/buildtools/stone-column-block-3180227033.json"
+  },
+  {
+   "id": 4233423640,
+   "name": "Grassland Rubble",
+   "page": "items/materials/grassland-rubble-4233423640.md",
+   "json": "items/materials/grassland-rubble-4233423640.json"
+  },
+  {
+   "id": 3433495732,
+   "name": "Large Spiral Stone Stairs",
+   "page": "items/buildtools/large-spiral-stone-stairs-3433495732.md",
+   "json": "items/buildtools/large-spiral-stone-stairs-3433495732.json"
+  },
+  {
+   "id": 2300763299,
+   "name": "Stone Stair II",
+   "page": "items/buildtools/stone-stair-ii-2300763299.md",
+   "json": "items/buildtools/stone-stair-ii-2300763299.json"
+  },
+  {
+   "id": 1509264651,
+   "name": "Stone Stair I",
+   "page": "items/buildtools/stone-stair-i-1509264651.md",
+   "json": "items/buildtools/stone-stair-i-1509264651.json"
+  },
+  {
+   "id": 1123328896,
+   "name": "Stone Wall Drain",
+   "page": "items/buildtools/stone-wall-drain-1123328896.md",
+   "json": "items/buildtools/stone-wall-drain-1123328896.json"
+  },
+  {
+   "id": 3920861775,
+   "name": "Stone Floor Drain",
+   "page": "items/buildtools/stone-floor-drain-3920861775.md",
+   "json": "items/buildtools/stone-floor-drain-3920861775.json"
+  }
+ ],
+ "page": "items/materials/stone-631520303.md"
+}

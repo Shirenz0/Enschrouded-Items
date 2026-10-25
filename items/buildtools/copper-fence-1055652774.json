@@ -1,0 +1,72 @@
+{
+ "id": 1055652774,
+ "name": "Copper Fence",
+ "internalName": "Prop_Decoration_T2_Fence_Copper",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1055652774.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2473323851,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 44037605,
+   "name": "Graveyard Fence",
+   "page": "items/buildtools/graveyard-fence-44037605.md",
+   "json": "items/buildtools/graveyard-fence-44037605.json"
+  },
+  {
+   "id": 3593277342,
+   "name": "Graveyard Fence Broken I",
+   "page": "items/buildtools/graveyard-fence-broken-i-3593277342.md",
+   "json": "items/buildtools/graveyard-fence-broken-i-3593277342.json"
+  },
+  {
+   "id": 4003997662,
+   "name": "Graveyard Fence Broken II",
+   "page": "items/buildtools/graveyard-fence-broken-ii-4003997662.md",
+   "json": "items/buildtools/graveyard-fence-broken-ii-4003997662.json"
+  }
+ ],
+ "page": "items/buildtools/copper-fence-1055652774.md"
+}

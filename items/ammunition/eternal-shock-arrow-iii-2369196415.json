@@ -1,0 +1,102 @@
+{
+ "id": 2369196415,
+ "name": "Eternal Shock Arrow III",
+ "internalName": "Ammo_T7_Arrow_Magic_Lightning_Eternal_lvl45",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/2369196415.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal Shock Arrow desc",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 38,
+    "display": "38",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-6 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-6 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+2 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Thundery",
+   "effect": "+10 Thundery"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1327760443,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2670118573,
+      "name": "Ancient/Archaic Infusion",
+      "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+      "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/eternal-shock-arrow-iii-2369196415.md"
+}

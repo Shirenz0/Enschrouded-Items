@@ -17,4 +17,4 @@ No mage armor set is complete without a large, brimmed hat.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-mage-helmet.json)

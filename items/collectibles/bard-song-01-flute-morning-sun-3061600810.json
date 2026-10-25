@@ -1,0 +1,25 @@
+{
+ "id": 3061600810,
+ "name": "Bard song 01 flute morning sun",
+ "internalName": "8kLoreText_scroll_bard_song_flute_unlocked",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/collectibles.svg",
+ "caption": null,
+ "description": "flute desc placeholder",
+ "lore": "Music",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/bard-song-01-flute-morning-sun-3061600810.md"
+}

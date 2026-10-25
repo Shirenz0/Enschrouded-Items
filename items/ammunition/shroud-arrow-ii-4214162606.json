@@ -1,0 +1,67 @@
+{
+ "id": 4214162606,
+ "name": "Shroud Arrow II",
+ "internalName": "Ammo_T5_Arrow_Fog_lvl35",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 500,
+ "image": "images/icons/4214162606.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "If you can't beat them, join them. This arrow uses the power of the Shroud and disperses a cloud of Shroud upon impact.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Shroud": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 2861392678,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1985910431,
+      "name": "Chitin Podwer",
+      "page": "items/materials/chitin-podwer-1985910431.md",
+      "json": "items/materials/chitin-podwer-1985910431.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1158895795,
+      "name": "Frozen Shroud Solids",
+      "page": "items/materials/frozen-shroud-solids-1158895795.md",
+      "json": "items/materials/frozen-shroud-solids-1158895795.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/shroud-arrow-ii-4214162606.md"
+}

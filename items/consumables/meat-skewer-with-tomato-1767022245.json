@@ -1,0 +1,85 @@
+{
+ "id": 1767022245,
+ "name": "Meat Skewer with Tomato",
+ "internalName": "Food_T1_dish_vegetable_TomatoSkewer",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1767022245.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "With just some meat, a tomato, and a small fire, you can make this nutritious skewer anywhere and at any time.",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 1800000,
+    "display": "30:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2100800867,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3984646053,
+      "name": "Raw Meat and Tomato Skewer",
+      "page": "items/materials/raw-meat-and-tomato-skewer-3984646053.md",
+      "json": "items/materials/raw-meat-and-tomato-skewer-3984646053.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/meat-skewer-with-tomato-1767022245.md"
+}

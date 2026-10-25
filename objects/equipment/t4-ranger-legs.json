@@ -1,0 +1,35 @@
+{
+ "name": "T4 Ranger Legs",
+ "category": "Equipment",
+ "image": "images/icons/2079485053.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1123016064,
+   "name": "T4 Ranger Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1123016064.png",
+   "page": "items/equipment/t4-ranger-legs-1123016064.md",
+   "json": "items/equipment/t4-ranger-legs-1123016064.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2079485053,
+   "name": "T4 Ranger Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2079485053.png",
+   "page": "items/equipment/t4-ranger-legs-2079485053.md",
+   "json": "items/equipment/t4-ranger-legs-2079485053.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-ranger-legs.md"
+}

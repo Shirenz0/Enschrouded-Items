@@ -1,0 +1,25 @@
+{
+ "id": 1920604645,
+ "name": "Baby Capybara",
+ "internalName": "Animal_Baby_Capybara",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1920604645.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "cute little Capybara",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-capybara-1920604645.md"
+}

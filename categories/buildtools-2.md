@@ -305,4 +305,4 @@
 | <img src="../images/icons/1589845330.png" width="48"> | [Globe](../items/buildtools/globe-1589845330.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/394551254.png" width="48"> | [Globe TwitchDrop](../items/buildtools/globe-twitchdrop-394551254.md) | ⚪ Common | - | 50 |
 
-[← All categories](../README.md) · page [1](buildtools.md) · **2** · [3](buildtools-3.md) · [4](buildtools-4.md) · [5](buildtools-5.md) · [6](buildtools-6.md)
+[← All categories](../README.md) · page [1](buildtools.md) · **2** · [3](buildtools-3.md) · [4](buildtools-4.md) · [5](buildtools-5.md) · [6](buildtools-6.md) · [JSON](buildtools-2.json)

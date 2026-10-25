@@ -1,0 +1,25 @@
+{
+ "id": 4219894424,
+ "name": "Desert Bird",
+ "internalName": "Animal_Farming_Bird_Desert",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4219894424.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This lively little fella will gladly donate some feathers for the cause.",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/desert-bird-4219894424.md"
+}

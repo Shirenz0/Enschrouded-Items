@@ -1,0 +1,25 @@
+{
+ "id": 3748695465,
+ "name": "Silver Key",
+ "internalName": "Key_Silver01",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5,
+ "image": "images/icons/3748695465.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Opens most locked doors.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/silver-key-3748695465.md"
+}

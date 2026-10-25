@@ -1,0 +1,67 @@
+{
+ "id": 2433487720,
+ "name": "Night Lily",
+ "internalName": "Food_T1_raw_nightplant_NightLily",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/2433487720.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Night Lily - can be used for special dishes to increase the effect",
+ "lore": null,
+ "whereToFind": "Springlands, night",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Fog Survivability Extension",
+    "value": 60000,
+    "display": "60,000",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 600000,
+    "display": "10:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2949322768,
+   "name": "Health Potion improved",
+   "page": "items/consumables/health-potion-improved-2949322768.md",
+   "json": "items/consumables/health-potion-improved-2949322768.json"
+  },
+  {
+   "id": 4241750567,
+   "name": "T1 Eternal Mana Leech Beam II",
+   "page": "items/ammunition/t1-eternal-mana-leech-beam-ii-4241750567.md",
+   "json": "items/ammunition/t1-eternal-mana-leech-beam-ii-4241750567.json"
+  },
+  {
+   "id": 2299237068,
+   "name": "T1 Palette 04 Brown blue grey",
+   "page": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.md",
+   "json": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.json"
+  }
+ ],
+ "page": "items/consumables/night-lily-2433487720.md"
+}

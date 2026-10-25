@@ -22,4 +22,4 @@ Opens a lock. (Hopefully)
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](scrappy-lockpick-2897843384.json)

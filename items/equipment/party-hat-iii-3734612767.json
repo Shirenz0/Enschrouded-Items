@@ -1,0 +1,55 @@
+{
+ "id": 3734612767,
+ "name": "Party Hat III",
+ "internalName": "Vanity_TX_PartyHat_03",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3734612767.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Party Hat Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head"
+ },
+ "recipes": [
+  {
+   "recipeId": 2850630859,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3960097842,
+      "name": "Red Fabric",
+      "page": "items/materials/red-fabric-3960097842.md",
+      "json": "items/materials/red-fabric-3960097842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/party-hat-iii-3734612767.md"
+}

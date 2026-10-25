@@ -1,0 +1,52 @@
+{
+ "id": 2041116756,
+ "name": "Fallen Crypt Block",
+ "internalName": "Block_T1_HollowHalls_Stone_HallowHalls_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2041116756.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Fallen Crypt Block description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4112669667,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1714627847,
+      "name": "Tar",
+      "page": "items/materials/tar-1714627847.md",
+      "json": "items/materials/tar-1714627847.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/fallen-crypt-block-2041116756.md"
+}

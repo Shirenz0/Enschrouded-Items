@@ -27,4 +27,4 @@ These boots will still keep their shape even if you drop a hammer on them. Or to
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](blacksmith-boots-2248886360.json)

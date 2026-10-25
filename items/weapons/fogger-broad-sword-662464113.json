@@ -1,0 +1,66 @@
+{
+ "id": 662464113,
+ "name": "Fogger Broad Sword",
+ "internalName": "Weapon_T2-TX_1H_Sword_Enemy_FoggerBroadsword",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/662464113.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A heavy sword fileded by armored Foggers",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  },
+  {
+   "order": 5,
+   "name": "Scrounging",
+   "effect": "+5 Damage against Scavenger"
+  }
+ ],
+ "page": "items/weapons/fogger-broad-sword-662464113.md"
+}

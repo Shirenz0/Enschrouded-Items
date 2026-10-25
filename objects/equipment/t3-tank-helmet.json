@@ -1,0 +1,35 @@
+{
+ "name": "T3 Tank Helmet",
+ "category": "Equipment",
+ "image": "images/icons/1679323364.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1221959339,
+   "name": "T3 Tank Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1221959339.png",
+   "page": "items/equipment/t3-tank-helmet-1221959339.md",
+   "json": "items/equipment/t3-tank-helmet-1221959339.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1679323364,
+   "name": "T3 Tank Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1679323364.png",
+   "page": "items/equipment/t3-tank-helmet-1679323364.md",
+   "json": "items/equipment/t3-tank-helmet-1679323364.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-tank-helmet.md"
+}

@@ -1,0 +1,43 @@
+{
+ "id": 2263742516,
+ "name": "Trapdoor wood 2m",
+ "internalName": "Prop_Logic_Trap_Door_Wood_00_2m",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2263742516.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This trap door might open unexpectedly beneath your feet. Watch your step!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2292248643,
+   "station": "Logic System Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/trapdoor-wood-2m-2263742516.md"
+}

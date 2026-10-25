@@ -25,4 +25,4 @@ A medium potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](sage-flower-pot-3949039004.json)

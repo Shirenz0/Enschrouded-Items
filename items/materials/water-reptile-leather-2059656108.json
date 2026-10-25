@@ -1,0 +1,60 @@
+{
+ "id": 2059656108,
+ "name": "Water Reptile Leather",
+ "internalName": "Material_T6_Water_Reptile_Leather",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2059656108.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A shiny material with an interesting texture. Any garment fashioned with this will appear very fashionable.",
+ "lore": null,
+ "whereToFind": "Crafting, Drying Rack",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2538740936,
+   "station": "Drying Rack",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2821339070,
+      "name": "Water Reptile Hide",
+      "page": "items/materials/water-reptile-hide-2821339070.md",
+      "json": "items/materials/water-reptile-hide-2821339070.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2230173783,
+   "name": "T6 Assassin Legs",
+   "page": "items/equipment/t6-assassin-legs-2230173783.md",
+   "json": "items/equipment/t6-assassin-legs-2230173783.json"
+  }
+ ],
+ "page": "items/materials/water-reptile-leather-2059656108.md"
+}

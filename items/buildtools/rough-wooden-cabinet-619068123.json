@@ -1,0 +1,60 @@
+{
+ "id": 619068123,
+ "name": "Rough Wooden Cabinet",
+ "internalName": "Prop_Decoration_T0_Cabinet_Roughwood",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/619068123.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4048079348,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2191154793,
+   "name": "Secret Crude Wooden Bookshelf Door",
+   "page": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.md",
+   "json": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.json"
+  }
+ ],
+ "page": "items/buildtools/rough-wooden-cabinet-619068123.md"
+}

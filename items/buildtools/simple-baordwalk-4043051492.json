@@ -1,0 +1,29 @@
+{
+ "id": 4043051492,
+ "name": "Simple Baordwalk",
+ "internalName": "Prop_Decoration_T6_Simple_Boardwalk_2m_01_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4043051492.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/simple-baordwalk.md",
+  "json": "objects/buildtools/simple-baordwalk.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/simple-baordwalk-4043051492.md"
+}

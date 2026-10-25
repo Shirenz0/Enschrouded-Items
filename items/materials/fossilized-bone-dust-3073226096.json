@@ -1,0 +1,271 @@
+{
+ "id": 3073226096,
+ "name": "Fossilized Bone Dust",
+ "internalName": "Material_T3_Fossilized_Bone_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/3073226096.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Grinding the Fossilized Bone into dust frees its inherent magical attributes and makes it more handy for further production steps.",
+ "lore": null,
+ "whereToFind": "Crafting, Hand Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3367633739,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  },
+  {
+   "recipeId": 3536415670,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2591238243,
+   "name": "T3 Eternal Mana Leech Beam IV",
+   "page": "items/ammunition/t3-eternal-mana-leech-beam-iv-2591238243.md",
+   "json": "items/ammunition/t3-eternal-mana-leech-beam-iv-2591238243.json"
+  },
+  {
+   "id": 685713190,
+   "name": "Eternal Fire Arrow I",
+   "page": "items/ammunition/eternal-fire-arrow-i-685713190.md",
+   "json": "items/ammunition/eternal-fire-arrow-i-685713190.json"
+  },
+  {
+   "id": 1375984897,
+   "name": "T7 Eternal Chain Heal II",
+   "page": "items/ammunition/t7-eternal-chain-heal-ii-1375984897.md",
+   "json": "items/ammunition/t7-eternal-chain-heal-ii-1375984897.json"
+  },
+  {
+   "id": 3216582163,
+   "name": "T5 Chain Heal II",
+   "page": "items/ammunition/t5-chain-heal-ii-3216582163.md",
+   "json": "items/ammunition/t5-chain-heal-ii-3216582163.json"
+  },
+  {
+   "id": 521600917,
+   "name": "T3 Eternal Ice Bolt II",
+   "page": "items/ammunition/t3-eternal-ice-bolt-ii-521600917.md",
+   "json": "items/ammunition/t3-eternal-ice-bolt-ii-521600917.json"
+  },
+  {
+   "id": 1100793430,
+   "name": "T3 Entangle II",
+   "page": "items/ammunition/t3-entangle-ii-1100793430.md",
+   "json": "items/ammunition/t3-entangle-ii-1100793430.json"
+  },
+  {
+   "id": 1783208373,
+   "name": "Chanterelle Seedling",
+   "page": "items/buildtools/chanterelle-seedling-1783208373.md",
+   "json": "items/buildtools/chanterelle-seedling-1783208373.json"
+  },
+  {
+   "id": 1811689543,
+   "name": "Wheat Seedling",
+   "page": "items/buildtools/wheat-seedling-1811689543.md",
+   "json": "items/buildtools/wheat-seedling-1811689543.json"
+  },
+  {
+   "id": 3764454676,
+   "name": "Rooibos Seedling",
+   "page": "items/buildtools/rooibos-seedling-3764454676.md",
+   "json": "items/buildtools/rooibos-seedling-3764454676.json"
+  },
+  {
+   "id": 2330783516,
+   "name": "Pepper Seedling",
+   "page": "items/buildtools/pepper-seedling-2330783516.md",
+   "json": "items/buildtools/pepper-seedling-2330783516.json"
+  },
+  {
+   "id": 3687407983,
+   "name": "T4 Palette 03 maroon",
+   "page": "items/colorpalette/t4-palette-03-maroon-3687407983.md",
+   "json": "items/colorpalette/t4-palette-03-maroon-3687407983.json"
+  },
+  {
+   "id": 3491275682,
+   "name": "T4 Palette 01 Brown yellow red",
+   "page": "items/colorpalette/t4-palette-01-brown-yellow-red-3491275682.md",
+   "json": "items/colorpalette/t4-palette-01-brown-yellow-red-3491275682.json"
+  },
+  {
+   "id": 2653935294,
+   "name": "T3 Palette 03 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.md",
+   "json": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.json"
+  },
+  {
+   "id": 2821660974,
+   "name": "T3 Palette 04 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.md",
+   "json": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.json"
+  },
+  {
+   "id": 2118938591,
+   "name": "T3 Palette 02 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-02-brown-green-grey-2118938591.md",
+   "json": "items/colorpalette/t3-palette-02-brown-green-grey-2118938591.json"
+  },
+  {
+   "id": 4294860398,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-4294860398.md",
+   "json": "items/weapons/cryptic-wand-4294860398.json"
+  },
+  {
+   "id": 2821143924,
+   "name": "Transcendental Screen",
+   "page": "items/equipment/transcendental-screen-2821143924.md",
+   "json": "items/equipment/transcendental-screen-2821143924.json"
+  },
+  {
+   "id": 3800404508,
+   "name": "T3 DPS Chest",
+   "page": "items/equipment/t3-dps-chest-3800404508.md",
+   "json": "items/equipment/t3-dps-chest-3800404508.json"
+  },
+  {
+   "id": 2255840984,
+   "name": "T3 Ranger Chest",
+   "page": "items/equipment/t3-ranger-chest-2255840984.md",
+   "json": "items/equipment/t3-ranger-chest-2255840984.json"
+  },
+  {
+   "id": 977735658,
+   "name": "T3 Ranger Helmet",
+   "page": "items/equipment/t3-ranger-helmet-977735658.md",
+   "json": "items/equipment/t3-ranger-helmet-977735658.json"
+  },
+  {
+   "id": 13759280,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-13759280.md",
+   "json": "items/equipment/ranger-fog-protection-armor-13759280.json"
+  },
+  {
+   "id": 2301277967,
+   "name": "T3 Archer Chest",
+   "page": "items/equipment/t3-archer-chest-2301277967.md",
+   "json": "items/equipment/t3-archer-chest-2301277967.json"
+  },
+  {
+   "id": 4024884903,
+   "name": "T4 Assassin Boots",
+   "page": "items/equipment/t4-assassin-boots-4024884903.md",
+   "json": "items/equipment/t4-assassin-boots-4024884903.json"
+  },
+  {
+   "id": 3648209951,
+   "name": "T4 BattleMage Arms",
+   "page": "items/equipment/t4-battlemage-arms-3648209951.md",
+   "json": "items/equipment/t4-battlemage-arms-3648209951.json"
+  },
+  {
+   "id": 1331200386,
+   "name": "T4 BattleMage Chest",
+   "page": "items/equipment/t4-battlemage-chest-1331200386.md",
+   "json": "items/equipment/t4-battlemage-chest-1331200386.json"
+  },
+  {
+   "id": 1192801048,
+   "name": "T4 BattleMage Helmet",
+   "page": "items/equipment/t4-battlemage-helmet-1192801048.md",
+   "json": "items/equipment/t4-battlemage-helmet-1192801048.json"
+  },
+  {
+   "id": 620048429,
+   "name": "T4 DPS Boots",
+   "page": "items/equipment/t4-dps-boots-620048429.md",
+   "json": "items/equipment/t4-dps-boots-620048429.json"
+  },
+  {
+   "id": 3615964892,
+   "name": "T4 Healer Boots",
+   "page": "items/equipment/t4-healer-boots-3615964892.md",
+   "json": "items/equipment/t4-healer-boots-3615964892.json"
+  },
+  {
+   "id": 398094556,
+   "name": "T4 Mage Arms",
+   "page": "items/equipment/t4-mage-arms-398094556.md",
+   "json": "items/equipment/t4-mage-arms-398094556.json"
+  },
+  {
+   "id": 1299163561,
+   "name": "T4 Mage Chest",
+   "page": "items/equipment/t4-mage-chest-1299163561.md",
+   "json": "items/equipment/t4-mage-chest-1299163561.json"
+  },
+  {
+   "id": 3486210573,
+   "name": "T4 Ranger Boots",
+   "page": "items/equipment/t4-ranger-boots-3486210573.md",
+   "json": "items/equipment/t4-ranger-boots-3486210573.json"
+  },
+  {
+   "id": 706627686,
+   "name": "T4 DPS Arms",
+   "page": "items/equipment/t4-dps-arms-706627686.md",
+   "json": "items/equipment/t4-dps-arms-706627686.json"
+  },
+  {
+   "id": 345073573,
+   "name": "T4 sniper boots",
+   "page": "items/equipment/t4-sniper-boots-345073573.md",
+   "json": "items/equipment/t4-sniper-boots-345073573.json"
+  },
+  {
+   "id": 1058485756,
+   "name": "T4 Tank Boots",
+   "page": "items/equipment/t4-tank-boots-1058485756.md",
+   "json": "items/equipment/t4-tank-boots-1058485756.json"
+  },
+  {
+   "id": 260133819,
+   "name": "Fertilised Farm Soil",
+   "page": "items/materials/fertilised-farm-soil-260133819.md",
+   "json": "items/materials/fertilised-farm-soil-260133819.json"
+  }
+ ],
+ "page": "items/materials/fossilized-bone-dust-3073226096.md"
+}

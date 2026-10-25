@@ -31,4 +31,4 @@ Description Cyclops Base Iron Trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](metal-boss-trophy-hollow-cyclops-1054730604.json)

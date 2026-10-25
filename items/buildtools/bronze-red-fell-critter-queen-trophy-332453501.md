@@ -31,4 +31,4 @@ A severed Red Fell Critter Queen Head. Collect multiple to craft the bronze trop
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](bronze-red-fell-critter-queen-trophy-332453501.json)

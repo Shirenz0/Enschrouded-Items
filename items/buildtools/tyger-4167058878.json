@@ -1,0 +1,25 @@
+{
+ "id": 4167058878,
+ "name": "Tyger",
+ "internalName": "Animal_Pet_Cat_02_Striped",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4167058878.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This cat is a fearsome hunter, but after a long day of adventuring, it loves nothing more than to snuggle up to you and sleep. It also brings home dead rats, sometimes - even though Embervale's rats are seemlingly twice the size of it's cats.",
+ "lore": "Pet",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/tyger-4167058878.md"
+}

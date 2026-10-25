@@ -1,0 +1,25 @@
+{
+ "id": 3577968307,
+ "name": "Treehouse Material",
+ "internalName": "Build_TerrainMaterial_T2_TallTree_TreeHouseHull",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/3577968307.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A complicated nesting material, used for building extravagant tree houses.",
+ "lore": null,
+ "whereToFind": "Blackmire",
+ "object": null,
+ "page": "items/materials/treehouse-material-3577968307.md"
+}

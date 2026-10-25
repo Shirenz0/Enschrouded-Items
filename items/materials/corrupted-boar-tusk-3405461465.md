@@ -25,4 +25,4 @@ Fell Boars, Revelwood Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](corrupted-boar-tusk-3405461465.json)

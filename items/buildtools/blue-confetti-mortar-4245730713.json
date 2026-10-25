@@ -1,0 +1,43 @@
+{
+ "id": 4245730713,
+ "name": "Blue Confetti Mortar",
+ "internalName": "Consumable_Toy_Confetti_01_Blue_Mortar_WIP",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4245730713.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Alchemy!",
+ "lore": "Consumables",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1698123930,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/buildtools/blue-confetti-mortar-4245730713.md"
+}

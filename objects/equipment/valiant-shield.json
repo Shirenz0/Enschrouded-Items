@@ -1,0 +1,35 @@
+{
+ "name": "Valiant Shield",
+ "category": "Equipment",
+ "image": "images/icons/419035885.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2159741777,
+   "name": "Valiant Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2159741777.png",
+   "page": "items/equipment/valiant-shield-2159741777.md",
+   "json": "items/equipment/valiant-shield-2159741777.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 419035885,
+   "name": "Valiant Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/419035885.png",
+   "page": "items/equipment/valiant-shield-419035885.md",
+   "json": "items/equipment/valiant-shield-419035885.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/valiant-shield.md"
+}

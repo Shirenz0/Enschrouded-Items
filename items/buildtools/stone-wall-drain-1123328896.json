@@ -1,0 +1,43 @@
+{
+ "id": 1123328896,
+ "name": "Stone Wall Drain",
+ "internalName": "Prop_WaterDrain_Stone_Wall",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1123328896.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Place this Drain on the Wall, all Water that is above it will be sucked in.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2014597276,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/stone-wall-drain-1123328896.md"
+}

@@ -1,0 +1,99 @@
+{
+ "name": "Hair 01 02",
+ "category": "Customization",
+ "image": null,
+ "versions": 8,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1204399620,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-1204399620.md",
+   "json": "items/customization/hair-01-02-1204399620.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1685900555,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-1685900555.md",
+   "json": "items/customization/hair-01-02-1685900555.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2431746038,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-2431746038.md",
+   "json": "items/customization/hair-01-02-2431746038.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2773046107,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-2773046107.md",
+   "json": "items/customization/hair-01-02-2773046107.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 293663305,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-293663305.md",
+   "json": "items/customization/hair-01-02-293663305.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3126364375,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-3126364375.md",
+   "json": "items/customization/hair-01-02-3126364375.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3251331271,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-3251331271.md",
+   "json": "items/customization/hair-01-02-3251331271.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4125945970,
+   "name": "Hair 01 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-02-4125945970.md",
+   "json": "items/customization/hair-01-02-4125945970.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/hair-01-02.md"
+}

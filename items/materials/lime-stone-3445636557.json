@@ -1,0 +1,375 @@
+{
+ "id": 3445636557,
+ "name": "Lime Stone",
+ "internalName": "Build_TerrainMaterial_T3_Stone_Steppes_Limestone",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3445636557.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The best stories start small. For example with a stone. For whoever asks it could be a famous one.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3286071567,
+   "name": "Decay Tool",
+   "page": "items/blueprints/decay-tool-3286071567.md",
+   "json": "items/blueprints/decay-tool-3286071567.json"
+  },
+  {
+   "id": 3718491895,
+   "name": "Big range Loot Drop Station",
+   "page": "items/buildtools/big-range-loot-drop-station-3718491895.md",
+   "json": "items/buildtools/big-range-loot-drop-station-3718491895.json"
+  },
+  {
+   "id": 3627519922,
+   "name": "Fancy Stone Block",
+   "page": "items/buildtools/fancy-stone-block-3627519922.md",
+   "json": "items/buildtools/fancy-stone-block-3627519922.json"
+  },
+  {
+   "id": 3379333313,
+   "name": "City Wall Stone Block",
+   "page": "items/buildtools/city-wall-stone-block-3379333313.md",
+   "json": "items/buildtools/city-wall-stone-block-3379333313.json"
+  },
+  {
+   "id": 296562836,
+   "name": "Refined Stone Block",
+   "page": "items/buildtools/refined-stone-block-296562836.md",
+   "json": "items/buildtools/refined-stone-block-296562836.json"
+  },
+  {
+   "id": 2365603799,
+   "name": "Limestone Block",
+   "page": "items/buildtools/limestone-block-2365603799.md",
+   "json": "items/buildtools/limestone-block-2365603799.json"
+  },
+  {
+   "id": 3321738283,
+   "name": "Road Stone 3",
+   "page": "items/materials/road-stone-3-3321738283.md",
+   "json": "items/materials/road-stone-3-3321738283.json"
+  },
+  {
+   "id": 1155756187,
+   "name": "Improved Water Well",
+   "page": "items/buildtools/improved-water-well-1155756187.md",
+   "json": "items/buildtools/improved-water-well-1155756187.json"
+  },
+  {
+   "id": 2071416918,
+   "name": "T3 Shower",
+   "page": "items/buildtools/t3-shower-2071416918.md",
+   "json": "items/buildtools/t3-shower-2071416918.json"
+  },
+  {
+   "id": 1695495104,
+   "name": "Bathtub T3",
+   "page": "items/buildtools/bathtub-t3-1695495104.md",
+   "json": "items/buildtools/bathtub-t3-1695495104.json"
+  },
+  {
+   "id": 1715616386,
+   "name": "Toilet T3",
+   "page": "items/buildtools/toilet-t3-1715616386.md",
+   "json": "items/buildtools/toilet-t3-1715616386.json"
+  },
+  {
+   "id": 821307402,
+   "name": "Sink T2",
+   "page": "items/buildtools/sink-t2-821307402.md",
+   "json": "items/buildtools/sink-t2-821307402.json"
+  },
+  {
+   "id": 3415766653,
+   "name": "Bed T3",
+   "page": "items/buildtools/bed-t3-3415766653.md",
+   "json": "items/buildtools/bed-t3-3415766653.json"
+  },
+  {
+   "id": 3320653606,
+   "name": "Stone Bench",
+   "page": "items/buildtools/stone-bench-3320653606.md",
+   "json": "items/buildtools/stone-bench-3320653606.json"
+  },
+  {
+   "id": 1461356575,
+   "name": "T3 Chair",
+   "page": "items/buildtools/t3-chair-1461356575.md",
+   "json": "items/buildtools/t3-chair-1461356575.json"
+  },
+  {
+   "id": 2314914919,
+   "name": "T3 Small Stone Brazier",
+   "page": "items/buildtools/t3-small-stone-brazier-2314914919.md",
+   "json": "items/buildtools/t3-small-stone-brazier-2314914919.json"
+  },
+  {
+   "id": 113411928,
+   "name": "T3 Tall Stone Brazier",
+   "page": "items/buildtools/t3-tall-stone-brazier-113411928.md",
+   "json": "items/buildtools/t3-tall-stone-brazier-113411928.json"
+  },
+  {
+   "id": 1385502569,
+   "name": "T3 Medium Stone Brazier",
+   "page": "items/buildtools/t3-medium-stone-brazier-1385502569.md",
+   "json": "items/buildtools/t3-medium-stone-brazier-1385502569.json"
+  },
+  {
+   "id": 2700082044,
+   "name": "Table Large T3",
+   "page": "items/buildtools/table-large-t3-2700082044.md",
+   "json": "items/buildtools/table-large-t3-2700082044.json"
+  },
+  {
+   "id": 2992710503,
+   "name": "Tabel Medium T3",
+   "page": "items/buildtools/tabel-medium-t3-2992710503.md",
+   "json": "items/buildtools/tabel-medium-t3-2992710503.json"
+  },
+  {
+   "id": 2862710104,
+   "name": "Table Small T3",
+   "page": "items/buildtools/table-small-t3-2862710104.md",
+   "json": "items/buildtools/table-small-t3-2862710104.json"
+  },
+  {
+   "id": 2959403836,
+   "name": "Bedside T3",
+   "page": "items/buildtools/bedside-t3-2959403836.md",
+   "json": "items/buildtools/bedside-t3-2959403836.json"
+  },
+  {
+   "id": 357442083,
+   "name": "Big Coffin",
+   "page": "items/buildtools/big-coffin-357442083.md",
+   "json": "items/buildtools/big-coffin-357442083.json"
+  },
+  {
+   "id": 2729052185,
+   "name": "Simple Coffin",
+   "page": "items/buildtools/simple-coffin-2729052185.md",
+   "json": "items/buildtools/simple-coffin-2729052185.json"
+  },
+  {
+   "id": 4224532456,
+   "name": "Coffin",
+   "page": "items/buildtools/coffin-4224532456.md",
+   "json": "items/buildtools/coffin-4224532456.json"
+  },
+  {
+   "id": 1624408583,
+   "name": "Huge Coffin Lid",
+   "page": "items/buildtools/huge-coffin-lid-1624408583.md",
+   "json": "items/buildtools/huge-coffin-lid-1624408583.json"
+  },
+  {
+   "id": 662225838,
+   "name": "Big Coffin Lid",
+   "page": "items/buildtools/big-coffin-lid-662225838.md",
+   "json": "items/buildtools/big-coffin-lid-662225838.json"
+  },
+  {
+   "id": 4091387567,
+   "name": "Coffin Lid",
+   "page": "items/buildtools/coffin-lid-4091387567.md",
+   "json": "items/buildtools/coffin-lid-4091387567.json"
+  },
+  {
+   "id": 160834168,
+   "name": "Simple Coffing Lid",
+   "page": "items/buildtools/simple-coffing-lid-160834168.md",
+   "json": "items/buildtools/simple-coffing-lid-160834168.json"
+  },
+  {
+   "id": 2678117077,
+   "name": "Tombstone \"In Loving Memory\"",
+   "page": "items/buildtools/tombstone-in-loving-memory-2678117077.md",
+   "json": "items/buildtools/tombstone-in-loving-memory-2678117077.json"
+  },
+  {
+   "id": 75272151,
+   "name": "Tombstone \"Together Again\"",
+   "page": "items/buildtools/tombstone-together-again-75272151.md",
+   "json": "items/buildtools/tombstone-together-again-75272151.json"
+  },
+  {
+   "id": 2907325488,
+   "name": "Tombstone \"Forever In Our Hearts\"",
+   "page": "items/buildtools/tombstone-forever-in-our-hearts-2907325488.md",
+   "json": "items/buildtools/tombstone-forever-in-our-hearts-2907325488.json"
+  },
+  {
+   "id": 3941822412,
+   "name": "Tombstone \"Until We Meet Again\"",
+   "page": "items/buildtools/tombstone-until-we-meet-again-3941822412.md",
+   "json": "items/buildtools/tombstone-until-we-meet-again-3941822412.json"
+  },
+  {
+   "id": 1653941305,
+   "name": "Tombstone \"Always 'Loved\"",
+   "page": "items/buildtools/tombstone-always-loved-1653941305.md",
+   "json": "items/buildtools/tombstone-always-loved-1653941305.json"
+  },
+  {
+   "id": 220236323,
+   "name": "Standing Coffin",
+   "page": "items/buildtools/standing-coffin-220236323.md",
+   "json": "items/buildtools/standing-coffin-220236323.json"
+  },
+  {
+   "id": 350050975,
+   "name": "Mausoleum",
+   "page": "items/buildtools/mausoleum-350050975.md",
+   "json": "items/buildtools/mausoleum-350050975.json"
+  },
+  {
+   "id": 1584621189,
+   "name": "Elevated Huge Coffin",
+   "page": "items/buildtools/elevated-huge-coffin-1584621189.md",
+   "json": "items/buildtools/elevated-huge-coffin-1584621189.json"
+  },
+  {
+   "id": 670569471,
+   "name": "Small Mausoleum",
+   "page": "items/buildtools/small-mausoleum-670569471.md",
+   "json": "items/buildtools/small-mausoleum-670569471.json"
+  },
+  {
+   "id": 4034691180,
+   "name": "Huge Coffin 1",
+   "page": "items/buildtools/huge-coffin-1-4034691180.md",
+   "json": "items/buildtools/huge-coffin-1-4034691180.json"
+  },
+  {
+   "id": 2336260519,
+   "name": "Huge Coffin 2",
+   "page": "items/buildtools/huge-coffin-2-2336260519.md",
+   "json": "items/buildtools/huge-coffin-2-2336260519.json"
+  },
+  {
+   "id": 1159659567,
+   "name": "Carved Limestone Vase I",
+   "page": "items/buildtools/carved-limestone-vase-i-1159659567.md",
+   "json": "items/buildtools/carved-limestone-vase-i-1159659567.json"
+  },
+  {
+   "id": 3728449442,
+   "name": "Carved Limestone Vase II",
+   "page": "items/buildtools/carved-limestone-vase-ii-3728449442.md",
+   "json": "items/buildtools/carved-limestone-vase-ii-3728449442.json"
+  },
+  {
+   "id": 3588898463,
+   "name": "Carved Limestone Vase III",
+   "page": "items/buildtools/carved-limestone-vase-iii-3588898463.md",
+   "json": "items/buildtools/carved-limestone-vase-iii-3588898463.json"
+  },
+  {
+   "id": 4188185967,
+   "name": "Small Mortar",
+   "page": "items/buildtools/small-mortar-4188185967.md",
+   "json": "items/buildtools/small-mortar-4188185967.json"
+  },
+  {
+   "id": 3197493799,
+   "name": "Big Clay Vat",
+   "page": "items/buildtools/big-clay-vat-3197493799.md",
+   "json": "items/buildtools/big-clay-vat-3197493799.json"
+  },
+  {
+   "id": 2380550747,
+   "name": "Statue",
+   "page": "items/buildtools/statue-2380550747.md",
+   "json": "items/buildtools/statue-2380550747.json"
+  },
+  {
+   "id": 1732202585,
+   "name": "Vukah shrine",
+   "page": "items/buildtools/vukah-shrine-1732202585.md",
+   "json": "items/buildtools/vukah-shrine-1732202585.json"
+  },
+  {
+   "id": 3690184007,
+   "name": "LimeStone Fence",
+   "page": "items/buildtools/limestone-fence-3690184007.md",
+   "json": "items/buildtools/limestone-fence-3690184007.json"
+  },
+  {
+   "id": 44037605,
+   "name": "Graveyard Fence",
+   "page": "items/buildtools/graveyard-fence-44037605.md",
+   "json": "items/buildtools/graveyard-fence-44037605.json"
+  },
+  {
+   "id": 3593277342,
+   "name": "Graveyard Fence Broken I",
+   "page": "items/buildtools/graveyard-fence-broken-i-3593277342.md",
+   "json": "items/buildtools/graveyard-fence-broken-i-3593277342.json"
+  },
+  {
+   "id": 4003997662,
+   "name": "Graveyard Fence Broken II",
+   "page": "items/buildtools/graveyard-fence-broken-ii-4003997662.md",
+   "json": "items/buildtools/graveyard-fence-broken-ii-4003997662.json"
+  },
+  {
+   "id": 1111695486,
+   "name": "Graveyard Fence Pole",
+   "page": "items/buildtools/graveyard-fence-pole-1111695486.md",
+   "json": "items/buildtools/graveyard-fence-pole-1111695486.json"
+  },
+  {
+   "id": 3232269711,
+   "name": "Steppes Rubble",
+   "page": "items/materials/steppes-rubble-3232269711.md",
+   "json": "items/materials/steppes-rubble-3232269711.json"
+  },
+  {
+   "id": 3605231868,
+   "name": "Carved out stone shelf",
+   "page": "items/buildtools/carved-out-stone-shelf-3605231868.md",
+   "json": "items/buildtools/carved-out-stone-shelf-3605231868.json"
+  },
+  {
+   "id": 212310372,
+   "name": "Solid Ornamented Stone Door",
+   "page": "items/buildtools/solid-ornamented-stone-door-212310372.md",
+   "json": "items/buildtools/solid-ornamented-stone-door-212310372.json"
+  },
+  {
+   "id": 210614111,
+   "name": "Ornamented Stone Window Frame",
+   "page": "items/buildtools/ornamented-stone-window-frame-210614111.md",
+   "json": "items/buildtools/ornamented-stone-window-frame-210614111.json"
+  },
+  {
+   "id": 3881994599,
+   "name": "High Ornamented Stone Window Frame",
+   "page": "items/buildtools/high-ornamented-stone-window-frame-3881994599.md",
+   "json": "items/buildtools/high-ornamented-stone-window-frame-3881994599.json"
+  },
+  {
+   "id": 3681806,
+   "name": "Small Ornamented Stone Window Frame",
+   "page": "items/buildtools/small-ornamented-stone-window-frame-3681806.md",
+   "json": "items/buildtools/small-ornamented-stone-window-frame-3681806.json"
+  }
+ ],
+ "page": "items/materials/lime-stone-3445636557.md"
+}

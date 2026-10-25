@@ -1,0 +1,138 @@
+{
+ "id": 4157937420,
+ "name": "Huge Magic Chest",
+ "internalName": "Prop_Storage_56_T4_Magic",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4157937420.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers a great amount of storage space to store items. The items stored here can be used for crafting purposes from anywhere in the base!",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3792001895,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2834235854,
+      "name": "Huge Chest",
+      "page": "items/buildtools/huge-chest-2834235854.md",
+      "json": "items/buildtools/huge-chest-2834235854.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 634473105,
+      "name": "Shroud Nexus",
+      "page": "items/materials/shroud-nexus-634473105.md",
+      "json": "items/materials/shroud-nexus-634473105.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1350606537,
+      "name": "Fog Oil",
+      "page": "items/materials/fog-oil-1350606537.md",
+      "json": "items/materials/fog-oil-1350606537.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2119715782,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 634473105,
+      "name": "Shroud Nexus",
+      "page": "items/materials/shroud-nexus-634473105.md",
+      "json": "items/materials/shroud-nexus-634473105.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1350606537,
+      "name": "Fog Oil",
+      "page": "items/materials/fog-oil-1350606537.md",
+      "json": "items/materials/fog-oil-1350606537.json"
+     }
+    },
+    {
+     "count": 16,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2620766387,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 634473105,
+      "name": "Shroud Nexus",
+      "page": "items/materials/shroud-nexus-634473105.md",
+      "json": "items/materials/shroud-nexus-634473105.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1350606537,
+      "name": "Fog Oil",
+      "page": "items/materials/fog-oil-1350606537.md",
+      "json": "items/materials/fog-oil-1350606537.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/huge-magic-chest-4157937420.md"
+}

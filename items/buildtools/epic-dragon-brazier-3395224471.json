@@ -1,0 +1,77 @@
+{
+ "id": 3395224471,
+ "name": "Epic Dragon Brazier",
+ "internalName": "Prop_Decoration_Comfort_T5_IlluminationFloor_Brazier_Dragon",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3395224471.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative Item, which will provide warmth and illumination in its proximitye .\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Hearth",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Cold Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Comfort - Hearth",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1658949844,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/epic-dragon-brazier-3395224471.md"
+}

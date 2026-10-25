@@ -17,4 +17,4 @@ A shiny pair of boots. They're so heavy that you'll practically be immovable.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-tank-boots.json)

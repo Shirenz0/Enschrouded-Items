@@ -1,0 +1,69 @@
+{
+ "id": 711941661,
+ "name": "T2 Eternal Mana Leech Beam III",
+ "internalName": "Ammo_T2_Spell_ManaLeechBeam_Channel_lvl12",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 12,
+  "max": 12
+ },
+ "maxStack": 1,
+ "image": "images/icons/711941661.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical Beam that leeches Mana from enemies without dealing damage to them.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 13,
+    "display": "13",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3100387051,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3173308572,
+      "name": "Night Berry",
+      "page": "items/consumables/night-berry-3173308572.md",
+      "json": "items/consumables/night-berry-3173308572.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t2-eternal-mana-leech-beam-iii-711941661.md"
+}

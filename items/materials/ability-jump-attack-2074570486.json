@@ -1,0 +1,29 @@
+{
+ "id": 2074570486,
+ "name": "Ability Jump Attack",
+ "internalName": "Ability_JumpAttack_CrashDown_2H_Greatsword",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/materials.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/materials/ability-jump-attack.md",
+  "json": "objects/materials/ability-jump-attack.json",
+  "versions": 5
+ },
+ "page": "items/materials/ability-jump-attack-2074570486.md"
+}

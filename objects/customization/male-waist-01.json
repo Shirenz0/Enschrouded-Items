@@ -1,0 +1,55 @@
+{
+ "name": "Male Waist 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1595928450,
+   "name": "Male Waist 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-waist-01-1595928450.md",
+   "json": "items/customization/male-waist-01-1595928450.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2335153921,
+   "name": "Male Waist 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-waist-01-2335153921.md",
+   "json": "items/customization/male-waist-01-2335153921.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2661144551,
+   "name": "Male Waist 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-waist-01-2661144551.md",
+   "json": "items/customization/male-waist-01-2661144551.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2802713006,
+   "name": "Male Waist 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-waist-01-2802713006.md",
+   "json": "items/customization/male-waist-01-2802713006.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-waist-01.md"
+}

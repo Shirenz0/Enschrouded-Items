@@ -1,0 +1,377 @@
+{
+ "category": "ColorPalette",
+ "title": "Color Palettes",
+ "count": 41,
+ "page": "categories/colorpalette.md",
+ "items": [
+  {
+   "id": 855563189,
+   "name": "Fell Fashion",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/855563189.png",
+   "page": "items/colorpalette/fell-fashion-855563189.md",
+   "json": "items/colorpalette/fell-fashion-855563189.json"
+  },
+  {
+   "id": 3846605059,
+   "name": "Frog In The Grass",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3846605059.png",
+   "page": "items/colorpalette/frog-in-the-grass-3846605059.md",
+   "json": "items/colorpalette/frog-in-the-grass-3846605059.json"
+  },
+  {
+   "id": 1860080518,
+   "name": "From Dusk Till Dawn",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1860080518.png",
+   "page": "items/colorpalette/from-dusk-till-dawn-1860080518.md",
+   "json": "items/colorpalette/from-dusk-till-dawn-1860080518.json"
+  },
+  {
+   "id": 2434044399,
+   "name": "Ginger In A Jungle",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2434044399.png",
+   "page": "items/colorpalette/ginger-in-a-jungle-2434044399.md",
+   "json": "items/colorpalette/ginger-in-a-jungle-2434044399.json"
+  },
+  {
+   "id": 3494273287,
+   "name": "Gold In The Water",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3494273287.png",
+   "page": "items/colorpalette/gold-in-the-water-3494273287.md",
+   "json": "items/colorpalette/gold-in-the-water-3494273287.json"
+  },
+  {
+   "id": 1966532423,
+   "name": "Holly and Berry",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1966532423.png",
+   "page": "items/colorpalette/holly-and-berry-1966532423.md",
+   "json": "items/colorpalette/holly-and-berry-1966532423.json"
+  },
+  {
+   "id": 2979937043,
+   "name": "Passionflower at night",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2979937043.png",
+   "page": "items/colorpalette/passionflower-at-night-2979937043.md",
+   "json": "items/colorpalette/passionflower-at-night-2979937043.json"
+  },
+  {
+   "id": 220072414,
+   "name": "Pretty In Pink",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/220072414.png",
+   "page": "items/colorpalette/pretty-in-pink-220072414.md",
+   "json": "items/colorpalette/pretty-in-pink-220072414.json"
+  },
+  {
+   "id": 2331607035,
+   "name": "Rust And Rose",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2331607035.png",
+   "page": "items/colorpalette/rust-and-rose-2331607035.md",
+   "json": "items/colorpalette/rust-and-rose-2331607035.json"
+  },
+  {
+   "id": 835723769,
+   "name": "Shades Of Red",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/835723769.png",
+   "page": "items/colorpalette/shades-of-red-835723769.md",
+   "json": "items/colorpalette/shades-of-red-835723769.json"
+  },
+  {
+   "id": 1639517943,
+   "name": "T1 Palette 01 Brown Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1639517943.png",
+   "page": "items/colorpalette/t1-palette-01-brown-grey-1639517943.md",
+   "json": "items/colorpalette/t1-palette-01-brown-grey-1639517943.json"
+  },
+  {
+   "id": 51104213,
+   "name": "T1 Palette 02 Grey Brown",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/51104213.png",
+   "page": "items/colorpalette/t1-palette-02-grey-brown-51104213.md",
+   "json": "items/colorpalette/t1-palette-02-grey-brown-51104213.json"
+  },
+  {
+   "id": 103217131,
+   "name": "T1 Palette 03 Brown dark grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/103217131.png",
+   "page": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.md",
+   "json": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.json"
+  },
+  {
+   "id": 2299237068,
+   "name": "T1 Palette 04 Brown blue grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2299237068.png",
+   "page": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.md",
+   "json": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.json"
+  },
+  {
+   "id": 4016272699,
+   "name": "T2 Palette 01 Brown bright Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4016272699.png",
+   "page": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.md",
+   "json": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.json"
+  },
+  {
+   "id": 556297753,
+   "name": "T2 Palette 02 shades of grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/556297753.png",
+   "page": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.md",
+   "json": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.json"
+  },
+  {
+   "id": 2967793968,
+   "name": "T2 Palette 03 Grey and Blue",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2967793968.png",
+   "page": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.md",
+   "json": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.json"
+  },
+  {
+   "id": 389689356,
+   "name": "T2 Palette 04 Grey and Blue",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/389689356.png",
+   "page": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.md",
+   "json": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.json"
+  },
+  {
+   "id": 2717669072,
+   "name": "T3 Palette 01 Brown Green Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2717669072.png",
+   "page": "items/colorpalette/t3-palette-01-brown-green-grey-2717669072.md",
+   "json": "items/colorpalette/t3-palette-01-brown-green-grey-2717669072.json"
+  },
+  {
+   "id": 3841845306,
+   "name": "T3 Palette 01 reward Green, green, green",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3841845306.png",
+   "page": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.md",
+   "json": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.json"
+  },
+  {
+   "id": 2118938591,
+   "name": "T3 Palette 02 Brown Green Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2118938591.png",
+   "page": "items/colorpalette/t3-palette-02-brown-green-grey-2118938591.md",
+   "json": "items/colorpalette/t3-palette-02-brown-green-grey-2118938591.json"
+  },
+  {
+   "id": 2653935294,
+   "name": "T3 Palette 03 Brown Green Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2653935294.png",
+   "page": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.md",
+   "json": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.json"
+  },
+  {
+   "id": 2821660974,
+   "name": "T3 Palette 04 Brown Green Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2821660974.png",
+   "page": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.md",
+   "json": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.json"
+  },
+  {
+   "id": 3491275682,
+   "name": "T4 Palette 01 Brown yellow red",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3491275682.png",
+   "page": "items/colorpalette/t4-palette-01-brown-yellow-red-3491275682.md",
+   "json": "items/colorpalette/t4-palette-01-brown-yellow-red-3491275682.json"
+  },
+  {
+   "id": 2607932810,
+   "name": "T4 Palette 02 Brown yellow red",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2607932810.png",
+   "page": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.md",
+   "json": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.json"
+  },
+  {
+   "id": 3687407983,
+   "name": "T4 Palette 03 maroon",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3687407983.png",
+   "page": "items/colorpalette/t4-palette-03-maroon-3687407983.md",
+   "json": "items/colorpalette/t4-palette-03-maroon-3687407983.json"
+  },
+  {
+   "id": 3726799847,
+   "name": "T4 Palette 04 yellow Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3726799847.png",
+   "page": "items/colorpalette/t4-palette-04-yellow-grey-3726799847.md",
+   "json": "items/colorpalette/t4-palette-04-yellow-grey-3726799847.json"
+  },
+  {
+   "id": 4152960602,
+   "name": "T5 Palette 01 Pink and Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4152960602.png",
+   "page": "items/colorpalette/t5-palette-01-pink-and-grey-4152960602.md",
+   "json": "items/colorpalette/t5-palette-01-pink-and-grey-4152960602.json"
+  },
+  {
+   "id": 1779078295,
+   "name": "T5 Palette 01 reward Purple, Pink, Mauve",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1779078295.png",
+   "page": "items/colorpalette/t5-palette-01-reward-purple-pink-mauve-1779078295.md",
+   "json": "items/colorpalette/t5-palette-01-reward-purple-pink-mauve-1779078295.json"
+  },
+  {
+   "id": 3980109078,
+   "name": "T5 Palette 02 Pink and Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3980109078.png",
+   "page": "items/colorpalette/t5-palette-02-pink-and-grey-3980109078.md",
+   "json": "items/colorpalette/t5-palette-02-pink-and-grey-3980109078.json"
+  },
+  {
+   "id": 468594079,
+   "name": "T5 Palette 03 Pink and Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/468594079.png",
+   "page": "items/colorpalette/t5-palette-03-pink-and-grey-468594079.md",
+   "json": "items/colorpalette/t5-palette-03-pink-and-grey-468594079.json"
+  },
+  {
+   "id": 1123597225,
+   "name": "T5 Palette 04 Pink and Grey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1123597225.png",
+   "page": "items/colorpalette/t5-palette-04-pink-and-grey-1123597225.md",
+   "json": "items/colorpalette/t5-palette-04-pink-and-grey-1123597225.json"
+  },
+  {
+   "id": 968828649,
+   "name": "Tbd T1 Palette 01 Reward A Fancy Outlook",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/968828649.png",
+   "page": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.md",
+   "json": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.json"
+  },
+  {
+   "id": 2125851720,
+   "name": "Tbd T2 Palette 01 Reward Blue, Blue And Blue",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2125851720.png",
+   "page": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.md",
+   "json": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.json"
+  },
+  {
+   "id": 4286973253,
+   "name": "Tbd T2 Palette 02 Reward",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4286973253.png",
+   "page": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.md",
+   "json": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.json"
+  },
+  {
+   "id": 2343620458,
+   "name": "Tbd T2 Palette 03 Reward",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2343620458.png",
+   "page": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.md",
+   "json": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.json"
+  },
+  {
+   "id": 1017300382,
+   "name": "Tbd T3 Palette 02 Reward",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1017300382.png",
+   "page": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.md",
+   "json": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.json"
+  },
+  {
+   "id": 1361344405,
+   "name": "Tbd T3 Palette 03 Reward",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1361344405.png",
+   "page": "items/colorpalette/tbd-t3-palette-03-reward-1361344405.md",
+   "json": "items/colorpalette/tbd-t3-palette-03-reward-1361344405.json"
+  },
+  {
+   "id": 1316536777,
+   "name": "Tbd T4 Palette 01 Reward Red,Orange, Yellow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1316536777.png",
+   "page": "items/colorpalette/tbd-t4-palette-01-reward-red-orange-yellow-1316536777.md",
+   "json": "items/colorpalette/tbd-t4-palette-01-reward-red-orange-yellow-1316536777.json"
+  },
+  {
+   "id": 391330740,
+   "name": "Veil Of Blues",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/391330740.png",
+   "page": "items/colorpalette/veil-of-blues-391330740.md",
+   "json": "items/colorpalette/veil-of-blues-391330740.json"
+  },
+  {
+   "id": 1365809698,
+   "name": "Waves Of Valor",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1365809698.png",
+   "page": "items/colorpalette/waves-of-valor-1365809698.md",
+   "json": "items/colorpalette/waves-of-valor-1365809698.json"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 3424171894,
+ "name": "Initiation",
+ "internalName": "Collection_paintings_03",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3424171894.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A stunning painting that can be displayed in your home.\n\n(link to intro slide text)",
+ "lore": "Art",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/initiation-3424171894.md"
+}

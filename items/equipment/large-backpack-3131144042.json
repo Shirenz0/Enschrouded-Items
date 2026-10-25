@@ -1,0 +1,40 @@
+{
+ "id": 3131144042,
+ "name": "Large Backpack",
+ "internalName": "Backpack_T3",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3131144042.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An extension to your backpack that increases your inventory by a lot.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/large-backpack.md",
+  "json": "objects/equipment/large-backpack.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Backpack",
+  "values": [
+   {
+    "label": "Slots",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/equipment/large-backpack-3131144042.md"
+}

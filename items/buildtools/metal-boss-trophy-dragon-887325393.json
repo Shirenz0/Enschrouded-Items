@@ -1,0 +1,84 @@
+{
+ "id": 887325393,
+ "name": "Metal Boss Trophy Dragon",
+ "internalName": "Prop_Decoration_Boss_Trophy_Fell_Dragon_03_iron",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/887325393.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Defeat the Boss multiple times to craft one of those.",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/metal-boss-trophy-dragon.md",
+  "json": "objects/buildtools/metal-boss-trophy-dragon.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1239042177,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1623763025,
+      "name": "Trophy Fell Dragon",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/metal-boss-trophy-dragon-887325393.md"
+}

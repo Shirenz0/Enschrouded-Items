@@ -30,4 +30,4 @@ Ammunition that continuosly channels powerful lightning strikes that shock and j
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t4-lightning-channel-1685866698.json)

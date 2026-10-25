@@ -25,4 +25,4 @@ A mannequin which cn be dressed in Armor or vanity Items to tell tales of an adv
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](mannequin-back-off-2681848943.json)

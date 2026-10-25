@@ -33,4 +33,4 @@ The shield fades when its health are depleted or after 15 seconds.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t6-magic-shield-1713565263.json)

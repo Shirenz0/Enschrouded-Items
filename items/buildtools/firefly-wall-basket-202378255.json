@@ -1,0 +1,79 @@
+{
+ "id": 202378255,
+ "name": "Firefly Wall Basket",
+ "internalName": "Prop_Decoration_Comfort_T0_IlluminationWall_Firefly",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/202378255.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An illumination item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Illumination",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Illumination",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2005422229,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1014899877,
+      "name": "Fire Fly",
+      "page": "items/ammunition/fire-fly-1014899877.md",
+      "json": "items/ammunition/fire-fly-1014899877.json"
+     }
+    },
+    {
+     "count": 3,
+     "oneOf": [
+      {
+       "id": 3316218728,
+       "name": "Plant Fibre",
+       "page": "items/materials/plant-fibre-3316218728.md",
+       "json": "items/materials/plant-fibre-3316218728.json"
+      },
+      {
+       "id": 1026141130,
+       "name": "Paper Reed",
+       "page": "items/materials/paper-reed-1026141130.md",
+       "json": "items/materials/paper-reed-1026141130.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/firefly-wall-basket-202378255.md"
+}

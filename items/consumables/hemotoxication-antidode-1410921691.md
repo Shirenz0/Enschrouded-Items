@@ -25,4 +25,4 @@ Manual Crafting
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](hemotoxication-antidode-1410921691.json)

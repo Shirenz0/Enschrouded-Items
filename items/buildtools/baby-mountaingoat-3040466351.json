@@ -1,0 +1,25 @@
+{
+ "id": 3040466351,
+ "name": "Baby Mountaingoat",
+ "internalName": "Animal_Baby_Mountaingoat",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3040466351.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A cute little baby Mountaingoat",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-mountaingoat-3040466351.md"
+}

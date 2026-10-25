@@ -1,0 +1,135 @@
+{
+ "id": 4195393452,
+ "name": "T5 Eternal Blizzard I",
+ "internalName": "Ammo_T5_Spell_Ice_Blizzard_lvl28_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 28,
+  "max": 28
+ },
+ "maxStack": 1,
+ "image": "images/icons/4195393452.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates an icy storm that slows down enemies and deals damage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 214,
+    "display": "214",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 500,
+    "display": "500",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 11000,
+    "display": "11 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 65,
+    "display": "65",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-10 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-10 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Glacial",
+   "effect": "+5 Glacial"
+  },
+  {
+   "order": 5,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3581586433,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 4199799645,
+      "name": "T5 Ice",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 2541805223,
+      "name": "T5 Snow",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 1158895795,
+      "name": "Frozen Shroud Solids",
+      "page": "items/materials/frozen-shroud-solids-1158895795.md",
+      "json": "items/materials/frozen-shroud-solids-1158895795.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1240806864,
+      "name": "T5 Obsidian Dust",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t5-eternal-blizzard-i-4195393452.md"
+}

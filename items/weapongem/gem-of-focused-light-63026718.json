@@ -1,0 +1,53 @@
+{
+ "id": 63026718,
+ "name": "Gem of Focused Light",
+ "internalName": "T4_Gem_GemOfFocusedLight",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/63026718.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Targeting an enemy for a few seconds while aiming or blocking puts a  mark on the enemy. Attacking the marked enemy deals %k addtional fire damage. The mark can stackup to 3 times, by continued targeting, increasing the bonus damage by %k at 2 stacks and %k at 3 stacks.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "of Base Damage at 3 Stacks",
+    "value": 450,
+    "display": "450",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "of Base Damage at 1 Stack",
+    "value": 100,
+    "display": "100",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "of Base Damage at 2 Stacks",
+    "value": 225,
+    "display": "225",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-focused-light-63026718.md"
+}

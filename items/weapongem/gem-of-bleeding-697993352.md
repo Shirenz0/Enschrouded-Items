@@ -24,4 +24,4 @@ Critical hits with cut damage applies  bleeding on the enemy, that deals %k per 
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-bleeding-697993352.json)

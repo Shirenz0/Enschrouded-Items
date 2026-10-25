@@ -1,0 +1,85 @@
+{
+ "id": 1326647808,
+ "name": "Campfire",
+ "internalName": "Craftingstation_Campfire",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5,
+ "image": "images/icons/1326647808.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A small fireplace to cook food, that can give many bonuses. It's a great spot to take a rest and relax.",
+ "lore": "Level 1 Resting",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3758855642,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/campfire-1326647808.md"
+}

@@ -1,0 +1,88 @@
+{
+ "id": 2331017633,
+ "name": "Darya's Wand",
+ "internalName": "Weapon_T5_1H_Lore_Wand_ministory_29_Fog",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2331017633.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/darya-s-wand.md",
+  "json": "objects/weapons/darya-s-wand.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Shroud": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ethereal Duplication",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  },
+  {
+   "order": 2,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 3,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  },
+  {
+   "order": 4,
+   "name": "Mana Leech",
+   "effect": "On Hit Leech %Percentage% Damage as Mana"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "page": "items/weapons/darya-s-wand-2331017633.md"
+}

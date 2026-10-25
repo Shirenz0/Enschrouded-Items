@@ -1,0 +1,35 @@
+{
+ "name": "T4 sniper boots",
+ "category": "Equipment",
+ "image": "images/icons/345073573.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1363992823,
+   "name": "T4 sniper boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1363992823.png",
+   "page": "items/equipment/t4-sniper-boots-1363992823.md",
+   "json": "items/equipment/t4-sniper-boots-1363992823.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 345073573,
+   "name": "T4 sniper boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/345073573.png",
+   "page": "items/equipment/t4-sniper-boots-345073573.md",
+   "json": "items/equipment/t4-sniper-boots-345073573.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-sniper-boots.md"
+}

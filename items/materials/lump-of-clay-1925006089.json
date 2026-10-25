@@ -1,0 +1,363 @@
+{
+ "id": 1925006089,
+ "name": "Lump of Clay",
+ "internalName": "Material_T2_Clay",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/1925006089.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A malleable material that is especially useful for construction purposes.",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1555483091,
+   "name": "Refined Sandstone Block",
+   "page": "items/buildtools/refined-sandstone-block-1555483091.md",
+   "json": "items/buildtools/refined-sandstone-block-1555483091.json"
+  },
+  {
+   "id": 2216303598,
+   "name": "Regular Sandstone Block",
+   "page": "items/buildtools/regular-sandstone-block-2216303598.md",
+   "json": "items/buildtools/regular-sandstone-block-2216303598.json"
+  },
+  {
+   "id": 2871749713,
+   "name": "Half-Timbered Block",
+   "page": "items/buildtools/half-timbered-block-2871749713.md",
+   "json": "items/buildtools/half-timbered-block-2871749713.json"
+  },
+  {
+   "id": 4234622287,
+   "name": "T6 Shellime Clay Shingles",
+   "page": "items/buildtools/t6-shellime-clay-shingles-4234622287.md",
+   "json": "items/buildtools/t6-shellime-clay-shingles-4234622287.json"
+  },
+  {
+   "id": 3899129081,
+   "name": "T4 Desert Shingles",
+   "page": "items/buildtools/t4-desert-shingles-3899129081.md",
+   "json": "items/buildtools/t4-desert-shingles-3899129081.json"
+  },
+  {
+   "id": 196827131,
+   "name": "Roof Tiles Block",
+   "page": "items/buildtools/roof-tiles-block-196827131.md",
+   "json": "items/buildtools/roof-tiles-block-196827131.json"
+  },
+  {
+   "id": 2040014559,
+   "name": "Exploding Arrow I",
+   "page": "items/ammunition/exploding-arrow-i-2040014559.md",
+   "json": "items/ammunition/exploding-arrow-i-2040014559.json"
+  },
+  {
+   "id": 2465126757,
+   "name": "T5 Prop Production Blast Furnace",
+   "page": "items/buildtools/t5-prop-production-blast-furnace-2465126757.md",
+   "json": "items/buildtools/t5-prop-production-blast-furnace-2465126757.json"
+  },
+  {
+   "id": 2792360705,
+   "name": "Honey Bee Hive",
+   "page": "items/buildtools/honey-bee-hive-2792360705.md",
+   "json": "items/buildtools/honey-bee-hive-2792360705.json"
+  },
+  {
+   "id": 2901638773,
+   "name": "Tanning Station",
+   "page": "items/buildtools/tanning-station-2901638773.md",
+   "json": "items/buildtools/tanning-station-2901638773.json"
+  },
+  {
+   "id": 3397817290,
+   "name": "Oven",
+   "page": "items/buildtools/oven-3397817290.md",
+   "json": "items/buildtools/oven-3397817290.json"
+  },
+  {
+   "id": 3032252431,
+   "name": "Butter Churn",
+   "page": "items/buildtools/butter-churn-3032252431.md",
+   "json": "items/buildtools/butter-churn-3032252431.json"
+  },
+  {
+   "id": 21592019,
+   "name": "Kiln",
+   "page": "items/buildtools/kiln-21592019.md",
+   "json": "items/buildtools/kiln-21592019.json"
+  },
+  {
+   "id": 1261933427,
+   "name": "Fired Brick",
+   "page": "items/materials/fired-brick-1261933427.md",
+   "json": "items/materials/fired-brick-1261933427.json"
+  },
+  {
+   "id": 4016272699,
+   "name": "T2 Palette 01 Brown bright Grey",
+   "page": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.md",
+   "json": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.json"
+  },
+  {
+   "id": 389689356,
+   "name": "T2 Palette 04 Grey and Blue",
+   "page": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.md",
+   "json": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.json"
+  },
+  {
+   "id": 1614998716,
+   "name": "Explosive Powder Grenade",
+   "page": "items/weapons/explosive-powder-grenade-1614998716.md",
+   "json": "items/weapons/explosive-powder-grenade-1614998716.json"
+  },
+  {
+   "id": 1910038255,
+   "name": "Clay Fire Place",
+   "page": "items/buildtools/clay-fire-place-1910038255.md",
+   "json": "items/buildtools/clay-fire-place-1910038255.json"
+  },
+  {
+   "id": 3936746657,
+   "name": "Lamp",
+   "page": "items/buildtools/lamp-3936746657.md",
+   "json": "items/buildtools/lamp-3936746657.json"
+  },
+  {
+   "id": 1310569034,
+   "name": "Ornamented Vase I",
+   "page": "items/buildtools/ornamented-vase-i-1310569034.md",
+   "json": "items/buildtools/ornamented-vase-i-1310569034.json"
+  },
+  {
+   "id": 155892145,
+   "name": "Ornamented Vase II",
+   "page": "items/buildtools/ornamented-vase-ii-155892145.md",
+   "json": "items/buildtools/ornamented-vase-ii-155892145.json"
+  },
+  {
+   "id": 2822831184,
+   "name": "Ornamented Vase III",
+   "page": "items/buildtools/ornamented-vase-iii-2822831184.md",
+   "json": "items/buildtools/ornamented-vase-iii-2822831184.json"
+  },
+  {
+   "id": 3614671585,
+   "name": "Ornamented Vase IV",
+   "page": "items/buildtools/ornamented-vase-iv-3614671585.md",
+   "json": "items/buildtools/ornamented-vase-iv-3614671585.json"
+  },
+  {
+   "id": 1881399211,
+   "name": "Ornamented Vase V",
+   "page": "items/buildtools/ornamented-vase-v-1881399211.md",
+   "json": "items/buildtools/ornamented-vase-v-1881399211.json"
+  },
+  {
+   "id": 1294494262,
+   "name": "Ornamented Vase VI",
+   "page": "items/buildtools/ornamented-vase-vi-1294494262.md",
+   "json": "items/buildtools/ornamented-vase-vi-1294494262.json"
+  },
+  {
+   "id": 2244788593,
+   "name": "Clay Vase VI",
+   "page": "items/buildtools/clay-vase-vi-2244788593.md",
+   "json": "items/buildtools/clay-vase-vi-2244788593.json"
+  },
+  {
+   "id": 4154483367,
+   "name": "Clay Vase V",
+   "page": "items/buildtools/clay-vase-v-4154483367.md",
+   "json": "items/buildtools/clay-vase-v-4154483367.json"
+  },
+  {
+   "id": 1410543018,
+   "name": "Clay Vase IV",
+   "page": "items/buildtools/clay-vase-iv-1410543018.md",
+   "json": "items/buildtools/clay-vase-iv-1410543018.json"
+  },
+  {
+   "id": 1447953213,
+   "name": "Clay Vase III",
+   "page": "items/buildtools/clay-vase-iii-1447953213.md",
+   "json": "items/buildtools/clay-vase-iii-1447953213.json"
+  },
+  {
+   "id": 781671616,
+   "name": "Clay Vase II",
+   "page": "items/buildtools/clay-vase-ii-781671616.md",
+   "json": "items/buildtools/clay-vase-ii-781671616.json"
+  },
+  {
+   "id": 3982875414,
+   "name": "Clay Vase I",
+   "page": "items/buildtools/clay-vase-i-3982875414.md",
+   "json": "items/buildtools/clay-vase-i-3982875414.json"
+  },
+  {
+   "id": 991797562,
+   "name": "Clay Pot IV",
+   "page": "items/buildtools/clay-pot-iv-991797562.md",
+   "json": "items/buildtools/clay-pot-iv-991797562.json"
+  },
+  {
+   "id": 257051972,
+   "name": "Clay Pot III",
+   "page": "items/buildtools/clay-pot-iii-257051972.md",
+   "json": "items/buildtools/clay-pot-iii-257051972.json"
+  },
+  {
+   "id": 2130276313,
+   "name": "Clay Pot II",
+   "page": "items/buildtools/clay-pot-ii-2130276313.md",
+   "json": "items/buildtools/clay-pot-ii-2130276313.json"
+  },
+  {
+   "id": 3614168339,
+   "name": "Clay Pot I",
+   "page": "items/buildtools/clay-pot-i-3614168339.md",
+   "json": "items/buildtools/clay-pot-i-3614168339.json"
+  },
+  {
+   "id": 1810030411,
+   "name": "Clay Platter",
+   "page": "items/buildtools/clay-platter-1810030411.md",
+   "json": "items/buildtools/clay-platter-1810030411.json"
+  },
+  {
+   "id": 2370176830,
+   "name": "Clay Cup",
+   "page": "items/buildtools/clay-cup-2370176830.md",
+   "json": "items/buildtools/clay-cup-2370176830.json"
+  },
+  {
+   "id": 1787218857,
+   "name": "Clay Bowl",
+   "page": "items/buildtools/clay-bowl-1787218857.md",
+   "json": "items/buildtools/clay-bowl-1787218857.json"
+  },
+  {
+   "id": 881092637,
+   "name": "Clay Jug",
+   "page": "items/buildtools/clay-jug-881092637.md",
+   "json": "items/buildtools/clay-jug-881092637.json"
+  },
+  {
+   "id": 2487385039,
+   "name": "Clay tea Cup",
+   "page": "items/buildtools/clay-tea-cup-2487385039.md",
+   "json": "items/buildtools/clay-tea-cup-2487385039.json"
+  },
+  {
+   "id": 68181452,
+   "name": "Bembel",
+   "page": "items/buildtools/bembel-68181452.md",
+   "json": "items/buildtools/bembel-68181452.json"
+  },
+  {
+   "id": 2996817370,
+   "name": "Empty Flower Pot V",
+   "page": "items/buildtools/empty-flower-pot-v-2996817370.md",
+   "json": "items/buildtools/empty-flower-pot-v-2996817370.json"
+  },
+  {
+   "id": 1882339175,
+   "name": "Empty Flower Pot III",
+   "page": "items/buildtools/empty-flower-pot-iii-1882339175.md",
+   "json": "items/buildtools/empty-flower-pot-iii-1882339175.json"
+  },
+  {
+   "id": 99730651,
+   "name": "Empty Flower Pot IV",
+   "page": "items/buildtools/empty-flower-pot-iv-99730651.md",
+   "json": "items/buildtools/empty-flower-pot-iv-99730651.json"
+  },
+  {
+   "id": 1515343684,
+   "name": "Empty Flower Pot I",
+   "page": "items/buildtools/empty-flower-pot-i-1515343684.md",
+   "json": "items/buildtools/empty-flower-pot-i-1515343684.json"
+  },
+  {
+   "id": 624884086,
+   "name": "Empty Flower Pot II",
+   "page": "items/buildtools/empty-flower-pot-ii-624884086.md",
+   "json": "items/buildtools/empty-flower-pot-ii-624884086.json"
+  },
+  {
+   "id": 1642368164,
+   "name": "Empty Flower Pot VI",
+   "page": "items/buildtools/empty-flower-pot-vi-1642368164.md",
+   "json": "items/buildtools/empty-flower-pot-vi-1642368164.json"
+  },
+  {
+   "id": 101823326,
+   "name": "Empty Flower Pot VII",
+   "page": "items/buildtools/empty-flower-pot-vii-101823326.md",
+   "json": "items/buildtools/empty-flower-pot-vii-101823326.json"
+  },
+  {
+   "id": 3197493799,
+   "name": "Big Clay Vat",
+   "page": "items/buildtools/big-clay-vat-3197493799.md",
+   "json": "items/buildtools/big-clay-vat-3197493799.json"
+  },
+  {
+   "id": 2004762545,
+   "name": "Decorative Oven I",
+   "page": "items/buildtools/decorative-oven-i-2004762545.md",
+   "json": "items/buildtools/decorative-oven-i-2004762545.json"
+  },
+  {
+   "id": 3069381157,
+   "name": "Decorative Oven II",
+   "page": "items/buildtools/decorative-oven-ii-3069381157.md",
+   "json": "items/buildtools/decorative-oven-ii-3069381157.json"
+  },
+  {
+   "id": 3005030010,
+   "name": "Decorative Oven III",
+   "page": "items/buildtools/decorative-oven-iii-3005030010.md",
+   "json": "items/buildtools/decorative-oven-iii-3005030010.json"
+  },
+  {
+   "id": 3002231083,
+   "name": "Athanor",
+   "page": "items/buildtools/athanor-3002231083.md",
+   "json": "items/buildtools/athanor-3002231083.json"
+  },
+  {
+   "id": 1797898257,
+   "name": "Beehive Smoker",
+   "page": "items/buildtools/beehive-smoker-1797898257.md",
+   "json": "items/buildtools/beehive-smoker-1797898257.json"
+  },
+  {
+   "id": 2777715830,
+   "name": "Mortar",
+   "page": "items/buildtools/mortar-2777715830.md",
+   "json": "items/buildtools/mortar-2777715830.json"
+  },
+  {
+   "id": 4111981896,
+   "name": "Crucible",
+   "page": "items/buildtools/crucible-4111981896.md",
+   "json": "items/buildtools/crucible-4111981896.json"
+  }
+ ],
+ "page": "items/materials/lump-of-clay-1925006089.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 3991532476,
+ "name": "Galen Yager",
+ "internalName": "NPC_Assistant_Crafter_Hunter_01_GalenYager",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "A helpful townsfolk that will work and live in your base.",
+ "lore": "Crafting Assistant",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/galen-yager-3991532476.md"
+}

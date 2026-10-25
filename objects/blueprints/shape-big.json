@@ -1,0 +1,33 @@
+{
+ "name": "Shape Big",
+ "category": "Blueprints",
+ "image": "images/icons/89089003.png",
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 379859676,
+   "name": "Shape Big",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/379859676.png",
+   "page": "items/blueprints/shape-big-379859676.md",
+   "json": "items/blueprints/shape-big-379859676.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 89089003,
+   "name": "Shape Big",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/89089003.png",
+   "page": "items/blueprints/shape-big-89089003.md",
+   "json": "items/blueprints/shape-big-89089003.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/shape-big.md"
+}

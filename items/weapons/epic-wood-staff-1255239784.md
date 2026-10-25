@@ -35,4 +35,4 @@ Unlocked one after another as the item is upgraded, in this order. Armor and dam
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](epic-wood-staff-1255239784.json)

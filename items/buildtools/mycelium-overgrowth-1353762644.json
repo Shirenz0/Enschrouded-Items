@@ -1,0 +1,52 @@
+{
+ "id": 1353762644,
+ "name": "Mycelium overgrowth",
+ "internalName": "Material_T3_Overgrowth_Mycelium",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1353762644.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Use this material to decorate any voxel material using the ??? tool",
+ "lore": "Plants",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1582627352,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3509012331,
+      "name": "Mycelium",
+      "page": "items/materials/mycelium-3509012331.md",
+      "json": "items/materials/mycelium-3509012331.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/mycelium-overgrowth-1353762644.md"
+}

@@ -33,4 +33,4 @@ Collect multiple Cyclops Heads to craft the Iron Trophy.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](metal-boss-trophy-cyclops-3561979363.json)

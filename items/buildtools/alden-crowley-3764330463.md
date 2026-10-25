@@ -21,4 +21,4 @@ The Collector, Alden Crowley, infuses bone shards and remains with essences to c
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](alden-crowley-3764330463.json)

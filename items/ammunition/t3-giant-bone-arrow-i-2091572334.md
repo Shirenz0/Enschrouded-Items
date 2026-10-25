@@ -34,4 +34,4 @@ Crafting, Collector
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t3-giant-bone-arrow-i-2091572334.json)

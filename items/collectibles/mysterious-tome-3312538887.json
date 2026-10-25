@@ -1,0 +1,25 @@
+{
+ "id": 3312538887,
+ "name": "Mysterious Tome",
+ "internalName": "Collection_skeletons_03_books_book_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3312538887.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mysterious book.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/mysterious-tome-3312538887.md"
+}

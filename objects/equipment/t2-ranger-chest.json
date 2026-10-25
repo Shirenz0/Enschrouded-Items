@@ -1,0 +1,35 @@
+{
+ "name": "T2 Ranger Chest",
+ "category": "Equipment",
+ "image": "images/icons/2778778931.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1856277122,
+   "name": "T2 Ranger Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1856277122.png",
+   "page": "items/equipment/t2-ranger-chest-1856277122.md",
+   "json": "items/equipment/t2-ranger-chest-1856277122.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2778778931,
+   "name": "T2 Ranger Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2778778931.png",
+   "page": "items/equipment/t2-ranger-chest-2778778931.md",
+   "json": "items/equipment/t2-ranger-chest-2778778931.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-ranger-chest.md"
+}

@@ -1,0 +1,43 @@
+{
+ "id": 1641389400,
+ "name": "Iron Prison Double Door",
+ "internalName": "Prop_Decoration_T4_Door_Iron_Prison_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1641389400.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3818734127,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 813310886,
+      "name": "Iron Prison Door",
+      "page": "items/buildtools/iron-prison-door-813310886.md",
+      "json": "items/buildtools/iron-prison-door-813310886.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/iron-prison-double-door-1641389400.md"
+}

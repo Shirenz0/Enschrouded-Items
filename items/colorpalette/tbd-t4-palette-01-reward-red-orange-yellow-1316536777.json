@@ -1,0 +1,90 @@
+{
+ "id": 1316536777,
+ "name": "Tbd T4 Palette 01 Reward Red,Orange, Yellow",
+ "internalName": "ColorPalette_T4_ColorPalette_Reward_01",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1316536777.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "tbd T4 Palette 01 reward description",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3253394857,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2206878080,
+      "name": "Nitrate",
+      "page": "items/materials/nitrate-2206878080.md",
+      "json": "items/materials/nitrate-2206878080.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2302389683,
+      "name": "Corrosive Blood",
+      "page": "items/materials/corrosive-blood-2302389683.md",
+      "json": "items/materials/corrosive-blood-2302389683.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    },
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 2493843175,
+       "name": "Sand",
+       "page": "items/materials/sand-2493843175.md",
+       "json": "items/materials/sand-2493843175.json"
+      },
+      {
+       "id": 3489782185,
+       "name": "Fine Sand",
+       "page": "items/materials/fine-sand-3489782185.md",
+       "json": "items/materials/fine-sand-3489782185.json"
+      },
+      {
+       "id": 2181045178,
+       "name": "T6 Wetlands Sand",
+       "page": "items/materials/t6-wetlands-sand-2181045178.md",
+       "json": "items/materials/t6-wetlands-sand-2181045178.json"
+      },
+      {
+       "id": 3899759098,
+       "name": "T7 AncientLand Sand",
+       "page": "items/materials/t7-ancientland-sand-3899759098.md",
+       "json": "items/materials/t7-ancientland-sand-3899759098.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/tbd-t4-palette-01-reward-red-orange-yellow-1316536777.md"
+}

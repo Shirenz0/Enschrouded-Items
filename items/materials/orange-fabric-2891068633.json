@@ -1,0 +1,52 @@
+{
+ "id": 2891068633,
+ "name": "Orange Fabric",
+ "internalName": "Material_T6_Fabric_Orange",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2891068633.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Orange dyed fabric used for clothing.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3673728729,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1897605064,
+      "name": "Daylily Flower",
+      "page": "items/materials/daylily-flower-1897605064.md",
+      "json": "items/materials/daylily-flower-1897605064.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/materials/orange-fabric-2891068633.md"
+}

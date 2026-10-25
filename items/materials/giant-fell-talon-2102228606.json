@@ -1,0 +1,75 @@
+{
+ "id": 2102228606,
+ "name": "Giant Fell Talon",
+ "internalName": "Material_T4_GiantFellTalon",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2102228606.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A massive, razor-sharp talon torn from the deadly Shroud infested Vultures. Hardened by the corruption of the Shroud, it possesses both strength and flexibility, making it a key component in crafting advanced armor for high-tier protection.",
+ "lore": null,
+ "whereToFind": "Fell Draconian Vulture, Kindlewastes Shroud And Albaneve Summits Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 853658470,
+   "name": "T4 Assassin Arms",
+   "page": "items/equipment/t4-assassin-arms-853658470.md",
+   "json": "items/equipment/t4-assassin-arms-853658470.json"
+  },
+  {
+   "id": 3648209951,
+   "name": "T4 BattleMage Arms",
+   "page": "items/equipment/t4-battlemage-arms-3648209951.md",
+   "json": "items/equipment/t4-battlemage-arms-3648209951.json"
+  },
+  {
+   "id": 1478658636,
+   "name": "T4 DPS Arms",
+   "page": "items/equipment/t4-dps-arms-1478658636.md",
+   "json": "items/equipment/t4-dps-arms-1478658636.json"
+  },
+  {
+   "id": 1791031659,
+   "name": "T4 Healer Arms",
+   "page": "items/equipment/t4-healer-arms-1791031659.md",
+   "json": "items/equipment/t4-healer-arms-1791031659.json"
+  },
+  {
+   "id": 398094556,
+   "name": "T4 Mage Arms",
+   "page": "items/equipment/t4-mage-arms-398094556.md",
+   "json": "items/equipment/t4-mage-arms-398094556.json"
+  },
+  {
+   "id": 2309078212,
+   "name": "T4 Ranger Arms",
+   "page": "items/equipment/t4-ranger-arms-2309078212.md",
+   "json": "items/equipment/t4-ranger-arms-2309078212.json"
+  },
+  {
+   "id": 3073964148,
+   "name": "T4 Sniper Arms",
+   "page": "items/equipment/t4-sniper-arms-3073964148.md",
+   "json": "items/equipment/t4-sniper-arms-3073964148.json"
+  },
+  {
+   "id": 1838950390,
+   "name": "T4 Tank Arms",
+   "page": "items/equipment/t4-tank-arms-1838950390.md",
+   "json": "items/equipment/t4-tank-arms-1838950390.json"
+  }
+ ],
+ "page": "items/materials/giant-fell-talon-2102228606.md"
+}

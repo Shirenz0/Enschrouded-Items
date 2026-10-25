@@ -1,0 +1,76 @@
+{
+ "id": 3728213390,
+ "name": "Small Backpack",
+ "internalName": "Backpack_T1_NEW",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3728213390.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Backpack t1  NEW Copy from old one",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/small-backpack.md",
+  "json": "objects/equipment/small-backpack.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Backpack",
+  "values": [
+   {
+    "label": "Slots",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3460199212,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/small-backpack-3728213390.md"
+}

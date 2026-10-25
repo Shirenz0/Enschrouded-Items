@@ -1,0 +1,52 @@
+{
+ "id": 2027224453,
+ "name": "Gleam Root Flower Pot",
+ "internalName": "_Flower_Pot_Large_T6_NightFlower_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2027224453.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A large potted plant to beautify your home.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1963080005,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1642368164,
+      "name": "Empty Flower Pot VI",
+      "page": "items/buildtools/empty-flower-pot-vi-1642368164.md",
+      "json": "items/buildtools/empty-flower-pot-vi-1642368164.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/gleam-root-flower-pot-2027224453.md"
+}

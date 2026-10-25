@@ -1,0 +1,125 @@
+{
+ "id": 751194917,
+ "name": "Greater Twinflame Sword",
+ "internalName": "Craft_Weapon_T7_1H_Lore_SwordEpic_ministory_28",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/751194917.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/greater-twinflame-sword.md",
+  "json": "objects/weapons/greater-twinflame-sword.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+7 Precise"
+  },
+  {
+   "order": 5,
+   "name": "All Physical Cut Damage",
+   "effect": "+10 All Physical Cut Damage"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2542170399,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    },
+    {
+     "count": 7,
+     "item": {
+      "id": 61577244,
+      "name": "Diamond",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/greater-twinflame-sword-751194917.md"
+}

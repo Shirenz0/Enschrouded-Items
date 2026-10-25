@@ -1,0 +1,39 @@
+{
+ "id": 2236552740,
+ "name": "Flightless Redtail Pillow",
+ "internalName": "Prop_Decoration_TX_Pillow_Animal_03_TwitchDrop",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2236552740.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A comfortable pillow with a bird motiv. The bird may not fly, but it looks stylish!",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/flightless-redtail-pillow.md",
+  "json": "objects/buildtools/flightless-redtail-pillow.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Wellness",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/flightless-redtail-pillow-2236552740.md"
+}

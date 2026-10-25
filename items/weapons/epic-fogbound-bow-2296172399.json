@@ -1,0 +1,69 @@
+{
+ "id": 2296172399,
+ "name": "Epic Fogbound Bow",
+ "internalName": "Weapon_T2_2H_BowEpic_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2296172399.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An infested Shroud bow.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ranged weapon",
+  "values": [
+   {
+    "label": "Draw Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Arrow Speed",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Brutal",
+   "effect": "+14 Brutal"
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Headseeker",
+   "effect": "Skillshots restore 10 Stamina"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Mana Leech",
+   "effect": "+4 Mana Leech"
+  }
+ ],
+ "page": "items/weapons/epic-fogbound-bow-2296172399.md"
+}

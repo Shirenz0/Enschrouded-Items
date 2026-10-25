@@ -1,0 +1,93 @@
+{
+ "id": 1284326318,
+ "name": "Brittle Shroud Petals",
+ "internalName": "Material_T2_BrittleShroudPetals",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/1284326318.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Delicate petals tainted by the Shroud, their surface crackling with a faint, toxic residue. Though fragile on their own, they are surprisingly resilient when woven into armor, offering light protection.",
+ "lore": null,
+ "whereToFind": "Enemies, Revelwood Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 397674071,
+   "name": "Magic Frost Arrow",
+   "page": "items/ammunition/magic-frost-arrow-397674071.md",
+   "json": "items/ammunition/magic-frost-arrow-397674071.json"
+  },
+  {
+   "id": 2875641903,
+   "name": "T2 Shock Wisp I",
+   "page": "items/ammunition/t2-shock-wisp-i-2875641903.md",
+   "json": "items/ammunition/t2-shock-wisp-i-2875641903.json"
+  },
+  {
+   "id": 2409952376,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-2409952376.md",
+   "json": "items/weapons/halescourge-2409952376.json"
+  },
+  {
+   "id": 3701660969,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-3701660969.md",
+   "json": "items/weapons/t1-lore-wand-3701660969.json"
+  },
+  {
+   "id": 4048093059,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-4048093059.md",
+   "json": "items/weapons/cryptic-wand-4048093059.json"
+  },
+  {
+   "id": 710844874,
+   "name": "T2 DPS Boots",
+   "page": "items/equipment/t2-dps-boots-710844874.md",
+   "json": "items/equipment/t2-dps-boots-710844874.json"
+  },
+  {
+   "id": 4089349181,
+   "name": "T2 Healer Boots",
+   "page": "items/equipment/t2-healer-boots-4089349181.md",
+   "json": "items/equipment/t2-healer-boots-4089349181.json"
+  },
+  {
+   "id": 2841320705,
+   "name": "T2 Mage Boots",
+   "page": "items/equipment/t2-mage-boots-2841320705.md",
+   "json": "items/equipment/t2-mage-boots-2841320705.json"
+  },
+  {
+   "id": 3590618366,
+   "name": "T2 Ranger Boots",
+   "page": "items/equipment/t2-ranger-boots-3590618366.md",
+   "json": "items/equipment/t2-ranger-boots-3590618366.json"
+  },
+  {
+   "id": 2731186757,
+   "name": "T2 Archer Boots",
+   "page": "items/equipment/t2-archer-boots-2731186757.md",
+   "json": "items/equipment/t2-archer-boots-2731186757.json"
+  },
+  {
+   "id": 4178035364,
+   "name": "T2 Tank Boots",
+   "page": "items/equipment/t2-tank-boots-4178035364.md",
+   "json": "items/equipment/t2-tank-boots-4178035364.json"
+  }
+ ],
+ "page": "items/materials/brittle-shroud-petals-1284326318.md"
+}

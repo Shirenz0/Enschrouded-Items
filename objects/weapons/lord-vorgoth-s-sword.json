@@ -1,0 +1,49 @@
+{
+ "name": "Lord Vorgoth's Sword",
+ "category": "Weapons",
+ "image": "images/icons/1237806794.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 4073230411,
+   "name": "Lord Vorgoth's Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/4073230411.png",
+   "page": "items/weapons/lord-vorgoth-s-sword-4073230411.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-4073230411.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1367103932,
+   "name": "Lord Vorgoth's Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1367103932.png",
+   "page": "items/weapons/lord-vorgoth-s-sword-1367103932.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-1367103932.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1237806794,
+   "name": "Lord Vorgoth's Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1237806794.png",
+   "page": "items/weapons/lord-vorgoth-s-sword-1237806794.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-1237806794.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/lord-vorgoth-s-sword.md"
+}

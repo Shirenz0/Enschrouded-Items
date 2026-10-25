@@ -1,0 +1,29 @@
+{
+ "id": 4279466124,
+ "name": "Male Lower Arms 01",
+ "internalName": "VC_Body_LowerArms_Male_04_elder",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/male-lower-arms-01.md",
+  "json": "objects/customization/male-lower-arms-01.json",
+  "versions": 4
+ },
+ "page": "items/customization/male-lower-arms-01-4279466124.md"
+}

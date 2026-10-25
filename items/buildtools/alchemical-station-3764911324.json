@@ -1,0 +1,88 @@
+{
+ "id": 3764911324,
+ "name": "Alchemical Station",
+ "internalName": "Prop_Production_T3_Alchemy_Station",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3764911324.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An Alchemical Station offering all needed tools to craft better alchemical products.",
+ "lore": "Furniture",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2136661768,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1261933427,
+      "name": "Fired Brick",
+      "page": "items/materials/fired-brick-1261933427.md",
+      "json": "items/materials/fired-brick-1261933427.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 311508484,
+      "name": "Cauldron",
+      "page": "items/buildtools/cauldron-311508484.md",
+      "json": "items/buildtools/cauldron-311508484.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/alchemical-station-3764911324.md"
+}

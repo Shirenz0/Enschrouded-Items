@@ -1,0 +1,110 @@
+{
+ "id": 917304835,
+ "name": "Fruit Bowl",
+ "internalName": "Food_T4_dish_fruit_FruitBowl",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/917304835.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A refreshing bowl of fruits with positive health benefits.\n\nBoosts health and stamina regeneration upon consumption.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2700000,
+    "display": "45:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 994952659,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 4231900495,
+      "name": "Date",
+      "page": "items/consumables/date-4231900495.md",
+      "json": "items/consumables/date-4231900495.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3479563223,
+      "name": "Strawberry",
+      "page": "items/consumables/strawberry-3479563223.md",
+      "json": "items/consumables/strawberry-3479563223.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3707271437,
+      "name": "Red Berries",
+      "page": "items/consumables/red-berries-3707271437.md",
+      "json": "items/consumables/red-berries-3707271437.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2008478235,
+      "name": "Yucca Fruit",
+      "page": "items/consumables/yucca-fruit-2008478235.md",
+      "json": "items/consumables/yucca-fruit-2008478235.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3173308572,
+      "name": "Night Berry",
+      "page": "items/consumables/night-berry-3173308572.md",
+      "json": "items/consumables/night-berry-3173308572.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/fruit-bowl-917304835.md"
+}

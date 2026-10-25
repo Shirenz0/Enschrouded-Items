@@ -1,0 +1,25 @@
+{
+ "id": 3484267274,
+ "name": "Ikko",
+ "internalName": "Animal_Pet_Dog_03_Brown",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3484267274.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A happy and carefree dog that likes to sleep in. It loves belly rubs. You found this dog in a tower that was overtaken by Hollow Hounds, and a Hollow Magician. A note on the dog's cage read \"Ikko\".",
+ "lore": "Pet",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/ikko-3484267274.md"
+}

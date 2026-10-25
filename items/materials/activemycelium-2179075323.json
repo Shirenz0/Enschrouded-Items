@@ -1,0 +1,87 @@
+{
+ "id": 2179075323,
+ "name": "ActiveMycelium",
+ "internalName": "Material_T1_FogTerrain_ActiveMycelium",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/2179075323.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Active Mycelium of fog mushrooms, absorbing the magical properties of the fog in the air. Could this be used for alchemical purposes?",
+ "lore": null,
+ "whereToFind": "Springlands Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2635793540,
+   "name": "Flask of the Fallen",
+   "page": "items/consumables/flask-of-the-fallen-2635793540.md",
+   "json": "items/consumables/flask-of-the-fallen-2635793540.json"
+  },
+  {
+   "id": 1782997504,
+   "name": "Fog Survival Flask",
+   "page": "items/consumables/fog-survival-flask-1782997504.md",
+   "json": "items/consumables/fog-survival-flask-1782997504.json"
+  },
+  {
+   "id": 1756446918,
+   "name": "Ancient Health Potion",
+   "page": "items/consumables/ancient-health-potion-1756446918.md",
+   "json": "items/consumables/ancient-health-potion-1756446918.json"
+  },
+  {
+   "id": 803538053,
+   "name": "T7 Eternal Shroud Beam Channel",
+   "page": "items/ammunition/t7-eternal-shroud-beam-channel-803538053.md",
+   "json": "items/ammunition/t7-eternal-shroud-beam-channel-803538053.json"
+  },
+  {
+   "id": 3333535459,
+   "name": "Shroud Arrow III",
+   "page": "items/ammunition/shroud-arrow-iii-3333535459.md",
+   "json": "items/ammunition/shroud-arrow-iii-3333535459.json"
+  },
+  {
+   "id": 579568751,
+   "name": "Shroud Vapor",
+   "page": "items/materials/shroud-vapor-579568751.md",
+   "json": "items/materials/shroud-vapor-579568751.json"
+  },
+  {
+   "id": 3440719310,
+   "name": "Alchemist Apprentice Chest",
+   "page": "items/equipment/alchemist-apprentice-chest-3440719310.md",
+   "json": "items/equipment/alchemist-apprentice-chest-3440719310.json"
+  },
+  {
+   "id": 2937561739,
+   "name": "Rising Fighter Chest",
+   "page": "items/equipment/rising-fighter-chest-2937561739.md",
+   "json": "items/equipment/rising-fighter-chest-2937561739.json"
+  },
+  {
+   "id": 4113785177,
+   "name": "Scout Chest",
+   "page": "items/equipment/scout-chest-4113785177.md",
+   "json": "items/equipment/scout-chest-4113785177.json"
+  },
+  {
+   "id": 3057524028,
+   "name": "Vorgoth's Pants",
+   "page": "items/equipment/vorgoth-s-pants-3057524028.md",
+   "json": "items/equipment/vorgoth-s-pants-3057524028.json"
+  }
+ ],
+ "page": "items/materials/activemycelium-2179075323.md"
+}

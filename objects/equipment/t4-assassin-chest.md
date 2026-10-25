@@ -17,4 +17,4 @@ A refined chest piece which lets you fade into the dark and strike from the shad
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-assassin-chest.json)

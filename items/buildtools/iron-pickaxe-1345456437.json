@@ -1,0 +1,94 @@
+{
+ "id": 1345456437,
+ "name": "Iron Pickaxe",
+ "internalName": "Tool_T4_Pickaxe_Iron_Desert",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1345456437.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A highly performant pickaxe made out of iron, useful in every environment. A truly handy tool to have.",
+ "lore": "Tools",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 130,
+    "display": "130",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Mason",
+   "effect": "Increases the skill level of Mason by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1573983398,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/iron-pickaxe-1345456437.md"
+}

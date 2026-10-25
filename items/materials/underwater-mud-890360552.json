@@ -1,0 +1,33 @@
+{
+ "id": 890360552,
+ "name": "Underwater Mud",
+ "internalName": "Build_TerrainMaterial_T1_Dirt_Underwater_mud",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/890360552.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Underwater Mud description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1521452298,
+   "name": "Underwater Overgrowth",
+   "page": "items/buildtools/underwater-overgrowth-1521452298.md",
+   "json": "items/buildtools/underwater-overgrowth-1521452298.json"
+  }
+ ],
+ "page": "items/materials/underwater-mud-890360552.md"
+}

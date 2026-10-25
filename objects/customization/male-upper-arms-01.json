@@ -1,0 +1,55 @@
+{
+ "name": "Male Upper Arms 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1968605555,
+   "name": "Male Upper Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-arms-01-1968605555.md",
+   "json": "items/customization/male-upper-arms-01-1968605555.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 753106814,
+   "name": "Male Upper Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-arms-01-753106814.md",
+   "json": "items/customization/male-upper-arms-01-753106814.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 920344359,
+   "name": "Male Upper Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-arms-01-920344359.md",
+   "json": "items/customization/male-upper-arms-01-920344359.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 936592405,
+   "name": "Male Upper Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-upper-arms-01-936592405.md",
+   "json": "items/customization/male-upper-arms-01-936592405.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-upper-arms-01.md"
+}

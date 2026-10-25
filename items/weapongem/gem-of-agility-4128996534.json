@@ -1,0 +1,41 @@
+{
+ "id": 4128996534,
+ "name": "Gem of Agility",
+ "internalName": "T3_Gem_GemOfAgility",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/4128996534.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "After performing a Dodge, your next hit deals %k additional cut damage and replenishes %k",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Additional Weapon Cut Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Stamina On Hit",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-agility-4128996534.md"
+}

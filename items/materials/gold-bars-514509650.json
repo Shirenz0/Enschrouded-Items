@@ -1,0 +1,962 @@
+{
+ "id": 514509650,
+ "name": "Gold Bars",
+ "internalName": "Material_T6_Gold_Bar",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/514509650.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 Gold Bar desc",
+ "lore": null,
+ "whereToFind": "Blast Furnace",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4083315263,
+   "station": "Blast Furnace",
+   "inputs": [
+    {
+     "count": 40,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 20,
+     "oneOf": [
+      {
+       "id": 2715107589,
+       "name": "Gold Ore",
+       "page": "items/materials/gold-ore-2715107589.md",
+       "json": "items/materials/gold-ore-2715107589.json"
+      },
+      {
+       "id": 2141541288,
+       "name": "Archaic Shards",
+       "page": "items/materials/archaic-shards-2141541288.md",
+       "json": "items/materials/archaic-shards-2141541288.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2543839394,
+   "name": "Wetland Hollow Halls Key",
+   "page": "items/tools/wetland-hollow-halls-key-2543839394.md",
+   "json": "items/tools/wetland-hollow-halls-key-2543839394.json"
+  },
+  {
+   "id": 30818586,
+   "name": "Enormous Magic Chest",
+   "page": "items/buildtools/enormous-magic-chest-30818586.md",
+   "json": "items/buildtools/enormous-magic-chest-30818586.json"
+  },
+  {
+   "id": 1985606133,
+   "name": "Water Barrier Ground",
+   "page": "items/buildtools/water-barrier-ground-1985606133.md",
+   "json": "items/buildtools/water-barrier-ground-1985606133.json"
+  },
+  {
+   "id": 3704426916,
+   "name": "Water Barrier Wall",
+   "page": "items/buildtools/water-barrier-wall-3704426916.md",
+   "json": "items/buildtools/water-barrier-wall-3704426916.json"
+  },
+  {
+   "id": 755945588,
+   "name": "T6 Lizard Temple Block",
+   "page": "items/buildtools/t6-lizard-temple-block-755945588.md",
+   "json": "items/buildtools/t6-lizard-temple-block-755945588.json"
+  },
+  {
+   "id": 1334157650,
+   "name": "T6 Eternal Fireball II",
+   "page": "items/ammunition/t6-eternal-fireball-ii-1334157650.md",
+   "json": "items/ammunition/t6-eternal-fireball-ii-1334157650.json"
+  },
+  {
+   "id": 1389638766,
+   "name": "T6 Eternal Lightning Channel I",
+   "page": "items/ammunition/t6-eternal-lightning-channel-i-1389638766.md",
+   "json": "items/ammunition/t6-eternal-lightning-channel-i-1389638766.json"
+  },
+  {
+   "id": 3046388897,
+   "name": "T6 Shock Totem II",
+   "page": "items/ammunition/t6-shock-totem-ii-3046388897.md",
+   "json": "items/ammunition/t6-shock-totem-ii-3046388897.json"
+  },
+  {
+   "id": 1060230019,
+   "name": "Gold Dust",
+   "page": "items/materials/gold-dust-1060230019.md",
+   "json": "items/materials/gold-dust-1060230019.json"
+  },
+  {
+   "id": 246967425,
+   "name": "T6 Tool Steel Axe",
+   "page": "items/tools/t6-tool-steel-axe-246967425.md",
+   "json": "items/tools/t6-tool-steel-axe-246967425.json"
+  },
+  {
+   "id": 1268331874,
+   "name": "T6 Pickaxe Steel",
+   "page": "items/buildtools/t6-pickaxe-steel-1268331874.md",
+   "json": "items/buildtools/t6-pickaxe-steel-1268331874.json"
+  },
+  {
+   "id": 1735564804,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-1735564804.md",
+   "json": "items/weapons/fenrig-s-axe-1735564804.json"
+  },
+  {
+   "id": 649877474,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-649877474.md",
+   "json": "items/weapons/jezmina-s-apotheosis-649877474.json"
+  },
+  {
+   "id": 2432243778,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-2432243778.md",
+   "json": "items/weapons/lupa-s-scalper-2432243778.json"
+  },
+  {
+   "id": 2688480639,
+   "name": "Dragonsbane",
+   "page": "items/weapons/dragonsbane-2688480639.md",
+   "json": "items/weapons/dragonsbane-2688480639.json"
+  },
+  {
+   "id": 2875621972,
+   "name": "Wolf's Hydra",
+   "page": "items/weapons/wolf-s-hydra-2875621972.md",
+   "json": "items/weapons/wolf-s-hydra-2875621972.json"
+  },
+  {
+   "id": 2409952376,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-2409952376.md",
+   "json": "items/weapons/halescourge-2409952376.json"
+  },
+  {
+   "id": 105288636,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-105288636.md",
+   "json": "items/weapons/wailing-blade-105288636.json"
+  },
+  {
+   "id": 3671319442,
+   "name": "Greater Twinflame Sword",
+   "page": "items/weapons/greater-twinflame-sword-3671319442.md",
+   "json": "items/weapons/greater-twinflame-sword-3671319442.json"
+  },
+  {
+   "id": 1786607643,
+   "name": "Lesser Twinflame Sword",
+   "page": "items/weapons/lesser-twinflame-sword-1786607643.md",
+   "json": "items/weapons/lesser-twinflame-sword-1786607643.json"
+  },
+  {
+   "id": 2352034665,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-2352034665.md",
+   "json": "items/weapons/dragon-sword-2352034665.json"
+  },
+  {
+   "id": 3957855784,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-3957855784.md",
+   "json": "items/equipment/pikemead-s-ward-3957855784.json"
+  },
+  {
+   "id": 1474807415,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-1474807415.md",
+   "json": "items/equipment/riptide-1474807415.json"
+  },
+  {
+   "id": 1777113935,
+   "name": "T6 Shield Tank",
+   "page": "items/equipment/t6-shield-tank-1777113935.md",
+   "json": "items/equipment/t6-shield-tank-1777113935.json"
+  },
+  {
+   "id": 2863750697,
+   "name": "T6 Shield DPS",
+   "page": "items/equipment/t6-shield-dps-2863750697.md",
+   "json": "items/equipment/t6-shield-dps-2863750697.json"
+  },
+  {
+   "id": 500747971,
+   "name": "Golden Recruit Axe",
+   "page": "items/weapons/golden-recruit-axe-500747971.md",
+   "json": "items/weapons/golden-recruit-axe-500747971.json"
+  },
+  {
+   "id": 430276931,
+   "name": "Ancestral Star",
+   "page": "items/weapons/ancestral-star-430276931.md",
+   "json": "items/weapons/ancestral-star-430276931.json"
+  },
+  {
+   "id": 1877646424,
+   "name": "Golden War Veteran Axe",
+   "page": "items/weapons/golden-war-veteran-axe-1877646424.md",
+   "json": "items/weapons/golden-war-veteran-axe-1877646424.json"
+  },
+  {
+   "id": 2260780998,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-2260780998.md",
+   "json": "items/weapons/soothsayer-2260780998.json"
+  },
+  {
+   "id": 4073230411,
+   "name": "Lord Vorgoth's Sword",
+   "page": "items/weapons/lord-vorgoth-s-sword-4073230411.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-4073230411.json"
+  },
+  {
+   "id": 852156015,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-852156015.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-852156015.json"
+  },
+  {
+   "id": 3578254606,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-3578254606.md",
+   "json": "items/weapons/draconian-bow-3578254606.json"
+  },
+  {
+   "id": 764137977,
+   "name": "Sacrificial Vukah Dagger",
+   "page": "items/weapons/sacrificial-vukah-dagger-764137977.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-764137977.json"
+  },
+  {
+   "id": 3096148752,
+   "name": "Valor Heart Dagger",
+   "page": "items/weapons/valor-heart-dagger-3096148752.md",
+   "json": "items/weapons/valor-heart-dagger-3096148752.json"
+  },
+  {
+   "id": 3618171376,
+   "name": "Throwing Knives",
+   "page": "items/weapons/throwing-knives-3618171376.md",
+   "json": "items/weapons/throwing-knives-3618171376.json"
+  },
+  {
+   "id": 9995480,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-9995480.md",
+   "json": "items/weapons/t1-lore-wand-9995480.json"
+  },
+  {
+   "id": 1561187159,
+   "name": "Darya's Wand",
+   "page": "items/weapons/darya-s-wand-1561187159.md",
+   "json": "items/weapons/darya-s-wand-1561187159.json"
+  },
+  {
+   "id": 1621727293,
+   "name": "Shroud Weaver",
+   "page": "items/weapons/shroud-weaver-1621727293.md",
+   "json": "items/weapons/shroud-weaver-1621727293.json"
+  },
+  {
+   "id": 4287106432,
+   "name": "Darya's Staff",
+   "page": "items/weapons/darya-s-staff-4287106432.md",
+   "json": "items/weapons/darya-s-staff-4287106432.json"
+  },
+  {
+   "id": 1467281560,
+   "name": "Ward T6",
+   "page": "items/equipment/ward-t6-1467281560.md",
+   "json": "items/equipment/ward-t6-1467281560.json"
+  },
+  {
+   "id": 2913802289,
+   "name": "Maritime Shower",
+   "page": "items/buildtools/maritime-shower-2913802289.md",
+   "json": "items/buildtools/maritime-shower-2913802289.json"
+  },
+  {
+   "id": 22428115,
+   "name": "Maritime Bathtub",
+   "page": "items/buildtools/maritime-bathtub-22428115.md",
+   "json": "items/buildtools/maritime-bathtub-22428115.json"
+  },
+  {
+   "id": 1948270754,
+   "name": "Maritime Toilet",
+   "page": "items/buildtools/maritime-toilet-1948270754.md",
+   "json": "items/buildtools/maritime-toilet-1948270754.json"
+  },
+  {
+   "id": 101619585,
+   "name": "Maritime Sink",
+   "page": "items/buildtools/maritime-sink-101619585.md",
+   "json": "items/buildtools/maritime-sink-101619585.json"
+  },
+  {
+   "id": 3354262298,
+   "name": "Ancient Bed",
+   "page": "items/buildtools/ancient-bed-3354262298.md",
+   "json": "items/buildtools/ancient-bed-3354262298.json"
+  },
+  {
+   "id": 1352479860,
+   "name": "Ancient Bench",
+   "page": "items/buildtools/ancient-bench-1352479860.md",
+   "json": "items/buildtools/ancient-bench-1352479860.json"
+  },
+  {
+   "id": 3255588039,
+   "name": "Ancient Temple Bench",
+   "page": "items/buildtools/ancient-temple-bench-3255588039.md",
+   "json": "items/buildtools/ancient-temple-bench-3255588039.json"
+  },
+  {
+   "id": 562059957,
+   "name": "Large Ancient Temple Bench",
+   "page": "items/buildtools/large-ancient-temple-bench-562059957.md",
+   "json": "items/buildtools/large-ancient-temple-bench-562059957.json"
+  },
+  {
+   "id": 3143381943,
+   "name": "Castle Bench",
+   "page": "items/buildtools/castle-bench-3143381943.md",
+   "json": "items/buildtools/castle-bench-3143381943.json"
+  },
+  {
+   "id": 625794456,
+   "name": "Ancient Chair",
+   "page": "items/buildtools/ancient-chair-625794456.md",
+   "json": "items/buildtools/ancient-chair-625794456.json"
+  },
+  {
+   "id": 568670850,
+   "name": "Ancient Stool",
+   "page": "items/buildtools/ancient-stool-568670850.md",
+   "json": "items/buildtools/ancient-stool-568670850.json"
+  },
+  {
+   "id": 3873995576,
+   "name": "Castle Chair",
+   "page": "items/buildtools/castle-chair-3873995576.md",
+   "json": "items/buildtools/castle-chair-3873995576.json"
+  },
+  {
+   "id": 3419379175,
+   "name": "Astronomy Standing Lamp",
+   "page": "items/buildtools/astronomy-standing-lamp-3419379175.md",
+   "json": "items/buildtools/astronomy-standing-lamp-3419379175.json"
+  },
+  {
+   "id": 4055833197,
+   "name": "Astronomy Wall Lamp",
+   "page": "items/buildtools/astronomy-wall-lamp-4055833197.md",
+   "json": "items/buildtools/astronomy-wall-lamp-4055833197.json"
+  },
+  {
+   "id": 2703911785,
+   "name": "Astronomy Ceiling Lamp",
+   "page": "items/buildtools/astronomy-ceiling-lamp-2703911785.md",
+   "json": "items/buildtools/astronomy-ceiling-lamp-2703911785.json"
+  },
+  {
+   "id": 4160439418,
+   "name": "Ancient Ground Lamp Small",
+   "page": "items/buildtools/ancient-ground-lamp-small-4160439418.md",
+   "json": "items/buildtools/ancient-ground-lamp-small-4160439418.json"
+  },
+  {
+   "id": 2934669936,
+   "name": "Ancient Ground Lamp Tall",
+   "page": "items/buildtools/ancient-ground-lamp-tall-2934669936.md",
+   "json": "items/buildtools/ancient-ground-lamp-tall-2934669936.json"
+  },
+  {
+   "id": 3711901465,
+   "name": "Ancient Wall Lamp",
+   "page": "items/buildtools/ancient-wall-lamp-3711901465.md",
+   "json": "items/buildtools/ancient-wall-lamp-3711901465.json"
+  },
+  {
+   "id": 124010475,
+   "name": "Ancient Ceiling Lamp",
+   "page": "items/buildtools/ancient-ceiling-lamp-124010475.md",
+   "json": "items/buildtools/ancient-ceiling-lamp-124010475.json"
+  },
+  {
+   "id": 3488815830,
+   "name": "Large Ancient Table",
+   "page": "items/buildtools/large-ancient-table-3488815830.md",
+   "json": "items/buildtools/large-ancient-table-3488815830.json"
+  },
+  {
+   "id": 147999202,
+   "name": "Medium Ancient Table",
+   "page": "items/buildtools/medium-ancient-table-147999202.md",
+   "json": "items/buildtools/medium-ancient-table-147999202.json"
+  },
+  {
+   "id": 647745472,
+   "name": "Small Ancient Table",
+   "page": "items/buildtools/small-ancient-table-647745472.md",
+   "json": "items/buildtools/small-ancient-table-647745472.json"
+  },
+  {
+   "id": 519779949,
+   "name": "Large Castle Table",
+   "page": "items/buildtools/large-castle-table-519779949.md",
+   "json": "items/buildtools/large-castle-table-519779949.json"
+  },
+  {
+   "id": 3755696550,
+   "name": "Medium Castle Table",
+   "page": "items/buildtools/medium-castle-table-3755696550.md",
+   "json": "items/buildtools/medium-castle-table-3755696550.json"
+  },
+  {
+   "id": 3510215893,
+   "name": "Small Castle Table",
+   "page": "items/buildtools/small-castle-table-3510215893.md",
+   "json": "items/buildtools/small-castle-table-3510215893.json"
+  },
+  {
+   "id": 2903890683,
+   "name": "Gold Vorgoth Eye Trophy",
+   "page": "items/buildtools/gold-vorgoth-eye-trophy-2903890683.md",
+   "json": "items/buildtools/gold-vorgoth-eye-trophy-2903890683.json"
+  },
+  {
+   "id": 962609600,
+   "name": "Gold Ancient Construct: Heavy Trophy",
+   "page": "items/buildtools/gold-ancient-construct-heavy-trophy-962609600.md",
+   "json": "items/buildtools/gold-ancient-construct-heavy-trophy-962609600.json"
+  },
+  {
+   "id": 3996827562,
+   "name": "Gold Hollow Wispwyvern Trophy",
+   "page": "items/buildtools/gold-hollow-wispwyvern-trophy-3996827562.md",
+   "json": "items/buildtools/gold-hollow-wispwyvern-trophy-3996827562.json"
+  },
+  {
+   "id": 973320971,
+   "name": "Gold Hydrak'Dal Trophy",
+   "page": "items/buildtools/gold-hydrak-dal-trophy-973320971.md",
+   "json": "items/buildtools/gold-hydrak-dal-trophy-973320971.json"
+  },
+  {
+   "id": 4203731022,
+   "name": "Gold Hollow Heavy Hero Trophy",
+   "page": "items/buildtools/gold-hollow-heavy-hero-trophy-4203731022.md",
+   "json": "items/buildtools/gold-hollow-heavy-hero-trophy-4203731022.json"
+  },
+  {
+   "id": 1900096652,
+   "name": "Gold Fell Dragon Youngling Trophy",
+   "page": "items/buildtools/gold-fell-dragon-youngling-trophy-1900096652.md",
+   "json": "items/buildtools/gold-fell-dragon-youngling-trophy-1900096652.json"
+  },
+  {
+   "id": 1001479248,
+   "name": "Gold Fell Cyclops Trophy",
+   "page": "items/buildtools/gold-fell-cyclops-trophy-1001479248.md",
+   "json": "items/buildtools/gold-fell-cyclops-trophy-1001479248.json"
+  },
+  {
+   "id": 2288002943,
+   "name": "Gold Cyclops Trophy",
+   "page": "items/buildtools/gold-cyclops-trophy-2288002943.md",
+   "json": "items/buildtools/gold-cyclops-trophy-2288002943.json"
+  },
+  {
+   "id": 1356764848,
+   "name": "Gold Scavenger Tyrant Trophy",
+   "page": "items/buildtools/gold-scavenger-tyrant-trophy-1356764848.md",
+   "json": "items/buildtools/gold-scavenger-tyrant-trophy-1356764848.json"
+  },
+  {
+   "id": 2819075555,
+   "name": "Gold Fell Sicklescythe Trophy",
+   "page": "items/buildtools/gold-fell-sicklescythe-trophy-2819075555.md",
+   "json": "items/buildtools/gold-fell-sicklescythe-trophy-2819075555.json"
+  },
+  {
+   "id": 3518673921,
+   "name": "Gold Fell Monstrosity trophy",
+   "page": "items/buildtools/gold-fell-monstrosity-trophy-3518673921.md",
+   "json": "items/buildtools/gold-fell-monstrosity-trophy-3518673921.json"
+  },
+  {
+   "id": 3854402069,
+   "name": "Gold Red Fell Critter Queen Trophy",
+   "page": "items/buildtools/gold-red-fell-critter-queen-trophy-3854402069.md",
+   "json": "items/buildtools/gold-red-fell-critter-queen-trophy-3854402069.json"
+  },
+  {
+   "id": 501181105,
+   "name": "Gold Fell Critter Queen Trophy",
+   "page": "items/buildtools/gold-fell-critter-queen-trophy-501181105.md",
+   "json": "items/buildtools/gold-fell-critter-queen-trophy-501181105.json"
+  },
+  {
+   "id": 4089063890,
+   "name": "Gold Fell Wispwyvern trophy",
+   "page": "items/buildtools/gold-fell-wispwyvern-trophy-4089063890.md",
+   "json": "items/buildtools/gold-fell-wispwyvern-trophy-4089063890.json"
+  },
+  {
+   "id": 987744055,
+   "name": "Gold Hollow Cyclops Trophy",
+   "page": "items/buildtools/gold-hollow-cyclops-trophy-987744055.md",
+   "json": "items/buildtools/gold-hollow-cyclops-trophy-987744055.json"
+  },
+  {
+   "id": 559604701,
+   "name": "Gold Werewolf Trophy",
+   "page": "items/buildtools/gold-werewolf-trophy-559604701.md",
+   "json": "items/buildtools/gold-werewolf-trophy-559604701.json"
+  },
+  {
+   "id": 3298516900,
+   "name": "Gold Vukah Brawler Trophy",
+   "page": "items/buildtools/gold-vukah-brawler-trophy-3298516900.md",
+   "json": "items/buildtools/gold-vukah-brawler-trophy-3298516900.json"
+  },
+  {
+   "id": 2696524924,
+   "name": "Gold Scavenger Matron Trophy",
+   "page": "items/buildtools/gold-scavenger-matron-trophy-2696524924.md",
+   "json": "items/buildtools/gold-scavenger-matron-trophy-2696524924.json"
+  },
+  {
+   "id": 3568555681,
+   "name": "Gold Fell Thunderbrute Trophy",
+   "page": "items/buildtools/gold-fell-thunderbrute-trophy-3568555681.md",
+   "json": "items/buildtools/gold-fell-thunderbrute-trophy-3568555681.json"
+  },
+  {
+   "id": 1216107588,
+   "name": "Standing Banner of the Ancients I",
+   "page": "items/buildtools/standing-banner-of-the-ancients-i-1216107588.md",
+   "json": "items/buildtools/standing-banner-of-the-ancients-i-1216107588.json"
+  },
+  {
+   "id": 914979767,
+   "name": "Standing Banner of the Ancients II",
+   "page": "items/buildtools/standing-banner-of-the-ancients-ii-914979767.md",
+   "json": "items/buildtools/standing-banner-of-the-ancients-ii-914979767.json"
+  },
+  {
+   "id": 1643475525,
+   "name": "Wall Banner of the Ancients I",
+   "page": "items/buildtools/wall-banner-of-the-ancients-i-1643475525.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-i-1643475525.json"
+  },
+  {
+   "id": 3504476430,
+   "name": "Wall Banner of the Ancients II",
+   "page": "items/buildtools/wall-banner-of-the-ancients-ii-3504476430.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-ii-3504476430.json"
+  },
+  {
+   "id": 2493505667,
+   "name": "Wall Banner of the Ancients III",
+   "page": "items/buildtools/wall-banner-of-the-ancients-iii-2493505667.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-iii-2493505667.json"
+  },
+  {
+   "id": 1650620844,
+   "name": "Golden Vase Of The Ancients I",
+   "page": "items/buildtools/golden-vase-of-the-ancients-i-1650620844.md",
+   "json": "items/buildtools/golden-vase-of-the-ancients-i-1650620844.json"
+  },
+  {
+   "id": 2439025020,
+   "name": "Golden Vase Of The Ancients II",
+   "page": "items/buildtools/golden-vase-of-the-ancients-ii-2439025020.md",
+   "json": "items/buildtools/golden-vase-of-the-ancients-ii-2439025020.json"
+  },
+  {
+   "id": 1096548583,
+   "name": "Golden Vase Of The Ancients III",
+   "page": "items/buildtools/golden-vase-of-the-ancients-iii-1096548583.md",
+   "json": "items/buildtools/golden-vase-of-the-ancients-iii-1096548583.json"
+  },
+  {
+   "id": 2667326700,
+   "name": "Vase Of The Ancients I",
+   "page": "items/buildtools/vase-of-the-ancients-i-2667326700.md",
+   "json": "items/buildtools/vase-of-the-ancients-i-2667326700.json"
+  },
+  {
+   "id": 3127174137,
+   "name": "Vase Of The Ancients II",
+   "page": "items/buildtools/vase-of-the-ancients-ii-3127174137.md",
+   "json": "items/buildtools/vase-of-the-ancients-ii-3127174137.json"
+  },
+  {
+   "id": 2057806208,
+   "name": "Vase Of The Ancients III",
+   "page": "items/buildtools/vase-of-the-ancients-iii-2057806208.md",
+   "json": "items/buildtools/vase-of-the-ancients-iii-2057806208.json"
+  },
+  {
+   "id": 1494587688,
+   "name": "Vase Of The Ancients IV",
+   "page": "items/buildtools/vase-of-the-ancients-iv-1494587688.md",
+   "json": "items/buildtools/vase-of-the-ancients-iv-1494587688.json"
+  },
+  {
+   "id": 875303466,
+   "name": "Vase Of The Ancients V",
+   "page": "items/buildtools/vase-of-the-ancients-v-875303466.md",
+   "json": "items/buildtools/vase-of-the-ancients-v-875303466.json"
+  },
+  {
+   "id": 1543960903,
+   "name": "Vase Of The Ancients VI",
+   "page": "items/buildtools/vase-of-the-ancients-vi-1543960903.md",
+   "json": "items/buildtools/vase-of-the-ancients-vi-1543960903.json"
+  },
+  {
+   "id": 1002300132,
+   "name": "Vat Of The Ancients I",
+   "page": "items/buildtools/vat-of-the-ancients-i-1002300132.md",
+   "json": "items/buildtools/vat-of-the-ancients-i-1002300132.json"
+  },
+  {
+   "id": 3020325840,
+   "name": "Vat Of The Ancients II",
+   "page": "items/buildtools/vat-of-the-ancients-ii-3020325840.md",
+   "json": "items/buildtools/vat-of-the-ancients-ii-3020325840.json"
+  },
+  {
+   "id": 1564592249,
+   "name": "Vat Of The Ancients III",
+   "page": "items/buildtools/vat-of-the-ancients-iii-1564592249.md",
+   "json": "items/buildtools/vat-of-the-ancients-iii-1564592249.json"
+  },
+  {
+   "id": 868088885,
+   "name": "Vat Of The Ancients IV",
+   "page": "items/buildtools/vat-of-the-ancients-iv-868088885.md",
+   "json": "items/buildtools/vat-of-the-ancients-iv-868088885.json"
+  },
+  {
+   "id": 1639638331,
+   "name": "Drak Temple Vase I",
+   "page": "items/buildtools/drak-temple-vase-i-1639638331.md",
+   "json": "items/buildtools/drak-temple-vase-i-1639638331.json"
+  },
+  {
+   "id": 2164330756,
+   "name": "Drak Temple Vase II",
+   "page": "items/buildtools/drak-temple-vase-ii-2164330756.md",
+   "json": "items/buildtools/drak-temple-vase-ii-2164330756.json"
+  },
+  {
+   "id": 4252559857,
+   "name": "Drak Temple Vase III",
+   "page": "items/buildtools/drak-temple-vase-iii-4252559857.md",
+   "json": "items/buildtools/drak-temple-vase-iii-4252559857.json"
+  },
+  {
+   "id": 530828281,
+   "name": "Drak Temple Vase IV",
+   "page": "items/buildtools/drak-temple-vase-iv-530828281.md",
+   "json": "items/buildtools/drak-temple-vase-iv-530828281.json"
+  },
+  {
+   "id": 662985240,
+   "name": "Drak Temple Vase V",
+   "page": "items/buildtools/drak-temple-vase-v-662985240.md",
+   "json": "items/buildtools/drak-temple-vase-v-662985240.json"
+  },
+  {
+   "id": 3712260646,
+   "name": "Drak Temple Vase VI",
+   "page": "items/buildtools/drak-temple-vase-vi-3712260646.md",
+   "json": "items/buildtools/drak-temple-vase-vi-3712260646.json"
+  },
+  {
+   "id": 3198510897,
+   "name": "Drak Temple Vase VII",
+   "page": "items/buildtools/drak-temple-vase-vii-3198510897.md",
+   "json": "items/buildtools/drak-temple-vase-vii-3198510897.json"
+  },
+  {
+   "id": 4040513107,
+   "name": "Large Golden/Ancient Divider",
+   "page": "items/buildtools/large-golden-ancient-divider-4040513107.md",
+   "json": "items/buildtools/large-golden-ancient-divider-4040513107.json"
+  },
+  {
+   "id": 1162275055,
+   "name": "Golden/Ancient Divider",
+   "page": "items/buildtools/golden-ancient-divider-1162275055.md",
+   "json": "items/buildtools/golden-ancient-divider-1162275055.json"
+  },
+  {
+   "id": 674281730,
+   "name": "Drak Stone Totem I",
+   "page": "items/buildtools/drak-stone-totem-i-674281730.md",
+   "json": "items/buildtools/drak-stone-totem-i-674281730.json"
+  },
+  {
+   "id": 1734846827,
+   "name": "Drak Stone Totem II",
+   "page": "items/buildtools/drak-stone-totem-ii-1734846827.md",
+   "json": "items/buildtools/drak-stone-totem-ii-1734846827.json"
+  },
+  {
+   "id": 174600513,
+   "name": "Drak Stone Totem III",
+   "page": "items/buildtools/drak-stone-totem-iii-174600513.md",
+   "json": "items/buildtools/drak-stone-totem-iii-174600513.json"
+  },
+  {
+   "id": 3045071835,
+   "name": "Drak Stone Totem IV",
+   "page": "items/buildtools/drak-stone-totem-iv-3045071835.md",
+   "json": "items/buildtools/drak-stone-totem-iv-3045071835.json"
+  },
+  {
+   "id": 778201792,
+   "name": "Drak Stone Totem V",
+   "page": "items/buildtools/drak-stone-totem-v-778201792.md",
+   "json": "items/buildtools/drak-stone-totem-v-778201792.json"
+  },
+  {
+   "id": 3286648280,
+   "name": "Golden/Ancient Fence",
+   "page": "items/buildtools/golden-ancient-fence-3286648280.md",
+   "json": "items/buildtools/golden-ancient-fence-3286648280.json"
+  },
+  {
+   "id": 2152383033,
+   "name": "Ancient Fence",
+   "page": "items/buildtools/ancient-fence-2152383033.md",
+   "json": "items/buildtools/ancient-fence-2152383033.json"
+  },
+  {
+   "id": 1069919690,
+   "name": "Ancient Centrifuge",
+   "page": "items/buildtools/ancient-centrifuge-1069919690.md",
+   "json": "items/buildtools/ancient-centrifuge-1069919690.json"
+  },
+  {
+   "id": 2702448213,
+   "name": "Ancient Cooling Unit",
+   "page": "items/buildtools/ancient-cooling-unit-2702448213.md",
+   "json": "items/buildtools/ancient-cooling-unit-2702448213.json"
+  },
+  {
+   "id": 3897312417,
+   "name": "Ancient Microscope I",
+   "page": "items/buildtools/ancient-microscope-i-3897312417.md",
+   "json": "items/buildtools/ancient-microscope-i-3897312417.json"
+  },
+  {
+   "id": 758912437,
+   "name": "Ancient Microscope II",
+   "page": "items/buildtools/ancient-microscope-ii-758912437.md",
+   "json": "items/buildtools/ancient-microscope-ii-758912437.json"
+  },
+  {
+   "id": 873559594,
+   "name": "Ancient Microscope III",
+   "page": "items/buildtools/ancient-microscope-iii-873559594.md",
+   "json": "items/buildtools/ancient-microscope-iii-873559594.json"
+  },
+  {
+   "id": 1422320714,
+   "name": "Ancient Pipette",
+   "page": "items/buildtools/ancient-pipette-1422320714.md",
+   "json": "items/buildtools/ancient-pipette-1422320714.json"
+  },
+  {
+   "id": 3072049069,
+   "name": "Ancient Ceiling Mobile I",
+   "page": "items/buildtools/ancient-ceiling-mobile-i-3072049069.md",
+   "json": "items/buildtools/ancient-ceiling-mobile-i-3072049069.json"
+  },
+  {
+   "id": 2773180896,
+   "name": "Ancient Ceiling Mobile II",
+   "page": "items/buildtools/ancient-ceiling-mobile-ii-2773180896.md",
+   "json": "items/buildtools/ancient-ceiling-mobile-ii-2773180896.json"
+  },
+  {
+   "id": 3480966914,
+   "name": "Ancient Ceiling Mobile III",
+   "page": "items/buildtools/ancient-ceiling-mobile-iii-3480966914.md",
+   "json": "items/buildtools/ancient-ceiling-mobile-iii-3480966914.json"
+  },
+  {
+   "id": 606217020,
+   "name": "Astronomy Desk I",
+   "page": "items/buildtools/astronomy-desk-i-606217020.md",
+   "json": "items/buildtools/astronomy-desk-i-606217020.json"
+  },
+  {
+   "id": 1006888198,
+   "name": "Astronomy Desk II",
+   "page": "items/buildtools/astronomy-desk-ii-1006888198.md",
+   "json": "items/buildtools/astronomy-desk-ii-1006888198.json"
+  },
+  {
+   "id": 1589845330,
+   "name": "Globe",
+   "page": "items/buildtools/globe-1589845330.md",
+   "json": "items/buildtools/globe-1589845330.json"
+  },
+  {
+   "id": 3252953392,
+   "name": "Measuring Device I",
+   "page": "items/buildtools/measuring-device-i-3252953392.md",
+   "json": "items/buildtools/measuring-device-i-3252953392.json"
+  },
+  {
+   "id": 3641163278,
+   "name": "Measuring Device II",
+   "page": "items/buildtools/measuring-device-ii-3641163278.md",
+   "json": "items/buildtools/measuring-device-ii-3641163278.json"
+  },
+  {
+   "id": 3716077081,
+   "name": "Giant Telescope",
+   "page": "items/buildtools/giant-telescope-3716077081.md",
+   "json": "items/buildtools/giant-telescope-3716077081.json"
+  },
+  {
+   "id": 1834258828,
+   "name": "Small Telescope",
+   "page": "items/buildtools/small-telescope-1834258828.md",
+   "json": "items/buildtools/small-telescope-1834258828.json"
+  },
+  {
+   "id": 3879322402,
+   "name": "Ancient Temple Shelf Small",
+   "page": "items/buildtools/ancient-temple-shelf-small-3879322402.md",
+   "json": "items/buildtools/ancient-temple-shelf-small-3879322402.json"
+  },
+  {
+   "id": 254775798,
+   "name": "Ancient Temple Shelf Medium",
+   "page": "items/buildtools/ancient-temple-shelf-medium-254775798.md",
+   "json": "items/buildtools/ancient-temple-shelf-medium-254775798.json"
+  },
+  {
+   "id": 2239837360,
+   "name": "Ancient Temple Shelf Large",
+   "page": "items/buildtools/ancient-temple-shelf-large-2239837360.md",
+   "json": "items/buildtools/ancient-temple-shelf-large-2239837360.json"
+  },
+  {
+   "id": 1632396469,
+   "name": "Golden Dome",
+   "page": "items/buildtools/golden-dome-1632396469.md",
+   "json": "items/buildtools/golden-dome-1632396469.json"
+  },
+  {
+   "id": 218943292,
+   "name": "Golden Curved Palisade",
+   "page": "items/buildtools/golden-curved-palisade-218943292.md",
+   "json": "items/buildtools/golden-curved-palisade-218943292.json"
+  },
+  {
+   "id": 458026804,
+   "name": "Ancient Shelf",
+   "page": "items/buildtools/ancient-shelf-458026804.md",
+   "json": "items/buildtools/ancient-shelf-458026804.json"
+  },
+  {
+   "id": 1777021858,
+   "name": "Large Ancient Sideboard",
+   "page": "items/buildtools/large-ancient-sideboard-1777021858.md",
+   "json": "items/buildtools/large-ancient-sideboard-1777021858.json"
+  },
+  {
+   "id": 2848789791,
+   "name": "Small Ancient Sideboard",
+   "page": "items/buildtools/small-ancient-sideboard-2848789791.md",
+   "json": "items/buildtools/small-ancient-sideboard-2848789791.json"
+  },
+  {
+   "id": 2405796986,
+   "name": "Small Castle Sideboard",
+   "page": "items/buildtools/small-castle-sideboard-2405796986.md",
+   "json": "items/buildtools/small-castle-sideboard-2405796986.json"
+  },
+  {
+   "id": 4088362201,
+   "name": "Castle Shelf",
+   "page": "items/buildtools/castle-shelf-4088362201.md",
+   "json": "items/buildtools/castle-shelf-4088362201.json"
+  },
+  {
+   "id": 1390578094,
+   "name": "Large Ancient Cupboard",
+   "page": "items/buildtools/large-ancient-cupboard-1390578094.md",
+   "json": "items/buildtools/large-ancient-cupboard-1390578094.json"
+  },
+  {
+   "id": 1872768226,
+   "name": "Small Ancient Cupboard",
+   "page": "items/buildtools/small-ancient-cupboard-1872768226.md",
+   "json": "items/buildtools/small-ancient-cupboard-1872768226.json"
+  },
+  {
+   "id": 730996074,
+   "name": "High Ancient Window Frame",
+   "page": "items/buildtools/high-ancient-window-frame-730996074.md",
+   "json": "items/buildtools/high-ancient-window-frame-730996074.json"
+  },
+  {
+   "id": 3732364492,
+   "name": "Large Ancient Window Frame",
+   "page": "items/buildtools/large-ancient-window-frame-3732364492.md",
+   "json": "items/buildtools/large-ancient-window-frame-3732364492.json"
+  },
+  {
+   "id": 3010785018,
+   "name": "High Golden Window Frame",
+   "page": "items/buildtools/high-golden-window-frame-3010785018.md",
+   "json": "items/buildtools/high-golden-window-frame-3010785018.json"
+  },
+  {
+   "id": 3511498168,
+   "name": "Large Golden Window Frame",
+   "page": "items/buildtools/large-golden-window-frame-3511498168.md",
+   "json": "items/buildtools/large-golden-window-frame-3511498168.json"
+  }
+ ],
+ "page": "items/materials/gold-bars-514509650.md"
+}

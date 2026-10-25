@@ -17,4 +17,4 @@ These fingerless gloves allow the wearer to feel each leaf and root before picki
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-healer-arms.json)

@@ -25,4 +25,4 @@ Crafting, Ectoplasm Press
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](exceptional-ectoplasm-148404293.json)

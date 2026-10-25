@@ -1,0 +1,88 @@
+{
+ "id": 3702644205,
+ "name": "Revitalizing Health Potion",
+ "internalName": "Consumable_Potion_Health_T4",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3702644205.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The pinnacle of potioncraft. It gained its name after rescuing users from countless near-death situations.\n\nInstantly restores an unbelievable amount of Health.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 800,
+    "display": "800",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1306717562,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 764289975,
+      "name": "Aloe",
+      "page": "items/materials/aloe-764289975.md",
+      "json": "items/materials/aloe-764289975.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1196255924,
+   "name": "Revilalizing Health Potion improved",
+   "page": "items/consumables/revilalizing-health-potion-improved-1196255924.md",
+   "json": "items/consumables/revilalizing-health-potion-improved-1196255924.json"
+  }
+ ],
+ "page": "items/consumables/revitalizing-health-potion-3702644205.md"
+}

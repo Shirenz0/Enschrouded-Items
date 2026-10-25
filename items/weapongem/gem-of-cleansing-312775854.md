@@ -23,4 +23,4 @@ Dealing damage removes the enemies fog damage resistance for %k
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-cleansing-312775854.json)

@@ -17,4 +17,4 @@ Some scratched up mercenary boots. Kick your enemies when they're down!
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-dps-boots.json)

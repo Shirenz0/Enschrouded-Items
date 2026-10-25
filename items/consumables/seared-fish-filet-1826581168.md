@@ -37,4 +37,4 @@ Seafood Grill
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](seared-fish-filet-1826581168.json)

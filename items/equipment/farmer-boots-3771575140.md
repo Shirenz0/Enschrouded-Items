@@ -27,4 +27,4 @@ Simple boots for hardworking folk.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](farmer-boots-3771575140.json)

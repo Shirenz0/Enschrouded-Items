@@ -1,0 +1,73 @@
+{
+ "id": 2720607491,
+ "name": "T4 Archer Boots",
+ "internalName": "Armor_T4_Ranger_Adventurer_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2720607491.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Ride as swift as the bluejays with these sturdy leather boots.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -350,
+    "display": "-0.35 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Inner Fires",
+   "effect": "Increases the skill level of Inner Fires by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+12 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Silent Stride",
+   "effect": "Increases the skill level of Silent Stride by +1"
+  }
+ ],
+ "page": "items/equipment/t4-archer-boots-2720607491.md"
+}

@@ -29,4 +29,4 @@ Vanity  Outfit Sheep  helmet   Desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-outfit-sheep-helmet-2461388514.json)

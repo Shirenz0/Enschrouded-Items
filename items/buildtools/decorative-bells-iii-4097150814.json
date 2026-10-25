@@ -1,0 +1,70 @@
+{
+ "id": 4097150814,
+ "name": "Decorative Bells III",
+ "internalName": "Prop_Decoration_T4_WinterProps_Bells03",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/4097150814.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Decorative Winter Bells",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3966476042,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3960097842,
+      "name": "Red Fabric",
+      "page": "items/materials/red-fabric-3960097842.md",
+      "json": "items/materials/red-fabric-3960097842.json"
+     }
+    }
+   ],
+   "outputCount": 2
+  }
+ ],
+ "page": "items/buildtools/decorative-bells-iii-4097150814.md"
+}

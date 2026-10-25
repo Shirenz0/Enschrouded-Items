@@ -1,0 +1,29 @@
+{
+ "id": 3534930699,
+ "name": "Empty Lily Pot",
+ "internalName": "Empty_Flower_Pot_CNY_Empty_01b",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3534930699.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/empty-lily-pot.md",
+  "json": "objects/buildtools/empty-lily-pot.json",
+  "versions": 3
+ },
+ "page": "items/buildtools/empty-lily-pot-3534930699.md"
+}

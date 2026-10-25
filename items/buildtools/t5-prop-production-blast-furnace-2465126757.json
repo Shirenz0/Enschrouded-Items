@@ -1,0 +1,99 @@
+{
+ "id": 2465126757,
+ "name": "T5 Prop Production Blast Furnace",
+ "internalName": "Prop_Production_T5_BlastFurnace",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2465126757.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t5 prop production blast  furnace desc",
+ "lore": "Furniture",
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1494906654,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1261933427,
+      "name": "Fired Brick",
+      "page": "items/materials/fired-brick-1261933427.md",
+      "json": "items/materials/fired-brick-1261933427.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3995142206,
+      "name": "T5 Prop Component Bellows",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 30,
+     "oneOf": [
+      {
+       "id": 2493843175,
+       "name": "Sand",
+       "page": "items/materials/sand-2493843175.md",
+       "json": "items/materials/sand-2493843175.json"
+      },
+      {
+       "id": 3489782185,
+       "name": "Fine Sand",
+       "page": "items/materials/fine-sand-3489782185.md",
+       "json": "items/materials/fine-sand-3489782185.json"
+      },
+      {
+       "id": 2181045178,
+       "name": "T6 Wetlands Sand",
+       "page": "items/materials/t6-wetlands-sand-2181045178.md",
+       "json": "items/materials/t6-wetlands-sand-2181045178.json"
+      },
+      {
+       "id": 3899759098,
+       "name": "T7 AncientLand Sand",
+       "page": "items/materials/t7-ancientland-sand-3899759098.md",
+       "json": "items/materials/t7-ancientland-sand-3899759098.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t5-prop-production-blast-furnace-2465126757.md"
+}

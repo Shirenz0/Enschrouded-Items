@@ -34,4 +34,4 @@ A powerful spell that strikes fear into your enemies, but be careful with its us
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t4-shroud-meteor-3940653429.json)

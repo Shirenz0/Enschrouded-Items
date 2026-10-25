@@ -1,0 +1,70 @@
+{
+ "id": 148404293,
+ "name": "Exceptional Ectoplasm",
+ "internalName": "Material_T5_SlurpBroth",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 250,
+ "image": "images/icons/148404293.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t5 slurp broth desc",
+ "lore": null,
+ "whereToFind": "Crafting, Ectoplasm Press",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3469319203,
+   "station": "skullCrockPot",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1903438107,
+      "name": "T5 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 4199799645,
+      "name": "T5 Ice",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/exceptional-ectoplasm-148404293.md"
+}

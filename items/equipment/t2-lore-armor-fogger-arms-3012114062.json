@@ -1,0 +1,75 @@
+{
+ "id": 3012114062,
+ "name": "T2 Lore Armor Fogger Arms",
+ "internalName": "Armor_T2_MultiClass_FogPowered_Arms_ministory_13",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3012114062.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Arms of an elixir infused armor set",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Melee Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magic Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max Shroud Survivability",
+    "value": -60000,
+    "display": "-60,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Arsonist",
+   "effect": "Increases the skill level of Arsonist by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  }
+ ],
+ "page": "items/equipment/t2-lore-armor-fogger-arms-3012114062.md"
+}

@@ -1,0 +1,249 @@
+{
+ "id": 3403995938,
+ "name": "Goo",
+ "internalName": "Material_T2_Goo",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/3403995938.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A sticky paste used to bind chemical substances.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1779497813,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4229884102,
+      "name": "Shroud Mush",
+      "page": "items/materials/shroud-mush-4229884102.md",
+      "json": "items/materials/shroud-mush-4229884102.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 957162158,
+      "name": "Bug Dust",
+      "page": "items/materials/bug-dust-957162158.md",
+      "json": "items/materials/bug-dust-957162158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3196782416,
+   "name": "Overgrowth Tool",
+   "page": "items/blueprints/overgrowth-tool-3196782416.md",
+   "json": "items/blueprints/overgrowth-tool-3196782416.json"
+  },
+  {
+   "id": 2463706463,
+   "name": "Magic Medium Chest",
+   "page": "items/buildtools/magic-medium-chest-2463706463.md",
+   "json": "items/buildtools/magic-medium-chest-2463706463.json"
+  },
+  {
+   "id": 2847231429,
+   "name": "Loot Drop Station",
+   "page": "items/buildtools/loot-drop-station-2847231429.md",
+   "json": "items/buildtools/loot-drop-station-2847231429.json"
+  },
+  {
+   "id": 3718491895,
+   "name": "Big range Loot Drop Station",
+   "page": "items/buildtools/big-range-loot-drop-station-3718491895.md",
+   "json": "items/buildtools/big-range-loot-drop-station-3718491895.json"
+  },
+  {
+   "id": 397674071,
+   "name": "Magic Frost Arrow",
+   "page": "items/ammunition/magic-frost-arrow-397674071.md",
+   "json": "items/ammunition/magic-frost-arrow-397674071.json"
+  },
+  {
+   "id": 1614683414,
+   "name": "T2 Blizzard I",
+   "page": "items/ammunition/t2-blizzard-i-1614683414.md",
+   "json": "items/ammunition/t2-blizzard-i-1614683414.json"
+  },
+  {
+   "id": 471823515,
+   "name": "T3 Acid Cone",
+   "page": "items/ammunition/t3-acid-cone-471823515.md",
+   "json": "items/ammunition/t3-acid-cone-471823515.json"
+  },
+  {
+   "id": 3761680048,
+   "name": "Fog Arrow",
+   "page": "items/ammunition/fog-arrow-3761680048.md",
+   "json": "items/ammunition/fog-arrow-3761680048.json"
+  },
+  {
+   "id": 2371220722,
+   "name": "Stun Arrow",
+   "page": "items/ammunition/stun-arrow-2371220722.md",
+   "json": "items/ammunition/stun-arrow-2371220722.json"
+  },
+  {
+   "id": 3776129035,
+   "name": "Glowing Mushroom Seedling",
+   "page": "items/buildtools/glowing-mushroom-seedling-3776129035.md",
+   "json": "items/buildtools/glowing-mushroom-seedling-3776129035.json"
+  },
+  {
+   "id": 887761434,
+   "name": "Flammable Goo",
+   "page": "items/materials/flammable-goo-887761434.md",
+   "json": "items/materials/flammable-goo-887761434.json"
+  },
+  {
+   "id": 2343620458,
+   "name": "Tbd T2 Palette 03 Reward",
+   "page": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.md",
+   "json": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.json"
+  },
+  {
+   "id": 556297753,
+   "name": "T2 Palette 02 shades of grey",
+   "page": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.md",
+   "json": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.json"
+  },
+  {
+   "id": 2125851720,
+   "name": "Tbd T2 Palette 01 Reward Blue, Blue And Blue",
+   "page": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.md",
+   "json": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.json"
+  },
+  {
+   "id": 2967793968,
+   "name": "T2 Palette 03 Grey and Blue",
+   "page": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.md",
+   "json": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.json"
+  },
+  {
+   "id": 4016272699,
+   "name": "T2 Palette 01 Brown bright Grey",
+   "page": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.md",
+   "json": "items/colorpalette/t2-palette-01-brown-bright-grey-4016272699.json"
+  },
+  {
+   "id": 4286973253,
+   "name": "Tbd T2 Palette 02 Reward",
+   "page": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.md",
+   "json": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.json"
+  },
+  {
+   "id": 389689356,
+   "name": "T2 Palette 04 Grey and Blue",
+   "page": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.md",
+   "json": "items/colorpalette/t2-palette-04-grey-and-blue-389689356.json"
+  },
+  {
+   "id": 852156015,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-852156015.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-852156015.json"
+  },
+  {
+   "id": 3288350660,
+   "name": "T2 DPS Legs",
+   "page": "items/equipment/t2-dps-legs-3288350660.md",
+   "json": "items/equipment/t2-dps-legs-3288350660.json"
+  },
+  {
+   "id": 2707905851,
+   "name": "T2 Healer Chest",
+   "page": "items/equipment/t2-healer-chest-2707905851.md",
+   "json": "items/equipment/t2-healer-chest-2707905851.json"
+  },
+  {
+   "id": 475314263,
+   "name": "T2 Mage Arms",
+   "page": "items/equipment/t2-mage-arms-475314263.md",
+   "json": "items/equipment/t2-mage-arms-475314263.json"
+  },
+  {
+   "id": 3237374405,
+   "name": "T2 Mage Helmet",
+   "page": "items/equipment/t2-mage-helmet-3237374405.md",
+   "json": "items/equipment/t2-mage-helmet-3237374405.json"
+  },
+  {
+   "id": 1883961235,
+   "name": "T2 Ranger Arms",
+   "page": "items/equipment/t2-ranger-arms-1883961235.md",
+   "json": "items/equipment/t2-ranger-arms-1883961235.json"
+  },
+  {
+   "id": 3559413170,
+   "name": "T2 Archer Legs",
+   "page": "items/equipment/t2-archer-legs-3559413170.md",
+   "json": "items/equipment/t2-archer-legs-3559413170.json"
+  },
+  {
+   "id": 1113469647,
+   "name": "T2 Tank Arms",
+   "page": "items/equipment/t2-tank-arms-1113469647.md",
+   "json": "items/equipment/t2-tank-arms-1113469647.json"
+  },
+  {
+   "id": 2605828761,
+   "name": "T5 Prop Decoration Comfort Illumination Floor (Lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-lantern-2605828761.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-lantern-2605828761.json"
+  },
+  {
+   "id": 906753878,
+   "name": "T5 Prop Decoration Comfort Illumination Ceiling (lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-ceiling-lantern-906753878.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-ceiling-lantern-906753878.json"
+  },
+  {
+   "id": 983382748,
+   "name": "T5 Prop Decoration Comfort Illumination Wall (Lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-lantern-983382748.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-lantern-983382748.json"
+  },
+  {
+   "id": 4178847220,
+   "name": "Chandelier",
+   "page": "items/buildtools/chandelier-4178847220.md",
+   "json": "items/buildtools/chandelier-4178847220.json"
+  },
+  {
+   "id": 2560383707,
+   "name": "Wall Lantern",
+   "page": "items/buildtools/wall-lantern-2560383707.md",
+   "json": "items/buildtools/wall-lantern-2560383707.json"
+  }
+ ],
+ "page": "items/materials/goo-3403995938.md"
+}

@@ -1,0 +1,83 @@
+{
+ "id": 1756446918,
+ "name": "Ancient Health Potion",
+ "internalName": "Consumable_Potion_Mana_T7",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1756446918.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t7 mana potion desc",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": {
+  "page": "objects/consumables/ancient-health-potion.md",
+  "json": "objects/consumables/ancient-health-potion.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 450,
+    "display": "450",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 439102877,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3466985705,
+      "name": "Thyme",
+      "page": "items/consumables/thyme-3466985705.md",
+      "json": "items/consumables/thyme-3466985705.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2179075323,
+      "name": "ActiveMycelium",
+      "page": "items/materials/activemycelium-2179075323.md",
+      "json": "items/materials/activemycelium-2179075323.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2317965327,
+   "name": "Ancient Mana Potion +",
+   "page": "items/consumables/ancient-mana-potion-2317965327.md",
+   "json": "items/consumables/ancient-mana-potion-2317965327.json"
+  }
+ ],
+ "page": "items/consumables/ancient-health-potion-1756446918.md"
+}

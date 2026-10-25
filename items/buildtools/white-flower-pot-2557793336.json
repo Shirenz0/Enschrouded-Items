@@ -1,0 +1,56 @@
+{
+ "id": 2557793336,
+ "name": "White Flower Pot",
+ "internalName": "Flower_Pot_Long_Ground_White",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2557793336.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/white-flower-pot.md",
+  "json": "objects/buildtools/white-flower-pot.json",
+  "versions": 5
+ },
+ "recipes": [
+  {
+   "recipeId": 3783380755,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1515343684,
+      "name": "Empty Flower Pot I",
+      "page": "items/buildtools/empty-flower-pot-i-1515343684.md",
+      "json": "items/buildtools/empty-flower-pot-i-1515343684.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/white-flower-pot-2557793336.md"
+}

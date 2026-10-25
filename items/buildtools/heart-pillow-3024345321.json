@@ -1,0 +1,84 @@
+{
+ "id": 3024345321,
+ "name": "Heart Pillow",
+ "internalName": "Prop_Decoration_Comfort_T6_Pillow_Heart",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3024345321.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Heart Pillow description",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/heart-pillow.md",
+  "json": "objects/buildtools/heart-pillow.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Wellness",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1224843895,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3960097842,
+      "name": "Red Fabric",
+      "page": "items/materials/red-fabric-3960097842.md",
+      "json": "items/materials/red-fabric-3960097842.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3316218728,
+      "name": "Plant Fibre",
+      "page": "items/materials/plant-fibre-3316218728.md",
+      "json": "items/materials/plant-fibre-3316218728.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/heart-pillow-3024345321.md"
+}

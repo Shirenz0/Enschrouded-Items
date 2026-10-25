@@ -1,0 +1,47 @@
+{
+ "name": "Carved Tropical Wood Fence Pole",
+ "category": "BuildTools",
+ "image": "images/icons/2429035331.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 161588181,
+   "name": "Carved Tropical Wood Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/161588181.png",
+   "page": "items/buildtools/carved-tropical-wood-fence-pole-161588181.md",
+   "json": "items/buildtools/carved-tropical-wood-fence-pole-161588181.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1698793327,
+   "name": "Carved Tropical Wood Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1698793327.png",
+   "page": "items/buildtools/carved-tropical-wood-fence-pole-1698793327.md",
+   "json": "items/buildtools/carved-tropical-wood-fence-pole-1698793327.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2429035331,
+   "name": "Carved Tropical Wood Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2429035331.png",
+   "page": "items/buildtools/carved-tropical-wood-fence-pole-2429035331.md",
+   "json": "items/buildtools/carved-tropical-wood-fence-pole-2429035331.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/carved-tropical-wood-fence-pole.md"
+}

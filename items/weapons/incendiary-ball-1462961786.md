@@ -35,4 +35,4 @@ Crafting, Alchemist
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](incendiary-ball-1462961786.json)

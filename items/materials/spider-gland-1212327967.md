@@ -21,4 +21,4 @@ They are still dripping with poison
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](spider-gland-1212327967.json)

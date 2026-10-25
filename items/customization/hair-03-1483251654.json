@@ -1,0 +1,29 @@
+{
+ "id": 1483251654,
+ "name": "Hair 03",
+ "internalName": "VC_Hair03_bald",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/hair-03.md",
+  "json": "objects/customization/hair-03.json",
+  "versions": 2
+ },
+ "page": "items/customization/hair-03-1483251654.md"
+}

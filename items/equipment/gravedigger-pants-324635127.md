@@ -27,4 +27,4 @@ There's some extra space in the pockets perfect for storing crypt keys, "borrowe
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](gravedigger-pants-324635127.json)

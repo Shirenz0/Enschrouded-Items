@@ -1,0 +1,159 @@
+{
+ "id": 4078086541,
+ "name": "Moonstone Dust",
+ "internalName": "Material_T7_Moonstone_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/4078086541.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Moonstone Dust",
+ "lore": null,
+ "whereToFind": "Crafting, Improved Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1023228573,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2105748910,
+   "name": "T7 Bandage",
+   "page": "items/consumables/t7-bandage-2105748910.md",
+   "json": "items/consumables/t7-bandage-2105748910.json"
+  },
+  {
+   "id": 677177092,
+   "name": "Ancient Health Potion +",
+   "page": "items/consumables/ancient-health-potion-677177092.md",
+   "json": "items/consumables/ancient-health-potion-677177092.json"
+  },
+  {
+   "id": 2317965327,
+   "name": "Ancient Mana Potion +",
+   "page": "items/consumables/ancient-mana-potion-2317965327.md",
+   "json": "items/consumables/ancient-mana-potion-2317965327.json"
+  },
+  {
+   "id": 1958601376,
+   "name": "T7 Heal Channel II",
+   "page": "items/ammunition/t7-heal-channel-ii-1958601376.md",
+   "json": "items/ammunition/t7-heal-channel-ii-1958601376.json"
+  },
+  {
+   "id": 1943367547,
+   "name": "T7 Eternal Chain Lightning III",
+   "page": "items/ammunition/t7-eternal-chain-lightning-iii-1943367547.md",
+   "json": "items/ammunition/t7-eternal-chain-lightning-iii-1943367547.json"
+  },
+  {
+   "id": 2894776039,
+   "name": "T7 Chain Lightning II",
+   "page": "items/ammunition/t7-chain-lightning-ii-2894776039.md",
+   "json": "items/ammunition/t7-chain-lightning-ii-2894776039.json"
+  },
+  {
+   "id": 3901795018,
+   "name": "T7 Eternal Lightning Channel II",
+   "page": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.md",
+   "json": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.json"
+  },
+  {
+   "id": 3694023795,
+   "name": "T7 Eternal Shock Totem",
+   "page": "items/ammunition/t7-eternal-shock-totem-3694023795.md",
+   "json": "items/ammunition/t7-eternal-shock-totem-3694023795.json"
+  },
+  {
+   "id": 3250908839,
+   "name": "Player Base Gem Forge",
+   "page": "items/buildtools/player-base-gem-forge-3250908839.md",
+   "json": "items/buildtools/player-base-gem-forge-3250908839.json"
+  },
+  {
+   "id": 2501086572,
+   "name": "Magic Infusion Station",
+   "page": "items/buildtools/magic-infusion-station-2501086572.md",
+   "json": "items/buildtools/magic-infusion-station-2501086572.json"
+  },
+  {
+   "id": 751194917,
+   "name": "Greater Twinflame Sword",
+   "page": "items/weapons/greater-twinflame-sword-751194917.md",
+   "json": "items/weapons/greater-twinflame-sword-751194917.json"
+  },
+  {
+   "id": 255353296,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-255353296.md",
+   "json": "items/equipment/pikemead-s-ward-255353296.json"
+  },
+  {
+   "id": 1069361064,
+   "name": "Shroud Weaver",
+   "page": "items/weapons/shroud-weaver-1069361064.md",
+   "json": "items/weapons/shroud-weaver-1069361064.json"
+  },
+  {
+   "id": 1271805655,
+   "name": "Darya's Staff",
+   "page": "items/weapons/darya-s-staff-1271805655.md",
+   "json": "items/weapons/darya-s-staff-1271805655.json"
+  },
+  {
+   "id": 1216107588,
+   "name": "Standing Banner of the Ancients I",
+   "page": "items/buildtools/standing-banner-of-the-ancients-i-1216107588.md",
+   "json": "items/buildtools/standing-banner-of-the-ancients-i-1216107588.json"
+  },
+  {
+   "id": 914979767,
+   "name": "Standing Banner of the Ancients II",
+   "page": "items/buildtools/standing-banner-of-the-ancients-ii-914979767.md",
+   "json": "items/buildtools/standing-banner-of-the-ancients-ii-914979767.json"
+  },
+  {
+   "id": 1643475525,
+   "name": "Wall Banner of the Ancients I",
+   "page": "items/buildtools/wall-banner-of-the-ancients-i-1643475525.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-i-1643475525.json"
+  },
+  {
+   "id": 3504476430,
+   "name": "Wall Banner of the Ancients II",
+   "page": "items/buildtools/wall-banner-of-the-ancients-ii-3504476430.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-ii-3504476430.json"
+  },
+  {
+   "id": 2493505667,
+   "name": "Wall Banner of the Ancients III",
+   "page": "items/buildtools/wall-banner-of-the-ancients-iii-2493505667.md",
+   "json": "items/buildtools/wall-banner-of-the-ancients-iii-2493505667.json"
+  }
+ ],
+ "page": "items/materials/moonstone-dust-4078086541.md"
+}

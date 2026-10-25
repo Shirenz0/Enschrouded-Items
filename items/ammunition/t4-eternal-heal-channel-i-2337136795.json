@@ -1,0 +1,117 @@
+{
+ "id": 2337136795,
+ "name": "T4 Eternal Heal Channel I",
+ "internalName": "Ammo_T4_Spell_Heal_Channel_lvl20_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2337136795.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical spellstone imbued with the power of the T1 Heal Channel I spell, channeling initely without the use of ammunition, healing all allies in need.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Healing": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3538534933,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 50,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 764289975,
+      "name": "Aloe",
+      "page": "items/materials/aloe-764289975.md",
+      "json": "items/materials/aloe-764289975.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2337909498,
+      "name": "Chamomile Tea",
+      "page": "items/consumables/chamomile-tea-2337909498.md",
+      "json": "items/consumables/chamomile-tea-2337909498.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2698923038,
+      "name": "Fell Mist",
+      "page": "items/materials/fell-mist-2698923038.md",
+      "json": "items/materials/fell-mist-2698923038.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t4-eternal-heal-channel-i-2337136795.md"
+}

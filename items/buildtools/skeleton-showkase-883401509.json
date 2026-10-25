@@ -1,0 +1,105 @@
+{
+ "id": 883401509,
+ "name": "Skeleton Showkase",
+ "internalName": "Prop_Collection_02_Skeletons_Showcase_Cyclops",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/883401509.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This is a showcase for a giant skeleton.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4074647277,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3877300758,
+      "name": "Green Glow Block",
+      "page": "items/buildtools/green-glow-block-3877300758.md",
+      "json": "items/buildtools/green-glow-block-3877300758.json"
+     }
+    },
+    {
+     "count": 30,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 2617088387,
+       "name": "T2 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1453689781,
+       "name": "T3 Green essence",
+       "page": "items/materials/t3-green-essence-1453689781.md",
+       "json": "items/materials/t3-green-essence-1453689781.json"
+      },
+      {
+       "id": 3236482539,
+       "name": "T4 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1903438107,
+       "name": "T5 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 4005698976,
+       "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+       "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+       "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/skeleton-showkase-883401509.md"
+}

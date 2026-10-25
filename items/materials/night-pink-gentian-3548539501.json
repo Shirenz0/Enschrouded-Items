@@ -1,0 +1,45 @@
+{
+ "id": 3548539501,
+ "name": "Night pink gentian",
+ "internalName": "Material_T5_Night_PinkGentian",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/3548539501.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "night pink gentian",
+ "lore": null,
+ "whereToFind": "Albaneve Summits, night",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 664951543,
+   "name": "Nightplant tea",
+   "page": "items/consumables/nightplant-tea-664951543.md",
+   "json": "items/consumables/nightplant-tea-664951543.json"
+  },
+  {
+   "id": 844956750,
+   "name": "T5 Health Potion improved",
+   "page": "items/consumables/t5-health-potion-improved-844956750.md",
+   "json": "items/consumables/t5-health-potion-improved-844956750.json"
+  },
+  {
+   "id": 4287106432,
+   "name": "Darya's Staff",
+   "page": "items/weapons/darya-s-staff-4287106432.md",
+   "json": "items/weapons/darya-s-staff-4287106432.json"
+  }
+ ],
+ "page": "items/materials/night-pink-gentian-3548539501.md"
+}

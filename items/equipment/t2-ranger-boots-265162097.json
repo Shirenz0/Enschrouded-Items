@@ -1,0 +1,71 @@
+{
+ "id": 265162097,
+ "name": "T2 Ranger Boots",
+ "internalName": "Armor_T2_Ranger_Archer_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/265162097.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These boots are great for lurking through bushes or wading through mud without making a sound.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-ranger-boots.md",
+  "json": "objects/equipment/t2-ranger-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+6 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  }
+ ],
+ "page": "items/equipment/t2-ranger-boots-265162097.md"
+}

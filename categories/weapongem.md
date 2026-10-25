@@ -33,4 +33,4 @@
 | <img src="../images/icons/1378756449.png" width="48"> | [Gem of Swiftness](../items/weapongem/gem-of-swiftness-1378756449.md) | 🟢 Uncommon | 1-105 | 1 |
 | <img src="../images/icons/415736304.png" width="48"> | [Gem of Toxic Reaction](../items/weapongem/gem-of-toxic-reaction-415736304.md) | 🟢 Uncommon | 1-105 | 1 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](weapongem.json)

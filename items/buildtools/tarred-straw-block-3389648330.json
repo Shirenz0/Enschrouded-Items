@@ -1,0 +1,52 @@
+{
+ "id": 3389648330,
+ "name": "Tarred Straw Block",
+ "internalName": "Block_Roof_T3_Tarred_Straw",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3389648330.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Made from Straw and enhanced with Tar. This is an enhanced version of the Plant Fibre Roof Block, especially good to protect from bad weather.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2076918844,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1714627847,
+      "name": "Tar",
+      "page": "items/materials/tar-1714627847.md",
+      "json": "items/materials/tar-1714627847.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/tarred-straw-block-3389648330.md"
+}

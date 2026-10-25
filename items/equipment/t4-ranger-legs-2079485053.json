@@ -1,0 +1,77 @@
+{
+ "id": 2079485053,
+ "name": "T4 Ranger Legs",
+ "internalName": "Armor_T4_Ranger_Archer_DPS_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2079485053.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Warm and padded hunting pants which will retain your body heat during cold, starless nights.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-ranger-legs.md",
+  "json": "objects/equipment/t4-ranger-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Sprint  Speed",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blessed Arrows",
+   "effect": "Increases the skill level of Blessed Arrows by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Swiftshot Sustenance",
+   "effect": "Increases the skill level of Swiftshot Sustenance by +1"
+  }
+ ],
+ "page": "items/equipment/t4-ranger-legs-2079485053.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 4255929710,
+ "name": "Planetarium Rings (middle)",
+ "internalName": "Collection_Planetarium_piece2",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4255929710.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The rings of a planetarium. Find all pieces to combine them in a showcase model to portray the entire thing!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/planetarium-rings-middle-4255929710.md"
+}

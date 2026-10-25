@@ -25,4 +25,4 @@ Trap Fireball
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](trap-fireball-2467156641.json)

@@ -1,0 +1,39 @@
+{
+ "id": 3489782185,
+ "name": "Fine Sand",
+ "internalName": "Build_TerrainMaterial_T4_Dirt_Desert_fine_sand",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3489782185.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3704150172,
+   "name": "Cactus Seedling",
+   "page": "items/buildtools/cactus-seedling-3704150172.md",
+   "json": "items/buildtools/cactus-seedling-3704150172.json"
+  },
+  {
+   "id": 2703731966,
+   "name": "Date Palm Seedling",
+   "page": "items/buildtools/date-palm-seedling-2703731966.md",
+   "json": "items/buildtools/date-palm-seedling-2703731966.json"
+  }
+ ],
+ "page": "items/materials/fine-sand-3489782185.md"
+}

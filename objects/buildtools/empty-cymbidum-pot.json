@@ -1,0 +1,36 @@
+{
+ "name": "Empty Cymbidum Pot",
+ "category": "BuildTools",
+ "image": "images/icons/4135259126.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2125538426,
+   "name": "Empty Cymbidum Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2125538426.png",
+   "page": "items/buildtools/empty-cymbidum-pot-2125538426.md",
+   "json": "items/buildtools/empty-cymbidum-pot-2125538426.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 4135259126,
+   "name": "Empty Cymbidum Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4135259126.png",
+   "page": "items/buildtools/empty-cymbidum-pot-4135259126.md",
+   "json": "items/buildtools/empty-cymbidum-pot-4135259126.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/empty-cymbidum-pot.md"
+}

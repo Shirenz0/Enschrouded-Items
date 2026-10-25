@@ -1,0 +1,33 @@
+{
+ "name": "Roof Corner In",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2297453360,
+   "name": "Roof Corner In",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-in-2297453360.md",
+   "json": "items/blueprints/roof-corner-in-2297453360.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3722239847,
+   "name": "Roof Corner In",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-in-3722239847.md",
+   "json": "items/blueprints/roof-corner-in-3722239847.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/roof-corner-in.md"
+}

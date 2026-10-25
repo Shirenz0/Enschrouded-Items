@@ -1,0 +1,74 @@
+{
+ "id": 664951543,
+ "name": "Nightplant tea",
+ "internalName": "Food_T5_dish_nightplant_NightHerbTea",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/664951543.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A strong, herbal tea. It increases your endurance and dexterity. The added gentian creates a smooth texture and extends your Time in the Shroud.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Damage against Fogger",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fog Survivability Extension",
+    "value": 180000,
+    "display": "180,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3182190309,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3548539501,
+      "name": "Night pink gentian",
+      "page": "items/materials/night-pink-gentian-3548539501.md",
+      "json": "items/materials/night-pink-gentian-3548539501.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 310580024,
+      "name": "Shadow Rose",
+      "page": "items/materials/shadow-rose-310580024.md",
+      "json": "items/materials/shadow-rose-310580024.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/nightplant-tea-664951543.md"
+}

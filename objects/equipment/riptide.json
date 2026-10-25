@@ -1,0 +1,93 @@
+{
+ "name": "Riptide",
+ "category": "Equipment",
+ "image": "images/icons/4004201468.png",
+ "versions": 7,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 2972800174,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/2972800174.png",
+   "page": "items/equipment/riptide-2972800174.md",
+   "json": "items/equipment/riptide-2972800174.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 870935206,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/870935206.png",
+   "page": "items/equipment/riptide-870935206.md",
+   "json": "items/equipment/riptide-870935206.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2644725310,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2644725310.png",
+   "page": "items/equipment/riptide-2644725310.md",
+   "json": "items/equipment/riptide-2644725310.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2903659724,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2903659724.png",
+   "page": "items/equipment/riptide-2903659724.md",
+   "json": "items/equipment/riptide-2903659724.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1474807415,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1474807415.png",
+   "page": "items/equipment/riptide-1474807415.md",
+   "json": "items/equipment/riptide-1474807415.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 349263893,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/349263893.png",
+   "page": "items/equipment/riptide-349263893.md",
+   "json": "items/equipment/riptide-349263893.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4004201468,
+   "name": "Riptide",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/4004201468.png",
+   "page": "items/equipment/riptide-4004201468.md",
+   "json": "items/equipment/riptide-4004201468.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/riptide.md"
+}

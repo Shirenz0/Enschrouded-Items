@@ -1,0 +1,61 @@
+{
+ "id": 3397817290,
+ "name": "Oven",
+ "internalName": "Prop_Production_T3_Oven",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3397817290.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A significant upgrade to the Cooking Station, which open up a lot of new cooking option.",
+ "lore": "Furniture",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3507784201,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1261933427,
+      "name": "Fired Brick",
+      "page": "items/materials/fired-brick-1261933427.md",
+      "json": "items/materials/fired-brick-1261933427.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/oven-3397817290.md"
+}

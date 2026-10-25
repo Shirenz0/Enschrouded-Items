@@ -1,0 +1,35 @@
+{
+ "name": "Jezmina's Yearwake Helmet",
+ "category": "Equipment",
+ "image": "images/icons/2848403787.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1464549788,
+   "name": "Jezmina's Yearwake Helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1464549788.png",
+   "page": "items/equipment/jezmina-s-yearwake-helmet-1464549788.md",
+   "json": "items/equipment/jezmina-s-yearwake-helmet-1464549788.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2848403787,
+   "name": "Jezmina's Yearwake Helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2848403787.png",
+   "page": "items/equipment/jezmina-s-yearwake-helmet-2848403787.md",
+   "json": "items/equipment/jezmina-s-yearwake-helmet-2848403787.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/jezmina-s-yearwake-helmet.md"
+}

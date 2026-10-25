@@ -1,0 +1,46 @@
+{
+ "id": 2717355704,
+ "name": "Maid Garb",
+ "internalName": "Vanity_TX_Maid_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2717355704.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Soft and comfortable maid attire. It's easily cleaned if it's ever dirtied with washing water, milk or wine.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest"
+ },
+ "recipes": [
+  {
+   "recipeId": 2431260599,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/maid-garb-2717355704.md"
+}

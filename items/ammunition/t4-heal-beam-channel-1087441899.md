@@ -30,4 +30,4 @@ Continously heal a target in a beam up to 20 meters away.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t4-heal-beam-channel-1087441899.json)

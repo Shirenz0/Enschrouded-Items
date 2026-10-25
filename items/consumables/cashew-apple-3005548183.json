@@ -1,0 +1,41 @@
+{
+ "id": 3005548183,
+ "name": "Cashew Apple",
+ "internalName": "_UNUSED_Food_T6_raw_fruit_CashewApple",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3005548183.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 cashew apple desc (the fruity fleshy part of the cashew fruit, can be eaten raw)",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 180000,
+    "display": "3:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/cashew-apple-3005548183.md"
+}

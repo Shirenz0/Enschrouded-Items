@@ -1,0 +1,47 @@
+{
+ "id": 1634845335,
+ "name": "Gem of Currents",
+ "internalName": "T6_Gem_GemOfCurrents_OverFog",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/1634845335.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "While Wet or Soaked, damaging enemies will apply Soaked to them for %k Sec. Damaging soaked enemies has a chance of %k to deal %k bonus shock damage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Additional Weapon Shock Damage",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 6000,
+    "display": "6 s",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Trigger Chance on Hitting a Soaked Enemy",
+    "value": 33,
+    "display": "33",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-currents-1634845335.md"
+}

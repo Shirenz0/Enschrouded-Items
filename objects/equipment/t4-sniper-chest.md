@@ -17,4 +17,4 @@ You won't leave yourself open to damage with this piece of chest armor.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-sniper-chest.json)

@@ -1,0 +1,51 @@
+{
+ "id": 3775747292,
+ "name": "Fired Bricks Block",
+ "internalName": "Block_T2_Loam_FiredBricks_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3775747292.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A block made of Fired Brick. Legend says, it became so red after staying in the sun for too long.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 280299150,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1261933427,
+      "name": "Fired Brick",
+      "page": "items/materials/fired-brick-1261933427.md",
+      "json": "items/materials/fired-brick-1261933427.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 627477408,
+   "name": "Brick-Timbered Block",
+   "page": "items/buildtools/brick-timbered-block-627477408.md",
+   "json": "items/buildtools/brick-timbered-block-627477408.json"
+  }
+ ],
+ "page": "items/buildtools/fired-bricks-block-3775747292.md"
+}

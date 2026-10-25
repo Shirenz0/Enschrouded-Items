@@ -1,0 +1,29 @@
+{
+ "id": 2492886765,
+ "name": "Wall Doorframe",
+ "internalName": "Blueprint_Voxel_Block_Wall_Door_4m_large_beam",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/wall-doorframe.md",
+  "json": "objects/blueprints/wall-doorframe.json",
+  "versions": 3
+ },
+ "page": "items/blueprints/wall-doorframe-2492886765.md"
+}

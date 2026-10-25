@@ -17,4 +17,4 @@ An archer's hood. The leather trim provides additional protection and camouflage
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-sniper-helmet.json)

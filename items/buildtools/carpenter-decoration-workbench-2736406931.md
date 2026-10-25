@@ -25,4 +25,4 @@ Equipped with wood working and stone mason tools, this workbench allows you to c
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](carpenter-decoration-workbench-2736406931.json)

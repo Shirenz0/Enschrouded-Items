@@ -30,4 +30,4 @@ Offers a prayer to the ancient Vukahs. If answered, the user receives their bles
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](prayer-to-the-vukahs-2687604137.json)

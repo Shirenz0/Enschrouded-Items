@@ -1,0 +1,139 @@
+{
+ "id": 3233786830,
+ "name": "Darya's Remorse",
+ "internalName": "Craft_Weapon_T7_1H_Lore_Wand_ministory_06_fog",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/3233786830.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A heavy wand that's bright as the sun, decorated by a flower that wraps around the handle, blooming near the hilt. Despite it's radiance, you feel that it carried a dark energy - is it remorse, or the curse of the Shroud?",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/darya-s-remorse.md",
+  "json": "objects/weapons/darya-s-remorse.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Shroud": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ethereal Duplication",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+7 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Brutal",
+   "effect": "+24 Brutal"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 37195655,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/darya-s-remorse-3233786830.md"
+}

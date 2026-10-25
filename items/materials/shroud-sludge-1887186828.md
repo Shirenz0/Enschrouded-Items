@@ -29,4 +29,4 @@ Crafting, Alchemist
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](shroud-sludge-1887186828.json)

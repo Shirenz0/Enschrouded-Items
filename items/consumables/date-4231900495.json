@@ -1,0 +1,61 @@
+{
+ "id": 4231900495,
+ "name": "Date",
+ "internalName": "Food_T4_raw_fruit_Date",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4231900495.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "the sweet brown fruits of the datepalm. they give you a short boost (health reg)",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 270916101,
+   "name": "Fruit Salad",
+   "page": "items/consumables/fruit-salad-270916101.md",
+   "json": "items/consumables/fruit-salad-270916101.json"
+  },
+  {
+   "id": 917304835,
+   "name": "Fruit Bowl",
+   "page": "items/consumables/fruit-bowl-917304835.md",
+   "json": "items/consumables/fruit-bowl-917304835.json"
+  },
+  {
+   "id": 2703731966,
+   "name": "Date Palm Seedling",
+   "page": "items/buildtools/date-palm-seedling-2703731966.md",
+   "json": "items/buildtools/date-palm-seedling-2703731966.json"
+  }
+ ],
+ "page": "items/consumables/date-4231900495.md"
+}

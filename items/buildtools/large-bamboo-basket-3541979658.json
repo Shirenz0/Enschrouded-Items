@@ -1,0 +1,29 @@
+{
+ "id": 3541979658,
+ "name": "Large Bamboo Basket",
+ "internalName": "Prop_Decoration_T6_Basket_Large_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3541979658.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/large-bamboo-basket.md",
+  "json": "objects/buildtools/large-bamboo-basket.json",
+  "versions": 4
+ },
+ "page": "items/buildtools/large-bamboo-basket-3541979658.md"
+}

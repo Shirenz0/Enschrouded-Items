@@ -1,0 +1,29 @@
+{
+ "id": 2326445767,
+ "name": "Large Bamboo Crate",
+ "internalName": "Prop_Decoration_T6_Crate_Bamboo_Large_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2326445767.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/large-bamboo-crate.md",
+  "json": "objects/buildtools/large-bamboo-crate.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/large-bamboo-crate-2326445767.md"
+}

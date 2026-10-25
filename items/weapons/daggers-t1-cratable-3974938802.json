@@ -1,0 +1,63 @@
+{
+ "id": 3974938802,
+ "name": "Daggers T1 Cratable",
+ "internalName": "Weapon_T0_2H_Daggers_DPS_Craft",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 3,
+  "max": 3
+ },
+ "maxStack": 1,
+ "image": "images/icons/3974938802.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Daggers T1 Cratable Descritpion",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 400,
+    "display": "0.4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3477586425,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/daggers-t1-cratable-3974938802.md"
+}

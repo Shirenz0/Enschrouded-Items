@@ -15,4 +15,4 @@ One of 2 versions of this item: see [Ability: Dogeroll Attack](../../objects/mat
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ability-dogeroll-attack-2916317144.json)

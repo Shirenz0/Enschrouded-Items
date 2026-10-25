@@ -1,0 +1,67 @@
+{
+ "id": 1682430863,
+ "name": "Ancient \"Cabbage\" Leaves",
+ "internalName": "Food_T7_raw_vegetable_Cabbage",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1682430863.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The gigantic leaves of this plant do not only look gorgous, but also taste good! It reminds you of cabbage. Thinly sliced in a salad or for wrapping they would certainly be ideal.",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "% Dagger Damage",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1800000,
+    "display": "30:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 232113931,
+   "name": "Ancient Cabbage Rolls",
+   "page": "items/consumables/ancient-cabbage-rolls-232113931.md",
+   "json": "items/consumables/ancient-cabbage-rolls-232113931.json"
+  },
+  {
+   "id": 2848753277,
+   "name": "Cabbage Mushroom Rice",
+   "page": "items/consumables/cabbage-mushroom-rice-2848753277.md",
+   "json": "items/consumables/cabbage-mushroom-rice-2848753277.json"
+  },
+  {
+   "id": 954995911,
+   "name": "Ancient \"Cabbage\" Seedling",
+   "page": "items/buildtools/ancient-cabbage-seedling-954995911.md",
+   "json": "items/buildtools/ancient-cabbage-seedling-954995911.json"
+  }
+ ],
+ "page": "items/consumables/ancient-cabbage-leaves-1682430863.md"
+}

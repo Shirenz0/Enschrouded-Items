@@ -1,0 +1,73 @@
+{
+ "id": 2597418482,
+ "name": "Grilled Cinderscale",
+ "internalName": "_Food_grilled_T7_fish_epic_05",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 30,
+ "image": "images/icons/2597418482.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "delicious grilled fish - increases health and diving time",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 3300000,
+    "display": "55:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Maximum Oxygen",
+    "value": 28,
+    "display": "28",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 211371833,
+   "station": "Medieval Grill",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1692397990,
+      "name": "Cinderscale",
+      "page": "items/consumables/cinderscale-1692397990.md",
+      "json": "items/consumables/cinderscale-1692397990.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-cinderscale-2597418482.md"
+}

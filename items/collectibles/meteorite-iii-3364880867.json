@@ -1,0 +1,25 @@
+{
+ "id": 3364880867,
+ "name": "Meteorite III",
+ "internalName": "Collection_Meteorites_03",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3364880867.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "looks a bit like continents floating on water\n\nThis collectible is found in Cinder's Cradle.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/meteorite-iii-3364880867.md"
+}

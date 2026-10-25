@@ -1,0 +1,25 @@
+{
+ "id": 2222257671,
+ "name": "Whirl Attack",
+ "internalName": "Ability_Skill_Warrior_WhirlAttack",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/materials.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/whirl-attack-2222257671.md"
+}

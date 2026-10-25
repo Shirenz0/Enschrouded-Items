@@ -36,4 +36,4 @@ Campfire
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](grilled-wolf-meat-3373898672.json)

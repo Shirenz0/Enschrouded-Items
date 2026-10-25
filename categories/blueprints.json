@@ -1,0 +1,575 @@
+{
+ "category": "Blueprints",
+ "title": "Blueprints",
+ "count": 63,
+ "page": "categories/blueprints.md",
+ "items": [
+  {
+   "id": 3014325591,
+   "name": "2x2 Terrain Blocks",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/2x2-terrain-blocks-3014325591.md",
+   "json": "items/blueprints/2x2-terrain-blocks-3014325591.json"
+  },
+  {
+   "id": 280346668,
+   "name": "2x2 Wall Blocks",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/2x2-wall-blocks-280346668.md",
+   "json": "items/blueprints/2x2-wall-blocks-280346668.json"
+  },
+  {
+   "id": 1269629155,
+   "name": "Box 4m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/box-4m-1269629155.md",
+   "json": "items/blueprints/box-4m-1269629155.json"
+  },
+  {
+   "id": 3338618487,
+   "name": "Ceiling",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ceiling-3338618487.md",
+   "json": "items/blueprints/ceiling-3338618487.json"
+  },
+  {
+   "id": 81726253,
+   "name": "Ceiling",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ceiling-81726253.md",
+   "json": "items/blueprints/ceiling-81726253.json"
+  },
+  {
+   "id": 3672772460,
+   "name": "Celestium/Improved Decay Tool",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3672772460.png",
+   "page": "items/blueprints/celestium-improved-decay-tool-3672772460.md",
+   "json": "items/blueprints/celestium-improved-decay-tool-3672772460.json"
+  },
+  {
+   "id": 1468357474,
+   "name": "Celestium/Improved Hammer of the Ancients",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1468357474.png",
+   "page": "items/blueprints/celestium-improved-hammer-of-the-ancients-1468357474.md",
+   "json": "items/blueprints/celestium-improved-hammer-of-the-ancients-1468357474.json"
+  },
+  {
+   "id": 3145109238,
+   "name": "Celestium/Improved Overgrowth Tool",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3145109238.png",
+   "page": "items/blueprints/celestium-improved-overgrowth-tool-3145109238.md",
+   "json": "items/blueprints/celestium-improved-overgrowth-tool-3145109238.json"
+  },
+  {
+   "id": 1337014067,
+   "name": "Column Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/column-small-1337014067.md",
+   "json": "items/blueprints/column-small-1337014067.json"
+  },
+  {
+   "id": 2223732257,
+   "name": "Column Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/column-small-2223732257.md",
+   "json": "items/blueprints/column-small-2223732257.json"
+  },
+  {
+   "id": 1831520365,
+   "name": "Cube 2m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/cube-2m-1831520365.md",
+   "json": "items/blueprints/cube-2m-1831520365.json"
+  },
+  {
+   "id": 3184017600,
+   "name": "Cube 4m",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3184017600.png",
+   "page": "items/blueprints/cube-4m-3184017600.md",
+   "json": "items/blueprints/cube-4m-3184017600.json"
+  },
+  {
+   "id": 3286071567,
+   "name": "Decay Tool",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3286071567.png",
+   "page": "items/blueprints/decay-tool-3286071567.md",
+   "json": "items/blueprints/decay-tool-3286071567.json"
+  },
+  {
+   "id": 1144423378,
+   "name": "Disc 3m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/disc-3m-1144423378.md",
+   "json": "items/blueprints/disc-3m-1144423378.json"
+  },
+  {
+   "id": 3828821633,
+   "name": "Foundation",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/foundation-3828821633.md",
+   "json": "items/blueprints/foundation-3828821633.json"
+  },
+  {
+   "id": 950598916,
+   "name": "Foundation",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/foundation-950598916.md",
+   "json": "items/blueprints/foundation-950598916.json"
+  },
+  {
+   "id": 693164685,
+   "name": "Hammer of the Ancients",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/693164685.png",
+   "page": "items/blueprints/hammer-of-the-ancients-693164685.md",
+   "json": "items/blueprints/hammer-of-the-ancients-693164685.json"
+  },
+  {
+   "id": 3196782416,
+   "name": "Overgrowth Tool",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3196782416.png",
+   "page": "items/blueprints/overgrowth-tool-3196782416.md",
+   "json": "items/blueprints/overgrowth-tool-3196782416.json"
+  },
+  {
+   "id": 1850744829,
+   "name": "Ramp 22° 2m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ramp-22-2m-1850744829.md",
+   "json": "items/blueprints/ramp-22-2m-1850744829.json"
+  },
+  {
+   "id": 3842144121,
+   "name": "Ramp 22° 4m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ramp-22-4m-3842144121.md",
+   "json": "items/blueprints/ramp-22-4m-3842144121.json"
+  },
+  {
+   "id": 1286568294,
+   "name": "Ramp 45° 2m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ramp-45-2m-1286568294.md",
+   "json": "items/blueprints/ramp-45-2m-1286568294.json"
+  },
+  {
+   "id": 2981448748,
+   "name": "Ramp 45° 4m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ramp-45-4m-2981448748.md",
+   "json": "items/blueprints/ramp-45-4m-2981448748.json"
+  },
+  {
+   "id": 4131969045,
+   "name": "Rock 2m",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/rock-2m-4131969045.md",
+   "json": "items/blueprints/rock-2m-4131969045.json"
+  },
+  {
+   "id": 3137624464,
+   "name": "Roof Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-block-3137624464.md",
+   "json": "items/blueprints/roof-block-3137624464.json"
+  },
+  {
+   "id": 2297453360,
+   "name": "Roof Corner In",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-in-2297453360.md",
+   "json": "items/blueprints/roof-corner-in-2297453360.json"
+  },
+  {
+   "id": 3722239847,
+   "name": "Roof Corner In",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-in-3722239847.md",
+   "json": "items/blueprints/roof-corner-in-3722239847.json"
+  },
+  {
+   "id": 3000989055,
+   "name": "Roof Corner Out",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-out-3000989055.md",
+   "json": "items/blueprints/roof-corner-out-3000989055.json"
+  },
+  {
+   "id": 985540864,
+   "name": "Roof Corner Out",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-corner-out-985540864.md",
+   "json": "items/blueprints/roof-corner-out-985540864.json"
+  },
+  {
+   "id": 1774062421,
+   "name": "Roof Flat",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-flat-1774062421.md",
+   "json": "items/blueprints/roof-flat-1774062421.json"
+  },
+  {
+   "id": 4045909019,
+   "name": "Roof Flat",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-flat-4045909019.md",
+   "json": "items/blueprints/roof-flat-4045909019.json"
+  },
+  {
+   "id": 1083013738,
+   "name": "Roof Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-straight-1083013738.md",
+   "json": "items/blueprints/roof-straight-1083013738.json"
+  },
+  {
+   "id": 2482289794,
+   "name": "Roof Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-straight-2482289794.md",
+   "json": "items/blueprints/roof-straight-2482289794.json"
+  },
+  {
+   "id": 3974598916,
+   "name": "Roof Top Peak",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-peak-3974598916.md",
+   "json": "items/blueprints/roof-top-peak-3974598916.json"
+  },
+  {
+   "id": 4258530417,
+   "name": "Roof Top Peak",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-peak-4258530417.md",
+   "json": "items/blueprints/roof-top-peak-4258530417.json"
+  },
+  {
+   "id": 3236763530,
+   "name": "Roof Top Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-straight-3236763530.md",
+   "json": "items/blueprints/roof-top-straight-3236763530.json"
+  },
+  {
+   "id": 40821618,
+   "name": "Roof Top Straight",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-straight-40821618.md",
+   "json": "items/blueprints/roof-top-straight-40821618.json"
+  },
+  {
+   "id": 1608103343,
+   "name": "Roof Top Straight End",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-straight-end-1608103343.md",
+   "json": "items/blueprints/roof-top-straight-end-1608103343.json"
+  },
+  {
+   "id": 2639429240,
+   "name": "Roof Top Straight End",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/roof-top-straight-end-2639429240.md",
+   "json": "items/blueprints/roof-top-straight-end-2639429240.json"
+  },
+  {
+   "id": 379859676,
+   "name": "Shape Big",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/379859676.png",
+   "page": "items/blueprints/shape-big-379859676.md",
+   "json": "items/blueprints/shape-big-379859676.json"
+  },
+  {
+   "id": 89089003,
+   "name": "Shape Big",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/89089003.png",
+   "page": "items/blueprints/shape-big-89089003.md",
+   "json": "items/blueprints/shape-big-89089003.json"
+  },
+  {
+   "id": 1456389031,
+   "name": "Shape Medium",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1456389031.png",
+   "page": "items/blueprints/shape-medium-1456389031.md",
+   "json": "items/blueprints/shape-medium-1456389031.json"
+  },
+  {
+   "id": 473703809,
+   "name": "Shape Medium",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/473703809.png",
+   "page": "items/blueprints/shape-medium-473703809.md",
+   "json": "items/blueprints/shape-medium-473703809.json"
+  },
+  {
+   "id": 2962795698,
+   "name": "Shape Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2962795698.png",
+   "page": "items/blueprints/shape-small-2962795698.md",
+   "json": "items/blueprints/shape-small-2962795698.json"
+  },
+  {
+   "id": 439089072,
+   "name": "Shape Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/439089072.png",
+   "page": "items/blueprints/shape-small-439089072.md",
+   "json": "items/blueprints/shape-small-439089072.json"
+  },
+  {
+   "id": 1136287074,
+   "name": "Solid Foundation",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/solid-foundation-1136287074.md",
+   "json": "items/blueprints/solid-foundation-1136287074.json"
+  },
+  {
+   "id": 1740166566,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-1740166566.md",
+   "json": "items/blueprints/stair-small-1740166566.json"
+  },
+  {
+   "id": 1982827643,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-1982827643.md",
+   "json": "items/blueprints/stair-small-1982827643.json"
+  },
+  {
+   "id": 2108853004,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-2108853004.md",
+   "json": "items/blueprints/stair-small-2108853004.json"
+  },
+  {
+   "id": 3575993170,
+   "name": "Stair Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/stair-small-3575993170.md",
+   "json": "items/blueprints/stair-small-3575993170.json"
+  },
+  {
+   "id": 3261257614,
+   "name": "Terrain Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/terrain-block-3261257614.md",
+   "json": "items/blueprints/terrain-block-3261257614.json"
+  },
+  {
+   "id": 48042626,
+   "name": "Wall",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-48042626.md",
+   "json": "items/blueprints/wall-48042626.json"
+  },
+  {
+   "id": 948722226,
+   "name": "Wall",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-948722226.md",
+   "json": "items/blueprints/wall-948722226.json"
+  },
+  {
+   "id": 1986896347,
+   "name": "Wall Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-block-1986896347.md",
+   "json": "items/blueprints/wall-block-1986896347.json"
+  },
+  {
+   "id": 2492886765,
+   "name": "Wall Doorframe",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-doorframe-2492886765.md",
+   "json": "items/blueprints/wall-doorframe-2492886765.json"
+  },
+  {
+   "id": 2697997511,
+   "name": "Wall Doorframe",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-doorframe-2697997511.md",
+   "json": "items/blueprints/wall-doorframe-2697997511.json"
+  },
+  {
+   "id": 3793200211,
+   "name": "Wall Doorframe",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-doorframe-3793200211.md",
+   "json": "items/blueprints/wall-doorframe-3793200211.json"
+  },
+  {
+   "id": 2096316628,
+   "name": "Wall Roof",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-2096316628.md",
+   "json": "items/blueprints/wall-roof-2096316628.json"
+  },
+  {
+   "id": 457882098,
+   "name": "Wall Roof",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-457882098.md",
+   "json": "items/blueprints/wall-roof-457882098.json"
+  },
+  {
+   "id": 1444745133,
+   "name": "Wall Roof Inverted",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-inverted-1444745133.md",
+   "json": "items/blueprints/wall-roof-inverted-1444745133.json"
+  },
+  {
+   "id": 4211995022,
+   "name": "Wall Roof Inverted",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-inverted-4211995022.md",
+   "json": "items/blueprints/wall-roof-inverted-4211995022.json"
+  },
+  {
+   "id": 2221187965,
+   "name": "Wall Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-small-2221187965.md",
+   "json": "items/blueprints/wall-small-2221187965.json"
+  },
+  {
+   "id": 2481913049,
+   "name": "Wall Window",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-window-2481913049.md",
+   "json": "items/blueprints/wall-window-2481913049.json"
+  },
+  {
+   "id": 3474562068,
+   "name": "Wall Window",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-window-3474562068.md",
+   "json": "items/blueprints/wall-window-3474562068.json"
+  }
+ ]
+}

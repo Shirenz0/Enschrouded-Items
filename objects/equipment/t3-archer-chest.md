@@ -17,4 +17,4 @@ The craftmanship on this piece of upper body armor was greatly inspired by the w
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-archer-chest.json)

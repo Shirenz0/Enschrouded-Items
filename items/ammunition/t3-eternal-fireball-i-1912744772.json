@@ -1,0 +1,123 @@
+{
+ "id": 1912744772,
+ "name": "T3 Eternal Fireball I",
+ "internalName": "Ammo_T3_Spell_Fire_Ball_lvl15_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1912744772.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Storing the magical fireball spell, the spellstone doesn't require ammunition, wracking enemies with unlimited flame power on the single expense of Mana.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 95,
+    "display": "95",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2500,
+    "display": "2.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 380,
+    "display": "380",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 5,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3283374642,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 25,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3594337385,
+      "name": "Petrified Fell Shell",
+      "page": "items/materials/petrified-fell-shell-3594337385.md",
+      "json": "items/materials/petrified-fell-shell-3594337385.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t3-eternal-fireball-i-1912744772.md"
+}

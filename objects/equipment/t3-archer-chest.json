@@ -1,0 +1,35 @@
+{
+ "name": "T3 Archer Chest",
+ "category": "Equipment",
+ "image": "images/icons/2301277967.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1582871397,
+   "name": "T3 Archer Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1582871397.png",
+   "page": "items/equipment/t3-archer-chest-1582871397.md",
+   "json": "items/equipment/t3-archer-chest-1582871397.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2301277967,
+   "name": "T3 Archer Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2301277967.png",
+   "page": "items/equipment/t3-archer-chest-2301277967.md",
+   "json": "items/equipment/t3-archer-chest-2301277967.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-archer-chest.md"
+}

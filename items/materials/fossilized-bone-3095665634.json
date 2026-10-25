@@ -1,0 +1,201 @@
+{
+ "id": 3095665634,
+ "name": "Fossilized Bone",
+ "internalName": "Material_T3_Fossilized_Bone",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/3095665634.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Over the years, untouched by anyone, the bones of all kind of magical creatures have hardened and turned to stone. A rare material due to its limited availibility and high magical capacity.",
+ "lore": null,
+ "whereToFind": "Giant Skeletons",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1536235498,
+   "name": "Fossilized Bone Arrow",
+   "page": "items/ammunition/fossilized-bone-arrow-1536235498.md",
+   "json": "items/ammunition/fossilized-bone-arrow-1536235498.json"
+  },
+  {
+   "id": 1203301438,
+   "name": "T3 Eternal Chain Heal I",
+   "page": "items/ammunition/t3-eternal-chain-heal-i-1203301438.md",
+   "json": "items/ammunition/t3-eternal-chain-heal-i-1203301438.json"
+  },
+  {
+   "id": 720550594,
+   "name": "Spinning Wheel",
+   "page": "items/buildtools/spinning-wheel-720550594.md",
+   "json": "items/buildtools/spinning-wheel-720550594.json"
+  },
+  {
+   "id": 48453107,
+   "name": "Loom",
+   "page": "items/buildtools/loom-48453107.md",
+   "json": "items/buildtools/loom-48453107.json"
+  },
+  {
+   "id": 1594637042,
+   "name": "Hand Spindle",
+   "page": "items/buildtools/hand-spindle-1594637042.md",
+   "json": "items/buildtools/hand-spindle-1594637042.json"
+  },
+  {
+   "id": 3073226096,
+   "name": "Fossilized Bone Dust",
+   "page": "items/materials/fossilized-bone-dust-3073226096.md",
+   "json": "items/materials/fossilized-bone-dust-3073226096.json"
+  },
+  {
+   "id": 3530269879,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-3530269879.md",
+   "json": "items/weapons/fenrig-s-axe-3530269879.json"
+  },
+  {
+   "id": 2628423562,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-2628423562.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2628423562.json"
+  },
+  {
+   "id": 2387592374,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-2387592374.md",
+   "json": "items/weapons/lupa-s-scalper-2387592374.json"
+  },
+  {
+   "id": 602591868,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-602591868.md",
+   "json": "items/weapons/halescourge-602591868.json"
+  },
+  {
+   "id": 870935206,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-870935206.md",
+   "json": "items/equipment/riptide-870935206.json"
+  },
+  {
+   "id": 1716859550,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-1716859550.md",
+   "json": "items/weapons/soothsayer-1716859550.json"
+  },
+  {
+   "id": 2517864696,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-2517864696.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2517864696.json"
+  },
+  {
+   "id": 2034875163,
+   "name": "T3 DPS Legs",
+   "page": "items/equipment/t3-dps-legs-2034875163.md",
+   "json": "items/equipment/t3-dps-legs-2034875163.json"
+  },
+  {
+   "id": 2202659557,
+   "name": "T3 DPS Arms",
+   "page": "items/equipment/t3-dps-arms-2202659557.md",
+   "json": "items/equipment/t3-dps-arms-2202659557.json"
+  },
+  {
+   "id": 161814920,
+   "name": "T3 Ranger Boots",
+   "page": "items/equipment/t3-ranger-boots-161814920.md",
+   "json": "items/equipment/t3-ranger-boots-161814920.json"
+  },
+  {
+   "id": 935025760,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-935025760.md",
+   "json": "items/equipment/ranger-fog-protection-armor-935025760.json"
+  },
+  {
+   "id": 905258707,
+   "name": "T3 Archer Boots",
+   "page": "items/equipment/t3-archer-boots-905258707.md",
+   "json": "items/equipment/t3-archer-boots-905258707.json"
+  },
+  {
+   "id": 536100641,
+   "name": "T3 Tank Boots",
+   "page": "items/equipment/t3-tank-boots-536100641.md",
+   "json": "items/equipment/t3-tank-boots-536100641.json"
+  },
+  {
+   "id": 1221959339,
+   "name": "T3 Tank Helmet",
+   "page": "items/equipment/t3-tank-helmet-1221959339.md",
+   "json": "items/equipment/t3-tank-helmet-1221959339.json"
+  },
+  {
+   "id": 875044567,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-875044567.md",
+   "json": "items/equipment/warrior-fog-protection-armor-875044567.json"
+  },
+  {
+   "id": 3413443507,
+   "name": "T4 Assassin Legs",
+   "page": "items/equipment/t4-assassin-legs-3413443507.md",
+   "json": "items/equipment/t4-assassin-legs-3413443507.json"
+  },
+  {
+   "id": 219898735,
+   "name": "T4 BattleMage boote",
+   "page": "items/equipment/t4-battlemage-boote-219898735.md",
+   "json": "items/equipment/t4-battlemage-boote-219898735.json"
+  },
+  {
+   "id": 1563449197,
+   "name": "T4 BattleMage Legs",
+   "page": "items/equipment/t4-battlemage-legs-1563449197.md",
+   "json": "items/equipment/t4-battlemage-legs-1563449197.json"
+  },
+  {
+   "id": 3056375359,
+   "name": "T4 Mage Helmet",
+   "page": "items/equipment/t4-mage-helmet-3056375359.md",
+   "json": "items/equipment/t4-mage-helmet-3056375359.json"
+  },
+  {
+   "id": 1123016064,
+   "name": "T4 Ranger Legs",
+   "page": "items/equipment/t4-ranger-legs-1123016064.md",
+   "json": "items/equipment/t4-ranger-legs-1123016064.json"
+  },
+  {
+   "id": 1809820393,
+   "name": "T4 DPS Legs",
+   "page": "items/equipment/t4-dps-legs-1809820393.md",
+   "json": "items/equipment/t4-dps-legs-1809820393.json"
+  },
+  {
+   "id": 403577806,
+   "name": "T4 Tank Chest",
+   "page": "items/equipment/t4-tank-chest-403577806.md",
+   "json": "items/equipment/t4-tank-chest-403577806.json"
+  },
+  {
+   "id": 1353762644,
+   "name": "Mycelium overgrowth",
+   "page": "items/buildtools/mycelium-overgrowth-1353762644.md",
+   "json": "items/buildtools/mycelium-overgrowth-1353762644.json"
+  }
+ ],
+ "page": "items/materials/fossilized-bone-3095665634.md"
+}

@@ -1,0 +1,72 @@
+{
+ "id": 2506485819,
+ "name": "T5 Fire Bolt VI",
+ "internalName": "Ammo_T5_Spell_Fire_Bolt_lvl30",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 500,
+ "image": "images/icons/2506485819.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that ignites a single firebolt, dealing damage to a single target.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 118,
+    "display": "118",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 750,
+    "display": "0.75 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1750538464,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1997243371,
+      "name": "T5 Material Amethyst",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t5-fire-bolt-vi-2506485819.md"
+}

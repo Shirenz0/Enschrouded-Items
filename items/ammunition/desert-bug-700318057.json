@@ -1,0 +1,42 @@
+{
+ "id": 700318057,
+ "name": "Desert Bug",
+ "internalName": "Material_T4_DesertBug_FishingBait",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/700318057.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Desert Bug desc, can be used as fish bait",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "usedToMake": [
+  {
+   "id": 1313427371,
+   "name": "Rare Bait",
+   "page": "items/ammunition/rare-bait-1313427371.md",
+   "json": "items/ammunition/rare-bait-1313427371.json"
+  },
+  {
+   "id": 2013116716,
+   "name": "Food Sanddigger Feeding",
+   "page": "items/buildtools/food-sanddigger-feeding-2013116716.md",
+   "json": "items/buildtools/food-sanddigger-feeding-2013116716.json"
+  }
+ ],
+ "page": "items/ammunition/desert-bug-700318057.md"
+}

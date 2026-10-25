@@ -1,0 +1,93 @@
+{
+ "name": "Cryptic wand",
+ "category": "Weapons",
+ "image": "images/icons/3739626235.png",
+ "versions": 7,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 4048093059,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/4048093059.png",
+   "page": "items/weapons/cryptic-wand-4048093059.md",
+   "json": "items/weapons/cryptic-wand-4048093059.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4294860398,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/4294860398.png",
+   "page": "items/weapons/cryptic-wand-4294860398.md",
+   "json": "items/weapons/cryptic-wand-4294860398.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4192516670,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/4192516670.png",
+   "page": "items/weapons/cryptic-wand-4192516670.md",
+   "json": "items/weapons/cryptic-wand-4192516670.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2908736852,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2908736852.png",
+   "page": "items/weapons/cryptic-wand-2908736852.md",
+   "json": "items/weapons/cryptic-wand-2908736852.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2563601506,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2563601506.png",
+   "page": "items/weapons/cryptic-wand-2563601506.md",
+   "json": "items/weapons/cryptic-wand-2563601506.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2053280664,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2053280664.png",
+   "page": "items/weapons/cryptic-wand-2053280664.md",
+   "json": "items/weapons/cryptic-wand-2053280664.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3739626235,
+   "name": "Cryptic wand",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/3739626235.png",
+   "page": "items/weapons/cryptic-wand-3739626235.md",
+   "json": "items/weapons/cryptic-wand-3739626235.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/cryptic-wand.md"
+}

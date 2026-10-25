@@ -1,0 +1,84 @@
+{
+ "id": 2519697782,
+ "name": "Celesthium Steel Arrow",
+ "internalName": "Ammo_T7_Arrow_Steel_Celesthium_lvl47",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 47,
+  "max": 47
+ },
+ "maxStack": 500,
+ "image": "images/icons/2519697782.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A refined steel tipped arrow embellished with Celesthium.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 2626764394,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2685638060,
+   "name": "Poisoned Celesthium Steel Arrow",
+   "page": "items/ammunition/poisoned-celesthium-steel-arrow-2685638060.md",
+   "json": "items/ammunition/poisoned-celesthium-steel-arrow-2685638060.json"
+  }
+ ],
+ "page": "items/ammunition/celesthium-steel-arrow-2519697782.md"
+}

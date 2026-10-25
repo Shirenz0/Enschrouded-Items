@@ -1,0 +1,98 @@
+{
+ "id": 65433484,
+ "name": "Fenrig's Axe",
+ "internalName": "Craft_Weapon_T5_1H_Lore_Axe_Ministory_10",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 26,
+  "max": 26
+ },
+ "maxStack": 1,
+ "image": "images/icons/65433484.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/fenrig-s-axe.md",
+  "json": "objects/weapons/fenrig-s-axe.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  }
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "+7 Health Leech"
+  },
+  {
+   "order": 5,
+   "name": "",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 488525328,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/fenrig-s-axe-65433484.md"
+}

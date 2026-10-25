@@ -23,4 +23,4 @@ A very basic set of garments.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](starter-shorts-3972122124.json)

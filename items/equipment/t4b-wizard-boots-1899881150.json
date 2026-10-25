@@ -1,0 +1,85 @@
+{
+ "id": 1899881150,
+ "name": "T4b Wizard Boots",
+ "internalName": "Armor_T5-TX_Mage_Wizard_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 30,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1899881150.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The design on these boots takes after the layerd scaly hides of wyverns.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Timeout Reduction",
+    "value": -400,
+    "display": "-0.4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 90000,
+    "display": "1:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Spiritual",
+   "effect": "+20 Spiritual"
+  },
+  {
+   "order": 3,
+   "name": "+1 Necromancer",
+   "effect": "Increases the skill level of Necromancer by +1"
+  },
+  {
+   "order": 4,
+   "name": "Ice Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Iceman",
+   "effect": "Increases the skill level of Iceman by +1"
+  }
+ ],
+ "page": "items/equipment/t4b-wizard-boots-1899881150.md"
+}

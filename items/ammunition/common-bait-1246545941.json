@@ -1,0 +1,73 @@
+{
+ "id": 1246545941,
+ "name": "Common Bait",
+ "internalName": "Material_T6_01COMMON_FishingBait_improved",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1246545941.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An almost guaranteed catch for common fish!",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "recipes": [
+  {
+   "recipeId": 3773319080,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1014899877,
+      "name": "Fire Fly",
+      "page": "items/ammunition/fire-fly-1014899877.md",
+      "json": "items/ammunition/fire-fly-1014899877.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4230368891,
+      "name": "Capybara Bristles",
+      "page": "items/materials/capybara-bristles-4230368891.md",
+      "json": "items/materials/capybara-bristles-4230368891.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2244383765,
+      "name": "Fish Bones",
+      "page": "items/materials/fish-bones-2244383765.md",
+      "json": "items/materials/fish-bones-2244383765.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/ammunition/common-bait-1246545941.md"
+}

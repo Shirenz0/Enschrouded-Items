@@ -1,0 +1,25 @@
+{
+ "id": 3039353110,
+ "name": "High Iron Prison Window Frame",
+ "internalName": "Prop_Decoration_T4_Window_Iron_Prison_Frame_High",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3039353110.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/high-iron-prison-window-frame-3039353110.md"
+}

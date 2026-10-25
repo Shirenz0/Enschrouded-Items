@@ -1,0 +1,124 @@
+{
+ "id": 381008328,
+ "name": "T1 lore wand",
+ "internalName": "Craft_Weapon_T3_1H_Lore_Wand_Ministory_02_Lightning",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 16,
+  "max": 16
+ },
+ "maxStack": 1,
+ "image": "images/icons/381008328.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T1 lore wand",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/t1-lore-wand.md",
+  "json": "objects/weapons/t1-lore-wand.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Precise",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Mana Leech",
+   "effect": "On Hit Leech %Percentage% Damage as Mana"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3114606494,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 342099111,
+      "name": "Shroud Jelly",
+      "page": "items/materials/shroud-jelly-342099111.md",
+      "json": "items/materials/shroud-jelly-342099111.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/t1-lore-wand-381008328.md"
+}

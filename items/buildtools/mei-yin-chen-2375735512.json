@@ -1,0 +1,25 @@
+{
+ "id": 2375735512,
+ "name": "Mei-Yin Chen",
+ "internalName": "NPC_Townsfolk_Female_Villager_05_name_chineseNewYear_Trader",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "Mei-Yin Chen is a Lunar New Year trader that's ready to offer her seasonal wares.",
+ "lore": "Villager",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/mei-yin-chen-2375735512.md"
+}

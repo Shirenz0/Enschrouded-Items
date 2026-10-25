@@ -1,0 +1,73 @@
+{
+ "id": 4004201468,
+ "name": "Riptide",
+ "internalName": "Shield_T2_Lore_ShieldEpic_Ministory_17",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/4004201468.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/riptide.md",
+  "json": "objects/equipment/riptide.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Poison Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Heavy Handed",
+   "effect": "Increases the skill level of Heavy Handed by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Bash",
+   "effect": "Increases the skill level of Bash by +1"
+  },
+  {
+   "order": 4,
+   "name": "Pierce Resistance",
+   "effect": "+5 Pierce Resistance"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "page": "items/equipment/riptide-4004201468.md"
+}

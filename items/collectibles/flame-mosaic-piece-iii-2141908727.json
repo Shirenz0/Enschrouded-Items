@@ -1,0 +1,25 @@
+{
+ "id": 2141908727,
+ "name": "Flame Mosaic Piece III",
+ "internalName": "Collection_mosaics_01_flame_piece3",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2141908727.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Placeholder Description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/flame-mosaic-piece-iii-2141908727.md"
+}

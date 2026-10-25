@@ -1,0 +1,125 @@
+{
+ "id": 3671319442,
+ "name": "Greater Twinflame Sword",
+ "internalName": "Craft_Weapon_T6_1H_Lore_SwordEpic_ministory_28",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/3671319442.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/greater-twinflame-sword.md",
+  "json": "objects/weapons/greater-twinflame-sword.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 5,
+   "name": "All Physical Cut Damage",
+   "effect": "+10 All Physical Cut Damage"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3711060197,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 7,
+     "item": {
+      "id": 1476017101,
+      "name": "Aquamarine",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/greater-twinflame-sword-3671319442.md"
+}

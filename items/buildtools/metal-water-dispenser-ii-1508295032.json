@@ -1,0 +1,43 @@
+{
+ "id": 1508295032,
+ "name": "Metal Water Dispenser II",
+ "internalName": "Prop_WaterDispenser_Metal_spillUntilCovered_ancient",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1508295032.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This item allows you to create water. Place it wherever you like, and it will spit out water until it is covered.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2597123401,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/metal-water-dispenser-ii-1508295032.md"
+}

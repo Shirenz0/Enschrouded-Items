@@ -1,0 +1,172 @@
+{
+ "id": 1635234852,
+ "name": "Wood Acid",
+ "internalName": "Material_T1_Wood_Acid",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1635234852.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This byproduct of the Charcoal Kiln has many useful properties, which can be used in medicine and alchemy.",
+ "lore": null,
+ "whereToFind": "Crafting, Charcoal Kiln",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3547771296,
+   "station": "Charcoal Kiln",
+   "inputs": [
+    {
+     "count": 15,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    },
+    {
+     "count": 3,
+     "oneOf": [
+      {
+       "id": 1558115984,
+       "name": "Dirt",
+       "page": "items/materials/dirt-1558115984.md",
+       "json": "items/materials/dirt-1558115984.json"
+      },
+      {
+       "id": 3937186197,
+       "name": "Deep Forest Dirt",
+       "page": "items/materials/deep-forest-dirt-3937186197.md",
+       "json": "items/materials/deep-forest-dirt-3937186197.json"
+      },
+      {
+       "id": 2385754716,
+       "name": "T2 tall trees dirt",
+       "page": "items/materials/t2-tall-trees-dirt-2385754716.md",
+       "json": "items/materials/t2-tall-trees-dirt-2385754716.json"
+      },
+      {
+       "id": 2732808327,
+       "name": "Steppes Dirt",
+       "page": "items/materials/steppes-dirt-2732808327.md",
+       "json": "items/materials/steppes-dirt-2732808327.json"
+      },
+      {
+       "id": 2080424991,
+       "name": "T5 Mountain Dirt",
+       "page": "items/materials/t5-mountain-dirt-2080424991.md",
+       "json": "items/materials/t5-mountain-dirt-2080424991.json"
+      },
+      {
+       "id": 4095370049,
+       "name": "T6 Wetlands Dirt",
+       "page": "items/materials/t6-wetlands-dirt-4095370049.md",
+       "json": "items/materials/t6-wetlands-dirt-4095370049.json"
+      },
+      {
+       "id": 2421105715,
+       "name": "T7 AncientLand Dirt",
+       "page": "items/materials/t7-ancientland-dirt-2421105715.md",
+       "json": "items/materials/t7-ancientland-dirt-2421105715.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1782997504,
+   "name": "Fog Survival Flask",
+   "page": "items/consumables/fog-survival-flask-1782997504.md",
+   "json": "items/consumables/fog-survival-flask-1782997504.json"
+  },
+  {
+   "id": 3511177059,
+   "name": "Flare Arrow",
+   "page": "items/ammunition/flare-arrow-3511177059.md",
+   "json": "items/ammunition/flare-arrow-3511177059.json"
+  },
+  {
+   "id": 1072522988,
+   "name": "Tin Bars",
+   "page": "items/materials/tin-bars-1072522988.md",
+   "json": "items/materials/tin-bars-1072522988.json"
+  },
+  {
+   "id": 2206878080,
+   "name": "Nitrate",
+   "page": "items/materials/nitrate-2206878080.md",
+   "json": "items/materials/nitrate-2206878080.json"
+  },
+  {
+   "id": 649108902,
+   "name": "Antiseptic",
+   "page": "items/materials/antiseptic-649108902.md",
+   "json": "items/materials/antiseptic-649108902.json"
+  },
+  {
+   "id": 2149011961,
+   "name": "Glow Dirt Green",
+   "page": "items/materials/glow-dirt-green-2149011961.md",
+   "json": "items/materials/glow-dirt-green-2149011961.json"
+  },
+  {
+   "id": 968828649,
+   "name": "Tbd T1 Palette 01 Reward A Fancy Outlook",
+   "page": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.md",
+   "json": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.json"
+  },
+  {
+   "id": 3962501836,
+   "name": "Glow Dirt WarmWhite",
+   "page": "items/materials/glow-dirt-warmwhite-3962501836.md",
+   "json": "items/materials/glow-dirt-warmwhite-3962501836.json"
+  }
+ ],
+ "page": "items/materials/wood-acid-1635234852.md"
+}

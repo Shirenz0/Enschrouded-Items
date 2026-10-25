@@ -25,4 +25,4 @@ Regalia of the Blood Rose Boots descs
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](regalia-of-the-blood-rose-boots-2387613955.json)

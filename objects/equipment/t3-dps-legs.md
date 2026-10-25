@@ -17,4 +17,4 @@ A piece of leg armor which already looks like it has seen many years of use.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-dps-legs.json)

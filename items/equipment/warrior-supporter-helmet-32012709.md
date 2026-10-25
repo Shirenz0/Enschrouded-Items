@@ -23,4 +23,4 @@ Warrior Supporter helmet description
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](warrior-supporter-helmet-32012709.json)

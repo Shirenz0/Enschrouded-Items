@@ -1,0 +1,72 @@
+{
+ "id": 1898312963,
+ "name": "Devil's Claw Seedling",
+ "internalName": "T4_Seedling_Herb_Devils_Claw",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/1898312963.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in the right soil. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1439077972,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2065473526,
+      "name": "Devil's Claw",
+      "page": "items/consumables/devil-s-claw-2065473526.md",
+      "json": "items/consumables/devil-s-claw-2065473526.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 2493843175,
+       "name": "Sand",
+       "page": "items/materials/sand-2493843175.md",
+       "json": "items/materials/sand-2493843175.json"
+      },
+      {
+       "id": 3489782185,
+       "name": "Fine Sand",
+       "page": "items/materials/fine-sand-3489782185.md",
+       "json": "items/materials/fine-sand-3489782185.json"
+      },
+      {
+       "id": 2181045178,
+       "name": "T6 Wetlands Sand",
+       "page": "items/materials/t6-wetlands-sand-2181045178.md",
+       "json": "items/materials/t6-wetlands-sand-2181045178.json"
+      },
+      {
+       "id": 3899759098,
+       "name": "T7 AncientLand Sand",
+       "page": "items/materials/t7-ancientland-sand-3899759098.md",
+       "json": "items/materials/t7-ancientland-sand-3899759098.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/devil-s-claw-seedling-1898312963.md"
+}

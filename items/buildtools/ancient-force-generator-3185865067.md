@@ -25,4 +25,4 @@ Crafting, Ancient Researcher
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](ancient-force-generator-3185865067.json)

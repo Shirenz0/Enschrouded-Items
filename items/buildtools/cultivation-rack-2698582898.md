@@ -25,4 +25,4 @@ Up to 3 ancient plant pots can be placed in this decorative cultivation rack.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](cultivation-rack-2698582898.json)

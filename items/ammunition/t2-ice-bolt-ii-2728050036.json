@@ -1,0 +1,90 @@
+{
+ "id": 2728050036,
+ "name": "T2 Ice Bolt II",
+ "internalName": "Ammo_T2_Spell_Ice_Bolt_lvl12",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 12,
+  "max": 12
+ },
+ "maxStack": 500,
+ "image": "images/icons/2728050036.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates an icy projectile that deals damage in an area and applies a slow debuff.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 59,
+    "display": "59",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 130,
+    "display": "130",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 10000,
+    "display": "10 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 859604659,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3405461465,
+      "name": "Corrupted Boar Tusk",
+      "page": "items/materials/corrupted-boar-tusk-3405461465.md",
+      "json": "items/materials/corrupted-boar-tusk-3405461465.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t2-ice-bolt-ii-2728050036.md"
+}

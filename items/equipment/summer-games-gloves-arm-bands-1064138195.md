@@ -27,4 +27,4 @@ Summer Games Gloves desc / arm bands
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](summer-games-gloves-arm-bands-1064138195.json)

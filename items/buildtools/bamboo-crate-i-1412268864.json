@@ -1,0 +1,29 @@
+{
+ "id": 1412268864,
+ "name": "Bamboo Crate I",
+ "internalName": "Prop_Decoration_T6_Crate_Bamboo_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1412268864.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/bamboo-crate-i.md",
+  "json": "objects/buildtools/bamboo-crate-i.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/bamboo-crate-i-1412268864.md"
+}

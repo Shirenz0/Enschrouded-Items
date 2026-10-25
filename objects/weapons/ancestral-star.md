@@ -19,4 +19,4 @@ An ancestral weapon from the proud family line of the Galeforths, last held by V
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](ancestral-star.json)

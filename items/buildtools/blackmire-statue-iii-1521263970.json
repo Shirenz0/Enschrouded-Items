@@ -1,0 +1,43 @@
+{
+ "id": 1521263970,
+ "name": "Blackmire Statue III",
+ "internalName": "Prop_Decoration_T2_StoneTotem_01C",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1521263970.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2313757791,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 760251531,
+      "name": "T2 Talltree Stone",
+      "page": "items/materials/t2-talltree-stone-760251531.md",
+      "json": "items/materials/t2-talltree-stone-760251531.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/blackmire-statue-iii-1521263970.md"
+}

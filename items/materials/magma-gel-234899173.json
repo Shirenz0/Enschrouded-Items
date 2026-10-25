@@ -1,0 +1,111 @@
+{
+ "id": 234899173,
+ "name": "Magma Gel",
+ "internalName": "Material_T7_LavaPlant_Magma_Gel",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/234899173.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This gel cures to an incredibly hard consistency and can therefore be used as a coating. In addition, this gel appears to be capable of generating heat internally. (wip)",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2130648477,
+   "name": "Ancient Enegry Block",
+   "page": "items/buildtools/ancient-enegry-block-2130648477.md",
+   "json": "items/buildtools/ancient-enegry-block-2130648477.json"
+  },
+  {
+   "id": 678529367,
+   "name": "Eternal Fire Arrow III",
+   "page": "items/ammunition/eternal-fire-arrow-iii-678529367.md",
+   "json": "items/ammunition/eternal-fire-arrow-iii-678529367.json"
+  },
+  {
+   "id": 83283491,
+   "name": "T7 Fireball",
+   "page": "items/ammunition/t7-fireball-83283491.md",
+   "json": "items/ammunition/t7-fireball-83283491.json"
+  },
+  {
+   "id": 3916550351,
+   "name": "T7 Eternal Fire Totem II",
+   "page": "items/ammunition/t7-eternal-fire-totem-ii-3916550351.md",
+   "json": "items/ammunition/t7-eternal-fire-totem-ii-3916550351.json"
+  },
+  {
+   "id": 3901795018,
+   "name": "T7 Eternal Lightning Channel II",
+   "page": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.md",
+   "json": "items/ammunition/t7-eternal-lightning-channel-ii-3901795018.json"
+  },
+  {
+   "id": 2369199112,
+   "name": "T7 Eternal Ball Lightning",
+   "page": "items/ammunition/t7-eternal-ball-lightning-2369199112.md",
+   "json": "items/ammunition/t7-eternal-ball-lightning-2369199112.json"
+  },
+  {
+   "id": 1209734633,
+   "name": "T7 Eternal Shock Wisp",
+   "page": "items/ammunition/t7-eternal-shock-wisp-1209734633.md",
+   "json": "items/ammunition/t7-eternal-shock-wisp-1209734633.json"
+  },
+  {
+   "id": 3694023795,
+   "name": "T7 Eternal Shock Totem",
+   "page": "items/ammunition/t7-eternal-shock-totem-3694023795.md",
+   "json": "items/ammunition/t7-eternal-shock-totem-3694023795.json"
+  },
+  {
+   "id": 2670118573,
+   "name": "Ancient/Archaic Infusion",
+   "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+   "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+  },
+  {
+   "id": 863684883,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-863684883.md",
+   "json": "items/weapons/lupa-s-scalper-863684883.json"
+  },
+  {
+   "id": 905080090,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-905080090.md",
+   "json": "items/weapons/wailing-blade-905080090.json"
+  },
+  {
+   "id": 500747971,
+   "name": "Golden Recruit Axe",
+   "page": "items/weapons/golden-recruit-axe-500747971.md",
+   "json": "items/weapons/golden-recruit-axe-500747971.json"
+  },
+  {
+   "id": 3158681634,
+   "name": "Vorgoth's Gloves",
+   "page": "items/equipment/vorgoth-s-gloves-3158681634.md",
+   "json": "items/equipment/vorgoth-s-gloves-3158681634.json"
+  },
+  {
+   "id": 876665028,
+   "name": "Vorgoth's Crown",
+   "page": "items/equipment/vorgoth-s-crown-876665028.md",
+   "json": "items/equipment/vorgoth-s-crown-876665028.json"
+  }
+ ],
+ "page": "items/materials/magma-gel-234899173.md"
+}

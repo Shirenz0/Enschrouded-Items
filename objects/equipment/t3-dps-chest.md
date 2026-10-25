@@ -17,4 +17,4 @@ A heavy breastplate which has lost its shine, but not its notority.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-dps-chest.json)

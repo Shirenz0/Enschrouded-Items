@@ -1,0 +1,35 @@
+{
+ "name": "T4 Assassin Helmet",
+ "category": "Equipment",
+ "image": "images/icons/1929469344.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1123774086,
+   "name": "T4 Assassin Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1123774086.png",
+   "page": "items/equipment/t4-assassin-helmet-1123774086.md",
+   "json": "items/equipment/t4-assassin-helmet-1123774086.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1929469344,
+   "name": "T4 Assassin Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1929469344.png",
+   "page": "items/equipment/t4-assassin-helmet-1929469344.md",
+   "json": "items/equipment/t4-assassin-helmet-1929469344.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-assassin-helmet.md"
+}

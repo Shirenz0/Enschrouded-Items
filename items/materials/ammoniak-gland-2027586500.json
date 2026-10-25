@@ -1,0 +1,147 @@
+{
+ "id": 2027586500,
+ "name": "Ammoniak Gland",
+ "internalName": "Material_T3_Ammoniak_Gland",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 16,
+  "max": 16
+ },
+ "maxStack": 250,
+ "image": "images/icons/2027586500.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This gland contains a concentrated substance, which can be used to tan furs.",
+ "lore": null,
+ "whereToFind": "Fell Mushroom Crabs, Nomad Highlands Shroud and Kindlewastes Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 521600917,
+   "name": "T3 Eternal Ice Bolt II",
+   "page": "items/ammunition/t3-eternal-ice-bolt-ii-521600917.md",
+   "json": "items/ammunition/t3-eternal-ice-bolt-ii-521600917.json"
+  },
+  {
+   "id": 4291668892,
+   "name": "T4 Eternal Acid Cone I",
+   "page": "items/ammunition/t4-eternal-acid-cone-i-4291668892.md",
+   "json": "items/ammunition/t4-eternal-acid-cone-i-4291668892.json"
+  },
+  {
+   "id": 471823515,
+   "name": "T3 Acid Cone",
+   "page": "items/ammunition/t3-acid-cone-471823515.md",
+   "json": "items/ammunition/t3-acid-cone-471823515.json"
+  },
+  {
+   "id": 287018928,
+   "name": "Paper",
+   "page": "items/materials/paper-287018928.md",
+   "json": "items/materials/paper-287018928.json"
+  },
+  {
+   "id": 2653935294,
+   "name": "T3 Palette 03 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.md",
+   "json": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.json"
+  },
+  {
+   "id": 1361344405,
+   "name": "Tbd T3 Palette 03 Reward",
+   "page": "items/colorpalette/tbd-t3-palette-03-reward-1361344405.md",
+   "json": "items/colorpalette/tbd-t3-palette-03-reward-1361344405.json"
+  },
+  {
+   "id": 3841845306,
+   "name": "T3 Palette 01 reward Green, green, green",
+   "page": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.md",
+   "json": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.json"
+  },
+  {
+   "id": 2821660974,
+   "name": "T3 Palette 04 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.md",
+   "json": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.json"
+  },
+  {
+   "id": 1017300382,
+   "name": "Tbd T3 Palette 02 Reward",
+   "page": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.md",
+   "json": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.json"
+  },
+  {
+   "id": 2118938591,
+   "name": "T3 Palette 02 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-02-brown-green-grey-2118938591.md",
+   "json": "items/colorpalette/t3-palette-02-brown-green-grey-2118938591.json"
+  },
+  {
+   "id": 2717669072,
+   "name": "T3 Palette 01 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-01-brown-green-grey-2717669072.md",
+   "json": "items/colorpalette/t3-palette-01-brown-green-grey-2717669072.json"
+  },
+  {
+   "id": 4135223598,
+   "name": "Leather",
+   "page": "items/materials/leather-4135223598.md",
+   "json": "items/materials/leather-4135223598.json"
+  },
+  {
+   "id": 870935206,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-870935206.md",
+   "json": "items/equipment/riptide-870935206.json"
+  },
+  {
+   "id": 2202659557,
+   "name": "T3 DPS Arms",
+   "page": "items/equipment/t3-dps-arms-2202659557.md",
+   "json": "items/equipment/t3-dps-arms-2202659557.json"
+  },
+  {
+   "id": 1523324827,
+   "name": "T3 Mage Chest",
+   "page": "items/equipment/t3-mage-chest-1523324827.md",
+   "json": "items/equipment/t3-mage-chest-1523324827.json"
+  },
+  {
+   "id": 1559741302,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-1559741302.md",
+   "json": "items/equipment/mage-fog-protection-armor-1559741302.json"
+  },
+  {
+   "id": 1236068115,
+   "name": "T3 Ranger Legs",
+   "page": "items/equipment/t3-ranger-legs-1236068115.md",
+   "json": "items/equipment/t3-ranger-legs-1236068115.json"
+  },
+  {
+   "id": 2301277967,
+   "name": "T3 Archer Chest",
+   "page": "items/equipment/t3-archer-chest-2301277967.md",
+   "json": "items/equipment/t3-archer-chest-2301277967.json"
+  },
+  {
+   "id": 2173083844,
+   "name": "T3 Tank Chest",
+   "page": "items/equipment/t3-tank-chest-2173083844.md",
+   "json": "items/equipment/t3-tank-chest-2173083844.json"
+  },
+  {
+   "id": 3354677077,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-3354677077.md",
+   "json": "items/equipment/warrior-fog-protection-armor-3354677077.json"
+  }
+ ],
+ "page": "items/materials/ammoniak-gland-2027586500.md"
+}

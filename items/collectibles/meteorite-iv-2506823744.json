@@ -1,0 +1,25 @@
+{
+ "id": 2506823744,
+ "name": "Meteorite IV",
+ "internalName": "Collection_Meteorites_04",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2506823744.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Chondriten-Meteorit desc\n\nThis collectible is found in Cinder's Cradle.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/meteorite-iv-2506823744.md"
+}

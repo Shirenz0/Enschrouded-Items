@@ -15,4 +15,4 @@ One of 2 versions of this item: see [Roof Straight](../../objects/blueprints/roo
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](roof-straight-1083013738.json)

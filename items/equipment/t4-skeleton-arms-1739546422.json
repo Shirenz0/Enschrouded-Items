@@ -1,0 +1,73 @@
+{
+ "id": 1739546422,
+ "name": "T4 Skeleton arms",
+ "internalName": "Armor_T4_MultiClass_SkeletonArmor_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1739546422.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Skeleton armor  arms  desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Increases Blunt Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Block",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Ice Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Bone to Ash",
+   "effect": "Increases the skill level of Bone to Ash by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Bone to Ash",
+   "effect": "Increases the skill level of Bone to Ash by +1"
+  },
+  {
+   "order": 5,
+   "name": "All Physical Blunt Damage",
+   "effect": "+5 All Physical Blunt Damage"
+  }
+ ],
+ "page": "items/equipment/t4-skeleton-arms-1739546422.md"
+}

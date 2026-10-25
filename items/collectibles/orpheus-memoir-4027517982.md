@@ -25,4 +25,4 @@ All consuming nothingness, a forever whirling obsidian void.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](orpheus-memoir-4027517982.json)

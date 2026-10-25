@@ -25,4 +25,4 @@ A nice figure made from snow
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](snowpal-child-3686997983.json)

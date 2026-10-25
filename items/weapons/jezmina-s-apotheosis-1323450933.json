@@ -1,0 +1,125 @@
+{
+ "id": 1323450933,
+ "name": "Jezmina's Apotheosis",
+ "internalName": "Craft_Weapon_T7_1H_Lore_AxeEpic_Ministory_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/1323450933.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/jezmina-s-apotheosis.md",
+  "json": "objects/weapons/jezmina-s-apotheosis.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+22 Brutal"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3554918669,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1897605064,
+      "name": "Daylily Flower",
+      "page": "items/materials/daylily-flower-1897605064.md",
+      "json": "items/materials/daylily-flower-1897605064.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 61577244,
+      "name": "Diamond",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/jezmina-s-apotheosis-1323450933.md"
+}

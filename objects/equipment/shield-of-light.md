@@ -18,4 +18,4 @@ Flame Power allows you to stay in the Fog longer.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](shield-of-light.json)

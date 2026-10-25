@@ -15,4 +15,4 @@ One of 2 versions of this item: see [Roof Corner Out](../../objects/blueprints/r
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](roof-corner-out-3000989055.json)

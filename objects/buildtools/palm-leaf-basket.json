@@ -1,0 +1,47 @@
+{
+ "name": "Palm Leaf Basket",
+ "category": "BuildTools",
+ "image": "images/icons/4206640908.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1108421963,
+   "name": "Palm Leaf Basket",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1108421963.png",
+   "page": "items/buildtools/palm-leaf-basket-1108421963.md",
+   "json": "items/buildtools/palm-leaf-basket-1108421963.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 4179466778,
+   "name": "Palm Leaf Basket",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4179466778.png",
+   "page": "items/buildtools/palm-leaf-basket-4179466778.md",
+   "json": "items/buildtools/palm-leaf-basket-4179466778.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 4206640908,
+   "name": "Palm Leaf Basket",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4206640908.png",
+   "page": "items/buildtools/palm-leaf-basket-4206640908.md",
+   "json": "items/buildtools/palm-leaf-basket-4206640908.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/palm-leaf-basket.md"
+}

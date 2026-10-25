@@ -1,0 +1,89 @@
+{
+ "id": 1985910431,
+ "name": "Chitin Podwer",
+ "internalName": "Material_T5_ChitinPowder",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/1985910431.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Made from Critter Carapace",
+ "lore": null,
+ "whereToFind": "Crafting, Hand Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2759380610,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 3,
+     "oneOf": [
+      {
+       "id": 3264892278,
+       "name": "Critter Parts",
+       "page": "items/materials/critter-parts-3264892278.md",
+       "json": "items/materials/critter-parts-3264892278.json"
+      },
+      {
+       "id": 1611805749,
+       "name": "Critter Carapace",
+       "page": "items/materials/critter-carapace-1611805749.md",
+       "json": "items/materials/critter-carapace-1611805749.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2029595221,
+   "name": "T6 Eternal Ice Bolt III",
+   "page": "items/ammunition/t6-eternal-ice-bolt-iii-2029595221.md",
+   "json": "items/ammunition/t6-eternal-ice-bolt-iii-2029595221.json"
+  },
+  {
+   "id": 1774181330,
+   "name": "T5 Entangle III",
+   "page": "items/ammunition/t5-entangle-iii-1774181330.md",
+   "json": "items/ammunition/t5-entangle-iii-1774181330.json"
+  },
+  {
+   "id": 2153855871,
+   "name": "T5 Shroud Beam Channel",
+   "page": "items/ammunition/t5-shroud-beam-channel-2153855871.md",
+   "json": "items/ammunition/t5-shroud-beam-channel-2153855871.json"
+  },
+  {
+   "id": 4214162606,
+   "name": "Shroud Arrow II",
+   "page": "items/ammunition/shroud-arrow-ii-4214162606.md",
+   "json": "items/ammunition/shroud-arrow-ii-4214162606.json"
+  },
+  {
+   "id": 738101794,
+   "name": "T5 Comfort Decoration Bathroom Sink For Barber Shop",
+   "page": "items/buildtools/t5-comfort-decoration-bathroom-sink-for-barber-shop-738101794.md",
+   "json": "items/buildtools/t5-comfort-decoration-bathroom-sink-for-barber-shop-738101794.json"
+  },
+  {
+   "id": 3234886486,
+   "name": "Shroud Infused Farm Soil",
+   "page": "items/materials/shroud-infused-farm-soil-3234886486.md",
+   "json": "items/materials/shroud-infused-farm-soil-3234886486.json"
+  }
+ ],
+ "page": "items/materials/chitin-podwer-1985910431.md"
+}

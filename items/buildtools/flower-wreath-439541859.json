@@ -1,0 +1,74 @@
+{
+ "id": 439541859,
+ "name": "Flower Wreath",
+ "internalName": "Prop_Decoration_T3_Flower_Wreath",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/439541859.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/flower-wreath.md",
+  "json": "objects/buildtools/flower-wreath.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 3100065998,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4180130855,
+      "name": "St. John's Wort",
+      "page": "items/consumables/st-john-s-wort-4180130855.md",
+      "json": "items/consumables/st-john-s-wort-4180130855.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/flower-wreath-439541859.md"
+}

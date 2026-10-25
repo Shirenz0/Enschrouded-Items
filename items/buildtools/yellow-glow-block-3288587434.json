@@ -1,0 +1,61 @@
+{
+ "id": 3288587434,
+ "name": "Yellow Glow Block",
+ "internalName": "Block_T4_YellowGlow_MemorialHall_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3288587434.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Yellow Glow Block description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 654746503,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/yellow-glow-block-3288587434.md"
+}

@@ -1,0 +1,77 @@
+{
+ "id": 1363992823,
+ "name": "T4 sniper boots",
+ "internalName": "Armor_T4_Ranger_Sniper_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1363992823.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Boots which are perfect for keeping a stable stance while aiming, shooting, and killing.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-sniper-boots.md",
+  "json": "objects/equipment/t4-sniper-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  }
+ ],
+ "page": "items/equipment/t4-sniper-boots-1363992823.md"
+}

@@ -1,0 +1,52 @@
+{
+ "id": 627477408,
+ "name": "Brick-Timbered Block",
+ "internalName": "Block_T2_Wood_TimberframeBrick_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/627477408.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A new type of timber block for building. The brick accents warm up any space.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2074368876,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3775747292,
+      "name": "Fired Bricks Block",
+      "page": "items/buildtools/fired-bricks-block-3775747292.md",
+      "json": "items/buildtools/fired-bricks-block-3775747292.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/brick-timbered-block-627477408.md"
+}

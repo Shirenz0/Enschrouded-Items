@@ -1,0 +1,49 @@
+{
+ "id": 3243054964,
+ "name": "Hunter's Ring",
+ "internalName": "Ring_T0_Ring_of_Stamina",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 2,
+  "max": 2
+ },
+ "maxStack": 1,
+ "image": "images/icons/3243054964.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This  ancient ring will  give you stamina and increase your recovery.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Stamina",
+   "effect": "+4 Stamina"
+  }
+ ],
+ "page": "items/equipment/hunter-s-ring-3243054964.md"
+}

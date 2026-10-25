@@ -1,0 +1,32 @@
+{
+ "id": 4045154450,
+ "name": "Vanity Outfit Sheep helmet",
+ "internalName": "Vanity_TwitchDrop_Sheep_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4045154450.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Vanity  Outfit Sheep  helmet   Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/vanity-outfit-sheep-helmet.md",
+  "json": "objects/equipment/vanity-outfit-sheep-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head"
+ },
+ "page": "items/equipment/vanity-outfit-sheep-helmet-4045154450.md"
+}

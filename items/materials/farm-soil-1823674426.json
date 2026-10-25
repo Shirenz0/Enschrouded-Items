@@ -1,0 +1,246 @@
+{
+ "id": 1823674426,
+ "name": "Farm Soil",
+ "internalName": "Build_TerrainMaterial_T1_Farmsoil",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/1823674426.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Soil that will make plants grow on it.",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3027418092,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 7,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2871019400,
+   "name": "Seedbed",
+   "page": "items/buildtools/seedbed-2871019400.md",
+   "json": "items/buildtools/seedbed-2871019400.json"
+  },
+  {
+   "id": 2666875137,
+   "name": "Hazelnut bush seedling",
+   "page": "items/buildtools/hazelnut-bush-seedling-2666875137.md",
+   "json": "items/buildtools/hazelnut-bush-seedling-2666875137.json"
+  },
+  {
+   "id": 4181548098,
+   "name": "Strawberry Seedling",
+   "page": "items/buildtools/strawberry-seedling-4181548098.md",
+   "json": "items/buildtools/strawberry-seedling-4181548098.json"
+  },
+  {
+   "id": 1174705547,
+   "name": "Berry Bush Seedling",
+   "page": "items/buildtools/berry-bush-seedling-1174705547.md",
+   "json": "items/buildtools/berry-bush-seedling-1174705547.json"
+  },
+  {
+   "id": 3660770821,
+   "name": "Corn Seedling",
+   "page": "items/buildtools/corn-seedling-3660770821.md",
+   "json": "items/buildtools/corn-seedling-3660770821.json"
+  },
+  {
+   "id": 2298603989,
+   "name": "Nettle Seedling",
+   "page": "items/buildtools/nettle-seedling-2298603989.md",
+   "json": "items/buildtools/nettle-seedling-2298603989.json"
+  },
+  {
+   "id": 1533027547,
+   "name": "Indigo Seedling",
+   "page": "items/buildtools/indigo-seedling-1533027547.md",
+   "json": "items/buildtools/indigo-seedling-1533027547.json"
+  },
+  {
+   "id": 34487402,
+   "name": "Flax Seedling",
+   "page": "items/buildtools/flax-seedling-34487402.md",
+   "json": "items/buildtools/flax-seedling-34487402.json"
+  },
+  {
+   "id": 1785286209,
+   "name": "(Butterfly Lover Bush) Seedling",
+   "page": "items/buildtools/butterfly-lover-bush-seedling-1785286209.md",
+   "json": "items/buildtools/butterfly-lover-bush-seedling-1785286209.json"
+  },
+  {
+   "id": 842838716,
+   "name": "Cattail Seedling",
+   "page": "items/buildtools/cattail-seedling-842838716.md",
+   "json": "items/buildtools/cattail-seedling-842838716.json"
+  },
+  {
+   "id": 2229826461,
+   "name": "Reed Seedling",
+   "page": "items/buildtools/reed-seedling-2229826461.md",
+   "json": "items/buildtools/reed-seedling-2229826461.json"
+  },
+  {
+   "id": 4047385314,
+   "name": "Shrub Seedling",
+   "page": "items/buildtools/shrub-seedling-4047385314.md",
+   "json": "items/buildtools/shrub-seedling-4047385314.json"
+  },
+  {
+   "id": 34909120,
+   "name": "Sugar Cane Seedling",
+   "page": "items/buildtools/sugar-cane-seedling-34909120.md",
+   "json": "items/buildtools/sugar-cane-seedling-34909120.json"
+  },
+  {
+   "id": 2542499127,
+   "name": "Chamomile Seedling",
+   "page": "items/buildtools/chamomile-seedling-2542499127.md",
+   "json": "items/buildtools/chamomile-seedling-2542499127.json"
+  },
+  {
+   "id": 352277981,
+   "name": "Tree Seedling \"Tree 03 Steppes\"",
+   "page": "items/buildtools/tree-seedling-tree-03-steppes-352277981.md",
+   "json": "items/buildtools/tree-seedling-tree-03-steppes-352277981.json"
+  },
+  {
+   "id": 3795599645,
+   "name": "Tree Seedling \"Tree 02 Steppes\"",
+   "page": "items/buildtools/tree-seedling-tree-02-steppes-3795599645.md",
+   "json": "items/buildtools/tree-seedling-tree-02-steppes-3795599645.json"
+  },
+  {
+   "id": 2936889942,
+   "name": "Laurel Tree Seedling",
+   "page": "items/buildtools/laurel-tree-seedling-2936889942.md",
+   "json": "items/buildtools/laurel-tree-seedling-2936889942.json"
+  },
+  {
+   "id": 2570341954,
+   "name": "Hardwood Ash Tree",
+   "page": "items/buildtools/hardwood-ash-tree-2570341954.md",
+   "json": "items/buildtools/hardwood-ash-tree-2570341954.json"
+  },
+  {
+   "id": 3622968297,
+   "name": "Tree Seedling \"Tree 02 Deepwoods\"",
+   "page": "items/buildtools/tree-seedling-tree-02-deepwoods-3622968297.md",
+   "json": "items/buildtools/tree-seedling-tree-02-deepwoods-3622968297.json"
+  },
+  {
+   "id": 4117633993,
+   "name": "Tree Seedling \"Tree 03 Deepwoods\"",
+   "page": "items/buildtools/tree-seedling-tree-03-deepwoods-4117633993.md",
+   "json": "items/buildtools/tree-seedling-tree-03-deepwoods-4117633993.json"
+  },
+  {
+   "id": 2668074164,
+   "name": "Willow Tree Seedling",
+   "page": "items/buildtools/willow-tree-seedling-2668074164.md",
+   "json": "items/buildtools/willow-tree-seedling-2668074164.json"
+  },
+  {
+   "id": 688553119,
+   "name": "Tree Seedling",
+   "page": "items/buildtools/tree-seedling-688553119.md",
+   "json": "items/buildtools/tree-seedling-688553119.json"
+  },
+  {
+   "id": 2721454042,
+   "name": "Beet Seedling",
+   "page": "items/buildtools/beet-seedling-2721454042.md",
+   "json": "items/buildtools/beet-seedling-2721454042.json"
+  },
+  {
+   "id": 1438935166,
+   "name": "Tomato Seedling",
+   "page": "items/buildtools/tomato-seedling-1438935166.md",
+   "json": "items/buildtools/tomato-seedling-1438935166.json"
+  },
+  {
+   "id": 3148270344,
+   "name": "Ivy overgrowth plant",
+   "page": "items/buildtools/ivy-overgrowth-plant-3148270344.md",
+   "json": "items/buildtools/ivy-overgrowth-plant-3148270344.json"
+  },
+  {
+   "id": 3234886486,
+   "name": "Shroud Infused Farm Soil",
+   "page": "items/materials/shroud-infused-farm-soil-3234886486.md",
+   "json": "items/materials/shroud-infused-farm-soil-3234886486.json"
+  },
+  {
+   "id": 260133819,
+   "name": "Fertilised Farm Soil",
+   "page": "items/materials/fertilised-farm-soil-260133819.md",
+   "json": "items/materials/fertilised-farm-soil-260133819.json"
+  },
+  {
+   "id": 3604850591,
+   "name": "Flower Soil",
+   "page": "items/materials/flower-soil-3604850591.md",
+   "json": "items/materials/flower-soil-3604850591.json"
+  },
+  {
+   "id": 3787344002,
+   "name": "Fertile Steppes Dirt",
+   "page": "items/materials/fertile-steppes-dirt-3787344002.md",
+   "json": "items/materials/fertile-steppes-dirt-3787344002.json"
+  },
+  {
+   "id": 459345780,
+   "name": "Fertile Deepforest Dirt",
+   "page": "items/materials/fertile-deepforest-dirt-459345780.md",
+   "json": "items/materials/fertile-deepforest-dirt-459345780.json"
+  },
+  {
+   "id": 4219078478,
+   "name": "T2 fertile Talltree Dirt",
+   "page": "items/materials/t2-fertile-talltree-dirt-4219078478.md",
+   "json": "items/materials/t2-fertile-talltree-dirt-4219078478.json"
+  },
+  {
+   "id": 2517406505,
+   "name": "Fertile Grassland Dirt",
+   "page": "items/materials/fertile-grassland-dirt-2517406505.md",
+   "json": "items/materials/fertile-grassland-dirt-2517406505.json"
+  }
+ ],
+ "page": "items/materials/farm-soil-1823674426.md"
+}

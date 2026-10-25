@@ -21,4 +21,4 @@ A mix of all kinds of materials. Not very useful, but so are many byproducts.
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](fertile-desert-sand-2925726773.json)

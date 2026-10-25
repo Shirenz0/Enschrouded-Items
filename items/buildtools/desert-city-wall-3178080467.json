@@ -1,0 +1,43 @@
+{
+ "id": 3178080467,
+ "name": "Desert City Wall",
+ "internalName": "Block_T4_SandStone_Polished_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3178080467.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A part of the deserted city wall in the Kindlewastes. Sturdy, it still stands after all these years.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1176906414,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 1401630464,
+      "name": "Sandstone",
+      "page": "items/materials/sandstone-1401630464.md",
+      "json": "items/materials/sandstone-1401630464.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/desert-city-wall-3178080467.md"
+}

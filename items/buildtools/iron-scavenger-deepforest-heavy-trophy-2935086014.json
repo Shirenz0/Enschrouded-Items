@@ -1,0 +1,35 @@
+{
+ "id": 2935086014,
+ "name": "Iron Scavenger Deepforest Heavy Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Scavenger_Deepforest_Heavy_03_iron",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/2935086014.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Scavenger Deepforest Heavy Head. Collect multiple to craft the iron trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/iron-scavenger-deepforest-heavy-trophy-2935086014.md"
+}

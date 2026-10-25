@@ -1,0 +1,135 @@
+{
+ "id": 1898288525,
+ "name": "Mother-Of-Pearl",
+ "internalName": "Material_T6_MotherOfPearl",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1898288525.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "beautiful mother-of-pearl extracted from shells",
+ "lore": null,
+ "whereToFind": "find in T6 underwater",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 59665445,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1604789280,
+      "name": "Pearl",
+      "page": "items/materials/pearl-1604789280.md",
+      "json": "items/materials/pearl-1604789280.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3254225118,
+   "name": "Swim Sprint Stamina Reduction Flask",
+   "page": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.md",
+   "json": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.json"
+  },
+  {
+   "id": 3960177886,
+   "name": "T6 Ice Totem II",
+   "page": "items/ammunition/t6-ice-totem-ii-3960177886.md",
+   "json": "items/ammunition/t6-ice-totem-ii-3960177886.json"
+  },
+  {
+   "id": 844454296,
+   "name": "Sparkling Dust",
+   "page": "items/materials/sparkling-dust-844454296.md",
+   "json": "items/materials/sparkling-dust-844454296.json"
+  },
+  {
+   "id": 1506592036,
+   "name": "Extraordinary Ectoplasm",
+   "page": "items/materials/extraordinary-ectoplasm-1506592036.md",
+   "json": "items/materials/extraordinary-ectoplasm-1506592036.json"
+  },
+  {
+   "id": 2913802289,
+   "name": "Maritime Shower",
+   "page": "items/buildtools/maritime-shower-2913802289.md",
+   "json": "items/buildtools/maritime-shower-2913802289.json"
+  },
+  {
+   "id": 22428115,
+   "name": "Maritime Bathtub",
+   "page": "items/buildtools/maritime-bathtub-22428115.md",
+   "json": "items/buildtools/maritime-bathtub-22428115.json"
+  },
+  {
+   "id": 1948270754,
+   "name": "Maritime Toilet",
+   "page": "items/buildtools/maritime-toilet-1948270754.md",
+   "json": "items/buildtools/maritime-toilet-1948270754.json"
+  },
+  {
+   "id": 101619585,
+   "name": "Maritime Sink",
+   "page": "items/buildtools/maritime-sink-101619585.md",
+   "json": "items/buildtools/maritime-sink-101619585.json"
+  },
+  {
+   "id": 3143381943,
+   "name": "Castle Bench",
+   "page": "items/buildtools/castle-bench-3143381943.md",
+   "json": "items/buildtools/castle-bench-3143381943.json"
+  },
+  {
+   "id": 3873995576,
+   "name": "Castle Chair",
+   "page": "items/buildtools/castle-chair-3873995576.md",
+   "json": "items/buildtools/castle-chair-3873995576.json"
+  },
+  {
+   "id": 519779949,
+   "name": "Large Castle Table",
+   "page": "items/buildtools/large-castle-table-519779949.md",
+   "json": "items/buildtools/large-castle-table-519779949.json"
+  },
+  {
+   "id": 3755696550,
+   "name": "Medium Castle Table",
+   "page": "items/buildtools/medium-castle-table-3755696550.md",
+   "json": "items/buildtools/medium-castle-table-3755696550.json"
+  },
+  {
+   "id": 3510215893,
+   "name": "Small Castle Table",
+   "page": "items/buildtools/small-castle-table-3510215893.md",
+   "json": "items/buildtools/small-castle-table-3510215893.json"
+  },
+  {
+   "id": 2405796986,
+   "name": "Small Castle Sideboard",
+   "page": "items/buildtools/small-castle-sideboard-2405796986.md",
+   "json": "items/buildtools/small-castle-sideboard-2405796986.json"
+  },
+  {
+   "id": 4088362201,
+   "name": "Castle Shelf",
+   "page": "items/buildtools/castle-shelf-4088362201.md",
+   "json": "items/buildtools/castle-shelf-4088362201.json"
+  }
+ ],
+ "page": "items/materials/mother-of-pearl-1898288525.md"
+}

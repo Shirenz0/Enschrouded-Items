@@ -1,0 +1,61 @@
+{
+ "id": 1674254183,
+ "name": "Food Bunny Feeding",
+ "internalName": "Material_T1_Bunny_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/1674254183.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "food bunny feeding description",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2367270605,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3360608010,
+      "name": "Hazelnut",
+      "page": "items/consumables/hazelnut-3360608010.md",
+      "json": "items/consumables/hazelnut-3360608010.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3479563223,
+      "name": "Strawberry",
+      "page": "items/consumables/strawberry-3479563223.md",
+      "json": "items/consumables/strawberry-3479563223.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3118804138,
+      "name": "Corncob",
+      "page": "items/consumables/corncob-3118804138.md",
+      "json": "items/consumables/corncob-3118804138.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/food-bunny-feeding-1674254183.md"
+}

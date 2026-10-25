@@ -25,4 +25,4 @@ find in Kindlewastes  Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](brittle-shroud-flakes-4091795277.json)

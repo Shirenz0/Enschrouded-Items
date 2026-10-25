@@ -1,0 +1,93 @@
+{
+ "name": "Valor Heart Dagger",
+ "category": "Weapons",
+ "image": "images/icons/2700871988.png",
+ "versions": 7,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 1729196030,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/1729196030.png",
+   "page": "items/weapons/valor-heart-dagger-1729196030.md",
+   "json": "items/weapons/valor-heart-dagger-1729196030.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2837156111,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2837156111.png",
+   "page": "items/weapons/valor-heart-dagger-2837156111.md",
+   "json": "items/weapons/valor-heart-dagger-2837156111.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3717136224,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3717136224.png",
+   "page": "items/weapons/valor-heart-dagger-3717136224.md",
+   "json": "items/weapons/valor-heart-dagger-3717136224.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1972844940,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1972844940.png",
+   "page": "items/weapons/valor-heart-dagger-1972844940.md",
+   "json": "items/weapons/valor-heart-dagger-1972844940.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1873675161,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1873675161.png",
+   "page": "items/weapons/valor-heart-dagger-1873675161.md",
+   "json": "items/weapons/valor-heart-dagger-1873675161.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3096148752,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3096148752.png",
+   "page": "items/weapons/valor-heart-dagger-3096148752.md",
+   "json": "items/weapons/valor-heart-dagger-3096148752.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2700871988,
+   "name": "Valor Heart Dagger",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2700871988.png",
+   "page": "items/weapons/valor-heart-dagger-2700871988.md",
+   "json": "items/weapons/valor-heart-dagger-2700871988.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/valor-heart-dagger.md"
+}

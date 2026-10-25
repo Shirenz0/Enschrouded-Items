@@ -1,0 +1,59 @@
+{
+ "id": 1974697806,
+ "name": "Stormshield",
+ "internalName": "Shield_T3_Rogue_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1974697806.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A metal plate shield that was twisted and shaped in a Shroudstorm. It seems to be almost indestructible.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/stormshield.md",
+  "json": "objects/equipment/stormshield.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield"
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Ice Resistance",
+   "effect": "+5 Ice Resistance"
+  },
+  {
+   "order": 2,
+   "name": "Ice Resistance",
+   "effect": "+5 Ice Resistance"
+  },
+  {
+   "order": 3,
+   "name": "Shock Resistance",
+   "effect": "+5 Shock Resistance"
+  },
+  {
+   "order": 4,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "page": "items/equipment/stormshield-1974697806.md"
+}

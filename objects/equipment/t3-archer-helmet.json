@@ -1,0 +1,35 @@
+{
+ "name": "T3 Archer Helmet",
+ "category": "Equipment",
+ "image": "images/icons/2197847702.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1822528443,
+   "name": "T3 Archer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1822528443.png",
+   "page": "items/equipment/t3-archer-helmet-1822528443.md",
+   "json": "items/equipment/t3-archer-helmet-1822528443.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2197847702,
+   "name": "T3 Archer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2197847702.png",
+   "page": "items/equipment/t3-archer-helmet-2197847702.md",
+   "json": "items/equipment/t3-archer-helmet-2197847702.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-archer-helmet.md"
+}

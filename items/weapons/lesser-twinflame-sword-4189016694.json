@@ -1,0 +1,70 @@
+{
+ "id": 4189016694,
+ "name": "Lesser Twinflame Sword",
+ "internalName": "Weapon_T5_1H_Lore_Sword_ministory_28",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/4189016694.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/lesser-twinflame-sword.md",
+  "json": "objects/weapons/lesser-twinflame-sword.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Sneaky",
+   "effect": "+20 Sneaky"
+  },
+  {
+   "order": 2,
+   "name": "Vicious",
+   "effect": "+20 Vicious"
+  },
+  {
+   "order": 3,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 4,
+   "name": "Sneaky",
+   "effect": "+20 Sneaky"
+  },
+  {
+   "order": 5,
+   "name": "Vicious",
+   "effect": "+20 Vicious"
+  }
+ ],
+ "page": "items/weapons/lesser-twinflame-sword-4189016694.md"
+}

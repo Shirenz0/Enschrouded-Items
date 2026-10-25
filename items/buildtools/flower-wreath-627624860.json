@@ -1,0 +1,29 @@
+{
+ "id": 627624860,
+ "name": "Flower Wreath",
+ "internalName": "Prop_Decoration_TX_Flower_Wreath_TwitchDrop",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/627624860.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/flower-wreath.md",
+  "json": "objects/buildtools/flower-wreath.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/flower-wreath-627624860.md"
+}

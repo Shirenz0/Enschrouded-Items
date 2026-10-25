@@ -1,0 +1,56 @@
+{
+ "id": 1479156124,
+ "name": "Gras Pot",
+ "internalName": "Flower_Pot_Medium_Gras",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1479156124.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A medium potted plant to beautify your home.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/gras-pot.md",
+  "json": "objects/buildtools/gras-pot.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 3126369120,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 624884086,
+      "name": "Empty Flower Pot II",
+      "page": "items/buildtools/empty-flower-pot-ii-624884086.md",
+      "json": "items/buildtools/empty-flower-pot-ii-624884086.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/gras-pot-1479156124.md"
+}

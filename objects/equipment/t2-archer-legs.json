@@ -1,0 +1,35 @@
+{
+ "name": "T2 Archer Legs",
+ "category": "Equipment",
+ "image": "images/icons/3559413170.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1314474617,
+   "name": "T2 Archer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1314474617.png",
+   "page": "items/equipment/t2-archer-legs-1314474617.md",
+   "json": "items/equipment/t2-archer-legs-1314474617.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3559413170,
+   "name": "T2 Archer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3559413170.png",
+   "page": "items/equipment/t2-archer-legs-3559413170.md",
+   "json": "items/equipment/t2-archer-legs-3559413170.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-archer-legs.md"
+}

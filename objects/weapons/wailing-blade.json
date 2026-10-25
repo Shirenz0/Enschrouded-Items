@@ -1,0 +1,104 @@
+{
+ "name": "Wailing Blade",
+ "category": "Weapons",
+ "image": "images/icons/1919278140.png",
+ "versions": 8,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 3265226455,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/3265226455.png",
+   "page": "items/weapons/wailing-blade-3265226455.md",
+   "json": "items/weapons/wailing-blade-3265226455.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 197300979,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/197300979.png",
+   "page": "items/weapons/wailing-blade-197300979.md",
+   "json": "items/weapons/wailing-blade-197300979.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4253086109,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/4253086109.png",
+   "page": "items/weapons/wailing-blade-4253086109.md",
+   "json": "items/weapons/wailing-blade-4253086109.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 246702506,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/246702506.png",
+   "page": "items/weapons/wailing-blade-246702506.md",
+   "json": "items/weapons/wailing-blade-246702506.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 456631486,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/456631486.png",
+   "page": "items/weapons/wailing-blade-456631486.md",
+   "json": "items/weapons/wailing-blade-456631486.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 105288636,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/105288636.png",
+   "page": "items/weapons/wailing-blade-105288636.md",
+   "json": "items/weapons/wailing-blade-105288636.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 905080090,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/905080090.png",
+   "page": "items/weapons/wailing-blade-905080090.md",
+   "json": "items/weapons/wailing-blade-905080090.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1919278140,
+   "name": "Wailing Blade",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1919278140.png",
+   "page": "items/weapons/wailing-blade-1919278140.md",
+   "json": "items/weapons/wailing-blade-1919278140.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/wailing-blade.md"
+}

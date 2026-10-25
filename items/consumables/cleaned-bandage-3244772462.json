@@ -1,0 +1,71 @@
+{
+ "id": 3244772462,
+ "name": "Cleaned Bandage",
+ "internalName": "Consumable_Bandage_T3",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3244772462.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Combined with antiseptics, this item provides a fast Health regeneration, if applied on a wound.",
+ "lore": "Bandage",
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Healing per second",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3635713034,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 649108902,
+      "name": "Antiseptic",
+      "page": "items/materials/antiseptic-649108902.md",
+      "json": "items/materials/antiseptic-649108902.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/cleaned-bandage-3244772462.md"
+}

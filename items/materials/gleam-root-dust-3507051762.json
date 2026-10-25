@@ -1,0 +1,75 @@
+{
+ "id": 3507051762,
+ "name": "Gleam Root Dust",
+ "internalName": "Material_T6_GleamRoot_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/3507051762.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 gleam root dust desc",
+ "lore": null,
+ "whereToFind": "Crafting, Improved Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2708106409,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2145533653,
+      "name": "Gleam Root",
+      "page": "items/materials/gleam-root-2145533653.md",
+      "json": "items/materials/gleam-root-2145533653.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2453015274,
+   "name": "Eternal Shock Arrow II",
+   "page": "items/ammunition/eternal-shock-arrow-ii-2453015274.md",
+   "json": "items/ammunition/eternal-shock-arrow-ii-2453015274.json"
+  },
+  {
+   "id": 391330740,
+   "name": "Veil Of Blues",
+   "page": "items/colorpalette/veil-of-blues-391330740.md",
+   "json": "items/colorpalette/veil-of-blues-391330740.json"
+  },
+  {
+   "id": 3846605059,
+   "name": "Frog In The Grass",
+   "page": "items/colorpalette/frog-in-the-grass-3846605059.md",
+   "json": "items/colorpalette/frog-in-the-grass-3846605059.json"
+  },
+  {
+   "id": 1392674456,
+   "name": "Miner Helmet",
+   "page": "items/equipment/miner-helmet-1392674456.md",
+   "json": "items/equipment/miner-helmet-1392674456.json"
+  },
+  {
+   "id": 32289505,
+   "name": "Gleam Root Diving Light",
+   "page": "items/tools/gleam-root-diving-light-32289505.md",
+   "json": "items/tools/gleam-root-diving-light-32289505.json"
+  }
+ ],
+ "page": "items/materials/gleam-root-dust-3507051762.md"
+}

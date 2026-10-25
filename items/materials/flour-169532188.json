@@ -1,0 +1,75 @@
+{
+ "id": 169532188,
+ "name": "Flour",
+ "internalName": "Material_T3_Flour",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/169532188.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Flour that can be created by grinding Wheat Grains to a pulver.",
+ "lore": null,
+ "whereToFind": "Crafting, Hand Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2310996913,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2435149273,
+      "name": "Wheat Grains",
+      "page": "items/materials/wheat-grains-2435149273.md",
+      "json": "items/materials/wheat-grains-2435149273.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1072066690,
+   "name": "Fish Chowder",
+   "page": "items/consumables/fish-chowder-1072066690.md",
+   "json": "items/consumables/fish-chowder-1072066690.json"
+  },
+  {
+   "id": 1183822012,
+   "name": "Spaetzle with Mushroom Cream Sauce",
+   "page": "items/consumables/spaetzle-with-mushroom-cream-sauce-1183822012.md",
+   "json": "items/consumables/spaetzle-with-mushroom-cream-sauce-1183822012.json"
+  },
+  {
+   "id": 2160078991,
+   "name": "Flat Bread",
+   "page": "items/consumables/flat-bread-2160078991.md",
+   "json": "items/consumables/flat-bread-2160078991.json"
+  },
+  {
+   "id": 3614911410,
+   "name": "Shortcrust Pastry Base",
+   "page": "items/materials/shortcrust-pastry-base-3614911410.md",
+   "json": "items/materials/shortcrust-pastry-base-3614911410.json"
+  },
+  {
+   "id": 2154839974,
+   "name": "Bait Sand Digger",
+   "page": "items/buildtools/bait-sand-digger-2154839974.md",
+   "json": "items/buildtools/bait-sand-digger-2154839974.json"
+  }
+ ],
+ "page": "items/materials/flour-169532188.md"
+}

@@ -21,4 +21,4 @@ Flame Shrine or Sanctum
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](flame-essence-1536371128.json)

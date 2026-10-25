@@ -23,4 +23,4 @@ An axe, effective when cutting down trees. Slightly less effective for fighting 
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](fenrig-s-axe.json)

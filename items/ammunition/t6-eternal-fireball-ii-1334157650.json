@@ -1,0 +1,123 @@
+{
+ "id": 1334157650,
+ "name": "T6 Eternal Fireball II",
+ "internalName": "Ammo_T6_Spell_Fire_Ball_lvl36_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/1334157650.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Storing the magical fireball spell, the spellstone doesn't require ammunition, wracking enemies with unlimited flame power on the single expense of Mana.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 209,
+    "display": "209",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2500,
+    "display": "2.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 500,
+    "display": "500",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Blazing",
+   "effect": "+5 Blazing"
+  },
+  {
+   "order": 5,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2093616038,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3405461465,
+      "name": "Corrupted Boar Tusk",
+      "page": "items/materials/corrupted-boar-tusk-3405461465.md",
+      "json": "items/materials/corrupted-boar-tusk-3405461465.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t6-eternal-fireball-ii-1334157650.md"
+}

@@ -1,0 +1,77 @@
+{
+ "id": 948744885,
+ "name": "T3 Healer Arms",
+ "internalName": "Armor_T3_Mage_Healer_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/948744885.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These fingerless gloves allow the wearer to feel each leaf and root before picking, allowing a proper assesment.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-healer-arms.md",
+  "json": "objects/equipment/t3-healer-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Healing",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Revive Duration",
+    "value": -500,
+    "display": "-0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+20 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Quick Charge",
+   "effect": "Increases the skill level of Quick Charge by +1"
+  }
+ ],
+ "page": "items/equipment/t3-healer-arms-948744885.md"
+}

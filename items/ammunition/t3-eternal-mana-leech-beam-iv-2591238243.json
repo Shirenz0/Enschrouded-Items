@@ -1,0 +1,69 @@
+{
+ "id": 2591238243,
+ "name": "T3 Eternal Mana Leech Beam IV",
+ "internalName": "Ammo_T3_Spell_ManaLeechBeam_Channel_lvl17",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 17,
+  "max": 17
+ },
+ "maxStack": 1,
+ "image": "images/icons/2591238243.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical Beam that leeches Mana from enemies without dealing damage to them.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3788265550,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2341333485,
+      "name": "Aurum Lily",
+      "page": "items/materials/aurum-lily-2341333485.md",
+      "json": "items/materials/aurum-lily-2341333485.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t3-eternal-mana-leech-beam-iv-2591238243.md"
+}

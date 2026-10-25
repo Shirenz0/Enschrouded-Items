@@ -32,4 +32,4 @@ A big burning pile or archaic coziness.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](scavanger-bonfire-106014299.json)

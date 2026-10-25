@@ -29,4 +29,4 @@ Basic tools needed for a laboratory and scientific experiments.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](scientific-instruments-895710916.json)

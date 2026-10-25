@@ -1,0 +1,25 @@
+{
+ "id": 1468357474,
+ "name": "Celestium/Improved Hammer of the Ancients",
+ "internalName": "Tool_Quickbuilder_Hammer_Improved",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1468357474.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical tool powered by the Flame, allows you to fly while being capable of **building various structures** for your base.\n\nRequires to be **within the range of a Flame Altar** to work.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/blueprints/celestium-improved-hammer-of-the-ancients-1468357474.md"
+}

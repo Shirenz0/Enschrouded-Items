@@ -27,4 +27,4 @@ A severed Scavenger Deepforest Heavy Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](scavenger-deepforest-heavy-trophy-452415655.json)

@@ -1,0 +1,45 @@
+{
+ "id": 707511507,
+ "name": "Dragon Head",
+ "internalName": "Material_TX_Trophy_Fell_LizardBoss_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/707511507.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It used to skim the waters near pikemeads reach with its brood, but soon became enshrouded as the land became corrupted.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 4089063890,
+   "name": "Gold Fell Wispwyvern trophy",
+   "page": "items/buildtools/gold-fell-wispwyvern-trophy-4089063890.md",
+   "json": "items/buildtools/gold-fell-wispwyvern-trophy-4089063890.json"
+  },
+  {
+   "id": 3936373846,
+   "name": "Metal Boss Trophy Dragon",
+   "page": "items/buildtools/metal-boss-trophy-dragon-3936373846.md",
+   "json": "items/buildtools/metal-boss-trophy-dragon-3936373846.json"
+  },
+  {
+   "id": 1887740102,
+   "name": "Big Boss Trophy Dragon",
+   "page": "items/buildtools/big-boss-trophy-dragon-1887740102.md",
+   "json": "items/buildtools/big-boss-trophy-dragon-1887740102.json"
+  }
+ ],
+ "page": "items/materials/dragon-head-707511507.md"
+}

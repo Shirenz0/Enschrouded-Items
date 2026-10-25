@@ -1,0 +1,35 @@
+{
+ "name": "T3 Tank Legs",
+ "category": "Equipment",
+ "image": "images/icons/2613480012.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1365818369,
+   "name": "T3 Tank Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1365818369.png",
+   "page": "items/equipment/t3-tank-legs-1365818369.md",
+   "json": "items/equipment/t3-tank-legs-1365818369.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2613480012,
+   "name": "T3 Tank Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2613480012.png",
+   "page": "items/equipment/t3-tank-legs-2613480012.md",
+   "json": "items/equipment/t3-tank-legs-2613480012.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-tank-legs.md"
+}

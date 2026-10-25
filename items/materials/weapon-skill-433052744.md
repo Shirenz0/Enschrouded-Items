@@ -15,4 +15,4 @@ One of 2 versions of this item: see [Weapon Skill](../../objects/materials/weapo
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](weapon-skill-433052744.json)

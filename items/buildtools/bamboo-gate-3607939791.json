@@ -1,0 +1,65 @@
+{
+ "id": 3607939791,
+ "name": "Bamboo Gate",
+ "internalName": "Prop_Decoration_T6_Lizard_Wall_2m_01_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3607939791.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/bamboo-gate.md",
+  "json": "objects/buildtools/bamboo-gate.json",
+  "versions": 5
+ },
+ "recipes": [
+  {
+   "recipeId": 1168390680,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1381084162,
+      "name": "Bamboo Logs",
+      "page": "items/materials/bamboo-logs-1381084162.md",
+      "json": "items/materials/bamboo-logs-1381084162.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1026141130,
+      "name": "Paper Reed",
+      "page": "items/materials/paper-reed-1026141130.md",
+      "json": "items/materials/paper-reed-1026141130.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 2
+  }
+ ],
+ "page": "items/buildtools/bamboo-gate-3607939791.md"
+}

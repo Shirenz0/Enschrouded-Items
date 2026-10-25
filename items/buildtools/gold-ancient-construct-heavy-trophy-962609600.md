@@ -31,4 +31,4 @@ A severed Ancient Construct: Heavy Head. Collect multiple to craft the golden tr
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-ancient-construct-heavy-trophy-962609600.json)

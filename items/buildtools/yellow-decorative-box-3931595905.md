@@ -25,4 +25,4 @@ A decorative wrapped present
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](yellow-decorative-box-3931595905.json)

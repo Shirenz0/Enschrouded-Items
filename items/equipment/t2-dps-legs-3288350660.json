@@ -1,0 +1,116 @@
+{
+ "id": 3288350660,
+ "name": "T2 DPS Legs",
+ "internalName": "Armor_T2_Warrior_DPS_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3288350660.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "No matter how they may tear and wear, these pants can always be patched up again!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-dps-legs.md",
+  "json": "objects/equipment/t2-dps-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 45,
+    "display": "45",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "Barbarians Path",
+   "effect": "Increases the skill level of Barbarian's Path"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1075179544,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1728169696,
+      "name": "Fog Sack",
+      "page": "items/materials/fog-sack-1728169696.md",
+      "json": "items/materials/fog-sack-1728169696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-dps-legs-3288350660.md"
+}

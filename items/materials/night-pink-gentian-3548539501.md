@@ -25,4 +25,4 @@ Albaneve Summits, night
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](night-pink-gentian-3548539501.json)

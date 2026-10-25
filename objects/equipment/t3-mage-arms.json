@@ -1,0 +1,35 @@
+{
+ "name": "T3 Mage Arms",
+ "category": "Equipment",
+ "image": "images/icons/886063879.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 536768042,
+   "name": "T3 Mage Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/536768042.png",
+   "page": "items/equipment/t3-mage-arms-536768042.md",
+   "json": "items/equipment/t3-mage-arms-536768042.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 886063879,
+   "name": "T3 Mage Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/886063879.png",
+   "page": "items/equipment/t3-mage-arms-886063879.md",
+   "json": "items/equipment/t3-mage-arms-886063879.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-mage-arms.md"
+}

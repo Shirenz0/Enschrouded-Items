@@ -1,0 +1,77 @@
+{
+ "id": 2214049957,
+ "name": "T4 Mage Legs",
+ "internalName": "Armor_T4_Mage_Wizard_DPS_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2214049957.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Elegantly held together with cobalt linen and thread. Truly fitting for a sophisticated mage!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-mage-legs.md",
+  "json": "objects/equipment/t4-mage-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Letting",
+   "effect": "Increases the skill level of Blood Letting by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Terror",
+   "effect": "Increases the skill level of Terror by +1"
+  }
+ ],
+ "page": "items/equipment/t4-mage-legs-2214049957.md"
+}

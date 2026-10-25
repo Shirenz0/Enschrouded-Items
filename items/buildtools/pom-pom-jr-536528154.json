@@ -1,0 +1,25 @@
+{
+ "id": 536528154,
+ "name": "Pom Pom Jr.",
+ "internalName": "Animal_Pet_Dog_02_Dotted",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/536528154.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A shy and timid little fellow with spotted fur. The woman that lived in the house where you found this dog called her favorite dog \"pom pom\". There's a chance that this might be one of pom pom's ancestors!",
+ "lore": "Pet",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/pom-pom-jr-536528154.md"
+}

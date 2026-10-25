@@ -34,4 +34,4 @@ Crafting, Alchemist
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](pheromone-shroud-3145568607.json)

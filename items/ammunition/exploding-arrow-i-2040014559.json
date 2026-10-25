@@ -1,0 +1,67 @@
+{
+ "id": 2040014559,
+ "name": "Exploding Arrow I",
+ "internalName": "Ammo_T2_Arrow_Explosive_lvl15",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 500,
+ "image": "images/icons/2040014559.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An arrow that delivers an explosive surprise.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Fire": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 3800099875,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 1422216404,
+      "name": "Flint Arrow",
+      "page": "items/ammunition/flint-arrow-1422216404.md",
+      "json": "items/ammunition/flint-arrow-1422216404.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1714627847,
+      "name": "Tar",
+      "page": "items/materials/tar-1714627847.md",
+      "json": "items/materials/tar-1714627847.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/exploding-arrow-i-2040014559.md"
+}

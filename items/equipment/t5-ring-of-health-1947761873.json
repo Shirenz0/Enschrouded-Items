@@ -1,0 +1,75 @@
+{
+ "id": 1947761873,
+ "name": "T5 Ring of health",
+ "internalName": "Ring_T5_Ring_of_Health",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 1,
+ "image": "images/icons/1947761873.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "this ring will increase your Health and Healing rate.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Health",
+   "effect": "+100 Health"
+  },
+  {
+   "order": 2,
+   "name": "Vital",
+   "effect": "+15 Vital"
+  },
+  {
+   "order": 3,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "+6 Health Leech"
+  },
+  {
+   "order": 5,
+   "name": "+1 Battle Heal",
+   "effect": "Increases the skill level of Battle Heal by +1"
+  }
+ ],
+ "page": "items/equipment/t5-ring-of-health-1947761873.md"
+}

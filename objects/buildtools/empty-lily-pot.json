@@ -1,0 +1,47 @@
+{
+ "name": "Empty Lily Pot",
+ "category": "BuildTools",
+ "image": "images/icons/3593229714.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2328440963,
+   "name": "Empty Lily Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2328440963.png",
+   "page": "items/buildtools/empty-lily-pot-2328440963.md",
+   "json": "items/buildtools/empty-lily-pot-2328440963.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3534930699,
+   "name": "Empty Lily Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3534930699.png",
+   "page": "items/buildtools/empty-lily-pot-3534930699.md",
+   "json": "items/buildtools/empty-lily-pot-3534930699.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3593229714,
+   "name": "Empty Lily Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3593229714.png",
+   "page": "items/buildtools/empty-lily-pot-3593229714.md",
+   "json": "items/buildtools/empty-lily-pot-3593229714.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/empty-lily-pot.md"
+}

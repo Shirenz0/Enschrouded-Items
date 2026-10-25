@@ -1,0 +1,43 @@
+{
+ "id": 551181842,
+ "name": "Straw Roof Block",
+ "internalName": "Block_Roof_T3_Straw",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/551181842.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Used to build thatched roofs. A basic and reliable solution to keeping your head from getting wet.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3630595777,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3921293392,
+      "name": "Straw",
+      "page": "items/materials/straw-3921293392.md",
+      "json": "items/materials/straw-3921293392.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/straw-roof-block-551181842.md"
+}

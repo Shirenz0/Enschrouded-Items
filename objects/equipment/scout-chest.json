@@ -1,0 +1,35 @@
+{
+ "name": "Scout Chest",
+ "category": "Equipment",
+ "image": "images/icons/4113785177.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1033045151,
+   "name": "Scout Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1033045151.png",
+   "page": "items/equipment/scout-chest-1033045151.md",
+   "json": "items/equipment/scout-chest-1033045151.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4113785177,
+   "name": "Scout Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/4113785177.png",
+   "page": "items/equipment/scout-chest-4113785177.md",
+   "json": "items/equipment/scout-chest-4113785177.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/scout-chest.md"
+}

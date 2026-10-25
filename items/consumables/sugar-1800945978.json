@@ -1,0 +1,109 @@
+{
+ "id": 1800945978,
+ "name": "Sugar",
+ "internalName": "Food_T3_proccessed_sweets_Sugar",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1800945978.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The sugar rush powers your energy regenration for a short amount of time.",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 240000,
+    "display": "4:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2112698143,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2456844314,
+      "name": "Sugar Cane",
+      "page": "items/consumables/sugar-cane-2456844314.md",
+      "json": "items/consumables/sugar-cane-2456844314.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 623430551,
+   "name": "Mokka",
+   "page": "items/consumables/mokka-623430551.md",
+   "json": "items/consumables/mokka-623430551.json"
+  },
+  {
+   "id": 2202063914,
+   "name": "Ancient Pomegranate Tarte",
+   "page": "items/consumables/ancient-pomegranate-tarte-2202063914.md",
+   "json": "items/consumables/ancient-pomegranate-tarte-2202063914.json"
+  },
+  {
+   "id": 3999300572,
+   "name": "Candied Ginger",
+   "page": "items/consumables/candied-ginger-3999300572.md",
+   "json": "items/consumables/candied-ginger-3999300572.json"
+  },
+  {
+   "id": 227143323,
+   "name": "Honey",
+   "page": "items/consumables/honey-227143323.md",
+   "json": "items/consumables/honey-227143323.json"
+  },
+  {
+   "id": 439577610,
+   "name": "T5 Milkshake Dish",
+   "page": "items/consumables/t5-milkshake-dish-439577610.md",
+   "json": "items/consumables/t5-milkshake-dish-439577610.json"
+  },
+  {
+   "id": 2733976881,
+   "name": "Algae Salad",
+   "page": "items/consumables/algae-salad-2733976881.md",
+   "json": "items/consumables/algae-salad-2733976881.json"
+  },
+  {
+   "id": 3145520936,
+   "name": "T3 Slurp",
+   "page": "items/consumables/t3-slurp-3145520936.md",
+   "json": "items/consumables/t3-slurp-3145520936.json"
+  },
+  {
+   "id": 3614911410,
+   "name": "Shortcrust Pastry Base",
+   "page": "items/materials/shortcrust-pastry-base-3614911410.md",
+   "json": "items/materials/shortcrust-pastry-base-3614911410.json"
+  }
+ ],
+ "page": "items/consumables/sugar-1800945978.md"
+}

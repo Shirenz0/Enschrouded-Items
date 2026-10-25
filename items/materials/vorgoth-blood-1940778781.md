@@ -21,4 +21,4 @@ the essence of lord vorgoth, it can be used to craft his armor
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](vorgoth-blood-1940778781.json)

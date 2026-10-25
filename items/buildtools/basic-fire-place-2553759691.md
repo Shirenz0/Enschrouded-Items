@@ -32,4 +32,4 @@ A fire place that can be placed in your home to provide warmth. It's basic but d
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](basic-fire-place-2553759691.json)

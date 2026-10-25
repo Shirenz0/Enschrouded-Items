@@ -1,0 +1,71 @@
+{
+ "id": 2635793540,
+ "name": "Flask of the Fallen",
+ "internalName": "Consumable_Potion_Flask_Of_The_Fallen",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2635793540.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Just like the the Shroud gave power to the fallen, it empowers the consumer of this flask. \n\nIncreases  stamina  by 20.",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4290397614,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2179075323,
+      "name": "ActiveMycelium",
+      "page": "items/materials/activemycelium-2179075323.md",
+      "json": "items/materials/activemycelium-2179075323.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3479563223,
+      "name": "Strawberry",
+      "page": "items/consumables/strawberry-3479563223.md",
+      "json": "items/consumables/strawberry-3479563223.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 4229884102,
+      "name": "Shroud Mush",
+      "page": "items/materials/shroud-mush-4229884102.md",
+      "json": "items/materials/shroud-mush-4229884102.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/flask-of-the-fallen-2635793540.md"
+}

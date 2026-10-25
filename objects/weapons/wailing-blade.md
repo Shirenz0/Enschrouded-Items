@@ -23,4 +23,4 @@ An expertly crafter blade, balanced and sharp. Cuts through foes like a wail thr
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](wailing-blade.json)

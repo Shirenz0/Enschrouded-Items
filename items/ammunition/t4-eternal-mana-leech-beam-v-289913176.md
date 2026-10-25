@@ -33,4 +33,4 @@ Manual Crafting
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t4-eternal-mana-leech-beam-v-289913176.json)

@@ -1,0 +1,39 @@
+{
+ "id": 2715107589,
+ "name": "Gold Ore",
+ "internalName": "Material_T6_Gold_Ore",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2715107589.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 Gold Ore desc",
+ "lore": null,
+ "whereToFind": "find in T6 underwater",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1095180478,
+   "name": "Drak Relief Showcase",
+   "page": "items/buildtools/drak-relief-showcase-1095180478.md",
+   "json": "items/buildtools/drak-relief-showcase-1095180478.json"
+  },
+  {
+   "id": 386525089,
+   "name": "Large Drak Door",
+   "page": "items/buildtools/large-drak-door-386525089.md",
+   "json": "items/buildtools/large-drak-door-386525089.json"
+  }
+ ],
+ "page": "items/materials/gold-ore-2715107589.md"
+}

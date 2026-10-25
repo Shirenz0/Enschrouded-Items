@@ -1,0 +1,25 @@
+{
+ "id": 2474769689,
+ "name": "Vorgoth's Broken Crown",
+ "internalName": "Prop_Component_flameupgrade_vorgothsCrown",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2474769689.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The broken crown from a once venerated Lord.",
+ "lore": "Furniture",
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "page": "items/buildtools/vorgoth-s-broken-crown-2474769689.md"
+}

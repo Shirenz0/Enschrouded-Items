@@ -1,0 +1,104 @@
+{
+ "id": 83283491,
+ "name": "T7 Fireball",
+ "internalName": "Ammo_T7_Spell_Fire_Ball_lvl47",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 47,
+  "max": 47
+ },
+ "maxStack": 500,
+ "image": "images/icons/83283491.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that ignites a single fireball, errupting upon impact, dealing damage in a small area.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 210,
+    "display": "210",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2500,
+    "display": "2.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 560,
+    "display": "560",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1190029534,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3516499926,
+      "name": "Moonstone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 234899173,
+      "name": "Magma Gel",
+      "page": "items/materials/magma-gel-234899173.md",
+      "json": "items/materials/magma-gel-234899173.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3838422264,
+   "name": "T7 Eternal Fireball III",
+   "page": "items/ammunition/t7-eternal-fireball-iii-3838422264.md",
+   "json": "items/ammunition/t7-eternal-fireball-iii-3838422264.json"
+  }
+ ],
+ "page": "items/ammunition/t7-fireball-83283491.md"
+}

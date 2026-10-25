@@ -1,0 +1,67 @@
+{
+ "id": 2873455991,
+ "name": "Milk",
+ "internalName": "Food_T1_raw_hydration_Milk",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/2873455991.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A delicious jug of milk. Drinking it will grant you endurance and recharge your stamina faster!",
+ "lore": null,
+ "whereToFind": "Springlands, Tamed Goats",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 900000,
+    "display": "15:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1453423195,
+   "name": "Crab Cakes",
+   "page": "items/consumables/crab-cakes-1453423195.md",
+   "json": "items/consumables/crab-cakes-1453423195.json"
+  },
+  {
+   "id": 1072066690,
+   "name": "Fish Chowder",
+   "page": "items/consumables/fish-chowder-1072066690.md",
+   "json": "items/consumables/fish-chowder-1072066690.json"
+  },
+  {
+   "id": 3441701492,
+   "name": "Antidote T2",
+   "page": "items/consumables/antidote-t2-3441701492.md",
+   "json": "items/consumables/antidote-t2-3441701492.json"
+  }
+ ],
+ "page": "items/consumables/milk-2873455991.md"
+}

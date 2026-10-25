@@ -17,4 +17,4 @@ This hat is decorated with a fine metal which resemlbes a crown.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-mage-helmet.json)

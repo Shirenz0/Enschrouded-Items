@@ -1,0 +1,35 @@
+{
+ "name": "T6 Shield DPS",
+ "category": "Equipment",
+ "image": "images/icons/704475806.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2863750697,
+   "name": "T6 Shield DPS",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/2863750697.png",
+   "page": "items/equipment/t6-shield-dps-2863750697.md",
+   "json": "items/equipment/t6-shield-dps-2863750697.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 704475806,
+   "name": "T6 Shield DPS",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/704475806.png",
+   "page": "items/equipment/t6-shield-dps-704475806.md",
+   "json": "items/equipment/t6-shield-dps-704475806.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t6-shield-dps.md"
+}

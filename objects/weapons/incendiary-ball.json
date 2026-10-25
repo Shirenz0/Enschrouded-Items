@@ -1,0 +1,39 @@
+{
+ "name": "Incendiary Ball",
+ "category": "Weapons",
+ "image": "images/icons/1462961786.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "where to find"
+ ],
+ "items": [
+  {
+   "id": 1036114942,
+   "name": "Incendiary Ball",
+   "rarity": "Rare",
+   "level": "35",
+   "image": "images/icons/1036114942.png",
+   "page": "items/weapons/incendiary-ball-1036114942.md",
+   "json": "items/weapons/incendiary-ball-1036114942.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1462961786,
+   "name": "Incendiary Ball",
+   "rarity": "Rare",
+   "level": "35",
+   "image": "images/icons/1462961786.png",
+   "page": "items/weapons/incendiary-ball-1462961786.md",
+   "json": "items/weapons/incendiary-ball-1462961786.json",
+   "maxStack": 20,
+   "ownTexts": [
+    "where to find"
+   ]
+  }
+ ],
+ "page": "objects/weapons/incendiary-ball.md"
+}

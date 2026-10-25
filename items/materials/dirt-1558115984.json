@@ -1,0 +1,117 @@
+{
+ "id": 1558115984,
+ "name": "Dirt",
+ "internalName": "Build_TerrainMaterial_T1_Dirt_Grassland",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1558115984.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2365603799,
+   "name": "Limestone Block",
+   "page": "items/buildtools/limestone-block-2365603799.md",
+   "json": "items/buildtools/limestone-block-2365603799.json"
+  },
+  {
+   "id": 2992740264,
+   "name": "Field Stones",
+   "page": "items/materials/field-stones-2992740264.md",
+   "json": "items/materials/field-stones-2992740264.json"
+  },
+  {
+   "id": 447697249,
+   "name": "Road Dirt",
+   "page": "items/materials/road-dirt-447697249.md",
+   "json": "items/materials/road-dirt-447697249.json"
+  },
+  {
+   "id": 323499580,
+   "name": "Road Stone 1",
+   "page": "items/materials/road-stone-1-323499580.md",
+   "json": "items/materials/road-stone-1-323499580.json"
+  },
+  {
+   "id": 471823515,
+   "name": "T3 Acid Cone",
+   "page": "items/ammunition/t3-acid-cone-471823515.md",
+   "json": "items/ammunition/t3-acid-cone-471823515.json"
+  },
+  {
+   "id": 1639517943,
+   "name": "T1 Palette 01 Brown Grey",
+   "page": "items/colorpalette/t1-palette-01-brown-grey-1639517943.md",
+   "json": "items/colorpalette/t1-palette-01-brown-grey-1639517943.json"
+  },
+  {
+   "id": 2299237068,
+   "name": "T1 Palette 04 Brown blue grey",
+   "page": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.md",
+   "json": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.json"
+  },
+  {
+   "id": 103217131,
+   "name": "T1 Palette 03 Brown dark grey",
+   "page": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.md",
+   "json": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.json"
+  },
+  {
+   "id": 3403995938,
+   "name": "Goo",
+   "page": "items/materials/goo-3403995938.md",
+   "json": "items/materials/goo-3403995938.json"
+  },
+  {
+   "id": 968828649,
+   "name": "Tbd T1 Palette 01 Reward A Fancy Outlook",
+   "page": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.md",
+   "json": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.json"
+  },
+  {
+   "id": 3962501836,
+   "name": "Glow Dirt WarmWhite",
+   "page": "items/materials/glow-dirt-warmwhite-3962501836.md",
+   "json": "items/materials/glow-dirt-warmwhite-3962501836.json"
+  },
+  {
+   "id": 4111981896,
+   "name": "Crucible",
+   "page": "items/buildtools/crucible-4111981896.md",
+   "json": "items/buildtools/crucible-4111981896.json"
+  },
+  {
+   "id": 1823674426,
+   "name": "Farm Soil",
+   "page": "items/materials/farm-soil-1823674426.md",
+   "json": "items/materials/farm-soil-1823674426.json"
+  },
+  {
+   "id": 2517406505,
+   "name": "Fertile Grassland Dirt",
+   "page": "items/materials/fertile-grassland-dirt-2517406505.md",
+   "json": "items/materials/fertile-grassland-dirt-2517406505.json"
+  },
+  {
+   "id": 4233423640,
+   "name": "Grassland Rubble",
+   "page": "items/materials/grassland-rubble-4233423640.md",
+   "json": "items/materials/grassland-rubble-4233423640.json"
+  }
+ ],
+ "page": "items/materials/dirt-1558115984.md"
+}

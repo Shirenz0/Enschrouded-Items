@@ -1,0 +1,70 @@
+{
+ "id": 968828649,
+ "name": "Tbd T1 Palette 01 Reward A Fancy Outlook",
+ "internalName": "ColorPalette_T1_ColorPalette_Reward_01",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/968828649.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "tbd description reward 01 description",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1616078080,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2530601241,
+      "name": "Red Marble fragment",
+      "page": "items/materials/red-marble-fragment-2530601241.md",
+      "json": "items/materials/red-marble-fragment-2530601241.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.md"
+}

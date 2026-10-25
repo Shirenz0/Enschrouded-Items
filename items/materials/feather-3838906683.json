@@ -1,0 +1,219 @@
+{
+ "id": 3838906683,
+ "name": "Feather",
+ "internalName": "Material_T3_Feather",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/3838906683.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A feather of a bird or creatures of some kind. Almost as light as air, it has to be useful for something.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands and Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2519697782,
+   "name": "Celesthium Steel Arrow",
+   "page": "items/ammunition/celesthium-steel-arrow-2519697782.md",
+   "json": "items/ammunition/celesthium-steel-arrow-2519697782.json"
+  },
+  {
+   "id": 832661139,
+   "name": "Moonstone Piercing Arrow",
+   "page": "items/ammunition/moonstone-piercing-arrow-832661139.md",
+   "json": "items/ammunition/moonstone-piercing-arrow-832661139.json"
+  },
+  {
+   "id": 3634108976,
+   "name": "Golden Steel Arrow",
+   "page": "items/ammunition/golden-steel-arrow-3634108976.md",
+   "json": "items/ammunition/golden-steel-arrow-3634108976.json"
+  },
+  {
+   "id": 3559583218,
+   "name": "Steel Arrow",
+   "page": "items/ammunition/steel-arrow-3559583218.md",
+   "json": "items/ammunition/steel-arrow-3559583218.json"
+  },
+  {
+   "id": 2172551026,
+   "name": "Obsidian Arrow",
+   "page": "items/ammunition/obsidian-arrow-2172551026.md",
+   "json": "items/ammunition/obsidian-arrow-2172551026.json"
+  },
+  {
+   "id": 1454438654,
+   "name": "Iron Arrow",
+   "page": "items/ammunition/iron-arrow-1454438654.md",
+   "json": "items/ammunition/iron-arrow-1454438654.json"
+  },
+  {
+   "id": 3990911183,
+   "name": "Bronze Arrow",
+   "page": "items/ammunition/bronze-arrow-3990911183.md",
+   "json": "items/ammunition/bronze-arrow-3990911183.json"
+  },
+  {
+   "id": 1536235498,
+   "name": "Fossilized Bone Arrow",
+   "page": "items/ammunition/fossilized-bone-arrow-1536235498.md",
+   "json": "items/ammunition/fossilized-bone-arrow-1536235498.json"
+  },
+  {
+   "id": 4160116201,
+   "name": "Exploding Arrow IV",
+   "page": "items/ammunition/exploding-arrow-iv-4160116201.md",
+   "json": "items/ammunition/exploding-arrow-iv-4160116201.json"
+  },
+  {
+   "id": 3342011345,
+   "name": "Exploding Arrow III",
+   "page": "items/ammunition/exploding-arrow-iii-3342011345.md",
+   "json": "items/ammunition/exploding-arrow-iii-3342011345.json"
+  },
+  {
+   "id": 1038927419,
+   "name": "Exploding Arrow II",
+   "page": "items/ammunition/exploding-arrow-ii-1038927419.md",
+   "json": "items/ammunition/exploding-arrow-ii-1038927419.json"
+  },
+  {
+   "id": 1236068115,
+   "name": "T3 Ranger Legs",
+   "page": "items/equipment/t3-ranger-legs-1236068115.md",
+   "json": "items/equipment/t3-ranger-legs-1236068115.json"
+  },
+  {
+   "id": 383069883,
+   "name": "T3 Ranger Arms",
+   "page": "items/equipment/t3-ranger-arms-383069883.md",
+   "json": "items/equipment/t3-ranger-arms-383069883.json"
+  },
+  {
+   "id": 2255840984,
+   "name": "T3 Ranger Chest",
+   "page": "items/equipment/t3-ranger-chest-2255840984.md",
+   "json": "items/equipment/t3-ranger-chest-2255840984.json"
+  },
+  {
+   "id": 1184502832,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-1184502832.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1184502832.json"
+  },
+  {
+   "id": 3281783103,
+   "name": "T3 Archer Legs",
+   "page": "items/equipment/t3-archer-legs-3281783103.md",
+   "json": "items/equipment/t3-archer-legs-3281783103.json"
+  },
+  {
+   "id": 699269342,
+   "name": "T3 Archer Arms",
+   "page": "items/equipment/t3-archer-arms-699269342.md",
+   "json": "items/equipment/t3-archer-arms-699269342.json"
+  },
+  {
+   "id": 2301277967,
+   "name": "T3 Archer Chest",
+   "page": "items/equipment/t3-archer-chest-2301277967.md",
+   "json": "items/equipment/t3-archer-chest-2301277967.json"
+  },
+  {
+   "id": 1822528443,
+   "name": "T3 Archer Helmet",
+   "page": "items/equipment/t3-archer-helmet-1822528443.md",
+   "json": "items/equipment/t3-archer-helmet-1822528443.json"
+  },
+  {
+   "id": 1365818369,
+   "name": "T3 Tank Legs",
+   "page": "items/equipment/t3-tank-legs-1365818369.md",
+   "json": "items/equipment/t3-tank-legs-1365818369.json"
+  },
+  {
+   "id": 1150388410,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-1150388410.md",
+   "json": "items/equipment/warrior-fog-protection-armor-1150388410.json"
+  },
+  {
+   "id": 970794453,
+   "name": "Skull Trophy I",
+   "page": "items/buildtools/skull-trophy-i-970794453.md",
+   "json": "items/buildtools/skull-trophy-i-970794453.json"
+  },
+  {
+   "id": 4107716547,
+   "name": "Skull Trophy II",
+   "page": "items/buildtools/skull-trophy-ii-4107716547.md",
+   "json": "items/buildtools/skull-trophy-ii-4107716547.json"
+  },
+  {
+   "id": 1224911612,
+   "name": "Skull Trophy III",
+   "page": "items/buildtools/skull-trophy-iii-1224911612.md",
+   "json": "items/buildtools/skull-trophy-iii-1224911612.json"
+  },
+  {
+   "id": 589861897,
+   "name": "Skull Trophy IV",
+   "page": "items/buildtools/skull-trophy-iv-589861897.md",
+   "json": "items/buildtools/skull-trophy-iv-589861897.json"
+  },
+  {
+   "id": 698608775,
+   "name": "Skull Trophy V",
+   "page": "items/buildtools/skull-trophy-v-698608775.md",
+   "json": "items/buildtools/skull-trophy-v-698608775.json"
+  },
+  {
+   "id": 3043055061,
+   "name": "Skull Trophy VI",
+   "page": "items/buildtools/skull-trophy-vi-3043055061.md",
+   "json": "items/buildtools/skull-trophy-vi-3043055061.json"
+  },
+  {
+   "id": 3024345321,
+   "name": "Heart Pillow",
+   "page": "items/buildtools/heart-pillow-3024345321.md",
+   "json": "items/buildtools/heart-pillow-3024345321.json"
+  },
+  {
+   "id": 888761991,
+   "name": "Hophare Pillow",
+   "page": "items/buildtools/hophare-pillow-888761991.md",
+   "json": "items/buildtools/hophare-pillow-888761991.json"
+  },
+  {
+   "id": 1936163292,
+   "name": "Fae Deer Pillow",
+   "page": "items/buildtools/fae-deer-pillow-1936163292.md",
+   "json": "items/buildtools/fae-deer-pillow-1936163292.json"
+  },
+  {
+   "id": 1568297956,
+   "name": "Flightless Redtail Pillow",
+   "page": "items/buildtools/flightless-redtail-pillow-1568297956.md",
+   "json": "items/buildtools/flightless-redtail-pillow-1568297956.json"
+  },
+  {
+   "id": 3063700121,
+   "name": "Cylindrical Pillow",
+   "page": "items/buildtools/cylindrical-pillow-3063700121.md",
+   "json": "items/buildtools/cylindrical-pillow-3063700121.json"
+  }
+ ],
+ "page": "items/materials/feather-3838906683.md"
+}

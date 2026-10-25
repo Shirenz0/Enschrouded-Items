@@ -1,0 +1,67 @@
+{
+ "id": 691231505,
+ "name": "Shield",
+ "internalName": "Shield_T0_Wooden",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 3,
+  "max": 3
+ },
+ "maxStack": 1,
+ "image": "images/icons/691231505.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This makeshift shield allows you to **block** physical attacks. Blocking drains Stamina.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/shield.md",
+  "json": "objects/equipment/shield.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 480492255,
+   "station": null,
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/shield-691231505.md"
+}

@@ -17,4 +17,4 @@ This golden urn has multiple sigils inscribed in it. Their meaning far exceeds y
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](inscribed-golden-urn-347801797.json)

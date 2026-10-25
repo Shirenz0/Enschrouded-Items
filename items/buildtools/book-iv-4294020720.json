@@ -1,0 +1,51 @@
+{
+ "id": 4294020720,
+ "name": "Book IV",
+ "internalName": "Prop_Decoration_Book_11",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/4294020720.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Book. Conveyer of Thougt. Foundation of Progress. Expanders of Minds. Vessel of Knowledge. Bonfire of imagination.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 912350331,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 2610555646,
+       "name": "Old Books",
+       "page": "items/materials/old-books-2610555646.md",
+       "json": "items/materials/old-books-2610555646.json"
+      },
+      {
+       "id": 287018928,
+       "name": "Paper",
+       "page": "items/materials/paper-287018928.md",
+       "json": "items/materials/paper-287018928.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/book-iv-4294020720.md"
+}

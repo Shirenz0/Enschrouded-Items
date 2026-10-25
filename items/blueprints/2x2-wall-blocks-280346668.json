@@ -1,0 +1,25 @@
+{
+ "id": 280346668,
+ "name": "2x2 Wall Blocks",
+ "internalName": "Blueprint_Voxel_Block_1m",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/blueprints/2x2-wall-blocks-280346668.md"
+}

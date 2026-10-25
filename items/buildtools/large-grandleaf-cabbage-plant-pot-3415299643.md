@@ -25,4 +25,4 @@ An ancient potted plant. This one can be displayed in the Cultivation Rack
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](large-grandleaf-cabbage-plant-pot-3415299643.json)

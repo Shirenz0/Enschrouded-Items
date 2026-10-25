@@ -17,4 +17,4 @@ A lonely gastropod, sitting peacefully on a rock.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](single-gastropod-1434339102.json)

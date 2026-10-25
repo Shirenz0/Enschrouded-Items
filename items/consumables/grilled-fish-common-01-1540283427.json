@@ -1,0 +1,73 @@
+{
+ "id": 1540283427,
+ "name": "Grilled Fish Common 01",
+ "internalName": "_Food_grilled_T1_fish_common_01",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 30,
+ "image": "images/icons/1540283427.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "delicious grilled fish - increases health and diving time",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 900000,
+    "display": "15:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Maximum Oxygen",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2731741466,
+   "station": "Medieval Grill",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2004880509,
+      "name": "Fish common 01 name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-fish-common-01-1540283427.md"
+}

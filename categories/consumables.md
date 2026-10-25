@@ -205,4 +205,4 @@
 | <img src="../images/icons/1683685602.png" width="48"> | [Yellow Shroud Mushroom](../items/consumables/yellow-shroud-mushroom-1683685602.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2008478235.png" width="48"> | [Yucca Fruit](../items/consumables/yucca-fruit-2008478235.md) | ⚪ Common | - | 20 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](consumables.json)

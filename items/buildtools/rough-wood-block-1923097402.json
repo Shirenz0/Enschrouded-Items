@@ -1,0 +1,29 @@
+{
+ "id": 1923097402,
+ "name": "Rough Wood Block",
+ "internalName": "quest_reward_icon_chest_gold",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1923097402.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A basic material for construction designated to survival. It's not pretty, but does the job!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/rough-wood-block.md",
+  "json": "objects/buildtools/rough-wood-block.json",
+  "versions": 5
+ },
+ "page": "items/buildtools/rough-wood-block-1923097402.md"
+}

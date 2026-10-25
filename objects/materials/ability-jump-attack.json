@@ -1,0 +1,66 @@
+{
+ "name": "Ability Jump Attack",
+ "category": "Materials",
+ "image": null,
+ "versions": 5,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1344255132,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-1344255132.md",
+   "json": "items/materials/ability-jump-attack-1344255132.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2074570486,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-2074570486.md",
+   "json": "items/materials/ability-jump-attack-2074570486.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2513764139,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-2513764139.md",
+   "json": "items/materials/ability-jump-attack-2513764139.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3118661324,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-3118661324.md",
+   "json": "items/materials/ability-jump-attack-3118661324.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3692920423,
+   "name": "Ability Jump Attack",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/ability-jump-attack-3692920423.md",
+   "json": "items/materials/ability-jump-attack-3692920423.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/materials/ability-jump-attack.md"
+}

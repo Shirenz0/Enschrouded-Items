@@ -1,0 +1,25 @@
+{
+ "id": 2159713419,
+ "name": "Ramone Jones",
+ "internalName": "NPC_Townsfolk_Male_Villager_02_RamoneJones",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "A helpful townsfolk that will work and live in your base.",
+ "lore": "Villager",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/ramone-jones-2159713419.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "T4 Mage Boots",
+ "category": "Equipment",
+ "image": "images/icons/2185477815.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1953528963,
+   "name": "T4 Mage Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1953528963.png",
+   "page": "items/equipment/t4-mage-boots-1953528963.md",
+   "json": "items/equipment/t4-mage-boots-1953528963.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2185477815,
+   "name": "T4 Mage Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2185477815.png",
+   "page": "items/equipment/t4-mage-boots-2185477815.md",
+   "json": "items/equipment/t4-mage-boots-2185477815.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-mage-boots.md"
+}

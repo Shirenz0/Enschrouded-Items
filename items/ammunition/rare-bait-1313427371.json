@@ -1,0 +1,82 @@
+{
+ "id": 1313427371,
+ "name": "Rare Bait",
+ "internalName": "Material_T6_03RARE_FishingBait_Improved",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1313427371.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This special mix drives rare fish wild and makes it easy for you, to catch them.",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "recipes": [
+  {
+   "recipeId": 3641156499,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 700318057,
+      "name": "Desert Bug",
+      "page": "items/ammunition/desert-bug-700318057.md",
+      "json": "items/ammunition/desert-bug-700318057.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4230368891,
+      "name": "Capybara Bristles",
+      "page": "items/materials/capybara-bristles-4230368891.md",
+      "json": "items/materials/capybara-bristles-4230368891.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2352305513,
+      "name": "Fish Teeth",
+      "page": "items/materials/fish-teeth-2352305513.md",
+      "json": "items/materials/fish-teeth-2352305513.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1951407227,
+      "name": "Mountains Insect",
+      "page": "items/ammunition/mountains-insect-1951407227.md",
+      "json": "items/ammunition/mountains-insect-1951407227.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/ammunition/rare-bait-1313427371.md"
+}

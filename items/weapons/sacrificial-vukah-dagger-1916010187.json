@@ -1,0 +1,122 @@
+{
+ "id": 1916010187,
+ "name": "Sacrificial Vukah Dagger",
+ "internalName": "Craft_Weapon_T6_2H_Lore_Daggers_townsfolk_female_02_hint_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/1916010187.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A crude dagger, previously used by a Vukah.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/sacrificial-vukah-dagger.md",
+  "json": "objects/weapons/sacrificial-vukah-dagger.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 50,
+   "Poison": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 400,
+    "display": "0.4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Health Leech",
+   "effect": "+8 Health Leech"
+  },
+  {
+   "order": 3,
+   "name": "Poisonous",
+   "effect": "5% chance to poison the target"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1788215628,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 18,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 18,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/sacrificial-vukah-dagger-1916010187.md"
+}

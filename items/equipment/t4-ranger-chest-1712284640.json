@@ -1,0 +1,77 @@
+{
+ "id": 1712284640,
+ "name": "T4 Ranger Chest",
+ "internalName": "Armor_T4_Ranger_Archer_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1712284640.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Every movement is softened and muted whilst clad in this upper body armor.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-ranger-chest.md",
+  "json": "objects/equipment/t4-ranger-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Vitality Surge",
+   "effect": "Increases the skill level of Vitality Surge by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Ranger",
+   "effect": "Increases the skill level of Ranger by +1"
+  }
+ ],
+ "page": "items/equipment/t4-ranger-chest-1712284640.md"
+}

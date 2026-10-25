@@ -27,4 +27,4 @@ A simple headcovering  to soak up some of that pesky sweat. Keeps your precious 
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](blacksmith-hat-3308197043.json)

@@ -1,0 +1,73 @@
+{
+ "id": 173909852,
+ "name": "T3 Wizard Boots",
+ "internalName": "Armor_T3_Mage_BattleWand_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/173909852.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Elegant boots with blue accents.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Timeout Reduction",
+    "value": -300,
+    "display": "-0.3 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Frost",
+   "effect": "Increases the skill level of Frost by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+9 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Ice Resistance",
+   "effect": "Increases the skill level of Ice Resistance by +1"
+  }
+ ],
+ "page": "items/equipment/t3-wizard-boots-173909852.md"
+}

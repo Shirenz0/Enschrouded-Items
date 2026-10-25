@@ -18,4 +18,4 @@ Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a 
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](lord-vorgoth-s-sword.json)

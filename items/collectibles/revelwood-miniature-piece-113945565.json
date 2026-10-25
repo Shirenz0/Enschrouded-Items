@@ -1,0 +1,25 @@
+{
+ "id": 113945565,
+ "name": "Revelwood Miniature Piece",
+ "internalName": "Collection_Worldmap_Deepforest",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/113945565.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A miniature piece that shows the Revelwood, part of the Kingdom of Meldore. It used to be a rich and vibrant area before abuse of the Elixir rotted the roots.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/revelwood-miniature-piece-113945565.md"
+}

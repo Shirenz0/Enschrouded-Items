@@ -20,4 +20,4 @@ This Farmbed can be filled with Dirt, Sand or Soil to grow plants.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](empty-farmbed.json)

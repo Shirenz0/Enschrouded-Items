@@ -1,0 +1,66 @@
+{
+ "id": 4046432840,
+ "name": "Copper Arrow",
+ "internalName": "Ammo_T2_Arrow_Copper_lvl12",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 12,
+  "max": 12
+ },
+ "maxStack": 500,
+ "image": "images/icons/4046432840.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An arrow amplified with a tip made out of copper.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 1017620206,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2919301642,
+   "name": "Copper Poison Arrow",
+   "page": "items/ammunition/copper-poison-arrow-2919301642.md",
+   "json": "items/ammunition/copper-poison-arrow-2919301642.json"
+  }
+ ],
+ "page": "items/ammunition/copper-arrow-4046432840.md"
+}

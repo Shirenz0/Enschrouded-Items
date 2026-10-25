@@ -17,4 +17,4 @@ This sturdy mercenary helmet protects your eyes and hides your expression, makin
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-dps-helmet.json)

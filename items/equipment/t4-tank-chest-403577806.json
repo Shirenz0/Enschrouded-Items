@@ -1,0 +1,131 @@
+{
+ "id": 403577806,
+ "name": "T4 Tank Chest",
+ "internalName": "Armor_T4_Warrior_Tank_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/403577806.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An incredibly sturdy chestpiece, often worn by generals or select members of the royal guard. It inspired fear as much as respect.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-tank-chest.md",
+  "json": "objects/equipment/t4-tank-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Heavy Plates",
+   "effect": "Increases the skill level of Heavy Plates by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1264268443,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2287874170,
+      "name": "Green Fabric",
+      "page": "items/materials/green-fabric-2287874170.md",
+      "json": "items/materials/green-fabric-2287874170.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 536984995,
+      "name": "Fell Heart",
+      "page": "items/materials/fell-heart-536984995.md",
+      "json": "items/materials/fell-heart-536984995.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3095665634,
+      "name": "Fossilized Bone",
+      "page": "items/materials/fossilized-bone-3095665634.md",
+      "json": "items/materials/fossilized-bone-3095665634.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-tank-chest-403577806.md"
+}

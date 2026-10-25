@@ -1,0 +1,60 @@
+{
+ "id": 2875012578,
+ "name": "Desert Temple Block",
+ "internalName": "Block_T4_Dungeon_Sandstone_Temple_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2875012578.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A sandblock of an ancient style, representing the architectural elements of the desert temples.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3354828865,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 1401630464,
+      "name": "Sandstone",
+      "page": "items/materials/sandstone-1401630464.md",
+      "json": "items/materials/sandstone-1401630464.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3649373448,
+   "name": "Secret Sandstone Door",
+   "page": "items/buildtools/secret-sandstone-door-3649373448.md",
+   "json": "items/buildtools/secret-sandstone-door-3649373448.json"
+  }
+ ],
+ "page": "items/buildtools/desert-temple-block-2875012578.md"
+}

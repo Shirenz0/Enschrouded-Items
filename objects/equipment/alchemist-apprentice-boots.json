@@ -1,0 +1,35 @@
+{
+ "name": "Alchemist Apprentice Boots",
+ "category": "Equipment",
+ "image": "images/icons/3648424321.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1513594761,
+   "name": "Alchemist Apprentice Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1513594761.png",
+   "page": "items/equipment/alchemist-apprentice-boots-1513594761.md",
+   "json": "items/equipment/alchemist-apprentice-boots-1513594761.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3648424321,
+   "name": "Alchemist Apprentice Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3648424321.png",
+   "page": "items/equipment/alchemist-apprentice-boots-3648424321.md",
+   "json": "items/equipment/alchemist-apprentice-boots-3648424321.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/alchemist-apprentice-boots.md"
+}

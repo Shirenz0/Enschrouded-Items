@@ -17,4 +17,4 @@ The metal adornment on this hood faintly resemmles a hawk.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-archer-helmet.json)

@@ -1,0 +1,77 @@
+{
+ "id": 2953898739,
+ "name": "T3 Mage Helmet",
+ "internalName": "Armor_T3_Mage_Wizard_DPS_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2953898739.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This magician's head frames the wearer's face with a lucious golden rim.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-mage-helmet.md",
+  "json": "objects/equipment/t3-mage-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 11,
+    "display": "11",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+12 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thunder",
+   "effect": "Increases the skill level of Thunder by +1"
+  }
+ ],
+ "page": "items/equipment/t3-mage-helmet-2953898739.md"
+}

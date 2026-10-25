@@ -1,0 +1,25 @@
+{
+ "id": 3189586762,
+ "name": "Block Dismantle 4x4",
+ "internalName": "BuildTool_Block_Remove_4x4",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3189586762.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/block-dismantle-4x4-3189586762.md"
+}

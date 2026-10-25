@@ -1,0 +1,77 @@
+{
+ "id": 3397322687,
+ "name": "T3 Healer Legs",
+ "internalName": "Armor_T3_Mage_Healer_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/3397322687.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Some plain herbalist pants. They smell of rosemary and thyme.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-healer-legs.md",
+  "json": "objects/equipment/t3-healer-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 27,
+    "display": "27",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Revive Duration",
+    "value": 11,
+    "display": "0.011 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Healing Revive",
+   "effect": "Increases the skill level of Healing Revive by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Healing Revive",
+   "effect": "Increases the skill level of Healing Revive by +1"
+  }
+ ],
+ "page": "items/equipment/t3-healer-legs-3397322687.md"
+}

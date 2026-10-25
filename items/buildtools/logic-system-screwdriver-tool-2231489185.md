@@ -21,4 +21,4 @@ The logic system screwdriver tool, I don't know what it's used for, but needs a 
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](logic-system-screwdriver-tool-2231489185.json)

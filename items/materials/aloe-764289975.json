@@ -1,0 +1,69 @@
+{
+ "id": 764289975,
+ "name": "Aloe",
+ "internalName": "Material_T4_Aloe",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/764289975.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This desert plant contains a slimy liquid, which is know to have medical applications. Maybe it has some use with the help of some alchemy...",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3702644205,
+   "name": "Revitalizing Health Potion",
+   "page": "items/consumables/revitalizing-health-potion-3702644205.md",
+   "json": "items/consumables/revitalizing-health-potion-3702644205.json"
+  },
+  {
+   "id": 2337136795,
+   "name": "T4 Eternal Heal Channel I",
+   "page": "items/ammunition/t4-eternal-heal-channel-i-2337136795.md",
+   "json": "items/ammunition/t4-eternal-heal-channel-i-2337136795.json"
+  },
+  {
+   "id": 526064074,
+   "name": "Aloe Seedling",
+   "page": "items/buildtools/aloe-seedling-526064074.md",
+   "json": "items/buildtools/aloe-seedling-526064074.json"
+  },
+  {
+   "id": 219898735,
+   "name": "T4 BattleMage boote",
+   "page": "items/equipment/t4-battlemage-boote-219898735.md",
+   "json": "items/equipment/t4-battlemage-boote-219898735.json"
+  },
+  {
+   "id": 1567003886,
+   "name": "T4 DPS Chest",
+   "page": "items/equipment/t4-dps-chest-1567003886.md",
+   "json": "items/equipment/t4-dps-chest-1567003886.json"
+  },
+  {
+   "id": 3183764632,
+   "name": "T4 Healer Legs",
+   "page": "items/equipment/t4-healer-legs-3183764632.md",
+   "json": "items/equipment/t4-healer-legs-3183764632.json"
+  },
+  {
+   "id": 1299163561,
+   "name": "T4 Mage Chest",
+   "page": "items/equipment/t4-mage-chest-1299163561.md",
+   "json": "items/equipment/t4-mage-chest-1299163561.json"
+  }
+ ],
+ "page": "items/materials/aloe-764289975.md"
+}

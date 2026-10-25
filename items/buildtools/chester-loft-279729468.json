@@ -1,0 +1,25 @@
+{
+ "id": 279729468,
+ "name": "Chester Loft",
+ "internalName": "NPC_Assistant_Crafter_bard_01_ChesterLoft",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "A helpful townsfolk that will work and live in your base.",
+ "lore": "Crafting Assistant",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/chester-loft-279729468.md"
+}

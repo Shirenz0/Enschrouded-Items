@@ -1,0 +1,61 @@
+{
+ "id": 4044361518,
+ "name": "Fertile AncientLand T7 Dirt",
+ "internalName": "Build_TerrainMaterial_T7_AncientLand_fertile_Highgrass",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/4044361518.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2001978545,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 885155884,
+      "name": "T7 material stone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2851443310,
+      "name": "T7 material Ancient Land granite stone",
+      "page": "items/materials/t7-material-ancient-land-granite-stone-2851443310.md",
+      "json": "items/materials/t7-material-ancient-land-granite-stone-2851443310.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 2421105715,
+      "name": "T7 AncientLand Dirt",
+      "page": "items/materials/t7-ancientland-dirt-2421105715.md",
+      "json": "items/materials/t7-ancientland-dirt-2421105715.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/fertile-ancientland-t7-dirt-4044361518.md"
+}

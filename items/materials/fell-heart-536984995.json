@@ -1,0 +1,93 @@
+{
+ "id": 536984995,
+ "name": "Fell Heart",
+ "internalName": "Material_T4_ShroudHeart",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/536984995.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A pulsating core harvested from the Spore Head, still radiating with lingering Shroud magic. Its potent essence is a key ingredient in crafting resilient armor and powerful healing spells.",
+ "lore": null,
+ "whereToFind": "Fell Sporehead, First: Kindlewastes Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1087441899,
+   "name": "T4 Heal Beam Channel",
+   "page": "items/ammunition/t4-heal-beam-channel-1087441899.md",
+   "json": "items/ammunition/t4-heal-beam-channel-1087441899.json"
+  },
+  {
+   "id": 2418290854,
+   "name": "Ethereal Plane",
+   "page": "items/equipment/ethereal-plane-2418290854.md",
+   "json": "items/equipment/ethereal-plane-2418290854.json"
+  },
+  {
+   "id": 2802395209,
+   "name": "T4 Assassin Chest",
+   "page": "items/equipment/t4-assassin-chest-2802395209.md",
+   "json": "items/equipment/t4-assassin-chest-2802395209.json"
+  },
+  {
+   "id": 1331200386,
+   "name": "T4 BattleMage Chest",
+   "page": "items/equipment/t4-battlemage-chest-1331200386.md",
+   "json": "items/equipment/t4-battlemage-chest-1331200386.json"
+  },
+  {
+   "id": 1567003886,
+   "name": "T4 DPS Chest",
+   "page": "items/equipment/t4-dps-chest-1567003886.md",
+   "json": "items/equipment/t4-dps-chest-1567003886.json"
+  },
+  {
+   "id": 1947086683,
+   "name": "T4 Healer Chest",
+   "page": "items/equipment/t4-healer-chest-1947086683.md",
+   "json": "items/equipment/t4-healer-chest-1947086683.json"
+  },
+  {
+   "id": 1299163561,
+   "name": "T4 Mage Chest",
+   "page": "items/equipment/t4-mage-chest-1299163561.md",
+   "json": "items/equipment/t4-mage-chest-1299163561.json"
+  },
+  {
+   "id": 960184859,
+   "name": "T4 Ranger Chest",
+   "page": "items/equipment/t4-ranger-chest-960184859.md",
+   "json": "items/equipment/t4-ranger-chest-960184859.json"
+  },
+  {
+   "id": 1676245323,
+   "name": "T4 Rogue Chest",
+   "page": "items/equipment/t4-rogue-chest-1676245323.md",
+   "json": "items/equipment/t4-rogue-chest-1676245323.json"
+  },
+  {
+   "id": 3452463502,
+   "name": "T4 Sniper Chest",
+   "page": "items/equipment/t4-sniper-chest-3452463502.md",
+   "json": "items/equipment/t4-sniper-chest-3452463502.json"
+  },
+  {
+   "id": 403577806,
+   "name": "T4 Tank Chest",
+   "page": "items/equipment/t4-tank-chest-403577806.md",
+   "json": "items/equipment/t4-tank-chest-403577806.json"
+  }
+ ],
+ "page": "items/materials/fell-heart-536984995.md"
+}

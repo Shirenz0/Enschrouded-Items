@@ -1,0 +1,63 @@
+{
+ "id": 875842012,
+ "name": "T1 Fire Bolt II",
+ "internalName": "Ammo_T1_Spell_Fire_Bolt_lvl5",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 500,
+ "image": "images/icons/875842012.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that ignites a single firebolt, dealing damage to a single target.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 29,
+    "display": "29",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 750,
+    "display": "0.75 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 632564278,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t1-fire-bolt-ii-875842012.md"
+}

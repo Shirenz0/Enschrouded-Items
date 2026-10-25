@@ -1,0 +1,35 @@
+{
+ "id": 3203632506,
+ "name": "Iron Scavenger Desert Heavy Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Scavenger_Desert_Heavy_03_iron",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/3203632506.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Scavenger Desert Heavy Head. Collect multiple to craft the iron trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/iron-scavenger-desert-heavy-trophy-3203632506.md"
+}

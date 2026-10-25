@@ -179,4 +179,4 @@
 | <img src="../images/icons/2956941513.png" width="48"> | [Wooden Arrow](../items/ammunition/wooden-arrow-2956941513.md) | ⚪ Common | 3 | 500 |
 | <img src="../images/icons/2482366505.png" width="48"> | [Worms](../items/ammunition/worms-2482366505.md) | ⚪ Common | 45 | 250 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](ammunition.json)

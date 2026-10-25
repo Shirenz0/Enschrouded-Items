@@ -1,0 +1,72 @@
+{
+ "id": 2583959345,
+ "name": "T6 Fire Bolt VII",
+ "internalName": "Ammo_T6_Spell_Fire_Bolt_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 500,
+ "image": "images/icons/2583959345.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that ignites a single firebolt, dealing damage to a single target.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 143,
+    "display": "143",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 750,
+    "display": "0.75 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1735991370,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1476017101,
+      "name": "Aquamarine",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t6-fire-bolt-vii-2583959345.md"
+}

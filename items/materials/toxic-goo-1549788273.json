@@ -1,0 +1,33 @@
+{
+ "id": 1549788273,
+ "name": "Toxic Goo",
+ "internalName": "Material_T1_Toxic_Goo",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1549788273.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Mined from the deadly waste found in hollow halls. Do not ingest!",
+ "lore": null,
+ "whereToFind": "Mining, Hollow Halls",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2149011961,
+   "name": "Glow Dirt Green",
+   "page": "items/materials/glow-dirt-green-2149011961.md",
+   "json": "items/materials/glow-dirt-green-2149011961.json"
+  }
+ ],
+ "page": "items/materials/toxic-goo-1549788273.md"
+}

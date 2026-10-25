@@ -1,0 +1,77 @@
+{
+ "id": 224726586,
+ "name": "T3 DPS Helmet",
+ "internalName": "Armor_T3_Warrior_DPS_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/224726586.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This sturdy mercenary helmet protects your eyes and hides your expression, making you appear fearless and intimidating.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-dps-helmet.md",
+  "json": "objects/equipment/t3-dps-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Melee Strike Chance",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 11,
+    "display": "11",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Barbarians Path",
+   "effect": "Increases the skill level of Barbarian's Path"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+9 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Brute",
+   "effect": "Increases the skill level of Brute by +1"
+  }
+ ],
+ "page": "items/equipment/t3-dps-helmet-224726586.md"
+}

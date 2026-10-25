@@ -1,0 +1,105 @@
+{
+ "id": 2530601241,
+ "name": "Red Marble fragment",
+ "internalName": "Material_T1_Red_Marble_Fragment",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 500,
+ "image": "images/icons/2530601241.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This might look simple, but if processed can turn into something beautiful.",
+ "lore": null,
+ "whereToFind": "Hollow Halls and Albaneve Summits",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2848160320,
+   "name": "HallowHalls Decorative Dungeon Block",
+   "page": "items/buildtools/hallowhalls-decorative-dungeon-block-2848160320.md",
+   "json": "items/buildtools/hallowhalls-decorative-dungeon-block-2848160320.json"
+  },
+  {
+   "id": 3721356294,
+   "name": "Red Marble Dungeon Block",
+   "page": "items/buildtools/red-marble-dungeon-block-3721356294.md",
+   "json": "items/buildtools/red-marble-dungeon-block-3721356294.json"
+  },
+  {
+   "id": 968828649,
+   "name": "Tbd T1 Palette 01 Reward A Fancy Outlook",
+   "page": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.md",
+   "json": "items/colorpalette/tbd-t1-palette-01-reward-a-fancy-outlook-968828649.json"
+  },
+  {
+   "id": 3708349200,
+   "name": "Table Large T2 Dungeon",
+   "page": "items/buildtools/table-large-t2-dungeon-3708349200.md",
+   "json": "items/buildtools/table-large-t2-dungeon-3708349200.json"
+  },
+  {
+   "id": 2950858301,
+   "name": "Table Medium T2 Dungeon",
+   "page": "items/buildtools/table-medium-t2-dungeon-2950858301.md",
+   "json": "items/buildtools/table-medium-t2-dungeon-2950858301.json"
+  },
+  {
+   "id": 2510133755,
+   "name": "Table Small T2 Dungeon",
+   "page": "items/buildtools/table-small-t2-dungeon-2510133755.md",
+   "json": "items/buildtools/table-small-t2-dungeon-2510133755.json"
+  },
+  {
+   "id": 1432860573,
+   "name": "Small Red Marble Arc",
+   "page": "items/buildtools/small-red-marble-arc-1432860573.md",
+   "json": "items/buildtools/small-red-marble-arc-1432860573.json"
+  },
+  {
+   "id": 554708154,
+   "name": "Large Red Marble Arc",
+   "page": "items/buildtools/large-red-marble-arc-554708154.md",
+   "json": "items/buildtools/large-red-marble-arc-554708154.json"
+  },
+  {
+   "id": 3497143920,
+   "name": "Red Marble Column",
+   "page": "items/buildtools/red-marble-column-3497143920.md",
+   "json": "items/buildtools/red-marble-column-3497143920.json"
+  },
+  {
+   "id": 202751450,
+   "name": "Red Marble Column Base I",
+   "page": "items/buildtools/red-marble-column-base-i-202751450.md",
+   "json": "items/buildtools/red-marble-column-base-i-202751450.json"
+  },
+  {
+   "id": 3900443252,
+   "name": "Red Marble Column Base II",
+   "page": "items/buildtools/red-marble-column-base-ii-3900443252.md",
+   "json": "items/buildtools/red-marble-column-base-ii-3900443252.json"
+  },
+  {
+   "id": 3316336574,
+   "name": "T2 Cupboard Dungeon Large",
+   "page": "items/buildtools/t2-cupboard-dungeon-large-3316336574.md",
+   "json": "items/buildtools/t2-cupboard-dungeon-large-3316336574.json"
+  },
+  {
+   "id": 2649776256,
+   "name": "T2 Cupboard Dungeon Small",
+   "page": "items/buildtools/t2-cupboard-dungeon-small-2649776256.md",
+   "json": "items/buildtools/t2-cupboard-dungeon-small-2649776256.json"
+  }
+ ],
+ "page": "items/materials/red-marble-fragment-2530601241.md"
+}

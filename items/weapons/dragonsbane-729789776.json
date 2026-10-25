@@ -1,0 +1,71 @@
+{
+ "id": 729789776,
+ "name": "Dragonsbane",
+ "internalName": "Weapon_T5_1H_Lore_AxeEpic_ministory_30",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/729789776.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe found inside the skullcap of a giant dragon skeleton.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/dragonsbane.md",
+  "json": "objects/weapons/dragonsbane.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 2,
+   "name": "Brutal",
+   "effect": "+20 Brutal"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  }
+ ],
+ "page": "items/weapons/dragonsbane-729789776.md"
+}

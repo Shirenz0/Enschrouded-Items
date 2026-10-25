@@ -1,0 +1,25 @@
+{
+ "id": 4146744324,
+ "name": "Balthazar",
+ "internalName": "NPC_Crafter_Alchemist01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "The alchemist Algur crafts potions and other consumables.",
+ "lore": "Survivor",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/balthazar-4146744324.md"
+}

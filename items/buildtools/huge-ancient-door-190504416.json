@@ -1,0 +1,52 @@
+{
+ "id": 190504416,
+ "name": "Huge Ancient Door",
+ "internalName": "Prop_Decoration_T7_Door_Huge_Ancient_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/190504416.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1431248134,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 57557573,
+      "name": "Ancient Circles Block",
+      "page": "items/buildtools/ancient-circles-block-57557573.md",
+      "json": "items/buildtools/ancient-circles-block-57557573.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/huge-ancient-door-190504416.md"
+}

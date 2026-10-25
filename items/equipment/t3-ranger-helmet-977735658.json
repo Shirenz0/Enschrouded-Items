@@ -1,0 +1,122 @@
+{
+ "id": 977735658,
+ "name": "T3 Ranger Helmet",
+ "internalName": "Armor_T3_Ranger_Archer_DPS_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/977735658.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Remain unseen and strike from the shadows with this formidable archer's hood.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-ranger-helmet.md",
+  "json": "objects/equipment/t3-ranger-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Strike Chance Ranged",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 11,
+    "display": "11",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Puncture",
+   "effect": "Increases the skill level of Puncture by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1673481136,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 342099111,
+      "name": "Shroud Jelly",
+      "page": "items/materials/shroud-jelly-342099111.md",
+      "json": "items/materials/shroud-jelly-342099111.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-ranger-helmet-977735658.md"
+}

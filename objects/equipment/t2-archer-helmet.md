@@ -17,4 +17,4 @@ A darkened hood which lets you blend into the woodland scenery more easily.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-archer-helmet.json)

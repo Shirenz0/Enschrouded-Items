@@ -1,0 +1,66 @@
+{
+ "id": 2770415595,
+ "name": "Wolf's Teeth",
+ "internalName": "Weapon_T2_1H_Sword_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2770415595.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "As sharp as a wolfs tooth and just as deadly. This blade carved its name into countless bodies in battle.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Merciless",
+   "effect": "+14 Merciless"
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+14 Brutal"
+  }
+ ],
+ "page": "items/weapons/wolf-s-teeth-2770415595.md"
+}

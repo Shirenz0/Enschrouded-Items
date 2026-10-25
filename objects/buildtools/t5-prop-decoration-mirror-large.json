@@ -1,0 +1,36 @@
+{
+ "name": "T5 Prop Decoration Mirror Large",
+ "category": "BuildTools",
+ "image": "images/icons/2659920887.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1101637290,
+   "name": "T5 Prop Decoration Mirror Large",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1101637290.png",
+   "page": "items/buildtools/t5-prop-decoration-mirror-large-1101637290.md",
+   "json": "items/buildtools/t5-prop-decoration-mirror-large-1101637290.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2659920887,
+   "name": "T5 Prop Decoration Mirror Large",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2659920887.png",
+   "page": "items/buildtools/t5-prop-decoration-mirror-large-2659920887.md",
+   "json": "items/buildtools/t5-prop-decoration-mirror-large-2659920887.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/t5-prop-decoration-mirror-large.md"
+}

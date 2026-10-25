@@ -1,0 +1,25 @@
+{
+ "id": 2406775744,
+ "name": "DLC SUpporter Warrior Banner Standing",
+ "internalName": "Prop_Decoration_DLC_Supporter_Warrior_Banner_Standing",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2406775744.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/dlc-supporter-warrior-banner-standing-2406775744.md"
+}

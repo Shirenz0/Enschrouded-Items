@@ -1,0 +1,71 @@
+{
+ "id": 3568382178,
+ "name": "Vorgoth Eye Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Vorgoth_Eye_01_wood",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/3568382178.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Vorgoth Eye. Collect multiple to craft the trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2273322285,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4036190833,
+      "name": "Vorgoth Eye",
+      "page": "items/materials/vorgoth-eye-4036190833.md",
+      "json": "items/materials/vorgoth-eye-4036190833.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/vorgoth-eye-trophy-3568382178.md"
+}

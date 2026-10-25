@@ -1,0 +1,35 @@
+{
+ "name": "Rising Fighter Trousers",
+ "category": "Equipment",
+ "image": "images/icons/680780934.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 4293917741,
+   "name": "Rising Fighter Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/4293917741.png",
+   "page": "items/equipment/rising-fighter-trousers-4293917741.md",
+   "json": "items/equipment/rising-fighter-trousers-4293917741.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 680780934,
+   "name": "Rising Fighter Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/680780934.png",
+   "page": "items/equipment/rising-fighter-trousers-680780934.md",
+   "json": "items/equipment/rising-fighter-trousers-680780934.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/rising-fighter-trousers.md"
+}

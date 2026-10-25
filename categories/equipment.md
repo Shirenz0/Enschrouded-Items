@@ -305,4 +305,4 @@
 | <img src="../images/icons/807077323.png" width="48"> | [T3 Archer Legs](../items/equipment/t3-archer-legs-807077323.md) | 🔵 Rare | 15 | 1 |
 | <img src="../images/icons/2202659557.png" width="48"> | [T3 DPS Arms](../items/equipment/t3-dps-arms-2202659557.md) | 🔵 Rare | 15 | 1 |
 
-[← All categories](../README.md) · page **1** · [2](equipment-2.md)
+[← All categories](../README.md) · page **1** · [2](equipment-2.md) · [JSON](equipment.json)

@@ -17,4 +17,4 @@ A special piece of cloth was added to this assassin hood to hide the wearer's fa
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-assassin-helmet.json)

@@ -1,0 +1,43 @@
+{
+ "id": 228876949,
+ "name": "T6 Lizard Temple Roof",
+ "internalName": "Block_Roof_T6_ShellLime_LizardTemple_Shingles_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/228876949.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Lizard Temple Roof description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1283614417,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/t6-lizard-temple-roof-228876949.md"
+}

@@ -1,0 +1,67 @@
+{
+ "id": 2949350669,
+ "name": "T4 Wizard Helmet",
+ "internalName": "Armor_T4_Mage_BattleSword_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2949350669.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This magical spellbinder's hat has been adorned with an azure gem, storing lunar power overnight.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Strike Chance",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+16 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Counter Strike",
+   "effect": "Increases the skill level of Counter Strike by +1"
+  }
+ ],
+ "page": "items/equipment/t4-wizard-helmet-2949350669.md"
+}

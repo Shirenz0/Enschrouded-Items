@@ -1,0 +1,104 @@
+{
+ "name": "Sacrificial Vukah Dagger",
+ "category": "Weapons",
+ "image": "images/icons/2860747780.png",
+ "versions": 8,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 876348272,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/876348272.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-876348272.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-876348272.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3108868150,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3108868150.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-3108868150.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-3108868150.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1072446832,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/1072446832.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-1072446832.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1072446832.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1155686002,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1155686002.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-1155686002.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1155686002.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3231907188,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3231907188.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-3231907188.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-3231907188.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1916010187,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1916010187.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-1916010187.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1916010187.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 764137977,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/764137977.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-764137977.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-764137977.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2860747780,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/2860747780.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-2860747780.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-2860747780.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/sacrificial-vukah-dagger.md"
+}

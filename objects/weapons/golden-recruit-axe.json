@@ -1,0 +1,49 @@
+{
+ "name": "Golden Recruit Axe",
+ "category": "Weapons",
+ "image": "images/icons/1464929321.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 2176171412,
+   "name": "Golden Recruit Axe",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2176171412.png",
+   "page": "items/weapons/golden-recruit-axe-2176171412.md",
+   "json": "items/weapons/golden-recruit-axe-2176171412.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 500747971,
+   "name": "Golden Recruit Axe",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/500747971.png",
+   "page": "items/weapons/golden-recruit-axe-500747971.md",
+   "json": "items/weapons/golden-recruit-axe-500747971.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1464929321,
+   "name": "Golden Recruit Axe",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1464929321.png",
+   "page": "items/weapons/golden-recruit-axe-1464929321.md",
+   "json": "items/weapons/golden-recruit-axe-1464929321.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/golden-recruit-axe.md"
+}

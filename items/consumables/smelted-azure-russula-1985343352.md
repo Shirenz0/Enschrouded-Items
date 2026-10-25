@@ -32,4 +32,4 @@ Tastes like water, but consists of pure magical liquid. Great power awaits the c
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](smelted-azure-russula-1985343352.json)

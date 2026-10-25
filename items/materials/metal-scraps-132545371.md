@@ -21,4 +21,4 @@ Rests of metal, stories of the war, that were behind as humanity lost. They migh
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](metal-scraps-132545371.json)

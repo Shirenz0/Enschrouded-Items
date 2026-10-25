@@ -1,0 +1,77 @@
+{
+ "id": 1526551450,
+ "name": "T4 Healer Chest",
+ "internalName": "Armor_T4_Mage_Healer_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1526551450.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An illustrious garb which almost shines brighter then the wearer's spirit.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-healer-chest.md",
+  "json": "objects/equipment/t4-healer-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Healing",
+    "value": 96,
+    "display": "96",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Water Aura",
+   "effect": "Increases the skill level of Water Aura by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "Shared Misery",
+   "effect": "Increases the skill level of Shared Misery"
+  }
+ ],
+ "page": "items/equipment/t4-healer-chest-1526551450.md"
+}

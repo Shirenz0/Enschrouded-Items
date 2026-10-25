@@ -1,0 +1,71 @@
+{
+ "id": 3153911934,
+ "name": "Jezmina's Apotheosis",
+ "internalName": "Weapon_T3_1H_Lore_AxeEpic_Ministory_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3153911934.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/jezmina-s-apotheosis.md",
+  "json": "objects/weapons/jezmina-s-apotheosis.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+16 Brutal"
+  }
+ ],
+ "page": "items/weapons/jezmina-s-apotheosis-3153911934.md"
+}

@@ -1,0 +1,32 @@
+{
+ "id": 3714498619,
+ "name": "T2 royal arms",
+ "internalName": "NO_Vanity_TX_Hunter_Gloves",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3714498619.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "royal arms desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-royal-arms.md",
+  "json": "objects/equipment/t2-royal-arms.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Hands"
+ },
+ "page": "items/equipment/t2-royal-arms-3714498619.md"
+}

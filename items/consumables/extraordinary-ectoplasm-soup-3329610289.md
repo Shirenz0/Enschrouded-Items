@@ -34,4 +34,4 @@ Crafting, Collector
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](extraordinary-ectoplasm-soup-3329610289.json)

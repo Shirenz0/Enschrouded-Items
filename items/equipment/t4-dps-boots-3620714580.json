@@ -1,0 +1,122 @@
+{
+ "id": 3620714580,
+ "name": "T4 DPS Boots",
+ "internalName": "Armor_T4_Warrior_Rogue_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3620714580.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It is clear that any person wearing these boots should not be messed with.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-dps-boots.md",
+  "json": "objects/equipment/t4-dps-boots.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -350,
+    "display": "-0.35 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Finesse",
+   "effect": "Increases the skill level of Finesse by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 272844329,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1172450293,
+      "name": "Shroud Sand",
+      "page": "items/materials/shroud-sand-1172450293.md",
+      "json": "items/materials/shroud-sand-1172450293.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-dps-boots-3620714580.md"
+}

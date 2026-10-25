@@ -17,4 +17,4 @@ The reinforced soles allow you to scale small cliffs or reach vantage points qui
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-archer-boots.json)

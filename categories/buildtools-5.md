@@ -305,4 +305,4 @@
 | <img src="../images/icons/2647171676.png" width="48"> | [Wide Carved Wooden Window Frame](../items/buildtools/wide-carved-wooden-window-frame-2647171676.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/33917198.png" width="48"> | [Wig Head](../items/buildtools/wig-head-33917198.md) | 🔵 Rare | - | 5 |
 
-[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · [3](buildtools-3.md) · [4](buildtools-4.md) · **5** · [6](buildtools-6.md)
+[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · [3](buildtools-3.md) · [4](buildtools-4.md) · **5** · [6](buildtools-6.md) · [JSON](buildtools-5.json)

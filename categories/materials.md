@@ -292,4 +292,4 @@
 | <img src="../images/icons/2837376937.png" width="48"> | [Wool](../items/materials/wool-2837376937.md) | ⚪ Common | 33 | 250 |
 | <img src="../images/icons/3436629486.png" width="48"> | [Yellow Fabric](../items/materials/yellow-fabric-3436629486.md) | ⚪ Common | 25 | 250 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](materials.json)

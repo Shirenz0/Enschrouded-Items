@@ -27,4 +27,4 @@ A severed Scavenger Deepforest Heavy Head. Collect multiple to craft the iron tr
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-scavenger-deepforest-heavy-trophy-2935086014.json)

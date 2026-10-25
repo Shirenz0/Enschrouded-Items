@@ -1,0 +1,35 @@
+{
+ "name": "T4 Healer Arms",
+ "category": "Equipment",
+ "image": "images/icons/1791031659.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1523925697,
+   "name": "T4 Healer Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1523925697.png",
+   "page": "items/equipment/t4-healer-arms-1523925697.md",
+   "json": "items/equipment/t4-healer-arms-1523925697.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1791031659,
+   "name": "T4 Healer Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1791031659.png",
+   "page": "items/equipment/t4-healer-arms-1791031659.md",
+   "json": "items/equipment/t4-healer-arms-1791031659.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-healer-arms.md"
+}

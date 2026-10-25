@@ -1,0 +1,75 @@
+{
+ "id": 2897843384,
+ "name": "Scrappy Lockpick",
+ "internalName": "Lockpick_Scrapy_T0-T4",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2897843384.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Opens a lock. (Hopefully)",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1383790953,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 3376734441,
+       "name": "T5 Obsidian",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 132545371,
+       "name": "Metal Scraps",
+       "page": "items/materials/metal-scraps-132545371.md",
+       "json": "items/materials/metal-scraps-132545371.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2876165776,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 3376734441,
+       "name": "T5 Obsidian",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 132545371,
+       "name": "Metal Scraps",
+       "page": "items/materials/metal-scraps-132545371.md",
+       "json": "items/materials/metal-scraps-132545371.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/scrappy-lockpick-2897843384.md"
+}

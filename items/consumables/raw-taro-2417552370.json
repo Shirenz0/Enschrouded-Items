@@ -1,0 +1,67 @@
+{
+ "id": 2417552370,
+ "name": "Raw Taro",
+ "internalName": "Food_T6_raw_bad_vegetable_Taro",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2417552370.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 taro: it needs to be cooked before it can be eaten",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -80,
+    "display": "-80",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": -70,
+    "display": "-70",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 4124427746,
+   "name": "T6 Taro Root Curry",
+   "page": "items/consumables/t6-taro-root-curry-4124427746.md",
+   "json": "items/consumables/t6-taro-root-curry-4124427746.json"
+  },
+  {
+   "id": 4166256477,
+   "name": "Grilled Fish with Coconut Rice",
+   "page": "items/consumables/grilled-fish-with-coconut-rice-4166256477.md",
+   "json": "items/consumables/grilled-fish-with-coconut-rice-4166256477.json"
+  },
+  {
+   "id": 2285189073,
+   "name": "T6 Fried Rice",
+   "page": "items/consumables/t6-fried-rice-2285189073.md",
+   "json": "items/consumables/t6-fried-rice-2285189073.json"
+  },
+  {
+   "id": 3196395822,
+   "name": "Taro Seedling",
+   "page": "items/buildtools/taro-seedling-3196395822.md",
+   "json": "items/buildtools/taro-seedling-3196395822.json"
+  }
+ ],
+ "page": "items/consumables/raw-taro-2417552370.md"
+}

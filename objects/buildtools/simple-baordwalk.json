@@ -1,0 +1,36 @@
+{
+ "name": "Simple Baordwalk",
+ "category": "BuildTools",
+ "image": "images/icons/4043051492.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1195149031,
+   "name": "Simple Baordwalk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1195149031.png",
+   "page": "items/buildtools/simple-baordwalk-1195149031.md",
+   "json": "items/buildtools/simple-baordwalk-1195149031.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 4043051492,
+   "name": "Simple Baordwalk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4043051492.png",
+   "page": "items/buildtools/simple-baordwalk-4043051492.md",
+   "json": "items/buildtools/simple-baordwalk-4043051492.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/simple-baordwalk.md"
+}

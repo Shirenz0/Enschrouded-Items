@@ -21,4 +21,4 @@ Fishing
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](damaged-fur-boot-166917849.json)

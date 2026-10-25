@@ -1,0 +1,80 @@
+{
+ "id": 2105748910,
+ "name": "T7 Bandage",
+ "internalName": "Consumable_Bandage_T7",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2105748910.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T7 Bandage Desc",
+ "lore": "Bandage",
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Healing per second",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2787279702,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3466985705,
+      "name": "Thyme",
+      "page": "items/consumables/thyme-3466985705.md",
+      "json": "items/consumables/thyme-3466985705.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/t7-bandage-2105748910.md"
+}

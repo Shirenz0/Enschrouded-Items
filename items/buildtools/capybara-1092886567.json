@@ -1,0 +1,25 @@
+{
+ "id": 1092886567,
+ "name": "Capybara",
+ "internalName": "Animal_Farming_Capybara",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1092886567.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An adorable capybara. The bristles can be used in crafting.",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/capybara-1092886567.md"
+}

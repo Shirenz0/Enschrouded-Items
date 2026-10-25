@@ -1,0 +1,29 @@
+{
+ "id": 2258920809,
+ "name": "Male Head 01",
+ "internalName": "VC_Body_Head_Male_10_young_african",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/male-head-01.md",
+  "json": "objects/customization/male-head-01.json",
+  "versions": 27
+ },
+ "page": "items/customization/male-head-01-2258920809.md"
+}

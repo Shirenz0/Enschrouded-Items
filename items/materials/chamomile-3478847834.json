@@ -1,0 +1,93 @@
+{
+ "id": 3478847834,
+ "name": "Chamomile",
+ "internalName": "Material_T2_Chamomile",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/3478847834.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wondrous flower known for its many usecases, but mostly for its healing purposes.",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2337909498,
+   "name": "Chamomile Tea",
+   "page": "items/consumables/chamomile-tea-2337909498.md",
+   "json": "items/consumables/chamomile-tea-2337909498.json"
+  },
+  {
+   "id": 609216940,
+   "name": "Ancient Health Potion",
+   "page": "items/consumables/ancient-health-potion-609216940.md",
+   "json": "items/consumables/ancient-health-potion-609216940.json"
+  },
+  {
+   "id": 491393994,
+   "name": "Ultimate Health Potion",
+   "page": "items/consumables/ultimate-health-potion-491393994.md",
+   "json": "items/consumables/ultimate-health-potion-491393994.json"
+  },
+  {
+   "id": 2405125031,
+   "name": "T5 Health potion",
+   "page": "items/consumables/t5-health-potion-2405125031.md",
+   "json": "items/consumables/t5-health-potion-2405125031.json"
+  },
+  {
+   "id": 3702644205,
+   "name": "Revitalizing Health Potion",
+   "page": "items/consumables/revitalizing-health-potion-3702644205.md",
+   "json": "items/consumables/revitalizing-health-potion-3702644205.json"
+  },
+  {
+   "id": 3102924359,
+   "name": "Greater Health Potion",
+   "page": "items/consumables/greater-health-potion-3102924359.md",
+   "json": "items/consumables/greater-health-potion-3102924359.json"
+  },
+  {
+   "id": 3216582163,
+   "name": "T5 Chain Heal II",
+   "page": "items/ammunition/t5-chain-heal-ii-3216582163.md",
+   "json": "items/ammunition/t5-chain-heal-ii-3216582163.json"
+  },
+  {
+   "id": 3878494540,
+   "name": "T2 Chain Heal I",
+   "page": "items/ammunition/t2-chain-heal-i-3878494540.md",
+   "json": "items/ammunition/t2-chain-heal-i-3878494540.json"
+  },
+  {
+   "id": 2542499127,
+   "name": "Chamomile Seedling",
+   "page": "items/buildtools/chamomile-seedling-2542499127.md",
+   "json": "items/buildtools/chamomile-seedling-2542499127.json"
+  },
+  {
+   "id": 1126086984,
+   "name": "Spice",
+   "page": "items/materials/spice-1126086984.md",
+   "json": "items/materials/spice-1126086984.json"
+  },
+  {
+   "id": 439541859,
+   "name": "Flower Wreath",
+   "page": "items/buildtools/flower-wreath-439541859.md",
+   "json": "items/buildtools/flower-wreath-439541859.json"
+  }
+ ],
+ "page": "items/materials/chamomile-3478847834.md"
+}

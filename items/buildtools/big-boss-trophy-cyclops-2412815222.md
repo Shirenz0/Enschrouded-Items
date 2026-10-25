@@ -33,4 +33,4 @@ Collect multiple Cyclops Heads to craft the Bronze Trophy.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](big-boss-trophy-cyclops-2412815222.json)

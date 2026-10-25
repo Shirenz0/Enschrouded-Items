@@ -1,0 +1,70 @@
+{
+ "id": 2331607035,
+ "name": "Rust And Rose",
+ "internalName": "ColorPalette_T6_ColorPalette_08",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2331607035.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This color palette blends muted orange, soft mauve, and earthy brown into a palette that feels both weathered and graceful — like warmth preserved in fading light. This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1865110398,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 260133819,
+      "name": "Fertilised Farm Soil",
+      "page": "items/materials/fertilised-farm-soil-260133819.md",
+      "json": "items/materials/fertilised-farm-soil-260133819.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4148439656,
+      "name": "Passionflower",
+      "page": "items/materials/passionflower-4148439656.md",
+      "json": "items/materials/passionflower-4148439656.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1897605064,
+      "name": "Daylily Flower",
+      "page": "items/materials/daylily-flower-1897605064.md",
+      "json": "items/materials/daylily-flower-1897605064.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/rust-and-rose-2331607035.md"
+}

@@ -1,0 +1,29 @@
+{
+ "id": 1392367211,
+ "name": "Empty Farmbed",
+ "internalName": "Prop_Decoration_Farmbed_01b",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/1392367211.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This Farmbed can be filled with Dirt, Sand or Soil to grow plants.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/empty-farmbed.md",
+  "json": "objects/buildtools/empty-farmbed.json",
+  "versions": 5
+ },
+ "page": "items/buildtools/empty-farmbed-1392367211.md"
+}

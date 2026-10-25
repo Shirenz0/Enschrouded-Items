@@ -1,0 +1,44 @@
+{
+ "id": 127804572,
+ "name": "Fog Meteor Shower",
+ "internalName": "Consumable_Scroll_Fog_Meteor_Shower",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 20,
+ "image": "images/icons/127804572.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This scroll is enchanted with the power of the T4 Shroud Meteor. It releases a shower of T4 Shroud Meteor on up to five enemies around the caster. But be careful with its usage, as it drains your fog survivability upon usage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "damageTypes": {
+   "Shroud": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 80,
+    "display": "80",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max Shroud Survivability",
+    "value": -240000,
+    "display": "-240,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/fog-meteor-shower-127804572.md"
+}

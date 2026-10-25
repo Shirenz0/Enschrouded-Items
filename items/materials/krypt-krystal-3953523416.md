@@ -29,4 +29,4 @@ Crafting, Collector
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](krypt-krystal-3953523416.json)

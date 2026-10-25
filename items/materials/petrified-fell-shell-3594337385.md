@@ -25,4 +25,4 @@ Shroud Stalker, First: Nomad Highlands Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](petrified-fell-shell-3594337385.json)

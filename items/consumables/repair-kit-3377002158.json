@@ -1,0 +1,78 @@
+{
+ "id": 3377002158,
+ "name": "Repair Kit",
+ "internalName": "Consumable_RepairKit_T3",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/3377002158.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Repair your equipment on the go. Continously restores durability with every tick.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1149034200,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2302389683,
+      "name": "Corrosive Blood",
+      "page": "items/materials/corrosive-blood-2302389683.md",
+      "json": "items/materials/corrosive-blood-2302389683.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 166917849,
+       "name": "Damaged Fur Boot",
+       "page": "items/materials/damaged-fur-boot-166917849.md",
+       "json": "items/materials/damaged-fur-boot-166917849.json"
+      },
+      {
+       "id": 661026568,
+       "name": "Fur Patch",
+       "page": "items/materials/fur-patch-661026568.md",
+       "json": "items/materials/fur-patch-661026568.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/repair-kit-3377002158.md"
+}

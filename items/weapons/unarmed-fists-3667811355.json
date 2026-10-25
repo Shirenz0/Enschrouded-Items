@@ -1,0 +1,31 @@
+{
+ "id": 3667811355,
+ "name": "Unarmed Fists",
+ "internalName": "_Weapon_Unarmed_Fists_Hand_lvl00",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 1,
+ "image": "images/icons/3667811355.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Everybody has a plan until they get punched in the face -Mike Thyson",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 100
+  }
+ },
+ "page": "items/weapons/unarmed-fists-3667811355.md"
+}

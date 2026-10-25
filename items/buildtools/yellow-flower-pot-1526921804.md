@@ -27,4 +27,4 @@ A small potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](yellow-flower-pot-1526921804.json)

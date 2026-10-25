@@ -1,0 +1,60 @@
+{
+ "id": 2365603799,
+ "name": "Limestone Block",
+ "internalName": "Block_T3_Stone_Nation01_Shed_Basement_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2365603799.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An aged stone that outlasted for centuries. Leaves one wonder what kind of things it might have seen...",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 533945439,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 964619626,
+   "name": "Secret Limestone Door",
+   "page": "items/buildtools/secret-limestone-door-964619626.md",
+   "json": "items/buildtools/secret-limestone-door-964619626.json"
+  }
+ ],
+ "page": "items/buildtools/limestone-block-2365603799.md"
+}

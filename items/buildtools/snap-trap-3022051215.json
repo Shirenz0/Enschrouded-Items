@@ -1,0 +1,52 @@
+{
+ "id": 3022051215,
+ "name": "Snap Trap",
+ "internalName": "Prop_T1_Scavenger_Snap_Trap",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3022051215.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "If you accidentally get caught in it, it will hurt a little, but the shock will stun you for a few seconds. Better watch your step with these!",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2231003427,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    }
+   ],
+   "outputCount": 2
+  }
+ ],
+ "page": "items/buildtools/snap-trap-3022051215.md"
+}

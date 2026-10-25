@@ -17,4 +17,4 @@ Bark from the giant trees in the Blackmire. It feels rough, but could look quite
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](blackmire-bark-1227021926.json)

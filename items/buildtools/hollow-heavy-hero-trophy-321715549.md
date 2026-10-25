@@ -31,4 +31,4 @@ A severed Hollow Heavy Hero Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](hollow-heavy-hero-trophy-321715549.json)

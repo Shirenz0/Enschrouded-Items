@@ -32,4 +32,4 @@ Crafting, Drying Rack
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](dried-banana-chips-1717387680.json)

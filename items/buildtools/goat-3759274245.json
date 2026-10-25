@@ -1,0 +1,25 @@
+{
+ "id": 3759274245,
+ "name": "Goat",
+ "internalName": "Animal_Farming_Goat",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3759274245.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This animal can supply you with fresh milk.",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/goat-3759274245.md"
+}

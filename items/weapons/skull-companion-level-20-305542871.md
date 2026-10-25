@@ -35,4 +35,4 @@ Crafting, Collector
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](skull-companion-level-20-305542871.json)

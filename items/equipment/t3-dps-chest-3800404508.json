@@ -1,0 +1,131 @@
+{
+ "id": 3800404508,
+ "name": "T3 DPS Chest",
+ "internalName": "Armor_T3_Warrior_DPS_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/3800404508.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A heavy breastplate which has lost its shine, but not its notority.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-dps-chest.md",
+  "json": "objects/equipment/t3-dps-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 180,
+    "display": "180",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Rage",
+   "effect": "Increases the skill level of Blood Rage by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1569149605,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3594337385,
+      "name": "Petrified Fell Shell",
+      "page": "items/materials/petrified-fell-shell-3594337385.md",
+      "json": "items/materials/petrified-fell-shell-3594337385.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-dps-chest-3800404508.md"
+}

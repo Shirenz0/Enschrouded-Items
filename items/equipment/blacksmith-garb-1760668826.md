@@ -27,4 +27,4 @@ Just enough to protect the wearer from sparks.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](blacksmith-garb-1760668826.json)

@@ -1,0 +1,39 @@
+{
+ "name": "Skull Summoning Vessel",
+ "category": "Weapons",
+ "image": "images/icons/1596935538.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "where to find"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 1567174048,
+   "name": "Skull Summoning Vessel",
+   "rarity": "Epic",
+   "level": "30",
+   "image": "images/icons/1567174048.png",
+   "page": "items/weapons/skull-summoning-vessel-1567174048.md",
+   "json": "items/weapons/skull-summoning-vessel-1567174048.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1596935538,
+   "name": "Skull Summoning Vessel",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/1596935538.png",
+   "page": "items/weapons/skull-summoning-vessel-1596935538.md",
+   "json": "items/weapons/skull-summoning-vessel-1596935538.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/skull-summoning-vessel.md"
+}

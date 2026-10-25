@@ -1,0 +1,25 @@
+{
+ "id": 4071457557,
+ "name": "Skill Point",
+ "internalName": "Token_SkillPoint",
+ "category": {
+  "id": "Currency",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/4071457557.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An item of power. Feed it to the Flame to gain its strength.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/skill-point-4071457557.md"
+}

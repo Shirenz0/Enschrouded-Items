@@ -17,4 +17,4 @@ A miniature piece that shows the Revelwood, part of the Kingdom of Meldore. It u
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](revelwood-miniature-piece-113945565.json)

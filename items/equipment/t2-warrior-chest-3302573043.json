@@ -1,0 +1,67 @@
+{
+ "id": 3302573043,
+ "name": "T2 Warrior Chest",
+ "internalName": "Armor_T2_Warrior_Rogue_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3302573043.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Risky but agile upper body armor. At least your shoulders will be safe from harm with these impressive metal spaulders.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  }
+ ],
+ "page": "items/equipment/t2-warrior-chest-3302573043.md"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 2013116716,
+ "name": "Food Sanddigger Feeding",
+ "internalName": "Material_T4_Sanddigger_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/2013116716.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "food sanddigger feeding description",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3405507445,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2008478235,
+      "name": "Yucca Fruit",
+      "page": "items/consumables/yucca-fruit-2008478235.md",
+      "json": "items/consumables/yucca-fruit-2008478235.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 700318057,
+      "name": "Desert Bug",
+      "page": "items/ammunition/desert-bug-700318057.md",
+      "json": "items/ammunition/desert-bug-700318057.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/food-sanddigger-feeding-2013116716.md"
+}

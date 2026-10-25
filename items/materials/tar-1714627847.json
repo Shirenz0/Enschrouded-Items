@@ -1,0 +1,692 @@
+{
+ "id": 1714627847,
+ "name": "Tar",
+ "internalName": "Material_T1_Tar",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1714627847.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Not very pretty, but useful when it comes to creating protection from the weather.",
+ "lore": null,
+ "whereToFind": "Crafting, Charcoal Kiln",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1519051042,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 31257423,
+      "name": "T5 Processed Fat Grilled Meat",
+      "page": "items/consumables/t5-processed-fat-grilled-meat-31257423.md",
+      "json": "items/consumables/t5-processed-fat-grilled-meat-31257423.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3889385283,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 749738317,
+      "name": "Grilled Yucca Fruit",
+      "page": "items/consumables/grilled-yucca-fruit-749738317.md",
+      "json": "items/consumables/grilled-yucca-fruit-749738317.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2720018591,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 643297880,
+      "name": "Grilled Sanddigger",
+      "page": "items/consumables/grilled-sanddigger-643297880.md",
+      "json": "items/consumables/grilled-sanddigger-643297880.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 319038212,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2028455467,
+      "name": "Grilled Bird Meat",
+      "page": "items/consumables/grilled-bird-meat-2028455467.md",
+      "json": "items/consumables/grilled-bird-meat-2028455467.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 1467562065,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2887144646,
+      "name": "Grilled Fish Epic 01",
+      "page": "items/consumables/grilled-fish-epic-01-2887144646.md",
+      "json": "items/consumables/grilled-fish-epic-01-2887144646.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2314262208,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1844659645,
+      "name": "Grilled Fish Epic 02",
+      "page": "items/consumables/grilled-fish-epic-02-1844659645.md",
+      "json": "items/consumables/grilled-fish-epic-02-1844659645.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2308412193,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4285761832,
+      "name": "Grilled Fish Epic 03",
+      "page": "items/consumables/grilled-fish-epic-03-4285761832.md",
+      "json": "items/consumables/grilled-fish-epic-03-4285761832.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 39729831,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2860029933,
+      "name": "Grilled Specklefin",
+      "page": "items/consumables/grilled-specklefin-2860029933.md",
+      "json": "items/consumables/grilled-specklefin-2860029933.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3629624852,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2597418482,
+      "name": "Grilled Cinderscale",
+      "page": "items/consumables/grilled-cinderscale-2597418482.md",
+      "json": "items/consumables/grilled-cinderscale-2597418482.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3896962227,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 294915422,
+      "name": "Grilled Crab Meat",
+      "page": "items/consumables/grilled-crab-meat-294915422.md",
+      "json": "items/consumables/grilled-crab-meat-294915422.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2370610403,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3867042878,
+      "name": "Grilled Fish Rare 03",
+      "page": "items/consumables/grilled-fish-rare-03-3867042878.md",
+      "json": "items/consumables/grilled-fish-rare-03-3867042878.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3688584250,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3207915990,
+      "name": "Grilled Fish Rare 04",
+      "page": "items/consumables/grilled-fish-rare-04-3207915990.md",
+      "json": "items/consumables/grilled-fish-rare-04-3207915990.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2946613690,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2721097531,
+      "name": "Grilled Fish Rare 01",
+      "page": "items/consumables/grilled-fish-rare-01-2721097531.md",
+      "json": "items/consumables/grilled-fish-rare-01-2721097531.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 1043270368,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2799925853,
+      "name": "Grilled Fish Rare 02",
+      "page": "items/consumables/grilled-fish-rare-02-2799925853.md",
+      "json": "items/consumables/grilled-fish-rare-02-2799925853.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 612305721,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1274457134,
+      "name": "Grilled Fish Common 03",
+      "page": "items/consumables/grilled-fish-common-03-1274457134.md",
+      "json": "items/consumables/grilled-fish-common-03-1274457134.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 287456091,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1452092217,
+      "name": "Grilled Fish Uncommon 03",
+      "page": "items/consumables/grilled-fish-uncommon-03-1452092217.md",
+      "json": "items/consumables/grilled-fish-uncommon-03-1452092217.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 145250992,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2537992952,
+      "name": "Grilled Fish Uncommon 01",
+      "page": "items/consumables/grilled-fish-uncommon-01-2537992952.md",
+      "json": "items/consumables/grilled-fish-uncommon-01-2537992952.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3833521419,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2213678190,
+      "name": "Grilled Fish Uncommon 02",
+      "page": "items/consumables/grilled-fish-uncommon-02-2213678190.md",
+      "json": "items/consumables/grilled-fish-uncommon-02-2213678190.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 953656329,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1540283427,
+      "name": "Grilled Fish Common 01",
+      "page": "items/consumables/grilled-fish-common-01-1540283427.md",
+      "json": "items/consumables/grilled-fish-common-01-1540283427.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3548228139,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1540283427,
+      "name": "Grilled Fish Common 01",
+      "page": "items/consumables/grilled-fish-common-01-1540283427.md",
+      "json": "items/consumables/grilled-fish-common-01-1540283427.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 954622611,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1985343352,
+      "name": "Smelted Azure Russula",
+      "page": "items/consumables/smelted-azure-russula-1985343352.md",
+      "json": "items/consumables/smelted-azure-russula-1985343352.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3092360212,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 16972502,
+      "name": "Grilled Game",
+      "page": "items/consumables/grilled-game-16972502.md",
+      "json": "items/consumables/grilled-game-16972502.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2897568,
+   "station": "Charcoal Kiln",
+   "inputs": [
+    {
+     "count": 24,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    },
+    {
+     "count": 6,
+     "oneOf": [
+      {
+       "id": 1558115984,
+       "name": "Dirt",
+       "page": "items/materials/dirt-1558115984.md",
+       "json": "items/materials/dirt-1558115984.json"
+      },
+      {
+       "id": 3937186197,
+       "name": "Deep Forest Dirt",
+       "page": "items/materials/deep-forest-dirt-3937186197.md",
+       "json": "items/materials/deep-forest-dirt-3937186197.json"
+      },
+      {
+       "id": 2385754716,
+       "name": "T2 tall trees dirt",
+       "page": "items/materials/t2-tall-trees-dirt-2385754716.md",
+       "json": "items/materials/t2-tall-trees-dirt-2385754716.json"
+      },
+      {
+       "id": 2732808327,
+       "name": "Steppes Dirt",
+       "page": "items/materials/steppes-dirt-2732808327.md",
+       "json": "items/materials/steppes-dirt-2732808327.json"
+      },
+      {
+       "id": 2080424991,
+       "name": "T5 Mountain Dirt",
+       "page": "items/materials/t5-mountain-dirt-2080424991.md",
+       "json": "items/materials/t5-mountain-dirt-2080424991.json"
+      },
+      {
+       "id": 4095370049,
+       "name": "T6 Wetlands Dirt",
+       "page": "items/materials/t6-wetlands-dirt-4095370049.md",
+       "json": "items/materials/t6-wetlands-dirt-4095370049.json"
+      },
+      {
+       "id": 2421105715,
+       "name": "T7 AncientLand Dirt",
+       "page": "items/materials/t7-ancientland-dirt-2421105715.md",
+       "json": "items/materials/t7-ancientland-dirt-2421105715.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 20
+  },
+  {
+   "recipeId": 1881406373,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3373898672,
+      "name": "Grilled Wolf Meat",
+      "page": "items/consumables/grilled-wolf-meat-3373898672.md",
+      "json": "items/consumables/grilled-wolf-meat-3373898672.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 1023538162,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2090825266,
+      "name": "Lean Meat",
+      "page": "items/consumables/lean-meat-2090825266.md",
+      "json": "items/consumables/lean-meat-2090825266.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 531674138,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2840500800,
+      "name": "Meat Skewer with Corncob",
+      "page": "items/consumables/meat-skewer-with-corncob-2840500800.md",
+      "json": "items/consumables/meat-skewer-with-corncob-2840500800.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 4053250671,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3366430041,
+      "name": "Meat Skewer with Hazelnut",
+      "page": "items/consumables/meat-skewer-with-hazelnut-3366430041.md",
+      "json": "items/consumables/meat-skewer-with-hazelnut-3366430041.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 1647784236,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3286272712,
+      "name": "Meat skewer with Mushroom",
+      "page": "items/consumables/meat-skewer-with-mushroom-3286272712.md",
+      "json": "items/consumables/meat-skewer-with-mushroom-3286272712.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 1749232570,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3656080316,
+      "name": "Meat Skewer with Azure Russula",
+      "page": "items/consumables/meat-skewer-with-azure-russula-3656080316.md",
+      "json": "items/consumables/meat-skewer-with-azure-russula-3656080316.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2707049828,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1767022245,
+      "name": "Meat Skewer with Tomato",
+      "page": "items/consumables/meat-skewer-with-tomato-1767022245.md",
+      "json": "items/consumables/meat-skewer-with-tomato-1767022245.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2842787162,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 16567466,
+      "name": "Meat Skewer with Forest Beet",
+      "page": "items/consumables/meat-skewer-with-forest-beet-16567466.md",
+      "json": "items/consumables/meat-skewer-with-forest-beet-16567466.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3661070312,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1511796527,
+      "name": "Grilled Penny Bun",
+      "page": "items/consumables/grilled-penny-bun-1511796527.md",
+      "json": "items/consumables/grilled-penny-bun-1511796527.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2041116756,
+   "name": "Fallen Crypt Block",
+   "page": "items/buildtools/fallen-crypt-block-2041116756.md",
+   "json": "items/buildtools/fallen-crypt-block-2041116756.json"
+  },
+  {
+   "id": 1856761753,
+   "name": "Tarred Wood Block",
+   "page": "items/buildtools/tarred-wood-block-1856761753.md",
+   "json": "items/buildtools/tarred-wood-block-1856761753.json"
+  },
+  {
+   "id": 3389648330,
+   "name": "Tarred Straw Block",
+   "page": "items/buildtools/tarred-straw-block-3389648330.md",
+   "json": "items/buildtools/tarred-straw-block-3389648330.json"
+  },
+  {
+   "id": 3502973158,
+   "name": "Tarred Shingle Block",
+   "page": "items/buildtools/tarred-shingle-block-3502973158.md",
+   "json": "items/buildtools/tarred-shingle-block-3502973158.json"
+  },
+  {
+   "id": 1833734179,
+   "name": "T2 Fireball II",
+   "page": "items/ammunition/t2-fireball-ii-1833734179.md",
+   "json": "items/ammunition/t2-fireball-ii-1833734179.json"
+  },
+  {
+   "id": 3918049792,
+   "name": "T1 Fireball I",
+   "page": "items/ammunition/t1-fireball-i-3918049792.md",
+   "json": "items/ammunition/t1-fireball-i-3918049792.json"
+  },
+  {
+   "id": 2040014559,
+   "name": "Exploding Arrow I",
+   "page": "items/ammunition/exploding-arrow-i-2040014559.md",
+   "json": "items/ammunition/exploding-arrow-i-2040014559.json"
+  },
+  {
+   "id": 2901638773,
+   "name": "Tanning Station",
+   "page": "items/buildtools/tanning-station-2901638773.md",
+   "json": "items/buildtools/tanning-station-2901638773.json"
+  },
+  {
+   "id": 887761434,
+   "name": "Flammable Goo",
+   "page": "items/materials/flammable-goo-887761434.md",
+   "json": "items/materials/flammable-goo-887761434.json"
+  },
+  {
+   "id": 2283229289,
+   "name": "Explosive Powder Ball",
+   "page": "items/weapons/explosive-powder-ball-2283229289.md",
+   "json": "items/weapons/explosive-powder-ball-2283229289.json"
+  },
+  {
+   "id": 905080090,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-905080090.md",
+   "json": "items/weapons/wailing-blade-905080090.json"
+  },
+  {
+   "id": 3584171520,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-3584171520.md",
+   "json": "items/weapons/dragon-sword-3584171520.json"
+  }
+ ],
+ "page": "items/materials/tar-1714627847.md"
+}

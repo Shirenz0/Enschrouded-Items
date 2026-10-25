@@ -1,0 +1,39 @@
+{
+ "id": 3507499853,
+ "name": "Fae Deer Pillow",
+ "internalName": "Prop_Decoration_TX_Pillow_Animal_02_TwitchDrop",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3507499853.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative pillow that's been adorned with a Fae Deer motiv. It seems to be running wild through wind and bushes.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/fae-deer-pillow.md",
+  "json": "objects/buildtools/fae-deer-pillow.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Wellness",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/fae-deer-pillow-3507499853.md"
+}

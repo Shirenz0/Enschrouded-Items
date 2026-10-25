@@ -1,0 +1,52 @@
+{
+ "id": 1096715929,
+ "name": "Food Buff Removal",
+ "internalName": "Consumable_Potion_Remove_All_Food_Buffs",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1096715929.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Removes all food buffs.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 59792748,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1503622318,
+      "name": "Poison Sack",
+      "page": "items/materials/poison-sack-1503622318.md",
+      "json": "items/materials/poison-sack-1503622318.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2290894589,
+      "name": "Stinging Nettle",
+      "page": "items/consumables/stinging-nettle-2290894589.md",
+      "json": "items/consumables/stinging-nettle-2290894589.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/food-buff-removal-1096715929.md"
+}

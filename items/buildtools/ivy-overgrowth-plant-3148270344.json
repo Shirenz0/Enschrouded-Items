@@ -1,0 +1,52 @@
+{
+ "id": 3148270344,
+ "name": "Ivy overgrowth plant",
+ "internalName": "Material_T1_Overgrowth_Ivy",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3148270344.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Use this material to decorate any voxel material using the ??? tool",
+ "lore": "Plants",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 518676052,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/ivy-overgrowth-plant-3148270344.md"
+}

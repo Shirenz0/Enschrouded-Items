@@ -1,0 +1,43 @@
+{
+ "id": 3966046547,
+ "name": "Carved Wooden Double Door",
+ "internalName": "Prop_Decoration_T1_Door_Carved_Wooden_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3966046547.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 308631634,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2321570331,
+      "name": "Carved Wooden Door",
+      "page": "items/buildtools/carved-wooden-door-2321570331.md",
+      "json": "items/buildtools/carved-wooden-door-2321570331.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/carved-wooden-double-door-3966046547.md"
+}

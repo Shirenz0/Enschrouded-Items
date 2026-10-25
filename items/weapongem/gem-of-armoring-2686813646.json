@@ -1,0 +1,35 @@
+{
+ "id": 2686813646,
+ "name": "Gem of Armoring",
+ "internalName": "T7_Gem_GemOfArmoring",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/2686813646.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Killing an enemy spawns an orb at the enemies location. Collecting the orb allows you to resist all damage for  %k.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Buff Duration",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-armoring-2686813646.md"
+}

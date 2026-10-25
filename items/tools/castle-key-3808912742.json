@@ -1,0 +1,25 @@
+{
+ "id": 3808912742,
+ "name": "Castle Key",
+ "internalName": "Key_Gold02_Castle",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3808912742.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Opens all doors in the Castle.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/tools/castle-key-3808912742.md"
+}

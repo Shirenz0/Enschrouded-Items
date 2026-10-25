@@ -1,0 +1,51 @@
+{
+ "id": 3411381312,
+ "name": "Hollow Heavy Hero Head",
+ "internalName": "_Material_TX_Trophy_Skeleton_Heavy_Hero_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3411381312.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hollow Heavy Hero head desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 4203731022,
+   "name": "Gold Hollow Heavy Hero Trophy",
+   "page": "items/buildtools/gold-hollow-heavy-hero-trophy-4203731022.md",
+   "json": "items/buildtools/gold-hollow-heavy-hero-trophy-4203731022.json"
+  },
+  {
+   "id": 2459686699,
+   "name": "Iron Hollow Heavy Hero Trophy",
+   "page": "items/buildtools/iron-hollow-heavy-hero-trophy-2459686699.md",
+   "json": "items/buildtools/iron-hollow-heavy-hero-trophy-2459686699.json"
+  },
+  {
+   "id": 683546152,
+   "name": "Bronze Hollow Heavy Hero Trophy",
+   "page": "items/buildtools/bronze-hollow-heavy-hero-trophy-683546152.md",
+   "json": "items/buildtools/bronze-hollow-heavy-hero-trophy-683546152.json"
+  },
+  {
+   "id": 321715549,
+   "name": "Hollow Heavy Hero Trophy",
+   "page": "items/buildtools/hollow-heavy-hero-trophy-321715549.md",
+   "json": "items/buildtools/hollow-heavy-hero-trophy-321715549.json"
+  }
+ ],
+ "page": "items/materials/hollow-heavy-hero-head-3411381312.md"
+}

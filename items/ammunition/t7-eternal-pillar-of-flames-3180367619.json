@@ -1,0 +1,135 @@
+{
+ "id": 3180367619,
+ "name": "T7 Eternal Pillar of Flames",
+ "internalName": "Ammo_T7_Spell_Fire_Pillar_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/3180367619.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates a pillar of flames that deals fire damage to enemies and burns them.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 186,
+    "display": "186",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1250,
+    "display": "1.25 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 300,
+    "display": "300",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 6000,
+    "display": "6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 12000,
+    "display": "12 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Blazing",
+   "effect": "+10 Blazing"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4194576057,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2670118573,
+      "name": "Ancient/Archaic Infusion",
+      "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+      "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-pillar-of-flames-3180367619.md"
+}

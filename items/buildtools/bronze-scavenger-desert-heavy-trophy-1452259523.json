@@ -1,0 +1,35 @@
+{
+ "id": 1452259523,
+ "name": "Bronze Scavenger Desert Heavy Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Scavenger_Desert_Heavy_02_bronze",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/1452259523.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Scavenger Desert Heavy Head. Collect multiple to craft the bronze trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/bronze-scavenger-desert-heavy-trophy-1452259523.md"
+}

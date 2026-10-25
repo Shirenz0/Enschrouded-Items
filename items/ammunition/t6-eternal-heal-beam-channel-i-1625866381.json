@@ -1,0 +1,117 @@
+{
+ "id": 1625866381,
+ "name": "T6 Eternal Heal Beam Channel I",
+ "internalName": "Ammo_T6_Spell_Heal_Beam_Channel_lvl36_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/1625866381.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Continously heal a target in a beam up to 20 meters away. + eternal desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Healing": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 54,
+    "display": "54",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  },
+  {
+   "order": 5,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1234842096,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    },
+    {
+     "count": 50,
+     "item": {
+      "id": 1803037496,
+      "name": "Shroud Slime",
+      "page": "items/materials/shroud-slime-1803037496.md",
+      "json": "items/materials/shroud-slime-1803037496.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3845850476,
+      "name": "Placeholder: Greater Fell Heart",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1604789280,
+      "name": "Pearl",
+      "page": "items/materials/pearl-1604789280.md",
+      "json": "items/materials/pearl-1604789280.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.md"
+}

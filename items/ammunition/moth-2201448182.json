@@ -1,0 +1,54 @@
+{
+ "id": 2201448182,
+ "name": "Moth",
+ "internalName": "Material_T2_Moth_FishingBait",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/2201448182.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "moth description",
+ "lore": null,
+ "whereToFind": "Revelwood and Nomad Highlands, At Night",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "usedToMake": [
+  {
+   "id": 1410921691,
+   "name": "Hemotoxication Antidode",
+   "page": "items/consumables/hemotoxication-antidode-1410921691.md",
+   "json": "items/consumables/hemotoxication-antidode-1410921691.json"
+  },
+  {
+   "id": 2343620458,
+   "name": "Tbd T2 Palette 03 Reward",
+   "page": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.md",
+   "json": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.json"
+  },
+  {
+   "id": 2967793968,
+   "name": "T2 Palette 03 Grey and Blue",
+   "page": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.md",
+   "json": "items/colorpalette/t2-palette-03-grey-and-blue-2967793968.json"
+  },
+  {
+   "id": 2520666169,
+   "name": "Uncommon Bait",
+   "page": "items/ammunition/uncommon-bait-2520666169.md",
+   "json": "items/ammunition/uncommon-bait-2520666169.json"
+  }
+ ],
+ "page": "items/ammunition/moth-2201448182.md"
+}

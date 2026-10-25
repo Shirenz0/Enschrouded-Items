@@ -23,4 +23,4 @@ Requires to be **within the range of a Flame Altar** to work.
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](overgrowth-tool-3196782416.json)

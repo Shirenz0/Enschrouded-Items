@@ -25,4 +25,4 @@ A secret you can install in your base.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](stone-floor-secret-1818315440.json)

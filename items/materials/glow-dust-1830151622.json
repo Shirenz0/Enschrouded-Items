@@ -1,0 +1,147 @@
+{
+ "id": 1830151622,
+ "name": "Glow Dust",
+ "internalName": "Material_T2_Glow_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/1830151622.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical dust that can glow in the dark, consisting of the crushed remains of a Fire Fly.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2037555123,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1014899877,
+      "name": "Fire Fly",
+      "page": "items/ammunition/fire-fly-1014899877.md",
+      "json": "items/ammunition/fire-fly-1014899877.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2239380894,
+   "name": "Wisp of Light",
+   "page": "items/consumables/wisp-of-light-2239380894.md",
+   "json": "items/consumables/wisp-of-light-2239380894.json"
+  },
+  {
+   "id": 685713190,
+   "name": "Eternal Fire Arrow I",
+   "page": "items/ammunition/eternal-fire-arrow-i-685713190.md",
+   "json": "items/ammunition/eternal-fire-arrow-i-685713190.json"
+  },
+  {
+   "id": 3878494540,
+   "name": "T2 Chain Heal I",
+   "page": "items/ammunition/t2-chain-heal-i-3878494540.md",
+   "json": "items/ammunition/t2-chain-heal-i-3878494540.json"
+  },
+  {
+   "id": 2728050036,
+   "name": "T2 Ice Bolt II",
+   "page": "items/ammunition/t2-ice-bolt-ii-2728050036.md",
+   "json": "items/ammunition/t2-ice-bolt-ii-2728050036.json"
+  },
+  {
+   "id": 1611551751,
+   "name": "T2 Eternal Chain Lightning I",
+   "page": "items/ammunition/t2-eternal-chain-lightning-i-1611551751.md",
+   "json": "items/ammunition/t2-eternal-chain-lightning-i-1611551751.json"
+  },
+  {
+   "id": 2875641903,
+   "name": "T2 Shock Wisp I",
+   "page": "items/ammunition/t2-shock-wisp-i-2875641903.md",
+   "json": "items/ammunition/t2-shock-wisp-i-2875641903.json"
+  },
+  {
+   "id": 2409952376,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-2409952376.md",
+   "json": "items/weapons/halescourge-2409952376.json"
+  },
+  {
+   "id": 3070173423,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-3070173423.md",
+   "json": "items/weapons/t1-lore-wand-3070173423.json"
+  },
+  {
+   "id": 4048093059,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-4048093059.md",
+   "json": "items/weapons/cryptic-wand-4048093059.json"
+  },
+  {
+   "id": 710844874,
+   "name": "T2 DPS Boots",
+   "page": "items/equipment/t2-dps-boots-710844874.md",
+   "json": "items/equipment/t2-dps-boots-710844874.json"
+  },
+  {
+   "id": 614770460,
+   "name": "T2 Healer Arms",
+   "page": "items/equipment/t2-healer-arms-614770460.md",
+   "json": "items/equipment/t2-healer-arms-614770460.json"
+  },
+  {
+   "id": 4040241990,
+   "name": "T2 Healer Helmet",
+   "page": "items/equipment/t2-healer-helmet-4040241990.md",
+   "json": "items/equipment/t2-healer-helmet-4040241990.json"
+  },
+  {
+   "id": 1798843751,
+   "name": "T2 Mage Legs",
+   "page": "items/equipment/t2-mage-legs-1798843751.md",
+   "json": "items/equipment/t2-mage-legs-1798843751.json"
+  },
+  {
+   "id": 3494556891,
+   "name": "T2 Mage Chest",
+   "page": "items/equipment/t2-mage-chest-3494556891.md",
+   "json": "items/equipment/t2-mage-chest-3494556891.json"
+  },
+  {
+   "id": 3590618366,
+   "name": "T2 Ranger Boots",
+   "page": "items/equipment/t2-ranger-boots-3590618366.md",
+   "json": "items/equipment/t2-ranger-boots-3590618366.json"
+  },
+  {
+   "id": 2731186757,
+   "name": "T2 Archer Boots",
+   "page": "items/equipment/t2-archer-boots-2731186757.md",
+   "json": "items/equipment/t2-archer-boots-2731186757.json"
+  },
+  {
+   "id": 4178035364,
+   "name": "T2 Tank Boots",
+   "page": "items/equipment/t2-tank-boots-4178035364.md",
+   "json": "items/equipment/t2-tank-boots-4178035364.json"
+  }
+ ],
+ "page": "items/materials/glow-dust-1830151622.md"
+}

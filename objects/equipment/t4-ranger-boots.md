@@ -17,4 +17,4 @@ Stakking prey in these boots makes barely any sound.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-ranger-boots.json)

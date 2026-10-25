@@ -1,0 +1,59 @@
+{
+ "id": 3192770947,
+ "name": "Shroud Weaver",
+ "internalName": "Weapon_T4_2H_Lore_StaffEpic_ministory_17",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3192770947.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A malicious staff that effortlessly intertwines the strings of fate with the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/shroud-weaver.md",
+  "json": "objects/weapons/shroud-weaver.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Ranged weapon"
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Brutal",
+   "effect": "+18 Brutal"
+  },
+  {
+   "order": 3,
+   "name": "+1 Mana Currents",
+   "effect": "Increases the skill level of Mana Currents by +1"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Nebulous",
+   "effect": "+10 Nebulous"
+  }
+ ],
+ "page": "items/weapons/shroud-weaver-3192770947.md"
+}

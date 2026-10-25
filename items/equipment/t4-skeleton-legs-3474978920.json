@@ -1,0 +1,79 @@
+{
+ "id": 3474978920,
+ "name": "T4 Skeleton legs",
+ "internalName": "Armor_T4_MultiClass_SkeletonArmor_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3474978920.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "skeleton armor legs desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Sprint  Speed",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Bone to Ash",
+   "effect": "Increases the skill level of Bone to Ash by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Shiny Plates",
+   "effect": "Increases the skill level of Shiny Plates by +1"
+  },
+  {
+   "order": 4,
+   "name": "Ice Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Bone to Ash",
+   "effect": "Increases the skill level of Bone to Ash by +1"
+  }
+ ],
+ "page": "items/equipment/t4-skeleton-legs-3474978920.md"
+}

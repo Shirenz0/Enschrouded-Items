@@ -68,4 +68,4 @@
 | <img src="../images/categories/blueprints.svg" width="48"> | [Wall Window](../items/blueprints/wall-window-2481913049.md) | ⚪ Common | - | 1 |
 | <img src="../images/categories/blueprints.svg" width="48"> | [Wall Window](../items/blueprints/wall-window-3474562068.md) | ⚪ Common | - | 1 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](blueprints.json)

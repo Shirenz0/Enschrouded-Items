@@ -1,0 +1,125 @@
+{
+ "id": 2688480639,
+ "name": "Dragonsbane",
+ "internalName": "Craft_Weapon_T6_1H_Lore_AxeEpic_ministory_30",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/2688480639.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An axe found inside the skullcap of a giant dragon skeleton.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/dragonsbane.md",
+  "json": "objects/weapons/dragonsbane.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Shroud": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Health Leech",
+   "effect": "On Hit Leech 5% Damage as Health"
+  },
+  {
+   "order": 2,
+   "name": "Brutal",
+   "effect": "+22 Brutal"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 458098628,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 887761434,
+      "name": "Flammable Goo",
+      "page": "items/materials/flammable-goo-887761434.md",
+      "json": "items/materials/flammable-goo-887761434.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1240806864,
+      "name": "T5 Obsidian Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1283252179,
+      "name": "Tropical Wood",
+      "page": "items/materials/tropical-wood-1283252179.md",
+      "json": "items/materials/tropical-wood-1283252179.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/dragonsbane-2688480639.md"
+}

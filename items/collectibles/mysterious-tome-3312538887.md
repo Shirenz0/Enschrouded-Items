@@ -17,4 +17,4 @@ A mysterious book.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](mysterious-tome-3312538887.json)

@@ -1,0 +1,25 @@
+{
+ "id": 1175895449,
+ "name": "Captain Whiskers",
+ "internalName": "Animal_Pet_Cat_01_Black",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1175895449.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This cat is dark as the midnight sky and has the softest little paws you could ever imagine. It purrs loudly whenever you are near and keeps trying to climb on your shoulder. The scavengers that kept this cat were unsure wther to call it \"Captain\" or \"Whiskers\".",
+ "lore": "Pet",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/captain-whiskers-1175895449.md"
+}

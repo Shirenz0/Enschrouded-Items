@@ -1,0 +1,5075 @@
+{
+ "category": "Equipment",
+ "title": "Armor & Equipment",
+ "count": 563,
+ "page": "categories/equipment.md",
+ "items": [
+  {
+   "id": 1513594761,
+   "name": "Alchemist Apprentice Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1513594761.png",
+   "page": "items/equipment/alchemist-apprentice-boots-1513594761.md",
+   "json": "items/equipment/alchemist-apprentice-boots-1513594761.json"
+  },
+  {
+   "id": 3648424321,
+   "name": "Alchemist Apprentice Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3648424321.png",
+   "page": "items/equipment/alchemist-apprentice-boots-3648424321.md",
+   "json": "items/equipment/alchemist-apprentice-boots-3648424321.json"
+  },
+  {
+   "id": 1343249024,
+   "name": "Alchemist Apprentice Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1343249024.png",
+   "page": "items/equipment/alchemist-apprentice-chest-1343249024.md",
+   "json": "items/equipment/alchemist-apprentice-chest-1343249024.json"
+  },
+  {
+   "id": 3440719310,
+   "name": "Alchemist Apprentice Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3440719310.png",
+   "page": "items/equipment/alchemist-apprentice-chest-3440719310.md",
+   "json": "items/equipment/alchemist-apprentice-chest-3440719310.json"
+  },
+  {
+   "id": 2958403525,
+   "name": "Alchemist Apprentice Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2958403525.png",
+   "page": "items/equipment/alchemist-apprentice-gloves-2958403525.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-2958403525.json"
+  },
+  {
+   "id": 3303276493,
+   "name": "Alchemist Apprentice Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3303276493.png",
+   "page": "items/equipment/alchemist-apprentice-gloves-3303276493.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-3303276493.json"
+  },
+  {
+   "id": 1572355779,
+   "name": "Alchemist Apprentice Hat",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1572355779.png",
+   "page": "items/equipment/alchemist-apprentice-hat-1572355779.md",
+   "json": "items/equipment/alchemist-apprentice-hat-1572355779.json"
+  },
+  {
+   "id": 3853102169,
+   "name": "Alchemist Apprentice Hat",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3853102169.png",
+   "page": "items/equipment/alchemist-apprentice-hat-3853102169.md",
+   "json": "items/equipment/alchemist-apprentice-hat-3853102169.json"
+  },
+  {
+   "id": 2554999858,
+   "name": "Alchemist Apprentice Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2554999858.png",
+   "page": "items/equipment/alchemist-apprentice-trousers-2554999858.md",
+   "json": "items/equipment/alchemist-apprentice-trousers-2554999858.json"
+  },
+  {
+   "id": 4211391947,
+   "name": "Alchemist Apprentice Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/4211391947.png",
+   "page": "items/equipment/alchemist-apprentice-trousers-4211391947.md",
+   "json": "items/equipment/alchemist-apprentice-trousers-4211391947.json"
+  },
+  {
+   "id": 93904474,
+   "name": "Alchemist Ring",
+   "rarity": "Common",
+   "level": "2",
+   "image": "images/icons/93904474.png",
+   "page": "items/equipment/alchemist-ring-93904474.md",
+   "json": "items/equipment/alchemist-ring-93904474.json"
+  },
+  {
+   "id": 1827887436,
+   "name": "Beach Attire chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1827887436.png",
+   "page": "items/equipment/beach-attire-chest-1827887436.md",
+   "json": "items/equipment/beach-attire-chest-1827887436.json"
+  },
+  {
+   "id": 1986909631,
+   "name": "Beach Attire chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1986909631.png",
+   "page": "items/equipment/beach-attire-chest-1986909631.md",
+   "json": "items/equipment/beach-attire-chest-1986909631.json"
+  },
+  {
+   "id": 2989782966,
+   "name": "Black Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2989782966.png",
+   "page": "items/equipment/black-eyes-2989782966.md",
+   "json": "items/equipment/black-eyes-2989782966.json"
+  },
+  {
+   "id": 4270376854,
+   "name": "Black Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4270376854.png",
+   "page": "items/equipment/black-hair-4270376854.md",
+   "json": "items/equipment/black-hair-4270376854.json"
+  },
+  {
+   "id": 2248886360,
+   "name": "Blacksmith Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2248886360.png",
+   "page": "items/equipment/blacksmith-boots-2248886360.md",
+   "json": "items/equipment/blacksmith-boots-2248886360.json"
+  },
+  {
+   "id": 1760668826,
+   "name": "Blacksmith Garb",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1760668826.png",
+   "page": "items/equipment/blacksmith-garb-1760668826.md",
+   "json": "items/equipment/blacksmith-garb-1760668826.json"
+  },
+  {
+   "id": 3308197043,
+   "name": "Blacksmith Hat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3308197043.png",
+   "page": "items/equipment/blacksmith-hat-3308197043.md",
+   "json": "items/equipment/blacksmith-hat-3308197043.json"
+  },
+  {
+   "id": 938566115,
+   "name": "Blacksmith Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/938566115.png",
+   "page": "items/equipment/blacksmith-pants-938566115.md",
+   "json": "items/equipment/blacksmith-pants-938566115.json"
+  },
+  {
+   "id": 3688726263,
+   "name": "Blue Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3688726263.png",
+   "page": "items/equipment/blue-eyes-3688726263.md",
+   "json": "items/equipment/blue-eyes-3688726263.json"
+  },
+  {
+   "id": 3406088958,
+   "name": "Blue Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3406088958.png",
+   "page": "items/equipment/blue-hair-3406088958.md",
+   "json": "items/equipment/blue-hair-3406088958.json"
+  },
+  {
+   "id": 4075123457,
+   "name": "Boot rags",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/4075123457.png",
+   "page": "items/equipment/boot-rags-4075123457.md",
+   "json": "items/equipment/boot-rags-4075123457.json"
+  },
+  {
+   "id": 2899426271,
+   "name": "Captain's Coat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2899426271.png",
+   "page": "items/equipment/captain-s-coat-2899426271.md",
+   "json": "items/equipment/captain-s-coat-2899426271.json"
+  },
+  {
+   "id": 1993216032,
+   "name": "Commander's Ring",
+   "rarity": "Epic",
+   "level": "15",
+   "image": "images/icons/1993216032.png",
+   "page": "items/equipment/commander-s-ring-1993216032.md",
+   "json": "items/equipment/commander-s-ring-1993216032.json"
+  },
+  {
+   "id": 3093259221,
+   "name": "Copper Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3093259221.png",
+   "page": "items/equipment/copper-hair-3093259221.md",
+   "json": "items/equipment/copper-hair-3093259221.json"
+  },
+  {
+   "id": 1658938729,
+   "name": "Dark Blonde Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1658938729.png",
+   "page": "items/equipment/dark-blonde-hair-1658938729.md",
+   "json": "items/equipment/dark-blonde-hair-1658938729.json"
+  },
+  {
+   "id": 2349092660,
+   "name": "Dark Brown Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2349092660.png",
+   "page": "items/equipment/dark-brown-eyes-2349092660.md",
+   "json": "items/equipment/dark-brown-eyes-2349092660.json"
+  },
+  {
+   "id": 3570505127,
+   "name": "Dark Brown Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3570505127.png",
+   "page": "items/equipment/dark-brown-hair-3570505127.md",
+   "json": "items/equipment/dark-brown-hair-3570505127.json"
+  },
+  {
+   "id": 1941388436,
+   "name": "Dark Red Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1941388436.png",
+   "page": "items/equipment/dark-red-eyes-1941388436.md",
+   "json": "items/equipment/dark-red-eyes-1941388436.json"
+  },
+  {
+   "id": 1237349730,
+   "name": "Dark Red Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1237349730.png",
+   "page": "items/equipment/dark-red-hair-1237349730.md",
+   "json": "items/equipment/dark-red-hair-1237349730.json"
+  },
+  {
+   "id": 1811997178,
+   "name": "Ethereal Plane",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1811997178.png",
+   "page": "items/equipment/ethereal-plane-1811997178.md",
+   "json": "items/equipment/ethereal-plane-1811997178.json"
+  },
+  {
+   "id": 2418290854,
+   "name": "Ethereal Plane",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2418290854.png",
+   "page": "items/equipment/ethereal-plane-2418290854.md",
+   "json": "items/equipment/ethereal-plane-2418290854.json"
+  },
+  {
+   "id": 3771575140,
+   "name": "Farmer Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3771575140.png",
+   "page": "items/equipment/farmer-boots-3771575140.md",
+   "json": "items/equipment/farmer-boots-3771575140.json"
+  },
+  {
+   "id": 147255114,
+   "name": "Farmer Garb",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/147255114.png",
+   "page": "items/equipment/farmer-garb-147255114.md",
+   "json": "items/equipment/farmer-garb-147255114.json"
+  },
+  {
+   "id": 3123715137,
+   "name": "Farmer Hat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3123715137.png",
+   "page": "items/equipment/farmer-hat-3123715137.md",
+   "json": "items/equipment/farmer-hat-3123715137.json"
+  },
+  {
+   "id": 3170807453,
+   "name": "Farmer Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3170807453.png",
+   "page": "items/equipment/farmer-pants-3170807453.md",
+   "json": "items/equipment/farmer-pants-3170807453.json"
+  },
+  {
+   "id": 3981836644,
+   "name": "Fogger Shield",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3981836644.png",
+   "page": "items/equipment/fogger-shield-3981836644.md",
+   "json": "items/equipment/fogger-shield-3981836644.json"
+  },
+  {
+   "id": 788151568,
+   "name": "Fur boots",
+   "rarity": "Common",
+   "level": "4",
+   "image": "images/icons/788151568.png",
+   "page": "items/equipment/fur-boots-788151568.md",
+   "json": "items/equipment/fur-boots-788151568.json"
+  },
+  {
+   "id": 4170361020,
+   "name": "Fur Gloves",
+   "rarity": "Common",
+   "level": "4",
+   "image": "images/icons/4170361020.png",
+   "page": "items/equipment/fur-gloves-4170361020.md",
+   "json": "items/equipment/fur-gloves-4170361020.json"
+  },
+  {
+   "id": 1773390521,
+   "name": "Fur Hood",
+   "rarity": "Common",
+   "level": "4",
+   "image": "images/icons/1773390521.png",
+   "page": "items/equipment/fur-hood-1773390521.md",
+   "json": "items/equipment/fur-hood-1773390521.json"
+  },
+  {
+   "id": 1162185590,
+   "name": "Fur Torso",
+   "rarity": "Common",
+   "level": "4",
+   "image": "images/icons/1162185590.png",
+   "page": "items/equipment/fur-torso-1162185590.md",
+   "json": "items/equipment/fur-torso-1162185590.json"
+  },
+  {
+   "id": 1081861051,
+   "name": "Fur Trousers",
+   "rarity": "Common",
+   "level": "4",
+   "image": "images/icons/1081861051.png",
+   "page": "items/equipment/fur-trousers-1081861051.md",
+   "json": "items/equipment/fur-trousers-1081861051.json"
+  },
+  {
+   "id": 1234854024,
+   "name": "Gemini Ring",
+   "rarity": "Legendary",
+   "level": "5",
+   "image": "images/icons/1234854024.png",
+   "page": "items/equipment/gemini-ring-1234854024.md",
+   "json": "items/equipment/gemini-ring-1234854024.json"
+  },
+  {
+   "id": 2331461341,
+   "name": "Ghostly Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2331461341.png",
+   "page": "items/equipment/ghostly-shield-2331461341.md",
+   "json": "items/equipment/ghostly-shield-2331461341.json"
+  },
+  {
+   "id": 284749629,
+   "name": "Ghostly Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/284749629.png",
+   "page": "items/equipment/ghostly-shield-284749629.md",
+   "json": "items/equipment/ghostly-shield-284749629.json"
+  },
+  {
+   "id": 392289623,
+   "name": "Gravedigger Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/392289623.png",
+   "page": "items/equipment/gravedigger-boots-392289623.md",
+   "json": "items/equipment/gravedigger-boots-392289623.json"
+  },
+  {
+   "id": 3646353094,
+   "name": "Gravedigger Garb",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3646353094.png",
+   "page": "items/equipment/gravedigger-garb-3646353094.md",
+   "json": "items/equipment/gravedigger-garb-3646353094.json"
+  },
+  {
+   "id": 1467780184,
+   "name": "Gravedigger Hat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1467780184.png",
+   "page": "items/equipment/gravedigger-hat-1467780184.md",
+   "json": "items/equipment/gravedigger-hat-1467780184.json"
+  },
+  {
+   "id": 324635127,
+   "name": "Gravedigger Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/324635127.png",
+   "page": "items/equipment/gravedigger-pants-324635127.md",
+   "json": "items/equipment/gravedigger-pants-324635127.json"
+  },
+  {
+   "id": 2976856949,
+   "name": "Gray Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2976856949.png",
+   "page": "items/equipment/gray-eyes-2976856949.md",
+   "json": "items/equipment/gray-eyes-2976856949.json"
+  },
+  {
+   "id": 3691002144,
+   "name": "Gray Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3691002144.png",
+   "page": "items/equipment/gray-hair-3691002144.md",
+   "json": "items/equipment/gray-hair-3691002144.json"
+  },
+  {
+   "id": 425702640,
+   "name": "Greater Ring of Health",
+   "rarity": "Uncommon",
+   "level": "15",
+   "image": "images/icons/425702640.png",
+   "page": "items/equipment/greater-ring-of-health-425702640.md",
+   "json": "items/equipment/greater-ring-of-health-425702640.json"
+  },
+  {
+   "id": 2911988984,
+   "name": "Greater Ring of Mana",
+   "rarity": "Uncommon",
+   "level": "15",
+   "image": "images/icons/2911988984.png",
+   "page": "items/equipment/greater-ring-of-mana-2911988984.md",
+   "json": "items/equipment/greater-ring-of-mana-2911988984.json"
+  },
+  {
+   "id": 1652235601,
+   "name": "Greater Ring of Stamina",
+   "rarity": "Uncommon",
+   "level": "15",
+   "image": "images/icons/1652235601.png",
+   "page": "items/equipment/greater-ring-of-stamina-1652235601.md",
+   "json": "items/equipment/greater-ring-of-stamina-1652235601.json"
+  },
+  {
+   "id": 1327817920,
+   "name": "Green Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1327817920.png",
+   "page": "items/equipment/green-eyes-1327817920.md",
+   "json": "items/equipment/green-eyes-1327817920.json"
+  },
+  {
+   "id": 3252367634,
+   "name": "Green Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3252367634.png",
+   "page": "items/equipment/green-hair-3252367634.md",
+   "json": "items/equipment/green-hair-3252367634.json"
+  },
+  {
+   "id": 3744513726,
+   "name": "Hero's Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3744513726.png",
+   "page": "items/equipment/hero-s-shield-3744513726.md",
+   "json": "items/equipment/hero-s-shield-3744513726.json"
+  },
+  {
+   "id": 40007242,
+   "name": "Hero's Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/40007242.png",
+   "page": "items/equipment/hero-s-shield-40007242.md",
+   "json": "items/equipment/hero-s-shield-40007242.json"
+  },
+  {
+   "id": 1965220207,
+   "name": "Hunter Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1965220207.png",
+   "page": "items/equipment/hunter-boots-1965220207.md",
+   "json": "items/equipment/hunter-boots-1965220207.json"
+  },
+  {
+   "id": 4272107080,
+   "name": "Hunter Garb",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4272107080.png",
+   "page": "items/equipment/hunter-garb-4272107080.md",
+   "json": "items/equipment/hunter-garb-4272107080.json"
+  },
+  {
+   "id": 769686837,
+   "name": "Hunter Headband",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/769686837.png",
+   "page": "items/equipment/hunter-headband-769686837.md",
+   "json": "items/equipment/hunter-headband-769686837.json"
+  },
+  {
+   "id": 1059698570,
+   "name": "Hunter Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1059698570.png",
+   "page": "items/equipment/hunter-pants-1059698570.md",
+   "json": "items/equipment/hunter-pants-1059698570.json"
+  },
+  {
+   "id": 3243054964,
+   "name": "Hunter's Ring",
+   "rarity": "Common",
+   "level": "2",
+   "image": "images/icons/3243054964.png",
+   "page": "items/equipment/hunter-s-ring-3243054964.md",
+   "json": "items/equipment/hunter-s-ring-3243054964.json"
+  },
+  {
+   "id": 1499977347,
+   "name": "Incredible Ward",
+   "rarity": "Rare",
+   "level": "45",
+   "image": "images/icons/1499977347.png",
+   "page": "items/equipment/incredible-ward-1499977347.md",
+   "json": "items/equipment/incredible-ward-1499977347.json"
+  },
+  {
+   "id": 2988598231,
+   "name": "Incredible Ward",
+   "rarity": "Rare",
+   "level": "45",
+   "image": "images/icons/2988598231.png",
+   "page": "items/equipment/incredible-ward-2988598231.md",
+   "json": "items/equipment/incredible-ward-2988598231.json"
+  },
+  {
+   "id": 2882257945,
+   "name": "Jezmina's Yearwake Gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2882257945.png",
+   "page": "items/equipment/jezmina-s-yearwake-gloves-2882257945.md",
+   "json": "items/equipment/jezmina-s-yearwake-gloves-2882257945.json"
+  },
+  {
+   "id": 4187113723,
+   "name": "Jezmina's Yearwake Gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4187113723.png",
+   "page": "items/equipment/jezmina-s-yearwake-gloves-4187113723.md",
+   "json": "items/equipment/jezmina-s-yearwake-gloves-4187113723.json"
+  },
+  {
+   "id": 1464549788,
+   "name": "Jezmina's Yearwake Helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1464549788.png",
+   "page": "items/equipment/jezmina-s-yearwake-helmet-1464549788.md",
+   "json": "items/equipment/jezmina-s-yearwake-helmet-1464549788.json"
+  },
+  {
+   "id": 2848403787,
+   "name": "Jezmina's Yearwake Helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2848403787.png",
+   "page": "items/equipment/jezmina-s-yearwake-helmet-2848403787.md",
+   "json": "items/equipment/jezmina-s-yearwake-helmet-2848403787.json"
+  },
+  {
+   "id": 2249070596,
+   "name": "Jezmina's Yearwake Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2249070596.png",
+   "page": "items/equipment/jezmina-s-yearwake-pants-2249070596.md",
+   "json": "items/equipment/jezmina-s-yearwake-pants-2249070596.json"
+  },
+  {
+   "id": 2273370026,
+   "name": "Jezmina's Yearwake Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2273370026.png",
+   "page": "items/equipment/jezmina-s-yearwake-pants-2273370026.md",
+   "json": "items/equipment/jezmina-s-yearwake-pants-2273370026.json"
+  },
+  {
+   "id": 3131144042,
+   "name": "Large Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3131144042.png",
+   "page": "items/equipment/large-backpack-3131144042.md",
+   "json": "items/equipment/large-backpack-3131144042.json"
+  },
+  {
+   "id": 996296787,
+   "name": "Large Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/996296787.png",
+   "page": "items/equipment/large-backpack-996296787.md",
+   "json": "items/equipment/large-backpack-996296787.json"
+  },
+  {
+   "id": 965966202,
+   "name": "Lesser Ring of Health",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/965966202.png",
+   "page": "items/equipment/lesser-ring-of-health-965966202.md",
+   "json": "items/equipment/lesser-ring-of-health-965966202.json"
+  },
+  {
+   "id": 18908173,
+   "name": "Lesser Ring of Mana",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/18908173.png",
+   "page": "items/equipment/lesser-ring-of-mana-18908173.md",
+   "json": "items/equipment/lesser-ring-of-mana-18908173.json"
+  },
+  {
+   "id": 1260813781,
+   "name": "Lesser Ring of Stamina",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1260813781.png",
+   "page": "items/equipment/lesser-ring-of-stamina-1260813781.md",
+   "json": "items/equipment/lesser-ring-of-stamina-1260813781.json"
+  },
+  {
+   "id": 878081534,
+   "name": "Light Blonde Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/878081534.png",
+   "page": "items/equipment/light-blonde-hair-878081534.md",
+   "json": "items/equipment/light-blonde-hair-878081534.json"
+  },
+  {
+   "id": 3192745213,
+   "name": "Light Blue Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3192745213.png",
+   "page": "items/equipment/light-blue-eyes-3192745213.md",
+   "json": "items/equipment/light-blue-eyes-3192745213.json"
+  },
+  {
+   "id": 3275114930,
+   "name": "Light Blue Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3275114930.png",
+   "page": "items/equipment/light-blue-hair-3275114930.md",
+   "json": "items/equipment/light-blue-hair-3275114930.json"
+  },
+  {
+   "id": 3156042802,
+   "name": "Light Brown Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3156042802.png",
+   "page": "items/equipment/light-brown-eyes-3156042802.md",
+   "json": "items/equipment/light-brown-eyes-3156042802.json"
+  },
+  {
+   "id": 3501502293,
+   "name": "Light Brown Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3501502293.png",
+   "page": "items/equipment/light-brown-hair-3501502293.md",
+   "json": "items/equipment/light-brown-hair-3501502293.json"
+  },
+  {
+   "id": 2678894887,
+   "name": "Light Red Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2678894887.png",
+   "page": "items/equipment/light-red-hair-2678894887.md",
+   "json": "items/equipment/light-red-hair-2678894887.json"
+  },
+  {
+   "id": 2341461355,
+   "name": "Loraine's Glasses",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2341461355.png",
+   "page": "items/equipment/loraine-s-glasses-2341461355.md",
+   "json": "items/equipment/loraine-s-glasses-2341461355.json"
+  },
+  {
+   "id": 1539502869,
+   "name": "Loraine's Top",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1539502869.png",
+   "page": "items/equipment/loraine-s-top-1539502869.md",
+   "json": "items/equipment/loraine-s-top-1539502869.json"
+  },
+  {
+   "id": 1498407362,
+   "name": "Lumberer Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1498407362.png",
+   "page": "items/equipment/lumberer-boots-1498407362.md",
+   "json": "items/equipment/lumberer-boots-1498407362.json"
+  },
+  {
+   "id": 851178402,
+   "name": "Lumberer Chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/851178402.png",
+   "page": "items/equipment/lumberer-chest-851178402.md",
+   "json": "items/equipment/lumberer-chest-851178402.json"
+  },
+  {
+   "id": 1443602914,
+   "name": "Lumberer Gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1443602914.png",
+   "page": "items/equipment/lumberer-gloves-1443602914.md",
+   "json": "items/equipment/lumberer-gloves-1443602914.json"
+  },
+  {
+   "id": 3216732270,
+   "name": "Lumberer Hat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3216732270.png",
+   "page": "items/equipment/lumberer-hat-3216732270.md",
+   "json": "items/equipment/lumberer-hat-3216732270.json"
+  },
+  {
+   "id": 3588454306,
+   "name": "Lumberer Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3588454306.png",
+   "page": "items/equipment/lumberer-pants-3588454306.md",
+   "json": "items/equipment/lumberer-pants-3588454306.json"
+  },
+  {
+   "id": 1096990380,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1096990380.png",
+   "page": "items/equipment/mage-fog-protection-armor-1096990380.md",
+   "json": "items/equipment/mage-fog-protection-armor-1096990380.json"
+  },
+  {
+   "id": 1559741302,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1559741302.png",
+   "page": "items/equipment/mage-fog-protection-armor-1559741302.md",
+   "json": "items/equipment/mage-fog-protection-armor-1559741302.json"
+  },
+  {
+   "id": 2746111440,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2746111440.png",
+   "page": "items/equipment/mage-fog-protection-armor-2746111440.md",
+   "json": "items/equipment/mage-fog-protection-armor-2746111440.json"
+  },
+  {
+   "id": 4045860943,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4045860943.png",
+   "page": "items/equipment/mage-fog-protection-armor-4045860943.md",
+   "json": "items/equipment/mage-fog-protection-armor-4045860943.json"
+  },
+  {
+   "id": 4103714612,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4103714612.png",
+   "page": "items/equipment/mage-fog-protection-armor-4103714612.md",
+   "json": "items/equipment/mage-fog-protection-armor-4103714612.json"
+  },
+  {
+   "id": 3232881227,
+   "name": "Maid Farmer Hat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3232881227.png",
+   "page": "items/equipment/maid-farmer-hat-3232881227.md",
+   "json": "items/equipment/maid-farmer-hat-3232881227.json"
+  },
+  {
+   "id": 2717355704,
+   "name": "Maid Garb",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2717355704.png",
+   "page": "items/equipment/maid-garb-2717355704.md",
+   "json": "items/equipment/maid-garb-2717355704.json"
+  },
+  {
+   "id": 3181929447,
+   "name": "Maid Hat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3181929447.png",
+   "page": "items/equipment/maid-hat-3181929447.md",
+   "json": "items/equipment/maid-hat-3181929447.json"
+  },
+  {
+   "id": 3847929949,
+   "name": "Maid/Farmer Garb",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3847929949.png",
+   "page": "items/equipment/maid-farmer-garb-3847929949.md",
+   "json": "items/equipment/maid-farmer-garb-3847929949.json"
+  },
+  {
+   "id": 3773368910,
+   "name": "Medium Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3773368910.png",
+   "page": "items/equipment/medium-backpack-3773368910.md",
+   "json": "items/equipment/medium-backpack-3773368910.json"
+  },
+  {
+   "id": 4053516652,
+   "name": "Medium Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4053516652.png",
+   "page": "items/equipment/medium-backpack-4053516652.md",
+   "json": "items/equipment/medium-backpack-4053516652.json"
+  },
+  {
+   "id": 1392674456,
+   "name": "Miner Helmet",
+   "rarity": "Epic",
+   "level": "40",
+   "image": "images/icons/1392674456.png",
+   "page": "items/equipment/miner-helmet-1392674456.md",
+   "json": "items/equipment/miner-helmet-1392674456.json"
+  },
+  {
+   "id": 2414710072,
+   "name": "Mother's Eye",
+   "rarity": "Epic",
+   "level": "20",
+   "image": "images/icons/2414710072.png",
+   "page": "items/equipment/mother-s-eye-2414710072.md",
+   "json": "items/equipment/mother-s-eye-2414710072.json"
+  },
+  {
+   "id": 1752339147,
+   "name": "Muted Green Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1752339147.png",
+   "page": "items/equipment/muted-green-hair-1752339147.md",
+   "json": "items/equipment/muted-green-hair-1752339147.json"
+  },
+  {
+   "id": 2359130259,
+   "name": "Muted Red Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2359130259.png",
+   "page": "items/equipment/muted-red-hair-2359130259.md",
+   "json": "items/equipment/muted-red-hair-2359130259.json"
+  },
+  {
+   "id": 1550241218,
+   "name": "Orange Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1550241218.png",
+   "page": "items/equipment/orange-eyes-1550241218.md",
+   "json": "items/equipment/orange-eyes-1550241218.json"
+  },
+  {
+   "id": 2001509956,
+   "name": "Party Hat I",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2001509956.png",
+   "page": "items/equipment/party-hat-i-2001509956.md",
+   "json": "items/equipment/party-hat-i-2001509956.json"
+  },
+  {
+   "id": 572945787,
+   "name": "Party Hat II",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/572945787.png",
+   "page": "items/equipment/party-hat-ii-572945787.md",
+   "json": "items/equipment/party-hat-ii-572945787.json"
+  },
+  {
+   "id": 3734612767,
+   "name": "Party Hat III",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3734612767.png",
+   "page": "items/equipment/party-hat-iii-3734612767.md",
+   "json": "items/equipment/party-hat-iii-3734612767.json"
+  },
+  {
+   "id": 2748519377,
+   "name": "Party Hat IV",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2748519377.png",
+   "page": "items/equipment/party-hat-iv-2748519377.md",
+   "json": "items/equipment/party-hat-iv-2748519377.json"
+  },
+  {
+   "id": 1237193461,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/1237193461.png",
+   "page": "items/equipment/pikemead-s-ward-1237193461.md",
+   "json": "items/equipment/pikemead-s-ward-1237193461.json"
+  },
+  {
+   "id": 1828068654,
+   "name": "Pikemead's Ward",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1828068654.png",
+   "page": "items/equipment/pikemead-s-ward-1828068654.md",
+   "json": "items/equipment/pikemead-s-ward-1828068654.json"
+  },
+  {
+   "id": 2164917554,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2164917554.png",
+   "page": "items/equipment/pikemead-s-ward-2164917554.md",
+   "json": "items/equipment/pikemead-s-ward-2164917554.json"
+  },
+  {
+   "id": 255353296,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/255353296.png",
+   "page": "items/equipment/pikemead-s-ward-255353296.md",
+   "json": "items/equipment/pikemead-s-ward-255353296.json"
+  },
+  {
+   "id": 3738285842,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3738285842.png",
+   "page": "items/equipment/pikemead-s-ward-3738285842.md",
+   "json": "items/equipment/pikemead-s-ward-3738285842.json"
+  },
+  {
+   "id": 3957855784,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/3957855784.png",
+   "page": "items/equipment/pikemead-s-ward-3957855784.md",
+   "json": "items/equipment/pikemead-s-ward-3957855784.json"
+  },
+  {
+   "id": 454512717,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/454512717.png",
+   "page": "items/equipment/pikemead-s-ward-454512717.md",
+   "json": "items/equipment/pikemead-s-ward-454512717.json"
+  },
+  {
+   "id": 514520429,
+   "name": "Pikemead's Ward",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/514520429.png",
+   "page": "items/equipment/pikemead-s-ward-514520429.md",
+   "json": "items/equipment/pikemead-s-ward-514520429.json"
+  },
+  {
+   "id": 1544200461,
+   "name": "Pink Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1544200461.png",
+   "page": "items/equipment/pink-eyes-1544200461.md",
+   "json": "items/equipment/pink-eyes-1544200461.json"
+  },
+  {
+   "id": 531058391,
+   "name": "Pouch",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/531058391.png",
+   "page": "items/equipment/pouch-531058391.md",
+   "json": "items/equipment/pouch-531058391.json"
+  },
+  {
+   "id": 3553456403,
+   "name": "Purple Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3553456403.png",
+   "page": "items/equipment/purple-eyes-3553456403.md",
+   "json": "items/equipment/purple-eyes-3553456403.json"
+  },
+  {
+   "id": 2928750871,
+   "name": "Purple Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2928750871.png",
+   "page": "items/equipment/purple-hair-2928750871.md",
+   "json": "items/equipment/purple-hair-2928750871.json"
+  },
+  {
+   "id": 1184502832,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1184502832.png",
+   "page": "items/equipment/ranger-fog-protection-armor-1184502832.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1184502832.json"
+  },
+  {
+   "id": 1352959398,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1352959398.png",
+   "page": "items/equipment/ranger-fog-protection-armor-1352959398.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1352959398.json"
+  },
+  {
+   "id": 13759280,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/13759280.png",
+   "page": "items/equipment/ranger-fog-protection-armor-13759280.md",
+   "json": "items/equipment/ranger-fog-protection-armor-13759280.json"
+  },
+  {
+   "id": 3038310088,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3038310088.png",
+   "page": "items/equipment/ranger-fog-protection-armor-3038310088.md",
+   "json": "items/equipment/ranger-fog-protection-armor-3038310088.json"
+  },
+  {
+   "id": 935025760,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/935025760.png",
+   "page": "items/equipment/ranger-fog-protection-armor-935025760.md",
+   "json": "items/equipment/ranger-fog-protection-armor-935025760.json"
+  },
+  {
+   "id": 313427221,
+   "name": "Red Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/313427221.png",
+   "page": "items/equipment/red-eyes-313427221.md",
+   "json": "items/equipment/red-eyes-313427221.json"
+  },
+  {
+   "id": 846710579,
+   "name": "Red Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/846710579.png",
+   "page": "items/equipment/red-hair-846710579.md",
+   "json": "items/equipment/red-hair-846710579.json"
+  },
+  {
+   "id": 2387613955,
+   "name": "Regalia of the Blood Rose Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2387613955.png",
+   "page": "items/equipment/regalia-of-the-blood-rose-boots-2387613955.md",
+   "json": "items/equipment/regalia-of-the-blood-rose-boots-2387613955.json"
+  },
+  {
+   "id": 2730010681,
+   "name": "Regalia of the Blood Rose Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2730010681.png",
+   "page": "items/equipment/regalia-of-the-blood-rose-boots-2730010681.md",
+   "json": "items/equipment/regalia-of-the-blood-rose-boots-2730010681.json"
+  },
+  {
+   "id": 2666682889,
+   "name": "Ring Of Endless Life",
+   "rarity": "Epic",
+   "level": "5",
+   "image": "images/icons/2666682889.png",
+   "page": "items/equipment/ring-of-endless-life-2666682889.md",
+   "json": "items/equipment/ring-of-endless-life-2666682889.json"
+  },
+  {
+   "id": 4070275753,
+   "name": "Ring of Health",
+   "rarity": "Uncommon",
+   "level": "10",
+   "image": "images/icons/4070275753.png",
+   "page": "items/equipment/ring-of-health-4070275753.md",
+   "json": "items/equipment/ring-of-health-4070275753.json"
+  },
+  {
+   "id": 1376923158,
+   "name": "Ring of Mana",
+   "rarity": "Uncommon",
+   "level": "10",
+   "image": "images/icons/1376923158.png",
+   "page": "items/equipment/ring-of-mana-1376923158.md",
+   "json": "items/equipment/ring-of-mana-1376923158.json"
+  },
+  {
+   "id": 1198819201,
+   "name": "Ring of Rapacity",
+   "rarity": "Epic",
+   "level": "10",
+   "image": "images/icons/1198819201.png",
+   "page": "items/equipment/ring-of-rapacity-1198819201.md",
+   "json": "items/equipment/ring-of-rapacity-1198819201.json"
+  },
+  {
+   "id": 857219651,
+   "name": "Ring of Stamina",
+   "rarity": "Uncommon",
+   "level": "10",
+   "image": "images/icons/857219651.png",
+   "page": "items/equipment/ring-of-stamina-857219651.md",
+   "json": "items/equipment/ring-of-stamina-857219651.json"
+  },
+  {
+   "id": 1014087456,
+   "name": "Ring of the Ancients",
+   "rarity": "Legendary",
+   "level": "20",
+   "image": "images/icons/1014087456.png",
+   "page": "items/equipment/ring-of-the-ancients-1014087456.md",
+   "json": "items/equipment/ring-of-the-ancients-1014087456.json"
+  },
+  {
+   "id": 2034509824,
+   "name": "Ring Of The Burning Light",
+   "rarity": "Legendary",
+   "level": "15",
+   "image": "images/icons/2034509824.png",
+   "page": "items/equipment/ring-of-the-burning-light-2034509824.md",
+   "json": "items/equipment/ring-of-the-burning-light-2034509824.json"
+  },
+  {
+   "id": 4275592172,
+   "name": "Ring of the Flame",
+   "rarity": "Epic",
+   "level": "10",
+   "image": "images/icons/4275592172.png",
+   "page": "items/equipment/ring-of-the-flame-4275592172.md",
+   "json": "items/equipment/ring-of-the-flame-4275592172.json"
+  },
+  {
+   "id": 1590295047,
+   "name": "Ring of the Frost",
+   "rarity": "Legendary",
+   "level": "30",
+   "image": "images/icons/1590295047.png",
+   "page": "items/equipment/ring-of-the-frost-1590295047.md",
+   "json": "items/equipment/ring-of-the-frost-1590295047.json"
+  },
+  {
+   "id": 1474807415,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1474807415.png",
+   "page": "items/equipment/riptide-1474807415.md",
+   "json": "items/equipment/riptide-1474807415.json"
+  },
+  {
+   "id": 2644725310,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2644725310.png",
+   "page": "items/equipment/riptide-2644725310.md",
+   "json": "items/equipment/riptide-2644725310.json"
+  },
+  {
+   "id": 2903659724,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2903659724.png",
+   "page": "items/equipment/riptide-2903659724.md",
+   "json": "items/equipment/riptide-2903659724.json"
+  },
+  {
+   "id": 2972800174,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/2972800174.png",
+   "page": "items/equipment/riptide-2972800174.md",
+   "json": "items/equipment/riptide-2972800174.json"
+  },
+  {
+   "id": 349263893,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/349263893.png",
+   "page": "items/equipment/riptide-349263893.md",
+   "json": "items/equipment/riptide-349263893.json"
+  },
+  {
+   "id": 4004201468,
+   "name": "Riptide",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/4004201468.png",
+   "page": "items/equipment/riptide-4004201468.md",
+   "json": "items/equipment/riptide-4004201468.json"
+  },
+  {
+   "id": 870935206,
+   "name": "Riptide",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/870935206.png",
+   "page": "items/equipment/riptide-870935206.md",
+   "json": "items/equipment/riptide-870935206.json"
+  },
+  {
+   "id": 1694671169,
+   "name": "Rising Fighter Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1694671169.png",
+   "page": "items/equipment/rising-fighter-boots-1694671169.md",
+   "json": "items/equipment/rising-fighter-boots-1694671169.json"
+  },
+  {
+   "id": 2147223774,
+   "name": "Rising Fighter Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2147223774.png",
+   "page": "items/equipment/rising-fighter-boots-2147223774.md",
+   "json": "items/equipment/rising-fighter-boots-2147223774.json"
+  },
+  {
+   "id": 2051116629,
+   "name": "Rising Fighter Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2051116629.png",
+   "page": "items/equipment/rising-fighter-chest-2051116629.md",
+   "json": "items/equipment/rising-fighter-chest-2051116629.json"
+  },
+  {
+   "id": 2937561739,
+   "name": "Rising Fighter Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2937561739.png",
+   "page": "items/equipment/rising-fighter-chest-2937561739.md",
+   "json": "items/equipment/rising-fighter-chest-2937561739.json"
+  },
+  {
+   "id": 199517504,
+   "name": "Rising Fighter Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/199517504.png",
+   "page": "items/equipment/rising-fighter-gloves-199517504.md",
+   "json": "items/equipment/rising-fighter-gloves-199517504.json"
+  },
+  {
+   "id": 2007340070,
+   "name": "Rising Fighter Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2007340070.png",
+   "page": "items/equipment/rising-fighter-gloves-2007340070.md",
+   "json": "items/equipment/rising-fighter-gloves-2007340070.json"
+  },
+  {
+   "id": 2070050318,
+   "name": "Rising Fighter Helmet",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2070050318.png",
+   "page": "items/equipment/rising-fighter-helmet-2070050318.md",
+   "json": "items/equipment/rising-fighter-helmet-2070050318.json"
+  },
+  {
+   "id": 573920683,
+   "name": "Rising Fighter Helmet",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/573920683.png",
+   "page": "items/equipment/rising-fighter-helmet-573920683.md",
+   "json": "items/equipment/rising-fighter-helmet-573920683.json"
+  },
+  {
+   "id": 4293917741,
+   "name": "Rising Fighter Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/4293917741.png",
+   "page": "items/equipment/rising-fighter-trousers-4293917741.md",
+   "json": "items/equipment/rising-fighter-trousers-4293917741.json"
+  },
+  {
+   "id": 680780934,
+   "name": "Rising Fighter Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/680780934.png",
+   "page": "items/equipment/rising-fighter-trousers-680780934.md",
+   "json": "items/equipment/rising-fighter-trousers-680780934.json"
+  },
+  {
+   "id": 3456746978,
+   "name": "Saturated Blue Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3456746978.png",
+   "page": "items/equipment/saturated-blue-hair-3456746978.md",
+   "json": "items/equipment/saturated-blue-hair-3456746978.json"
+  },
+  {
+   "id": 4194334506,
+   "name": "Saturated Green Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4194334506.png",
+   "page": "items/equipment/saturated-green-hair-4194334506.md",
+   "json": "items/equipment/saturated-green-hair-4194334506.json"
+  },
+  {
+   "id": 3952330106,
+   "name": "Saturated Pink Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3952330106.png",
+   "page": "items/equipment/saturated-pink-hair-3952330106.md",
+   "json": "items/equipment/saturated-pink-hair-3952330106.json"
+  },
+  {
+   "id": 1677017695,
+   "name": "Scout Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1677017695.png",
+   "page": "items/equipment/scout-boots-1677017695.md",
+   "json": "items/equipment/scout-boots-1677017695.json"
+  },
+  {
+   "id": 3996283384,
+   "name": "Scout Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3996283384.png",
+   "page": "items/equipment/scout-boots-3996283384.md",
+   "json": "items/equipment/scout-boots-3996283384.json"
+  },
+  {
+   "id": 1033045151,
+   "name": "Scout Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1033045151.png",
+   "page": "items/equipment/scout-chest-1033045151.md",
+   "json": "items/equipment/scout-chest-1033045151.json"
+  },
+  {
+   "id": 4113785177,
+   "name": "Scout Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/4113785177.png",
+   "page": "items/equipment/scout-chest-4113785177.md",
+   "json": "items/equipment/scout-chest-4113785177.json"
+  },
+  {
+   "id": 1155497204,
+   "name": "Scout Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1155497204.png",
+   "page": "items/equipment/scout-gloves-1155497204.md",
+   "json": "items/equipment/scout-gloves-1155497204.json"
+  },
+  {
+   "id": 1972419518,
+   "name": "Scout Gloves",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1972419518.png",
+   "page": "items/equipment/scout-gloves-1972419518.md",
+   "json": "items/equipment/scout-gloves-1972419518.json"
+  },
+  {
+   "id": 2551307587,
+   "name": "Scout Hood",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2551307587.png",
+   "page": "items/equipment/scout-hood-2551307587.md",
+   "json": "items/equipment/scout-hood-2551307587.json"
+  },
+  {
+   "id": 3288375535,
+   "name": "Scout Hood",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3288375535.png",
+   "page": "items/equipment/scout-hood-3288375535.md",
+   "json": "items/equipment/scout-hood-3288375535.json"
+  },
+  {
+   "id": 1242709289,
+   "name": "Scout Pants",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1242709289.png",
+   "page": "items/equipment/scout-pants-1242709289.md",
+   "json": "items/equipment/scout-pants-1242709289.json"
+  },
+  {
+   "id": 2519499294,
+   "name": "Scout Pants",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2519499294.png",
+   "page": "items/equipment/scout-pants-2519499294.md",
+   "json": "items/equipment/scout-pants-2519499294.json"
+  },
+  {
+   "id": 4213879490,
+   "name": "Shield",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/4213879490.png",
+   "page": "items/equipment/shield-4213879490.md",
+   "json": "items/equipment/shield-4213879490.json"
+  },
+  {
+   "id": 691231505,
+   "name": "Shield",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/691231505.png",
+   "page": "items/equipment/shield-691231505.md",
+   "json": "items/equipment/shield-691231505.json"
+  },
+  {
+   "id": 2584194594,
+   "name": "Shield of Light",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2584194594.png",
+   "page": "items/equipment/shield-of-light-2584194594.md",
+   "json": "items/equipment/shield-of-light-2584194594.json"
+  },
+  {
+   "id": 3056575447,
+   "name": "Shield of Light",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3056575447.png",
+   "page": "items/equipment/shield-of-light-3056575447.md",
+   "json": "items/equipment/shield-of-light-3056575447.json"
+  },
+  {
+   "id": 1806390848,
+   "name": "Shirt Rags",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/1806390848.png",
+   "page": "items/equipment/shirt-rags-1806390848.md",
+   "json": "items/equipment/shirt-rags-1806390848.json"
+  },
+  {
+   "id": 2258082676,
+   "name": "Short Rags",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/2258082676.png",
+   "page": "items/equipment/short-rags-2258082676.md",
+   "json": "items/equipment/short-rags-2258082676.json"
+  },
+  {
+   "id": 3368833635,
+   "name": "Sigil Ring of the Elder Guard",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3368833635.png",
+   "page": "items/equipment/sigil-ring-of-the-elder-guard-3368833635.md",
+   "json": "items/equipment/sigil-ring-of-the-elder-guard-3368833635.json"
+  },
+  {
+   "id": 3121149981,
+   "name": "Skeleton armor twitch drop helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3121149981.png",
+   "page": "items/equipment/skeleton-armor-twitch-drop-helmet-3121149981.md",
+   "json": "items/equipment/skeleton-armor-twitch-drop-helmet-3121149981.json"
+  },
+  {
+   "id": 3619572274,
+   "name": "Skeleton armor twitch drop helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3619572274.png",
+   "page": "items/equipment/skeleton-armor-twitch-drop-helmet-3619572274.md",
+   "json": "items/equipment/skeleton-armor-twitch-drop-helmet-3619572274.json"
+  },
+  {
+   "id": 3728213390,
+   "name": "Small Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3728213390.png",
+   "page": "items/equipment/small-backpack-3728213390.md",
+   "json": "items/equipment/small-backpack-3728213390.json"
+  },
+  {
+   "id": 4231879756,
+   "name": "Small Backpack",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4231879756.png",
+   "page": "items/equipment/small-backpack-4231879756.md",
+   "json": "items/equipment/small-backpack-4231879756.json"
+  },
+  {
+   "id": 1405047893,
+   "name": "Spectral Shield",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1405047893.png",
+   "page": "items/equipment/spectral-shield-1405047893.md",
+   "json": "items/equipment/spectral-shield-1405047893.json"
+  },
+  {
+   "id": 201987856,
+   "name": "Spectral Shield",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/201987856.png",
+   "page": "items/equipment/spectral-shield-201987856.md",
+   "json": "items/equipment/spectral-shield-201987856.json"
+  },
+  {
+   "id": 3972122124,
+   "name": "Starter Shorts",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3972122124.png",
+   "page": "items/equipment/starter-shorts-3972122124.md",
+   "json": "items/equipment/starter-shorts-3972122124.json"
+  },
+  {
+   "id": 1974697806,
+   "name": "Stormshield",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1974697806.png",
+   "page": "items/equipment/stormshield-1974697806.md",
+   "json": "items/equipment/stormshield-1974697806.json"
+  },
+  {
+   "id": 2108531401,
+   "name": "Stormshield",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2108531401.png",
+   "page": "items/equipment/stormshield-2108531401.md",
+   "json": "items/equipment/stormshield-2108531401.json"
+  },
+  {
+   "id": 1064138195,
+   "name": "Summer Games Gloves / arm bands",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1064138195.png",
+   "page": "items/equipment/summer-games-gloves-arm-bands-1064138195.md",
+   "json": "items/equipment/summer-games-gloves-arm-bands-1064138195.json"
+  },
+  {
+   "id": 3575624386,
+   "name": "Summer Games Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3575624386.png",
+   "page": "items/equipment/summer-games-pants-3575624386.md",
+   "json": "items/equipment/summer-games-pants-3575624386.json"
+  },
+  {
+   "id": 2015512989,
+   "name": "Superior Ring of Health",
+   "rarity": "Uncommon",
+   "level": "20",
+   "image": "images/icons/2015512989.png",
+   "page": "items/equipment/superior-ring-of-health-2015512989.md",
+   "json": "items/equipment/superior-ring-of-health-2015512989.json"
+  },
+  {
+   "id": 243404904,
+   "name": "Superior Ring of Mana",
+   "rarity": "Uncommon",
+   "level": "20",
+   "image": "images/icons/243404904.png",
+   "page": "items/equipment/superior-ring-of-mana-243404904.md",
+   "json": "items/equipment/superior-ring-of-mana-243404904.json"
+  },
+  {
+   "id": 2688863491,
+   "name": "Superiour Ring of Stamina",
+   "rarity": "Uncommon",
+   "level": "20",
+   "image": "images/icons/2688863491.png",
+   "page": "items/equipment/superiour-ring-of-stamina-2688863491.md",
+   "json": "items/equipment/superiour-ring-of-stamina-2688863491.json"
+  },
+  {
+   "id": 357631245,
+   "name": "T1 noble dress arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/357631245.png",
+   "page": "items/equipment/t1-noble-dress-arms-357631245.md",
+   "json": "items/equipment/t1-noble-dress-arms-357631245.json"
+  },
+  {
+   "id": 2434837386,
+   "name": "T1 noble dress boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2434837386.png",
+   "page": "items/equipment/t1-noble-dress-boots-2434837386.md",
+   "json": "items/equipment/t1-noble-dress-boots-2434837386.json"
+  },
+  {
+   "id": 3179795171,
+   "name": "T1 noble dress chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3179795171.png",
+   "page": "items/equipment/t1-noble-dress-chest-3179795171.md",
+   "json": "items/equipment/t1-noble-dress-chest-3179795171.json"
+  },
+  {
+   "id": 3948210071,
+   "name": "T1 noble dress crown",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3948210071.png",
+   "page": "items/equipment/t1-noble-dress-crown-3948210071.md",
+   "json": "items/equipment/t1-noble-dress-crown-3948210071.json"
+  },
+  {
+   "id": 3224594917,
+   "name": "T1 noble dress legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3224594917.png",
+   "page": "items/equipment/t1-noble-dress-legs-3224594917.md",
+   "json": "items/equipment/t1-noble-dress-legs-3224594917.json"
+  },
+  {
+   "id": 2683908044,
+   "name": "T2 Archer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2683908044.png",
+   "page": "items/equipment/t2-archer-arms-2683908044.md",
+   "json": "items/equipment/t2-archer-arms-2683908044.json"
+  },
+  {
+   "id": 3232965601,
+   "name": "T2 Archer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3232965601.png",
+   "page": "items/equipment/t2-archer-arms-3232965601.md",
+   "json": "items/equipment/t2-archer-arms-3232965601.json"
+  },
+  {
+   "id": 2731186757,
+   "name": "T2 Archer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2731186757.png",
+   "page": "items/equipment/t2-archer-boots-2731186757.md",
+   "json": "items/equipment/t2-archer-boots-2731186757.json"
+  },
+  {
+   "id": 3170247014,
+   "name": "T2 Archer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3170247014.png",
+   "page": "items/equipment/t2-archer-boots-3170247014.md",
+   "json": "items/equipment/t2-archer-boots-3170247014.json"
+  },
+  {
+   "id": 1543470770,
+   "name": "T2 Archer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1543470770.png",
+   "page": "items/equipment/t2-archer-chest-1543470770.md",
+   "json": "items/equipment/t2-archer-chest-1543470770.json"
+  },
+  {
+   "id": 246760110,
+   "name": "T2 Archer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/246760110.png",
+   "page": "items/equipment/t2-archer-chest-246760110.md",
+   "json": "items/equipment/t2-archer-chest-246760110.json"
+  },
+  {
+   "id": 2933533544,
+   "name": "T2 Archer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2933533544.png",
+   "page": "items/equipment/t2-archer-helmet-2933533544.md",
+   "json": "items/equipment/t2-archer-helmet-2933533544.json"
+  },
+  {
+   "id": 3351665828,
+   "name": "T2 Archer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3351665828.png",
+   "page": "items/equipment/t2-archer-helmet-3351665828.md",
+   "json": "items/equipment/t2-archer-helmet-3351665828.json"
+  },
+  {
+   "id": 1314474617,
+   "name": "T2 Archer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1314474617.png",
+   "page": "items/equipment/t2-archer-legs-1314474617.md",
+   "json": "items/equipment/t2-archer-legs-1314474617.json"
+  },
+  {
+   "id": 3559413170,
+   "name": "T2 Archer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3559413170.png",
+   "page": "items/equipment/t2-archer-legs-3559413170.md",
+   "json": "items/equipment/t2-archer-legs-3559413170.json"
+  },
+  {
+   "id": 1108317357,
+   "name": "T2 DPS Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1108317357.png",
+   "page": "items/equipment/t2-dps-arms-1108317357.md",
+   "json": "items/equipment/t2-dps-arms-1108317357.json"
+  },
+  {
+   "id": 773065948,
+   "name": "T2 DPS Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/773065948.png",
+   "page": "items/equipment/t2-dps-arms-773065948.md",
+   "json": "items/equipment/t2-dps-arms-773065948.json"
+  },
+  {
+   "id": 372204401,
+   "name": "T2 DPS Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/372204401.png",
+   "page": "items/equipment/t2-dps-boots-372204401.md",
+   "json": "items/equipment/t2-dps-boots-372204401.json"
+  },
+  {
+   "id": 710844874,
+   "name": "T2 DPS Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/710844874.png",
+   "page": "items/equipment/t2-dps-boots-710844874.md",
+   "json": "items/equipment/t2-dps-boots-710844874.json"
+  },
+  {
+   "id": 2652134441,
+   "name": "T2 DPS Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2652134441.png",
+   "page": "items/equipment/t2-dps-chest-2652134441.md",
+   "json": "items/equipment/t2-dps-chest-2652134441.json"
+  },
+  {
+   "id": 3101300981,
+   "name": "T2 DPS Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3101300981.png",
+   "page": "items/equipment/t2-dps-chest-3101300981.md",
+   "json": "items/equipment/t2-dps-chest-3101300981.json"
+  },
+  {
+   "id": 3359562849,
+   "name": "T2 DPS Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3359562849.png",
+   "page": "items/equipment/t2-dps-helmet-3359562849.md",
+   "json": "items/equipment/t2-dps-helmet-3359562849.json"
+  },
+  {
+   "id": 4279969253,
+   "name": "T2 DPS Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4279969253.png",
+   "page": "items/equipment/t2-dps-helmet-4279969253.md",
+   "json": "items/equipment/t2-dps-helmet-4279969253.json"
+  },
+  {
+   "id": 3288350660,
+   "name": "T2 DPS Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3288350660.png",
+   "page": "items/equipment/t2-dps-legs-3288350660.md",
+   "json": "items/equipment/t2-dps-legs-3288350660.json"
+  },
+  {
+   "id": 703671716,
+   "name": "T2 DPS Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/703671716.png",
+   "page": "items/equipment/t2-dps-legs-703671716.md",
+   "json": "items/equipment/t2-dps-legs-703671716.json"
+  },
+  {
+   "id": 4140714720,
+   "name": "T2 explorer boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4140714720.png",
+   "page": "items/equipment/t2-explorer-boots-4140714720.md",
+   "json": "items/equipment/t2-explorer-boots-4140714720.json"
+  },
+  {
+   "id": 2140158419,
+   "name": "T2 explorer chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2140158419.png",
+   "page": "items/equipment/t2-explorer-chest-2140158419.md",
+   "json": "items/equipment/t2-explorer-chest-2140158419.json"
+  },
+  {
+   "id": 723826501,
+   "name": "T2 explorer helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/723826501.png",
+   "page": "items/equipment/t2-explorer-helmet-723826501.md",
+   "json": "items/equipment/t2-explorer-helmet-723826501.json"
+  },
+  {
+   "id": 3664044083,
+   "name": "T2 explorer legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3664044083.png",
+   "page": "items/equipment/t2-explorer-legs-3664044083.md",
+   "json": "items/equipment/t2-explorer-legs-3664044083.json"
+  },
+  {
+   "id": 2375429314,
+   "name": "T2 explorerArms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2375429314.png",
+   "page": "items/equipment/t2-explorerarms-2375429314.md",
+   "json": "items/equipment/t2-explorerarms-2375429314.json"
+  },
+  {
+   "id": 3616614020,
+   "name": "T2 Healer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3616614020.png",
+   "page": "items/equipment/t2-healer-arms-3616614020.md",
+   "json": "items/equipment/t2-healer-arms-3616614020.json"
+  },
+  {
+   "id": 614770460,
+   "name": "T2 Healer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/614770460.png",
+   "page": "items/equipment/t2-healer-arms-614770460.md",
+   "json": "items/equipment/t2-healer-arms-614770460.json"
+  },
+  {
+   "id": 4089349181,
+   "name": "T2 Healer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4089349181.png",
+   "page": "items/equipment/t2-healer-boots-4089349181.md",
+   "json": "items/equipment/t2-healer-boots-4089349181.json"
+  },
+  {
+   "id": 4234118833,
+   "name": "T2 Healer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4234118833.png",
+   "page": "items/equipment/t2-healer-boots-4234118833.md",
+   "json": "items/equipment/t2-healer-boots-4234118833.json"
+  },
+  {
+   "id": 111548446,
+   "name": "T2 Healer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/111548446.png",
+   "page": "items/equipment/t2-healer-chest-111548446.md",
+   "json": "items/equipment/t2-healer-chest-111548446.json"
+  },
+  {
+   "id": 2707905851,
+   "name": "T2 Healer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2707905851.png",
+   "page": "items/equipment/t2-healer-chest-2707905851.md",
+   "json": "items/equipment/t2-healer-chest-2707905851.json"
+  },
+  {
+   "id": 4040241990,
+   "name": "T2 Healer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4040241990.png",
+   "page": "items/equipment/t2-healer-helmet-4040241990.md",
+   "json": "items/equipment/t2-healer-helmet-4040241990.json"
+  },
+  {
+   "id": 628018019,
+   "name": "T2 Healer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/628018019.png",
+   "page": "items/equipment/t2-healer-helmet-628018019.md",
+   "json": "items/equipment/t2-healer-helmet-628018019.json"
+  },
+  {
+   "id": 1484060021,
+   "name": "T2 Healer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1484060021.png",
+   "page": "items/equipment/t2-healer-legs-1484060021.md",
+   "json": "items/equipment/t2-healer-legs-1484060021.json"
+  },
+  {
+   "id": 722422442,
+   "name": "T2 Healer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/722422442.png",
+   "page": "items/equipment/t2-healer-legs-722422442.md",
+   "json": "items/equipment/t2-healer-legs-722422442.json"
+  },
+  {
+   "id": 3012114062,
+   "name": "T2 Lore Armor Fogger Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3012114062.png",
+   "page": "items/equipment/t2-lore-armor-fogger-arms-3012114062.md",
+   "json": "items/equipment/t2-lore-armor-fogger-arms-3012114062.json"
+  },
+  {
+   "id": 1225142754,
+   "name": "T2 Lore Armor Fogger Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1225142754.png",
+   "page": "items/equipment/t2-lore-armor-fogger-boots-1225142754.md",
+   "json": "items/equipment/t2-lore-armor-fogger-boots-1225142754.json"
+  },
+  {
+   "id": 3266681262,
+   "name": "T2 Lore Armor Fogger Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3266681262.png",
+   "page": "items/equipment/t2-lore-armor-fogger-chest-3266681262.md",
+   "json": "items/equipment/t2-lore-armor-fogger-chest-3266681262.json"
+  },
+  {
+   "id": 2212802976,
+   "name": "T2 Lore Armor Fogger Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2212802976.png",
+   "page": "items/equipment/t2-lore-armor-fogger-helmet-2212802976.md",
+   "json": "items/equipment/t2-lore-armor-fogger-helmet-2212802976.json"
+  },
+  {
+   "id": 1339461029,
+   "name": "T2 Lore Armor Fogger Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1339461029.png",
+   "page": "items/equipment/t2-lore-armor-fogger-legs-1339461029.md",
+   "json": "items/equipment/t2-lore-armor-fogger-legs-1339461029.json"
+  },
+  {
+   "id": 3973020884,
+   "name": "T2 Mage Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3973020884.png",
+   "page": "items/equipment/t2-mage-arms-3973020884.md",
+   "json": "items/equipment/t2-mage-arms-3973020884.json"
+  },
+  {
+   "id": 475314263,
+   "name": "T2 Mage Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/475314263.png",
+   "page": "items/equipment/t2-mage-arms-475314263.md",
+   "json": "items/equipment/t2-mage-arms-475314263.json"
+  },
+  {
+   "id": 2841320705,
+   "name": "T2 Mage Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2841320705.png",
+   "page": "items/equipment/t2-mage-boots-2841320705.md",
+   "json": "items/equipment/t2-mage-boots-2841320705.json"
+  },
+  {
+   "id": 3954314149,
+   "name": "T2 Mage Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3954314149.png",
+   "page": "items/equipment/t2-mage-boots-3954314149.md",
+   "json": "items/equipment/t2-mage-boots-3954314149.json"
+  },
+  {
+   "id": 3494556891,
+   "name": "T2 Mage Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3494556891.png",
+   "page": "items/equipment/t2-mage-chest-3494556891.md",
+   "json": "items/equipment/t2-mage-chest-3494556891.json"
+  },
+  {
+   "id": 3532723599,
+   "name": "T2 Mage Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3532723599.png",
+   "page": "items/equipment/t2-mage-chest-3532723599.md",
+   "json": "items/equipment/t2-mage-chest-3532723599.json"
+  },
+  {
+   "id": 3237374405,
+   "name": "T2 Mage Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3237374405.png",
+   "page": "items/equipment/t2-mage-helmet-3237374405.md",
+   "json": "items/equipment/t2-mage-helmet-3237374405.json"
+  },
+  {
+   "id": 4023330150,
+   "name": "T2 Mage Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4023330150.png",
+   "page": "items/equipment/t2-mage-helmet-4023330150.md",
+   "json": "items/equipment/t2-mage-helmet-4023330150.json"
+  },
+  {
+   "id": 1798843751,
+   "name": "T2 Mage Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1798843751.png",
+   "page": "items/equipment/t2-mage-legs-1798843751.md",
+   "json": "items/equipment/t2-mage-legs-1798843751.json"
+  },
+  {
+   "id": 2164129974,
+   "name": "T2 Mage Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2164129974.png",
+   "page": "items/equipment/t2-mage-legs-2164129974.md",
+   "json": "items/equipment/t2-mage-legs-2164129974.json"
+  },
+  {
+   "id": 1883961235,
+   "name": "T2 Ranger Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1883961235.png",
+   "page": "items/equipment/t2-ranger-arms-1883961235.md",
+   "json": "items/equipment/t2-ranger-arms-1883961235.json"
+  },
+  {
+   "id": 1903013382,
+   "name": "T2 Ranger Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1903013382.png",
+   "page": "items/equipment/t2-ranger-arms-1903013382.md",
+   "json": "items/equipment/t2-ranger-arms-1903013382.json"
+  },
+  {
+   "id": 265162097,
+   "name": "T2 Ranger Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/265162097.png",
+   "page": "items/equipment/t2-ranger-boots-265162097.md",
+   "json": "items/equipment/t2-ranger-boots-265162097.json"
+  },
+  {
+   "id": 3590618366,
+   "name": "T2 Ranger Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3590618366.png",
+   "page": "items/equipment/t2-ranger-boots-3590618366.md",
+   "json": "items/equipment/t2-ranger-boots-3590618366.json"
+  },
+  {
+   "id": 1856277122,
+   "name": "T2 Ranger Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1856277122.png",
+   "page": "items/equipment/t2-ranger-chest-1856277122.md",
+   "json": "items/equipment/t2-ranger-chest-1856277122.json"
+  },
+  {
+   "id": 2778778931,
+   "name": "T2 Ranger Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2778778931.png",
+   "page": "items/equipment/t2-ranger-chest-2778778931.md",
+   "json": "items/equipment/t2-ranger-chest-2778778931.json"
+  },
+  {
+   "id": 1191002021,
+   "name": "T2 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1191002021.png",
+   "page": "items/equipment/t2-ranger-helmet-1191002021.md",
+   "json": "items/equipment/t2-ranger-helmet-1191002021.json"
+  },
+  {
+   "id": 1617642810,
+   "name": "T2 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1617642810.png",
+   "page": "items/equipment/t2-ranger-helmet-1617642810.md",
+   "json": "items/equipment/t2-ranger-helmet-1617642810.json"
+  },
+  {
+   "id": 1505192014,
+   "name": "T2 Ranger Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1505192014.png",
+   "page": "items/equipment/t2-ranger-legs-1505192014.md",
+   "json": "items/equipment/t2-ranger-legs-1505192014.json"
+  },
+  {
+   "id": 2374868988,
+   "name": "T2 Ranger Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2374868988.png",
+   "page": "items/equipment/t2-ranger-legs-2374868988.md",
+   "json": "items/equipment/t2-ranger-legs-2374868988.json"
+  },
+  {
+   "id": 1190918199,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1190918199.png",
+   "page": "items/equipment/t2-royal-arms-1190918199.md",
+   "json": "items/equipment/t2-royal-arms-1190918199.json"
+  },
+  {
+   "id": 2166163667,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2166163667.png",
+   "page": "items/equipment/t2-royal-arms-2166163667.md",
+   "json": "items/equipment/t2-royal-arms-2166163667.json"
+  },
+  {
+   "id": 3203382450,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3203382450.png",
+   "page": "items/equipment/t2-royal-arms-3203382450.md",
+   "json": "items/equipment/t2-royal-arms-3203382450.json"
+  },
+  {
+   "id": 3714498619,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3714498619.png",
+   "page": "items/equipment/t2-royal-arms-3714498619.md",
+   "json": "items/equipment/t2-royal-arms-3714498619.json"
+  },
+  {
+   "id": 284131825,
+   "name": "T2 royal boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/284131825.png",
+   "page": "items/equipment/t2-royal-boots-284131825.md",
+   "json": "items/equipment/t2-royal-boots-284131825.json"
+  },
+  {
+   "id": 4254847360,
+   "name": "T2 royal chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4254847360.png",
+   "page": "items/equipment/t2-royal-chest-4254847360.md",
+   "json": "items/equipment/t2-royal-chest-4254847360.json"
+  },
+  {
+   "id": 3353610165,
+   "name": "T2 royal crown",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3353610165.png",
+   "page": "items/equipment/t2-royal-crown-3353610165.md",
+   "json": "items/equipment/t2-royal-crown-3353610165.json"
+  },
+  {
+   "id": 1966514023,
+   "name": "T2 royal legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1966514023.png",
+   "page": "items/equipment/t2-royal-legs-1966514023.md",
+   "json": "items/equipment/t2-royal-legs-1966514023.json"
+  },
+  {
+   "id": 4065374720,
+   "name": "T2 Sniper Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4065374720.png",
+   "page": "items/equipment/t2-sniper-arms-4065374720.md",
+   "json": "items/equipment/t2-sniper-arms-4065374720.json"
+  },
+  {
+   "id": 1177540804,
+   "name": "T2 Sniper Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1177540804.png",
+   "page": "items/equipment/t2-sniper-boots-1177540804.md",
+   "json": "items/equipment/t2-sniper-boots-1177540804.json"
+  },
+  {
+   "id": 1206899711,
+   "name": "T2 Sniper Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1206899711.png",
+   "page": "items/equipment/t2-sniper-chest-1206899711.md",
+   "json": "items/equipment/t2-sniper-chest-1206899711.json"
+  },
+  {
+   "id": 1647559739,
+   "name": "T2 Sniper Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1647559739.png",
+   "page": "items/equipment/t2-sniper-helmet-1647559739.md",
+   "json": "items/equipment/t2-sniper-helmet-1647559739.json"
+  },
+  {
+   "id": 2422827884,
+   "name": "T2 Sniper Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2422827884.png",
+   "page": "items/equipment/t2-sniper-helmet-2422827884.md",
+   "json": "items/equipment/t2-sniper-helmet-2422827884.json"
+  },
+  {
+   "id": 2843728418,
+   "name": "T2 Sniper Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2843728418.png",
+   "page": "items/equipment/t2-sniper-legs-2843728418.md",
+   "json": "items/equipment/t2-sniper-legs-2843728418.json"
+  },
+  {
+   "id": 1113469647,
+   "name": "T2 Tank Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1113469647.png",
+   "page": "items/equipment/t2-tank-arms-1113469647.md",
+   "json": "items/equipment/t2-tank-arms-1113469647.json"
+  },
+  {
+   "id": 562817724,
+   "name": "T2 Tank Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/562817724.png",
+   "page": "items/equipment/t2-tank-arms-562817724.md",
+   "json": "items/equipment/t2-tank-arms-562817724.json"
+  },
+  {
+   "id": 4178035364,
+   "name": "T2 Tank Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4178035364.png",
+   "page": "items/equipment/t2-tank-boots-4178035364.md",
+   "json": "items/equipment/t2-tank-boots-4178035364.json"
+  },
+  {
+   "id": 945263736,
+   "name": "T2 Tank Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/945263736.png",
+   "page": "items/equipment/t2-tank-boots-945263736.md",
+   "json": "items/equipment/t2-tank-boots-945263736.json"
+  },
+  {
+   "id": 1409292027,
+   "name": "T2 Tank Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1409292027.png",
+   "page": "items/equipment/t2-tank-chest-1409292027.md",
+   "json": "items/equipment/t2-tank-chest-1409292027.json"
+  },
+  {
+   "id": 1555932121,
+   "name": "T2 Tank Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1555932121.png",
+   "page": "items/equipment/t2-tank-chest-1555932121.md",
+   "json": "items/equipment/t2-tank-chest-1555932121.json"
+  },
+  {
+   "id": 1003611057,
+   "name": "T2 Tank Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1003611057.png",
+   "page": "items/equipment/t2-tank-helmet-1003611057.md",
+   "json": "items/equipment/t2-tank-helmet-1003611057.json"
+  },
+  {
+   "id": 2292844068,
+   "name": "T2 Tank Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2292844068.png",
+   "page": "items/equipment/t2-tank-helmet-2292844068.md",
+   "json": "items/equipment/t2-tank-helmet-2292844068.json"
+  },
+  {
+   "id": 2509853978,
+   "name": "T2 Tank Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2509853978.png",
+   "page": "items/equipment/t2-tank-legs-2509853978.md",
+   "json": "items/equipment/t2-tank-legs-2509853978.json"
+  },
+  {
+   "id": 72360942,
+   "name": "T2 Tank Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/72360942.png",
+   "page": "items/equipment/t2-tank-legs-72360942.md",
+   "json": "items/equipment/t2-tank-legs-72360942.json"
+  },
+  {
+   "id": 2881012402,
+   "name": "T2 Warrior Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2881012402.png",
+   "page": "items/equipment/t2-warrior-arms-2881012402.md",
+   "json": "items/equipment/t2-warrior-arms-2881012402.json"
+  },
+  {
+   "id": 1273651839,
+   "name": "T2 Warrior Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1273651839.png",
+   "page": "items/equipment/t2-warrior-boots-1273651839.md",
+   "json": "items/equipment/t2-warrior-boots-1273651839.json"
+  },
+  {
+   "id": 3302573043,
+   "name": "T2 Warrior Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3302573043.png",
+   "page": "items/equipment/t2-warrior-chest-3302573043.md",
+   "json": "items/equipment/t2-warrior-chest-3302573043.json"
+  },
+  {
+   "id": 2585181438,
+   "name": "T2 Warrior Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2585181438.png",
+   "page": "items/equipment/t2-warrior-helmet-2585181438.md",
+   "json": "items/equipment/t2-warrior-helmet-2585181438.json"
+  },
+  {
+   "id": 1482647793,
+   "name": "T2 Warrior Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1482647793.png",
+   "page": "items/equipment/t2-warrior-legs-1482647793.md",
+   "json": "items/equipment/t2-warrior-legs-1482647793.json"
+  },
+  {
+   "id": 3950291290,
+   "name": "T2 Wizard Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3950291290.png",
+   "page": "items/equipment/t2-wizard-arms-3950291290.md",
+   "json": "items/equipment/t2-wizard-arms-3950291290.json"
+  },
+  {
+   "id": 1452562148,
+   "name": "T2 Wizard Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1452562148.png",
+   "page": "items/equipment/t2-wizard-boots-1452562148.md",
+   "json": "items/equipment/t2-wizard-boots-1452562148.json"
+  },
+  {
+   "id": 2675141124,
+   "name": "T2 Wizard Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2675141124.png",
+   "page": "items/equipment/t2-wizard-chest-2675141124.md",
+   "json": "items/equipment/t2-wizard-chest-2675141124.json"
+  },
+  {
+   "id": 4153283154,
+   "name": "T2 Wizard Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4153283154.png",
+   "page": "items/equipment/t2-wizard-helmet-4153283154.md",
+   "json": "items/equipment/t2-wizard-helmet-4153283154.json"
+  },
+  {
+   "id": 2475697782,
+   "name": "T2 Wizard Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2475697782.png",
+   "page": "items/equipment/t2-wizard-legs-2475697782.md",
+   "json": "items/equipment/t2-wizard-legs-2475697782.json"
+  },
+  {
+   "id": 4105535926,
+   "name": "T3 Archer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4105535926.png",
+   "page": "items/equipment/t3-archer-arms-4105535926.md",
+   "json": "items/equipment/t3-archer-arms-4105535926.json"
+  },
+  {
+   "id": 699269342,
+   "name": "T3 Archer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/699269342.png",
+   "page": "items/equipment/t3-archer-arms-699269342.md",
+   "json": "items/equipment/t3-archer-arms-699269342.json"
+  },
+  {
+   "id": 3841827233,
+   "name": "T3 Archer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3841827233.png",
+   "page": "items/equipment/t3-archer-boots-3841827233.md",
+   "json": "items/equipment/t3-archer-boots-3841827233.json"
+  },
+  {
+   "id": 905258707,
+   "name": "T3 Archer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/905258707.png",
+   "page": "items/equipment/t3-archer-boots-905258707.md",
+   "json": "items/equipment/t3-archer-boots-905258707.json"
+  },
+  {
+   "id": 1582871397,
+   "name": "T3 Archer Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1582871397.png",
+   "page": "items/equipment/t3-archer-chest-1582871397.md",
+   "json": "items/equipment/t3-archer-chest-1582871397.json"
+  },
+  {
+   "id": 2301277967,
+   "name": "T3 Archer Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2301277967.png",
+   "page": "items/equipment/t3-archer-chest-2301277967.md",
+   "json": "items/equipment/t3-archer-chest-2301277967.json"
+  },
+  {
+   "id": 1822528443,
+   "name": "T3 Archer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1822528443.png",
+   "page": "items/equipment/t3-archer-helmet-1822528443.md",
+   "json": "items/equipment/t3-archer-helmet-1822528443.json"
+  },
+  {
+   "id": 2197847702,
+   "name": "T3 Archer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2197847702.png",
+   "page": "items/equipment/t3-archer-helmet-2197847702.md",
+   "json": "items/equipment/t3-archer-helmet-2197847702.json"
+  },
+  {
+   "id": 3281783103,
+   "name": "T3 Archer Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3281783103.png",
+   "page": "items/equipment/t3-archer-legs-3281783103.md",
+   "json": "items/equipment/t3-archer-legs-3281783103.json"
+  },
+  {
+   "id": 807077323,
+   "name": "T3 Archer Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/807077323.png",
+   "page": "items/equipment/t3-archer-legs-807077323.md",
+   "json": "items/equipment/t3-archer-legs-807077323.json"
+  },
+  {
+   "id": 2202659557,
+   "name": "T3 DPS Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2202659557.png",
+   "page": "items/equipment/t3-dps-arms-2202659557.md",
+   "json": "items/equipment/t3-dps-arms-2202659557.json"
+  },
+  {
+   "id": 3752044615,
+   "name": "T3 DPS Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3752044615.png",
+   "page": "items/equipment/t3-dps-arms-3752044615.md",
+   "json": "items/equipment/t3-dps-arms-3752044615.json"
+  },
+  {
+   "id": 30416182,
+   "name": "T3 DPS Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/30416182.png",
+   "page": "items/equipment/t3-dps-boots-30416182.md",
+   "json": "items/equipment/t3-dps-boots-30416182.json"
+  },
+  {
+   "id": 955633059,
+   "name": "T3 DPS Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/955633059.png",
+   "page": "items/equipment/t3-dps-boots-955633059.md",
+   "json": "items/equipment/t3-dps-boots-955633059.json"
+  },
+  {
+   "id": 2668531225,
+   "name": "T3 DPS Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2668531225.png",
+   "page": "items/equipment/t3-dps-chest-2668531225.md",
+   "json": "items/equipment/t3-dps-chest-2668531225.json"
+  },
+  {
+   "id": 3800404508,
+   "name": "T3 DPS Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3800404508.png",
+   "page": "items/equipment/t3-dps-chest-3800404508.md",
+   "json": "items/equipment/t3-dps-chest-3800404508.json"
+  },
+  {
+   "id": 224726586,
+   "name": "T3 DPS Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/224726586.png",
+   "page": "items/equipment/t3-dps-helmet-224726586.md",
+   "json": "items/equipment/t3-dps-helmet-224726586.json"
+  },
+  {
+   "id": 3255447356,
+   "name": "T3 DPS Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3255447356.png",
+   "page": "items/equipment/t3-dps-helmet-3255447356.md",
+   "json": "items/equipment/t3-dps-helmet-3255447356.json"
+  },
+  {
+   "id": 2034875163,
+   "name": "T3 DPS Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2034875163.png",
+   "page": "items/equipment/t3-dps-legs-2034875163.md",
+   "json": "items/equipment/t3-dps-legs-2034875163.json"
+  },
+  {
+   "id": 3863778128,
+   "name": "T3 DPS Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3863778128.png",
+   "page": "items/equipment/t3-dps-legs-3863778128.md",
+   "json": "items/equipment/t3-dps-legs-3863778128.json"
+  },
+  {
+   "id": 4053860811,
+   "name": "T3 Healer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4053860811.png",
+   "page": "items/equipment/t3-healer-arms-4053860811.md",
+   "json": "items/equipment/t3-healer-arms-4053860811.json"
+  },
+  {
+   "id": 948744885,
+   "name": "T3 Healer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/948744885.png",
+   "page": "items/equipment/t3-healer-arms-948744885.md",
+   "json": "items/equipment/t3-healer-arms-948744885.json"
+  },
+  {
+   "id": 1977989355,
+   "name": "T3 Healer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1977989355.png",
+   "page": "items/equipment/t3-healer-boots-1977989355.md",
+   "json": "items/equipment/t3-healer-boots-1977989355.json"
+  },
+  {
+   "id": 3902182454,
+   "name": "T3 Healer Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3902182454.png",
+   "page": "items/equipment/t3-healer-boots-3902182454.md",
+   "json": "items/equipment/t3-healer-boots-3902182454.json"
+  },
+  {
+   "id": 2021972647,
+   "name": "T3 Healer Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2021972647.png",
+   "page": "items/equipment/t3-healer-chest-2021972647.md",
+   "json": "items/equipment/t3-healer-chest-2021972647.json"
+  },
+  {
+   "id": 2793515653,
+   "name": "T3 Healer Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2793515653.png",
+   "page": "items/equipment/t3-healer-chest-2793515653.md",
+   "json": "items/equipment/t3-healer-chest-2793515653.json"
+  },
+  {
+   "id": 1240317845,
+   "name": "T3 Healer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1240317845.png",
+   "page": "items/equipment/t3-healer-helmet-1240317845.md",
+   "json": "items/equipment/t3-healer-helmet-1240317845.json"
+  },
+  {
+   "id": 2431930862,
+   "name": "T3 Healer Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2431930862.png",
+   "page": "items/equipment/t3-healer-helmet-2431930862.md",
+   "json": "items/equipment/t3-healer-helmet-2431930862.json"
+  },
+  {
+   "id": 3397322687,
+   "name": "T3 Healer Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3397322687.png",
+   "page": "items/equipment/t3-healer-legs-3397322687.md",
+   "json": "items/equipment/t3-healer-legs-3397322687.json"
+  },
+  {
+   "id": 823841299,
+   "name": "T3 Healer Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/823841299.png",
+   "page": "items/equipment/t3-healer-legs-823841299.md",
+   "json": "items/equipment/t3-healer-legs-823841299.json"
+  },
+  {
+   "id": 536768042,
+   "name": "T3 Mage Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/536768042.png",
+   "page": "items/equipment/t3-mage-arms-536768042.md",
+   "json": "items/equipment/t3-mage-arms-536768042.json"
+  },
+  {
+   "id": 886063879,
+   "name": "T3 Mage Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/886063879.png",
+   "page": "items/equipment/t3-mage-arms-886063879.md",
+   "json": "items/equipment/t3-mage-arms-886063879.json"
+  },
+  {
+   "id": 1847071028,
+   "name": "T3 Mage Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1847071028.png",
+   "page": "items/equipment/t3-mage-boots-1847071028.md",
+   "json": "items/equipment/t3-mage-boots-1847071028.json"
+  },
+  {
+   "id": 3276829374,
+   "name": "T3 Mage Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3276829374.png",
+   "page": "items/equipment/t3-mage-boots-3276829374.md",
+   "json": "items/equipment/t3-mage-boots-3276829374.json"
+  },
+  {
+   "id": 1523324827,
+   "name": "T3 Mage Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1523324827.png",
+   "page": "items/equipment/t3-mage-chest-1523324827.md",
+   "json": "items/equipment/t3-mage-chest-1523324827.json"
+  },
+  {
+   "id": 3397095517,
+   "name": "T3 Mage Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3397095517.png",
+   "page": "items/equipment/t3-mage-chest-3397095517.md",
+   "json": "items/equipment/t3-mage-chest-3397095517.json"
+  },
+  {
+   "id": 2953898739,
+   "name": "T3 Mage Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2953898739.png",
+   "page": "items/equipment/t3-mage-helmet-2953898739.md",
+   "json": "items/equipment/t3-mage-helmet-2953898739.json"
+  },
+  {
+   "id": 4289077760,
+   "name": "T3 Mage Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4289077760.png",
+   "page": "items/equipment/t3-mage-helmet-4289077760.md",
+   "json": "items/equipment/t3-mage-helmet-4289077760.json"
+  },
+  {
+   "id": 2743374359,
+   "name": "T3 Mage Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2743374359.png",
+   "page": "items/equipment/t3-mage-legs-2743374359.md",
+   "json": "items/equipment/t3-mage-legs-2743374359.json"
+  },
+  {
+   "id": 2941992815,
+   "name": "T3 Mage Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2941992815.png",
+   "page": "items/equipment/t3-mage-legs-2941992815.md",
+   "json": "items/equipment/t3-mage-legs-2941992815.json"
+  },
+  {
+   "id": 383069883,
+   "name": "T3 Ranger Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/383069883.png",
+   "page": "items/equipment/t3-ranger-arms-383069883.md",
+   "json": "items/equipment/t3-ranger-arms-383069883.json"
+  },
+  {
+   "id": 652028600,
+   "name": "T3 Ranger Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/652028600.png",
+   "page": "items/equipment/t3-ranger-arms-652028600.md",
+   "json": "items/equipment/t3-ranger-arms-652028600.json"
+  },
+  {
+   "id": 161814920,
+   "name": "T3 Ranger Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/161814920.png",
+   "page": "items/equipment/t3-ranger-boots-161814920.md",
+   "json": "items/equipment/t3-ranger-boots-161814920.json"
+  },
+  {
+   "id": 2468099553,
+   "name": "T3 Ranger Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2468099553.png",
+   "page": "items/equipment/t3-ranger-boots-2468099553.md",
+   "json": "items/equipment/t3-ranger-boots-2468099553.json"
+  },
+  {
+   "id": 2255840984,
+   "name": "T3 Ranger Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2255840984.png",
+   "page": "items/equipment/t3-ranger-chest-2255840984.md",
+   "json": "items/equipment/t3-ranger-chest-2255840984.json"
+  },
+  {
+   "id": 2613010861,
+   "name": "T3 Ranger Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2613010861.png",
+   "page": "items/equipment/t3-ranger-chest-2613010861.md",
+   "json": "items/equipment/t3-ranger-chest-2613010861.json"
+  },
+  {
+   "id": 1025627126,
+   "name": "T3 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1025627126.png",
+   "page": "items/equipment/t3-ranger-helmet-1025627126.md",
+   "json": "items/equipment/t3-ranger-helmet-1025627126.json"
+  },
+  {
+   "id": 977735658,
+   "name": "T3 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/977735658.png",
+   "page": "items/equipment/t3-ranger-helmet-977735658.md",
+   "json": "items/equipment/t3-ranger-helmet-977735658.json"
+  },
+  {
+   "id": 1236068115,
+   "name": "T3 Ranger Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1236068115.png",
+   "page": "items/equipment/t3-ranger-legs-1236068115.md",
+   "json": "items/equipment/t3-ranger-legs-1236068115.json"
+  },
+  {
+   "id": 1457866946,
+   "name": "T3 Ranger Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1457866946.png",
+   "page": "items/equipment/t3-ranger-legs-1457866946.md",
+   "json": "items/equipment/t3-ranger-legs-1457866946.json"
+  },
+  {
+   "id": 71396558,
+   "name": "T3 Sniper Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/71396558.png",
+   "page": "items/equipment/t3-sniper-arms-71396558.md",
+   "json": "items/equipment/t3-sniper-arms-71396558.json"
+  },
+  {
+   "id": 1536909600,
+   "name": "T3 Sniper Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1536909600.png",
+   "page": "items/equipment/t3-sniper-boots-1536909600.md",
+   "json": "items/equipment/t3-sniper-boots-1536909600.json"
+  },
+  {
+   "id": 291354741,
+   "name": "T3 Sniper Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/291354741.png",
+   "page": "items/equipment/t3-sniper-chest-291354741.md",
+   "json": "items/equipment/t3-sniper-chest-291354741.json"
+  },
+  {
+   "id": 2862006310,
+   "name": "T3 Sniper Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2862006310.png",
+   "page": "items/equipment/t3-sniper-helmet-2862006310.md",
+   "json": "items/equipment/t3-sniper-helmet-2862006310.json"
+  },
+  {
+   "id": 1666124680,
+   "name": "T3 Sniper Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1666124680.png",
+   "page": "items/equipment/t3-sniper-legs-1666124680.md",
+   "json": "items/equipment/t3-sniper-legs-1666124680.json"
+  },
+  {
+   "id": 2710208454,
+   "name": "T3 Tank Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2710208454.png",
+   "page": "items/equipment/t3-tank-arms-2710208454.md",
+   "json": "items/equipment/t3-tank-arms-2710208454.json"
+  },
+  {
+   "id": 4212426126,
+   "name": "T3 Tank Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4212426126.png",
+   "page": "items/equipment/t3-tank-arms-4212426126.md",
+   "json": "items/equipment/t3-tank-arms-4212426126.json"
+  },
+  {
+   "id": 2237590597,
+   "name": "T3 Tank Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2237590597.png",
+   "page": "items/equipment/t3-tank-boots-2237590597.md",
+   "json": "items/equipment/t3-tank-boots-2237590597.json"
+  },
+  {
+   "id": 536100641,
+   "name": "T3 Tank Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/536100641.png",
+   "page": "items/equipment/t3-tank-boots-536100641.md",
+   "json": "items/equipment/t3-tank-boots-536100641.json"
+  },
+  {
+   "id": 2173083844,
+   "name": "T3 Tank Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2173083844.png",
+   "page": "items/equipment/t3-tank-chest-2173083844.md",
+   "json": "items/equipment/t3-tank-chest-2173083844.json"
+  },
+  {
+   "id": 350439808,
+   "name": "T3 Tank Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/350439808.png",
+   "page": "items/equipment/t3-tank-chest-350439808.md",
+   "json": "items/equipment/t3-tank-chest-350439808.json"
+  },
+  {
+   "id": 1221959339,
+   "name": "T3 Tank Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1221959339.png",
+   "page": "items/equipment/t3-tank-helmet-1221959339.md",
+   "json": "items/equipment/t3-tank-helmet-1221959339.json"
+  },
+  {
+   "id": 1679323364,
+   "name": "T3 Tank Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1679323364.png",
+   "page": "items/equipment/t3-tank-helmet-1679323364.md",
+   "json": "items/equipment/t3-tank-helmet-1679323364.json"
+  },
+  {
+   "id": 1365818369,
+   "name": "T3 Tank Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1365818369.png",
+   "page": "items/equipment/t3-tank-legs-1365818369.md",
+   "json": "items/equipment/t3-tank-legs-1365818369.json"
+  },
+  {
+   "id": 2613480012,
+   "name": "T3 Tank Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2613480012.png",
+   "page": "items/equipment/t3-tank-legs-2613480012.md",
+   "json": "items/equipment/t3-tank-legs-2613480012.json"
+  },
+  {
+   "id": 4067558269,
+   "name": "T3 Warrior Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4067558269.png",
+   "page": "items/equipment/t3-warrior-arms-4067558269.md",
+   "json": "items/equipment/t3-warrior-arms-4067558269.json"
+  },
+  {
+   "id": 179704656,
+   "name": "T3 Warrior Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/179704656.png",
+   "page": "items/equipment/t3-warrior-boots-179704656.md",
+   "json": "items/equipment/t3-warrior-boots-179704656.json"
+  },
+  {
+   "id": 2908794392,
+   "name": "T3 Warrior Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2908794392.png",
+   "page": "items/equipment/t3-warrior-chest-2908794392.md",
+   "json": "items/equipment/t3-warrior-chest-2908794392.json"
+  },
+  {
+   "id": 2987600300,
+   "name": "T3 Warrior Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2987600300.png",
+   "page": "items/equipment/t3-warrior-helmet-2987600300.md",
+   "json": "items/equipment/t3-warrior-helmet-2987600300.json"
+  },
+  {
+   "id": 3981186252,
+   "name": "T3 Warrior Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3981186252.png",
+   "page": "items/equipment/t3-warrior-legs-3981186252.md",
+   "json": "items/equipment/t3-warrior-legs-3981186252.json"
+  },
+  {
+   "id": 2177579694,
+   "name": "T3 Wizard Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2177579694.png",
+   "page": "items/equipment/t3-wizard-arms-2177579694.md",
+   "json": "items/equipment/t3-wizard-arms-2177579694.json"
+  },
+  {
+   "id": 173909852,
+   "name": "T3 Wizard Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/173909852.png",
+   "page": "items/equipment/t3-wizard-boots-173909852.md",
+   "json": "items/equipment/t3-wizard-boots-173909852.json"
+  },
+  {
+   "id": 3029242112,
+   "name": "T3 Wizard Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3029242112.png",
+   "page": "items/equipment/t3-wizard-chest-3029242112.md",
+   "json": "items/equipment/t3-wizard-chest-3029242112.json"
+  },
+  {
+   "id": 856255382,
+   "name": "T3 Wizard Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/856255382.png",
+   "page": "items/equipment/t3-wizard-helmet-856255382.md",
+   "json": "items/equipment/t3-wizard-helmet-856255382.json"
+  },
+  {
+   "id": 454495308,
+   "name": "T3 Wizard Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/454495308.png",
+   "page": "items/equipment/t3-wizard-legs-454495308.md",
+   "json": "items/equipment/t3-wizard-legs-454495308.json"
+  },
+  {
+   "id": 1831711888,
+   "name": "T4 Archer Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1831711888.png",
+   "page": "items/equipment/t4-archer-arms-1831711888.md",
+   "json": "items/equipment/t4-archer-arms-1831711888.json"
+  },
+  {
+   "id": 2720607491,
+   "name": "T4 Archer Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2720607491.png",
+   "page": "items/equipment/t4-archer-boots-2720607491.md",
+   "json": "items/equipment/t4-archer-boots-2720607491.json"
+  },
+  {
+   "id": 4061156246,
+   "name": "T4 Archer Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4061156246.png",
+   "page": "items/equipment/t4-archer-chest-4061156246.md",
+   "json": "items/equipment/t4-archer-chest-4061156246.json"
+  },
+  {
+   "id": 3678377668,
+   "name": "T4 Archer Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3678377668.png",
+   "page": "items/equipment/t4-archer-helmet-3678377668.md",
+   "json": "items/equipment/t4-archer-helmet-3678377668.json"
+  },
+  {
+   "id": 1960005749,
+   "name": "T4 Archer Legs (hawk)",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1960005749.png",
+   "page": "items/equipment/t4-archer-legs-hawk-1960005749.md",
+   "json": "items/equipment/t4-archer-legs-hawk-1960005749.json"
+  },
+  {
+   "id": 3347772032,
+   "name": "T4 Assassin Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3347772032.png",
+   "page": "items/equipment/t4-assassin-arms-3347772032.md",
+   "json": "items/equipment/t4-assassin-arms-3347772032.json"
+  },
+  {
+   "id": 853658470,
+   "name": "T4 Assassin Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/853658470.png",
+   "page": "items/equipment/t4-assassin-arms-853658470.md",
+   "json": "items/equipment/t4-assassin-arms-853658470.json"
+  },
+  {
+   "id": 4024884903,
+   "name": "T4 Assassin Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4024884903.png",
+   "page": "items/equipment/t4-assassin-boots-4024884903.md",
+   "json": "items/equipment/t4-assassin-boots-4024884903.json"
+  },
+  {
+   "id": 443399688,
+   "name": "T4 Assassin Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/443399688.png",
+   "page": "items/equipment/t4-assassin-boots-443399688.md",
+   "json": "items/equipment/t4-assassin-boots-443399688.json"
+  },
+  {
+   "id": 1124346105,
+   "name": "T4 Assassin Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1124346105.png",
+   "page": "items/equipment/t4-assassin-chest-1124346105.md",
+   "json": "items/equipment/t4-assassin-chest-1124346105.json"
+  },
+  {
+   "id": 2802395209,
+   "name": "T4 Assassin Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2802395209.png",
+   "page": "items/equipment/t4-assassin-chest-2802395209.md",
+   "json": "items/equipment/t4-assassin-chest-2802395209.json"
+  },
+  {
+   "id": 1123774086,
+   "name": "T4 Assassin Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1123774086.png",
+   "page": "items/equipment/t4-assassin-helmet-1123774086.md",
+   "json": "items/equipment/t4-assassin-helmet-1123774086.json"
+  },
+  {
+   "id": 1929469344,
+   "name": "T4 Assassin Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1929469344.png",
+   "page": "items/equipment/t4-assassin-helmet-1929469344.md",
+   "json": "items/equipment/t4-assassin-helmet-1929469344.json"
+  },
+  {
+   "id": 3413443507,
+   "name": "T4 Assassin Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3413443507.png",
+   "page": "items/equipment/t4-assassin-legs-3413443507.md",
+   "json": "items/equipment/t4-assassin-legs-3413443507.json"
+  },
+  {
+   "id": 887413477,
+   "name": "T4 Assassin Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/887413477.png",
+   "page": "items/equipment/t4-assassin-legs-887413477.md",
+   "json": "items/equipment/t4-assassin-legs-887413477.json"
+  },
+  {
+   "id": 1665658784,
+   "name": "T4 BattleMage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1665658784.png",
+   "page": "items/equipment/t4-battlemage-arms-1665658784.md",
+   "json": "items/equipment/t4-battlemage-arms-1665658784.json"
+  },
+  {
+   "id": 3648209951,
+   "name": "T4 BattleMage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3648209951.png",
+   "page": "items/equipment/t4-battlemage-arms-3648209951.md",
+   "json": "items/equipment/t4-battlemage-arms-3648209951.json"
+  },
+  {
+   "id": 219898735,
+   "name": "T4 BattleMage boote",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/219898735.png",
+   "page": "items/equipment/t4-battlemage-boote-219898735.md",
+   "json": "items/equipment/t4-battlemage-boote-219898735.json"
+  },
+  {
+   "id": 2461700133,
+   "name": "T4 BattleMage boote",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2461700133.png",
+   "page": "items/equipment/t4-battlemage-boote-2461700133.md",
+   "json": "items/equipment/t4-battlemage-boote-2461700133.json"
+  },
+  {
+   "id": 1331200386,
+   "name": "T4 BattleMage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1331200386.png",
+   "page": "items/equipment/t4-battlemage-chest-1331200386.md",
+   "json": "items/equipment/t4-battlemage-chest-1331200386.json"
+  },
+  {
+   "id": 3372205,
+   "name": "T4 BattleMage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3372205.png",
+   "page": "items/equipment/t4-battlemage-chest-3372205.md",
+   "json": "items/equipment/t4-battlemage-chest-3372205.json"
+  },
+  {
+   "id": 1192801048,
+   "name": "T4 BattleMage Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1192801048.png",
+   "page": "items/equipment/t4-battlemage-helmet-1192801048.md",
+   "json": "items/equipment/t4-battlemage-helmet-1192801048.json"
+  },
+  {
+   "id": 2397258068,
+   "name": "T4 BattleMage Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2397258068.png",
+   "page": "items/equipment/t4-battlemage-helmet-2397258068.md",
+   "json": "items/equipment/t4-battlemage-helmet-2397258068.json"
+  },
+  {
+   "id": 1563449197,
+   "name": "T4 BattleMage Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1563449197.png",
+   "page": "items/equipment/t4-battlemage-legs-1563449197.md",
+   "json": "items/equipment/t4-battlemage-legs-1563449197.json"
+  },
+  {
+   "id": 420053010,
+   "name": "T4 BattleMage Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/420053010.png",
+   "page": "items/equipment/t4-battlemage-legs-420053010.md",
+   "json": "items/equipment/t4-battlemage-legs-420053010.json"
+  },
+  {
+   "id": 1090544834,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1090544834.png",
+   "page": "items/equipment/t4-dps-arms-1090544834.md",
+   "json": "items/equipment/t4-dps-arms-1090544834.json"
+  },
+  {
+   "id": 1478658636,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1478658636.png",
+   "page": "items/equipment/t4-dps-arms-1478658636.md",
+   "json": "items/equipment/t4-dps-arms-1478658636.json"
+  },
+  {
+   "id": 4093835492,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4093835492.png",
+   "page": "items/equipment/t4-dps-arms-4093835492.md",
+   "json": "items/equipment/t4-dps-arms-4093835492.json"
+  },
+  {
+   "id": 706627686,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/706627686.png",
+   "page": "items/equipment/t4-dps-arms-706627686.md",
+   "json": "items/equipment/t4-dps-arms-706627686.json"
+  },
+  {
+   "id": 1200796186,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1200796186.png",
+   "page": "items/equipment/t4-dps-boots-1200796186.md",
+   "json": "items/equipment/t4-dps-boots-1200796186.json"
+  },
+  {
+   "id": 1639780437,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1639780437.png",
+   "page": "items/equipment/t4-dps-boots-1639780437.md",
+   "json": "items/equipment/t4-dps-boots-1639780437.json"
+  },
+  {
+   "id": 3620714580,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3620714580.png",
+   "page": "items/equipment/t4-dps-boots-3620714580.md",
+   "json": "items/equipment/t4-dps-boots-3620714580.json"
+  },
+  {
+   "id": 620048429,
+   "name": "T4 DPS Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/620048429.png",
+   "page": "items/equipment/t4-dps-boots-620048429.md",
+   "json": "items/equipment/t4-dps-boots-620048429.json"
+  },
+  {
+   "id": 1567003886,
+   "name": "T4 DPS Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1567003886.png",
+   "page": "items/equipment/t4-dps-chest-1567003886.md",
+   "json": "items/equipment/t4-dps-chest-1567003886.json"
+  },
+  {
+   "id": 3892994199,
+   "name": "T4 DPS Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3892994199.png",
+   "page": "items/equipment/t4-dps-chest-3892994199.md",
+   "json": "items/equipment/t4-dps-chest-3892994199.json"
+  },
+  {
+   "id": 3091686369,
+   "name": "T4 DPS Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3091686369.png",
+   "page": "items/equipment/t4-dps-helmet-3091686369.md",
+   "json": "items/equipment/t4-dps-helmet-3091686369.json"
+  },
+  {
+   "id": 870870832,
+   "name": "T4 DPS Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/870870832.png",
+   "page": "items/equipment/t4-dps-helmet-870870832.md",
+   "json": "items/equipment/t4-dps-helmet-870870832.json"
+  },
+  {
+   "id": 1809820393,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1809820393.png",
+   "page": "items/equipment/t4-dps-legs-1809820393.md",
+   "json": "items/equipment/t4-dps-legs-1809820393.json"
+  },
+  {
+   "id": 1880424695,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1880424695.png",
+   "page": "items/equipment/t4-dps-legs-1880424695.md",
+   "json": "items/equipment/t4-dps-legs-1880424695.json"
+  },
+  {
+   "id": 2021532663,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2021532663.png",
+   "page": "items/equipment/t4-dps-legs-2021532663.md",
+   "json": "items/equipment/t4-dps-legs-2021532663.json"
+  },
+  {
+   "id": 3072220773,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3072220773.png",
+   "page": "items/equipment/t4-dps-legs-3072220773.md",
+   "json": "items/equipment/t4-dps-legs-3072220773.json"
+  },
+  {
+   "id": 1523925697,
+   "name": "T4 Healer Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1523925697.png",
+   "page": "items/equipment/t4-healer-arms-1523925697.md",
+   "json": "items/equipment/t4-healer-arms-1523925697.json"
+  },
+  {
+   "id": 1791031659,
+   "name": "T4 Healer Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1791031659.png",
+   "page": "items/equipment/t4-healer-arms-1791031659.md",
+   "json": "items/equipment/t4-healer-arms-1791031659.json"
+  },
+  {
+   "id": 3615964892,
+   "name": "T4 Healer Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3615964892.png",
+   "page": "items/equipment/t4-healer-boots-3615964892.md",
+   "json": "items/equipment/t4-healer-boots-3615964892.json"
+  },
+  {
+   "id": 902782975,
+   "name": "T4 Healer Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/902782975.png",
+   "page": "items/equipment/t4-healer-boots-902782975.md",
+   "json": "items/equipment/t4-healer-boots-902782975.json"
+  },
+  {
+   "id": 1526551450,
+   "name": "T4 Healer Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1526551450.png",
+   "page": "items/equipment/t4-healer-chest-1526551450.md",
+   "json": "items/equipment/t4-healer-chest-1526551450.json"
+  },
+  {
+   "id": 1947086683,
+   "name": "T4 Healer Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1947086683.png",
+   "page": "items/equipment/t4-healer-chest-1947086683.md",
+   "json": "items/equipment/t4-healer-chest-1947086683.json"
+  },
+  {
+   "id": 1225458816,
+   "name": "T4 Healer Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1225458816.png",
+   "page": "items/equipment/t4-healer-helmet-1225458816.md",
+   "json": "items/equipment/t4-healer-helmet-1225458816.json"
+  },
+  {
+   "id": 3472179568,
+   "name": "T4 Healer Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3472179568.png",
+   "page": "items/equipment/t4-healer-helmet-3472179568.md",
+   "json": "items/equipment/t4-healer-helmet-3472179568.json"
+  },
+  {
+   "id": 1737522687,
+   "name": "T4 Healer Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1737522687.png",
+   "page": "items/equipment/t4-healer-legs-1737522687.md",
+   "json": "items/equipment/t4-healer-legs-1737522687.json"
+  },
+  {
+   "id": 3183764632,
+   "name": "T4 Healer Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3183764632.png",
+   "page": "items/equipment/t4-healer-legs-3183764632.md",
+   "json": "items/equipment/t4-healer-legs-3183764632.json"
+  },
+  {
+   "id": 398094556,
+   "name": "T4 Mage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/398094556.png",
+   "page": "items/equipment/t4-mage-arms-398094556.md",
+   "json": "items/equipment/t4-mage-arms-398094556.json"
+  },
+  {
+   "id": 787893053,
+   "name": "T4 Mage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/787893053.png",
+   "page": "items/equipment/t4-mage-arms-787893053.md",
+   "json": "items/equipment/t4-mage-arms-787893053.json"
+  },
+  {
+   "id": 1953528963,
+   "name": "T4 Mage Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1953528963.png",
+   "page": "items/equipment/t4-mage-boots-1953528963.md",
+   "json": "items/equipment/t4-mage-boots-1953528963.json"
+  },
+  {
+   "id": 2185477815,
+   "name": "T4 Mage Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2185477815.png",
+   "page": "items/equipment/t4-mage-boots-2185477815.md",
+   "json": "items/equipment/t4-mage-boots-2185477815.json"
+  },
+  {
+   "id": 1299163561,
+   "name": "T4 Mage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1299163561.png",
+   "page": "items/equipment/t4-mage-chest-1299163561.md",
+   "json": "items/equipment/t4-mage-chest-1299163561.json"
+  },
+  {
+   "id": 3460797392,
+   "name": "T4 Mage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3460797392.png",
+   "page": "items/equipment/t4-mage-chest-3460797392.md",
+   "json": "items/equipment/t4-mage-chest-3460797392.json"
+  },
+  {
+   "id": 1362050004,
+   "name": "T4 Mage Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1362050004.png",
+   "page": "items/equipment/t4-mage-helmet-1362050004.md",
+   "json": "items/equipment/t4-mage-helmet-1362050004.json"
+  },
+  {
+   "id": 3056375359,
+   "name": "T4 Mage Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3056375359.png",
+   "page": "items/equipment/t4-mage-helmet-3056375359.md",
+   "json": "items/equipment/t4-mage-helmet-3056375359.json"
+  },
+  {
+   "id": 1616516574,
+   "name": "T4 Mage Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1616516574.png",
+   "page": "items/equipment/t4-mage-legs-1616516574.md",
+   "json": "items/equipment/t4-mage-legs-1616516574.json"
+  },
+  {
+   "id": 2214049957,
+   "name": "T4 Mage Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2214049957.png",
+   "page": "items/equipment/t4-mage-legs-2214049957.md",
+   "json": "items/equipment/t4-mage-legs-2214049957.json"
+  },
+  {
+   "id": 2309078212,
+   "name": "T4 Ranger Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2309078212.png",
+   "page": "items/equipment/t4-ranger-arms-2309078212.md",
+   "json": "items/equipment/t4-ranger-arms-2309078212.json"
+  },
+  {
+   "id": 545912505,
+   "name": "T4 Ranger Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/545912505.png",
+   "page": "items/equipment/t4-ranger-arms-545912505.md",
+   "json": "items/equipment/t4-ranger-arms-545912505.json"
+  },
+  {
+   "id": 2758437730,
+   "name": "T4 Ranger Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2758437730.png",
+   "page": "items/equipment/t4-ranger-boots-2758437730.md",
+   "json": "items/equipment/t4-ranger-boots-2758437730.json"
+  },
+  {
+   "id": 3486210573,
+   "name": "T4 Ranger Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3486210573.png",
+   "page": "items/equipment/t4-ranger-boots-3486210573.md",
+   "json": "items/equipment/t4-ranger-boots-3486210573.json"
+  },
+  {
+   "id": 1712284640,
+   "name": "T4 Ranger Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1712284640.png",
+   "page": "items/equipment/t4-ranger-chest-1712284640.md",
+   "json": "items/equipment/t4-ranger-chest-1712284640.json"
+  },
+  {
+   "id": 960184859,
+   "name": "T4 Ranger Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/960184859.png",
+   "page": "items/equipment/t4-ranger-chest-960184859.md",
+   "json": "items/equipment/t4-ranger-chest-960184859.json"
+  },
+  {
+   "id": 2666667832,
+   "name": "T4 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2666667832.png",
+   "page": "items/equipment/t4-ranger-helmet-2666667832.md",
+   "json": "items/equipment/t4-ranger-helmet-2666667832.json"
+  },
+  {
+   "id": 3527833310,
+   "name": "T4 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3527833310.png",
+   "page": "items/equipment/t4-ranger-helmet-3527833310.md",
+   "json": "items/equipment/t4-ranger-helmet-3527833310.json"
+  },
+  {
+   "id": 1123016064,
+   "name": "T4 Ranger Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1123016064.png",
+   "page": "items/equipment/t4-ranger-legs-1123016064.md",
+   "json": "items/equipment/t4-ranger-legs-1123016064.json"
+  },
+  {
+   "id": 2079485053,
+   "name": "T4 Ranger Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2079485053.png",
+   "page": "items/equipment/t4-ranger-legs-2079485053.md",
+   "json": "items/equipment/t4-ranger-legs-2079485053.json"
+  },
+  {
+   "id": 1676245323,
+   "name": "T4 Rogue Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1676245323.png",
+   "page": "items/equipment/t4-rogue-chest-1676245323.md",
+   "json": "items/equipment/t4-rogue-chest-1676245323.json"
+  },
+  {
+   "id": 3836740140,
+   "name": "T4 Rogue Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3836740140.png",
+   "page": "items/equipment/t4-rogue-chest-3836740140.md",
+   "json": "items/equipment/t4-rogue-chest-3836740140.json"
+  },
+  {
+   "id": 107717902,
+   "name": "T4 Rogue Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/107717902.png",
+   "page": "items/equipment/t4-rogue-helmet-107717902.md",
+   "json": "items/equipment/t4-rogue-helmet-107717902.json"
+  },
+  {
+   "id": 583285715,
+   "name": "T4 Rogue Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/583285715.png",
+   "page": "items/equipment/t4-rogue-helmet-583285715.md",
+   "json": "items/equipment/t4-rogue-helmet-583285715.json"
+  },
+  {
+   "id": 1739546422,
+   "name": "T4 Skeleton arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1739546422.png",
+   "page": "items/equipment/t4-skeleton-arms-1739546422.md",
+   "json": "items/equipment/t4-skeleton-arms-1739546422.json"
+  },
+  {
+   "id": 407080337,
+   "name": "T4 Skeleton boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/407080337.png",
+   "page": "items/equipment/t4-skeleton-boots-407080337.md",
+   "json": "items/equipment/t4-skeleton-boots-407080337.json"
+  },
+  {
+   "id": 4219889908,
+   "name": "T4 Skeleton chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4219889908.png",
+   "page": "items/equipment/t4-skeleton-chest-4219889908.md",
+   "json": "items/equipment/t4-skeleton-chest-4219889908.json"
+  },
+  {
+   "id": 3186603067,
+   "name": "T4 Skeleton helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3186603067.png",
+   "page": "items/equipment/t4-skeleton-helmet-3186603067.md",
+   "json": "items/equipment/t4-skeleton-helmet-3186603067.json"
+  },
+  {
+   "id": 3474978920,
+   "name": "T4 Skeleton legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3474978920.png",
+   "page": "items/equipment/t4-skeleton-legs-3474978920.md",
+   "json": "items/equipment/t4-skeleton-legs-3474978920.json"
+  },
+  {
+   "id": 2398113532,
+   "name": "T4 Sniper Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2398113532.png",
+   "page": "items/equipment/t4-sniper-arms-2398113532.md",
+   "json": "items/equipment/t4-sniper-arms-2398113532.json"
+  },
+  {
+   "id": 3073964148,
+   "name": "T4 Sniper Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3073964148.png",
+   "page": "items/equipment/t4-sniper-arms-3073964148.md",
+   "json": "items/equipment/t4-sniper-arms-3073964148.json"
+  },
+  {
+   "id": 1363992823,
+   "name": "T4 sniper boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1363992823.png",
+   "page": "items/equipment/t4-sniper-boots-1363992823.md",
+   "json": "items/equipment/t4-sniper-boots-1363992823.json"
+  },
+  {
+   "id": 345073573,
+   "name": "T4 sniper boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/345073573.png",
+   "page": "items/equipment/t4-sniper-boots-345073573.md",
+   "json": "items/equipment/t4-sniper-boots-345073573.json"
+  },
+  {
+   "id": 3452463502,
+   "name": "T4 Sniper Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3452463502.png",
+   "page": "items/equipment/t4-sniper-chest-3452463502.md",
+   "json": "items/equipment/t4-sniper-chest-3452463502.json"
+  },
+  {
+   "id": 3860180960,
+   "name": "T4 Sniper Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3860180960.png",
+   "page": "items/equipment/t4-sniper-chest-3860180960.md",
+   "json": "items/equipment/t4-sniper-chest-3860180960.json"
+  },
+  {
+   "id": 3141427238,
+   "name": "T4 Sniper Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3141427238.png",
+   "page": "items/equipment/t4-sniper-helmet-3141427238.md",
+   "json": "items/equipment/t4-sniper-helmet-3141427238.json"
+  },
+  {
+   "id": 3687213212,
+   "name": "T4 Sniper Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3687213212.png",
+   "page": "items/equipment/t4-sniper-helmet-3687213212.md",
+   "json": "items/equipment/t4-sniper-helmet-3687213212.json"
+  },
+  {
+   "id": 1462202648,
+   "name": "T4 Sniper Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1462202648.png",
+   "page": "items/equipment/t4-sniper-legs-1462202648.md",
+   "json": "items/equipment/t4-sniper-legs-1462202648.json"
+  },
+  {
+   "id": 2035835813,
+   "name": "T4 Sniper Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2035835813.png",
+   "page": "items/equipment/t4-sniper-legs-2035835813.md",
+   "json": "items/equipment/t4-sniper-legs-2035835813.json"
+  },
+  {
+   "id": 1838950390,
+   "name": "T4 Tank Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1838950390.png",
+   "page": "items/equipment/t4-tank-arms-1838950390.md",
+   "json": "items/equipment/t4-tank-arms-1838950390.json"
+  },
+  {
+   "id": 863496468,
+   "name": "T4 Tank Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/863496468.png",
+   "page": "items/equipment/t4-tank-arms-863496468.md",
+   "json": "items/equipment/t4-tank-arms-863496468.json"
+  },
+  {
+   "id": 1058485756,
+   "name": "T4 Tank Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1058485756.png",
+   "page": "items/equipment/t4-tank-boots-1058485756.md",
+   "json": "items/equipment/t4-tank-boots-1058485756.json"
+  },
+  {
+   "id": 3406588270,
+   "name": "T4 Tank Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3406588270.png",
+   "page": "items/equipment/t4-tank-boots-3406588270.md",
+   "json": "items/equipment/t4-tank-boots-3406588270.json"
+  },
+  {
+   "id": 2382917560,
+   "name": "T4 Tank Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2382917560.png",
+   "page": "items/equipment/t4-tank-chest-2382917560.md",
+   "json": "items/equipment/t4-tank-chest-2382917560.json"
+  },
+  {
+   "id": 403577806,
+   "name": "T4 Tank Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/403577806.png",
+   "page": "items/equipment/t4-tank-chest-403577806.md",
+   "json": "items/equipment/t4-tank-chest-403577806.json"
+  },
+  {
+   "id": 2870440263,
+   "name": "T4 Tank Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2870440263.png",
+   "page": "items/equipment/t4-tank-helmet-2870440263.md",
+   "json": "items/equipment/t4-tank-helmet-2870440263.json"
+  },
+  {
+   "id": 3928174717,
+   "name": "T4 Tank Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3928174717.png",
+   "page": "items/equipment/t4-tank-helmet-3928174717.md",
+   "json": "items/equipment/t4-tank-helmet-3928174717.json"
+  },
+  {
+   "id": 3856381953,
+   "name": "T4 Tank Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3856381953.png",
+   "page": "items/equipment/t4-tank-legs-3856381953.md",
+   "json": "items/equipment/t4-tank-legs-3856381953.json"
+  },
+  {
+   "id": 543714297,
+   "name": "T4 Tank Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/543714297.png",
+   "page": "items/equipment/t4-tank-legs-543714297.md",
+   "json": "items/equipment/t4-tank-legs-543714297.json"
+  },
+  {
+   "id": 4234563200,
+   "name": "T4 Warrior Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4234563200.png",
+   "page": "items/equipment/t4-warrior-arms-4234563200.md",
+   "json": "items/equipment/t4-warrior-arms-4234563200.json"
+  },
+  {
+   "id": 2043624201,
+   "name": "T4 Warrior Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2043624201.png",
+   "page": "items/equipment/t4-warrior-boots-2043624201.md",
+   "json": "items/equipment/t4-warrior-boots-2043624201.json"
+  },
+  {
+   "id": 407703039,
+   "name": "T4 Warrior Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/407703039.png",
+   "page": "items/equipment/t4-warrior-chest-407703039.md",
+   "json": "items/equipment/t4-warrior-chest-407703039.json"
+  },
+  {
+   "id": 1109330340,
+   "name": "T4 Warrior Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1109330340.png",
+   "page": "items/equipment/t4-warrior-helmet-1109330340.md",
+   "json": "items/equipment/t4-warrior-helmet-1109330340.json"
+  },
+  {
+   "id": 48989544,
+   "name": "T4 Warrior Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/48989544.png",
+   "page": "items/equipment/t4-warrior-legs-48989544.md",
+   "json": "items/equipment/t4-warrior-legs-48989544.json"
+  },
+  {
+   "id": 1559651833,
+   "name": "T4 Wizard Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1559651833.png",
+   "page": "items/equipment/t4-wizard-arms-1559651833.md",
+   "json": "items/equipment/t4-wizard-arms-1559651833.json"
+  },
+  {
+   "id": 3167272673,
+   "name": "T4 Wizard Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3167272673.png",
+   "page": "items/equipment/t4-wizard-boots-3167272673.md",
+   "json": "items/equipment/t4-wizard-boots-3167272673.json"
+  },
+  {
+   "id": 3562885124,
+   "name": "T4 Wizard Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3562885124.png",
+   "page": "items/equipment/t4-wizard-chest-3562885124.md",
+   "json": "items/equipment/t4-wizard-chest-3562885124.json"
+  },
+  {
+   "id": 2949350669,
+   "name": "T4 Wizard Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2949350669.png",
+   "page": "items/equipment/t4-wizard-helmet-2949350669.md",
+   "json": "items/equipment/t4-wizard-helmet-2949350669.json"
+  },
+  {
+   "id": 3523111300,
+   "name": "T4 Wizard Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3523111300.png",
+   "page": "items/equipment/t4-wizard-legs-3523111300.md",
+   "json": "items/equipment/t4-wizard-legs-3523111300.json"
+  },
+  {
+   "id": 3982243037,
+   "name": "T4b Archer Boots",
+   "rarity": "Common",
+   "level": "30-55",
+   "image": "images/icons/3982243037.png",
+   "page": "items/equipment/t4b-archer-boots-3982243037.md",
+   "json": "items/equipment/t4b-archer-boots-3982243037.json"
+  },
+  {
+   "id": 993094532,
+   "name": "T4b Archer Hands",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/993094532.png",
+   "page": "items/equipment/t4b-archer-hands-993094532.md",
+   "json": "items/equipment/t4b-archer-hands-993094532.json"
+  },
+  {
+   "id": 382265240,
+   "name": "T4b Archer Helmet",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/382265240.png",
+   "page": "items/equipment/t4b-archer-helmet-382265240.md",
+   "json": "items/equipment/t4b-archer-helmet-382265240.json"
+  },
+  {
+   "id": 2292265005,
+   "name": "T4b Archer Legs",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/2292265005.png",
+   "page": "items/equipment/t4b-archer-legs-2292265005.md",
+   "json": "items/equipment/t4b-archer-legs-2292265005.json"
+  },
+  {
+   "id": 3459129225,
+   "name": "T4b Archer Torso",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/3459129225.png",
+   "page": "items/equipment/t4b-archer-torso-3459129225.md",
+   "json": "items/equipment/t4b-archer-torso-3459129225.json"
+  },
+  {
+   "id": 473258476,
+   "name": "T4b Warrior Arms",
+   "rarity": "Common",
+   "level": "30-55",
+   "image": "images/icons/473258476.png",
+   "page": "items/equipment/t4b-warrior-arms-473258476.md",
+   "json": "items/equipment/t4b-warrior-arms-473258476.json"
+  },
+  {
+   "id": 3841156584,
+   "name": "T4b Warrior Boots",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/3841156584.png",
+   "page": "items/equipment/t4b-warrior-boots-3841156584.md",
+   "json": "items/equipment/t4b-warrior-boots-3841156584.json"
+  },
+  {
+   "id": 3854494588,
+   "name": "T4b Warrior Chest",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/3854494588.png",
+   "page": "items/equipment/t4b-warrior-chest-3854494588.md",
+   "json": "items/equipment/t4b-warrior-chest-3854494588.json"
+  },
+  {
+   "id": 1176386989,
+   "name": "T4b Warrior Helmet",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/1176386989.png",
+   "page": "items/equipment/t4b-warrior-helmet-1176386989.md",
+   "json": "items/equipment/t4b-warrior-helmet-1176386989.json"
+  },
+  {
+   "id": 2252405199,
+   "name": "T4b Warrior Legs",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/2252405199.png",
+   "page": "items/equipment/t4b-warrior-legs-2252405199.md",
+   "json": "items/equipment/t4b-warrior-legs-2252405199.json"
+  },
+  {
+   "id": 2132519697,
+   "name": "T4b Wizard Arms",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/2132519697.png",
+   "page": "items/equipment/t4b-wizard-arms-2132519697.md",
+   "json": "items/equipment/t4b-wizard-arms-2132519697.json"
+  },
+  {
+   "id": 1899881150,
+   "name": "T4b Wizard Boots",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/1899881150.png",
+   "page": "items/equipment/t4b-wizard-boots-1899881150.md",
+   "json": "items/equipment/t4b-wizard-boots-1899881150.json"
+  },
+  {
+   "id": 3919914204,
+   "name": "T4b Wizard Chest",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/3919914204.png",
+   "page": "items/equipment/t4b-wizard-chest-3919914204.md",
+   "json": "items/equipment/t4b-wizard-chest-3919914204.json"
+  },
+  {
+   "id": 1477759855,
+   "name": "T4b Wizard Helmet",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/1477759855.png",
+   "page": "items/equipment/t4b-wizard-helmet-1477759855.md",
+   "json": "items/equipment/t4b-wizard-helmet-1477759855.json"
+  },
+  {
+   "id": 4280437315,
+   "name": "T4b Wizard Legs",
+   "rarity": "Rare",
+   "level": "30-55",
+   "image": "images/icons/4280437315.png",
+   "page": "items/equipment/t4b-wizard-legs-4280437315.md",
+   "json": "items/equipment/t4b-wizard-legs-4280437315.json"
+  },
+  {
+   "id": 1947761873,
+   "name": "T5 Ring of health",
+   "rarity": "Uncommon",
+   "level": "30",
+   "image": "images/icons/1947761873.png",
+   "page": "items/equipment/t5-ring-of-health-1947761873.md",
+   "json": "items/equipment/t5-ring-of-health-1947761873.json"
+  },
+  {
+   "id": 459703170,
+   "name": "T5 Ring of mana",
+   "rarity": "Uncommon",
+   "level": "30",
+   "image": "images/icons/459703170.png",
+   "page": "items/equipment/t5-ring-of-mana-459703170.md",
+   "json": "items/equipment/t5-ring-of-mana-459703170.json"
+  },
+  {
+   "id": 1594515604,
+   "name": "T5 Ring of Stamina",
+   "rarity": "Uncommon",
+   "level": "30",
+   "image": "images/icons/1594515604.png",
+   "page": "items/equipment/t5-ring-of-stamina-1594515604.md",
+   "json": "items/equipment/t5-ring-of-stamina-1594515604.json"
+  },
+  {
+   "id": 1294112531,
+   "name": "T5 Shield DPS",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/1294112531.png",
+   "page": "items/equipment/t5-shield-dps-1294112531.md",
+   "json": "items/equipment/t5-shield-dps-1294112531.json"
+  },
+  {
+   "id": 3395268278,
+   "name": "T5 Shield DPS",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/3395268278.png",
+   "page": "items/equipment/t5-shield-dps-3395268278.md",
+   "json": "items/equipment/t5-shield-dps-3395268278.json"
+  },
+  {
+   "id": 1942545282,
+   "name": "T5 Shield Tank",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/1942545282.png",
+   "page": "items/equipment/t5-shield-tank-1942545282.md",
+   "json": "items/equipment/t5-shield-tank-1942545282.json"
+  },
+  {
+   "id": 3062146687,
+   "name": "T5 Shield Tank",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/3062146687.png",
+   "page": "items/equipment/t5-shield-tank-3062146687.md",
+   "json": "items/equipment/t5-shield-tank-3062146687.json"
+  },
+  {
+   "id": 2264547367,
+   "name": "T6 Adventurer Legs - Unique",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/2264547367.png",
+   "page": "items/equipment/t6-adventurer-legs-unique-2264547367.md",
+   "json": "items/equipment/t6-adventurer-legs-unique-2264547367.json"
+  },
+  {
+   "id": 2230173783,
+   "name": "T6 Assassin Legs",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/2230173783.png",
+   "page": "items/equipment/t6-assassin-legs-2230173783.md",
+   "json": "items/equipment/t6-assassin-legs-2230173783.json"
+  },
+  {
+   "id": 3519262696,
+   "name": "T6 Assassin Legs",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/3519262696.png",
+   "page": "items/equipment/t6-assassin-legs-3519262696.md",
+   "json": "items/equipment/t6-assassin-legs-3519262696.json"
+  },
+  {
+   "id": 480197774,
+   "name": "T6 Drak Boots - Unique",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/480197774.png",
+   "page": "items/equipment/t6-drak-boots-unique-480197774.md",
+   "json": "items/equipment/t6-drak-boots-unique-480197774.json"
+  },
+  {
+   "id": 160895742,
+   "name": "T6 Greatsword Arms - Unique",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/160895742.png",
+   "page": "items/equipment/t6-greatsword-arms-unique-160895742.md",
+   "json": "items/equipment/t6-greatsword-arms-unique-160895742.json"
+  },
+  {
+   "id": 3214336819,
+   "name": "T6 Magic Fire Arms - Unique",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/3214336819.png",
+   "page": "items/equipment/t6-magic-fire-arms-unique-3214336819.md",
+   "json": "items/equipment/t6-magic-fire-arms-unique-3214336819.json"
+  },
+  {
+   "id": 2809656046,
+   "name": "T6 Magic Ice Arms - Unique",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/2809656046.png",
+   "page": "items/equipment/t6-magic-ice-arms-unique-2809656046.md",
+   "json": "items/equipment/t6-magic-ice-arms-unique-2809656046.json"
+  },
+  {
+   "id": 2952703997,
+   "name": "T6 Magic Lightning Helmet - Unique",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/2952703997.png",
+   "page": "items/equipment/t6-magic-lightning-helmet-unique-2952703997.md",
+   "json": "items/equipment/t6-magic-lightning-helmet-unique-2952703997.json"
+  },
+  {
+   "id": 72782423,
+   "name": "T6 Ring of health",
+   "rarity": "Uncommon",
+   "level": "40",
+   "image": "images/icons/72782423.png",
+   "page": "items/equipment/t6-ring-of-health-72782423.md",
+   "json": "items/equipment/t6-ring-of-health-72782423.json"
+  },
+  {
+   "id": 3275567182,
+   "name": "T6 Ring of mana",
+   "rarity": "Uncommon",
+   "level": "40",
+   "image": "images/icons/3275567182.png",
+   "page": "items/equipment/t6-ring-of-mana-3275567182.md",
+   "json": "items/equipment/t6-ring-of-mana-3275567182.json"
+  },
+  {
+   "id": 4079983357,
+   "name": "T6 Ring of Stamina",
+   "rarity": "Uncommon",
+   "level": "40",
+   "image": "images/icons/4079983357.png",
+   "page": "items/equipment/t6-ring-of-stamina-4079983357.md",
+   "json": "items/equipment/t6-ring-of-stamina-4079983357.json"
+  },
+  {
+   "id": 2863750697,
+   "name": "T6 Shield DPS",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/2863750697.png",
+   "page": "items/equipment/t6-shield-dps-2863750697.md",
+   "json": "items/equipment/t6-shield-dps-2863750697.json"
+  },
+  {
+   "id": 704475806,
+   "name": "T6 Shield DPS",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/704475806.png",
+   "page": "items/equipment/t6-shield-dps-704475806.md",
+   "json": "items/equipment/t6-shield-dps-704475806.json"
+  },
+  {
+   "id": 1777113935,
+   "name": "T6 Shield Tank",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/1777113935.png",
+   "page": "items/equipment/t6-shield-tank-1777113935.md",
+   "json": "items/equipment/t6-shield-tank-1777113935.json"
+  },
+  {
+   "id": 1900300234,
+   "name": "T6 Shield Tank",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/1900300234.png",
+   "page": "items/equipment/t6-shield-tank-1900300234.md",
+   "json": "items/equipment/t6-shield-tank-1900300234.json"
+  },
+  {
+   "id": 3952857868,
+   "name": "T7 Ring of Fog",
+   "rarity": "Uncommon",
+   "level": "45",
+   "image": "images/icons/3952857868.png",
+   "page": "items/equipment/t7-ring-of-fog-3952857868.md",
+   "json": "items/equipment/t7-ring-of-fog-3952857868.json"
+  },
+  {
+   "id": 2020280631,
+   "name": "T7 Ring of Health",
+   "rarity": "Uncommon",
+   "level": "45",
+   "image": "images/icons/2020280631.png",
+   "page": "items/equipment/t7-ring-of-health-2020280631.md",
+   "json": "items/equipment/t7-ring-of-health-2020280631.json"
+  },
+  {
+   "id": 4054656787,
+   "name": "T7 Ring of Mana",
+   "rarity": "Uncommon",
+   "level": "45",
+   "image": "images/icons/4054656787.png",
+   "page": "items/equipment/t7-ring-of-mana-4054656787.md",
+   "json": "items/equipment/t7-ring-of-mana-4054656787.json"
+  },
+  {
+   "id": 3265619282,
+   "name": "T7 Ring of Stamina",
+   "rarity": "Uncommon",
+   "level": "45",
+   "image": "images/icons/3265619282.png",
+   "page": "items/equipment/t7-ring-of-stamina-3265619282.md",
+   "json": "items/equipment/t7-ring-of-stamina-3265619282.json"
+  },
+  {
+   "id": 2821143924,
+   "name": "Transcendental Screen",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2821143924.png",
+   "page": "items/equipment/transcendental-screen-2821143924.md",
+   "json": "items/equipment/transcendental-screen-2821143924.json"
+  },
+  {
+   "id": 3490852408,
+   "name": "Transcendental Screen",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3490852408.png",
+   "page": "items/equipment/transcendental-screen-3490852408.md",
+   "json": "items/equipment/transcendental-screen-3490852408.json"
+  },
+  {
+   "id": 3211638619,
+   "name": "Turquoise Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3211638619.png",
+   "page": "items/equipment/turquoise-eyes-3211638619.md",
+   "json": "items/equipment/turquoise-eyes-3211638619.json"
+  },
+  {
+   "id": 1583140967,
+   "name": "Turquoise Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1583140967.png",
+   "page": "items/equipment/turquoise-hair-1583140967.md",
+   "json": "items/equipment/turquoise-hair-1583140967.json"
+  },
+  {
+   "id": 2159741777,
+   "name": "Valiant Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2159741777.png",
+   "page": "items/equipment/valiant-shield-2159741777.md",
+   "json": "items/equipment/valiant-shield-2159741777.json"
+  },
+  {
+   "id": 419035885,
+   "name": "Valiant Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/419035885.png",
+   "page": "items/equipment/valiant-shield-419035885.md",
+   "json": "items/equipment/valiant-shield-419035885.json"
+  },
+  {
+   "id": 4274321037,
+   "name": "Vanity Haloween2024 Outfit boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4274321037.png",
+   "page": "items/equipment/vanity-haloween2024-outfit-boots-4274321037.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-boots-4274321037.json"
+  },
+  {
+   "id": 239759878,
+   "name": "Vanity Haloween2024 Outfit chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/239759878.png",
+   "page": "items/equipment/vanity-haloween2024-outfit-chest-239759878.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-chest-239759878.json"
+  },
+  {
+   "id": 1651157598,
+   "name": "Vanity Haloween2024 Outfit gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1651157598.png",
+   "page": "items/equipment/vanity-haloween2024-outfit-gloves-1651157598.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-gloves-1651157598.json"
+  },
+  {
+   "id": 1872522625,
+   "name": "Vanity Haloween2024 Outfit Helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1872522625.png",
+   "page": "items/equipment/vanity-haloween2024-outfit-helmet-1872522625.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-helmet-1872522625.json"
+  },
+  {
+   "id": 1987039042,
+   "name": "Vanity Haloween2024 Outfit leg",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1987039042.png",
+   "page": "items/equipment/vanity-haloween2024-outfit-leg-1987039042.md",
+   "json": "items/equipment/vanity-haloween2024-outfit-leg-1987039042.json"
+  },
+  {
+   "id": 3087335855,
+   "name": "Vanity Helmet 03 Name Jester",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3087335855.png",
+   "page": "items/equipment/vanity-helmet-03-name-jester-3087335855.md",
+   "json": "items/equipment/vanity-helmet-03-name-jester-3087335855.json"
+  },
+  {
+   "id": 2342616229,
+   "name": "Vanity Helmet 04 Name Bandana",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2342616229.png",
+   "page": "items/equipment/vanity-helmet-04-name-bandana-2342616229.md",
+   "json": "items/equipment/vanity-helmet-04-name-bandana-2342616229.json"
+  },
+  {
+   "id": 999268147,
+   "name": "Vanity Helmet 05 Name Tricorn",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/999268147.png",
+   "page": "items/equipment/vanity-helmet-05-name-tricorn-999268147.md",
+   "json": "items/equipment/vanity-helmet-05-name-tricorn-999268147.json"
+  },
+  {
+   "id": 3816235332,
+   "name": "Vanity Outfit Sheep boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3816235332.png",
+   "page": "items/equipment/vanity-outfit-sheep-boots-3816235332.md",
+   "json": "items/equipment/vanity-outfit-sheep-boots-3816235332.json"
+  },
+  {
+   "id": 750528805,
+   "name": "Vanity Outfit Sheep boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/750528805.png",
+   "page": "items/equipment/vanity-outfit-sheep-boots-750528805.md",
+   "json": "items/equipment/vanity-outfit-sheep-boots-750528805.json"
+  },
+  {
+   "id": 2027100358,
+   "name": "Vanity Outfit Sheep chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2027100358.png",
+   "page": "items/equipment/vanity-outfit-sheep-chest-2027100358.md",
+   "json": "items/equipment/vanity-outfit-sheep-chest-2027100358.json"
+  },
+  {
+   "id": 590823529,
+   "name": "Vanity Outfit Sheep chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/590823529.png",
+   "page": "items/equipment/vanity-outfit-sheep-chest-590823529.md",
+   "json": "items/equipment/vanity-outfit-sheep-chest-590823529.json"
+  },
+  {
+   "id": 302659874,
+   "name": "Vanity Outfit Sheep gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/302659874.png",
+   "page": "items/equipment/vanity-outfit-sheep-gloves-302659874.md",
+   "json": "items/equipment/vanity-outfit-sheep-gloves-302659874.json"
+  },
+  {
+   "id": 99678308,
+   "name": "Vanity Outfit Sheep gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/99678308.png",
+   "page": "items/equipment/vanity-outfit-sheep-gloves-99678308.md",
+   "json": "items/equipment/vanity-outfit-sheep-gloves-99678308.json"
+  },
+  {
+   "id": 2461388514,
+   "name": "Vanity Outfit Sheep helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2461388514.png",
+   "page": "items/equipment/vanity-outfit-sheep-helmet-2461388514.md",
+   "json": "items/equipment/vanity-outfit-sheep-helmet-2461388514.json"
+  },
+  {
+   "id": 4045154450,
+   "name": "Vanity Outfit Sheep helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4045154450.png",
+   "page": "items/equipment/vanity-outfit-sheep-helmet-4045154450.md",
+   "json": "items/equipment/vanity-outfit-sheep-helmet-4045154450.json"
+  },
+  {
+   "id": 1379043223,
+   "name": "Vanity Outfit Sheep legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1379043223.png",
+   "page": "items/equipment/vanity-outfit-sheep-legs-1379043223.md",
+   "json": "items/equipment/vanity-outfit-sheep-legs-1379043223.json"
+  },
+  {
+   "id": 453745299,
+   "name": "Vanity Outfit Sheep legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/453745299.png",
+   "page": "items/equipment/vanity-outfit-sheep-legs-453745299.md",
+   "json": "items/equipment/vanity-outfit-sheep-legs-453745299.json"
+  },
+  {
+   "id": 3057743376,
+   "name": "Vorgoth's Boots",
+   "rarity": "Legendary",
+   "level": "45",
+   "image": "images/icons/3057743376.png",
+   "page": "items/equipment/vorgoth-s-boots-3057743376.md",
+   "json": "items/equipment/vorgoth-s-boots-3057743376.json"
+  },
+  {
+   "id": 248650235,
+   "name": "Vorgoth's Chest",
+   "rarity": "Legendary",
+   "level": "45",
+   "image": "images/icons/248650235.png",
+   "page": "items/equipment/vorgoth-s-chest-248650235.md",
+   "json": "items/equipment/vorgoth-s-chest-248650235.json"
+  },
+  {
+   "id": 876665028,
+   "name": "Vorgoth's Crown",
+   "rarity": "Legendary",
+   "level": "45",
+   "image": "images/icons/876665028.png",
+   "page": "items/equipment/vorgoth-s-crown-876665028.md",
+   "json": "items/equipment/vorgoth-s-crown-876665028.json"
+  },
+  {
+   "id": 3158681634,
+   "name": "Vorgoth's Gloves",
+   "rarity": "Legendary",
+   "level": "45",
+   "image": "images/icons/3158681634.png",
+   "page": "items/equipment/vorgoth-s-gloves-3158681634.md",
+   "json": "items/equipment/vorgoth-s-gloves-3158681634.json"
+  },
+  {
+   "id": 3057524028,
+   "name": "Vorgoth's Pants",
+   "rarity": "Legendary",
+   "level": "45",
+   "image": "images/icons/3057524028.png",
+   "page": "items/equipment/vorgoth-s-pants-3057524028.md",
+   "json": "items/equipment/vorgoth-s-pants-3057524028.json"
+  },
+  {
+   "id": 3888365414,
+   "name": "Wanderer's Boots",
+   "rarity": "Epic",
+   "level": "5",
+   "image": "images/icons/3888365414.png",
+   "page": "items/equipment/wanderer-s-boots-3888365414.md",
+   "json": "items/equipment/wanderer-s-boots-3888365414.json"
+  },
+  {
+   "id": 2394759659,
+   "name": "Ward T5",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/2394759659.png",
+   "page": "items/equipment/ward-t5-2394759659.md",
+   "json": "items/equipment/ward-t5-2394759659.json"
+  },
+  {
+   "id": 3770635805,
+   "name": "Ward T5",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/3770635805.png",
+   "page": "items/equipment/ward-t5-3770635805.md",
+   "json": "items/equipment/ward-t5-3770635805.json"
+  },
+  {
+   "id": 1467281560,
+   "name": "Ward T6",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/1467281560.png",
+   "page": "items/equipment/ward-t6-1467281560.md",
+   "json": "items/equipment/ward-t6-1467281560.json"
+  },
+  {
+   "id": 2664004828,
+   "name": "Ward T6",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/2664004828.png",
+   "page": "items/equipment/ward-t6-2664004828.md",
+   "json": "items/equipment/ward-t6-2664004828.json"
+  },
+  {
+   "id": 1150388410,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1150388410.png",
+   "page": "items/equipment/warrior-fog-protection-armor-1150388410.md",
+   "json": "items/equipment/warrior-fog-protection-armor-1150388410.json"
+  },
+  {
+   "id": 147265330,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/147265330.png",
+   "page": "items/equipment/warrior-fog-protection-armor-147265330.md",
+   "json": "items/equipment/warrior-fog-protection-armor-147265330.json"
+  },
+  {
+   "id": 2530259094,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2530259094.png",
+   "page": "items/equipment/warrior-fog-protection-armor-2530259094.md",
+   "json": "items/equipment/warrior-fog-protection-armor-2530259094.json"
+  },
+  {
+   "id": 3354677077,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3354677077.png",
+   "page": "items/equipment/warrior-fog-protection-armor-3354677077.md",
+   "json": "items/equipment/warrior-fog-protection-armor-3354677077.json"
+  },
+  {
+   "id": 875044567,
+   "name": "Warrior Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/875044567.png",
+   "page": "items/equipment/warrior-fog-protection-armor-875044567.md",
+   "json": "items/equipment/warrior-fog-protection-armor-875044567.json"
+  },
+  {
+   "id": 3665238533,
+   "name": "Warrior Supporter Boots",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3665238533.png",
+   "page": "items/equipment/warrior-supporter-boots-3665238533.md",
+   "json": "items/equipment/warrior-supporter-boots-3665238533.json"
+  },
+  {
+   "id": 1295700630,
+   "name": "Warrior Supporter chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1295700630.png",
+   "page": "items/equipment/warrior-supporter-chest-1295700630.md",
+   "json": "items/equipment/warrior-supporter-chest-1295700630.json"
+  },
+  {
+   "id": 547743748,
+   "name": "Warrior Supporter gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/547743748.png",
+   "page": "items/equipment/warrior-supporter-gloves-547743748.md",
+   "json": "items/equipment/warrior-supporter-gloves-547743748.json"
+  },
+  {
+   "id": 32012709,
+   "name": "Warrior Supporter helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/32012709.png",
+   "page": "items/equipment/warrior-supporter-helmet-32012709.md",
+   "json": "items/equipment/warrior-supporter-helmet-32012709.json"
+  },
+  {
+   "id": 131368072,
+   "name": "Warrior Supporter legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/131368072.png",
+   "page": "items/equipment/warrior-supporter-legs-131368072.md",
+   "json": "items/equipment/warrior-supporter-legs-131368072.json"
+  },
+  {
+   "id": 1962187669,
+   "name": "White Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1962187669.png",
+   "page": "items/equipment/white-eyes-1962187669.md",
+   "json": "items/equipment/white-eyes-1962187669.json"
+  },
+  {
+   "id": 537994591,
+   "name": "White Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/537994591.png",
+   "page": "items/equipment/white-hair-537994591.md",
+   "json": "items/equipment/white-hair-537994591.json"
+  },
+  {
+   "id": 3160502351,
+   "name": "Yellow Hair",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3160502351.png",
+   "page": "items/equipment/yellow-hair-3160502351.md",
+   "json": "items/equipment/yellow-hair-3160502351.json"
+  },
+  {
+   "id": 1254060378,
+   "name": "Yellows Eyes",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1254060378.png",
+   "page": "items/equipment/yellows-eyes-1254060378.md",
+   "json": "items/equipment/yellows-eyes-1254060378.json"
+  }
+ ]
+}

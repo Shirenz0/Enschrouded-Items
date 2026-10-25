@@ -1,0 +1,29 @@
+{
+ "id": 4135259126,
+ "name": "Empty Cymbidum Pot",
+ "internalName": "Empty_Flower_Pot_CNY_Empty_02a",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/4135259126.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/empty-cymbidum-pot.md",
+  "json": "objects/buildtools/empty-cymbidum-pot.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/empty-cymbidum-pot-4135259126.md"
+}

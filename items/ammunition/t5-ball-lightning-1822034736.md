@@ -31,4 +31,4 @@ A slow moving ball of lightning that shocks nearby enemies.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t5-ball-lightning-1822034736.json)

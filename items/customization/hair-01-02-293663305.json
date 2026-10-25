@@ -1,0 +1,29 @@
+{
+ "id": 293663305,
+ "name": "Hair 01 02",
+ "internalName": "VC_Hair_04_04_hanfu_ponytail",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/hair-01-02.md",
+  "json": "objects/customization/hair-01-02.json",
+  "versions": 8
+ },
+ "page": "items/customization/hair-01-02-293663305.md"
+}

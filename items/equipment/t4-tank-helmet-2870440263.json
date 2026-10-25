@@ -1,0 +1,116 @@
+{
+ "id": 2870440263,
+ "name": "T4 Tank Helmet",
+ "internalName": "Armor_T4_Warrior_Tank_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2870440263.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Command respect with this warden helmet.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-tank-helmet.md",
+  "json": "objects/equipment/t4-tank-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Merciless Strike Damage",
+    "value": 38,
+    "display": "38",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Blood Rage",
+   "effect": "Increases the skill level of Blood Rage by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+20 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Brute",
+   "effect": "Increases the skill level of Brute by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4187899850,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2698923038,
+      "name": "Fell Mist",
+      "page": "items/materials/fell-mist-2698923038.md",
+      "json": "items/materials/fell-mist-2698923038.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3436629486,
+      "name": "Yellow Fabric",
+      "page": "items/materials/yellow-fabric-3436629486.md",
+      "json": "items/materials/yellow-fabric-3436629486.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-tank-helmet-2870440263.md"
+}

@@ -1,0 +1,80 @@
+{
+ "id": 1263589034,
+ "name": "Spiced Tea",
+ "internalName": "Food_T4_dish_hydration_SpicedTea",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1263589034.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hot and spicy! The best drink for heated areas, refreshing and cooling the body at the same time.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2700000,
+    "display": "45:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 981077935,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1126086984,
+      "name": "Spice",
+      "page": "items/materials/spice-1126086984.md",
+      "json": "items/materials/spice-1126086984.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/spiced-tea-1263589034.md"
+}

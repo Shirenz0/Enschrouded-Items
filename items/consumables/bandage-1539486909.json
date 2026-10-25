@@ -1,0 +1,62 @@
+{
+ "id": 1539486909,
+ "name": "Bandage",
+ "internalName": "Consumable_Bandage_T1",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1539486909.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Helps the wounds recover, restoring Health over time.",
+ "lore": "Bandage",
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Healing per second",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3829249041,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/bandage-1539486909.md"
+}

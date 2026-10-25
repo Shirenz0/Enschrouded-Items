@@ -1,0 +1,82 @@
+{
+ "name": "Wolf's Hydra",
+ "category": "Weapons",
+ "image": "images/icons/544559006.png",
+ "versions": 6,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 4103969369,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/4103969369.png",
+   "page": "items/weapons/wolf-s-hydra-4103969369.md",
+   "json": "items/weapons/wolf-s-hydra-4103969369.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2264411387,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2264411387.png",
+   "page": "items/weapons/wolf-s-hydra-2264411387.md",
+   "json": "items/weapons/wolf-s-hydra-2264411387.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2829010645,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2829010645.png",
+   "page": "items/weapons/wolf-s-hydra-2829010645.md",
+   "json": "items/weapons/wolf-s-hydra-2829010645.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2875621972,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2875621972.png",
+   "page": "items/weapons/wolf-s-hydra-2875621972.md",
+   "json": "items/weapons/wolf-s-hydra-2875621972.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2894102737,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2894102737.png",
+   "page": "items/weapons/wolf-s-hydra-2894102737.md",
+   "json": "items/weapons/wolf-s-hydra-2894102737.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 544559006,
+   "name": "Wolf's Hydra",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/544559006.png",
+   "page": "items/weapons/wolf-s-hydra-544559006.md",
+   "json": "items/weapons/wolf-s-hydra-544559006.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/wolf-s-hydra.md"
+}

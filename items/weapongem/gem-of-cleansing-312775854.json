@@ -1,0 +1,35 @@
+{
+ "id": 312775854,
+ "name": "Gem of Cleansing",
+ "internalName": "T7_Gem_GemOfCleansing",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/312775854.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Dealing damage removes the enemies fog damage resistance for %k",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Debuff Duration",
+    "value": 3000,
+    "display": "3 s",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-cleansing-312775854.md"
+}

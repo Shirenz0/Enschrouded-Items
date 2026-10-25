@@ -1,0 +1,70 @@
+{
+ "id": 3846605059,
+ "name": "Frog In The Grass",
+ "internalName": "ColorPalette_T6_ColorPalette_night_03",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3846605059.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Toned done hues of green make you almost invisible when  you chase little frogs through the grass This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3108653622,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3507051762,
+      "name": "Gleam Root Dust",
+      "page": "items/materials/gleam-root-dust-3507051762.md",
+      "json": "items/materials/gleam-root-dust-3507051762.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/frog-in-the-grass-3846605059.md"
+}

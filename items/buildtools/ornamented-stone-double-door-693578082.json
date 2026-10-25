@@ -1,0 +1,43 @@
+{
+ "id": 693578082,
+ "name": "Ornamented Stone Double Door",
+ "internalName": "Prop_Decoration_T3_Door_Ornamented_Stone_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/693578082.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1014788643,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 212310372,
+      "name": "Solid Ornamented Stone Door",
+      "page": "items/buildtools/solid-ornamented-stone-door-212310372.md",
+      "json": "items/buildtools/solid-ornamented-stone-door-212310372.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/ornamented-stone-double-door-693578082.md"
+}

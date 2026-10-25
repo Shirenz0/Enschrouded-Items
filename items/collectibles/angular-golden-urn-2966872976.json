@@ -1,0 +1,25 @@
+{
+ "id": 2966872976,
+ "name": "Angular Golden Urn",
+ "internalName": "Collection_skeletons_02_urns_urn_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2966872976.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A golden urn in an angular shape.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/angular-golden-urn-2966872976.md"
+}

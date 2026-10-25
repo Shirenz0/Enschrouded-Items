@@ -1,0 +1,126 @@
+{
+ "id": 3681008420,
+ "name": "T7 Eternal Ice Totem II",
+ "internalName": "Ammo_T7_Spell_Ice_Totem_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/3681008420.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a totem that slows nearby enemies and deals ice damage. \nMaximum amount of summoned totems is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 70,
+    "display": "70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 699,
+    "display": "0.699 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 11000,
+    "display": "11 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 5000,
+    "display": "5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-10 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-10 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Glacial",
+   "effect": "+5 Glacial"
+  },
+  {
+   "order": 5,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+4 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2409566279,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 30,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    },
+    {
+     "count": 30,
+     "item": {
+      "id": 4199799645,
+      "name": "T5 Ice",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-ice-totem-ii-3681008420.md"
+}

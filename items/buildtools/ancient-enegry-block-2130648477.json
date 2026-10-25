@@ -1,0 +1,61 @@
+{
+ "id": 2130648477,
+ "name": "Ancient Enegry Block",
+ "internalName": "_Block_T7_YellowGlow_AncientEnergy_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2130648477.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Anciet Energy Description (the ancients use this glowing block as navigation help when it's dark? over large distances?)",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 153478735,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2035945146,
+      "name": "Celesthium Ore",
+      "page": "items/materials/celesthium-ore-2035945146.md",
+      "json": "items/materials/celesthium-ore-2035945146.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 234899173,
+      "name": "Magma Gel",
+      "page": "items/materials/magma-gel-234899173.md",
+      "json": "items/materials/magma-gel-234899173.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 885155884,
+      "name": "T7 material stone",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/ancient-enegry-block-2130648477.md"
+}

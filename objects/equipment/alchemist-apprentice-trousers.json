@@ -1,0 +1,35 @@
+{
+ "name": "Alchemist Apprentice Trousers",
+ "category": "Equipment",
+ "image": "images/icons/4211391947.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2554999858,
+   "name": "Alchemist Apprentice Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2554999858.png",
+   "page": "items/equipment/alchemist-apprentice-trousers-2554999858.md",
+   "json": "items/equipment/alchemist-apprentice-trousers-2554999858.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4211391947,
+   "name": "Alchemist Apprentice Trousers",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/4211391947.png",
+   "page": "items/equipment/alchemist-apprentice-trousers-4211391947.md",
+   "json": "items/equipment/alchemist-apprentice-trousers-4211391947.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/alchemist-apprentice-trousers.md"
+}

@@ -1,0 +1,125 @@
+{
+ "id": 1543470770,
+ "name": "T2 Archer Chest",
+ "internalName": "Armor_T2_Ranger_Assassin_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1543470770.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Padded and warm. Ideal for bracing cold nights when awaiting the time to strike.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-archer-chest.md",
+  "json": "objects/equipment/t2-archer-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 3,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  },
+  {
+   "order": 4,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Rebound",
+   "effect": "Increases the skill level of Rebound by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1860392509,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 291752398,
+      "name": "Reptile Leather",
+      "page": "items/materials/reptile-leather-291752398.md",
+      "json": "items/materials/reptile-leather-291752398.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3420500473,
+      "name": "Dried Fur",
+      "page": "items/materials/dried-fur-3420500473.md",
+      "json": "items/materials/dried-fur-3420500473.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3571891401,
+      "name": "Giant Critter Scales",
+      "page": "items/materials/giant-critter-scales-3571891401.md",
+      "json": "items/materials/giant-critter-scales-3571891401.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-archer-chest-1543470770.md"
+}

@@ -1,0 +1,29 @@
+{
+ "id": 2481913049,
+ "name": "Wall Window",
+ "internalName": "Blueprint_Voxel_Block_Wall_Window_4m",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/wall-window.md",
+  "json": "objects/blueprints/wall-window.json",
+  "versions": 2
+ },
+ "page": "items/blueprints/wall-window-2481913049.md"
+}

@@ -1,0 +1,69 @@
+{
+ "id": 2559861108,
+ "name": "Fog Essence",
+ "internalName": "Material_T1_Fog_Essence01_ShroudSpores",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/2559861108.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A strange kind of energy. It appears unstable for now, but perhaps it can be refined.",
+ "lore": null,
+ "whereToFind": "Fell Enemies, Springlands Shroud and Revelwood Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1438617272,
+   "name": "Grappling Hook",
+   "page": "items/tools/grappling-hook-1438617272.md",
+   "json": "items/tools/grappling-hook-1438617272.json"
+  },
+  {
+   "id": 1028290781,
+   "name": "Glider",
+   "page": "items/tools/glider-1028290781.md",
+   "json": "items/tools/glider-1028290781.json"
+  },
+  {
+   "id": 1789305300,
+   "name": "Improved Grappling Hook",
+   "page": "items/tools/improved-grappling-hook-1789305300.md",
+   "json": "items/tools/improved-grappling-hook-1789305300.json"
+  },
+  {
+   "id": 4044650321,
+   "name": "Magic Small Chest",
+   "page": "items/buildtools/magic-small-chest-4044650321.md",
+   "json": "items/buildtools/magic-small-chest-4044650321.json"
+  },
+  {
+   "id": 2125851720,
+   "name": "Tbd T2 Palette 01 Reward Blue, Blue And Blue",
+   "page": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.md",
+   "json": "items/colorpalette/tbd-t2-palette-01-reward-blue-blue-and-blue-2125851720.json"
+  },
+  {
+   "id": 4286973253,
+   "name": "Tbd T2 Palette 02 Reward",
+   "page": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.md",
+   "json": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.json"
+  },
+  {
+   "id": 1528590138,
+   "name": "Fog Core",
+   "page": "items/materials/fog-core-1528590138.md",
+   "json": "items/materials/fog-core-1528590138.json"
+  }
+ ],
+ "page": "items/materials/fog-essence-2559861108.md"
+}

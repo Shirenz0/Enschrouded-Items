@@ -23,4 +23,4 @@ Collect multiple Cyclops Heads to craft the Trophy.
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](hydrak-dal-head-345631469.json)

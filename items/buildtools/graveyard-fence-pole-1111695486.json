@@ -1,0 +1,47 @@
+{
+ "id": 1111695486,
+ "name": "Graveyard Fence Pole",
+ "internalName": "Prop_Decoration_T3_Fence_Graveyard_Pole",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1111695486.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/graveyard-fence-pole.md",
+  "json": "objects/buildtools/graveyard-fence-pole.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 3488756659,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/graveyard-fence-pole-1111695486.md"
+}

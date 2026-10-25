@@ -1,0 +1,43 @@
+{
+ "id": 3422704366,
+ "name": "Red Confetti Mortar",
+ "internalName": "Consumable_Toy_Confetti_03_Red_Mortar_WIP",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3422704366.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Alchemy!",
+ "lore": "Consumables",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2106136432,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/buildtools/red-confetti-mortar-3422704366.md"
+}

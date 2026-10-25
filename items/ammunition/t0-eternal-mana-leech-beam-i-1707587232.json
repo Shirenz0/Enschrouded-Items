@@ -1,0 +1,60 @@
+{
+ "id": 1707587232,
+ "name": "T0 Eternal Mana Leech Beam I",
+ "internalName": "Ammo_T0_Spell_ManaLeechBeam_Channel_lvl3",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 3,
+  "max": 3
+ },
+ "maxStack": 1,
+ "image": "images/icons/1707587232.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical Beam that leeches Mana from enemies without dealing damage to them.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 7,
+    "display": "7",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2903850837,
+   "station": null,
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t0-eternal-mana-leech-beam-i-1707587232.md"
+}

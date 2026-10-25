@@ -1,0 +1,25 @@
+{
+ "id": 2610555646,
+ "name": "Old Books",
+ "internalName": "Material_T1_OldBooks",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/2610555646.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A stack of old parchments. Worn and Torn by the ravages of time. Maybe a wise man will be able to salvage something from the remnants.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/old-books-2610555646.md"
+}

@@ -17,4 +17,4 @@ Worn by the most talented, renowned and successful mages of the kingdom.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-mage-arms.json)

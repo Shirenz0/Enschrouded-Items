@@ -1,0 +1,68 @@
+{
+ "id": 3888365414,
+ "name": "Wanderer's Boots",
+ "internalName": "Armor_T1_Ranger_Boots_Ministory_12",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/3888365414.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A wanderer's boots, worn but still sturdy. Carry your burdens wherever you please.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Sprint  Speed",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+4 Stamina"
+  }
+ ],
+ "page": "items/equipment/wanderer-s-boots-3888365414.md"
+}

@@ -29,4 +29,4 @@ Crafting, Ectoplasm Press
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](glow-dirt-green-2149011961.json)

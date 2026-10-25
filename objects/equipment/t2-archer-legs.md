@@ -17,4 +17,4 @@ The added leather grants superior protection from jagged rocks, unruly tree bark
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-archer-legs.json)

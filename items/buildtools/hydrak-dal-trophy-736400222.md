@@ -31,4 +31,4 @@ A severed Hydrak'Dal Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](hydrak-dal-trophy-736400222.json)

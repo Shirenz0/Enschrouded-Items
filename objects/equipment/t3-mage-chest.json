@@ -1,0 +1,35 @@
+{
+ "name": "T3 Mage Chest",
+ "category": "Equipment",
+ "image": "images/icons/3397095517.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1523324827,
+   "name": "T3 Mage Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1523324827.png",
+   "page": "items/equipment/t3-mage-chest-1523324827.md",
+   "json": "items/equipment/t3-mage-chest-1523324827.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3397095517,
+   "name": "T3 Mage Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3397095517.png",
+   "page": "items/equipment/t3-mage-chest-3397095517.md",
+   "json": "items/equipment/t3-mage-chest-3397095517.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-mage-chest.md"
+}

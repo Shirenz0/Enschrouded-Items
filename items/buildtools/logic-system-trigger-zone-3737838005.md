@@ -17,4 +17,4 @@ Logic System Trigger Zone
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](logic-system-trigger-zone-3737838005.json)

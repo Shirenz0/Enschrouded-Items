@@ -1,0 +1,81 @@
+{
+ "id": 3895216255,
+ "name": "Giant Ice Bones",
+ "internalName": "Material_T5_Giant_Bones",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/3895216255.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These things are bone-chilling.",
+ "lore": null,
+ "whereToFind": "Enemies, Albaneve Summits Hollow Halls",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2543839394,
+   "name": "Wetland Hollow Halls Key",
+   "page": "items/tools/wetland-hollow-halls-key-2543839394.md",
+   "json": "items/tools/wetland-hollow-halls-key-2543839394.json"
+  },
+  {
+   "id": 334395711,
+   "name": "T7 Eternal Giant Bone Arrow II",
+   "page": "items/ammunition/t7-eternal-giant-bone-arrow-ii-334395711.md",
+   "json": "items/ammunition/t7-eternal-giant-bone-arrow-ii-334395711.json"
+  },
+  {
+   "id": 1610169156,
+   "name": "T6 Eternal Giant Bone Arrow I",
+   "page": "items/ammunition/t6-eternal-giant-bone-arrow-i-1610169156.md",
+   "json": "items/ammunition/t6-eternal-giant-bone-arrow-i-1610169156.json"
+  },
+  {
+   "id": 3600953136,
+   "name": "T6 Giant Bone Arrow IV",
+   "page": "items/ammunition/t6-giant-bone-arrow-iv-3600953136.md",
+   "json": "items/ammunition/t6-giant-bone-arrow-iv-3600953136.json"
+  },
+  {
+   "id": 297685721,
+   "name": "T7 Eternal Bone Channel II",
+   "page": "items/ammunition/t7-eternal-bone-channel-ii-297685721.md",
+   "json": "items/ammunition/t7-eternal-bone-channel-ii-297685721.json"
+  },
+  {
+   "id": 1887970091,
+   "name": "T6 Eternal Bone Channel I",
+   "page": "items/ammunition/t6-eternal-bone-channel-i-1887970091.md",
+   "json": "items/ammunition/t6-eternal-bone-channel-i-1887970091.json"
+  },
+  {
+   "id": 4054999373,
+   "name": "T6 Bone Channel V",
+   "page": "items/ammunition/t6-bone-channel-v-4054999373.md",
+   "json": "items/ammunition/t6-bone-channel-v-4054999373.json"
+  },
+  {
+   "id": 3370079249,
+   "name": "T7 Eternal Summon Skeleton II",
+   "page": "items/ammunition/t7-eternal-summon-skeleton-ii-3370079249.md",
+   "json": "items/ammunition/t7-eternal-summon-skeleton-ii-3370079249.json"
+  },
+  {
+   "id": 4252546627,
+   "name": "T6 Summon Skeleton II",
+   "page": "items/ammunition/t6-summon-skeleton-ii-4252546627.md",
+   "json": "items/ammunition/t6-summon-skeleton-ii-4252546627.json"
+  }
+ ],
+ "page": "items/materials/giant-ice-bones-3895216255.md"
+}

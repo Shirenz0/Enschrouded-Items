@@ -28,4 +28,4 @@ A strange flask exuding a feeling of power.
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](mysterious-flask-2206945282.json)

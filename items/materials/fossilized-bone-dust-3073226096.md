@@ -30,4 +30,4 @@ Crafting, Hand Grinder
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](fossilized-bone-dust-3073226096.json)

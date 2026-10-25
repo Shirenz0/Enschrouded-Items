@@ -25,4 +25,4 @@ An ancient potted plant. This one can be displayed in the Cultivation Rack
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](small-prickle-pearl-plant-pot-197885818.json)

@@ -1,0 +1,35 @@
+{
+ "name": "T2 Healer Chest",
+ "category": "Equipment",
+ "image": "images/icons/2707905851.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 111548446,
+   "name": "T2 Healer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/111548446.png",
+   "page": "items/equipment/t2-healer-chest-111548446.md",
+   "json": "items/equipment/t2-healer-chest-111548446.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2707905851,
+   "name": "T2 Healer Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2707905851.png",
+   "page": "items/equipment/t2-healer-chest-2707905851.md",
+   "json": "items/equipment/t2-healer-chest-2707905851.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-healer-chest.md"
+}

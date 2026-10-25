@@ -1,0 +1,35 @@
+{
+ "name": "T4 Assassin Legs",
+ "category": "Equipment",
+ "image": "images/icons/887413477.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3413443507,
+   "name": "T4 Assassin Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3413443507.png",
+   "page": "items/equipment/t4-assassin-legs-3413443507.md",
+   "json": "items/equipment/t4-assassin-legs-3413443507.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 887413477,
+   "name": "T4 Assassin Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/887413477.png",
+   "page": "items/equipment/t4-assassin-legs-887413477.md",
+   "json": "items/equipment/t4-assassin-legs-887413477.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-assassin-legs.md"
+}

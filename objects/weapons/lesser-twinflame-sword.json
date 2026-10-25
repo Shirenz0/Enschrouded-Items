@@ -1,0 +1,59 @@
+{
+ "name": "Lesser Twinflame Sword",
+ "category": "Weapons",
+ "image": "images/icons/4189016694.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range"
+ ],
+ "items": [
+  {
+   "id": 2773595146,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2773595146.png",
+   "page": "items/weapons/lesser-twinflame-sword-2773595146.md",
+   "json": "items/weapons/lesser-twinflame-sword-2773595146.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1786607643,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1786607643.png",
+   "page": "items/weapons/lesser-twinflame-sword-1786607643.md",
+   "json": "items/weapons/lesser-twinflame-sword-1786607643.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2487547952,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2487547952.png",
+   "page": "items/weapons/lesser-twinflame-sword-2487547952.md",
+   "json": "items/weapons/lesser-twinflame-sword-2487547952.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4189016694,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "1-55",
+   "image": "images/icons/4189016694.png",
+   "page": "items/weapons/lesser-twinflame-sword-4189016694.md",
+   "json": "items/weapons/lesser-twinflame-sword-4189016694.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/lesser-twinflame-sword.md"
+}

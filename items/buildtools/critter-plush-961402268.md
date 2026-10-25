@@ -31,4 +31,4 @@ critter plush desc
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](critter-plush-961402268.json)

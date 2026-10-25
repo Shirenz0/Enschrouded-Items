@@ -17,4 +17,4 @@ A magician's gloves, bound by magic infused golden thread.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-mage-arms.json)

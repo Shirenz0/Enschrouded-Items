@@ -32,4 +32,4 @@ Nomad Highlands
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](raw-bird-meat-385885887.json)

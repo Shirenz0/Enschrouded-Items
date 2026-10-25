@@ -27,4 +27,4 @@ She likes to keep the bones she found during excavations close to her; they're t
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](loraine-s-top-1539502869.json)

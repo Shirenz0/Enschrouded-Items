@@ -1,0 +1,68 @@
+{
+ "id": 2949322768,
+ "name": "Health Potion improved",
+ "internalName": "_Consumable_Potion_Health_T1_HoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2949322768.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some Health instantly and provides an additional healing over time effect for 10 seconds.",
+ "lore": "Level 5 Potion",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Healing per second",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3664325696,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3436474234,
+      "name": "Health Potion",
+      "page": "items/consumables/health-potion-3436474234.md",
+      "json": "items/consumables/health-potion-3436474234.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2433487720,
+      "name": "Night Lily",
+      "page": "items/consumables/night-lily-2433487720.md",
+      "json": "items/consumables/night-lily-2433487720.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/health-potion-improved-2949322768.md"
+}

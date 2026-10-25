@@ -22,4 +22,4 @@ They differ in level range and description; the table shows the values per versi
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](bone-key.json)

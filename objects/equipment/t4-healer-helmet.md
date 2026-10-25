@@ -17,4 +17,4 @@ You can't read sacred scrolls if you can't see, but true understanding comes fro
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-healer-helmet.json)

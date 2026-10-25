@@ -1,0 +1,81 @@
+{
+ "id": 3474096535,
+ "name": "Torch",
+ "internalName": "Tool_Torch01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 1,
+ "image": "images/icons/3474096535.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A torch made of basic ingredients, spending light for a short amount of time.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Cold Resistance",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2094533124,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 3316218728,
+       "name": "Plant Fibre",
+       "page": "items/materials/plant-fibre-3316218728.md",
+       "json": "items/materials/plant-fibre-3316218728.json"
+      },
+      {
+       "id": 1026141130,
+       "name": "Paper Reed",
+       "page": "items/materials/paper-reed-1026141130.md",
+       "json": "items/materials/paper-reed-1026141130.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/torch-3474096535.md"
+}

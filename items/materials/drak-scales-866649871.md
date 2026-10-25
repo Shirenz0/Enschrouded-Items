@@ -25,4 +25,4 @@ Enemies, Wetland
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](drak-scales-866649871.json)

@@ -1,0 +1,59 @@
+{
+ "id": 2258082676,
+ "name": "Short Rags",
+ "internalName": "Armor_T0_Rags_Legs",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 3,
+  "max": 3
+ },
+ "maxStack": 1,
+ "image": "images/icons/2258082676.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Enough to not run around naked.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3390744267,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/short-rags-2258082676.md"
+}

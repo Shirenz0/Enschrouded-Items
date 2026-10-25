@@ -25,4 +25,4 @@ Veilwater Basin Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](shroud-slime-1803037496.json)

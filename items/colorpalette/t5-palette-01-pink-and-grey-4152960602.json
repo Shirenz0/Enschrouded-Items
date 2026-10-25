@@ -1,0 +1,70 @@
+{
+ "id": 4152960602,
+ "name": "T5 Palette 01 Pink and Grey",
+ "internalName": "ColorPalette_T5_ColorPalette_01",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/4152960602.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Different shades of Purple and Grey",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 120252797,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 579568751,
+      "name": "Shroud Vapor",
+      "page": "items/materials/shroud-vapor-579568751.md",
+      "json": "items/materials/shroud-vapor-579568751.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3728704408,
+      "name": "T5 Silver Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1240806864,
+      "name": "T5 Obsidian Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4123882248,
+      "name": "T5 Mauveine",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t5-palette-01-pink-and-grey-4152960602.md"
+}

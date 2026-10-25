@@ -1,0 +1,102 @@
+{
+ "id": 3357517884,
+ "name": "Ghost Glider",
+ "internalName": "Tool_Glider_T4_REWARD",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 1,
+ "image": "images/icons/3357517884.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Death comes from above.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Glider",
+  "values": [
+   {
+    "label": "Stamina per Second",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Range",
+    "value": 250,
+    "display": "250",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Speed",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1636855099,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1350606537,
+      "name": "Fog Oil",
+      "page": "items/materials/fog-oil-1350606537.md",
+      "json": "items/materials/fog-oil-1350606537.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/ghost-glider-3357517884.md"
+}

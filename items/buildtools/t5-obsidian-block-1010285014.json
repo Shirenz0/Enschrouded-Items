@@ -1,0 +1,52 @@
+{
+ "id": 1010285014,
+ "name": "T5 Obsidian Block",
+ "internalName": "Block_T5_Stone_Obsidian_Polished_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1010285014.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T5 Obsidian Block Desc",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4073677078,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 9,
+     "item": {
+      "id": 3376734441,
+      "name": "T5 Obsidian",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/t5-obsidian-block-1010285014.md"
+}

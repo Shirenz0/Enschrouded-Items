@@ -1,0 +1,177 @@
+{
+ "id": 1887186828,
+ "name": "Shroud Sludge",
+ "internalName": "Material_T6_Shroud_Sludge",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1887186828.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A very sludgy substance, but what else would you expect when mixing slime (t6 shroud slime) and jelly(t3 shroud jelly)?",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4121148020,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1803037496,
+      "name": "Shroud Slime",
+      "page": "items/materials/shroud-slime-1803037496.md",
+      "json": "items/materials/shroud-slime-1803037496.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 342099111,
+      "name": "Shroud Jelly",
+      "page": "items/materials/shroud-jelly-342099111.md",
+      "json": "items/materials/shroud-jelly-342099111.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3486560156,
+      "name": "Placeholder: Pink Mushroom Meat",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 491393994,
+   "name": "Ultimate Health Potion",
+   "page": "items/consumables/ultimate-health-potion-491393994.md",
+   "json": "items/consumables/ultimate-health-potion-491393994.json"
+  },
+  {
+   "id": 2916308043,
+   "name": "Ultimate Mana Potion",
+   "page": "items/consumables/ultimate-mana-potion-2916308043.md",
+   "json": "items/consumables/ultimate-mana-potion-2916308043.json"
+  },
+  {
+   "id": 3960177886,
+   "name": "T6 Ice Totem II",
+   "page": "items/ammunition/t6-ice-totem-ii-3960177886.md",
+   "json": "items/ammunition/t6-ice-totem-ii-3960177886.json"
+  },
+  {
+   "id": 1389638766,
+   "name": "T6 Eternal Lightning Channel I",
+   "page": "items/ammunition/t6-eternal-lightning-channel-i-1389638766.md",
+   "json": "items/ammunition/t6-eternal-lightning-channel-i-1389638766.json"
+  },
+  {
+   "id": 396873784,
+   "name": "T6 Shock Wisp III",
+   "page": "items/ammunition/t6-shock-wisp-iii-396873784.md",
+   "json": "items/ammunition/t6-shock-wisp-iii-396873784.json"
+  },
+  {
+   "id": 3046388897,
+   "name": "T6 Shock Totem II",
+   "page": "items/ammunition/t6-shock-totem-ii-3046388897.md",
+   "json": "items/ammunition/t6-shock-totem-ii-3046388897.json"
+  },
+  {
+   "id": 220072414,
+   "name": "Pretty In Pink",
+   "page": "items/colorpalette/pretty-in-pink-220072414.md",
+   "json": "items/colorpalette/pretty-in-pink-220072414.json"
+  },
+  {
+   "id": 2434044399,
+   "name": "Ginger In A Jungle",
+   "page": "items/colorpalette/ginger-in-a-jungle-2434044399.md",
+   "json": "items/colorpalette/ginger-in-a-jungle-2434044399.json"
+  },
+  {
+   "id": 3494273287,
+   "name": "Gold In The Water",
+   "page": "items/colorpalette/gold-in-the-water-3494273287.md",
+   "json": "items/colorpalette/gold-in-the-water-3494273287.json"
+  },
+  {
+   "id": 1860080518,
+   "name": "From Dusk Till Dawn",
+   "page": "items/colorpalette/from-dusk-till-dawn-1860080518.md",
+   "json": "items/colorpalette/from-dusk-till-dawn-1860080518.json"
+  },
+  {
+   "id": 1365809698,
+   "name": "Waves Of Valor",
+   "page": "items/colorpalette/waves-of-valor-1365809698.md",
+   "json": "items/colorpalette/waves-of-valor-1365809698.json"
+  },
+  {
+   "id": 1966532423,
+   "name": "Holly and Berry",
+   "page": "items/colorpalette/holly-and-berry-1966532423.md",
+   "json": "items/colorpalette/holly-and-berry-1966532423.json"
+  },
+  {
+   "id": 855563189,
+   "name": "Fell Fashion",
+   "page": "items/colorpalette/fell-fashion-855563189.md",
+   "json": "items/colorpalette/fell-fashion-855563189.json"
+  },
+  {
+   "id": 2331607035,
+   "name": "Rust And Rose",
+   "page": "items/colorpalette/rust-and-rose-2331607035.md",
+   "json": "items/colorpalette/rust-and-rose-2331607035.json"
+  },
+  {
+   "id": 391330740,
+   "name": "Veil Of Blues",
+   "page": "items/colorpalette/veil-of-blues-391330740.md",
+   "json": "items/colorpalette/veil-of-blues-391330740.json"
+  },
+  {
+   "id": 835723769,
+   "name": "Shades Of Red",
+   "page": "items/colorpalette/shades-of-red-835723769.md",
+   "json": "items/colorpalette/shades-of-red-835723769.json"
+  },
+  {
+   "id": 3846605059,
+   "name": "Frog In The Grass",
+   "page": "items/colorpalette/frog-in-the-grass-3846605059.md",
+   "json": "items/colorpalette/frog-in-the-grass-3846605059.json"
+  },
+  {
+   "id": 2979937043,
+   "name": "Passionflower at night",
+   "page": "items/colorpalette/passionflower-at-night-2979937043.md",
+   "json": "items/colorpalette/passionflower-at-night-2979937043.json"
+  },
+  {
+   "id": 2676513257,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-2676513257.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2676513257.json"
+  }
+ ],
+ "page": "items/materials/shroud-sludge-1887186828.md"
+}

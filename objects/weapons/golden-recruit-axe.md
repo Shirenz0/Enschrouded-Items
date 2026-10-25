@@ -18,4 +18,4 @@ The most successful and newly decorated recruits are sometimes gifted weapons di
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](golden-recruit-axe.json)

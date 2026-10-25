@@ -27,4 +27,4 @@ A hat that is made both practical and fun by the added fluffy fur.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](lumberer-hat-3216732270.json)

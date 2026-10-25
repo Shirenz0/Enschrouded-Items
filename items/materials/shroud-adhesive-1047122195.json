@@ -1,0 +1,147 @@
+{
+ "id": 1047122195,
+ "name": "Shroud Adhesive",
+ "internalName": "Material_T3_ShroudAdhesive",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/1047122195.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A thick, viscous substance harvested from Shroud Tentacles. Its tenacious bonding properties make it essential for crafting armor and for securely sticking materials together in various crafting recipes.",
+ "lore": null,
+ "whereToFind": "Shroud Flayer, First: Nomad Highlands Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 284247111,
+   "name": "Extraordinary Glider",
+   "page": "items/tools/extraordinary-glider-284247111.md",
+   "json": "items/tools/extraordinary-glider-284247111.json"
+  },
+  {
+   "id": 632849243,
+   "name": "T3 Ice Totem I",
+   "page": "items/ammunition/t3-ice-totem-i-632849243.md",
+   "json": "items/ammunition/t3-ice-totem-i-632849243.json"
+  },
+  {
+   "id": 1100793430,
+   "name": "T3 Entangle II",
+   "page": "items/ammunition/t3-entangle-ii-1100793430.md",
+   "json": "items/ammunition/t3-entangle-ii-1100793430.json"
+  },
+  {
+   "id": 2153855871,
+   "name": "T5 Shroud Beam Channel",
+   "page": "items/ammunition/t5-shroud-beam-channel-2153855871.md",
+   "json": "items/ammunition/t5-shroud-beam-channel-2153855871.json"
+  },
+  {
+   "id": 1401264358,
+   "name": "Tentacle Seedling",
+   "page": "items/buildtools/tentacle-seedling-1401264358.md",
+   "json": "items/buildtools/tentacle-seedling-1401264358.json"
+  },
+  {
+   "id": 2653935294,
+   "name": "T3 Palette 03 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.md",
+   "json": "items/colorpalette/t3-palette-03-brown-green-grey-2653935294.json"
+  },
+  {
+   "id": 3841845306,
+   "name": "T3 Palette 01 reward Green, green, green",
+   "page": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.md",
+   "json": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.json"
+  },
+  {
+   "id": 1017300382,
+   "name": "Tbd T3 Palette 02 Reward",
+   "page": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.md",
+   "json": "items/colorpalette/tbd-t3-palette-02-reward-1017300382.json"
+  },
+  {
+   "id": 634473105,
+   "name": "Shroud Nexus",
+   "page": "items/materials/shroud-nexus-634473105.md",
+   "json": "items/materials/shroud-nexus-634473105.json"
+  },
+  {
+   "id": 1069361064,
+   "name": "Shroud Weaver",
+   "page": "items/weapons/shroud-weaver-1069361064.md",
+   "json": "items/weapons/shroud-weaver-1069361064.json"
+  },
+  {
+   "id": 30416182,
+   "name": "T3 DPS Boots",
+   "page": "items/equipment/t3-dps-boots-30416182.md",
+   "json": "items/equipment/t3-dps-boots-30416182.json"
+  },
+  {
+   "id": 1977989355,
+   "name": "T3 Healer Boots",
+   "page": "items/equipment/t3-healer-boots-1977989355.md",
+   "json": "items/equipment/t3-healer-boots-1977989355.json"
+  },
+  {
+   "id": 2793515653,
+   "name": "T3 Healer Chest",
+   "page": "items/equipment/t3-healer-chest-2793515653.md",
+   "json": "items/equipment/t3-healer-chest-2793515653.json"
+  },
+  {
+   "id": 4289077760,
+   "name": "T3 Mage Helmet",
+   "page": "items/equipment/t3-mage-helmet-4289077760.md",
+   "json": "items/equipment/t3-mage-helmet-4289077760.json"
+  },
+  {
+   "id": 2746111440,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-2746111440.md",
+   "json": "items/equipment/mage-fog-protection-armor-2746111440.json"
+  },
+  {
+   "id": 161814920,
+   "name": "T3 Ranger Boots",
+   "page": "items/equipment/t3-ranger-boots-161814920.md",
+   "json": "items/equipment/t3-ranger-boots-161814920.json"
+  },
+  {
+   "id": 935025760,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-935025760.md",
+   "json": "items/equipment/ranger-fog-protection-armor-935025760.json"
+  },
+  {
+   "id": 3281783103,
+   "name": "T3 Archer Legs",
+   "page": "items/equipment/t3-archer-legs-3281783103.md",
+   "json": "items/equipment/t3-archer-legs-3281783103.json"
+  },
+  {
+   "id": 536100641,
+   "name": "T3 Tank Boots",
+   "page": "items/equipment/t3-tank-boots-536100641.md",
+   "json": "items/equipment/t3-tank-boots-536100641.json"
+  },
+  {
+   "id": 875044567,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-875044567.md",
+   "json": "items/equipment/warrior-fog-protection-armor-875044567.json"
+  }
+ ],
+ "page": "items/materials/shroud-adhesive-1047122195.md"
+}

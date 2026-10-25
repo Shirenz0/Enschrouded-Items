@@ -1,0 +1,61 @@
+{
+ "id": 2543839394,
+ "name": "Wetland Hollow Halls Key",
+ "internalName": "Key_Skeleton_Bone_Dungeon06",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 43,
+  "max": 43
+ },
+ "maxStack": 1,
+ "image": "images/icons/2543839394.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Key for the Wetland Hollow Halls",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1877054402,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 3953523416,
+      "name": "Krypt Krystal",
+      "page": "items/materials/krypt-krystal-3953523416.md",
+      "json": "items/materials/krypt-krystal-3953523416.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3895216255,
+      "name": "Giant Ice Bones",
+      "page": "items/materials/giant-ice-bones-3895216255.md",
+      "json": "items/materials/giant-ice-bones-3895216255.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/wetland-hollow-halls-key-2543839394.md"
+}

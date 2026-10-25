@@ -23,4 +23,4 @@ A reconstructed map, consisting of 4 former map pieces. There's writing on the b
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](the-dragon-s-map.json)

@@ -1,0 +1,43 @@
+{
+ "id": 582832101,
+ "name": "Highly Polished Stone Block",
+ "internalName": "Block_T4_Stone_HighlyPolished_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/582832101.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A stone block refined with the highest level of craftsmanship, rarely seen even in ancient times.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1677753939,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/highly-polished-stone-block-582832101.md"
+}

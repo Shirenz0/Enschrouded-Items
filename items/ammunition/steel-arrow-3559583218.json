@@ -1,0 +1,75 @@
+{
+ "id": 3559583218,
+ "name": "Steel Arrow",
+ "internalName": "Ammo_T5_Arrow_Steel_lvl30",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 500,
+ "image": "images/icons/3559583218.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A steel tipped arrow.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 1543174332,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 103008069,
+   "name": "Poisoned Steel Arrow",
+   "page": "items/ammunition/poisoned-steel-arrow-103008069.md",
+   "json": "items/ammunition/poisoned-steel-arrow-103008069.json"
+  }
+ ],
+ "page": "items/ammunition/steel-arrow-3559583218.md"
+}

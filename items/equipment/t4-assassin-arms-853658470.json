@@ -1,0 +1,122 @@
+{
+ "id": 853658470,
+ "name": "T4 Assassin Arms",
+ "internalName": "Armor_T4_Ranger_Assassin_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/853658470.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Robust gloves which hide the wearer's palms and true intentions.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-assassin-arms.md",
+  "json": "objects/equipment/t4-assassin-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "% Dagger Damage",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4287451924,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4079068070,
+      "name": "Sanddigger Scales",
+      "page": "items/materials/sanddigger-scales-4079068070.md",
+      "json": "items/materials/sanddigger-scales-4079068070.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2102228606,
+      "name": "Giant Fell Talon",
+      "page": "items/materials/giant-fell-talon-2102228606.md",
+      "json": "items/materials/giant-fell-talon-2102228606.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-assassin-arms-853658470.md"
+}

@@ -1,0 +1,79 @@
+{
+ "id": 3466985705,
+ "name": "Thyme",
+ "internalName": "Food_T7_raw_herb_Thyme",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3466985705.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t7 herb thyme desc",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 1800000,
+    "display": "30:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 140,
+    "display": "140",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2105748910,
+   "name": "T7 Bandage",
+   "page": "items/consumables/t7-bandage-2105748910.md",
+   "json": "items/consumables/t7-bandage-2105748910.json"
+  },
+  {
+   "id": 2818493303,
+   "name": "(honeyed) Thyme Tea",
+   "page": "items/consumables/honeyed-thyme-tea-2818493303.md",
+   "json": "items/consumables/honeyed-thyme-tea-2818493303.json"
+  },
+  {
+   "id": 2848753277,
+   "name": "Cabbage Mushroom Rice",
+   "page": "items/consumables/cabbage-mushroom-rice-2848753277.md",
+   "json": "items/consumables/cabbage-mushroom-rice-2848753277.json"
+  },
+  {
+   "id": 609216940,
+   "name": "Ancient Health Potion",
+   "page": "items/consumables/ancient-health-potion-609216940.md",
+   "json": "items/consumables/ancient-health-potion-609216940.json"
+  },
+  {
+   "id": 1375984897,
+   "name": "T7 Eternal Chain Heal II",
+   "page": "items/ammunition/t7-eternal-chain-heal-ii-1375984897.md",
+   "json": "items/ammunition/t7-eternal-chain-heal-ii-1375984897.json"
+  },
+  {
+   "id": 3415410466,
+   "name": "Thyme Seedling",
+   "page": "items/buildtools/thyme-seedling-3415410466.md",
+   "json": "items/buildtools/thyme-seedling-3415410466.json"
+  }
+ ],
+ "page": "items/consumables/thyme-3466985705.md"
+}

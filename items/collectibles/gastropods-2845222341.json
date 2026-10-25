@@ -1,0 +1,25 @@
+{
+ "id": 2845222341,
+ "name": "Gastropods",
+ "internalName": "Collection_fossils_03_Gastropods_gastropod_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2845222341.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These two gastropods have survivded aeons - together.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/gastropods-2845222341.md"
+}

@@ -1,0 +1,41 @@
+{
+ "id": 2671415350,
+ "name": "Gem of Lesser Necromancy",
+ "internalName": "T3_Gem_GemOfLesserNecromancy",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/2671415350.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Killing an enemy has a %k chance to spawn an allied level %k skeleton weakling. You can only have 4 active skeletons weaklings from this gem at a time. Spawning more deletes the oldest one. Skeleton weaklings decay when too long out of combat.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Trigger Chance on Kill",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Skeleton Level",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-lesser-necromancy-2671415350.md"
+}

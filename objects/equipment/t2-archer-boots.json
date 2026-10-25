@@ -1,0 +1,35 @@
+{
+ "name": "T2 Archer Boots",
+ "category": "Equipment",
+ "image": "images/icons/3170247014.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2731186757,
+   "name": "T2 Archer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2731186757.png",
+   "page": "items/equipment/t2-archer-boots-2731186757.md",
+   "json": "items/equipment/t2-archer-boots-2731186757.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3170247014,
+   "name": "T2 Archer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3170247014.png",
+   "page": "items/equipment/t2-archer-boots-3170247014.md",
+   "json": "items/equipment/t2-archer-boots-3170247014.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-archer-boots.md"
+}

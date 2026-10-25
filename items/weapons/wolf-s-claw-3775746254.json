@@ -1,0 +1,66 @@
+{
+ "id": 3775746254,
+ "name": "Wolf's Claw",
+ "internalName": "Weapon_T2_1H_Axe_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3775746254.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Strikes with force and leaves devastating wounds. A weapon truly fitting its name.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Brutal",
+   "effect": "+14 Brutal"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+14 Brutal"
+  }
+ ],
+ "page": "items/weapons/wolf-s-claw-3775746254.md"
+}

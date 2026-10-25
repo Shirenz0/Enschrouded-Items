@@ -27,4 +27,4 @@ Drak Trophy Wall Head description - Twitch Drop
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](drak-trophy-wall-head-twitch-drop-2469035941.json)

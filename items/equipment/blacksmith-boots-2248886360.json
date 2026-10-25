@@ -1,0 +1,46 @@
+{
+ "id": 2248886360,
+ "name": "Blacksmith Boots",
+ "internalName": "Vanity_TX_Blacksmith_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2248886360.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "These boots will still keep their shape even if you drop a hammer on them. Or tongs. Or an entire anvil. How handy!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet"
+ },
+ "recipes": [
+  {
+   "recipeId": 2527137274,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/blacksmith-boots-2248886360.md"
+}

@@ -1,0 +1,92 @@
+{
+ "id": 2074901818,
+ "name": "Rice with ancient \"beans\"",
+ "internalName": "Food_T7_dish_grain_BeanRice",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2074901818.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "a coloful dish made of rice, beans and other vegetables",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3600000,
+    "display": "60:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1805508248,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3688068238,
+      "name": "Cooked Rice",
+      "page": "items/consumables/cooked-rice-3688068238.md",
+      "json": "items/consumables/cooked-rice-3688068238.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3317538148,
+      "name": "Ancient \"Beans\"",
+      "page": "items/consumables/ancient-beans-3317538148.md",
+      "json": "items/consumables/ancient-beans-3317538148.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 4094316095,
+      "name": "Bell Pepper",
+      "page": "items/consumables/bell-pepper-4094316095.md",
+      "json": "items/consumables/bell-pepper-4094316095.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1036540037,
+      "name": "Tomatos",
+      "page": "items/consumables/tomatos-1036540037.md",
+      "json": "items/consumables/tomatos-1036540037.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/rice-with-ancient-beans-2074901818.md"
+}

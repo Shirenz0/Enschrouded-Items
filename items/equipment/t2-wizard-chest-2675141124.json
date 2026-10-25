@@ -1,0 +1,67 @@
+{
+ "id": 2675141124,
+ "name": "T2 Wizard Chest",
+ "internalName": "Armor_T2_Mage_BattleWand_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/2675141124.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Protects the wearer from stray sparks and sudden cold flashes.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Wand Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Life Essences",
+   "effect": "Increases the skill level of Life Essences by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  }
+ ],
+ "page": "items/equipment/t2-wizard-chest-2675141124.md"
+}

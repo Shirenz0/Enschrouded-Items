@@ -1,0 +1,43 @@
+{
+ "id": 3334364433,
+ "name": "Wooden Double Door",
+ "internalName": "Prop_Decoration_T0_Door_Wooden_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3334364433.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3350371524,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1310308759,
+      "name": "Wooden Door",
+      "page": "items/buildtools/wooden-door-1310308759.md",
+      "json": "items/buildtools/wooden-door-1310308759.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/wooden-double-door-3334364433.md"
+}

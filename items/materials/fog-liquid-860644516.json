@@ -1,0 +1,93 @@
+{
+ "id": 860644516,
+ "name": "Fog Liquid",
+ "internalName": "Material_T1_MushroomDrop_ShroudLiquid",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/860644516.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The liquified essence of the Shroud. The brown fluid emits a violet vapour and is used for many powerful alchemical purposes. It can be harvasted from various growths in the shroud.",
+ "lore": "No ammo equipped",
+ "whereToFind": "Springlands Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1789305300,
+   "name": "Improved Grappling Hook",
+   "page": "items/tools/improved-grappling-hook-1789305300.md",
+   "json": "items/tools/improved-grappling-hook-1789305300.json"
+  },
+  {
+   "id": 310129061,
+   "name": "Waterproof Stone Block",
+   "page": "items/buildtools/waterproof-stone-block-310129061.md",
+   "json": "items/buildtools/waterproof-stone-block-310129061.json"
+  },
+  {
+   "id": 3169292847,
+   "name": "T1 Ice Bolt I",
+   "page": "items/ammunition/t1-ice-bolt-i-3169292847.md",
+   "json": "items/ammunition/t1-ice-bolt-i-3169292847.json"
+  },
+  {
+   "id": 1639517943,
+   "name": "T1 Palette 01 Brown Grey",
+   "page": "items/colorpalette/t1-palette-01-brown-grey-1639517943.md",
+   "json": "items/colorpalette/t1-palette-01-brown-grey-1639517943.json"
+  },
+  {
+   "id": 2299237068,
+   "name": "T1 Palette 04 Brown blue grey",
+   "page": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.md",
+   "json": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.json"
+  },
+  {
+   "id": 103217131,
+   "name": "T1 Palette 03 Brown dark grey",
+   "page": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.md",
+   "json": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.json"
+  },
+  {
+   "id": 51104213,
+   "name": "T1 Palette 02 Grey Brown",
+   "page": "items/colorpalette/t1-palette-02-grey-brown-51104213.md",
+   "json": "items/colorpalette/t1-palette-02-grey-brown-51104213.json"
+  },
+  {
+   "id": 1528590138,
+   "name": "Fog Core",
+   "page": "items/materials/fog-core-1528590138.md",
+   "json": "items/materials/fog-core-1528590138.json"
+  },
+  {
+   "id": 2554999858,
+   "name": "Alchemist Apprentice Trousers",
+   "page": "items/equipment/alchemist-apprentice-trousers-2554999858.md",
+   "json": "items/equipment/alchemist-apprentice-trousers-2554999858.json"
+  },
+  {
+   "id": 4293917741,
+   "name": "Rising Fighter Trousers",
+   "page": "items/equipment/rising-fighter-trousers-4293917741.md",
+   "json": "items/equipment/rising-fighter-trousers-4293917741.json"
+  },
+  {
+   "id": 1242709289,
+   "name": "Scout Pants",
+   "page": "items/equipment/scout-pants-1242709289.md",
+   "json": "items/equipment/scout-pants-1242709289.json"
+  }
+ ],
+ "page": "items/materials/fog-liquid-860644516.md"
+}

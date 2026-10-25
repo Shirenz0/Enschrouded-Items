@@ -25,4 +25,4 @@ Fell Enemies, First: Veilwater Basin Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](shroud-relic-3581489769.json)

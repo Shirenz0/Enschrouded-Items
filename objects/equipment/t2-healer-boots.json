@@ -1,0 +1,35 @@
+{
+ "name": "T2 Healer Boots",
+ "category": "Equipment",
+ "image": "images/icons/4234118833.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 4089349181,
+   "name": "T2 Healer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4089349181.png",
+   "page": "items/equipment/t2-healer-boots-4089349181.md",
+   "json": "items/equipment/t2-healer-boots-4089349181.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4234118833,
+   "name": "T2 Healer Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4234118833.png",
+   "page": "items/equipment/t2-healer-boots-4234118833.md",
+   "json": "items/equipment/t2-healer-boots-4234118833.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-healer-boots.md"
+}

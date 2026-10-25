@@ -31,4 +31,4 @@ defeat boss multiples times to craft gold trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-hollow-cyclops-trophy-987744055.json)

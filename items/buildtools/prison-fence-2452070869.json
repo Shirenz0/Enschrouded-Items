@@ -1,0 +1,56 @@
+{
+ "id": 2452070869,
+ "name": "Prison Fence",
+ "internalName": "Prop_Decoration_T4_Prison_Fence_Fixed",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2452070869.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/prison-fence.md",
+  "json": "objects/buildtools/prison-fence.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 1313321301,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/prison-fence-2452070869.md"
+}

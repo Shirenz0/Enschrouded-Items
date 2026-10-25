@@ -1,0 +1,61 @@
+{
+ "id": 914979767,
+ "name": "Standing Banner of the Ancients II",
+ "internalName": "Prop_Decoration_Ancients_Banner_Standing_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/914979767.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 964940763,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 514509650,
+      "name": "Gold Bars",
+      "page": "items/materials/gold-bars-514509650.md",
+      "json": "items/materials/gold-bars-514509650.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 398142464,
+      "name": "Blue Fabric",
+      "page": "items/materials/blue-fabric-398142464.md",
+      "json": "items/materials/blue-fabric-398142464.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/standing-banner-of-the-ancients-ii-914979767.md"
+}

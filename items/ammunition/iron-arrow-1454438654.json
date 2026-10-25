@@ -1,0 +1,75 @@
+{
+ "id": 1454438654,
+ "name": "Iron Arrow",
+ "internalName": "Ammo_T4_Arrow_Iron_lvl22",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 22,
+  "max": 22
+ },
+ "maxStack": 500,
+ "image": "images/icons/1454438654.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A deadly arrow, tipped with an iron arrowhead, leaving enemies in awe of its might.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 165480246,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2369582730,
+   "name": "Poisoned Iron Arrow",
+   "page": "items/ammunition/poisoned-iron-arrow-2369582730.md",
+   "json": "items/ammunition/poisoned-iron-arrow-2369582730.json"
+  }
+ ],
+ "page": "items/ammunition/iron-arrow-1454438654.md"
+}

@@ -1,0 +1,66 @@
+{
+ "id": 4233298973,
+ "name": "Explosive Powderball Net",
+ "internalName": "Consumable_Grenade_Explosive_PowderBall_T3",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 20,
+ "image": "images/icons/4233298973.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A throwable explosive with astounding power!",
+ "lore": "Level 1 KABOOM!",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4255878154,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2283229289,
+      "name": "Explosive Powder Ball",
+      "page": "items/weapons/explosive-powder-ball-2283229289.md",
+      "json": "items/weapons/explosive-powder-ball-2283229289.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/explosive-powderball-net-4233298973.md"
+}

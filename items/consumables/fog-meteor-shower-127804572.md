@@ -25,4 +25,4 @@ This scroll is enchanted with the power of the T4 Shroud Meteor. It releases a s
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](fog-meteor-shower-127804572.json)

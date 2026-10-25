@@ -1,0 +1,61 @@
+{
+ "id": 1357946175,
+ "name": "Capybara Bait",
+ "internalName": "Food_T6_Capybara_Bait",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1357946175.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 capybara bait desc",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 421541194,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2456844314,
+      "name": "Sugar Cane",
+      "page": "items/consumables/sugar-cane-2456844314.md",
+      "json": "items/consumables/sugar-cane-2456844314.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1026141130,
+      "name": "Paper Reed",
+      "page": "items/materials/paper-reed-1026141130.md",
+      "json": "items/materials/paper-reed-1026141130.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 806123624,
+      "name": "Algae",
+      "page": "items/consumables/algae-806123624.md",
+      "json": "items/consumables/algae-806123624.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/buildtools/capybara-bait-1357946175.md"
+}

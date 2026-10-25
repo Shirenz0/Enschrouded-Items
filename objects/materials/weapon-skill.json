@@ -1,0 +1,33 @@
+{
+ "name": "Weapon Skill",
+ "category": "Materials",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2593704943,
+   "name": "Weapon Skill",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/weapon-skill-2593704943.md",
+   "json": "items/materials/weapon-skill-2593704943.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 433052744,
+   "name": "Weapon Skill",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/materials/weapon-skill-433052744.md",
+   "json": "items/materials/weapon-skill-433052744.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/materials/weapon-skill.md"
+}

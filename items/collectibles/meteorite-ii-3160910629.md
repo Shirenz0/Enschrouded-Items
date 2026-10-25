@@ -19,4 +19,4 @@ This collectible is found in Cinder's Cradle.1
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](meteorite-ii-3160910629.json)

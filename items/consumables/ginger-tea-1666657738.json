@@ -1,0 +1,71 @@
+{
+ "id": 1666657738,
+ "name": "Ginger Tea",
+ "internalName": "Food_T6_dish_hydration_GingerTea",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1666657738.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 ginger tea desc",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Ice Resistance",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 3300000,
+    "display": "55:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 54471918,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 814096701,
+      "name": "Ginger",
+      "page": "items/consumables/ginger-814096701.md",
+      "json": "items/consumables/ginger-814096701.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/ginger-tea-1666657738.md"
+}

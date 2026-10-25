@@ -22,4 +22,4 @@ A blade that's cold tot he touch. It weighs heavily on the mind.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](halescourge.json)

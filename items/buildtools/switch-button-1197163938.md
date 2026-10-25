@@ -21,4 +21,4 @@ A push button combined with a light. Pushing the button switches the state betwe
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](switch-button-1197163938.json)

@@ -1,0 +1,297 @@
+{
+ "id": 1381084162,
+ "name": "Bamboo Logs",
+ "internalName": "Material_T6_Wood_Logs_Bamboo",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1381084162.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 bamboo desc, use it for crafting",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1476723348,
+   "name": "Lucky Fishing Rod",
+   "page": "items/buildtools/lucky-fishing-rod-1476723348.md",
+   "json": "items/buildtools/lucky-fishing-rod-1476723348.json"
+  },
+  {
+   "id": 531118786,
+   "name": "T6 Bamboo Wood Block",
+   "page": "items/buildtools/t6-bamboo-wood-block-531118786.md",
+   "json": "items/buildtools/t6-bamboo-wood-block-531118786.json"
+  },
+  {
+   "id": 2886126838,
+   "name": "Bamboo Seedling",
+   "page": "items/buildtools/bamboo-seedling-2886126838.md",
+   "json": "items/buildtools/bamboo-seedling-2886126838.json"
+  },
+  {
+   "id": 1735564804,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-1735564804.md",
+   "json": "items/weapons/fenrig-s-axe-1735564804.json"
+  },
+  {
+   "id": 3961069021,
+   "name": "Bamboo Bench",
+   "page": "items/buildtools/bamboo-bench-3961069021.md",
+   "json": "items/buildtools/bamboo-bench-3961069021.json"
+  },
+  {
+   "id": 1628155447,
+   "name": "Bamboo Lounger",
+   "page": "items/buildtools/bamboo-lounger-1628155447.md",
+   "json": "items/buildtools/bamboo-lounger-1628155447.json"
+  },
+  {
+   "id": 1266849221,
+   "name": "Bamboo Chair",
+   "page": "items/buildtools/bamboo-chair-1266849221.md",
+   "json": "items/buildtools/bamboo-chair-1266849221.json"
+  },
+  {
+   "id": 939235192,
+   "name": "Blue Pendant Light II",
+   "page": "items/buildtools/blue-pendant-light-ii-939235192.md",
+   "json": "items/buildtools/blue-pendant-light-ii-939235192.json"
+  },
+  {
+   "id": 193218758,
+   "name": "Orange Pendant Light II",
+   "page": "items/buildtools/orange-pendant-light-ii-193218758.md",
+   "json": "items/buildtools/orange-pendant-light-ii-193218758.json"
+  },
+  {
+   "id": 3782344101,
+   "name": "Purple Pendant Light II",
+   "page": "items/buildtools/purple-pendant-light-ii-3782344101.md",
+   "json": "items/buildtools/purple-pendant-light-ii-3782344101.json"
+  },
+  {
+   "id": 14979379,
+   "name": "Blue Wall Light I",
+   "page": "items/buildtools/blue-wall-light-i-14979379.md",
+   "json": "items/buildtools/blue-wall-light-i-14979379.json"
+  },
+  {
+   "id": 853154934,
+   "name": "Orange Wall Light I",
+   "page": "items/buildtools/orange-wall-light-i-853154934.md",
+   "json": "items/buildtools/orange-wall-light-i-853154934.json"
+  },
+  {
+   "id": 1335353289,
+   "name": "Purple Wall Light I",
+   "page": "items/buildtools/purple-wall-light-i-1335353289.md",
+   "json": "items/buildtools/purple-wall-light-i-1335353289.json"
+  },
+  {
+   "id": 3687127031,
+   "name": "Blue Wall Light II",
+   "page": "items/buildtools/blue-wall-light-ii-3687127031.md",
+   "json": "items/buildtools/blue-wall-light-ii-3687127031.json"
+  },
+  {
+   "id": 3679359640,
+   "name": "Orange Wall Light II",
+   "page": "items/buildtools/orange-wall-light-ii-3679359640.md",
+   "json": "items/buildtools/orange-wall-light-ii-3679359640.json"
+  },
+  {
+   "id": 4278796376,
+   "name": "Purple Wall Light II",
+   "page": "items/buildtools/purple-wall-light-ii-4278796376.md",
+   "json": "items/buildtools/purple-wall-light-ii-4278796376.json"
+  },
+  {
+   "id": 1747355696,
+   "name": "Blue Floor Light I",
+   "page": "items/buildtools/blue-floor-light-i-1747355696.md",
+   "json": "items/buildtools/blue-floor-light-i-1747355696.json"
+  },
+  {
+   "id": 417177465,
+   "name": "Orange Floor Light I",
+   "page": "items/buildtools/orange-floor-light-i-417177465.md",
+   "json": "items/buildtools/orange-floor-light-i-417177465.json"
+  },
+  {
+   "id": 517190819,
+   "name": "Purple Floor Light I",
+   "page": "items/buildtools/purple-floor-light-i-517190819.md",
+   "json": "items/buildtools/purple-floor-light-i-517190819.json"
+  },
+  {
+   "id": 2925532764,
+   "name": "Blue Floor Light II",
+   "page": "items/buildtools/blue-floor-light-ii-2925532764.md",
+   "json": "items/buildtools/blue-floor-light-ii-2925532764.json"
+  },
+  {
+   "id": 4083221254,
+   "name": "Orange Floor Light II",
+   "page": "items/buildtools/orange-floor-light-ii-4083221254.md",
+   "json": "items/buildtools/orange-floor-light-ii-4083221254.json"
+  },
+  {
+   "id": 1455205368,
+   "name": "Purple Floor Light II",
+   "page": "items/buildtools/purple-floor-light-ii-1455205368.md",
+   "json": "items/buildtools/purple-floor-light-ii-1455205368.json"
+  },
+  {
+   "id": 3669060453,
+   "name": "Bamboo Bar Counter",
+   "page": "items/buildtools/bamboo-bar-counter-3669060453.md",
+   "json": "items/buildtools/bamboo-bar-counter-3669060453.json"
+  },
+  {
+   "id": 2063620928,
+   "name": "Bamboo Night Table",
+   "page": "items/buildtools/bamboo-night-table-2063620928.md",
+   "json": "items/buildtools/bamboo-night-table-2063620928.json"
+  },
+  {
+   "id": 3607939791,
+   "name": "Bamboo Gate",
+   "page": "items/buildtools/bamboo-gate-3607939791.md",
+   "json": "items/buildtools/bamboo-gate-3607939791.json"
+  },
+  {
+   "id": 934699219,
+   "name": "Bamboo Room Divider II",
+   "page": "items/buildtools/bamboo-room-divider-ii-934699219.md",
+   "json": "items/buildtools/bamboo-room-divider-ii-934699219.json"
+  },
+  {
+   "id": 675151487,
+   "name": "Bamboo Container I",
+   "page": "items/buildtools/bamboo-container-i-675151487.md",
+   "json": "items/buildtools/bamboo-container-i-675151487.json"
+  },
+  {
+   "id": 1343767117,
+   "name": "Bamboo Container II",
+   "page": "items/buildtools/bamboo-container-ii-1343767117.md",
+   "json": "items/buildtools/bamboo-container-ii-1343767117.json"
+  },
+  {
+   "id": 1742670074,
+   "name": "Bamboo Cage I",
+   "page": "items/buildtools/bamboo-cage-i-1742670074.md",
+   "json": "items/buildtools/bamboo-cage-i-1742670074.json"
+  },
+  {
+   "id": 667012962,
+   "name": "Bamboo Cage II",
+   "page": "items/buildtools/bamboo-cage-ii-667012962.md",
+   "json": "items/buildtools/bamboo-cage-ii-667012962.json"
+  },
+  {
+   "id": 4136278992,
+   "name": "Bamboo Crate I",
+   "page": "items/buildtools/bamboo-crate-i-4136278992.md",
+   "json": "items/buildtools/bamboo-crate-i-4136278992.json"
+  },
+  {
+   "id": 1749305549,
+   "name": "Bamboo Crate II",
+   "page": "items/buildtools/bamboo-crate-ii-1749305549.md",
+   "json": "items/buildtools/bamboo-crate-ii-1749305549.json"
+  },
+  {
+   "id": 3554673768,
+   "name": "Large Bamboo Crate",
+   "page": "items/buildtools/large-bamboo-crate-3554673768.md",
+   "json": "items/buildtools/large-bamboo-crate-3554673768.json"
+  },
+  {
+   "id": 56166095,
+   "name": "T6 Bamboo Palm Leaf Umbrella",
+   "page": "items/buildtools/t6-bamboo-palm-leaf-umbrella-56166095.md",
+   "json": "items/buildtools/t6-bamboo-palm-leaf-umbrella-56166095.json"
+  },
+  {
+   "id": 1004762457,
+   "name": "Bamboo Fence With Ropes I",
+   "page": "items/buildtools/bamboo-fence-with-ropes-i-1004762457.md",
+   "json": "items/buildtools/bamboo-fence-with-ropes-i-1004762457.json"
+  },
+  {
+   "id": 2573348849,
+   "name": "Bamboo Fence With Ropes II",
+   "page": "items/buildtools/bamboo-fence-with-ropes-ii-2573348849.md",
+   "json": "items/buildtools/bamboo-fence-with-ropes-ii-2573348849.json"
+  },
+  {
+   "id": 3121223720,
+   "name": "Bamboo Fence Pole",
+   "page": "items/buildtools/bamboo-fence-pole-3121223720.md",
+   "json": "items/buildtools/bamboo-fence-pole-3121223720.json"
+  },
+  {
+   "id": 947644888,
+   "name": "Bamboo Ladder",
+   "page": "items/buildtools/bamboo-ladder-947644888.md",
+   "json": "items/buildtools/bamboo-ladder-947644888.json"
+  },
+  {
+   "id": 3911304042,
+   "name": "Bamboo Door",
+   "page": "items/buildtools/bamboo-door-3911304042.md",
+   "json": "items/buildtools/bamboo-door-3911304042.json"
+  },
+  {
+   "id": 357984322,
+   "name": "Small Bamboo Window II",
+   "page": "items/buildtools/small-bamboo-window-ii-357984322.md",
+   "json": "items/buildtools/small-bamboo-window-ii-357984322.json"
+  },
+  {
+   "id": 694698355,
+   "name": "Small Bamboo Window I",
+   "page": "items/buildtools/small-bamboo-window-i-694698355.md",
+   "json": "items/buildtools/small-bamboo-window-i-694698355.json"
+  },
+  {
+   "id": 1881188889,
+   "name": "High Bamboo Window",
+   "page": "items/buildtools/high-bamboo-window-1881188889.md",
+   "json": "items/buildtools/high-bamboo-window-1881188889.json"
+  },
+  {
+   "id": 4182429771,
+   "name": "Bamboo Window III",
+   "page": "items/buildtools/bamboo-window-iii-4182429771.md",
+   "json": "items/buildtools/bamboo-window-iii-4182429771.json"
+  },
+  {
+   "id": 1806800106,
+   "name": "Bamboo Window II",
+   "page": "items/buildtools/bamboo-window-ii-1806800106.md",
+   "json": "items/buildtools/bamboo-window-ii-1806800106.json"
+  },
+  {
+   "id": 678993563,
+   "name": "Bamboo Window I",
+   "page": "items/buildtools/bamboo-window-i-678993563.md",
+   "json": "items/buildtools/bamboo-window-i-678993563.json"
+  }
+ ],
+ "page": "items/materials/bamboo-logs-1381084162.md"
+}

@@ -1,0 +1,70 @@
+{
+ "id": 391330740,
+ "name": "Veil Of Blues",
+ "internalName": "ColorPalette_T6_ColorPalette_night_01",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/391330740.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The Veilwater Basin is rich in vibrant colors. The blue sky reflecting in the clear waters. and at night, tand at night, the waters glow faintly, as if holding onto the memory of the day’s colors.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1764439509,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3507051762,
+      "name": "Gleam Root Dust",
+      "page": "items/materials/gleam-root-dust-3507051762.md",
+      "json": "items/materials/gleam-root-dust-3507051762.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/veil-of-blues-391330740.md"
+}

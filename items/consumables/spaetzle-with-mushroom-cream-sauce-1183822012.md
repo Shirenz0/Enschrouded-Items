@@ -35,4 +35,4 @@ Kitchen
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](spaetzle-with-mushroom-cream-sauce-1183822012.json)

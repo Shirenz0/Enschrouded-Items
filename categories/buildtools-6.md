@@ -61,4 +61,4 @@
 | <img src="../images/icons/2862328564.png" width="48"> | [Yellow Wall Pot](../items/buildtools/yellow-wall-pot-2862328564.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3643820464.png" width="48"> | [Yellow Wall Pot](../items/buildtools/yellow-wall-pot-3643820464.md) | ⚪ Common | - | 50 |
 
-[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · [3](buildtools-3.md) · [4](buildtools-4.md) · [5](buildtools-5.md) · **6**
+[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · [3](buildtools-3.md) · [4](buildtools-4.md) · [5](buildtools-5.md) · **6** · [JSON](buildtools-6.json)

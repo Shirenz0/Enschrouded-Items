@@ -1,0 +1,103 @@
+{
+ "id": 2159741777,
+ "name": "Valiant Shield",
+ "internalName": "Shield_T2_Tank",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/2159741777.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A formidable shield that can keep you and your allys safe.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/valiant-shield.md",
+  "json": "objects/equipment/valiant-shield.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 3,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 233353281,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 7,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/valiant-shield-2159741777.md"
+}

@@ -1,0 +1,33 @@
+{
+ "id": 2845598712,
+ "name": "Reptile Hide",
+ "internalName": "Material_T2_Reptile_Hide",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/2845598712.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The usable parts of fallen Swamp Dweller",
+ "lore": null,
+ "whereToFind": "Blackmire",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 291752398,
+   "name": "Reptile Leather",
+   "page": "items/materials/reptile-leather-291752398.md",
+   "json": "items/materials/reptile-leather-291752398.json"
+  }
+ ],
+ "page": "items/materials/reptile-hide-2845598712.md"
+}

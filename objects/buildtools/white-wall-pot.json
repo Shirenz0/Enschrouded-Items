@@ -1,0 +1,39 @@
+{
+ "name": "White Wall Pot",
+ "category": "BuildTools",
+ "image": "images/icons/2553292740.png",
+ "versions": 2,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1763603908,
+   "name": "White Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1763603908.png",
+   "page": "items/buildtools/white-wall-pot-1763603908.md",
+   "json": "items/buildtools/white-wall-pot-1763603908.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2553292740,
+   "name": "White Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2553292740.png",
+   "page": "items/buildtools/white-wall-pot-2553292740.md",
+   "json": "items/buildtools/white-wall-pot-2553292740.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/white-wall-pot.md"
+}

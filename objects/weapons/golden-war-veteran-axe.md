@@ -18,4 +18,4 @@ Once upon a time, there was a heroic veteran eager to free his people from a cor
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](golden-war-veteran-axe.json)

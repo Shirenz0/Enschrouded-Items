@@ -1,0 +1,79 @@
+{
+ "id": 2916308043,
+ "name": "Ultimate Mana Potion",
+ "internalName": "Consumable_Potion_Mana_T6",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2916308043.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 mana potion desc",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 350,
+    "display": "350",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4044477085,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 814096701,
+      "name": "Ginger",
+      "page": "items/consumables/ginger-814096701.md",
+      "json": "items/consumables/ginger-814096701.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 814867063,
+   "name": "Ultimate Mana Potion +",
+   "page": "items/consumables/ultimate-mana-potion-814867063.md",
+   "json": "items/consumables/ultimate-mana-potion-814867063.json"
+  }
+ ],
+ "page": "items/consumables/ultimate-mana-potion-2916308043.md"
+}

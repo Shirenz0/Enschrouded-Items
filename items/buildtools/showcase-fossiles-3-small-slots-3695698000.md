@@ -25,4 +25,4 @@ This is a showcase for Fossile Collection Items you find in close to quarries an
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](showcase-fossiles-3-small-slots-3695698000.json)

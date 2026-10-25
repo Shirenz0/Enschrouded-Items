@@ -24,4 +24,4 @@ When your Shroudmeter is in a below %k, defeated enemies drop Fogpower Orbs that
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-hopeful-embers-4099513710.json)

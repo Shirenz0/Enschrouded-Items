@@ -25,4 +25,4 @@ A wooden plate to display foods and drinks on a table.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](rectangular-coaster-2776180521.json)

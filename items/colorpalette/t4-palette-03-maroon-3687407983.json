@@ -1,0 +1,70 @@
+{
+ "id": 3687407983,
+ "name": "T4 Palette 03 maroon",
+ "internalName": "ColorPalette_T4_ColorPalette_03",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3687407983.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Different shades of Red and brown",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2635605217,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2206878080,
+      "name": "Nitrate",
+      "page": "items/materials/nitrate-2206878080.md",
+      "json": "items/materials/nitrate-2206878080.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4091795277,
+      "name": "Brittle Shroud Flakes",
+      "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+      "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2302389683,
+      "name": "Corrosive Blood",
+      "page": "items/materials/corrosive-blood-2302389683.md",
+      "json": "items/materials/corrosive-blood-2302389683.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t4-palette-03-maroon-3687407983.md"
+}

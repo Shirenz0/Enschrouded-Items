@@ -1,0 +1,35 @@
+{
+ "name": "T4 Healer Legs",
+ "category": "Equipment",
+ "image": "images/icons/3183764632.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1737522687,
+   "name": "T4 Healer Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1737522687.png",
+   "page": "items/equipment/t4-healer-legs-1737522687.md",
+   "json": "items/equipment/t4-healer-legs-1737522687.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3183764632,
+   "name": "T4 Healer Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3183764632.png",
+   "page": "items/equipment/t4-healer-legs-3183764632.md",
+   "json": "items/equipment/t4-healer-legs-3183764632.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-healer-legs.md"
+}

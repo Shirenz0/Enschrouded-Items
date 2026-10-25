@@ -1,0 +1,32 @@
+{
+ "id": 2848403787,
+ "name": "Jezmina's Yearwake Helmet",
+ "internalName": "Vanity_TwitchDrop_T2_springButterfly_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2848403787.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Jezmina's Yearwake helmet desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/jezmina-s-yearwake-helmet.md",
+  "json": "objects/equipment/jezmina-s-yearwake-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head"
+ },
+ "page": "items/equipment/jezmina-s-yearwake-helmet-2848403787.md"
+}

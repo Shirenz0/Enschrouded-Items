@@ -17,4 +17,4 @@ The perfect disguise - even in brought daylight.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](scout-hood.json)

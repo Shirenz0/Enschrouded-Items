@@ -1,0 +1,59 @@
+{
+ "id": 100480458,
+ "name": "Gem of Obsession",
+ "internalName": "T4_Gem_GemOfObsession",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/100480458.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "While the Elixir Buff is active, dealing damage grants %k health regeneration, %k stamina regeneration and %k mana regeneration for %k. After the increased regeneration runs out, regeneration of health, stamina and mana are disabled for %k.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Buff Duration",
+    "value": 3000,
+    "display": "3 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 10000,
+    "display": "10 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-obsession-100480458.md"
+}

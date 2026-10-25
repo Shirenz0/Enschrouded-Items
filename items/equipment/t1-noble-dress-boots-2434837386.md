@@ -27,4 +27,4 @@ noble dress boots desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t1-noble-dress-boots-2434837386.json)

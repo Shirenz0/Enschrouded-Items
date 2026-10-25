@@ -32,4 +32,4 @@ find in Albaneve Summits Shroud
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](yellow-shroud-mushroom-1683685602.json)

@@ -30,4 +30,4 @@ Magical ammunition that releases a flash of light, bright enough to push pack en
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t3-light-burst-738997972.json)

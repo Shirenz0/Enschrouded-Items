@@ -1,0 +1,70 @@
+{
+ "id": 2434044399,
+ "name": "Ginger In A Jungle",
+ "internalName": "ColorPalette_T6_ColorPalette_02",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2434044399.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Rich, depp hues of green resemble the jungle and thicket you have to make your way through. A pinch of red is added, just like the red ginger flowers that occurs here and there and breaks up the green jungle. This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3032362405,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3702590848,
+      "name": "Green Vitriol Dust",
+      "page": "items/materials/green-vitriol-dust-3702590848.md",
+      "json": "items/materials/green-vitriol-dust-3702590848.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 806123624,
+      "name": "Algae",
+      "page": "items/consumables/algae-806123624.md",
+      "json": "items/consumables/algae-806123624.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/ginger-in-a-jungle-2434044399.md"
+}

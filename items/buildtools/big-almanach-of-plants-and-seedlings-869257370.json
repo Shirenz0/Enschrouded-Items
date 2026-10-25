@@ -1,0 +1,52 @@
+{
+ "id": 869257370,
+ "name": "Big Almanach of Plants and Seedlings",
+ "internalName": "Prop_NPC_T3_Almanach_Cooking",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/869257370.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Explains how to grow all sorts of seedlings.",
+ "lore": "Furniture",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2048840780,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 287018928,
+      "name": "Paper",
+      "page": "items/materials/paper-287018928.md",
+      "json": "items/materials/paper-287018928.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-almanach-of-plants-and-seedlings-869257370.md"
+}

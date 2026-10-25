@@ -1,0 +1,25 @@
+{
+ "id": 661026568,
+ "name": "Fur Patch",
+ "internalName": "Material_T1_Animal_Fur_Patch",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/661026568.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A small shred of animal fur.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/fur-patch-661026568.md"
+}

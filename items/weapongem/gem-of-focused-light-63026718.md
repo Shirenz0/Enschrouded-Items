@@ -26,4 +26,4 @@ Targeting an enemy for a few seconds while aiming or blocking puts a  mark on th
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-focused-light-63026718.json)

@@ -1,0 +1,35 @@
+{
+ "name": "T2 Tank Helmet",
+ "category": "Equipment",
+ "image": "images/icons/2292844068.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1003611057,
+   "name": "T2 Tank Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1003611057.png",
+   "page": "items/equipment/t2-tank-helmet-1003611057.md",
+   "json": "items/equipment/t2-tank-helmet-1003611057.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2292844068,
+   "name": "T2 Tank Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2292844068.png",
+   "page": "items/equipment/t2-tank-helmet-2292844068.md",
+   "json": "items/equipment/t2-tank-helmet-2292844068.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-tank-helmet.md"
+}

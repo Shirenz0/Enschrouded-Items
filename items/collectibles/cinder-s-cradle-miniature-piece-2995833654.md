@@ -17,4 +17,4 @@ ancient piece
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](cinder-s-cradle-miniature-piece-2995833654.json)

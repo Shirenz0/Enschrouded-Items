@@ -1,0 +1,68 @@
+{
+ "id": 3182673008,
+ "name": "Huge Mana Potion improved",
+ "internalName": "_Consumable_Potion_Mana_T5_MoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3182673008.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some mana instantly and provides an additional Mana over time effect for even more seconds.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 160,
+    "display": "160",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2627424254,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 310580024,
+      "name": "Shadow Rose",
+      "page": "items/materials/shadow-rose-310580024.md",
+      "json": "items/materials/shadow-rose-310580024.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3087876,
+      "name": "Consumable Potion Mana T5",
+      "page": "items/consumables/consumable-potion-mana-t5-3087876.md",
+      "json": "items/consumables/consumable-potion-mana-t5-3087876.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/huge-mana-potion-improved-3182673008.md"
+}

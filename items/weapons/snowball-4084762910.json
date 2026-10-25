@@ -1,0 +1,62 @@
+{
+ "id": 4084762910,
+ "name": "Snowball",
+ "internalName": "Consumable_Toy_Grenade_Snowball_T5",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4084762910.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A somewhat round ball of snow",
+ "lore": "Chilling",
+ "whereToFind": "Workbench",
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3520382676,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2541805223,
+      "name": "T5 Snow",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1388673556,
+   "name": "Snow Lantern",
+   "page": "items/buildtools/snow-lantern-1388673556.md",
+   "json": "items/buildtools/snow-lantern-1388673556.json"
+  }
+ ],
+ "page": "items/weapons/snowball-4084762910.md"
+}

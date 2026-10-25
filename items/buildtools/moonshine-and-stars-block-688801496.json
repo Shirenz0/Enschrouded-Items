@@ -1,0 +1,69 @@
+{
+ "id": 688801496,
+ "name": "Moonshine and Stars Block",
+ "internalName": "Block_T5_Stone_StarMaterial_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/688801496.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Moonshine and Stars Block description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2186319120,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2655579347,
+   "name": "Ancient Night Door",
+   "page": "items/buildtools/ancient-night-door-2655579347.md",
+   "json": "items/buildtools/ancient-night-door-2655579347.json"
+  }
+ ],
+ "page": "items/buildtools/moonshine-and-stars-block-688801496.md"
+}

@@ -1,0 +1,56 @@
+{
+ "id": 2449462227,
+ "name": "Bone Key",
+ "internalName": "Key_Skeleton_Bone_Dungeon03",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 1,
+ "image": "images/icons/2449462227.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Opens doors in the Steppes Skeleton Halls",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/tools/bone-key.md",
+  "json": "objects/tools/bone-key.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 1338836863,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3953523416,
+      "name": "Krypt Krystal",
+      "page": "items/materials/krypt-krystal-3953523416.md",
+      "json": "items/materials/krypt-krystal-3953523416.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2956062198,
+      "name": "Giant bones",
+      "page": "items/materials/giant-bones-2956062198.md",
+      "json": "items/materials/giant-bones-2956062198.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/bone-key-2449462227.md"
+}

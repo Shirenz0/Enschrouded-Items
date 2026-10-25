@@ -17,4 +17,4 @@ Placeholder Description
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](flame-mosaic-piece-ii-1606492525.json)

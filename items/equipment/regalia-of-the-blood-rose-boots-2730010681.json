@@ -1,0 +1,50 @@
+{
+ "id": 2730010681,
+ "name": "Regalia of the Blood Rose Boots",
+ "internalName": "Vanity_TX_roseWarrior_anniversary_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2730010681.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Regalia of the Blood Rose Boots descs",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/regalia-of-the-blood-rose-boots.md",
+  "json": "objects/equipment/regalia-of-the-blood-rose-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet"
+ },
+ "recipes": [
+  {
+   "recipeId": 2111857342,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/regalia-of-the-blood-rose-boots-2730010681.md"
+}

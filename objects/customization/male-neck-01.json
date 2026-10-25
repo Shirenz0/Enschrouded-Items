@@ -1,0 +1,55 @@
+{
+ "name": "Male Neck 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1526215828,
+   "name": "Male Neck 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-neck-01-1526215828.md",
+   "json": "items/customization/male-neck-01-1526215828.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2454392618,
+   "name": "Male Neck 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-neck-01-2454392618.md",
+   "json": "items/customization/male-neck-01-2454392618.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4103341412,
+   "name": "Male Neck 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-neck-01-4103341412.md",
+   "json": "items/customization/male-neck-01-4103341412.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4265472524,
+   "name": "Male Neck 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-neck-01-4265472524.md",
+   "json": "items/customization/male-neck-01-4265472524.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-neck-01.md"
+}

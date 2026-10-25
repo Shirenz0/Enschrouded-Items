@@ -1,0 +1,77 @@
+{
+ "id": 1582871397,
+ "name": "T3 Archer Chest",
+ "internalName": "Armor_T3_Ranger_Assassin_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/1582871397.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The craftmanship on this piece of upper body armor was greatly inspired by the wing feathers.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-archer-chest.md",
+  "json": "objects/equipment/t3-archer-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 3,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  },
+  {
+   "order": 4,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Rebound",
+   "effect": "Increases the skill level of Rebound by +1"
+  }
+ ],
+ "page": "items/equipment/t3-archer-chest-1582871397.md"
+}

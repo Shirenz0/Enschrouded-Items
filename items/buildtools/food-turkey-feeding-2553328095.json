@@ -1,0 +1,61 @@
+{
+ "id": 2553328095,
+ "name": "Food Turkey Feeding",
+ "internalName": "Material_T3_Turkey_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/2553328095.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "food turkey feeding description",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3836352379,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4094316095,
+      "name": "Bell Pepper",
+      "page": "items/consumables/bell-pepper-4094316095.md",
+      "json": "items/consumables/bell-pepper-4094316095.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2435149273,
+      "name": "Wheat Grains",
+      "page": "items/materials/wheat-grains-2435149273.md",
+      "json": "items/materials/wheat-grains-2435149273.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2342031255,
+      "name": "Grasshopper",
+      "page": "items/ammunition/grasshopper-2342031255.md",
+      "json": "items/ammunition/grasshopper-2342031255.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/food-turkey-feeding-2553328095.md"
+}

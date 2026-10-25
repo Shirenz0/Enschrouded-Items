@@ -1,0 +1,32 @@
+{
+ "id": 590823529,
+ "name": "Vanity Outfit Sheep chest",
+ "internalName": "Vanity_TwitchDrop_Sheep_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/590823529.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Vanity  Outfit Sheep  chest  Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/vanity-outfit-sheep-chest.md",
+  "json": "objects/equipment/vanity-outfit-sheep-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest"
+ },
+ "page": "items/equipment/vanity-outfit-sheep-chest-590823529.md"
+}

@@ -1,0 +1,55 @@
+{
+ "id": 385885887,
+ "name": "Raw Bird Meat",
+ "internalName": "Food_T3_raw_bad_meat_Bird",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/385885887.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It's not even properly cooked. Who would eat that?",
+ "lore": null,
+ "whereToFind": "Nomad Highlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -50,
+    "display": "-50",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": -40,
+    "display": "-40",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1730813213,
+   "name": "Chicken Soup",
+   "page": "items/consumables/chicken-soup-1730813213.md",
+   "json": "items/consumables/chicken-soup-1730813213.json"
+  },
+  {
+   "id": 2028455467,
+   "name": "Grilled Bird Meat",
+   "page": "items/consumables/grilled-bird-meat-2028455467.md",
+   "json": "items/consumables/grilled-bird-meat-2028455467.json"
+  }
+ ],
+ "page": "items/consumables/raw-bird-meat-385885887.md"
+}

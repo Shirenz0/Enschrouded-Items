@@ -1,0 +1,29 @@
+{
+ "id": 1732682352,
+ "name": "Collection Of Books II",
+ "internalName": "Prop_Decoration_Book_Pile_04_D",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1732682352.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "What is better than one  book?",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/collection-of-books-ii.md",
+  "json": "objects/buildtools/collection-of-books-ii.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/collection-of-books-ii-1732682352.md"
+}

@@ -1,0 +1,36 @@
+{
+ "id": 2482366505,
+ "name": "Worms",
+ "internalName": "Material_T7_Maggot_FishingBait",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/2482366505.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Worms, good for catching epic fish that only appear in cinder's Cradle.",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "usedToMake": [
+  {
+   "id": 3765704048,
+   "name": "Epic Fishing Bait II",
+   "page": "items/ammunition/epic-fishing-bait-ii-3765704048.md",
+   "json": "items/ammunition/epic-fishing-bait-ii-3765704048.json"
+  }
+ ],
+ "page": "items/ammunition/worms-2482366505.md"
+}

@@ -1,0 +1,525 @@
+{
+ "id": 1496290527,
+ "name": "Torn Cloth",
+ "internalName": "Material_T1_Torn_Cloth",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1496290527.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Torn and ripped rests of clothing that were left behind and now serve the shroud as clothing.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3728213390,
+   "name": "Small Backpack",
+   "page": "items/equipment/small-backpack-3728213390.md",
+   "json": "items/equipment/small-backpack-3728213390.json"
+  },
+  {
+   "id": 531058391,
+   "name": "Pouch",
+   "page": "items/equipment/pouch-531058391.md",
+   "json": "items/equipment/pouch-531058391.json"
+  },
+  {
+   "id": 3244772462,
+   "name": "Cleaned Bandage",
+   "page": "items/consumables/cleaned-bandage-3244772462.md",
+   "json": "items/consumables/cleaned-bandage-3244772462.json"
+  },
+  {
+   "id": 1539486909,
+   "name": "Bandage",
+   "page": "items/consumables/bandage-1539486909.md",
+   "json": "items/consumables/bandage-1539486909.json"
+  },
+  {
+   "id": 148404293,
+   "name": "Exceptional Ectoplasm",
+   "page": "items/materials/exceptional-ectoplasm-148404293.md",
+   "json": "items/materials/exceptional-ectoplasm-148404293.json"
+  },
+  {
+   "id": 1506592036,
+   "name": "Extraordinary Ectoplasm",
+   "page": "items/materials/extraordinary-ectoplasm-1506592036.md",
+   "json": "items/materials/extraordinary-ectoplasm-1506592036.json"
+  },
+  {
+   "id": 3913483832,
+   "name": "Wax Torch",
+   "page": "items/weapons/wax-torch-3913483832.md",
+   "json": "items/weapons/wax-torch-3913483832.json"
+  },
+  {
+   "id": 531354159,
+   "name": "Resin Torch",
+   "page": "items/weapons/resin-torch-531354159.md",
+   "json": "items/weapons/resin-torch-531354159.json"
+  },
+  {
+   "id": 788151568,
+   "name": "Fur boots",
+   "page": "items/equipment/fur-boots-788151568.md",
+   "json": "items/equipment/fur-boots-788151568.json"
+  },
+  {
+   "id": 1081861051,
+   "name": "Fur Trousers",
+   "page": "items/equipment/fur-trousers-1081861051.md",
+   "json": "items/equipment/fur-trousers-1081861051.json"
+  },
+  {
+   "id": 4170361020,
+   "name": "Fur Gloves",
+   "page": "items/equipment/fur-gloves-4170361020.md",
+   "json": "items/equipment/fur-gloves-4170361020.json"
+  },
+  {
+   "id": 1162185590,
+   "name": "Fur Torso",
+   "page": "items/equipment/fur-torso-1162185590.md",
+   "json": "items/equipment/fur-torso-1162185590.json"
+  },
+  {
+   "id": 1773390521,
+   "name": "Fur Hood",
+   "page": "items/equipment/fur-hood-1773390521.md",
+   "json": "items/equipment/fur-hood-1773390521.json"
+  },
+  {
+   "id": 4075123457,
+   "name": "Boot rags",
+   "page": "items/equipment/boot-rags-4075123457.md",
+   "json": "items/equipment/boot-rags-4075123457.json"
+  },
+  {
+   "id": 2258082676,
+   "name": "Short Rags",
+   "page": "items/equipment/short-rags-2258082676.md",
+   "json": "items/equipment/short-rags-2258082676.json"
+  },
+  {
+   "id": 1806390848,
+   "name": "Shirt Rags",
+   "page": "items/equipment/shirt-rags-1806390848.md",
+   "json": "items/equipment/shirt-rags-1806390848.json"
+  },
+  {
+   "id": 1513594761,
+   "name": "Alchemist Apprentice Boots",
+   "page": "items/equipment/alchemist-apprentice-boots-1513594761.md",
+   "json": "items/equipment/alchemist-apprentice-boots-1513594761.json"
+  },
+  {
+   "id": 2554999858,
+   "name": "Alchemist Apprentice Trousers",
+   "page": "items/equipment/alchemist-apprentice-trousers-2554999858.md",
+   "json": "items/equipment/alchemist-apprentice-trousers-2554999858.json"
+  },
+  {
+   "id": 3303276493,
+   "name": "Alchemist Apprentice Gloves",
+   "page": "items/equipment/alchemist-apprentice-gloves-3303276493.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-3303276493.json"
+  },
+  {
+   "id": 3440719310,
+   "name": "Alchemist Apprentice Chest",
+   "page": "items/equipment/alchemist-apprentice-chest-3440719310.md",
+   "json": "items/equipment/alchemist-apprentice-chest-3440719310.json"
+  },
+  {
+   "id": 1572355779,
+   "name": "Alchemist Apprentice Hat",
+   "page": "items/equipment/alchemist-apprentice-hat-1572355779.md",
+   "json": "items/equipment/alchemist-apprentice-hat-1572355779.json"
+  },
+  {
+   "id": 710844874,
+   "name": "T2 DPS Boots",
+   "page": "items/equipment/t2-dps-boots-710844874.md",
+   "json": "items/equipment/t2-dps-boots-710844874.json"
+  },
+  {
+   "id": 722422442,
+   "name": "T2 Healer Legs",
+   "page": "items/equipment/t2-healer-legs-722422442.md",
+   "json": "items/equipment/t2-healer-legs-722422442.json"
+  },
+  {
+   "id": 3237374405,
+   "name": "T2 Mage Helmet",
+   "page": "items/equipment/t2-mage-helmet-3237374405.md",
+   "json": "items/equipment/t2-mage-helmet-3237374405.json"
+  },
+  {
+   "id": 2374868988,
+   "name": "T2 Ranger Legs",
+   "page": "items/equipment/t2-ranger-legs-2374868988.md",
+   "json": "items/equipment/t2-ranger-legs-2374868988.json"
+  },
+  {
+   "id": 1555932121,
+   "name": "T2 Tank Chest",
+   "page": "items/equipment/t2-tank-chest-1555932121.md",
+   "json": "items/equipment/t2-tank-chest-1555932121.json"
+  },
+  {
+   "id": 3158197356,
+   "name": "Crude Matress",
+   "page": "items/buildtools/crude-matress-3158197356.md",
+   "json": "items/buildtools/crude-matress-3158197356.json"
+  },
+  {
+   "id": 3415766653,
+   "name": "Bed T3",
+   "page": "items/buildtools/bed-t3-3415766653.md",
+   "json": "items/buildtools/bed-t3-3415766653.json"
+  },
+  {
+   "id": 2304873217,
+   "name": "Bed T2",
+   "page": "items/buildtools/bed-t2-2304873217.md",
+   "json": "items/buildtools/bed-t2-2304873217.json"
+  },
+  {
+   "id": 2940001508,
+   "name": "Bed T1",
+   "page": "items/buildtools/bed-t1-2940001508.md",
+   "json": "items/buildtools/bed-t1-2940001508.json"
+  },
+  {
+   "id": 1461356575,
+   "name": "T3 Chair",
+   "page": "items/buildtools/t3-chair-1461356575.md",
+   "json": "items/buildtools/t3-chair-1461356575.json"
+  },
+  {
+   "id": 3238278001,
+   "name": "Throne T2",
+   "page": "items/buildtools/throne-t2-3238278001.md",
+   "json": "items/buildtools/throne-t2-3238278001.json"
+  },
+  {
+   "id": 1057970078,
+   "name": "Paper Lantern I",
+   "page": "items/buildtools/paper-lantern-i-1057970078.md",
+   "json": "items/buildtools/paper-lantern-i-1057970078.json"
+  },
+  {
+   "id": 1987268311,
+   "name": "Paper Lantern II",
+   "page": "items/buildtools/paper-lantern-ii-1987268311.md",
+   "json": "items/buildtools/paper-lantern-ii-1987268311.json"
+  },
+  {
+   "id": 8841766,
+   "name": "Standing torch",
+   "page": "items/buildtools/standing-torch-8841766.md",
+   "json": "items/buildtools/standing-torch-8841766.json"
+  },
+  {
+   "id": 1727027190,
+   "name": "Wall Torch",
+   "page": "items/buildtools/wall-torch-1727027190.md",
+   "json": "items/buildtools/wall-torch-1727027190.json"
+  },
+  {
+   "id": 2700082044,
+   "name": "Table Large T3",
+   "page": "items/buildtools/table-large-t3-2700082044.md",
+   "json": "items/buildtools/table-large-t3-2700082044.json"
+  },
+  {
+   "id": 2992710503,
+   "name": "Tabel Medium T3",
+   "page": "items/buildtools/tabel-medium-t3-2992710503.md",
+   "json": "items/buildtools/tabel-medium-t3-2992710503.json"
+  },
+  {
+   "id": 2862710104,
+   "name": "Table Small T3",
+   "page": "items/buildtools/table-small-t3-2862710104.md",
+   "json": "items/buildtools/table-small-t3-2862710104.json"
+  },
+  {
+   "id": 2959403836,
+   "name": "Bedside T3",
+   "page": "items/buildtools/bedside-t3-2959403836.md",
+   "json": "items/buildtools/bedside-t3-2959403836.json"
+  },
+  {
+   "id": 3639737989,
+   "name": "Broken hollow Halls Banner",
+   "page": "items/buildtools/broken-hollow-halls-banner-3639737989.md",
+   "json": "items/buildtools/broken-hollow-halls-banner-3639737989.json"
+  },
+  {
+   "id": 553983871,
+   "name": "Medium hollow Halls Banner",
+   "page": "items/buildtools/medium-hollow-halls-banner-553983871.md",
+   "json": "items/buildtools/medium-hollow-halls-banner-553983871.json"
+  },
+  {
+   "id": 3200238404,
+   "name": "Giant hollow Halls Banner",
+   "page": "items/buildtools/giant-hollow-halls-banner-3200238404.md",
+   "json": "items/buildtools/giant-hollow-halls-banner-3200238404.json"
+  },
+  {
+   "id": 1820998553,
+   "name": "War Banner V",
+   "page": "items/buildtools/war-banner-v-1820998553.md",
+   "json": "items/buildtools/war-banner-v-1820998553.json"
+  },
+  {
+   "id": 655672626,
+   "name": "War Banner VI",
+   "page": "items/buildtools/war-banner-vi-655672626.md",
+   "json": "items/buildtools/war-banner-vi-655672626.json"
+  },
+  {
+   "id": 3886875478,
+   "name": "War Banner IV",
+   "page": "items/buildtools/war-banner-iv-3886875478.md",
+   "json": "items/buildtools/war-banner-iv-3886875478.json"
+  },
+  {
+   "id": 1234354752,
+   "name": "War Banner III",
+   "page": "items/buildtools/war-banner-iii-1234354752.md",
+   "json": "items/buildtools/war-banner-iii-1234354752.json"
+  },
+  {
+   "id": 2727116357,
+   "name": "War Banner I",
+   "page": "items/buildtools/war-banner-i-2727116357.md",
+   "json": "items/buildtools/war-banner-i-2727116357.json"
+  },
+  {
+   "id": 3145460893,
+   "name": "War Banner II",
+   "page": "items/buildtools/war-banner-ii-3145460893.md",
+   "json": "items/buildtools/war-banner-ii-3145460893.json"
+  },
+  {
+   "id": 3615680929,
+   "name": "Halloween Banner",
+   "page": "items/buildtools/halloween-banner-3615680929.md",
+   "json": "items/buildtools/halloween-banner-3615680929.json"
+  },
+  {
+   "id": 2130276313,
+   "name": "Clay Pot II",
+   "page": "items/buildtools/clay-pot-ii-2130276313.md",
+   "json": "items/buildtools/clay-pot-ii-2130276313.json"
+  },
+  {
+   "id": 3614168339,
+   "name": "Clay Pot I",
+   "page": "items/buildtools/clay-pot-i-3614168339.md",
+   "json": "items/buildtools/clay-pot-i-3614168339.json"
+  },
+  {
+   "id": 1313835688,
+   "name": "Resource Bundle I",
+   "page": "items/buildtools/resource-bundle-i-1313835688.md",
+   "json": "items/buildtools/resource-bundle-i-1313835688.json"
+  },
+  {
+   "id": 2243725147,
+   "name": "Resource Bundle II",
+   "page": "items/buildtools/resource-bundle-ii-2243725147.md",
+   "json": "items/buildtools/resource-bundle-ii-2243725147.json"
+  },
+  {
+   "id": 2829385261,
+   "name": "Scavanger Gong",
+   "page": "items/buildtools/scavanger-gong-2829385261.md",
+   "json": "items/buildtools/scavanger-gong-2829385261.json"
+  },
+  {
+   "id": 2938349424,
+   "name": "Scarecrow",
+   "page": "items/buildtools/scarecrow-2938349424.md",
+   "json": "items/buildtools/scarecrow-2938349424.json"
+  },
+  {
+   "id": 3685057724,
+   "name": "Training Doll I",
+   "page": "items/buildtools/training-doll-i-3685057724.md",
+   "json": "items/buildtools/training-doll-i-3685057724.json"
+  },
+  {
+   "id": 843297444,
+   "name": "Training Doll II",
+   "page": "items/buildtools/training-doll-ii-843297444.md",
+   "json": "items/buildtools/training-doll-ii-843297444.json"
+  },
+  {
+   "id": 2505765670,
+   "name": "Training Doll III",
+   "page": "items/buildtools/training-doll-iii-2505765670.md",
+   "json": "items/buildtools/training-doll-iii-2505765670.json"
+  },
+  {
+   "id": 1753251551,
+   "name": "Supply Sacks I",
+   "page": "items/buildtools/supply-sacks-i-1753251551.md",
+   "json": "items/buildtools/supply-sacks-i-1753251551.json"
+  },
+  {
+   "id": 1389711967,
+   "name": "Supply Sacks II",
+   "page": "items/buildtools/supply-sacks-ii-1389711967.md",
+   "json": "items/buildtools/supply-sacks-ii-1389711967.json"
+  },
+  {
+   "id": 1105859784,
+   "name": "Supply Sacks III",
+   "page": "items/buildtools/supply-sacks-iii-1105859784.md",
+   "json": "items/buildtools/supply-sacks-iii-1105859784.json"
+  },
+  {
+   "id": 2815268727,
+   "name": "Supply Sacks IV",
+   "page": "items/buildtools/supply-sacks-iv-2815268727.md",
+   "json": "items/buildtools/supply-sacks-iv-2815268727.json"
+  },
+  {
+   "id": 3730853320,
+   "name": "Supply Sacks V",
+   "page": "items/buildtools/supply-sacks-v-3730853320.md",
+   "json": "items/buildtools/supply-sacks-v-3730853320.json"
+  },
+  {
+   "id": 2965594491,
+   "name": "Support Strut",
+   "page": "items/buildtools/support-strut-2965594491.md",
+   "json": "items/buildtools/support-strut-2965594491.json"
+  },
+  {
+   "id": 2054426662,
+   "name": "Violet Decorative Box",
+   "page": "items/buildtools/violet-decorative-box-2054426662.md",
+   "json": "items/buildtools/violet-decorative-box-2054426662.json"
+  },
+  {
+   "id": 4123212614,
+   "name": "Orange Decorative Box",
+   "page": "items/buildtools/orange-decorative-box-4123212614.md",
+   "json": "items/buildtools/orange-decorative-box-4123212614.json"
+  },
+  {
+   "id": 3931595905,
+   "name": "Yellow Decorative Box",
+   "page": "items/buildtools/yellow-decorative-box-3931595905.md",
+   "json": "items/buildtools/yellow-decorative-box-3931595905.json"
+  },
+  {
+   "id": 4163666130,
+   "name": "Green Decorative Box",
+   "page": "items/buildtools/green-decorative-box-4163666130.md",
+   "json": "items/buildtools/green-decorative-box-4163666130.json"
+  },
+  {
+   "id": 874980262,
+   "name": "Cyan Decorative Box",
+   "page": "items/buildtools/cyan-decorative-box-874980262.md",
+   "json": "items/buildtools/cyan-decorative-box-874980262.json"
+  },
+  {
+   "id": 411374925,
+   "name": "Blue Decorative Box",
+   "page": "items/buildtools/blue-decorative-box-411374925.md",
+   "json": "items/buildtools/blue-decorative-box-411374925.json"
+  },
+  {
+   "id": 2001509956,
+   "name": "Party Hat I",
+   "page": "items/equipment/party-hat-i-2001509956.md",
+   "json": "items/equipment/party-hat-i-2001509956.json"
+  },
+  {
+   "id": 885937007,
+   "name": "Dog Pillow",
+   "page": "items/buildtools/dog-pillow-885937007.md",
+   "json": "items/buildtools/dog-pillow-885937007.json"
+  },
+  {
+   "id": 654842831,
+   "name": "Cat Pillow",
+   "page": "items/buildtools/cat-pillow-654842831.md",
+   "json": "items/buildtools/cat-pillow-654842831.json"
+  },
+  {
+   "id": 3695698000,
+   "name": "Showcase Fossiles 3 small slots",
+   "page": "items/buildtools/showcase-fossiles-3-small-slots-3695698000.md",
+   "json": "items/buildtools/showcase-fossiles-3-small-slots-3695698000.json"
+  },
+  {
+   "id": 3384008596,
+   "name": "Showcase Fossiles 3 small 2 medium slots",
+   "page": "items/buildtools/showcase-fossiles-3-small-2-medium-slots-3384008596.md",
+   "json": "items/buildtools/showcase-fossiles-3-small-2-medium-slots-3384008596.json"
+  },
+  {
+   "id": 2214332309,
+   "name": "Showcase Fossiles 2 small slots",
+   "page": "items/buildtools/showcase-fossiles-2-small-slots-2214332309.md",
+   "json": "items/buildtools/showcase-fossiles-2-small-slots-2214332309.json"
+  },
+  {
+   "id": 2952678297,
+   "name": "Showcase Fossiles 2 medium slots",
+   "page": "items/buildtools/showcase-fossiles-2-medium-slots-2952678297.md",
+   "json": "items/buildtools/showcase-fossiles-2-medium-slots-2952678297.json"
+  },
+  {
+   "id": 2564145075,
+   "name": "Showcase Skeletons 3 small and 2 medium slots",
+   "page": "items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.md",
+   "json": "items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.json"
+  },
+  {
+   "id": 3034421283,
+   "name": "Showcase Skeletons 3 small slots",
+   "page": "items/buildtools/showcase-skeletons-3-small-slots-3034421283.md",
+   "json": "items/buildtools/showcase-skeletons-3-small-slots-3034421283.json"
+  },
+  {
+   "id": 3512248515,
+   "name": "Showcase Skeletons 2 small slots",
+   "page": "items/buildtools/showcase-skeletons-2-small-slots-3512248515.md",
+   "json": "items/buildtools/showcase-skeletons-2-small-slots-3512248515.json"
+  },
+  {
+   "id": 1992539715,
+   "name": "Showcase Skeletons 2 medium slots",
+   "page": "items/buildtools/showcase-skeletons-2-medium-slots-1992539715.md",
+   "json": "items/buildtools/showcase-skeletons-2-medium-slots-1992539715.json"
+  },
+  {
+   "id": 1713893066,
+   "name": "Showcase Skeletons 1 large slot",
+   "page": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.md",
+   "json": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.json"
+  }
+ ],
+ "page": "items/materials/torn-cloth-1496290527.md"
+}

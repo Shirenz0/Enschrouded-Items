@@ -1,0 +1,107 @@
+{
+ "id": 1105965780,
+ "name": "Stir-Fried Vegetables",
+ "internalName": "Food_T4_dish_vegetables_StirFriedVegetables",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1105965780.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A healthy mix of vegetables. If handled with care, it won't only fill the stomach.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 2700000,
+    "display": "45:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3980195364,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3118804138,
+      "name": "Corncob",
+      "page": "items/consumables/corncob-3118804138.md",
+      "json": "items/consumables/corncob-3118804138.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3542827745,
+      "name": "Forest Beet",
+      "page": "items/consumables/forest-beet-3542827745.md",
+      "json": "items/consumables/forest-beet-3542827745.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1036540037,
+      "name": "Tomatos",
+      "page": "items/consumables/tomatos-1036540037.md",
+      "json": "items/consumables/tomatos-1036540037.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 4094316095,
+      "name": "Bell Pepper",
+      "page": "items/consumables/bell-pepper-4094316095.md",
+      "json": "items/consumables/bell-pepper-4094316095.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1126086984,
+      "name": "Spice",
+      "page": "items/materials/spice-1126086984.md",
+      "json": "items/materials/spice-1126086984.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/stir-fried-vegetables-1105965780.md"
+}

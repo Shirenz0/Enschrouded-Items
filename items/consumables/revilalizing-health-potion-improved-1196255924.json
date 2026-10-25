@@ -1,0 +1,68 @@
+{
+ "id": 1196255924,
+ "name": "Revilalizing Health Potion improved",
+ "internalName": "_Consumable_Potion_Health_T4_HoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1196255924.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some Health instantly and provides an additional healing over time effect for 40 seconds.",
+ "lore": "Level 5 Potion",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 480,
+    "display": "480",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Healing per second",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3965997157,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3702644205,
+      "name": "Revitalizing Health Potion",
+      "page": "items/consumables/revitalizing-health-potion-3702644205.md",
+      "json": "items/consumables/revitalizing-health-potion-3702644205.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 267668454,
+      "name": "Night Desert Flower",
+      "page": "items/materials/night-desert-flower-267668454.md",
+      "json": "items/materials/night-desert-flower-267668454.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/revilalizing-health-potion-improved-1196255924.md"
+}

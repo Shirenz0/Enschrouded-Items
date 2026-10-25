@@ -1,0 +1,43 @@
+{
+ "id": 1182285312,
+ "name": "Summoning Scepter",
+ "internalName": "NpcSummoner_Intro",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1182285312.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons rescued souls into your bases around an Altar.",
+ "lore": "Tools",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 573557460,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/summoning-scepter-1182285312.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 724156552,
+ "name": "Planetarium",
+ "internalName": "Prop_Decoration_T7_AncientAstronomy_Planetarium_DISABLED_isCollection",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/724156552.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/planetarium-724156552.md"
+}

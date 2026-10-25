@@ -21,4 +21,4 @@ Key for the Albaneve Summits Hollow Halls
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](albaneve-summits-hollow-halls-key-3022088459.json)

@@ -1,0 +1,43 @@
+{
+ "id": 1518794687,
+ "name": "Shroud Curse Cleanser",
+ "internalName": "Consumable_Potion_Antidote_RemoveShroudCurse",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1518794687.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Removes the Shroud Curse.",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 166700185,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4090772336,
+      "name": "Fresh Shroud Spore",
+      "page": "items/materials/fresh-shroud-spore-4090772336.md",
+      "json": "items/materials/fresh-shroud-spore-4090772336.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/shroud-curse-cleanser-1518794687.md"
+}

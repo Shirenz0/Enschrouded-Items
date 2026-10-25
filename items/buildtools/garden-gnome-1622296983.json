@@ -1,0 +1,25 @@
+{
+ "id": 1622296983,
+ "name": "Garden Gnome",
+ "internalName": "Prop_Decoration_T1_GardenGnome_03b_TwitchDrop",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1622296983.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/garden-gnome-1622296983.md"
+}

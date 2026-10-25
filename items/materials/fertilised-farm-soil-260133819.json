@@ -1,0 +1,218 @@
+{
+ "id": 260133819,
+ "name": "Fertilised Farm Soil",
+ "internalName": "Build_TerrainMaterial_T4_Farmsoil_Improved",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/260133819.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Healthy, fertilised soil that increases the growing speed of most plants heavily.",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2054936877,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2206878080,
+      "name": "Nitrate",
+      "page": "items/materials/nitrate-2206878080.md",
+      "json": "items/materials/nitrate-2206878080.json"
+     }
+    },
+    {
+     "count": 10,
+     "oneOf": [
+      {
+       "id": 2493843175,
+       "name": "Sand",
+       "page": "items/materials/sand-2493843175.md",
+       "json": "items/materials/sand-2493843175.json"
+      },
+      {
+       "id": 3489782185,
+       "name": "Fine Sand",
+       "page": "items/materials/fine-sand-3489782185.md",
+       "json": "items/materials/fine-sand-3489782185.json"
+      },
+      {
+       "id": 2181045178,
+       "name": "T6 Wetlands Sand",
+       "page": "items/materials/t6-wetlands-sand-2181045178.md",
+       "json": "items/materials/t6-wetlands-sand-2181045178.json"
+      },
+      {
+       "id": 3899759098,
+       "name": "T7 AncientLand Sand",
+       "page": "items/materials/t7-ancientland-sand-3899759098.md",
+       "json": "items/materials/t7-ancientland-sand-3899759098.json"
+      }
+     ]
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3955544954,
+   "name": "Banana Seedling",
+   "page": "items/buildtools/banana-seedling-3955544954.md",
+   "json": "items/buildtools/banana-seedling-3955544954.json"
+  },
+  {
+   "id": 1826599026,
+   "name": "Coconut Palm Seedling",
+   "page": "items/buildtools/coconut-palm-seedling-1826599026.md",
+   "json": "items/buildtools/coconut-palm-seedling-1826599026.json"
+  },
+  {
+   "id": 3358339224,
+   "name": "Coffee Seedling",
+   "page": "items/buildtools/coffee-seedling-3358339224.md",
+   "json": "items/buildtools/coffee-seedling-3358339224.json"
+  },
+  {
+   "id": 3622239347,
+   "name": "Pumpkin Seedling",
+   "page": "items/buildtools/pumpkin-seedling-3622239347.md",
+   "json": "items/buildtools/pumpkin-seedling-3622239347.json"
+  },
+  {
+   "id": 420003849,
+   "name": "Shiitake Seedling",
+   "page": "items/buildtools/shiitake-seedling-420003849.md",
+   "json": "items/buildtools/shiitake-seedling-420003849.json"
+  },
+  {
+   "id": 3520367051,
+   "name": "Rice Seedling",
+   "page": "items/buildtools/rice-seedling-3520367051.md",
+   "json": "items/buildtools/rice-seedling-3520367051.json"
+  },
+  {
+   "id": 506636559,
+   "name": "Papyrus Seedling",
+   "page": "items/buildtools/papyrus-seedling-506636559.md",
+   "json": "items/buildtools/papyrus-seedling-506636559.json"
+  },
+  {
+   "id": 1291967765,
+   "name": "Daylily Seedling",
+   "page": "items/buildtools/daylily-seedling-1291967765.md",
+   "json": "items/buildtools/daylily-seedling-1291967765.json"
+  },
+  {
+   "id": 3014637412,
+   "name": "Wolfsbane Seedling",
+   "page": "items/buildtools/wolfsbane-seedling-3014637412.md",
+   "json": "items/buildtools/wolfsbane-seedling-3014637412.json"
+  },
+  {
+   "id": 961655092,
+   "name": "T5 gentian seedling",
+   "page": "items/buildtools/t5-gentian-seedling-961655092.md",
+   "json": "items/buildtools/t5-gentian-seedling-961655092.json"
+  },
+  {
+   "id": 1419248088,
+   "name": "Saffron Seedling",
+   "page": "items/buildtools/saffron-seedling-1419248088.md",
+   "json": "items/buildtools/saffron-seedling-1419248088.json"
+  },
+  {
+   "id": 2994798992,
+   "name": "Mangrove Seedling",
+   "page": "items/buildtools/mangrove-seedling-2994798992.md",
+   "json": "items/buildtools/mangrove-seedling-2994798992.json"
+  },
+  {
+   "id": 2883918272,
+   "name": "Licuala Seedling",
+   "page": "items/buildtools/licuala-seedling-2883918272.md",
+   "json": "items/buildtools/licuala-seedling-2883918272.json"
+  },
+  {
+   "id": 2886126838,
+   "name": "Bamboo Seedling",
+   "page": "items/buildtools/bamboo-seedling-2886126838.md",
+   "json": "items/buildtools/bamboo-seedling-2886126838.json"
+  },
+  {
+   "id": 3816427504,
+   "name": "T5 Pine tree seedling",
+   "page": "items/buildtools/t5-pine-tree-seedling-3816427504.md",
+   "json": "items/buildtools/t5-pine-tree-seedling-3816427504.json"
+  },
+  {
+   "id": 3196395822,
+   "name": "Taro Seedling",
+   "page": "items/buildtools/taro-seedling-3196395822.md",
+   "json": "items/buildtools/taro-seedling-3196395822.json"
+  },
+  {
+   "id": 2601152870,
+   "name": "Ginger Seedling",
+   "page": "items/buildtools/ginger-seedling-2601152870.md",
+   "json": "items/buildtools/ginger-seedling-2601152870.json"
+  },
+  {
+   "id": 2331607035,
+   "name": "Rust And Rose",
+   "page": "items/colorpalette/rust-and-rose-2331607035.md",
+   "json": "items/colorpalette/rust-and-rose-2331607035.json"
+  },
+  {
+   "id": 2607932810,
+   "name": "T4 Palette 02 Brown yellow red",
+   "page": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.md",
+   "json": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.json"
+  },
+  {
+   "id": 1930450533,
+   "name": "Basalt Farm Soil",
+   "page": "items/materials/basalt-farm-soil-1930450533.md",
+   "json": "items/materials/basalt-farm-soil-1930450533.json"
+  },
+  {
+   "id": 2925726773,
+   "name": "Fertile Desert Sand",
+   "page": "items/materials/fertile-desert-sand-2925726773.md",
+   "json": "items/materials/fertile-desert-sand-2925726773.json"
+  }
+ ],
+ "page": "items/materials/fertilised-farm-soil-260133819.md"
+}

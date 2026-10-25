@@ -1,0 +1,35 @@
+{
+ "name": "Ward T5",
+ "category": "Equipment",
+ "image": "images/icons/3770635805.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2394759659,
+   "name": "Ward T5",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/2394759659.png",
+   "page": "items/equipment/ward-t5-2394759659.md",
+   "json": "items/equipment/ward-t5-2394759659.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3770635805,
+   "name": "Ward T5",
+   "rarity": "Rare",
+   "level": "30",
+   "image": "images/icons/3770635805.png",
+   "page": "items/equipment/ward-t5-3770635805.md",
+   "json": "items/equipment/ward-t5-3770635805.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/ward-t5.md"
+}

@@ -1,0 +1,87 @@
+{
+ "id": 1843940779,
+ "name": "T1 Entangle I",
+ "internalName": "Ammo_T1_Spell_Root_lvl5",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 500,
+ "image": "images/icons/1843940779.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Entangling Roots that prevent enemies from moving for a short duration.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 13,
+    "display": "13",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 150,
+    "display": "150",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 5000,
+    "display": "5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 9000,
+    "display": "9 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2444920436,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3264892278,
+      "name": "Critter Parts",
+      "page": "items/materials/critter-parts-3264892278.md",
+      "json": "items/materials/critter-parts-3264892278.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t1-entangle-i-1843940779.md"
+}

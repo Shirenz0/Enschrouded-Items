@@ -1,0 +1,79 @@
+{
+ "id": 3102924359,
+ "name": "Greater Health Potion",
+ "internalName": "Consumable_Potion_Health_T2_T3",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3102924359.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "After finetuning the Health Potion, the ingredients were adjusted, instantly restoring a great amount of Health upon consumption.",
+ "lore": "Level 15 Potion",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 400,
+    "display": "400",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 664761964,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3707271437,
+      "name": "Red Berries",
+      "page": "items/consumables/red-berries-3707271437.md",
+      "json": "items/consumables/red-berries-3707271437.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1509402971,
+   "name": "Greater Health Potion improved",
+   "page": "items/consumables/greater-health-potion-improved-1509402971.md",
+   "json": "items/consumables/greater-health-potion-improved-1509402971.json"
+  }
+ ],
+ "page": "items/consumables/greater-health-potion-3102924359.md"
+}

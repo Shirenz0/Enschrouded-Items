@@ -1,0 +1,60 @@
+{
+ "name": "Greater Twinflame Sword",
+ "category": "Weapons",
+ "image": "images/icons/3323951069.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 2924638789,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2924638789.png",
+   "page": "items/weapons/greater-twinflame-sword-2924638789.md",
+   "json": "items/weapons/greater-twinflame-sword-2924638789.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3671319442,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/3671319442.png",
+   "page": "items/weapons/greater-twinflame-sword-3671319442.md",
+   "json": "items/weapons/greater-twinflame-sword-3671319442.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 751194917,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/751194917.png",
+   "page": "items/weapons/greater-twinflame-sword-751194917.md",
+   "json": "items/weapons/greater-twinflame-sword-751194917.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3323951069,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3323951069.png",
+   "page": "items/weapons/greater-twinflame-sword-3323951069.md",
+   "json": "items/weapons/greater-twinflame-sword-3323951069.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/greater-twinflame-sword.md"
+}

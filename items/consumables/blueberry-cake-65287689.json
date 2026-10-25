@@ -1,0 +1,83 @@
+{
+ "id": 65287689,
+ "name": "Blueberry Cake",
+ "internalName": "Food_T3_dish_sweets_Cake_Blueberry_Anniversary",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/65287689.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The sugar rush powers your energy regenration for a short amount of time.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 360000,
+    "display": "6:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 55,
+    "display": "55",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1350021534,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3614911410,
+      "name": "Shortcrust Pastry Base",
+      "page": "items/materials/shortcrust-pastry-base-3614911410.md",
+      "json": "items/materials/shortcrust-pastry-base-3614911410.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2824141465,
+      "name": "Dried Red Berry",
+      "page": "items/consumables/dried-red-berry-2824141465.md",
+      "json": "items/consumables/dried-red-berry-2824141465.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3173308572,
+      "name": "Night Berry",
+      "page": "items/consumables/night-berry-3173308572.md",
+      "json": "items/consumables/night-berry-3173308572.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/blueberry-cake-65287689.md"
+}

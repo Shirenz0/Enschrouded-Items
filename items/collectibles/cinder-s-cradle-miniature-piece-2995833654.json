@@ -1,0 +1,25 @@
+{
+ "id": 2995833654,
+ "name": "Cinder's Cradle Miniature Piece",
+ "internalName": "Collection_Worldmap_Ancientland",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2995833654.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "ancient piece",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/cinder-s-cradle-miniature-piece-2995833654.md"
+}

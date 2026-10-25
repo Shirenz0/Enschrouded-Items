@@ -305,4 +305,4 @@
 | <img src="../images/icons/3605231868.png" width="48"> | [Carved out stone shelf](../items/buildtools/carved-out-stone-shelf-3605231868.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1013757938.png" width="48"> | [Carved Round Door](../items/buildtools/carved-round-door-1013757938.md) | ⚪ Common | - | 50 |
 
-[← All categories](../README.md) · page **1** · [2](buildtools-2.md) · [3](buildtools-3.md) · [4](buildtools-4.md) · [5](buildtools-5.md) · [6](buildtools-6.md)
+[← All categories](../README.md) · page **1** · [2](buildtools-2.md) · [3](buildtools-3.md) · [4](buildtools-4.md) · [5](buildtools-5.md) · [6](buildtools-6.md) · [JSON](buildtools.json)

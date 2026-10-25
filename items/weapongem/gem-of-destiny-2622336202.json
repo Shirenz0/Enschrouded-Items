@@ -1,0 +1,53 @@
+{
+ "id": 2622336202,
+ "name": "Gem of Destiny",
+ "internalName": "T7_Gem_GemOfDestiny",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/2622336202.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Mark one random enemy within %km as Marked by Destiny for %k. Defeating the marked enemy spawns an orb that grants either %k health, %k mana or %k stamina, depending on what you need most in the moment.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Debuff Duration",
+    "value": 20000,
+    "display": "20 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health on Orb Pickup",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Mana on Orb Pickup",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Stamina on Orb Pickup",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-destiny-2622336202.md"
+}

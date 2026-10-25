@@ -17,4 +17,4 @@ A traditional wand that helps to adjust the subject's bones after arrival.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](proto-bone-bender.json)

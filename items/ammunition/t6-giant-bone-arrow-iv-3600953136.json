@@ -1,0 +1,66 @@
+{
+ "id": 3600953136,
+ "name": "T6 Giant Bone Arrow IV",
+ "internalName": "Ammo_T6_Arrow_Bone_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 500,
+ "image": "images/icons/3600953136.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An arrow made from Bone.\n\nThe force of this arrow allows it to penetrate hit targets.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Blunt": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 2935017701,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1903438107,
+      "name": "T5 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3895216255,
+      "name": "Giant Ice Bones",
+      "page": "items/materials/giant-ice-bones-3895216255.md",
+      "json": "items/materials/giant-ice-bones-3895216255.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1610169156,
+   "name": "T6 Eternal Giant Bone Arrow I",
+   "page": "items/ammunition/t6-eternal-giant-bone-arrow-i-1610169156.md",
+   "json": "items/ammunition/t6-eternal-giant-bone-arrow-i-1610169156.json"
+  }
+ ],
+ "page": "items/ammunition/t6-giant-bone-arrow-iv-3600953136.md"
+}

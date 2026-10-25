@@ -1,0 +1,72 @@
+{
+ "id": 3304320872,
+ "name": "Hangman's Axe",
+ "internalName": "Weapon_T1_2H_GreatAxe_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3304320872.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "When there is no gallows around.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Brutal",
+   "effect": "+12 Brutal"
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+12 Brutal"
+  }
+ ],
+ "page": "items/weapons/hangman-s-axe-3304320872.md"
+}

@@ -1,0 +1,70 @@
+{
+ "id": 468594079,
+ "name": "T5 Palette 03 Pink and Grey",
+ "internalName": "ColorPalette_T5_ColorPalette_03",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/468594079.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Different shades of light Grey and white",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 527491517,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 579568751,
+      "name": "Shroud Vapor",
+      "page": "items/materials/shroud-vapor-579568751.md",
+      "json": "items/materials/shroud-vapor-579568751.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4091795277,
+      "name": "Brittle Shroud Flakes",
+      "page": "items/materials/brittle-shroud-flakes-4091795277.md",
+      "json": "items/materials/brittle-shroud-flakes-4091795277.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3728704408,
+      "name": "T5 Silver Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t5-palette-03-pink-and-grey-468594079.md"
+}

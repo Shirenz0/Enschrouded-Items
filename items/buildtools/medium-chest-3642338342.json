@@ -1,0 +1,103 @@
+{
+ "id": 3642338342,
+ "name": "Medium Chest",
+ "internalName": "Prop_Storage_32_T2_Box",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3642338342.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers a medium amount of storage space to store items.",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4240654201,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 4207188826,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2463706463,
+   "name": "Magic Medium Chest",
+   "page": "items/buildtools/magic-medium-chest-2463706463.md",
+   "json": "items/buildtools/magic-medium-chest-2463706463.json"
+  }
+ ],
+ "page": "items/buildtools/medium-chest-3642338342.md"
+}

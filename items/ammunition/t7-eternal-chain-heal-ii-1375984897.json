@@ -1,0 +1,108 @@
+{
+ "id": 1375984897,
+ "name": "T7 Eternal Chain Heal II",
+ "internalName": "Ammo_T7_Spell_Heal_Chain_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/1375984897.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A spellstone that's imbued with the T2 Chain Heal I spell. Costing no ammunition, it is a good tool to distribute great healing that jumps to nearby friends.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Healing": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 58,
+    "display": "58",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-10 Charge_Duration_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 5,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1018784324,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3466985705,
+      "name": "Thyme",
+      "page": "items/consumables/thyme-3466985705.md",
+      "json": "items/consumables/thyme-3466985705.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 284304129,
+      "name": "Basalt Dust",
+      "page": "items/materials/basalt-dust-284304129.md",
+      "json": "items/materials/basalt-dust-284304129.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-chain-heal-ii-1375984897.md"
+}

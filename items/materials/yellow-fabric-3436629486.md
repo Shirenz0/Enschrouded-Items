@@ -29,4 +29,4 @@ Crafting, Huntress
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](yellow-fabric-3436629486.json)

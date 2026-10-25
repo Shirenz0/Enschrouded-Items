@@ -1,0 +1,61 @@
+{
+ "id": 2012474258,
+ "name": "Rough Wood Block",
+ "internalName": "Block_T1_Wood_Rough_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2012474258.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A basic material for construction designated to survival. It's not pretty, but does the job!",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": {
+  "page": "objects/buildtools/rough-wood-block.md",
+  "json": "objects/buildtools/rough-wood-block.json",
+  "versions": 5
+ },
+ "recipes": [
+  {
+   "recipeId": 4267094081,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 296290399,
+   "name": "Wooden Floor Secret",
+   "page": "items/buildtools/wooden-floor-secret-296290399.md",
+   "json": "items/buildtools/wooden-floor-secret-296290399.json"
+  },
+  {
+   "id": 1917066440,
+   "name": "Wood Wall Secret",
+   "page": "items/buildtools/wood-wall-secret-1917066440.md",
+   "json": "items/buildtools/wood-wall-secret-1917066440.json"
+  }
+ ],
+ "page": "items/buildtools/rough-wood-block-2012474258.md"
+}

@@ -1,0 +1,57 @@
+{
+ "name": "T2 royal arms",
+ "category": "Equipment",
+ "image": "images/icons/3714498619.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1190918199,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1190918199.png",
+   "page": "items/equipment/t2-royal-arms-1190918199.md",
+   "json": "items/equipment/t2-royal-arms-1190918199.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2166163667,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2166163667.png",
+   "page": "items/equipment/t2-royal-arms-2166163667.md",
+   "json": "items/equipment/t2-royal-arms-2166163667.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3203382450,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3203382450.png",
+   "page": "items/equipment/t2-royal-arms-3203382450.md",
+   "json": "items/equipment/t2-royal-arms-3203382450.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3714498619,
+   "name": "T2 royal arms",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3714498619.png",
+   "page": "items/equipment/t2-royal-arms-3714498619.md",
+   "json": "items/equipment/t2-royal-arms-3714498619.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-royal-arms.md"
+}

@@ -1,0 +1,79 @@
+{
+ "id": 3286272712,
+ "name": "Meat skewer with Mushroom",
+ "internalName": "Food_T1_dish_mushroom_MushroomSkewer",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3286272712.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "With just some meat, a mushroom, and a small fire, you can make this nutritious skewer anywhere and at any time.",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 1800000,
+    "display": "30:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2072863668,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2335785241,
+      "name": "Raw Meat and Mushroom Skewer",
+      "page": "items/materials/raw-meat-and-mushroom-skewer-2335785241.md",
+      "json": "items/materials/raw-meat-and-mushroom-skewer-2335785241.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/meat-skewer-with-mushroom-3286272712.md"
+}

@@ -1,0 +1,51 @@
+{
+ "id": 4095370049,
+ "name": "T6 Wetlands Dirt",
+ "internalName": "Build_TerrainMaterial_T6_Dirt_Wetlands",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/4095370049.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2411338569,
+   "name": "Algae Seedling",
+   "page": "items/buildtools/algae-seedling-2411338569.md",
+   "json": "items/buildtools/algae-seedling-2411338569.json"
+  },
+  {
+   "id": 594839802,
+   "name": "Wisteria (Overgrowth Plant)",
+   "page": "items/buildtools/wisteria-overgrowth-plant-594839802.md",
+   "json": "items/buildtools/wisteria-overgrowth-plant-594839802.json"
+  },
+  {
+   "id": 1422307195,
+   "name": "Fertile Wetlands T6 Dirt",
+   "page": "items/materials/fertile-wetlands-t6-dirt-1422307195.md",
+   "json": "items/materials/fertile-wetlands-t6-dirt-1422307195.json"
+  },
+  {
+   "id": 2252426664,
+   "name": "T6 Wetlands Rubble",
+   "page": "items/materials/t6-wetlands-rubble-2252426664.md",
+   "json": "items/materials/t6-wetlands-rubble-2252426664.json"
+  }
+ ],
+ "page": "items/materials/t6-wetlands-dirt-4095370049.md"
+}

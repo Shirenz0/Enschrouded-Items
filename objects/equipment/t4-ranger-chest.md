@@ -17,4 +17,4 @@ Every movement is softened and muted whilst clad in this upper body armor.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-ranger-chest.json)

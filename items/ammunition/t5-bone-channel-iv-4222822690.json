@@ -1,0 +1,72 @@
+{
+ "id": 4222822690,
+ "name": "T5 Bone Channel IV",
+ "internalName": "Ammo_T5_Spell_Bone_Channel_lvl35",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 500,
+ "image": "images/icons/4222822690.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hold to summon bone projectiles that seek out enemies.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 45,
+    "display": "45",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3414871304,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 3236482539,
+      "name": "T4 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2956062198,
+      "name": "Giant bones",
+      "page": "items/materials/giant-bones-2956062198.md",
+      "json": "items/materials/giant-bones-2956062198.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/ammunition/t5-bone-channel-iv-4222822690.md"
+}

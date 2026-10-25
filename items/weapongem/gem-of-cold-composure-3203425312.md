@@ -26,4 +26,4 @@ Blocking or Aiming for a short time grants you %k physical and %k magical resist
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-cold-composure-3203425312.json)

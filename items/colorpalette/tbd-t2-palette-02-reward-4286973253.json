@@ -1,0 +1,70 @@
+{
+ "id": 4286973253,
+ "name": "Tbd T2 Palette 02 Reward",
+ "internalName": "ColorPalette_T2_ColorPalette_Reward_02",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/4286973253.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "tbd T2 Palette 02 reward description",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2440476847,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2290894589,
+      "name": "Stinging Nettle",
+      "page": "items/consumables/stinging-nettle-2290894589.md",
+      "json": "items/consumables/stinging-nettle-2290894589.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3173308572,
+      "name": "Night Berry",
+      "page": "items/consumables/night-berry-3173308572.md",
+      "json": "items/consumables/night-berry-3173308572.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2559861108,
+      "name": "Fog Essence",
+      "page": "items/materials/fog-essence-2559861108.md",
+      "json": "items/materials/fog-essence-2559861108.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.md"
+}

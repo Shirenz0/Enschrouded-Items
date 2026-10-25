@@ -27,4 +27,4 @@ Perfect for wading though ash and moldy earth.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](gravedigger-boots-392289623.json)

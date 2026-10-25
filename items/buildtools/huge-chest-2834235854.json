@@ -1,0 +1,103 @@
+{
+ "id": 2834235854,
+ "name": "Huge Chest",
+ "internalName": "Prop_Storage_56_T4_Box",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2834235854.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers a great amount of storage space to store items.",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1181767575,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 16,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 1940391232,
+   "station": null,
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4157937420,
+   "name": "Huge Magic Chest",
+   "page": "items/buildtools/huge-magic-chest-4157937420.md",
+   "json": "items/buildtools/huge-magic-chest-4157937420.json"
+  }
+ ],
+ "page": "items/buildtools/huge-chest-2834235854.md"
+}

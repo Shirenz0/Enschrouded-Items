@@ -1,0 +1,25 @@
+{
+ "id": 1606492525,
+ "name": "Flame Mosaic Piece II",
+ "internalName": "Collection_mosaics_01_flame_piece2",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1606492525.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Placeholder Description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/flame-mosaic-piece-ii-1606492525.md"
+}

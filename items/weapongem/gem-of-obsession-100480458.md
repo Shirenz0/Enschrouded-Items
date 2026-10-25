@@ -27,4 +27,4 @@ While the Elixir Buff is active, dealing damage grants %k health regeneration, %
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-obsession-100480458.json)

@@ -1,0 +1,77 @@
+{
+ "id": 1362050004,
+ "name": "T4 Mage Helmet",
+ "internalName": "Armor_T4_Mage_Wizard_DPS_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1362050004.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This hat is decorated with a fine metal which resemlbes a crown.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-mage-helmet.md",
+  "json": "objects/equipment/t4-mage-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 11,
+    "display": "11",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+16 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thunder",
+   "effect": "Increases the skill level of Thunder by +1"
+  }
+ ],
+ "page": "items/equipment/t4-mage-helmet-1362050004.md"
+}

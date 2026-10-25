@@ -1,0 +1,63 @@
+{
+ "id": 1003611057,
+ "name": "T2 Tank Helmet",
+ "internalName": "Armor_T2_Warrior_Tank_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1003611057.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Allows you to protect both your allies and your skull.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-tank-helmet.md",
+  "json": "objects/equipment/t2-tank-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Purification",
+   "effect": "Increases the skill level of Purification by +1"
+  },
+  {
+   "order": 4,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Nemesis",
+   "effect": "Increases the skill level of Nemesis by +1"
+  }
+ ],
+ "page": "items/equipment/t2-tank-helmet-1003611057.md"
+}

@@ -31,4 +31,4 @@ A severed Hollow Heavy Hero Head. Collect multiple to craft the iron trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-hollow-heavy-hero-trophy-2459686699.json)

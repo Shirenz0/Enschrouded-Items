@@ -1,0 +1,25 @@
+{
+ "id": 1390027713,
+ "name": "Giant Telescope Base",
+ "internalName": "Prop_Decoration_T7_AncientAstronomy_TelescopeHuge_Base_deprecated",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1390027713.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/giant-telescope-base-1390027713.md"
+}

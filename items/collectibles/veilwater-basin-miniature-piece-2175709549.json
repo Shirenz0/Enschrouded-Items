@@ -1,0 +1,25 @@
+{
+ "id": 2175709549,
+ "name": "Veilwater Basin Miniature Piece",
+ "internalName": "Collection_Worldmap_Wetland",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2175709549.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Glistening lakes, bloodthirsty Drak, and Coconana smoothies. What could you want more from life? It's a treacherous paradise.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/veilwater-basin-miniature-piece-2175709549.md"
+}

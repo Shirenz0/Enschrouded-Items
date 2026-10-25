@@ -27,4 +27,4 @@ Worn out gloves with sun spots and a fur trim.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](lumberer-gloves-1443602914.json)

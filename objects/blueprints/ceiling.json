@@ -1,0 +1,33 @@
+{
+ "name": "Ceiling",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3338618487,
+   "name": "Ceiling",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ceiling-3338618487.md",
+   "json": "items/blueprints/ceiling-3338618487.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 81726253,
+   "name": "Ceiling",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/ceiling-81726253.md",
+   "json": "items/blueprints/ceiling-81726253.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/ceiling.md"
+}

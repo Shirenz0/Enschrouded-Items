@@ -1,0 +1,33 @@
+{
+ "id": 4205594126,
+ "name": "Mae's Memoir",
+ "internalName": "8kLoreText_mapPiece_communityQuest_2025_01_mae",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4205594126.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The first day of spring is nothing like the rest",
+ "lore": "Map",
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3491672504,
+   "name": "The Dragon's Map",
+   "page": "items/collectibles/the-dragon-s-map-3491672504.md",
+   "json": "items/collectibles/the-dragon-s-map-3491672504.json"
+  }
+ ],
+ "page": "items/collectibles/mae-s-memoir-4205594126.md"
+}

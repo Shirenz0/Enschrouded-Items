@@ -1,0 +1,80 @@
+{
+ "id": 625865593,
+ "name": "T2 Slurp",
+ "internalName": "Food_T2_dish_Skeleton_Slurp_T2",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/625865593.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T2 Slurp Desc",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Damage against Skeletons",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -50,
+    "display": "-50",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2100000,
+    "display": "35:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Life Leech Chance Against Hollow",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3079268370,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 711851824,
+      "name": "T2 Slurp Broth Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/t2-slurp-625865593.md"
+}

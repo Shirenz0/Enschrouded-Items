@@ -25,4 +25,4 @@ find in Nomad Highlands Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](acidic-shroud-409810488.json)

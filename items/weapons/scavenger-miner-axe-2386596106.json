@@ -1,0 +1,66 @@
+{
+ "id": 2386596106,
+ "name": "Scavenger Miner Axe",
+ "internalName": "Weapon_T5-TX_1H_Axe_Enemy_Scavenger_Miner",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2386596106.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Scavenger Miner Axer desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Vicious",
+   "effect": "+12 Vicious"
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Vicious",
+   "effect": "+12 Vicious"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Cleansing",
+   "effect": "+5 Damage against Fogger"
+  }
+ ],
+ "page": "items/weapons/scavenger-miner-axe-2386596106.md"
+}

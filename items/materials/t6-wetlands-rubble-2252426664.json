@@ -1,0 +1,69 @@
+{
+ "id": 2252426664,
+ "name": "T6 Wetlands Rubble",
+ "internalName": "Build_TerrainMaterial_T6_Wetlands_Rubble",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2252426664.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "mix of materials, mainly stones and dirt",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 304459376,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1257792166,
+      "name": "Rubble",
+      "page": "items/materials/rubble-1257792166.md",
+      "json": "items/materials/rubble-1257792166.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4095370049,
+      "name": "T6 Wetlands Dirt",
+      "page": "items/materials/t6-wetlands-dirt-4095370049.md",
+      "json": "items/materials/t6-wetlands-dirt-4095370049.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 303090384,
+   "name": "Road Stone 4",
+   "page": "items/materials/road-stone-4-303090384.md",
+   "json": "items/materials/road-stone-4-303090384.json"
+  }
+ ],
+ "page": "items/materials/t6-wetlands-rubble-2252426664.md"
+}

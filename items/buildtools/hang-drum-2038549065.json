@@ -1,0 +1,56 @@
+{
+ "id": 2038549065,
+ "name": "Hang-Drum",
+ "internalName": "Instrument_Hangdrum",
+ "category": {
+  "id": "Instrument",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2038549065.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hang drum is a hand-played steel instrument whose gentle tones spread like ripples across still water.",
+ "lore": "Instruments",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "comfort": 1
+ },
+ "recipes": [
+  {
+   "recipeId": 3993983277,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/hang-drum-2038549065.md"
+}

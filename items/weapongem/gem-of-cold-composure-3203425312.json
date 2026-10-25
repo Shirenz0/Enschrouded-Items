@@ -1,0 +1,53 @@
+{
+ "id": 3203425312,
+ "name": "Gem of Cold Composure",
+ "internalName": "T5_Gem_GemOfColdComposure",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/3203425312.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Blocking or Aiming for a short time grants you %k physical and %k magical resistance but slows you by %k. Getting hit or attacking while buffed creates an ice explosion that deals %k ice damageand slows hit enemies, after which the buff gets removed.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Movement Speed",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Physical Armor Points",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Magical Armor Points",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Ice Explosion Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-cold-composure-3203425312.md"
+}

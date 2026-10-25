@@ -17,4 +17,4 @@ A large and slender sea lily, reaching up towards the surface and sky. If it had
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](large-sea-lily-fossil-4032968739.json)

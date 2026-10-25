@@ -1,0 +1,25 @@
+{
+ "id": 2402001907,
+ "name": "Rage Inducing Tome",
+ "internalName": "Collection_skeletons_03_books_book_03",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2402001907.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This dusty old tome vibrates with a silent hate. Sometimes, the chains rattle at night as if something was trying to leap of the pages and become flesh and blood.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/rage-inducing-tome-2402001907.md"
+}

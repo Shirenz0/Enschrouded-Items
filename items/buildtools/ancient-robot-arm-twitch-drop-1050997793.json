@@ -1,0 +1,25 @@
+{
+ "id": 1050997793,
+ "name": "Ancient Robot Arm Twitch Drop",
+ "internalName": "Prop_Decoration_TX_Ancient_Robot_Arm_01_B_TwitchDrop",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1050997793.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/ancient-robot-arm-twitch-drop-1050997793.md"
+}

@@ -1,0 +1,115 @@
+{
+ "id": 4234426543,
+ "name": "Pumpkin",
+ "internalName": "Food_T5_raw_vegetables_Pumpkin",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/4234426543.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Pumpkin description",
+ "lore": null,
+ "whereToFind": "Albaneve Summits",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Ranged Damage",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1200000,
+    "display": "20:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2905059781,
+   "name": "Pumpkin Soup",
+   "page": "items/consumables/pumpkin-soup-2905059781.md",
+   "json": "items/consumables/pumpkin-soup-2905059781.json"
+  },
+  {
+   "id": 3622239347,
+   "name": "Pumpkin Seedling",
+   "page": "items/buildtools/pumpkin-seedling-3622239347.md",
+   "json": "items/buildtools/pumpkin-seedling-3622239347.json"
+  },
+  {
+   "id": 3379425226,
+   "name": "Small Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-i-3379425226.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-i-3379425226.json"
+  },
+  {
+   "id": 3473131825,
+   "name": "Small Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-ii-3473131825.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-ii-3473131825.json"
+  },
+  {
+   "id": 1727870443,
+   "name": "Small Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-iii-1727870443.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-iii-1727870443.json"
+  },
+  {
+   "id": 517050102,
+   "name": "Medium Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-i-517050102.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-i-517050102.json"
+  },
+  {
+   "id": 3506589171,
+   "name": "Medium Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-ii-3506589171.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-ii-3506589171.json"
+  },
+  {
+   "id": 2385353507,
+   "name": "Medium Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.json"
+  },
+  {
+   "id": 1229707250,
+   "name": "Big Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-i-1229707250.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-i-1229707250.json"
+  },
+  {
+   "id": 3003483125,
+   "name": "Big Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-ii-3003483125.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-ii-3003483125.json"
+  },
+  {
+   "id": 1102965817,
+   "name": "Big Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-iii-1102965817.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-iii-1102965817.json"
+  }
+ ],
+ "page": "items/consumables/pumpkin-4234426543.md"
+}

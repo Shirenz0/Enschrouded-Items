@@ -1,0 +1,80 @@
+{
+ "id": 2459686699,
+ "name": "Iron Hollow Heavy Hero Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Skeleton_Heavy_Hero_03_iron",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/2459686699.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Hollow Heavy Hero Head. Collect multiple to craft the iron trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3939027052,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3411381312,
+      "name": "Hollow Heavy Hero Head",
+      "page": "items/materials/hollow-heavy-hero-head-3411381312.md",
+      "json": "items/materials/hollow-heavy-hero-head-3411381312.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/iron-hollow-heavy-hero-trophy-2459686699.md"
+}

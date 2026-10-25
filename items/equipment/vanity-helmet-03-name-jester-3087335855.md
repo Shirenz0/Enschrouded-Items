@@ -27,4 +27,4 @@ vanity helmet 03 desc jester
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-helmet-03-name-jester-3087335855.json)

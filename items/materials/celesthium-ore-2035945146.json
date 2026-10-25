@@ -1,0 +1,45 @@
+{
+ "id": 2035945146,
+ "name": "Celesthium Ore",
+ "internalName": "Material_T7_Celesthium_Ore",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/2035945146.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "celesthium ore desc",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2130648477,
+   "name": "Ancient Enegry Block",
+   "page": "items/buildtools/ancient-enegry-block-2130648477.md",
+   "json": "items/buildtools/ancient-enegry-block-2130648477.json"
+  },
+  {
+   "id": 844454296,
+   "name": "Sparkling Dust",
+   "page": "items/materials/sparkling-dust-844454296.md",
+   "json": "items/materials/sparkling-dust-844454296.json"
+  },
+  {
+   "id": 2893592883,
+   "name": "Celesthium Bars",
+   "page": "items/materials/celesthium-bars-2893592883.md",
+   "json": "items/materials/celesthium-bars-2893592883.json"
+  }
+ ],
+ "page": "items/materials/celesthium-ore-2035945146.md"
+}

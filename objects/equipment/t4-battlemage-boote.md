@@ -17,4 +17,4 @@ Traditional warlock boots which protect the feet under all circumstances.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-battlemage-boote.json)

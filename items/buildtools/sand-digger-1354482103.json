@@ -1,0 +1,25 @@
+{
+ "id": 1354482103,
+ "name": "Sand Digger",
+ "internalName": "Animal_Farming_SandDigger",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1354482103.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This ancient species constantly regenerates its outer shell, allowing for the collection of scales.",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/sand-digger-1354482103.md"
+}

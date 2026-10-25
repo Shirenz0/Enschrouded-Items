@@ -1,0 +1,57 @@
+{
+ "id": 2175686957,
+ "name": "Rough Stone Block",
+ "internalName": "Block_T1_Stone_Rough_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2175686957.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Rough Stone Block built in the most basic manner of craftsmanship.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2234274866,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1818315440,
+   "name": "Stone Floor Secret",
+   "page": "items/buildtools/stone-floor-secret-1818315440.md",
+   "json": "items/buildtools/stone-floor-secret-1818315440.json"
+  },
+  {
+   "id": 3109447286,
+   "name": "Stone Wall Secret",
+   "page": "items/buildtools/stone-wall-secret-3109447286.md",
+   "json": "items/buildtools/stone-wall-secret-3109447286.json"
+  }
+ ],
+ "page": "items/buildtools/rough-stone-block-2175686957.md"
+}

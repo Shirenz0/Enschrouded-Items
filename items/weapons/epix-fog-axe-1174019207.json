@@ -1,0 +1,66 @@
+{
+ "id": 1174019207,
+ "name": "Epix Fog Axe",
+ "internalName": "Weapon_T3_1H_AxeEpic_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1174019207.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Epix fog axe descr",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Precise",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 3,
+   "name": "Vicious",
+   "effect": "+16 Vicious"
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/epix-fog-axe-1174019207.md"
+}

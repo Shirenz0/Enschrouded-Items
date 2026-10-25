@@ -1,0 +1,39 @@
+{
+ "name": "Cactus Plant Pot",
+ "category": "BuildTools",
+ "image": "images/icons/2779909442.png",
+ "versions": 2,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 274681682,
+   "name": "Cactus Plant Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/274681682.png",
+   "page": "items/buildtools/cactus-plant-pot-274681682.md",
+   "json": "items/buildtools/cactus-plant-pot-274681682.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2779909442,
+   "name": "Cactus Plant Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2779909442.png",
+   "page": "items/buildtools/cactus-plant-pot-2779909442.md",
+   "json": "items/buildtools/cactus-plant-pot-2779909442.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/cactus-plant-pot.md"
+}

@@ -1,0 +1,39 @@
+{
+ "id": 3748979170,
+ "name": "Heart Pillow",
+ "internalName": "Prop_Decoration_TX_Pillow_Heart_TwitchDrop",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3748979170.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Heart Pillow description",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/heart-pillow.md",
+  "json": "objects/buildtools/heart-pillow.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Wellness",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/heart-pillow-3748979170.md"
+}

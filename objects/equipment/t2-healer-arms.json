@@ -1,0 +1,35 @@
+{
+ "name": "T2 Healer Arms",
+ "category": "Equipment",
+ "image": "images/icons/614770460.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3616614020,
+   "name": "T2 Healer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3616614020.png",
+   "page": "items/equipment/t2-healer-arms-3616614020.md",
+   "json": "items/equipment/t2-healer-arms-3616614020.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 614770460,
+   "name": "T2 Healer Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/614770460.png",
+   "page": "items/equipment/t2-healer-arms-614770460.md",
+   "json": "items/equipment/t2-healer-arms-614770460.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-healer-arms.md"
+}

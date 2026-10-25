@@ -1,0 +1,117 @@
+{
+ "id": 1408904500,
+ "name": "T7 Eternal Magic Shield",
+ "internalName": "Ammo_T7_Spell_MagicShield_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/1408904500.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Create a magical barrier that protects from projectiles and reduces melee damage taken.\n\nThe shield fades when its health are depleted or after 15 seconds.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 300,
+    "display": "300",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 4000,
+    "display": "4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Shield Strength",
+    "value": 1500,
+    "display": "1,500",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 60000,
+    "display": "1:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-10 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-10 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-10 Charge_Duration_Mod"
+  },
+  {
+   "order": 5,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-10 Mana_Cost_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2274099971,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2670118573,
+      "name": "Ancient/Archaic Infusion",
+      "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+      "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3084703100,
+      "name": "Archaic Core",
+      "page": "items/materials/archaic-core-3084703100.md",
+      "json": "items/materials/archaic-core-3084703100.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-magic-shield-1408904500.md"
+}

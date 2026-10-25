@@ -1,0 +1,78 @@
+{
+ "id": 556297753,
+ "name": "T2 Palette 02 shades of grey",
+ "internalName": "ColorPalette_T2_ColorPalette_02",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/556297753.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Different shades of grey",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3134134401,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3937186197,
+      "name": "Deep Forest Dirt",
+      "page": "items/materials/deep-forest-dirt-3937186197.md",
+      "json": "items/materials/deep-forest-dirt-3937186197.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3173308572,
+      "name": "Night Berry",
+      "page": "items/consumables/night-berry-3173308572.md",
+      "json": "items/consumables/night-berry-3173308572.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 961402268,
+   "name": "Critter Plush",
+   "page": "items/buildtools/critter-plush-961402268.md",
+   "json": "items/buildtools/critter-plush-961402268.json"
+  }
+ ],
+ "page": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.md"
+}

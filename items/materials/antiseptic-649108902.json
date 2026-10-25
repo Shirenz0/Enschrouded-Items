@@ -1,0 +1,66 @@
+{
+ "id": 649108902,
+ "name": "Antiseptic",
+ "internalName": "Material_T3_Antiseptic",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 16,
+  "max": 16
+ },
+ "maxStack": 250,
+ "image": "images/icons/649108902.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A medical solution that can clean wounds curing all active **poison** status effects.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemy Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1561258085,
+   "station": "Alchemy Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3562500384,
+      "name": "Sage Leaves",
+      "page": "items/consumables/sage-leaves-3562500384.md",
+      "json": "items/consumables/sage-leaves-3562500384.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3244772462,
+   "name": "Cleaned Bandage",
+   "page": "items/consumables/cleaned-bandage-3244772462.md",
+   "json": "items/consumables/cleaned-bandage-3244772462.json"
+  },
+  {
+   "id": 1203301438,
+   "name": "T3 Eternal Chain Heal I",
+   "page": "items/ammunition/t3-eternal-chain-heal-i-1203301438.md",
+   "json": "items/ammunition/t3-eternal-chain-heal-i-1203301438.json"
+  }
+ ],
+ "page": "items/materials/antiseptic-649108902.md"
+}

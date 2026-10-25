@@ -21,4 +21,4 @@ t6 material gold coins description
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](t6-material-gold-coins-2572858337.json)

@@ -1,0 +1,25 @@
+{
+ "id": 786532879,
+ "name": "Oswald",
+ "internalName": "NPC_Crafter_Blacksmith01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "The blacksmith Bahem crafts and upgrades armors and weapons.",
+ "lore": "Survivor",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/oswald-786532879.md"
+}

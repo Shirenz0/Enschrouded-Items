@@ -17,4 +17,4 @@ The fossilized remains of a stranded prawn. Most of the legs are not visible any
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](prawn-fossil-2370474630.json)

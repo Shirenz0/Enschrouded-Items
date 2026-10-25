@@ -1,0 +1,43 @@
+{
+ "id": 2501950932,
+ "name": "Metal Floor Drain II",
+ "internalName": "Prop_WaterDrain_Metal_Ancient_Floor",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2501950932.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Place this Drain on the Floor and it will suck in all water, that is placed above.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1098765027,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/metal-floor-drain-ii-2501950932.md"
+}

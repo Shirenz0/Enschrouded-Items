@@ -1,0 +1,25 @@
+{
+ "id": 3320435774,
+ "name": "Dull Shark Tooth",
+ "internalName": "Collection_fossils_04_SharkTeeth_sharkTooth_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3320435774.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A fossilized tooth that has stood the test of time. The tip has dulled through the ages.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/dull-shark-tooth-3320435774.md"
+}

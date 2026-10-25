@@ -1,0 +1,79 @@
+{
+ "id": 1960005749,
+ "name": "T4 Archer Legs (hawk)",
+ "internalName": "Armor_T4_Ranger_Adventurer_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1960005749.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Pants such as these were originally made fashionable by a prominent hawker named Ferlin.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Depletion Sprinting",
+    "value": -20,
+    "display": "-20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Well Rested",
+   "effect": "Increases the skill level of Well Rested by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Cutthroat",
+   "effect": "Increases the skill level of Cutthroat by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  }
+ ],
+ "page": "items/equipment/t4-archer-legs-hawk-1960005749.md"
+}

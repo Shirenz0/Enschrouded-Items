@@ -24,4 +24,4 @@ Blocking damage has a %k chance to add %k bonus blunt damage to the next attack 
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-retaliation-2157770933.json)

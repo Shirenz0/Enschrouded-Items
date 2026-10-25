@@ -1,0 +1,153 @@
+{
+ "id": 1564406835,
+ "name": "Salt",
+ "internalName": "Material_T1_Salt",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1564406835.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Crystaline powder that can be found in the lower regions of the world. The taste of food can improved by bounds if only a little is applied.",
+ "lore": null,
+ "whereToFind": "Springlands Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 386738695,
+   "name": "Ice Protection Lotion",
+   "page": "items/consumables/ice-protection-lotion-386738695.md",
+   "json": "items/consumables/ice-protection-lotion-386738695.json"
+  },
+  {
+   "id": 232113931,
+   "name": "Ancient Cabbage Rolls",
+   "page": "items/consumables/ancient-cabbage-rolls-232113931.md",
+   "json": "items/consumables/ancient-cabbage-rolls-232113931.json"
+  },
+  {
+   "id": 1453423195,
+   "name": "Crab Cakes",
+   "page": "items/consumables/crab-cakes-1453423195.md",
+   "json": "items/consumables/crab-cakes-1453423195.json"
+  },
+  {
+   "id": 1730813213,
+   "name": "Chicken Soup",
+   "page": "items/consumables/chicken-soup-1730813213.md",
+   "json": "items/consumables/chicken-soup-1730813213.json"
+  },
+  {
+   "id": 3497094022,
+   "name": "Plantain Salad with ancient beans",
+   "page": "items/consumables/plantain-salad-with-ancient-beans-3497094022.md",
+   "json": "items/consumables/plantain-salad-with-ancient-beans-3497094022.json"
+  },
+  {
+   "id": 2905059781,
+   "name": "Pumpkin Soup",
+   "page": "items/consumables/pumpkin-soup-2905059781.md",
+   "json": "items/consumables/pumpkin-soup-2905059781.json"
+  },
+  {
+   "id": 3049932278,
+   "name": "Vegetable Soup",
+   "page": "items/consumables/vegetable-soup-3049932278.md",
+   "json": "items/consumables/vegetable-soup-3049932278.json"
+  },
+  {
+   "id": 2793438000,
+   "name": "Vegetable Puree",
+   "page": "items/consumables/vegetable-puree-2793438000.md",
+   "json": "items/consumables/vegetable-puree-2793438000.json"
+  },
+  {
+   "id": 587195934,
+   "name": "Nightplant Soup",
+   "page": "items/consumables/nightplant-soup-587195934.md",
+   "json": "items/consumables/nightplant-soup-587195934.json"
+  },
+  {
+   "id": 3688068238,
+   "name": "Cooked Rice",
+   "page": "items/consumables/cooked-rice-3688068238.md",
+   "json": "items/consumables/cooked-rice-3688068238.json"
+  },
+  {
+   "id": 2160078991,
+   "name": "Flat Bread",
+   "page": "items/consumables/flat-bread-2160078991.md",
+   "json": "items/consumables/flat-bread-2160078991.json"
+  },
+  {
+   "id": 4241750567,
+   "name": "T1 Eternal Mana Leech Beam II",
+   "page": "items/ammunition/t1-eternal-mana-leech-beam-ii-4241750567.md",
+   "json": "items/ammunition/t1-eternal-mana-leech-beam-ii-4241750567.json"
+  },
+  {
+   "id": 1390932160,
+   "name": "T1 Eternal Ice Bolt I",
+   "page": "items/ammunition/t1-eternal-ice-bolt-i-1390932160.md",
+   "json": "items/ammunition/t1-eternal-ice-bolt-i-1390932160.json"
+  },
+  {
+   "id": 2059656108,
+   "name": "Water Reptile Leather",
+   "page": "items/materials/water-reptile-leather-2059656108.md",
+   "json": "items/materials/water-reptile-leather-2059656108.json"
+  },
+  {
+   "id": 579568751,
+   "name": "Shroud Vapor",
+   "page": "items/materials/shroud-vapor-579568751.md",
+   "json": "items/materials/shroud-vapor-579568751.json"
+  },
+  {
+   "id": 2206878080,
+   "name": "Nitrate",
+   "page": "items/materials/nitrate-2206878080.md",
+   "json": "items/materials/nitrate-2206878080.json"
+  },
+  {
+   "id": 3614911410,
+   "name": "Shortcrust Pastry Base",
+   "page": "items/materials/shortcrust-pastry-base-3614911410.md",
+   "json": "items/materials/shortcrust-pastry-base-3614911410.json"
+  },
+  {
+   "id": 4135223598,
+   "name": "Leather",
+   "page": "items/materials/leather-4135223598.md",
+   "json": "items/materials/leather-4135223598.json"
+  },
+  {
+   "id": 2149011961,
+   "name": "Glow Dirt Green",
+   "page": "items/materials/glow-dirt-green-2149011961.md",
+   "json": "items/materials/glow-dirt-green-2149011961.json"
+  },
+  {
+   "id": 291752398,
+   "name": "Reptile Leather",
+   "page": "items/materials/reptile-leather-291752398.md",
+   "json": "items/materials/reptile-leather-291752398.json"
+  },
+  {
+   "id": 3420500473,
+   "name": "Dried Fur",
+   "page": "items/materials/dried-fur-3420500473.md",
+   "json": "items/materials/dried-fur-3420500473.json"
+  }
+ ],
+ "page": "items/materials/salt-1564406835.md"
+}

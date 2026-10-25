@@ -1,0 +1,25 @@
+{
+ "id": 100818570,
+ "name": "Hair 05 01",
+ "internalName": "VC_Hair_05_01_fauxhawk",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/customization/hair-05-01-100818570.md"
+}

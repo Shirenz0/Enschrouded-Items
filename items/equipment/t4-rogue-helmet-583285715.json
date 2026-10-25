@@ -1,0 +1,77 @@
+{
+ "id": 583285715,
+ "name": "T4 Rogue Helmet",
+ "internalName": "Armor_T4_Warrior_Rogue_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/583285715.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A sturdy helmet protects the wearer from slashes, cuts and scars.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-rogue-helmet.md",
+  "json": "objects/equipment/t4-rogue-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Merciless Strike Damage",
+    "value": 75,
+    "display": "75",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Finesse",
+   "effect": "Increases the skill level of Finesse by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  }
+ ],
+ "page": "items/equipment/t4-rogue-helmet-583285715.md"
+}

@@ -1,0 +1,49 @@
+{
+ "name": "Golden War Veteran Axe",
+ "category": "Weapons",
+ "image": "images/icons/2269196323.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 1877646424,
+   "name": "Golden War Veteran Axe",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1877646424.png",
+   "page": "items/weapons/golden-war-veteran-axe-1877646424.md",
+   "json": "items/weapons/golden-war-veteran-axe-1877646424.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2347176360,
+   "name": "Golden War Veteran Axe",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2347176360.png",
+   "page": "items/weapons/golden-war-veteran-axe-2347176360.md",
+   "json": "items/weapons/golden-war-veteran-axe-2347176360.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2269196323,
+   "name": "Golden War Veteran Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2269196323.png",
+   "page": "items/weapons/golden-war-veteran-axe-2269196323.md",
+   "json": "items/weapons/golden-war-veteran-axe-2269196323.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/golden-war-veteran-axe.md"
+}

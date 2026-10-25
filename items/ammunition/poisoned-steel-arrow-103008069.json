@@ -1,0 +1,68 @@
+{
+ "id": 103008069,
+ "name": "Poisoned Steel Arrow",
+ "internalName": "Ammo_T5_Arrow_SteelPoison_lvl35",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 500,
+ "image": "images/icons/103008069.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A poisoned steel arrow.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 50,
+   "Poison": 50
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 520321403,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 3559583218,
+      "name": "Steel Arrow",
+      "page": "items/ammunition/steel-arrow-3559583218.md",
+      "json": "items/ammunition/steel-arrow-3559583218.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1503622318,
+      "name": "Poison Sack",
+      "page": "items/materials/poison-sack-1503622318.md",
+      "json": "items/materials/poison-sack-1503622318.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1355070973,
+      "name": "T5 Wolfsbane",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/poisoned-steel-arrow-103008069.md"
+}

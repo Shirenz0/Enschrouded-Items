@@ -1,0 +1,35 @@
+{
+ "name": "T3 DPS Legs",
+ "category": "Equipment",
+ "image": "images/icons/3863778128.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2034875163,
+   "name": "T3 DPS Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2034875163.png",
+   "page": "items/equipment/t3-dps-legs-2034875163.md",
+   "json": "items/equipment/t3-dps-legs-2034875163.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3863778128,
+   "name": "T3 DPS Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3863778128.png",
+   "page": "items/equipment/t3-dps-legs-3863778128.md",
+   "json": "items/equipment/t3-dps-legs-3863778128.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-dps-legs.md"
+}

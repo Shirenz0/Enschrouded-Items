@@ -1,0 +1,35 @@
+{
+ "name": "T2 Ranger Arms",
+ "category": "Equipment",
+ "image": "images/icons/1903013382.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1883961235,
+   "name": "T2 Ranger Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1883961235.png",
+   "page": "items/equipment/t2-ranger-arms-1883961235.md",
+   "json": "items/equipment/t2-ranger-arms-1883961235.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1903013382,
+   "name": "T2 Ranger Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1903013382.png",
+   "page": "items/equipment/t2-ranger-arms-1903013382.md",
+   "json": "items/equipment/t2-ranger-arms-1903013382.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-ranger-arms.md"
+}

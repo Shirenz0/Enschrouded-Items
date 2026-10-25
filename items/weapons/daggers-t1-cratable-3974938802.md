@@ -30,4 +30,4 @@ Daggers T1 Cratable Descritpion
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](daggers-t1-cratable-3974938802.json)

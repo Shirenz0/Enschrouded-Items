@@ -1,0 +1,71 @@
+{
+ "id": 945263736,
+ "name": "T2 Tank Boots",
+ "internalName": "Armor_T2_Warrior_Tank_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/945263736.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A shiny pair of boots. They're so heavy that you'll practically be immovable.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-tank-boots.md",
+  "json": "objects/equipment/t2-tank-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Purification",
+   "effect": "Increases the skill level of Purification by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+6 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Earth Aura",
+   "effect": "Increases the skill level of Earth Aura by +1"
+  }
+ ],
+ "page": "items/equipment/t2-tank-boots-945263736.md"
+}

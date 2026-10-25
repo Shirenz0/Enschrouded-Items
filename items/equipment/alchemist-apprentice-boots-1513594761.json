@@ -1,0 +1,116 @@
+{
+ "id": 1513594761,
+ "name": "Alchemist Apprentice Boots",
+ "internalName": "Armor_T1_Mage_Wizard_DPS_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/1513594761.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Simple leather boots - a perfect fit.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/alchemist-apprentice-boots.md",
+  "json": "objects/equipment/alchemist-apprentice-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Necromancer",
+   "effect": "Increases the skill level of Necromancer by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+4 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Iceman",
+   "effect": "Increases the skill level of Iceman by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2810429864,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3509012331,
+      "name": "Mycelium",
+      "page": "items/materials/mycelium-3509012331.md",
+      "json": "items/materials/mycelium-3509012331.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/alchemist-apprentice-boots-1513594761.md"
+}

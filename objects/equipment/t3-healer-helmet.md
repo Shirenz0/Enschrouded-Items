@@ -17,4 +17,4 @@ Healing others is suprisingly hard when you can't actually see them.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-healer-helmet.json)

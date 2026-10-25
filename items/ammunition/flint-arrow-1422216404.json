@@ -1,0 +1,90 @@
+{
+ "id": 1422216404,
+ "name": "Flint Arrow",
+ "internalName": "Ammo_T1_Arrow_Flint_lvl5",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 500,
+ "image": "images/icons/1422216404.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A slightly enhanced version of the Wooden Arrow, reinforced with small pieces of flint at the tip.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 3627847834,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4160116201,
+   "name": "Exploding Arrow IV",
+   "page": "items/ammunition/exploding-arrow-iv-4160116201.md",
+   "json": "items/ammunition/exploding-arrow-iv-4160116201.json"
+  },
+  {
+   "id": 3342011345,
+   "name": "Exploding Arrow III",
+   "page": "items/ammunition/exploding-arrow-iii-3342011345.md",
+   "json": "items/ammunition/exploding-arrow-iii-3342011345.json"
+  },
+  {
+   "id": 1038927419,
+   "name": "Exploding Arrow II",
+   "page": "items/ammunition/exploding-arrow-ii-1038927419.md",
+   "json": "items/ammunition/exploding-arrow-ii-1038927419.json"
+  },
+  {
+   "id": 2040014559,
+   "name": "Exploding Arrow I",
+   "page": "items/ammunition/exploding-arrow-i-2040014559.md",
+   "json": "items/ammunition/exploding-arrow-i-2040014559.json"
+  },
+  {
+   "id": 3511177059,
+   "name": "Flare Arrow",
+   "page": "items/ammunition/flare-arrow-3511177059.md",
+   "json": "items/ammunition/flare-arrow-3511177059.json"
+  }
+ ],
+ "page": "items/ammunition/flint-arrow-1422216404.md"
+}

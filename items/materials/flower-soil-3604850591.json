@@ -1,0 +1,330 @@
+{
+ "id": 3604850591,
+ "name": "Flower Soil",
+ "internalName": "Build_TerrainMaterial_T1_Farmsoil_Flowerbed",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/3604850591.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Soil that will make flowers grow on it.",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2789640486,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 1823674426,
+      "name": "Farm Soil",
+      "page": "items/materials/farm-soil-1823674426.md",
+      "json": "items/materials/farm-soil-1823674426.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 673405648,
+   "name": "Fern Pot",
+   "page": "items/buildtools/fern-pot-673405648.md",
+   "json": "items/buildtools/fern-pot-673405648.json"
+  },
+  {
+   "id": 3688073501,
+   "name": "White Cymbidum Flower Pot",
+   "page": "items/buildtools/white-cymbidum-flower-pot-3688073501.md",
+   "json": "items/buildtools/white-cymbidum-flower-pot-3688073501.json"
+  },
+  {
+   "id": 3125832694,
+   "name": "Yellow Cymbidum Flower Pot",
+   "page": "items/buildtools/yellow-cymbidum-flower-pot-3125832694.md",
+   "json": "items/buildtools/yellow-cymbidum-flower-pot-3125832694.json"
+  },
+  {
+   "id": 1920323571,
+   "name": "Two-colored Lily Flower Pot",
+   "page": "items/buildtools/two-colored-lily-flower-pot-1920323571.md",
+   "json": "items/buildtools/two-colored-lily-flower-pot-1920323571.json"
+  },
+  {
+   "id": 3859722488,
+   "name": "Yellow Lily Flower Pot",
+   "page": "items/buildtools/yellow-lily-flower-pot-3859722488.md",
+   "json": "items/buildtools/yellow-lily-flower-pot-3859722488.json"
+  },
+  {
+   "id": 3148035436,
+   "name": "Pink Lily Flower Pot",
+   "page": "items/buildtools/pink-lily-flower-pot-3148035436.md",
+   "json": "items/buildtools/pink-lily-flower-pot-3148035436.json"
+  },
+  {
+   "id": 1416182802,
+   "name": "Pink Wall Pot",
+   "page": "items/buildtools/pink-wall-pot-1416182802.md",
+   "json": "items/buildtools/pink-wall-pot-1416182802.json"
+  },
+  {
+   "id": 1699546726,
+   "name": "Red Wall Pot",
+   "page": "items/buildtools/red-wall-pot-1699546726.md",
+   "json": "items/buildtools/red-wall-pot-1699546726.json"
+  },
+  {
+   "id": 2553292740,
+   "name": "White Wall Pot",
+   "page": "items/buildtools/white-wall-pot-2553292740.md",
+   "json": "items/buildtools/white-wall-pot-2553292740.json"
+  },
+  {
+   "id": 3643820464,
+   "name": "Yellow Wall Pot",
+   "page": "items/buildtools/yellow-wall-pot-3643820464.md",
+   "json": "items/buildtools/yellow-wall-pot-3643820464.json"
+  },
+  {
+   "id": 308344880,
+   "name": "Pink Flower Pot",
+   "page": "items/buildtools/pink-flower-pot-308344880.md",
+   "json": "items/buildtools/pink-flower-pot-308344880.json"
+  },
+  {
+   "id": 2373764287,
+   "name": "Red Flower Pot",
+   "page": "items/buildtools/red-flower-pot-2373764287.md",
+   "json": "items/buildtools/red-flower-pot-2373764287.json"
+  },
+  {
+   "id": 2557793336,
+   "name": "White Flower Pot",
+   "page": "items/buildtools/white-flower-pot-2557793336.md",
+   "json": "items/buildtools/white-flower-pot-2557793336.json"
+  },
+  {
+   "id": 163823517,
+   "name": "Yellow Flower Pot",
+   "page": "items/buildtools/yellow-flower-pot-163823517.md",
+   "json": "items/buildtools/yellow-flower-pot-163823517.json"
+  },
+  {
+   "id": 1666087652,
+   "name": "Medium Monstera Plant Pot",
+   "page": "items/buildtools/medium-monstera-plant-pot-1666087652.md",
+   "json": "items/buildtools/medium-monstera-plant-pot-1666087652.json"
+  },
+  {
+   "id": 1584633702,
+   "name": "Bamboo Plant Pot",
+   "page": "items/buildtools/bamboo-plant-pot-1584633702.md",
+   "json": "items/buildtools/bamboo-plant-pot-1584633702.json"
+  },
+  {
+   "id": 2364963880,
+   "name": "Taro Plant Pot",
+   "page": "items/buildtools/taro-plant-pot-2364963880.md",
+   "json": "items/buildtools/taro-plant-pot-2364963880.json"
+  },
+  {
+   "id": 2073776259,
+   "name": "Wolfsbane Flower Pot",
+   "page": "items/buildtools/wolfsbane-flower-pot-2073776259.md",
+   "json": "items/buildtools/wolfsbane-flower-pot-2073776259.json"
+  },
+  {
+   "id": 965243086,
+   "name": "Gentian Flower Pot",
+   "page": "items/buildtools/gentian-flower-pot-965243086.md",
+   "json": "items/buildtools/gentian-flower-pot-965243086.json"
+  },
+  {
+   "id": 2512869631,
+   "name": "Saffron Flower Pot",
+   "page": "items/buildtools/saffron-flower-pot-2512869631.md",
+   "json": "items/buildtools/saffron-flower-pot-2512869631.json"
+  },
+  {
+   "id": 1824422740,
+   "name": "Grapple Plant Flower Pot",
+   "page": "items/buildtools/grapple-plant-flower-pot-1824422740.md",
+   "json": "items/buildtools/grapple-plant-flower-pot-1824422740.json"
+  },
+  {
+   "id": 2779909442,
+   "name": "Cactus Plant Pot",
+   "page": "items/buildtools/cactus-plant-pot-2779909442.md",
+   "json": "items/buildtools/cactus-plant-pot-2779909442.json"
+  },
+  {
+   "id": 305269419,
+   "name": "Aloe Plant Pot",
+   "page": "items/buildtools/aloe-plant-pot-305269419.md",
+   "json": "items/buildtools/aloe-plant-pot-305269419.json"
+  },
+  {
+   "id": 2908822452,
+   "name": "Calla Luna Flower Pot",
+   "page": "items/buildtools/calla-luna-flower-pot-2908822452.md",
+   "json": "items/buildtools/calla-luna-flower-pot-2908822452.json"
+  },
+  {
+   "id": 3949039004,
+   "name": "Sage Flower Pot",
+   "page": "items/buildtools/sage-flower-pot-3949039004.md",
+   "json": "items/buildtools/sage-flower-pot-3949039004.json"
+  },
+  {
+   "id": 3035636701,
+   "name": "Gloomberry Flower Pot",
+   "page": "items/buildtools/gloomberry-flower-pot-3035636701.md",
+   "json": "items/buildtools/gloomberry-flower-pot-3035636701.json"
+  },
+  {
+   "id": 987110647,
+   "name": "Midnight Lily Flower Pot",
+   "page": "items/buildtools/midnight-lily-flower-pot-987110647.md",
+   "json": "items/buildtools/midnight-lily-flower-pot-987110647.json"
+  },
+  {
+   "id": 307918428,
+   "name": "Flax Flower Pot",
+   "page": "items/buildtools/flax-flower-pot-307918428.md",
+   "json": "items/buildtools/flax-flower-pot-307918428.json"
+  },
+  {
+   "id": 2215362525,
+   "name": "Chamomile Flower Pot",
+   "page": "items/buildtools/chamomile-flower-pot-2215362525.md",
+   "json": "items/buildtools/chamomile-flower-pot-2215362525.json"
+  },
+  {
+   "id": 3774571620,
+   "name": "St. John's Wort Flower Pot",
+   "page": "items/buildtools/st-john-s-wort-flower-pot-3774571620.md",
+   "json": "items/buildtools/st-john-s-wort-flower-pot-3774571620.json"
+  },
+  {
+   "id": 1479156124,
+   "name": "Gras Pot",
+   "page": "items/buildtools/gras-pot-1479156124.md",
+   "json": "items/buildtools/gras-pot-1479156124.json"
+  },
+  {
+   "id": 523366717,
+   "name": "Small Monstera Plant Pot",
+   "page": "items/buildtools/small-monstera-plant-pot-523366717.md",
+   "json": "items/buildtools/small-monstera-plant-pot-523366717.json"
+  },
+  {
+   "id": 3127704929,
+   "name": "Passionflower Flower Pot",
+   "page": "items/buildtools/passionflower-flower-pot-3127704929.md",
+   "json": "items/buildtools/passionflower-flower-pot-3127704929.json"
+  },
+  {
+   "id": 2027224453,
+   "name": "Gleam Root Flower Pot",
+   "page": "items/buildtools/gleam-root-flower-pot-2027224453.md",
+   "json": "items/buildtools/gleam-root-flower-pot-2027224453.json"
+  },
+  {
+   "id": 529262830,
+   "name": "Coconut Plant Pot",
+   "page": "items/buildtools/coconut-plant-pot-529262830.md",
+   "json": "items/buildtools/coconut-plant-pot-529262830.json"
+  },
+  {
+   "id": 1370519204,
+   "name": "Banana Plant Pot",
+   "page": "items/buildtools/banana-plant-pot-1370519204.md",
+   "json": "items/buildtools/banana-plant-pot-1370519204.json"
+  },
+  {
+   "id": 4232861370,
+   "name": "Licuala Plant Pot",
+   "page": "items/buildtools/licuala-plant-pot-4232861370.md",
+   "json": "items/buildtools/licuala-plant-pot-4232861370.json"
+  },
+  {
+   "id": 3331736531,
+   "name": "Daylily Flower Pot",
+   "page": "items/buildtools/daylily-flower-pot-3331736531.md",
+   "json": "items/buildtools/daylily-flower-pot-3331736531.json"
+  },
+  {
+   "id": 3803006190,
+   "name": "Ginger Flower Pot",
+   "page": "items/buildtools/ginger-flower-pot-3803006190.md",
+   "json": "items/buildtools/ginger-flower-pot-3803006190.json"
+  },
+  {
+   "id": 3447568951,
+   "name": "Stapelia Starflower Flower Pot",
+   "page": "items/buildtools/stapelia-starflower-flower-pot-3447568951.md",
+   "json": "items/buildtools/stapelia-starflower-flower-pot-3447568951.json"
+  },
+  {
+   "id": 3758178692,
+   "name": "Glimmer Gentian Flower Pot",
+   "page": "items/buildtools/glimmer-gentian-flower-pot-3758178692.md",
+   "json": "items/buildtools/glimmer-gentian-flower-pot-3758178692.json"
+  },
+  {
+   "id": 889046505,
+   "name": "Alpine Rose Flower Pot",
+   "page": "items/buildtools/alpine-rose-flower-pot-889046505.md",
+   "json": "items/buildtools/alpine-rose-flower-pot-889046505.json"
+  },
+  {
+   "id": 440235364,
+   "name": "Shadowbloom Flower Pot",
+   "page": "items/buildtools/shadowbloom-flower-pot-440235364.md",
+   "json": "items/buildtools/shadowbloom-flower-pot-440235364.json"
+  },
+  {
+   "id": 2360020747,
+   "name": "Heather Flower Pot",
+   "page": "items/buildtools/heather-flower-pot-2360020747.md",
+   "json": "items/buildtools/heather-flower-pot-2360020747.json"
+  },
+  {
+   "id": 711377171,
+   "name": "Brittlebush Flower Pot",
+   "page": "items/buildtools/brittlebush-flower-pot-711377171.md",
+   "json": "items/buildtools/brittlebush-flower-pot-711377171.json"
+  },
+  {
+   "id": 3965963935,
+   "name": "Indigo Flower Pot",
+   "page": "items/buildtools/indigo-flower-pot-3965963935.md",
+   "json": "items/buildtools/indigo-flower-pot-3965963935.json"
+  }
+ ],
+ "page": "items/materials/flower-soil-3604850591.md"
+}

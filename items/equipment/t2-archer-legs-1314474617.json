@@ -1,0 +1,71 @@
+{
+ "id": 1314474617,
+ "name": "T2 Archer Legs",
+ "internalName": "Armor_T2_Ranger_Assassin_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1314474617.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The added leather grants superior protection from jagged rocks, unruly tree bark and counter arrows.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-archer-legs.md",
+  "json": "objects/equipment/t2-archer-legs.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Sneak  Speed",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+8 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Cutthroat",
+   "effect": "Increases the skill level of Cutthroat by +1"
+  },
+  {
+   "order": 4,
+   "name": "Shock Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  }
+ ],
+ "page": "items/equipment/t2-archer-legs-1314474617.md"
+}

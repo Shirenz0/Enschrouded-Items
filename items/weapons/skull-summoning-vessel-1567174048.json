@@ -1,0 +1,100 @@
+{
+ "id": 1567174048,
+ "name": "Skull Summoning Vessel",
+ "internalName": "Consumable_Necromancer_Grenade_T5",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 20,
+ "image": "images/icons/1567174048.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Throw to summon a skull companion.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": {
+  "page": "objects/weapons/skull-summoning-vessel.md",
+  "json": "objects/weapons/skull-summoning-vessel.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1865756602,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 3236482539,
+      "name": "T4 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "page": "items/weapons/skull-summoning-vessel-1567174048.md"
+}

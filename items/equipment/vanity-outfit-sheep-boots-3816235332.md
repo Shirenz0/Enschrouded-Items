@@ -29,4 +29,4 @@ Vanity  Outfit Sheep  boots  Desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-outfit-sheep-boots-3816235332.json)

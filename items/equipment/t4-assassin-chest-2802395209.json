@@ -1,0 +1,131 @@
+{
+ "id": 2802395209,
+ "name": "T4 Assassin Chest",
+ "internalName": "Armor_T4_Ranger_Assassin_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2802395209.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A refined chest piece which lets you fade into the dark and strike from the shadows.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-assassin-chest.md",
+  "json": "objects/equipment/t4-assassin-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 5,
+   "name": "+1 Rebound",
+   "effect": "Increases the skill level of Rebound by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 577598840,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4079068070,
+      "name": "Sanddigger Scales",
+      "page": "items/materials/sanddigger-scales-4079068070.md",
+      "json": "items/materials/sanddigger-scales-4079068070.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2975006357,
+      "name": "Monstrous Ribs",
+      "page": "items/materials/monstrous-ribs-2975006357.md",
+      "json": "items/materials/monstrous-ribs-2975006357.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 536984995,
+      "name": "Fell Heart",
+      "page": "items/materials/fell-heart-536984995.md",
+      "json": "items/materials/fell-heart-536984995.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-assassin-chest-2802395209.md"
+}

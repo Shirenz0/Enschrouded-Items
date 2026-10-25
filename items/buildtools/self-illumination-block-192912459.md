@@ -25,4 +25,4 @@ Workbench
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](self-illumination-block-192912459.json)

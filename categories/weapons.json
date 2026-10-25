@@ -1,0 +1,2717 @@
+{
+ "category": "Weapons",
+ "title": "Weapons",
+ "count": 301,
+ "page": "categories/weapons.md",
+ "items": [
+  {
+   "id": 53318001,
+   "name": "Acid Cleaver",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/53318001.png",
+   "page": "items/weapons/acid-cleaver-53318001.md",
+   "json": "items/weapons/acid-cleaver-53318001.json"
+  },
+  {
+   "id": 1912269209,
+   "name": "Ancestral Star",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1912269209.png",
+   "page": "items/weapons/ancestral-star-1912269209.md",
+   "json": "items/weapons/ancestral-star-1912269209.json"
+  },
+  {
+   "id": 2226962572,
+   "name": "Ancestral Star",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2226962572.png",
+   "page": "items/weapons/ancestral-star-2226962572.md",
+   "json": "items/weapons/ancestral-star-2226962572.json"
+  },
+  {
+   "id": 3843821992,
+   "name": "Ancestral Star",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3843821992.png",
+   "page": "items/weapons/ancestral-star-3843821992.md",
+   "json": "items/weapons/ancestral-star-3843821992.json"
+  },
+  {
+   "id": 430276931,
+   "name": "Ancestral Star",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/430276931.png",
+   "page": "items/weapons/ancestral-star-430276931.md",
+   "json": "items/weapons/ancestral-star-430276931.json"
+  },
+  {
+   "id": 1785296023,
+   "name": "Angry Eagle",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1785296023.png",
+   "page": "items/weapons/angry-eagle-1785296023.md",
+   "json": "items/weapons/angry-eagle-1785296023.json"
+  },
+  {
+   "id": 2901533456,
+   "name": "Antler Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2901533456.png",
+   "page": "items/weapons/antler-bow-2901533456.md",
+   "json": "items/weapons/antler-bow-2901533456.json"
+  },
+  {
+   "id": 2628714681,
+   "name": "Axe 2H T6 epic 01",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2628714681.png",
+   "page": "items/weapons/axe-2h-t6-epic-01-2628714681.md",
+   "json": "items/weapons/axe-2h-t6-epic-01-2628714681.json"
+  },
+  {
+   "id": 1602331229,
+   "name": "Axe T5 common 01",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1602331229.png",
+   "page": "items/weapons/axe-t5-common-01-1602331229.md",
+   "json": "items/weapons/axe-t5-common-01-1602331229.json"
+  },
+  {
+   "id": 1541977934,
+   "name": "Axe T6 common 01",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1541977934.png",
+   "page": "items/weapons/axe-t6-common-01-1541977934.md",
+   "json": "items/weapons/axe-t6-common-01-1541977934.json"
+  },
+  {
+   "id": 1552891650,
+   "name": "Bone Chopper",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1552891650.png",
+   "page": "items/weapons/bone-chopper-1552891650.md",
+   "json": "items/weapons/bone-chopper-1552891650.json"
+  },
+  {
+   "id": 3748173823,
+   "name": "Bone Wand",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/3748173823.png",
+   "page": "items/weapons/bone-wand-3748173823.md",
+   "json": "items/weapons/bone-wand-3748173823.json"
+  },
+  {
+   "id": 101106603,
+   "name": "Breaching Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/101106603.png",
+   "page": "items/weapons/breaching-bow-101106603.md",
+   "json": "items/weapons/breaching-bow-101106603.json"
+  },
+  {
+   "id": 3854011426,
+   "name": "Breaching Bow",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3854011426.png",
+   "page": "items/weapons/breaching-bow-3854011426.md",
+   "json": "items/weapons/breaching-bow-3854011426.json"
+  },
+  {
+   "id": 1125155603,
+   "name": "Bronzen Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1125155603.png",
+   "page": "items/weapons/bronzen-sword-1125155603.md",
+   "json": "items/weapons/bronzen-sword-1125155603.json"
+  },
+  {
+   "id": 2237665335,
+   "name": "Composite bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2237665335.png",
+   "page": "items/weapons/composite-bow-2237665335.md",
+   "json": "items/weapons/composite-bow-2237665335.json"
+  },
+  {
+   "id": 1454083076,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1454083076.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-1454083076.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-1454083076.json"
+  },
+  {
+   "id": 2517864696,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2517864696.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-2517864696.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2517864696.json"
+  },
+  {
+   "id": 2664238131,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2664238131.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-2664238131.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2664238131.json"
+  },
+  {
+   "id": 2676513257,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2676513257.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-2676513257.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-2676513257.json"
+  },
+  {
+   "id": 3886257993,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3886257993.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-3886257993.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-3886257993.json"
+  },
+  {
+   "id": 4016669731,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/4016669731.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-4016669731.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-4016669731.json"
+  },
+  {
+   "id": 852156015,
+   "name": "Consumed fog soldier bow",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/852156015.png",
+   "page": "items/weapons/consumed-fog-soldier-bow-852156015.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-852156015.json"
+  },
+  {
+   "id": 3870359442,
+   "name": "Critter Crawler Bomb",
+   "rarity": "Uncommon",
+   "level": "35",
+   "image": "images/icons/3870359442.png",
+   "page": "items/weapons/critter-crawler-bomb-3870359442.md",
+   "json": "items/weapons/critter-crawler-bomb-3870359442.json"
+  },
+  {
+   "id": 2053280664,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2053280664.png",
+   "page": "items/weapons/cryptic-wand-2053280664.md",
+   "json": "items/weapons/cryptic-wand-2053280664.json"
+  },
+  {
+   "id": 2563601506,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2563601506.png",
+   "page": "items/weapons/cryptic-wand-2563601506.md",
+   "json": "items/weapons/cryptic-wand-2563601506.json"
+  },
+  {
+   "id": 2908736852,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2908736852.png",
+   "page": "items/weapons/cryptic-wand-2908736852.md",
+   "json": "items/weapons/cryptic-wand-2908736852.json"
+  },
+  {
+   "id": 3739626235,
+   "name": "Cryptic wand",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/3739626235.png",
+   "page": "items/weapons/cryptic-wand-3739626235.md",
+   "json": "items/weapons/cryptic-wand-3739626235.json"
+  },
+  {
+   "id": 4048093059,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/4048093059.png",
+   "page": "items/weapons/cryptic-wand-4048093059.md",
+   "json": "items/weapons/cryptic-wand-4048093059.json"
+  },
+  {
+   "id": 4192516670,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/4192516670.png",
+   "page": "items/weapons/cryptic-wand-4192516670.md",
+   "json": "items/weapons/cryptic-wand-4192516670.json"
+  },
+  {
+   "id": 4294860398,
+   "name": "Cryptic wand",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/4294860398.png",
+   "page": "items/weapons/cryptic-wand-4294860398.md",
+   "json": "items/weapons/cryptic-wand-4294860398.json"
+  },
+  {
+   "id": 3974938802,
+   "name": "Daggers T1 Cratable",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/3974938802.png",
+   "page": "items/weapons/daggers-t1-cratable-3974938802.md",
+   "json": "items/weapons/daggers-t1-cratable-3974938802.json"
+  },
+  {
+   "id": 1851176688,
+   "name": "Daggers T3 Epic Type 1",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1851176688.png",
+   "page": "items/weapons/daggers-t3-epic-type-1-1851176688.md",
+   "json": "items/weapons/daggers-t3-epic-type-1-1851176688.json"
+  },
+  {
+   "id": 3873714456,
+   "name": "Daggers T3 Type 1",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3873714456.png",
+   "page": "items/weapons/daggers-t3-type-1-3873714456.md",
+   "json": "items/weapons/daggers-t3-type-1-3873714456.json"
+  },
+  {
+   "id": 4248181976,
+   "name": "Daggers T6 Epic Poison",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/4248181976.png",
+   "page": "items/weapons/daggers-t6-epic-poison-4248181976.md",
+   "json": "items/weapons/daggers-t6-epic-poison-4248181976.json"
+  },
+  {
+   "id": 2642629621,
+   "name": "Darya's Remorse",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2642629621.png",
+   "page": "items/weapons/darya-s-remorse-2642629621.md",
+   "json": "items/weapons/darya-s-remorse-2642629621.json"
+  },
+  {
+   "id": 3233786830,
+   "name": "Darya's Remorse",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3233786830.png",
+   "page": "items/weapons/darya-s-remorse-3233786830.md",
+   "json": "items/weapons/darya-s-remorse-3233786830.json"
+  },
+  {
+   "id": 1271805655,
+   "name": "Darya's Staff",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1271805655.png",
+   "page": "items/weapons/darya-s-staff-1271805655.md",
+   "json": "items/weapons/darya-s-staff-1271805655.json"
+  },
+  {
+   "id": 3791962857,
+   "name": "Darya's Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3791962857.png",
+   "page": "items/weapons/darya-s-staff-3791962857.md",
+   "json": "items/weapons/darya-s-staff-3791962857.json"
+  },
+  {
+   "id": 4000975642,
+   "name": "Darya's Staff",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/4000975642.png",
+   "page": "items/weapons/darya-s-staff-4000975642.md",
+   "json": "items/weapons/darya-s-staff-4000975642.json"
+  },
+  {
+   "id": 4287106432,
+   "name": "Darya's Staff",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/4287106432.png",
+   "page": "items/weapons/darya-s-staff-4287106432.md",
+   "json": "items/weapons/darya-s-staff-4287106432.json"
+  },
+  {
+   "id": 1142953776,
+   "name": "Darya's Wand",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1142953776.png",
+   "page": "items/weapons/darya-s-wand-1142953776.md",
+   "json": "items/weapons/darya-s-wand-1142953776.json"
+  },
+  {
+   "id": 1561187159,
+   "name": "Darya's Wand",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1561187159.png",
+   "page": "items/weapons/darya-s-wand-1561187159.md",
+   "json": "items/weapons/darya-s-wand-1561187159.json"
+  },
+  {
+   "id": 2104873327,
+   "name": "Darya's Wand",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2104873327.png",
+   "page": "items/weapons/darya-s-wand-2104873327.md",
+   "json": "items/weapons/darya-s-wand-2104873327.json"
+  },
+  {
+   "id": 2331017633,
+   "name": "Darya's Wand",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/2331017633.png",
+   "page": "items/weapons/darya-s-wand-2331017633.md",
+   "json": "items/weapons/darya-s-wand-2331017633.json"
+  },
+  {
+   "id": 1054611658,
+   "name": "Draconian Bow",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1054611658.png",
+   "page": "items/weapons/draconian-bow-1054611658.md",
+   "json": "items/weapons/draconian-bow-1054611658.json"
+  },
+  {
+   "id": 3578254606,
+   "name": "Draconian Bow",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/3578254606.png",
+   "page": "items/weapons/draconian-bow-3578254606.md",
+   "json": "items/weapons/draconian-bow-3578254606.json"
+  },
+  {
+   "id": 3626685627,
+   "name": "Draconian Bow",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3626685627.png",
+   "page": "items/weapons/draconian-bow-3626685627.md",
+   "json": "items/weapons/draconian-bow-3626685627.json"
+  },
+  {
+   "id": 463074629,
+   "name": "Draconian Bow",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/463074629.png",
+   "page": "items/weapons/draconian-bow-463074629.md",
+   "json": "items/weapons/draconian-bow-463074629.json"
+  },
+  {
+   "id": 902475103,
+   "name": "Draconian Bow",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/902475103.png",
+   "page": "items/weapons/draconian-bow-902475103.md",
+   "json": "items/weapons/draconian-bow-902475103.json"
+  },
+  {
+   "id": 2352034665,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2352034665.png",
+   "page": "items/weapons/dragon-sword-2352034665.md",
+   "json": "items/weapons/dragon-sword-2352034665.json"
+  },
+  {
+   "id": 3434497058,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3434497058.png",
+   "page": "items/weapons/dragon-sword-3434497058.md",
+   "json": "items/weapons/dragon-sword-3434497058.json"
+  },
+  {
+   "id": 3566731447,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3566731447.png",
+   "page": "items/weapons/dragon-sword-3566731447.md",
+   "json": "items/weapons/dragon-sword-3566731447.json"
+  },
+  {
+   "id": 3584171520,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3584171520.png",
+   "page": "items/weapons/dragon-sword-3584171520.md",
+   "json": "items/weapons/dragon-sword-3584171520.json"
+  },
+  {
+   "id": 3670734309,
+   "name": "Dragon Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3670734309.png",
+   "page": "items/weapons/dragon-sword-3670734309.md",
+   "json": "items/weapons/dragon-sword-3670734309.json"
+  },
+  {
+   "id": 3907468980,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/3907468980.png",
+   "page": "items/weapons/dragon-sword-3907468980.md",
+   "json": "items/weapons/dragon-sword-3907468980.json"
+  },
+  {
+   "id": 1608083210,
+   "name": "Dragonsbane",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1608083210.png",
+   "page": "items/weapons/dragonsbane-1608083210.md",
+   "json": "items/weapons/dragonsbane-1608083210.json"
+  },
+  {
+   "id": 2594618935,
+   "name": "Dragonsbane",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2594618935.png",
+   "page": "items/weapons/dragonsbane-2594618935.md",
+   "json": "items/weapons/dragonsbane-2594618935.json"
+  },
+  {
+   "id": 2688480639,
+   "name": "Dragonsbane",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2688480639.png",
+   "page": "items/weapons/dragonsbane-2688480639.md",
+   "json": "items/weapons/dragonsbane-2688480639.json"
+  },
+  {
+   "id": 729789776,
+   "name": "Dragonsbane",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/729789776.png",
+   "page": "items/weapons/dragonsbane-729789776.md",
+   "json": "items/weapons/dragonsbane-729789776.json"
+  },
+  {
+   "id": 4148367690,
+   "name": "Drak Elite Axe",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/4148367690.png",
+   "page": "items/weapons/drak-elite-axe-4148367690.md",
+   "json": "items/weapons/drak-elite-axe-4148367690.json"
+  },
+  {
+   "id": 1029972982,
+   "name": "Dungeon 2h Axe",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1029972982.png",
+   "page": "items/weapons/dungeon-2h-axe-1029972982.md",
+   "json": "items/weapons/dungeon-2h-axe-1029972982.json"
+  },
+  {
+   "id": 4134797150,
+   "name": "Dungeon 2h Hammer",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/4134797150.png",
+   "page": "items/weapons/dungeon-2h-hammer-4134797150.md",
+   "json": "items/weapons/dungeon-2h-hammer-4134797150.json"
+  },
+  {
+   "id": 1356112072,
+   "name": "Dungeon Ace 1h",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1356112072.png",
+   "page": "items/weapons/dungeon-ace-1h-1356112072.md",
+   "json": "items/weapons/dungeon-ace-1h-1356112072.json"
+  },
+  {
+   "id": 571871007,
+   "name": "Dungeon Wand",
+   "rarity": "Uncommon",
+   "level": "1-55",
+   "image": "images/icons/571871007.png",
+   "page": "items/weapons/dungeon-wand-571871007.md",
+   "json": "items/weapons/dungeon-wand-571871007.json"
+  },
+  {
+   "id": 3657818170,
+   "name": "Elder's Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3657818170.png",
+   "page": "items/weapons/elder-s-staff-3657818170.md",
+   "json": "items/weapons/elder-s-staff-3657818170.json"
+  },
+  {
+   "id": 3848774794,
+   "name": "Electric Initialiser",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3848774794.png",
+   "page": "items/weapons/electric-initialiser-3848774794.md",
+   "json": "items/weapons/electric-initialiser-3848774794.json"
+  },
+  {
+   "id": 873336281,
+   "name": "Electric Initialiser",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/873336281.png",
+   "page": "items/weapons/electric-initialiser-873336281.md",
+   "json": "items/weapons/electric-initialiser-873336281.json"
+  },
+  {
+   "id": 518418528,
+   "name": "Enflamed Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/518418528.png",
+   "page": "items/weapons/enflamed-sword-518418528.md",
+   "json": "items/weapons/enflamed-sword-518418528.json"
+  },
+  {
+   "id": 409520008,
+   "name": "Enhanced Spiked Club",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/409520008.png",
+   "page": "items/weapons/enhanced-spiked-club-409520008.md",
+   "json": "items/weapons/enhanced-spiked-club-409520008.json"
+  },
+  {
+   "id": 2867801060,
+   "name": "Enshrouded Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2867801060.png",
+   "page": "items/weapons/enshrouded-axe-2867801060.md",
+   "json": "items/weapons/enshrouded-axe-2867801060.json"
+  },
+  {
+   "id": 3168936309,
+   "name": "Enshrouded Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3168936309.png",
+   "page": "items/weapons/enshrouded-staff-3168936309.md",
+   "json": "items/weapons/enshrouded-staff-3168936309.json"
+  },
+  {
+   "id": 3851016100,
+   "name": "Epic Fire Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3851016100.png",
+   "page": "items/weapons/epic-fire-wand-3851016100.md",
+   "json": "items/weapons/epic-fire-wand-3851016100.json"
+  },
+  {
+   "id": 2296172399,
+   "name": "Epic Fogbound Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2296172399.png",
+   "page": "items/weapons/epic-fogbound-bow-2296172399.md",
+   "json": "items/weapons/epic-fogbound-bow-2296172399.json"
+  },
+  {
+   "id": 457119037,
+   "name": "Epic Goat Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/457119037.png",
+   "page": "items/weapons/epic-goat-bow-457119037.md",
+   "json": "items/weapons/epic-goat-bow-457119037.json"
+  },
+  {
+   "id": 771316050,
+   "name": "Epic goat club",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/771316050.png",
+   "page": "items/weapons/epic-goat-club-771316050.md",
+   "json": "items/weapons/epic-goat-club-771316050.json"
+  },
+  {
+   "id": 3521922296,
+   "name": "Epic goat hammer",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3521922296.png",
+   "page": "items/weapons/epic-goat-hammer-3521922296.md",
+   "json": "items/weapons/epic-goat-hammer-3521922296.json"
+  },
+  {
+   "id": 3831314886,
+   "name": "Epic Great Wolf Mace",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3831314886.png",
+   "page": "items/weapons/epic-great-wolf-mace-3831314886.md",
+   "json": "items/weapons/epic-great-wolf-mace-3831314886.json"
+  },
+  {
+   "id": 210093577,
+   "name": "Epic Heavy Club",
+   "rarity": "Rare",
+   "level": "1-55",
+   "image": "images/icons/210093577.png",
+   "page": "items/weapons/epic-heavy-club-210093577.md",
+   "json": "items/weapons/epic-heavy-club-210093577.json"
+  },
+  {
+   "id": 692270451,
+   "name": "Epic Long Bow",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/692270451.png",
+   "page": "items/weapons/epic-long-bow-692270451.md",
+   "json": "items/weapons/epic-long-bow-692270451.json"
+  },
+  {
+   "id": 3205048904,
+   "name": "Epic One Handed Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3205048904.png",
+   "page": "items/weapons/epic-one-handed-axe-3205048904.md",
+   "json": "items/weapons/epic-one-handed-axe-3205048904.json"
+  },
+  {
+   "id": 4104616591,
+   "name": "Epic Shock Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/4104616591.png",
+   "page": "items/weapons/epic-shock-wand-4104616591.md",
+   "json": "items/weapons/epic-shock-wand-4104616591.json"
+  },
+  {
+   "id": 2242220014,
+   "name": "Epic Short Bow",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2242220014.png",
+   "page": "items/weapons/epic-short-bow-2242220014.md",
+   "json": "items/weapons/epic-short-bow-2242220014.json"
+  },
+  {
+   "id": 1080812742,
+   "name": "Epic spiked club",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1080812742.png",
+   "page": "items/weapons/epic-spiked-club-1080812742.md",
+   "json": "items/weapons/epic-spiked-club-1080812742.json"
+  },
+  {
+   "id": 213584320,
+   "name": "Epic Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/213584320.png",
+   "page": "items/weapons/epic-sword-213584320.md",
+   "json": "items/weapons/epic-sword-213584320.json"
+  },
+  {
+   "id": 3419190942,
+   "name": "Epic T1 Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3419190942.png",
+   "page": "items/weapons/epic-t1-wand-3419190942.md",
+   "json": "items/weapons/epic-t1-wand-3419190942.json"
+  },
+  {
+   "id": 2130769495,
+   "name": "Epic t4 goat axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2130769495.png",
+   "page": "items/weapons/epic-t4-goat-axe-2130769495.md",
+   "json": "items/weapons/epic-t4-goat-axe-2130769495.json"
+  },
+  {
+   "id": 3405497023,
+   "name": "Epic Vigor Lightbound Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3405497023.png",
+   "page": "items/weapons/epic-vigor-lightbound-sword-3405497023.md",
+   "json": "items/weapons/epic-vigor-lightbound-sword-3405497023.json"
+  },
+  {
+   "id": 1940764111,
+   "name": "Epic Vukah Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1940764111.png",
+   "page": "items/weapons/epic-vukah-axe-1940764111.md",
+   "json": "items/weapons/epic-vukah-axe-1940764111.json"
+  },
+  {
+   "id": 4075697507,
+   "name": "Epic Wolf Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/4075697507.png",
+   "page": "items/weapons/epic-wolf-axe-4075697507.md",
+   "json": "items/weapons/epic-wolf-axe-4075697507.json"
+  },
+  {
+   "id": 3238923785,
+   "name": "Epic Wolf Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3238923785.png",
+   "page": "items/weapons/epic-wolf-sword-3238923785.md",
+   "json": "items/weapons/epic-wolf-sword-3238923785.json"
+  },
+  {
+   "id": 1255239784,
+   "name": "Epic Wood Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1255239784.png",
+   "page": "items/weapons/epic-wood-staff-1255239784.md",
+   "json": "items/weapons/epic-wood-staff-1255239784.json"
+  },
+  {
+   "id": 1174019207,
+   "name": "Epix Fog Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1174019207.png",
+   "page": "items/weapons/epix-fog-axe-1174019207.md",
+   "json": "items/weapons/epix-fog-axe-1174019207.json"
+  },
+  {
+   "id": 3486546660,
+   "name": "Executioner's Axe",
+   "rarity": "Rare",
+   "level": "1-55",
+   "image": "images/icons/3486546660.png",
+   "page": "items/weapons/executioner-s-axe-3486546660.md",
+   "json": "items/weapons/executioner-s-axe-3486546660.json"
+  },
+  {
+   "id": 2283229289,
+   "name": "Explosive Powder Ball",
+   "rarity": "Common",
+   "level": "10",
+   "image": "images/icons/2283229289.png",
+   "page": "items/weapons/explosive-powder-ball-2283229289.md",
+   "json": "items/weapons/explosive-powder-ball-2283229289.json"
+  },
+  {
+   "id": 1614998716,
+   "name": "Explosive Powder Grenade",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1614998716.png",
+   "page": "items/weapons/explosive-powder-grenade-1614998716.md",
+   "json": "items/weapons/explosive-powder-grenade-1614998716.json"
+  },
+  {
+   "id": 4233298973,
+   "name": "Explosive Powderball Net",
+   "rarity": "Uncommon",
+   "level": "15",
+   "image": "images/icons/4233298973.png",
+   "page": "items/weapons/explosive-powderball-net-4233298973.md",
+   "json": "items/weapons/explosive-powderball-net-4233298973.json"
+  },
+  {
+   "id": 3502536665,
+   "name": "Extiguished Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3502536665.png",
+   "page": "items/weapons/extiguished-sword-3502536665.md",
+   "json": "items/weapons/extiguished-sword-3502536665.json"
+  },
+  {
+   "id": 1659424208,
+   "name": "Fang Blade",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1659424208.png",
+   "page": "items/weapons/fang-blade-1659424208.md",
+   "json": "items/weapons/fang-blade-1659424208.json"
+  },
+  {
+   "id": 1474722178,
+   "name": "Feathered Mace",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1474722178.png",
+   "page": "items/weapons/feathered-mace-1474722178.md",
+   "json": "items/weapons/feathered-mace-1474722178.json"
+  },
+  {
+   "id": 1735564804,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1735564804.png",
+   "page": "items/weapons/fenrig-s-axe-1735564804.md",
+   "json": "items/weapons/fenrig-s-axe-1735564804.json"
+  },
+  {
+   "id": 1853225094,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1853225094.png",
+   "page": "items/weapons/fenrig-s-axe-1853225094.md",
+   "json": "items/weapons/fenrig-s-axe-1853225094.json"
+  },
+  {
+   "id": 2396593895,
+   "name": "Fenrig's Axe",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/2396593895.png",
+   "page": "items/weapons/fenrig-s-axe-2396593895.md",
+   "json": "items/weapons/fenrig-s-axe-2396593895.json"
+  },
+  {
+   "id": 2440163799,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/2440163799.png",
+   "page": "items/weapons/fenrig-s-axe-2440163799.md",
+   "json": "items/weapons/fenrig-s-axe-2440163799.json"
+  },
+  {
+   "id": 3530269879,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/3530269879.png",
+   "page": "items/weapons/fenrig-s-axe-3530269879.md",
+   "json": "items/weapons/fenrig-s-axe-3530269879.json"
+  },
+  {
+   "id": 431218523,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/431218523.png",
+   "page": "items/weapons/fenrig-s-axe-431218523.md",
+   "json": "items/weapons/fenrig-s-axe-431218523.json"
+  },
+  {
+   "id": 462958958,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/462958958.png",
+   "page": "items/weapons/fenrig-s-axe-462958958.md",
+   "json": "items/weapons/fenrig-s-axe-462958958.json"
+  },
+  {
+   "id": 65433484,
+   "name": "Fenrig's Axe",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/65433484.png",
+   "page": "items/weapons/fenrig-s-axe-65433484.md",
+   "json": "items/weapons/fenrig-s-axe-65433484.json"
+  },
+  {
+   "id": 375831467,
+   "name": "Fog Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/375831467.png",
+   "page": "items/weapons/fog-bow-375831467.md",
+   "json": "items/weapons/fog-bow-375831467.json"
+  },
+  {
+   "id": 3467068456,
+   "name": "Fog Defier",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3467068456.png",
+   "page": "items/weapons/fog-defier-3467068456.md",
+   "json": "items/weapons/fog-defier-3467068456.json"
+  },
+  {
+   "id": 3090479094,
+   "name": "Fog Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3090479094.png",
+   "page": "items/weapons/fog-staff-3090479094.md",
+   "json": "items/weapons/fog-staff-3090479094.json"
+  },
+  {
+   "id": 662464113,
+   "name": "Fogger Broad Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/662464113.png",
+   "page": "items/weapons/fogger-broad-sword-662464113.md",
+   "json": "items/weapons/fogger-broad-sword-662464113.json"
+  },
+  {
+   "id": 3308817829,
+   "name": "Fogger Ranger Armored Bow",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3308817829.png",
+   "page": "items/weapons/fogger-ranger-armored-bow-3308817829.md",
+   "json": "items/weapons/fogger-ranger-armored-bow-3308817829.json"
+  },
+  {
+   "id": 1065913662,
+   "name": "Forest Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1065913662.png",
+   "page": "items/weapons/forest-bow-1065913662.md",
+   "json": "items/weapons/forest-bow-1065913662.json"
+  },
+  {
+   "id": 458314937,
+   "name": "Gleaming Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/458314937.png",
+   "page": "items/weapons/gleaming-staff-458314937.md",
+   "json": "items/weapons/gleaming-staff-458314937.json"
+  },
+  {
+   "id": 1464929321,
+   "name": "Golden Recruit Axe",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1464929321.png",
+   "page": "items/weapons/golden-recruit-axe-1464929321.md",
+   "json": "items/weapons/golden-recruit-axe-1464929321.json"
+  },
+  {
+   "id": 2176171412,
+   "name": "Golden Recruit Axe",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2176171412.png",
+   "page": "items/weapons/golden-recruit-axe-2176171412.md",
+   "json": "items/weapons/golden-recruit-axe-2176171412.json"
+  },
+  {
+   "id": 500747971,
+   "name": "Golden Recruit Axe",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/500747971.png",
+   "page": "items/weapons/golden-recruit-axe-500747971.md",
+   "json": "items/weapons/golden-recruit-axe-500747971.json"
+  },
+  {
+   "id": 1877646424,
+   "name": "Golden War Veteran Axe",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1877646424.png",
+   "page": "items/weapons/golden-war-veteran-axe-1877646424.md",
+   "json": "items/weapons/golden-war-veteran-axe-1877646424.json"
+  },
+  {
+   "id": 2269196323,
+   "name": "Golden War Veteran Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2269196323.png",
+   "page": "items/weapons/golden-war-veteran-axe-2269196323.md",
+   "json": "items/weapons/golden-war-veteran-axe-2269196323.json"
+  },
+  {
+   "id": 2347176360,
+   "name": "Golden War Veteran Axe",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2347176360.png",
+   "page": "items/weapons/golden-war-veteran-axe-2347176360.md",
+   "json": "items/weapons/golden-war-veteran-axe-2347176360.json"
+  },
+  {
+   "id": 2698032927,
+   "name": "Great Wolf Mace",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2698032927.png",
+   "page": "items/weapons/great-wolf-mace-2698032927.md",
+   "json": "items/weapons/great-wolf-mace-2698032927.json"
+  },
+  {
+   "id": 2924638789,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2924638789.png",
+   "page": "items/weapons/greater-twinflame-sword-2924638789.md",
+   "json": "items/weapons/greater-twinflame-sword-2924638789.json"
+  },
+  {
+   "id": 3323951069,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3323951069.png",
+   "page": "items/weapons/greater-twinflame-sword-3323951069.md",
+   "json": "items/weapons/greater-twinflame-sword-3323951069.json"
+  },
+  {
+   "id": 3671319442,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/3671319442.png",
+   "page": "items/weapons/greater-twinflame-sword-3671319442.md",
+   "json": "items/weapons/greater-twinflame-sword-3671319442.json"
+  },
+  {
+   "id": 751194917,
+   "name": "Greater Twinflame Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/751194917.png",
+   "page": "items/weapons/greater-twinflame-sword-751194917.md",
+   "json": "items/weapons/greater-twinflame-sword-751194917.json"
+  },
+  {
+   "id": 1092596290,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1092596290.png",
+   "page": "items/weapons/halescourge-1092596290.md",
+   "json": "items/weapons/halescourge-1092596290.json"
+  },
+  {
+   "id": 2409952376,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2409952376.png",
+   "page": "items/weapons/halescourge-2409952376.md",
+   "json": "items/weapons/halescourge-2409952376.json"
+  },
+  {
+   "id": 3145841208,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3145841208.png",
+   "page": "items/weapons/halescourge-3145841208.md",
+   "json": "items/weapons/halescourge-3145841208.json"
+  },
+  {
+   "id": 3983015116,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3983015116.png",
+   "page": "items/weapons/halescourge-3983015116.md",
+   "json": "items/weapons/halescourge-3983015116.json"
+  },
+  {
+   "id": 558617602,
+   "name": "Halescourge",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/558617602.png",
+   "page": "items/weapons/halescourge-558617602.md",
+   "json": "items/weapons/halescourge-558617602.json"
+  },
+  {
+   "id": 602591868,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/602591868.png",
+   "page": "items/weapons/halescourge-602591868.md",
+   "json": "items/weapons/halescourge-602591868.json"
+  },
+  {
+   "id": 907435246,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/907435246.png",
+   "page": "items/weapons/halescourge-907435246.md",
+   "json": "items/weapons/halescourge-907435246.json"
+  },
+  {
+   "id": 1064940291,
+   "name": "Hammer 2H T5 common 01",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1064940291.png",
+   "page": "items/weapons/hammer-2h-t5-common-01-1064940291.md",
+   "json": "items/weapons/hammer-2h-t5-common-01-1064940291.json"
+  },
+  {
+   "id": 484392245,
+   "name": "Hammer 2H T6 common 01",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/484392245.png",
+   "page": "items/weapons/hammer-2h-t6-common-01-484392245.md",
+   "json": "items/weapons/hammer-2h-t6-common-01-484392245.json"
+  },
+  {
+   "id": 3304320872,
+   "name": "Hangman's Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3304320872.png",
+   "page": "items/weapons/hangman-s-axe-3304320872.md",
+   "json": "items/weapons/hangman-s-axe-3304320872.json"
+  },
+  {
+   "id": 3034847985,
+   "name": "Heavy Club",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3034847985.png",
+   "page": "items/weapons/heavy-club-3034847985.md",
+   "json": "items/weapons/heavy-club-3034847985.json"
+  },
+  {
+   "id": 2109907931,
+   "name": "Heavy Morningstar",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2109907931.png",
+   "page": "items/weapons/heavy-morningstar-2109907931.md",
+   "json": "items/weapons/heavy-morningstar-2109907931.json"
+  },
+  {
+   "id": 3881967409,
+   "name": "Hunter's Bow",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3881967409.png",
+   "page": "items/weapons/hunter-s-bow-3881967409.md",
+   "json": "items/weapons/hunter-s-bow-3881967409.json"
+  },
+  {
+   "id": 4290427358,
+   "name": "Ice Blade",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/4290427358.png",
+   "page": "items/weapons/ice-blade-4290427358.md",
+   "json": "items/weapons/ice-blade-4290427358.json"
+  },
+  {
+   "id": 1457307757,
+   "name": "Ignited Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1457307757.png",
+   "page": "items/weapons/ignited-bow-1457307757.md",
+   "json": "items/weapons/ignited-bow-1457307757.json"
+  },
+  {
+   "id": 3342004247,
+   "name": "Ignited Eagle",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3342004247.png",
+   "page": "items/weapons/ignited-eagle-3342004247.md",
+   "json": "items/weapons/ignited-eagle-3342004247.json"
+  },
+  {
+   "id": 3527909057,
+   "name": "Improvised Bow",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/3527909057.png",
+   "page": "items/weapons/improvised-bow-3527909057.md",
+   "json": "items/weapons/improvised-bow-3527909057.json"
+  },
+  {
+   "id": 1036114942,
+   "name": "Incendiary Ball",
+   "rarity": "Rare",
+   "level": "35",
+   "image": "images/icons/1036114942.png",
+   "page": "items/weapons/incendiary-ball-1036114942.md",
+   "json": "items/weapons/incendiary-ball-1036114942.json"
+  },
+  {
+   "id": 1462961786,
+   "name": "Incendiary Ball",
+   "rarity": "Rare",
+   "level": "35",
+   "image": "images/icons/1462961786.png",
+   "page": "items/weapons/incendiary-ball-1462961786.md",
+   "json": "items/weapons/incendiary-ball-1462961786.json"
+  },
+  {
+   "id": 3566462451,
+   "name": "Infernal Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3566462451.png",
+   "page": "items/weapons/infernal-wand-3566462451.md",
+   "json": "items/weapons/infernal-wand-3566462451.json"
+  },
+  {
+   "id": 102274580,
+   "name": "Iron club",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/102274580.png",
+   "page": "items/weapons/iron-club-102274580.md",
+   "json": "items/weapons/iron-club-102274580.json"
+  },
+  {
+   "id": 1323450933,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1323450933.png",
+   "page": "items/weapons/jezmina-s-apotheosis-1323450933.md",
+   "json": "items/weapons/jezmina-s-apotheosis-1323450933.json"
+  },
+  {
+   "id": 2030714844,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2030714844.png",
+   "page": "items/weapons/jezmina-s-apotheosis-2030714844.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2030714844.json"
+  },
+  {
+   "id": 2509571957,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2509571957.png",
+   "page": "items/weapons/jezmina-s-apotheosis-2509571957.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2509571957.json"
+  },
+  {
+   "id": 2628423562,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2628423562.png",
+   "page": "items/weapons/jezmina-s-apotheosis-2628423562.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2628423562.json"
+  },
+  {
+   "id": 3153911934,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3153911934.png",
+   "page": "items/weapons/jezmina-s-apotheosis-3153911934.md",
+   "json": "items/weapons/jezmina-s-apotheosis-3153911934.json"
+  },
+  {
+   "id": 649877474,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/649877474.png",
+   "page": "items/weapons/jezmina-s-apotheosis-649877474.md",
+   "json": "items/weapons/jezmina-s-apotheosis-649877474.json"
+  },
+  {
+   "id": 1786607643,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1786607643.png",
+   "page": "items/weapons/lesser-twinflame-sword-1786607643.md",
+   "json": "items/weapons/lesser-twinflame-sword-1786607643.json"
+  },
+  {
+   "id": 2487547952,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2487547952.png",
+   "page": "items/weapons/lesser-twinflame-sword-2487547952.md",
+   "json": "items/weapons/lesser-twinflame-sword-2487547952.json"
+  },
+  {
+   "id": 2773595146,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2773595146.png",
+   "page": "items/weapons/lesser-twinflame-sword-2773595146.md",
+   "json": "items/weapons/lesser-twinflame-sword-2773595146.json"
+  },
+  {
+   "id": 4189016694,
+   "name": "Lesser Twinflame Sword",
+   "rarity": "Rare",
+   "level": "1-55",
+   "image": "images/icons/4189016694.png",
+   "page": "items/weapons/lesser-twinflame-sword-4189016694.md",
+   "json": "items/weapons/lesser-twinflame-sword-4189016694.json"
+  },
+  {
+   "id": 119442934,
+   "name": "Lightbound Sword",
+   "rarity": "Rare",
+   "level": "1-55",
+   "image": "images/icons/119442934.png",
+   "page": "items/weapons/lightbound-sword-119442934.md",
+   "json": "items/weapons/lightbound-sword-119442934.json"
+  },
+  {
+   "id": 2427081154,
+   "name": "Lightforged Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2427081154.png",
+   "page": "items/weapons/lightforged-axe-2427081154.md",
+   "json": "items/weapons/lightforged-axe-2427081154.json"
+  },
+  {
+   "id": 327157552,
+   "name": "Long Bow",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/327157552.png",
+   "page": "items/weapons/long-bow-327157552.md",
+   "json": "items/weapons/long-bow-327157552.json"
+  },
+  {
+   "id": 1237806794,
+   "name": "Lord Vorgoth's Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1237806794.png",
+   "page": "items/weapons/lord-vorgoth-s-sword-1237806794.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-1237806794.json"
+  },
+  {
+   "id": 1367103932,
+   "name": "Lord Vorgoth's Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1367103932.png",
+   "page": "items/weapons/lord-vorgoth-s-sword-1367103932.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-1367103932.json"
+  },
+  {
+   "id": 4073230411,
+   "name": "Lord Vorgoth's Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/4073230411.png",
+   "page": "items/weapons/lord-vorgoth-s-sword-4073230411.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-4073230411.json"
+  },
+  {
+   "id": 1019461234,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1019461234.png",
+   "page": "items/weapons/lupa-s-scalper-1019461234.md",
+   "json": "items/weapons/lupa-s-scalper-1019461234.json"
+  },
+  {
+   "id": 2387592374,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2387592374.png",
+   "page": "items/weapons/lupa-s-scalper-2387592374.md",
+   "json": "items/weapons/lupa-s-scalper-2387592374.json"
+  },
+  {
+   "id": 2432243778,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2432243778.png",
+   "page": "items/weapons/lupa-s-scalper-2432243778.md",
+   "json": "items/weapons/lupa-s-scalper-2432243778.json"
+  },
+  {
+   "id": 3548335929,
+   "name": "Lupa's scalper",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3548335929.png",
+   "page": "items/weapons/lupa-s-scalper-3548335929.md",
+   "json": "items/weapons/lupa-s-scalper-3548335929.json"
+  },
+  {
+   "id": 552284259,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/552284259.png",
+   "page": "items/weapons/lupa-s-scalper-552284259.md",
+   "json": "items/weapons/lupa-s-scalper-552284259.json"
+  },
+  {
+   "id": 863684883,
+   "name": "Lupa's scalper",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/863684883.png",
+   "page": "items/weapons/lupa-s-scalper-863684883.md",
+   "json": "items/weapons/lupa-s-scalper-863684883.json"
+  },
+  {
+   "id": 2284373099,
+   "name": "Mace-like Club",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2284373099.png",
+   "page": "items/weapons/mace-like-club-2284373099.md",
+   "json": "items/weapons/mace-like-club-2284373099.json"
+  },
+  {
+   "id": 225230490,
+   "name": "Major Arcana",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/225230490.png",
+   "page": "items/weapons/major-arcana-225230490.md",
+   "json": "items/weapons/major-arcana-225230490.json"
+  },
+  {
+   "id": 2832157981,
+   "name": "Meat Chopper",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2832157981.png",
+   "page": "items/weapons/meat-chopper-2832157981.md",
+   "json": "items/weapons/meat-chopper-2832157981.json"
+  },
+  {
+   "id": 940748477,
+   "name": "Ornamented Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/940748477.png",
+   "page": "items/weapons/ornamented-axe-940748477.md",
+   "json": "items/weapons/ornamented-axe-940748477.json"
+  },
+  {
+   "id": 3025766089,
+   "name": "Ornamented Battle Axe",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3025766089.png",
+   "page": "items/weapons/ornamented-battle-axe-3025766089.md",
+   "json": "items/weapons/ornamented-battle-axe-3025766089.json"
+  },
+  {
+   "id": 476811263,
+   "name": "Ornated Wooden Bow",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/476811263.png",
+   "page": "items/weapons/ornated-wooden-bow-476811263.md",
+   "json": "items/weapons/ornated-wooden-bow-476811263.json"
+  },
+  {
+   "id": 3145568607,
+   "name": "Pheromone Shroud",
+   "rarity": "Uncommon",
+   "level": "20",
+   "image": "images/icons/3145568607.png",
+   "page": "items/weapons/pheromone-shroud-3145568607.md",
+   "json": "items/weapons/pheromone-shroud-3145568607.json"
+  },
+  {
+   "id": 3247058638,
+   "name": "Philipp Buoyancy Platform",
+   "rarity": "Rare",
+   "level": "35",
+   "image": "images/icons/3247058638.png",
+   "page": "items/weapons/philipp-buoyancy-platform-3247058638.md",
+   "json": "items/weapons/philipp-buoyancy-platform-3247058638.json"
+  },
+  {
+   "id": 1030886695,
+   "name": "Proto Bone-Bender",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1030886695.png",
+   "page": "items/weapons/proto-bone-bender-1030886695.md",
+   "json": "items/weapons/proto-bone-bender-1030886695.json"
+  },
+  {
+   "id": 62683222,
+   "name": "Proto Bone-Bender",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/62683222.png",
+   "page": "items/weapons/proto-bone-bender-62683222.md",
+   "json": "items/weapons/proto-bone-bender-62683222.json"
+  },
+  {
+   "id": 3026017602,
+   "name": "Provisional Scythe",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3026017602.png",
+   "page": "items/weapons/provisional-scythe-3026017602.md",
+   "json": "items/weapons/provisional-scythe-3026017602.json"
+  },
+  {
+   "id": 531354159,
+   "name": "Resin Torch",
+   "rarity": "Common",
+   "level": "2",
+   "image": "images/icons/531354159.png",
+   "page": "items/weapons/resin-torch-531354159.md",
+   "json": "items/weapons/resin-torch-531354159.json"
+  },
+  {
+   "id": 3534558679,
+   "name": "Righteous Club",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3534558679.png",
+   "page": "items/weapons/righteous-club-3534558679.md",
+   "json": "items/weapons/righteous-club-3534558679.json"
+  },
+  {
+   "id": 2515033100,
+   "name": "Root Staff",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2515033100.png",
+   "page": "items/weapons/root-staff-2515033100.md",
+   "json": "items/weapons/root-staff-2515033100.json"
+  },
+  {
+   "id": 1181594089,
+   "name": "Rusty Short Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1181594089.png",
+   "page": "items/weapons/rusty-short-sword-1181594089.md",
+   "json": "items/weapons/rusty-short-sword-1181594089.json"
+  },
+  {
+   "id": 729180175,
+   "name": "Rusty Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/729180175.png",
+   "page": "items/weapons/rusty-sword-729180175.md",
+   "json": "items/weapons/rusty-sword-729180175.json"
+  },
+  {
+   "id": 1072446832,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/1072446832.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-1072446832.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1072446832.json"
+  },
+  {
+   "id": 1155686002,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1155686002.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-1155686002.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1155686002.json"
+  },
+  {
+   "id": 1916010187,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1916010187.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-1916010187.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-1916010187.json"
+  },
+  {
+   "id": 2860747780,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/2860747780.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-2860747780.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-2860747780.json"
+  },
+  {
+   "id": 3108868150,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3108868150.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-3108868150.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-3108868150.json"
+  },
+  {
+   "id": 3231907188,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3231907188.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-3231907188.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-3231907188.json"
+  },
+  {
+   "id": 764137977,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/764137977.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-764137977.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-764137977.json"
+  },
+  {
+   "id": 876348272,
+   "name": "Sacrificial Vukah Dagger",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/876348272.png",
+   "page": "items/weapons/sacrificial-vukah-dagger-876348272.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-876348272.json"
+  },
+  {
+   "id": 2386596106,
+   "name": "Scavenger Miner Axe",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2386596106.png",
+   "page": "items/weapons/scavenger-miner-axe-2386596106.md",
+   "json": "items/weapons/scavenger-miner-axe-2386596106.json"
+  },
+  {
+   "id": 1275936258,
+   "name": "Scrappy Sword",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1275936258.png",
+   "page": "items/weapons/scrappy-sword-1275936258.md",
+   "json": "items/weapons/scrappy-sword-1275936258.json"
+  },
+  {
+   "id": 3847678429,
+   "name": "Sharpened Broadsword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3847678429.png",
+   "page": "items/weapons/sharpened-broadsword-3847678429.md",
+   "json": "items/weapons/sharpened-broadsword-3847678429.json"
+  },
+  {
+   "id": 1157288032,
+   "name": "Shepard's Staff",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1157288032.png",
+   "page": "items/weapons/shepard-s-staff-1157288032.md",
+   "json": "items/weapons/shepard-s-staff-1157288032.json"
+  },
+  {
+   "id": 3371766557,
+   "name": "Sheperd's Lighting",
+   "rarity": "Rare",
+   "level": "1-55",
+   "image": "images/icons/3371766557.png",
+   "page": "items/weapons/sheperd-s-lighting-3371766557.md",
+   "json": "items/weapons/sheperd-s-lighting-3371766557.json"
+  },
+  {
+   "id": 3540633303,
+   "name": "Short Bow",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3540633303.png",
+   "page": "items/weapons/short-bow-3540633303.md",
+   "json": "items/weapons/short-bow-3540633303.json"
+  },
+  {
+   "id": 2757862595,
+   "name": "Short Sword",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2757862595.png",
+   "page": "items/weapons/short-sword-2757862595.md",
+   "json": "items/weapons/short-sword-2757862595.json"
+  },
+  {
+   "id": 3729741852,
+   "name": "Shroud Corrupted Hammer",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3729741852.png",
+   "page": "items/weapons/shroud-corrupted-hammer-3729741852.md",
+   "json": "items/weapons/shroud-corrupted-hammer-3729741852.json"
+  },
+  {
+   "id": 1947635377,
+   "name": "Shroud Lair Axe",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1947635377.png",
+   "page": "items/weapons/shroud-lair-axe-1947635377.md",
+   "json": "items/weapons/shroud-lair-axe-1947635377.json"
+  },
+  {
+   "id": 886466633,
+   "name": "Shroud Lair Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/886466633.png",
+   "page": "items/weapons/shroud-lair-bow-886466633.md",
+   "json": "items/weapons/shroud-lair-bow-886466633.json"
+  },
+  {
+   "id": 2796408306,
+   "name": "Shroud Lair Daggers",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2796408306.png",
+   "page": "items/weapons/shroud-lair-daggers-2796408306.md",
+   "json": "items/weapons/shroud-lair-daggers-2796408306.json"
+  },
+  {
+   "id": 2151380048,
+   "name": "Shroud Lair Greatsword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2151380048.png",
+   "page": "items/weapons/shroud-lair-greatsword-2151380048.md",
+   "json": "items/weapons/shroud-lair-greatsword-2151380048.json"
+  },
+  {
+   "id": 4071675176,
+   "name": "Shroud Lair Hammer",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/4071675176.png",
+   "page": "items/weapons/shroud-lair-hammer-4071675176.md",
+   "json": "items/weapons/shroud-lair-hammer-4071675176.json"
+  },
+  {
+   "id": 2604232739,
+   "name": "Shroud Lair Mace",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/2604232739.png",
+   "page": "items/weapons/shroud-lair-mace-2604232739.md",
+   "json": "items/weapons/shroud-lair-mace-2604232739.json"
+  },
+  {
+   "id": 1404050036,
+   "name": "Shroud Lair Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1404050036.png",
+   "page": "items/weapons/shroud-lair-staff-1404050036.md",
+   "json": "items/weapons/shroud-lair-staff-1404050036.json"
+  },
+  {
+   "id": 66688434,
+   "name": "Shroud Lair Sword",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/66688434.png",
+   "page": "items/weapons/shroud-lair-sword-66688434.md",
+   "json": "items/weapons/shroud-lair-sword-66688434.json"
+  },
+  {
+   "id": 1181407134,
+   "name": "Shroud Lair Wand",
+   "rarity": "Uncommon",
+   "level": "1-55",
+   "image": "images/icons/1181407134.png",
+   "page": "items/weapons/shroud-lair-wand-1181407134.md",
+   "json": "items/weapons/shroud-lair-wand-1181407134.json"
+  },
+  {
+   "id": 1069361064,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1069361064.png",
+   "page": "items/weapons/shroud-weaver-1069361064.md",
+   "json": "items/weapons/shroud-weaver-1069361064.json"
+  },
+  {
+   "id": 1343375854,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1343375854.png",
+   "page": "items/weapons/shroud-weaver-1343375854.md",
+   "json": "items/weapons/shroud-weaver-1343375854.json"
+  },
+  {
+   "id": 1621727293,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1621727293.png",
+   "page": "items/weapons/shroud-weaver-1621727293.md",
+   "json": "items/weapons/shroud-weaver-1621727293.json"
+  },
+  {
+   "id": 3192770947,
+   "name": "Shroud Weaver",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3192770947.png",
+   "page": "items/weapons/shroud-weaver-3192770947.md",
+   "json": "items/weapons/shroud-weaver-3192770947.json"
+  },
+  {
+   "id": 3570989791,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3570989791.png",
+   "page": "items/weapons/shroud-weaver-3570989791.md",
+   "json": "items/weapons/shroud-weaver-3570989791.json"
+  },
+  {
+   "id": 1210271138,
+   "name": "Simple Bone Staff",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/1210271138.png",
+   "page": "items/weapons/simple-bone-staff-1210271138.md",
+   "json": "items/weapons/simple-bone-staff-1210271138.json"
+  },
+  {
+   "id": 1693828837,
+   "name": "Simple Fire Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1693828837.png",
+   "page": "items/weapons/simple-fire-wand-1693828837.md",
+   "json": "items/weapons/simple-fire-wand-1693828837.json"
+  },
+  {
+   "id": 4110381914,
+   "name": "Six Edged Mace",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/4110381914.png",
+   "page": "items/weapons/six-edged-mace-4110381914.md",
+   "json": "items/weapons/six-edged-mace-4110381914.json"
+  },
+  {
+   "id": 3124613974,
+   "name": "Skull Companion",
+   "rarity": "Common",
+   "level": "15",
+   "image": "images/icons/3124613974.png",
+   "page": "items/weapons/skull-companion-3124613974.md",
+   "json": "items/weapons/skull-companion-3124613974.json"
+  },
+  {
+   "id": 1105258830,
+   "name": "Skull companion Level 15",
+   "rarity": "Uncommon",
+   "level": "20",
+   "image": "images/icons/1105258830.png",
+   "page": "items/weapons/skull-companion-level-15-1105258830.md",
+   "json": "items/weapons/skull-companion-level-15-1105258830.json"
+  },
+  {
+   "id": 305542871,
+   "name": "Skull companion Level 20",
+   "rarity": "Rare",
+   "level": "25",
+   "image": "images/icons/305542871.png",
+   "page": "items/weapons/skull-companion-level-20-305542871.md",
+   "json": "items/weapons/skull-companion-level-20-305542871.json"
+  },
+  {
+   "id": 1567174048,
+   "name": "Skull Summoning Vessel",
+   "rarity": "Epic",
+   "level": "30",
+   "image": "images/icons/1567174048.png",
+   "page": "items/weapons/skull-summoning-vessel-1567174048.md",
+   "json": "items/weapons/skull-summoning-vessel-1567174048.json"
+  },
+  {
+   "id": 1596935538,
+   "name": "Skull Summoning Vessel",
+   "rarity": "Legendary",
+   "level": "40",
+   "image": "images/icons/1596935538.png",
+   "page": "items/weapons/skull-summoning-vessel-1596935538.md",
+   "json": "items/weapons/skull-summoning-vessel-1596935538.json"
+  },
+  {
+   "id": 4084762910,
+   "name": "Snowball",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4084762910.png",
+   "page": "items/weapons/snowball-4084762910.md",
+   "json": "items/weapons/snowball-4084762910.json"
+  },
+  {
+   "id": 1166996760,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1166996760.png",
+   "page": "items/weapons/soothsayer-1166996760.md",
+   "json": "items/weapons/soothsayer-1166996760.json"
+  },
+  {
+   "id": 1716859550,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/1716859550.png",
+   "page": "items/weapons/soothsayer-1716859550.md",
+   "json": "items/weapons/soothsayer-1716859550.json"
+  },
+  {
+   "id": 2260780998,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2260780998.png",
+   "page": "items/weapons/soothsayer-2260780998.md",
+   "json": "items/weapons/soothsayer-2260780998.json"
+  },
+  {
+   "id": 2385920638,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2385920638.png",
+   "page": "items/weapons/soothsayer-2385920638.md",
+   "json": "items/weapons/soothsayer-2385920638.json"
+  },
+  {
+   "id": 2528480161,
+   "name": "Soothsayer",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2528480161.png",
+   "page": "items/weapons/soothsayer-2528480161.md",
+   "json": "items/weapons/soothsayer-2528480161.json"
+  },
+  {
+   "id": 2671987501,
+   "name": "Soothsayer",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2671987501.png",
+   "page": "items/weapons/soothsayer-2671987501.md",
+   "json": "items/weapons/soothsayer-2671987501.json"
+  },
+  {
+   "id": 1278504043,
+   "name": "Spearfisher Bow",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1278504043.png",
+   "page": "items/weapons/spearfisher-bow-1278504043.md",
+   "json": "items/weapons/spearfisher-bow-1278504043.json"
+  },
+  {
+   "id": 2187973877,
+   "name": "Spearfisher Bow",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2187973877.png",
+   "page": "items/weapons/spearfisher-bow-2187973877.md",
+   "json": "items/weapons/spearfisher-bow-2187973877.json"
+  },
+  {
+   "id": 1985879197,
+   "name": "Spiked Club",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/1985879197.png",
+   "page": "items/weapons/spiked-club-1985879197.md",
+   "json": "items/weapons/spiked-club-1985879197.json"
+  },
+  {
+   "id": 3536356032,
+   "name": "Spiritual Cane",
+   "rarity": "Common",
+   "level": "5",
+   "image": "images/icons/3536356032.png",
+   "page": "items/weapons/spiritual-cane-3536356032.md",
+   "json": "items/weapons/spiritual-cane-3536356032.json"
+  },
+  {
+   "id": 2490862466,
+   "name": "Sun Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2490862466.png",
+   "page": "items/weapons/sun-bow-2490862466.md",
+   "json": "items/weapons/sun-bow-2490862466.json"
+  },
+  {
+   "id": 3936779840,
+   "name": "Sun Hammer",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3936779840.png",
+   "page": "items/weapons/sun-hammer-3936779840.md",
+   "json": "items/weapons/sun-hammer-3936779840.json"
+  },
+  {
+   "id": 2667317119,
+   "name": "Sunbeam",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2667317119.png",
+   "page": "items/weapons/sunbeam-2667317119.md",
+   "json": "items/weapons/sunbeam-2667317119.json"
+  },
+  {
+   "id": 3533038097,
+   "name": "Sword of restoration",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3533038097.png",
+   "page": "items/weapons/sword-of-restoration-3533038097.md",
+   "json": "items/weapons/sword-of-restoration-3533038097.json"
+  },
+  {
+   "id": 4139475742,
+   "name": "Sword of Ruin",
+   "rarity": "Rare",
+   "level": "1-55",
+   "image": "images/icons/4139475742.png",
+   "page": "items/weapons/sword-of-ruin-4139475742.md",
+   "json": "items/weapons/sword-of-ruin-4139475742.json"
+  },
+  {
+   "id": 1276754499,
+   "name": "T1 lore wand",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/1276754499.png",
+   "page": "items/weapons/t1-lore-wand-1276754499.md",
+   "json": "items/weapons/t1-lore-wand-1276754499.json"
+  },
+  {
+   "id": 14483003,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/14483003.png",
+   "page": "items/weapons/t1-lore-wand-14483003.md",
+   "json": "items/weapons/t1-lore-wand-14483003.json"
+  },
+  {
+   "id": 2195022120,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/2195022120.png",
+   "page": "items/weapons/t1-lore-wand-2195022120.md",
+   "json": "items/weapons/t1-lore-wand-2195022120.json"
+  },
+  {
+   "id": 3070173423,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3070173423.png",
+   "page": "items/weapons/t1-lore-wand-3070173423.md",
+   "json": "items/weapons/t1-lore-wand-3070173423.json"
+  },
+  {
+   "id": 3701660969,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/3701660969.png",
+   "page": "items/weapons/t1-lore-wand-3701660969.md",
+   "json": "items/weapons/t1-lore-wand-3701660969.json"
+  },
+  {
+   "id": 381008328,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/381008328.png",
+   "page": "items/weapons/t1-lore-wand-381008328.md",
+   "json": "items/weapons/t1-lore-wand-381008328.json"
+  },
+  {
+   "id": 397149581,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/397149581.png",
+   "page": "items/weapons/t1-lore-wand-397149581.md",
+   "json": "items/weapons/t1-lore-wand-397149581.json"
+  },
+  {
+   "id": 9995480,
+   "name": "T1 lore wand",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/9995480.png",
+   "page": "items/weapons/t1-lore-wand-9995480.md",
+   "json": "items/weapons/t1-lore-wand-9995480.json"
+  },
+  {
+   "id": 1792316220,
+   "name": "T2 Epic Fire Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1792316220.png",
+   "page": "items/weapons/t2-epic-fire-wand-1792316220.md",
+   "json": "items/weapons/t2-epic-fire-wand-1792316220.json"
+  },
+  {
+   "id": 1595482967,
+   "name": "T2 Epic Ice Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1595482967.png",
+   "page": "items/weapons/t2-epic-ice-wand-1595482967.md",
+   "json": "items/weapons/t2-epic-ice-wand-1595482967.json"
+  },
+  {
+   "id": 2671932055,
+   "name": "T2 GreatswordEpic 02",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2671932055.png",
+   "page": "items/weapons/t2-greatswordepic-02-2671932055.md",
+   "json": "items/weapons/t2-greatswordepic-02-2671932055.json"
+  },
+  {
+   "id": 4203062243,
+   "name": "T3 Epic Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/4203062243.png",
+   "page": "items/weapons/t3-epic-bow-4203062243.md",
+   "json": "items/weapons/t3-epic-bow-4203062243.json"
+  },
+  {
+   "id": 3174763756,
+   "name": "T3 Epic Fog Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3174763756.png",
+   "page": "items/weapons/t3-epic-fog-wand-3174763756.md",
+   "json": "items/weapons/t3-epic-fog-wand-3174763756.json"
+  },
+  {
+   "id": 4120929581,
+   "name": "T3 Epic Ice Lightning Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/4120929581.png",
+   "page": "items/weapons/t3-epic-ice-lightning-wand-4120929581.md",
+   "json": "items/weapons/t3-epic-ice-lightning-wand-4120929581.json"
+  },
+  {
+   "id": 4171383651,
+   "name": "T3 Fire Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/4171383651.png",
+   "page": "items/weapons/t3-fire-wand-4171383651.md",
+   "json": "items/weapons/t3-fire-wand-4171383651.json"
+  },
+  {
+   "id": 2568349283,
+   "name": "T4 Goat Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2568349283.png",
+   "page": "items/weapons/t4-goat-wand-2568349283.md",
+   "json": "items/weapons/t4-goat-wand-2568349283.json"
+  },
+  {
+   "id": 2305089639,
+   "name": "T4 Goat Wand epic",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2305089639.png",
+   "page": "items/weapons/t4-goat-wand-epic-2305089639.md",
+   "json": "items/weapons/t4-goat-wand-epic-2305089639.json"
+  },
+  {
+   "id": 69105879,
+   "name": "T4 Greatsword Epic 02",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/69105879.png",
+   "page": "items/weapons/t4-greatsword-epic-02-69105879.md",
+   "json": "items/weapons/t4-greatsword-epic-02-69105879.json"
+  },
+  {
+   "id": 2524297201,
+   "name": "T4 Sun Wand",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2524297201.png",
+   "page": "items/weapons/t4-sun-wand-2524297201.md",
+   "json": "items/weapons/t4-sun-wand-2524297201.json"
+  },
+  {
+   "id": 3618171376,
+   "name": "Throwing Knives",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3618171376.png",
+   "page": "items/weapons/throwing-knives-3618171376.md",
+   "json": "items/weapons/throwing-knives-3618171376.json"
+  },
+  {
+   "id": 4131716794,
+   "name": "Throwing Knives",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/4131716794.png",
+   "page": "items/weapons/throwing-knives-4131716794.md",
+   "json": "items/weapons/throwing-knives-4131716794.json"
+  },
+  {
+   "id": 890590294,
+   "name": "Throwing Knives",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/890590294.png",
+   "page": "items/weapons/throwing-knives-890590294.md",
+   "json": "items/weapons/throwing-knives-890590294.json"
+  },
+  {
+   "id": 913533703,
+   "name": "Throwing Knives",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/913533703.png",
+   "page": "items/weapons/throwing-knives-913533703.md",
+   "json": "items/weapons/throwing-knives-913533703.json"
+  },
+  {
+   "id": 1094447119,
+   "name": "Tomahawk",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1094447119.png",
+   "page": "items/weapons/tomahawk-1094447119.md",
+   "json": "items/weapons/tomahawk-1094447119.json"
+  },
+  {
+   "id": 3474096535,
+   "name": "Torch",
+   "rarity": "Common",
+   "level": "1",
+   "image": "images/icons/3474096535.png",
+   "page": "items/weapons/torch-3474096535.md",
+   "json": "items/weapons/torch-3474096535.json"
+  },
+  {
+   "id": 3816626611,
+   "name": "TX Greatsword HollowHalls 01",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3816626611.png",
+   "page": "items/weapons/tx-greatsword-hollowhalls-01-3816626611.md",
+   "json": "items/weapons/tx-greatsword-hollowhalls-01-3816626611.json"
+  },
+  {
+   "id": 2822724630,
+   "name": "TX Greatsword HollowHalls 02",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2822724630.png",
+   "page": "items/weapons/tx-greatsword-hollowhalls-02-2822724630.md",
+   "json": "items/weapons/tx-greatsword-hollowhalls-02-2822724630.json"
+  },
+  {
+   "id": 3667811355,
+   "name": "Unarmed Fists",
+   "rarity": "Legendary",
+   "level": "1",
+   "image": "images/icons/3667811355.png",
+   "page": "items/weapons/unarmed-fists-3667811355.md",
+   "json": "items/weapons/unarmed-fists-3667811355.json"
+  },
+  {
+   "id": 1729196030,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/1729196030.png",
+   "page": "items/weapons/valor-heart-dagger-1729196030.md",
+   "json": "items/weapons/valor-heart-dagger-1729196030.json"
+  },
+  {
+   "id": 1873675161,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1873675161.png",
+   "page": "items/weapons/valor-heart-dagger-1873675161.md",
+   "json": "items/weapons/valor-heart-dagger-1873675161.json"
+  },
+  {
+   "id": 1972844940,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1972844940.png",
+   "page": "items/weapons/valor-heart-dagger-1972844940.md",
+   "json": "items/weapons/valor-heart-dagger-1972844940.json"
+  },
+  {
+   "id": 2700871988,
+   "name": "Valor Heart Dagger",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2700871988.png",
+   "page": "items/weapons/valor-heart-dagger-2700871988.md",
+   "json": "items/weapons/valor-heart-dagger-2700871988.json"
+  },
+  {
+   "id": 2837156111,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2837156111.png",
+   "page": "items/weapons/valor-heart-dagger-2837156111.md",
+   "json": "items/weapons/valor-heart-dagger-2837156111.json"
+  },
+  {
+   "id": 3096148752,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3096148752.png",
+   "page": "items/weapons/valor-heart-dagger-3096148752.md",
+   "json": "items/weapons/valor-heart-dagger-3096148752.json"
+  },
+  {
+   "id": 3717136224,
+   "name": "Valor Heart Dagger",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3717136224.png",
+   "page": "items/weapons/valor-heart-dagger-3717136224.md",
+   "json": "items/weapons/valor-heart-dagger-3717136224.json"
+  },
+  {
+   "id": 2749653597,
+   "name": "Vaporous Staff",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2749653597.png",
+   "page": "items/weapons/vaporous-staff-2749653597.md",
+   "json": "items/weapons/vaporous-staff-2749653597.json"
+  },
+  {
+   "id": 1640849157,
+   "name": "Vigor Fogbound Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1640849157.png",
+   "page": "items/weapons/vigor-fogbound-bow-1640849157.md",
+   "json": "items/weapons/vigor-fogbound-bow-1640849157.json"
+  },
+  {
+   "id": 105288636,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/105288636.png",
+   "page": "items/weapons/wailing-blade-105288636.md",
+   "json": "items/weapons/wailing-blade-105288636.json"
+  },
+  {
+   "id": 1919278140,
+   "name": "Wailing Blade",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1919278140.png",
+   "page": "items/weapons/wailing-blade-1919278140.md",
+   "json": "items/weapons/wailing-blade-1919278140.json"
+  },
+  {
+   "id": 197300979,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/197300979.png",
+   "page": "items/weapons/wailing-blade-197300979.md",
+   "json": "items/weapons/wailing-blade-197300979.json"
+  },
+  {
+   "id": 246702506,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/246702506.png",
+   "page": "items/weapons/wailing-blade-246702506.md",
+   "json": "items/weapons/wailing-blade-246702506.json"
+  },
+  {
+   "id": 3265226455,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "6",
+   "image": "images/icons/3265226455.png",
+   "page": "items/weapons/wailing-blade-3265226455.md",
+   "json": "items/weapons/wailing-blade-3265226455.json"
+  },
+  {
+   "id": 4253086109,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/4253086109.png",
+   "page": "items/weapons/wailing-blade-4253086109.md",
+   "json": "items/weapons/wailing-blade-4253086109.json"
+  },
+  {
+   "id": 456631486,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/456631486.png",
+   "page": "items/weapons/wailing-blade-456631486.md",
+   "json": "items/weapons/wailing-blade-456631486.json"
+  },
+  {
+   "id": 905080090,
+   "name": "Wailing Blade",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/905080090.png",
+   "page": "items/weapons/wailing-blade-905080090.md",
+   "json": "items/weapons/wailing-blade-905080090.json"
+  },
+  {
+   "id": 1111770772,
+   "name": "Wand Of The Apprentice",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/1111770772.png",
+   "page": "items/weapons/wand-of-the-apprentice-1111770772.md",
+   "json": "items/weapons/wand-of-the-apprentice-1111770772.json"
+  },
+  {
+   "id": 3270175842,
+   "name": "Wand T5 epic 01",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/3270175842.png",
+   "page": "items/weapons/wand-t5-epic-01-3270175842.md",
+   "json": "items/weapons/wand-t5-epic-01-3270175842.json"
+  },
+  {
+   "id": 2198697693,
+   "name": "Wand T5 epic 03",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2198697693.png",
+   "page": "items/weapons/wand-t5-epic-03-2198697693.md",
+   "json": "items/weapons/wand-t5-epic-03-2198697693.json"
+  },
+  {
+   "id": 1529443326,
+   "name": "Water Bomb",
+   "rarity": "Common",
+   "level": "10",
+   "image": "images/icons/1529443326.png",
+   "page": "items/weapons/water-bomb-1529443326.md",
+   "json": "items/weapons/water-bomb-1529443326.json"
+  },
+  {
+   "id": 3913483832,
+   "name": "Wax Torch",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/3913483832.png",
+   "page": "items/weapons/wax-torch-3913483832.md",
+   "json": "items/weapons/wax-torch-3913483832.json"
+  },
+  {
+   "id": 944519165,
+   "name": "Wolf Bow",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/944519165.png",
+   "page": "items/weapons/wolf-bow-944519165.md",
+   "json": "items/weapons/wolf-bow-944519165.json"
+  },
+  {
+   "id": 1676088364,
+   "name": "Wolf Club",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1676088364.png",
+   "page": "items/weapons/wolf-club-1676088364.md",
+   "json": "items/weapons/wolf-club-1676088364.json"
+  },
+  {
+   "id": 3775746254,
+   "name": "Wolf's Claw",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3775746254.png",
+   "page": "items/weapons/wolf-s-claw-3775746254.md",
+   "json": "items/weapons/wolf-s-claw-3775746254.json"
+  },
+  {
+   "id": 2264411387,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2264411387.png",
+   "page": "items/weapons/wolf-s-hydra-2264411387.md",
+   "json": "items/weapons/wolf-s-hydra-2264411387.json"
+  },
+  {
+   "id": 2829010645,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2829010645.png",
+   "page": "items/weapons/wolf-s-hydra-2829010645.md",
+   "json": "items/weapons/wolf-s-hydra-2829010645.json"
+  },
+  {
+   "id": 2875621972,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2875621972.png",
+   "page": "items/weapons/wolf-s-hydra-2875621972.md",
+   "json": "items/weapons/wolf-s-hydra-2875621972.json"
+  },
+  {
+   "id": 2894102737,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2894102737.png",
+   "page": "items/weapons/wolf-s-hydra-2894102737.md",
+   "json": "items/weapons/wolf-s-hydra-2894102737.json"
+  },
+  {
+   "id": 4103969369,
+   "name": "Wolf's Hydra",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/4103969369.png",
+   "page": "items/weapons/wolf-s-hydra-4103969369.md",
+   "json": "items/weapons/wolf-s-hydra-4103969369.json"
+  },
+  {
+   "id": 544559006,
+   "name": "Wolf's Hydra",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/544559006.png",
+   "page": "items/weapons/wolf-s-hydra-544559006.md",
+   "json": "items/weapons/wolf-s-hydra-544559006.json"
+  },
+  {
+   "id": 2770415595,
+   "name": "Wolf's Teeth",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/2770415595.png",
+   "page": "items/weapons/wolf-s-teeth-2770415595.md",
+   "json": "items/weapons/wolf-s-teeth-2770415595.json"
+  },
+  {
+   "id": 979851343,
+   "name": "Wooden Club",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/979851343.png",
+   "page": "items/weapons/wooden-club-979851343.md",
+   "json": "items/weapons/wooden-club-979851343.json"
+  },
+  {
+   "id": 3623508713,
+   "name": "Wooden Tooth",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3623508713.png",
+   "page": "items/weapons/wooden-tooth-3623508713.md",
+   "json": "items/weapons/wooden-tooth-3623508713.json"
+  }
+ ]
+}

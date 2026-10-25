@@ -1,0 +1,35 @@
+{
+ "name": "T4 Rogue Helmet",
+ "category": "Equipment",
+ "image": "images/icons/583285715.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 107717902,
+   "name": "T4 Rogue Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/107717902.png",
+   "page": "items/equipment/t4-rogue-helmet-107717902.md",
+   "json": "items/equipment/t4-rogue-helmet-107717902.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 583285715,
+   "name": "T4 Rogue Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/583285715.png",
+   "page": "items/equipment/t4-rogue-helmet-583285715.md",
+   "json": "items/equipment/t4-rogue-helmet-583285715.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-rogue-helmet.md"
+}

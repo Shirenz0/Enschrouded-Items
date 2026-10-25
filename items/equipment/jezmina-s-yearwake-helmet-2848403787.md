@@ -25,4 +25,4 @@ Jezmina's Yearwake helmet desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](jezmina-s-yearwake-helmet-2848403787.json)

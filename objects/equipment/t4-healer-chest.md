@@ -17,4 +17,4 @@ An illustrious garb which almost shines brighter then the wearer's spirit.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-healer-chest.json)

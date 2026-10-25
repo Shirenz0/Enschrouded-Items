@@ -21,4 +21,4 @@ Find all Deluxe Edition items in this chest.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](deluxe-edition-items-3432840465.json)

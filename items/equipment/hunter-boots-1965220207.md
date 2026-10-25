@@ -27,4 +27,4 @@ Simple boots for hardworking folk.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](hunter-boots-1965220207.json)

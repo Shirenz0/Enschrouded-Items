@@ -1,0 +1,501 @@
+{
+ "id": 4109728689,
+ "name": "Resin",
+ "internalName": "Material_T1_Resin",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/4109728689.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The protecting juice of trees has many functions. First and foremost, serving the cause of the trees!",
+ "lore": null,
+ "whereToFind": "Trees, mainly stumps and red-leaved trees",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2239380894,
+   "name": "Wisp of Light",
+   "page": "items/consumables/wisp-of-light-2239380894.md",
+   "json": "items/consumables/wisp-of-light-2239380894.json"
+  },
+  {
+   "id": 2401631770,
+   "name": "T0 Fire Bolt I",
+   "page": "items/ammunition/t0-fire-bolt-i-2401631770.md",
+   "json": "items/ammunition/t0-fire-bolt-i-2401631770.json"
+  },
+  {
+   "id": 875842012,
+   "name": "T1 Fire Bolt II",
+   "page": "items/ammunition/t1-fire-bolt-ii-875842012.md",
+   "json": "items/ammunition/t1-fire-bolt-ii-875842012.json"
+  },
+  {
+   "id": 1790474262,
+   "name": "T2 Fire Bolt III",
+   "page": "items/ammunition/t2-fire-bolt-iii-1790474262.md",
+   "json": "items/ammunition/t2-fire-bolt-iii-1790474262.json"
+  },
+  {
+   "id": 2583959345,
+   "name": "T6 Fire Bolt VII",
+   "page": "items/ammunition/t6-fire-bolt-vii-2583959345.md",
+   "json": "items/ammunition/t6-fire-bolt-vii-2583959345.json"
+  },
+  {
+   "id": 381093769,
+   "name": "T7 Fire Bolt VIII",
+   "page": "items/ammunition/t7-fire-bolt-viii-381093769.md",
+   "json": "items/ammunition/t7-fire-bolt-viii-381093769.json"
+  },
+  {
+   "id": 1356876810,
+   "name": "T5 Fireball III",
+   "page": "items/ammunition/t5-fireball-iii-1356876810.md",
+   "json": "items/ammunition/t5-fireball-iii-1356876810.json"
+  },
+  {
+   "id": 1833734179,
+   "name": "T2 Fireball II",
+   "page": "items/ammunition/t2-fireball-ii-1833734179.md",
+   "json": "items/ammunition/t2-fireball-ii-1833734179.json"
+  },
+  {
+   "id": 3918049792,
+   "name": "T1 Fireball I",
+   "page": "items/ammunition/t1-fireball-i-3918049792.md",
+   "json": "items/ammunition/t1-fireball-i-3918049792.json"
+  },
+  {
+   "id": 901722888,
+   "name": "T2 Pillar of Flames I",
+   "page": "items/ammunition/t2-pillar-of-flames-i-901722888.md",
+   "json": "items/ammunition/t2-pillar-of-flames-i-901722888.json"
+  },
+  {
+   "id": 1048548069,
+   "name": "T2 Chain Lightning I",
+   "page": "items/ammunition/t2-chain-lightning-i-1048548069.md",
+   "json": "items/ammunition/t2-chain-lightning-i-1048548069.json"
+  },
+  {
+   "id": 3511177059,
+   "name": "Flare Arrow",
+   "page": "items/ammunition/flare-arrow-3511177059.md",
+   "json": "items/ammunition/flare-arrow-3511177059.json"
+  },
+  {
+   "id": 1711247619,
+   "name": "Padding",
+   "page": "items/materials/padding-1711247619.md",
+   "json": "items/materials/padding-1711247619.json"
+  },
+  {
+   "id": 3913483832,
+   "name": "Wax Torch",
+   "page": "items/weapons/wax-torch-3913483832.md",
+   "json": "items/weapons/wax-torch-3913483832.json"
+  },
+  {
+   "id": 531354159,
+   "name": "Resin Torch",
+   "page": "items/weapons/resin-torch-531354159.md",
+   "json": "items/weapons/resin-torch-531354159.json"
+  },
+  {
+   "id": 3584171520,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-3584171520.md",
+   "json": "items/weapons/dragon-sword-3584171520.json"
+  },
+  {
+   "id": 3265226455,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-3265226455.md",
+   "json": "items/weapons/wailing-blade-3265226455.json"
+  },
+  {
+   "id": 3536356032,
+   "name": "Spiritual Cane",
+   "page": "items/weapons/spiritual-cane-3536356032.md",
+   "json": "items/weapons/spiritual-cane-3536356032.json"
+  },
+  {
+   "id": 1513594761,
+   "name": "Alchemist Apprentice Boots",
+   "page": "items/equipment/alchemist-apprentice-boots-1513594761.md",
+   "json": "items/equipment/alchemist-apprentice-boots-1513594761.json"
+  },
+  {
+   "id": 1694671169,
+   "name": "Rising Fighter Boots",
+   "page": "items/equipment/rising-fighter-boots-1694671169.md",
+   "json": "items/equipment/rising-fighter-boots-1694671169.json"
+  },
+  {
+   "id": 2937561739,
+   "name": "Rising Fighter Chest",
+   "page": "items/equipment/rising-fighter-chest-2937561739.md",
+   "json": "items/equipment/rising-fighter-chest-2937561739.json"
+  },
+  {
+   "id": 2070050318,
+   "name": "Rising Fighter Helmet",
+   "page": "items/equipment/rising-fighter-helmet-2070050318.md",
+   "json": "items/equipment/rising-fighter-helmet-2070050318.json"
+  },
+  {
+   "id": 3996283384,
+   "name": "Scout Boots",
+   "page": "items/equipment/scout-boots-3996283384.md",
+   "json": "items/equipment/scout-boots-3996283384.json"
+  },
+  {
+   "id": 1108317357,
+   "name": "T2 DPS Arms",
+   "page": "items/equipment/t2-dps-arms-1108317357.md",
+   "json": "items/equipment/t2-dps-arms-1108317357.json"
+  },
+  {
+   "id": 4089349181,
+   "name": "T2 Healer Boots",
+   "page": "items/equipment/t2-healer-boots-4089349181.md",
+   "json": "items/equipment/t2-healer-boots-4089349181.json"
+  },
+  {
+   "id": 2841320705,
+   "name": "T2 Mage Boots",
+   "page": "items/equipment/t2-mage-boots-2841320705.md",
+   "json": "items/equipment/t2-mage-boots-2841320705.json"
+  },
+  {
+   "id": 2374868988,
+   "name": "T2 Ranger Legs",
+   "page": "items/equipment/t2-ranger-legs-2374868988.md",
+   "json": "items/equipment/t2-ranger-legs-2374868988.json"
+  },
+  {
+   "id": 2731186757,
+   "name": "T2 Archer Boots",
+   "page": "items/equipment/t2-archer-boots-2731186757.md",
+   "json": "items/equipment/t2-archer-boots-2731186757.json"
+  },
+  {
+   "id": 2509853978,
+   "name": "T2 Tank Legs",
+   "page": "items/equipment/t2-tank-legs-2509853978.md",
+   "json": "items/equipment/t2-tank-legs-2509853978.json"
+  },
+  {
+   "id": 2380198378,
+   "name": "Bench",
+   "page": "items/buildtools/bench-2380198378.md",
+   "json": "items/buildtools/bench-2380198378.json"
+  },
+  {
+   "id": 934401519,
+   "name": "Bathtub T1",
+   "page": "items/buildtools/bathtub-t1-934401519.md",
+   "json": "items/buildtools/bathtub-t1-934401519.json"
+  },
+  {
+   "id": 1948096195,
+   "name": "Sink T1",
+   "page": "items/buildtools/sink-t1-1948096195.md",
+   "json": "items/buildtools/sink-t1-1948096195.json"
+  },
+  {
+   "id": 2523000783,
+   "name": "Bench T2",
+   "page": "items/buildtools/bench-t2-2523000783.md",
+   "json": "items/buildtools/bench-t2-2523000783.json"
+  },
+  {
+   "id": 3784661464,
+   "name": "T1 bench",
+   "page": "items/buildtools/t1-bench-3784661464.md",
+   "json": "items/buildtools/t1-bench-3784661464.json"
+  },
+  {
+   "id": 1751743189,
+   "name": "Throne T3",
+   "page": "items/buildtools/throne-t3-1751743189.md",
+   "json": "items/buildtools/throne-t3-1751743189.json"
+  },
+  {
+   "id": 3238278001,
+   "name": "Throne T2",
+   "page": "items/buildtools/throne-t2-3238278001.md",
+   "json": "items/buildtools/throne-t2-3238278001.json"
+  },
+  {
+   "id": 3714026425,
+   "name": "Chair T1",
+   "page": "items/buildtools/chair-t1-3714026425.md",
+   "json": "items/buildtools/chair-t1-3714026425.json"
+  },
+  {
+   "id": 492657660,
+   "name": "Ancient Temple Wall Brazier",
+   "page": "items/buildtools/ancient-temple-wall-brazier-492657660.md",
+   "json": "items/buildtools/ancient-temple-wall-brazier-492657660.json"
+  },
+  {
+   "id": 2672833225,
+   "name": "Ancient Temple Floor Brazier I",
+   "page": "items/buildtools/ancient-temple-floor-brazier-i-2672833225.md",
+   "json": "items/buildtools/ancient-temple-floor-brazier-i-2672833225.json"
+  },
+  {
+   "id": 629845468,
+   "name": "Ancient Temple Floor Brazier II",
+   "page": "items/buildtools/ancient-temple-floor-brazier-ii-629845468.md",
+   "json": "items/buildtools/ancient-temple-floor-brazier-ii-629845468.json"
+  },
+  {
+   "id": 2156027596,
+   "name": "T5 Prop Decoration Comfort Illumination Floor Brazier Large",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-large-2156027596.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-large-2156027596.json"
+  },
+  {
+   "id": 3434002836,
+   "name": "T5 Prop Decoration Comfort Illumination Floor Brazier Medium",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-medium-3434002836.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-brazier-medium-3434002836.json"
+  },
+  {
+   "id": 2003933910,
+   "name": "Sandstone Brazier",
+   "page": "items/buildtools/sandstone-brazier-2003933910.md",
+   "json": "items/buildtools/sandstone-brazier-2003933910.json"
+  },
+  {
+   "id": 2021009419,
+   "name": "Illumination T4 Brazier HallowHalls",
+   "page": "items/buildtools/illumination-t4-brazier-hallowhalls-2021009419.md",
+   "json": "items/buildtools/illumination-t4-brazier-hallowhalls-2021009419.json"
+  },
+  {
+   "id": 900587002,
+   "name": "Illumination T4 Brazier Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-brazier-huge-hallowhalls-900587002.md",
+   "json": "items/buildtools/illumination-t4-brazier-huge-hallowhalls-900587002.json"
+  },
+  {
+   "id": 2314914919,
+   "name": "T3 Small Stone Brazier",
+   "page": "items/buildtools/t3-small-stone-brazier-2314914919.md",
+   "json": "items/buildtools/t3-small-stone-brazier-2314914919.json"
+  },
+  {
+   "id": 113411928,
+   "name": "T3 Tall Stone Brazier",
+   "page": "items/buildtools/t3-tall-stone-brazier-113411928.md",
+   "json": "items/buildtools/t3-tall-stone-brazier-113411928.json"
+  },
+  {
+   "id": 1385502569,
+   "name": "T3 Medium Stone Brazier",
+   "page": "items/buildtools/t3-medium-stone-brazier-1385502569.md",
+   "json": "items/buildtools/t3-medium-stone-brazier-1385502569.json"
+  },
+  {
+   "id": 3457345820,
+   "name": "Polished Scrap Brazier",
+   "page": "items/buildtools/polished-scrap-brazier-3457345820.md",
+   "json": "items/buildtools/polished-scrap-brazier-3457345820.json"
+  },
+  {
+   "id": 1804479582,
+   "name": "Illumination T2 Bones Brazier",
+   "page": "items/buildtools/illumination-t2-bones-brazier-1804479582.md",
+   "json": "items/buildtools/illumination-t2-bones-brazier-1804479582.json"
+  },
+  {
+   "id": 116314178,
+   "name": "Brazier",
+   "page": "items/buildtools/brazier-116314178.md",
+   "json": "items/buildtools/brazier-116314178.json"
+  },
+  {
+   "id": 1701190539,
+   "name": "Illumination T4 Chandelier Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-chandelier-huge-hallowhalls-1701190539.md",
+   "json": "items/buildtools/illumination-t4-chandelier-huge-hallowhalls-1701190539.json"
+  },
+  {
+   "id": 2539367258,
+   "name": "Illumination T4 Wall Huge HallowHalls",
+   "page": "items/buildtools/illumination-t4-wall-huge-hallowhalls-2539367258.md",
+   "json": "items/buildtools/illumination-t4-wall-huge-hallowhalls-2539367258.json"
+  },
+  {
+   "id": 2277507438,
+   "name": "Iron Wall Torch",
+   "page": "items/buildtools/iron-wall-torch-2277507438.md",
+   "json": "items/buildtools/iron-wall-torch-2277507438.json"
+  },
+  {
+   "id": 2646644982,
+   "name": "Illumination T2 Bones Chandelier",
+   "page": "items/buildtools/illumination-t2-bones-chandelier-2646644982.md",
+   "json": "items/buildtools/illumination-t2-bones-chandelier-2646644982.json"
+  },
+  {
+   "id": 665220347,
+   "name": "Wall Torch",
+   "page": "items/buildtools/wall-torch-665220347.md",
+   "json": "items/buildtools/wall-torch-665220347.json"
+  },
+  {
+   "id": 450440154,
+   "name": "Illumination T2 Wall",
+   "page": "items/buildtools/illumination-t2-wall-450440154.md",
+   "json": "items/buildtools/illumination-t2-wall-450440154.json"
+  },
+  {
+   "id": 3652824994,
+   "name": "Illumination T2 Standing Torch",
+   "page": "items/buildtools/illumination-t2-standing-torch-3652824994.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-3652824994.json"
+  },
+  {
+   "id": 3948355948,
+   "name": "Illumination T2 Small Bones",
+   "page": "items/buildtools/illumination-t2-small-bones-3948355948.md",
+   "json": "items/buildtools/illumination-t2-small-bones-3948355948.json"
+  },
+  {
+   "id": 1191571537,
+   "name": "Standing Torch",
+   "page": "items/buildtools/standing-torch-1191571537.md",
+   "json": "items/buildtools/standing-torch-1191571537.json"
+  },
+  {
+   "id": 3011227787,
+   "name": "Table T4 large",
+   "page": "items/buildtools/table-t4-large-3011227787.md",
+   "json": "items/buildtools/table-t4-large-3011227787.json"
+  },
+  {
+   "id": 1434543946,
+   "name": "Table T4 Medium",
+   "page": "items/buildtools/table-t4-medium-1434543946.md",
+   "json": "items/buildtools/table-t4-medium-1434543946.json"
+  },
+  {
+   "id": 3657618743,
+   "name": "Table Small T4",
+   "page": "items/buildtools/table-small-t4-3657618743.md",
+   "json": "items/buildtools/table-small-t4-3657618743.json"
+  },
+  {
+   "id": 1497798656,
+   "name": "Bedside T4",
+   "page": "items/buildtools/bedside-t4-1497798656.md",
+   "json": "items/buildtools/bedside-t4-1497798656.json"
+  },
+  {
+   "id": 2331092704,
+   "name": "Table Large T2",
+   "page": "items/buildtools/table-large-t2-2331092704.md",
+   "json": "items/buildtools/table-large-t2-2331092704.json"
+  },
+  {
+   "id": 3856498506,
+   "name": "Table Medium T2",
+   "page": "items/buildtools/table-medium-t2-3856498506.md",
+   "json": "items/buildtools/table-medium-t2-3856498506.json"
+  },
+  {
+   "id": 1950809514,
+   "name": "Table Small T2",
+   "page": "items/buildtools/table-small-t2-1950809514.md",
+   "json": "items/buildtools/table-small-t2-1950809514.json"
+  },
+  {
+   "id": 463785887,
+   "name": "Large Table T1",
+   "page": "items/buildtools/large-table-t1-463785887.md",
+   "json": "items/buildtools/large-table-t1-463785887.json"
+  },
+  {
+   "id": 2604657464,
+   "name": "Medium Table T1",
+   "page": "items/buildtools/medium-table-t1-2604657464.md",
+   "json": "items/buildtools/medium-table-t1-2604657464.json"
+  },
+  {
+   "id": 3329412877,
+   "name": "Small Table T1",
+   "page": "items/buildtools/small-table-t1-3329412877.md",
+   "json": "items/buildtools/small-table-t1-3329412877.json"
+  },
+  {
+   "id": 3600031474,
+   "name": "Carved Wooden Nightstand",
+   "page": "items/buildtools/carved-wooden-nightstand-3600031474.md",
+   "json": "items/buildtools/carved-wooden-nightstand-3600031474.json"
+  },
+  {
+   "id": 3777469353,
+   "name": "Large Ornamented Wooden Cabinet",
+   "page": "items/buildtools/large-ornamented-wooden-cabinet-3777469353.md",
+   "json": "items/buildtools/large-ornamented-wooden-cabinet-3777469353.json"
+  },
+  {
+   "id": 120961786,
+   "name": "Small Ornamented Wooden Cabinet",
+   "page": "items/buildtools/small-ornamented-wooden-cabinet-120961786.md",
+   "json": "items/buildtools/small-ornamented-wooden-cabinet-120961786.json"
+  },
+  {
+   "id": 93557059,
+   "name": "Large Ornamented Wooden Cupboard",
+   "page": "items/buildtools/large-ornamented-wooden-cupboard-93557059.md",
+   "json": "items/buildtools/large-ornamented-wooden-cupboard-93557059.json"
+  },
+  {
+   "id": 2071955966,
+   "name": "Small Ornamented Wooden Cupboard",
+   "page": "items/buildtools/small-ornamented-wooden-cupboard-2071955966.md",
+   "json": "items/buildtools/small-ornamented-wooden-cupboard-2071955966.json"
+  },
+  {
+   "id": 3012628405,
+   "name": "Ornamented Wooden Door",
+   "page": "items/buildtools/ornamented-wooden-door-3012628405.md",
+   "json": "items/buildtools/ornamented-wooden-door-3012628405.json"
+  },
+  {
+   "id": 1320797608,
+   "name": "Ornamented Wooden Window Frame",
+   "page": "items/buildtools/ornamented-wooden-window-frame-1320797608.md",
+   "json": "items/buildtools/ornamented-wooden-window-frame-1320797608.json"
+  },
+  {
+   "id": 4069234902,
+   "name": "High Ornamented Wooden Window Frame",
+   "page": "items/buildtools/high-ornamented-wooden-window-frame-4069234902.md",
+   "json": "items/buildtools/high-ornamented-wooden-window-frame-4069234902.json"
+  },
+  {
+   "id": 1242662609,
+   "name": "Small Ornamented Wooden Window Frame",
+   "page": "items/buildtools/small-ornamented-wooden-window-frame-1242662609.md",
+   "json": "items/buildtools/small-ornamented-wooden-window-frame-1242662609.json"
+  }
+ ],
+ "page": "items/materials/resin-4109728689.md"
+}

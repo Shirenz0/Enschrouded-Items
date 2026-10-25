@@ -305,4 +305,4 @@
 | <img src="../images/icons/2748714325.png" width="48"> | [Small Table T0](../items/buildtools/small-table-t0-2748714325.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3329412877.png" width="48"> | [Small Table T1](../items/buildtools/small-table-t1-3329412877.md) | ⚪ Common | - | 50 |
 
-[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · [3](buildtools-3.md) · **4** · [5](buildtools-5.md) · [6](buildtools-6.md)
+[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · [3](buildtools-3.md) · **4** · [5](buildtools-5.md) · [6](buildtools-6.md) · [JSON](buildtools-4.json)

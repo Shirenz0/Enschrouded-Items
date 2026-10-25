@@ -1,0 +1,73 @@
+{
+ "id": 3765704048,
+ "name": "Epic Fishing Bait II",
+ "internalName": "Material_T7_05EPIC_FishingBait_Improved",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/3765704048.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This bait tastes so good it almost guarantees to catch an epic fish local to Cinder's Cradle.",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "recipes": [
+  {
+   "recipeId": 946037623,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2482366505,
+      "name": "Worms",
+      "page": "items/ammunition/worms-2482366505.md",
+      "json": "items/ammunition/worms-2482366505.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4040557403,
+      "name": "Fish Scales",
+      "page": "items/materials/fish-scales-4040557403.md",
+      "json": "items/materials/fish-scales-4040557403.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/ammunition/epic-fishing-bait-ii-3765704048.md"
+}

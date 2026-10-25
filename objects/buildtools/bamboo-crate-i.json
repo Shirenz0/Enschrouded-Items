@@ -1,0 +1,36 @@
+{
+ "name": "Bamboo Crate I",
+ "category": "BuildTools",
+ "image": "images/icons/4136278992.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1412268864,
+   "name": "Bamboo Crate I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1412268864.png",
+   "page": "items/buildtools/bamboo-crate-i-1412268864.md",
+   "json": "items/buildtools/bamboo-crate-i-1412268864.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 4136278992,
+   "name": "Bamboo Crate I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4136278992.png",
+   "page": "items/buildtools/bamboo-crate-i-4136278992.md",
+   "json": "items/buildtools/bamboo-crate-i-4136278992.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/bamboo-crate-i.md"
+}

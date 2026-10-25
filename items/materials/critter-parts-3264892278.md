@@ -25,4 +25,4 @@ Springlands and Revelwood Fell Enemies
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](critter-parts-3264892278.json)

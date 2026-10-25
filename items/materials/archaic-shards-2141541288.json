@@ -1,0 +1,153 @@
+{
+ "id": 2141541288,
+ "name": "Archaic Shards",
+ "internalName": "Material_T7_Archaic_Shards",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/2141541288.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "archaic shards desc, metal fragments of ancient constructs",
+ "lore": null,
+ "whereToFind": "Ancient Land, Ancient Guardians",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1508295032,
+   "name": "Metal Water Dispenser II",
+   "page": "items/buildtools/metal-water-dispenser-ii-1508295032.md",
+   "json": "items/buildtools/metal-water-dispenser-ii-1508295032.json"
+  },
+  {
+   "id": 1695295500,
+   "name": "Metal Wall Drain II",
+   "page": "items/buildtools/metal-wall-drain-ii-1695295500.md",
+   "json": "items/buildtools/metal-wall-drain-ii-1695295500.json"
+  },
+  {
+   "id": 2501950932,
+   "name": "Metal Floor Drain II",
+   "page": "items/buildtools/metal-floor-drain-ii-2501950932.md",
+   "json": "items/buildtools/metal-floor-drain-ii-2501950932.json"
+  },
+  {
+   "id": 1528331711,
+   "name": "Ancient/Archaic Lockpick",
+   "page": "items/tools/ancient-archaic-lockpick-1528331711.md",
+   "json": "items/tools/ancient-archaic-lockpick-1528331711.json"
+  },
+  {
+   "id": 1677413497,
+   "name": "T7 Blunt Arrow",
+   "page": "items/ammunition/t7-blunt-arrow-1677413497.md",
+   "json": "items/ammunition/t7-blunt-arrow-1677413497.json"
+  },
+  {
+   "id": 1674086102,
+   "name": "T7 Eternal Acid Cone II",
+   "page": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.md",
+   "json": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.json"
+  },
+  {
+   "id": 3333535459,
+   "name": "Shroud Arrow III",
+   "page": "items/ammunition/shroud-arrow-iii-3333535459.md",
+   "json": "items/ammunition/shroud-arrow-iii-3333535459.json"
+  },
+  {
+   "id": 2941673930,
+   "name": "Ancinet Workbench",
+   "page": "items/buildtools/ancinet-workbench-2941673930.md",
+   "json": "items/buildtools/ancinet-workbench-2941673930.json"
+  },
+  {
+   "id": 2670118573,
+   "name": "Ancient/Archaic Infusion",
+   "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+   "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+  },
+  {
+   "id": 3765704048,
+   "name": "Epic Fishing Bait II",
+   "page": "items/ammunition/epic-fishing-bait-ii-3765704048.md",
+   "json": "items/ammunition/epic-fishing-bait-ii-3765704048.json"
+  },
+  {
+   "id": 3626685627,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-3626685627.md",
+   "json": "items/weapons/draconian-bow-3626685627.json"
+  },
+  {
+   "id": 3618171376,
+   "name": "Throwing Knives",
+   "page": "items/weapons/throwing-knives-3618171376.md",
+   "json": "items/weapons/throwing-knives-3618171376.json"
+  },
+  {
+   "id": 3057524028,
+   "name": "Vorgoth's Pants",
+   "page": "items/equipment/vorgoth-s-pants-3057524028.md",
+   "json": "items/equipment/vorgoth-s-pants-3057524028.json"
+  },
+  {
+   "id": 2698582898,
+   "name": "Cultivation Rack",
+   "page": "items/buildtools/cultivation-rack-2698582898.md",
+   "json": "items/buildtools/cultivation-rack-2698582898.json"
+  },
+  {
+   "id": 1020559529,
+   "name": "Large Bloomheart Fruit Flower Pot I",
+   "page": "items/buildtools/large-bloomheart-fruit-flower-pot-i-1020559529.md",
+   "json": "items/buildtools/large-bloomheart-fruit-flower-pot-i-1020559529.json"
+  },
+  {
+   "id": 768813484,
+   "name": "Large Bloomheart Fruit Flower Pot II",
+   "page": "items/buildtools/large-bloomheart-fruit-flower-pot-ii-768813484.md",
+   "json": "items/buildtools/large-bloomheart-fruit-flower-pot-ii-768813484.json"
+  },
+  {
+   "id": 3415299643,
+   "name": "Large Grandleaf Cabbage Plant Pot",
+   "page": "items/buildtools/large-grandleaf-cabbage-plant-pot-3415299643.md",
+   "json": "items/buildtools/large-grandleaf-cabbage-plant-pot-3415299643.json"
+  },
+  {
+   "id": 197885818,
+   "name": "Small Prickle Pearl Plant Pot",
+   "page": "items/buildtools/small-prickle-pearl-plant-pot-197885818.md",
+   "json": "items/buildtools/small-prickle-pearl-plant-pot-197885818.json"
+  },
+  {
+   "id": 2001581152,
+   "name": "Small Aurora Beans Plant Pot",
+   "page": "items/buildtools/small-aurora-beans-plant-pot-2001581152.md",
+   "json": "items/buildtools/small-aurora-beans-plant-pot-2001581152.json"
+  },
+  {
+   "id": 3205476444,
+   "name": "Planetarium Showcase/ Orbit",
+   "page": "items/buildtools/planetarium-showcase-orbit-3205476444.md",
+   "json": "items/buildtools/planetarium-showcase-orbit-3205476444.json"
+  },
+  {
+   "id": 190504416,
+   "name": "Huge Ancient Door",
+   "page": "items/buildtools/huge-ancient-door-190504416.md",
+   "json": "items/buildtools/huge-ancient-door-190504416.json"
+  }
+ ],
+ "page": "items/materials/archaic-shards-2141541288.md"
+}

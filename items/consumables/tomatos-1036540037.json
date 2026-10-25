@@ -1,0 +1,91 @@
+{
+ "id": 1036540037,
+ "name": "Tomatos",
+ "internalName": "Food_T1_raw_vegetable_Tomato",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1036540037.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A red and juicy Tomatos! If handled with care, it can have dexterity enhancing effects.",
+ "lore": null,
+ "whereToFind": "Springlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Ranged Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 600000,
+    "display": "10:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2634459448,
+   "name": "Yak Stew",
+   "page": "items/consumables/yak-stew-2634459448.md",
+   "json": "items/consumables/yak-stew-2634459448.json"
+  },
+  {
+   "id": 1105965780,
+   "name": "Stir-Fried Vegetables",
+   "page": "items/consumables/stir-fried-vegetables-1105965780.md",
+   "json": "items/consumables/stir-fried-vegetables-1105965780.json"
+  },
+  {
+   "id": 3049932278,
+   "name": "Vegetable Soup",
+   "page": "items/consumables/vegetable-soup-3049932278.md",
+   "json": "items/consumables/vegetable-soup-3049932278.json"
+  },
+  {
+   "id": 2575926249,
+   "name": "Tomato Fish Soup",
+   "page": "items/consumables/tomato-fish-soup-2575926249.md",
+   "json": "items/consumables/tomato-fish-soup-2575926249.json"
+  },
+  {
+   "id": 2074901818,
+   "name": "Rice with ancient \"beans\"",
+   "page": "items/consumables/rice-with-ancient-beans-2074901818.md",
+   "json": "items/consumables/rice-with-ancient-beans-2074901818.json"
+  },
+  {
+   "id": 3984646053,
+   "name": "Raw Meat and Tomato Skewer",
+   "page": "items/materials/raw-meat-and-tomato-skewer-3984646053.md",
+   "json": "items/materials/raw-meat-and-tomato-skewer-3984646053.json"
+  },
+  {
+   "id": 1438935166,
+   "name": "Tomato Seedling",
+   "page": "items/buildtools/tomato-seedling-1438935166.md",
+   "json": "items/buildtools/tomato-seedling-1438935166.json"
+  }
+ ],
+ "page": "items/consumables/tomatos-1036540037.md"
+}

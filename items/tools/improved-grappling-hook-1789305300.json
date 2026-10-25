@@ -1,0 +1,89 @@
+{
+ "id": 1789305300,
+ "name": "Improved Grappling Hook",
+ "internalName": "Tool_Grappling_Hook_improved",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1789305300.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Use fewer Stamina. Activate at larger ranges.",
+ "lore": null,
+ "whereToFind": "Carpenter",
+ "object": null,
+ "stats": {
+  "slot": "Grappling hook",
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3256909064,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1528590138,
+      "name": "Fog Core",
+      "page": "items/materials/fog-core-1528590138.md",
+      "json": "items/materials/fog-core-1528590138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 860644516,
+      "name": "Fog Liquid",
+      "page": "items/materials/fog-liquid-860644516.md",
+      "json": "items/materials/fog-liquid-860644516.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2559861108,
+      "name": "Fog Essence",
+      "page": "items/materials/fog-essence-2559861108.md",
+      "json": "items/materials/fog-essence-2559861108.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1438617272,
+      "name": "Grappling Hook",
+      "page": "items/tools/grappling-hook-1438617272.md",
+      "json": "items/tools/grappling-hook-1438617272.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3326121147,
+   "name": "Underwater Grappling Hook",
+   "page": "items/tools/underwater-grappling-hook-3326121147.md",
+   "json": "items/tools/underwater-grappling-hook-3326121147.json"
+  }
+ ],
+ "page": "items/tools/improved-grappling-hook-1789305300.md"
+}

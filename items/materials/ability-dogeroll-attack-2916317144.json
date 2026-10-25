@@ -1,0 +1,29 @@
+{
+ "id": 2916317144,
+ "name": "Ability: Dogeroll Attack",
+ "internalName": "Ability_DodgerollAttack",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/materials.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/materials/ability-dogeroll-attack.md",
+  "json": "objects/materials/ability-dogeroll-attack.json",
+  "versions": 2
+ },
+ "page": "items/materials/ability-dogeroll-attack-2916317144.md"
+}

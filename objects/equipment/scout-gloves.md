@@ -17,4 +17,4 @@ Excellent tools to scout - especially, for their grip and padding.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](scout-gloves.json)

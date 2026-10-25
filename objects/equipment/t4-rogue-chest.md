@@ -17,4 +17,4 @@ A well balanced chestpiece, good for solo missions.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-rogue-chest.json)

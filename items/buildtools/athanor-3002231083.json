@@ -1,0 +1,69 @@
+{
+ "id": 3002231083,
+ "name": "Athanor",
+ "internalName": "Prop_Component_Athanor",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3002231083.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Designed to heat substances under a permanent temperature this oven opens up new alchemical possibilities.",
+ "lore": "Furniture",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3406469522,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1750422149,
+   "name": "Laboratory",
+   "page": "items/buildtools/laboratory-1750422149.md",
+   "json": "items/buildtools/laboratory-1750422149.json"
+  }
+ ],
+ "page": "items/buildtools/athanor-3002231083.md"
+}

@@ -1,0 +1,77 @@
+{
+ "id": 1460033731,
+ "name": "Gem of Lycanthropy",
+ "internalName": "T6_Gem_GemOfLycanthropy",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/1460033731.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Defeating an enemy at night has a %k chance to spawn a Lunar Orb. Collecting a Luna Orb grants %k health and %k mana aswell as a special food buff that grants %k max health, %k max mana, %k max stamina and %k melee damage for %k",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Max Mana",
+    "value": 27,
+    "display": "27",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Melee Damage",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Health on Orb Pickup",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Buff Duration",
+    "value": 60000,
+    "display": "1:00 min",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Max Health",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Mana on Orb Pickup",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Trigger Chance on Kill",
+    "value": 17,
+    "display": "17",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Max Stamina",
+    "value": 27,
+    "display": "27",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-lycanthropy-1460033731.md"
+}

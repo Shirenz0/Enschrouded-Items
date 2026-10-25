@@ -1,0 +1,51 @@
+{
+ "id": 3622683972,
+ "name": "Shroud Fragments",
+ "internalName": "Material_T3_Fog_Essence02_ShroudFragment",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/3622683972.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A higher concentration of shroud compared to shroud spores.",
+ "lore": null,
+ "whereToFind": "Fell Enemies, Nomad Highlands Shroud, Kindlewastes Shroud and Albaneve Summits Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3681207826,
+   "name": "Magic Large Chest",
+   "page": "items/buildtools/magic-large-chest-3681207826.md",
+   "json": "items/buildtools/magic-large-chest-3681207826.json"
+  },
+  {
+   "id": 1350606537,
+   "name": "Fog Oil",
+   "page": "items/materials/fog-oil-1350606537.md",
+   "json": "items/materials/fog-oil-1350606537.json"
+  },
+  {
+   "id": 2371777842,
+   "name": "Alchemical Base",
+   "page": "items/materials/alchemical-base-2371777842.md",
+   "json": "items/materials/alchemical-base-2371777842.json"
+  },
+  {
+   "id": 634473105,
+   "name": "Shroud Nexus",
+   "page": "items/materials/shroud-nexus-634473105.md",
+   "json": "items/materials/shroud-nexus-634473105.json"
+  }
+ ],
+ "page": "items/materials/shroud-fragments-3622683972.md"
+}

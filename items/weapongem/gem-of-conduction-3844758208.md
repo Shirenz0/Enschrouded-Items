@@ -23,4 +23,4 @@ Hitting an enemy puts a  mark on them for %k. Hitting a  marked enemy sends a li
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-conduction-3844758208.json)

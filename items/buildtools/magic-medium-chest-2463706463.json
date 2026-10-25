@@ -1,0 +1,138 @@
+{
+ "id": 2463706463,
+ "name": "Magic Medium Chest",
+ "internalName": "Prop_Storage_32_T2_Box_Magic",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2463706463.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers a medium amount of storage space to store items. The items stored here can be used for crafting purposes from anywhere in the base!",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 841334786,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3642338342,
+      "name": "Medium Chest",
+      "page": "items/buildtools/medium-chest-3642338342.md",
+      "json": "items/buildtools/medium-chest-3642338342.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1528590138,
+      "name": "Fog Core",
+      "page": "items/materials/fog-core-1528590138.md",
+      "json": "items/materials/fog-core-1528590138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 328121639,
+   "station": null,
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1528590138,
+      "name": "Fog Core",
+      "page": "items/materials/fog-core-1528590138.md",
+      "json": "items/materials/fog-core-1528590138.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3117376386,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1528590138,
+      "name": "Fog Core",
+      "page": "items/materials/fog-core-1528590138.md",
+      "json": "items/materials/fog-core-1528590138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/magic-medium-chest-2463706463.md"
+}

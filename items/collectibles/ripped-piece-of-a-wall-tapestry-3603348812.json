@@ -1,0 +1,29 @@
+{
+ "id": 3603348812,
+ "name": "Ripped piece of a Wall Tapestry",
+ "internalName": "Collection_WallTapestry_Piece_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3603348812.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Try to find the missing pieces to reassemble a Wall Tapestry.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/collectibles/ripped-piece-of-a-wall-tapestry.md",
+  "json": "objects/collectibles/ripped-piece-of-a-wall-tapestry.json",
+  "versions": 2
+ },
+ "page": "items/collectibles/ripped-piece-of-a-wall-tapestry-3603348812.md"
+}

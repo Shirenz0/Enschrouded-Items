@@ -1,0 +1,73 @@
+{
+ "id": 311508484,
+ "name": "Cauldron",
+ "internalName": "Prop_Component_T5_Black_Cauldron",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/311508484.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A centerpiece for the Alchemical Station.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/cauldron.md",
+  "json": "objects/buildtools/cauldron.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 1322056033,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3764911324,
+   "name": "Alchemical Station",
+   "page": "items/buildtools/alchemical-station-3764911324.md",
+   "json": "items/buildtools/alchemical-station-3764911324.json"
+  }
+ ],
+ "page": "items/buildtools/cauldron-311508484.md"
+}

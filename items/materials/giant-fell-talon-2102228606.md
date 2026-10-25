@@ -25,4 +25,4 @@ Fell Draconian Vulture, Kindlewastes Shroud And Albaneve Summits Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](giant-fell-talon-2102228606.json)

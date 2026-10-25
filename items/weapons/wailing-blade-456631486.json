@@ -1,0 +1,107 @@
+{
+ "id": 456631486,
+ "name": "Wailing Blade",
+ "internalName": "Craft_Weapon_T5_1H_Lore_SwordEpic_Ministory_09",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 26,
+  "max": 26
+ },
+ "maxStack": 1,
+ "image": "images/icons/456631486.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/wailing-blade.md",
+  "json": "objects/weapons/wailing-blade.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4242385984,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1714627847,
+      "name": "Tar",
+      "page": "items/materials/tar-1714627847.md",
+      "json": "items/materials/tar-1714627847.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/wailing-blade-456631486.md"
+}

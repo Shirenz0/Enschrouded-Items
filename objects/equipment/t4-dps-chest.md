@@ -17,4 +17,4 @@ This regal soldier armor symbolizes chivalry, glory and valor.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-dps-chest.json)

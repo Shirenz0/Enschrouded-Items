@@ -31,4 +31,4 @@ Drak Trophy Wall Head description
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](skull-trophy-vi-3043055061.json)

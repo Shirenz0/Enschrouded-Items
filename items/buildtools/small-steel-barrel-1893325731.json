@@ -1,0 +1,60 @@
+{
+ "id": 1893325731,
+ "name": "Small Steel Barrel",
+ "internalName": "Prop_Decoration_T5_Barrel_Steel",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1893325731.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3303625404,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2068629527,
+   "name": "Coffee Roastery",
+   "page": "items/buildtools/coffee-roastery-2068629527.md",
+   "json": "items/buildtools/coffee-roastery-2068629527.json"
+  }
+ ],
+ "page": "items/buildtools/small-steel-barrel-1893325731.md"
+}

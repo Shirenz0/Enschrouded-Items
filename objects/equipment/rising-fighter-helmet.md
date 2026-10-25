@@ -17,4 +17,4 @@ A head piece to keep your head safe, while taking your first steps as a fighter.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](rising-fighter-helmet.json)

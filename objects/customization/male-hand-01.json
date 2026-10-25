@@ -1,0 +1,55 @@
+{
+ "name": "Male Hand 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 175443227,
+   "name": "Male Hand 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-hand-01-175443227.md",
+   "json": "items/customization/male-hand-01-175443227.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 180131416,
+   "name": "Male Hand 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-hand-01-180131416.md",
+   "json": "items/customization/male-hand-01-180131416.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2456648530,
+   "name": "Male Hand 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-hand-01-2456648530.md",
+   "json": "items/customization/male-hand-01-2456648530.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2816155449,
+   "name": "Male Hand 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-hand-01-2816155449.md",
+   "json": "items/customization/male-hand-01-2816155449.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-hand-01.md"
+}

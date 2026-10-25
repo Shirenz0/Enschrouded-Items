@@ -1,0 +1,65 @@
+{
+ "id": 545888475,
+ "name": "Piscine Ivory Dust",
+ "internalName": "Material_T6_Fish_Bone_Teeth_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/545888475.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Piscine Ivory, often called the ivory of the sea, ground into a bright powder. Renowned for its strength and resilience, it can even serve as a component in metal alloys, lending them exceptional robustness.",
+ "lore": null,
+ "whereToFind": "Crafting, Improved Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1846839289,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 2352305513,
+       "name": "Fish Teeth",
+       "page": "items/materials/fish-teeth-2352305513.md",
+       "json": "items/materials/fish-teeth-2352305513.json"
+      },
+      {
+       "id": 2244383765,
+       "name": "Fish Bones",
+       "page": "items/materials/fish-bones-2244383765.md",
+       "json": "items/materials/fish-bones-2244383765.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1777113935,
+   "name": "T6 Shield Tank",
+   "page": "items/equipment/t6-shield-tank-1777113935.md",
+   "json": "items/equipment/t6-shield-tank-1777113935.json"
+  },
+  {
+   "id": 2863750697,
+   "name": "T6 Shield DPS",
+   "page": "items/equipment/t6-shield-dps-2863750697.md",
+   "json": "items/equipment/t6-shield-dps-2863750697.json"
+  }
+ ],
+ "page": "items/materials/piscine-ivory-dust-545888475.md"
+}

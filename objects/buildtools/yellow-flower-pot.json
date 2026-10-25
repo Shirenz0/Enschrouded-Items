@@ -1,0 +1,78 @@
+{
+ "name": "Yellow Flower Pot",
+ "category": "BuildTools",
+ "image": "images/icons/811648475.png",
+ "versions": 5,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1212068557,
+   "name": "Yellow Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1212068557.png",
+   "page": "items/buildtools/yellow-flower-pot-1212068557.md",
+   "json": "items/buildtools/yellow-flower-pot-1212068557.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1526921804,
+   "name": "Yellow Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1526921804.png",
+   "page": "items/buildtools/yellow-flower-pot-1526921804.md",
+   "json": "items/buildtools/yellow-flower-pot-1526921804.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 1594649719,
+   "name": "Yellow Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1594649719.png",
+   "page": "items/buildtools/yellow-flower-pot-1594649719.md",
+   "json": "items/buildtools/yellow-flower-pot-1594649719.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 163823517,
+   "name": "Yellow Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/163823517.png",
+   "page": "items/buildtools/yellow-flower-pot-163823517.md",
+   "json": "items/buildtools/yellow-flower-pot-163823517.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 811648475,
+   "name": "Yellow Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/811648475.png",
+   "page": "items/buildtools/yellow-flower-pot-811648475.md",
+   "json": "items/buildtools/yellow-flower-pot-811648475.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/yellow-flower-pot.md"
+}

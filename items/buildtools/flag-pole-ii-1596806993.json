@@ -1,0 +1,97 @@
+{
+ "id": 1596806993,
+ "name": "Flag Pole II",
+ "internalName": "Prop_Decoration_T5_Flagpole_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1596806993.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3081457683,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2287874170,
+      "name": "Green Fabric",
+      "page": "items/materials/green-fabric-2287874170.md",
+      "json": "items/materials/green-fabric-2287874170.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3960097842,
+      "name": "Red Fabric",
+      "page": "items/materials/red-fabric-3960097842.md",
+      "json": "items/materials/red-fabric-3960097842.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3436629486,
+      "name": "Yellow Fabric",
+      "page": "items/materials/yellow-fabric-3436629486.md",
+      "json": "items/materials/yellow-fabric-3436629486.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 398142464,
+      "name": "Blue Fabric",
+      "page": "items/materials/blue-fabric-398142464.md",
+      "json": "items/materials/blue-fabric-398142464.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3522105835,
+      "name": "T5 Material Violet Fabric",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 2
+  }
+ ],
+ "page": "items/buildtools/flag-pole-ii-1596806993.md"
+}

@@ -1,0 +1,67 @@
+{
+ "id": 1900300234,
+ "name": "T6 Shield Tank",
+ "internalName": "Shield_T6_Tank_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/1900300234.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Shield tank desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t6-shield-tank.md",
+  "json": "objects/equipment/t6-shield-tank.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 3,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  }
+ ],
+ "page": "items/equipment/t6-shield-tank-1900300234.md"
+}

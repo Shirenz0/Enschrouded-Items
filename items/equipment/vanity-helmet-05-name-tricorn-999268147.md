@@ -27,4 +27,4 @@ vanity helmet 05 desc tricorn
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-helmet-05-name-tricorn-999268147.json)

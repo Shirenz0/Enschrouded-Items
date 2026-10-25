@@ -1,0 +1,69 @@
+{
+ "id": 2555652081,
+ "name": "T5 Prop Decoration Ornate Door",
+ "internalName": "_Prop_Decoration_T5_Door_Steel_ornate",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2555652081.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3730813964,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2828800660,
+   "name": "T5 Prop Decoration Ornate Double Door",
+   "page": "items/buildtools/t5-prop-decoration-ornate-double-door-2828800660.md",
+   "json": "items/buildtools/t5-prop-decoration-ornate-double-door-2828800660.json"
+  }
+ ],
+ "page": "items/buildtools/t5-prop-decoration-ornate-door-2555652081.md"
+}

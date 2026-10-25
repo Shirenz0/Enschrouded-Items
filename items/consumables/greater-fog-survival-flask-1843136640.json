@@ -1,0 +1,39 @@
+{
+ "id": 1843136640,
+ "name": "Greater Fog Survival Flask",
+ "internalName": "Consumable_Potion_Flask_Fog_Survival_Flask_T5",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1843136640.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Contains cleaned Fog Liquid, enhancing the resistance of the user.\nExtends the fog survivability after consumption by 4 Minutes. This effect will last for for 45 Minutes.",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Alchemist",
+ "object": {
+  "page": "objects/consumables/greater-fog-survival-flask.md",
+  "json": "objects/consumables/greater-fog-survival-flask.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Max Shroud Survivability",
+    "value": 360000,
+    "display": "360,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/greater-fog-survival-flask-1843136640.md"
+}

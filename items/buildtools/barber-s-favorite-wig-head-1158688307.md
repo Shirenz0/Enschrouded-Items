@@ -25,4 +25,4 @@ A wig head that unlocks more haircuts.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](barber-s-favorite-wig-head-1158688307.json)

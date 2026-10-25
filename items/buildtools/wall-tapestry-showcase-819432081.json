@@ -1,0 +1,43 @@
+{
+ "id": 819432081,
+ "name": "Wall Tapestry showcase",
+ "internalName": "Prop_Collection_05_ColdHeights_Showcase_WallTapestry",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/819432081.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Reassemble a valuable wall tapestry using this showcase.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1460389678,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/wall-tapestry-showcase-819432081.md"
+}

@@ -1,0 +1,43 @@
+{
+ "id": 3688853714,
+ "name": "Ornamented Wooden Double Door",
+ "internalName": "Prop_Decoration_T2_Door_Ornamented_Wooden_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3688853714.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3586106064,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 3012628405,
+      "name": "Ornamented Wooden Door",
+      "page": "items/buildtools/ornamented-wooden-door-3012628405.md",
+      "json": "items/buildtools/ornamented-wooden-door-3012628405.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/ornamented-wooden-double-door-3688853714.md"
+}

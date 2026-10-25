@@ -1,0 +1,58 @@
+{
+ "name": "Wetland Boardwalk",
+ "category": "BuildTools",
+ "image": "images/icons/669605144.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1030788931,
+   "name": "Wetland Boardwalk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1030788931.png",
+   "page": "items/buildtools/wetland-boardwalk-1030788931.md",
+   "json": "items/buildtools/wetland-boardwalk-1030788931.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 123726817,
+   "name": "Wetland Boardwalk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/123726817.png",
+   "page": "items/buildtools/wetland-boardwalk-123726817.md",
+   "json": "items/buildtools/wetland-boardwalk-123726817.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 33507171,
+   "name": "Wetland Boardwalk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/33507171.png",
+   "page": "items/buildtools/wetland-boardwalk-33507171.md",
+   "json": "items/buildtools/wetland-boardwalk-33507171.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 669605144,
+   "name": "Wetland Boardwalk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/669605144.png",
+   "page": "items/buildtools/wetland-boardwalk-669605144.md",
+   "json": "items/buildtools/wetland-boardwalk-669605144.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/wetland-boardwalk.md"
+}

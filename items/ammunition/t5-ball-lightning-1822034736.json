@@ -1,0 +1,78 @@
+{
+ "id": 1822034736,
+ "name": "T5 Ball Lightning",
+ "internalName": "Ammo_T5_Spell_Lightning_Ball_lvl30",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 500,
+ "image": "images/icons/1822034736.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A slow moving ball of lightning that shocks nearby enemies.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 179,
+    "display": "179",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 3000,
+    "display": "3 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 7000,
+    "display": "7 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2920232797,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 887761434,
+      "name": "Flammable Goo",
+      "page": "items/materials/flammable-goo-887761434.md",
+      "json": "items/materials/flammable-goo-887761434.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3728704408,
+      "name": "T5 Silver Dust",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t5-ball-lightning-1822034736.md"
+}

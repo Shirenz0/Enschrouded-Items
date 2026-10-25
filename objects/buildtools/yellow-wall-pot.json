@@ -1,0 +1,39 @@
+{
+ "name": "Yellow Wall Pot",
+ "category": "BuildTools",
+ "image": "images/icons/3643820464.png",
+ "versions": 2,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 2862328564,
+   "name": "Yellow Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2862328564.png",
+   "page": "items/buildtools/yellow-wall-pot-2862328564.md",
+   "json": "items/buildtools/yellow-wall-pot-2862328564.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3643820464,
+   "name": "Yellow Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3643820464.png",
+   "page": "items/buildtools/yellow-wall-pot-3643820464.md",
+   "json": "items/buildtools/yellow-wall-pot-3643820464.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/yellow-wall-pot.md"
+}

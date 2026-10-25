@@ -1,0 +1,36 @@
+{
+ "name": "Ornamented Wooden Window Frame",
+ "category": "BuildTools",
+ "image": "images/icons/2651036233.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1320797608,
+   "name": "Ornamented Wooden Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1320797608.png",
+   "page": "items/buildtools/ornamented-wooden-window-frame-1320797608.md",
+   "json": "items/buildtools/ornamented-wooden-window-frame-1320797608.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2651036233,
+   "name": "Ornamented Wooden Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2651036233.png",
+   "page": "items/buildtools/ornamented-wooden-window-frame-2651036233.md",
+   "json": "items/buildtools/ornamented-wooden-window-frame-2651036233.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/ornamented-wooden-window-frame.md"
+}

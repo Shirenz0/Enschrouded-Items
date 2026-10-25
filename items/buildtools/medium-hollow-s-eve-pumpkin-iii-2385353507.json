@@ -1,0 +1,61 @@
+{
+ "id": 2385353507,
+ "name": "Medium Hollow's Eve Pumpkin III",
+ "internalName": "Prop_Decoration_T1_Pumpkin_Halloween_Medium_01d",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2385353507.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3711325848,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4234426543,
+      "name": "Pumpkin",
+      "page": "items/consumables/pumpkin-4234426543.md",
+      "json": "items/consumables/pumpkin-4234426543.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1014899877,
+      "name": "Fire Fly",
+      "page": "items/ammunition/fire-fly-1014899877.md",
+      "json": "items/ammunition/fire-fly-1014899877.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2149011961,
+      "name": "Glow Dirt Green",
+      "page": "items/materials/glow-dirt-green-2149011961.md",
+      "json": "items/materials/glow-dirt-green-2149011961.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.md"
+}

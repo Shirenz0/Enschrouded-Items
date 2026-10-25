@@ -1,0 +1,51 @@
+{
+ "id": 1285378490,
+ "name": "Wolf Heavy Head",
+ "internalName": "_Material_TX_Trophy_Wolf_Heavy_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1285378490.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The head of the wolf heavy enemy.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 559604701,
+   "name": "Gold Werewolf Trophy",
+   "page": "items/buildtools/gold-werewolf-trophy-559604701.md",
+   "json": "items/buildtools/gold-werewolf-trophy-559604701.json"
+  },
+  {
+   "id": 4057512959,
+   "name": "Iron Werewolf Trophy",
+   "page": "items/buildtools/iron-werewolf-trophy-4057512959.md",
+   "json": "items/buildtools/iron-werewolf-trophy-4057512959.json"
+  },
+  {
+   "id": 653572237,
+   "name": "Bronze Werewolf Trophy",
+   "page": "items/buildtools/bronze-werewolf-trophy-653572237.md",
+   "json": "items/buildtools/bronze-werewolf-trophy-653572237.json"
+  },
+  {
+   "id": 3646011305,
+   "name": "Werewolf Trophy",
+   "page": "items/buildtools/werewolf-trophy-3646011305.md",
+   "json": "items/buildtools/werewolf-trophy-3646011305.json"
+  }
+ ],
+ "page": "items/materials/wolf-heavy-head-1285378490.md"
+}

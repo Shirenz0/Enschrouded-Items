@@ -1,0 +1,138 @@
+{
+ "id": 3681207826,
+ "name": "Magic Large Chest",
+ "internalName": "Prop_Storage_40_T3_Magic",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3681207826.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A storage opportunity for a large amount of items. The items stored here can be used for crafting purposes from anywhere in the base!",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2997941861,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4204849649,
+      "name": "Large Chest",
+      "page": "items/buildtools/large-chest-4204849649.md",
+      "json": "items/buildtools/large-chest-4204849649.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3622683972,
+      "name": "Shroud Fragments",
+      "page": "items/materials/shroud-fragments-3622683972.md",
+      "json": "items/materials/shroud-fragments-3622683972.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 519713672,
+   "station": null,
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3622683972,
+      "name": "Shroud Fragments",
+      "page": "items/materials/shroud-fragments-3622683972.md",
+      "json": "items/materials/shroud-fragments-3622683972.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    },
+    {
+     "count": 12,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 2851520945,
+   "station": null,
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3622683972,
+      "name": "Shroud Fragments",
+      "page": "items/materials/shroud-fragments-3622683972.md",
+      "json": "items/materials/shroud-fragments-3622683972.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/magic-large-chest-3681207826.md"
+}

@@ -1,0 +1,77 @@
+{
+ "id": 1929469344,
+ "name": "T4 Assassin Helmet",
+ "internalName": "Armor_T4_Ranger_Assassin_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1929469344.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A special piece of cloth was added to this assassin hood to hide the wearer's face, and their most likely daunting smile.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-assassin-helmet.md",
+  "json": "objects/equipment/t4-assassin-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Melee Strike Chance",
+    "value": 11,
+    "display": "11",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 19,
+    "display": "19",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Backstab Mastery",
+   "effect": "Increases the skill level of Backstab Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Backstab Mastery",
+   "effect": "Increases the skill level of Backstab Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/t4-assassin-helmet-1929469344.md"
+}

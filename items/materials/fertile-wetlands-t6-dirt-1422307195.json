@@ -1,0 +1,61 @@
+{
+ "id": 1422307195,
+ "name": "Fertile Wetlands T6 Dirt",
+ "internalName": "Build_TerrainMaterial_T6_Wetlands_fertile_Highgrass",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1422307195.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2189987391,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2181045178,
+      "name": "T6 Wetlands Sand",
+      "page": "items/materials/t6-wetlands-sand-2181045178.md",
+      "json": "items/materials/t6-wetlands-sand-2181045178.json"
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 4095370049,
+      "name": "T6 Wetlands Dirt",
+      "page": "items/materials/t6-wetlands-dirt-4095370049.md",
+      "json": "items/materials/t6-wetlands-dirt-4095370049.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/fertile-wetlands-t6-dirt-1422307195.md"
+}

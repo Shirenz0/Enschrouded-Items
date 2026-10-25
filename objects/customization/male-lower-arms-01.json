@@ -1,0 +1,55 @@
+{
+ "name": "Male Lower Arms 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2954896181,
+   "name": "Male Lower Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-arms-01-2954896181.md",
+   "json": "items/customization/male-lower-arms-01-2954896181.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3051289261,
+   "name": "Male Lower Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-arms-01-3051289261.md",
+   "json": "items/customization/male-lower-arms-01-3051289261.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4279466124,
+   "name": "Male Lower Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-arms-01-4279466124.md",
+   "json": "items/customization/male-lower-arms-01-4279466124.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 833537622,
+   "name": "Male Lower Arms 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-lower-arms-01-833537622.md",
+   "json": "items/customization/male-lower-arms-01-833537622.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-lower-arms-01.md"
+}

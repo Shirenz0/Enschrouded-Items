@@ -25,4 +25,4 @@ Fell Cyclops, Albaneve Summits Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](evil-cyclops-eye-2861211892.json)

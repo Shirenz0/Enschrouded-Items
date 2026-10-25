@@ -1,0 +1,116 @@
+{
+ "id": 3566731447,
+ "name": "Dragon Sword",
+ "internalName": "Craft_Weapon_T5_1H_Lore_SwordEpic_ministory_29",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 26,
+  "max": 26
+ },
+ "maxStack": 1,
+ "image": "images/icons/3566731447.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Crafted in the year of the dragon",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/dragon-sword.md",
+  "json": "objects/weapons/dragon-sword.json",
+  "versions": 6
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 5,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 670400198,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1714627847,
+      "name": "Tar",
+      "page": "items/materials/tar-1714627847.md",
+      "json": "items/materials/tar-1714627847.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/dragon-sword-3566731447.md"
+}

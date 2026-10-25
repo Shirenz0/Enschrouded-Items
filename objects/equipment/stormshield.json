@@ -1,0 +1,35 @@
+{
+ "name": "Stormshield",
+ "category": "Equipment",
+ "image": "images/icons/2108531401.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1974697806,
+   "name": "Stormshield",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1974697806.png",
+   "page": "items/equipment/stormshield-1974697806.md",
+   "json": "items/equipment/stormshield-1974697806.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2108531401,
+   "name": "Stormshield",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2108531401.png",
+   "page": "items/equipment/stormshield-2108531401.md",
+   "json": "items/equipment/stormshield-2108531401.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/stormshield.md"
+}

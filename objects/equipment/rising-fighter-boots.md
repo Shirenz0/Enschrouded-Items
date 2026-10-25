@@ -17,4 +17,4 @@ Footwork is the most important basic of swordsmanship. These boots should prepar
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](rising-fighter-boots.json)

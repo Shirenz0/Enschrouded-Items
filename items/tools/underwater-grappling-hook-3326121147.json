@@ -1,0 +1,90 @@
+{
+ "id": 3326121147,
+ "name": "Underwater Grappling Hook",
+ "internalName": "Tool_Grappling_Hook_underwater",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3326121147.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This Grappling Hook also works under water",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Grappling hook",
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2683788247,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 853884133,
+      "name": "Shroud Eminence",
+      "page": "items/materials/shroud-eminence-853884133.md",
+      "json": "items/materials/shroud-eminence-853884133.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3486560156,
+      "name": "Placeholder: Pink Mushroom Meat",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3581489769,
+      "name": "Shroud Relic",
+      "page": "items/materials/shroud-relic-3581489769.md",
+      "json": "items/materials/shroud-relic-3581489769.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1789305300,
+      "name": "Improved Grappling Hook",
+      "page": "items/tools/improved-grappling-hook-1789305300.md",
+      "json": "items/tools/improved-grappling-hook-1789305300.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/underwater-grappling-hook-3326121147.md"
+}

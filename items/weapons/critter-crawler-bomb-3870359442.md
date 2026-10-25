@@ -35,4 +35,4 @@ Crafting, Alchemist
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](critter-crawler-bomb-3870359442.json)

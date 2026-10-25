@@ -1,0 +1,69 @@
+{
+ "id": 3152907053,
+ "name": "Glow Dirt",
+ "internalName": "Build_TerrainMaterial_T1_GlowDirt_Blue_ActiveMycelium",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/3152907053.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It glows in the dark.",
+ "lore": null,
+ "whereToFind": "Caves",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 192912459,
+   "name": "Self Illumination Block",
+   "page": "items/buildtools/self-illumination-block-192912459.md",
+   "json": "items/buildtools/self-illumination-block-192912459.json"
+  },
+  {
+   "id": 2605828761,
+   "name": "T5 Prop Decoration Comfort Illumination Floor (Lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-lantern-2605828761.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-lantern-2605828761.json"
+  },
+  {
+   "id": 906753878,
+   "name": "T5 Prop Decoration Comfort Illumination Ceiling (lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-ceiling-lantern-906753878.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-ceiling-lantern-906753878.json"
+  },
+  {
+   "id": 983382748,
+   "name": "T5 Prop Decoration Comfort Illumination Wall (Lantern)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-lantern-983382748.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-lantern-983382748.json"
+  },
+  {
+   "id": 4178847220,
+   "name": "Chandelier",
+   "page": "items/buildtools/chandelier-4178847220.md",
+   "json": "items/buildtools/chandelier-4178847220.json"
+  },
+  {
+   "id": 1631158255,
+   "name": "Lantern",
+   "page": "items/buildtools/lantern-1631158255.md",
+   "json": "items/buildtools/lantern-1631158255.json"
+  },
+  {
+   "id": 2560383707,
+   "name": "Wall Lantern",
+   "page": "items/buildtools/wall-lantern-2560383707.md",
+   "json": "items/buildtools/wall-lantern-2560383707.json"
+  }
+ ],
+ "page": "items/materials/glow-dirt-3152907053.md"
+}

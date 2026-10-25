@@ -1,0 +1,25 @@
+{
+ "id": 3899759098,
+ "name": "T7 AncientLand Sand",
+ "internalName": "Build_TerrainMaterial_T7_Dirt_AncientLand_Sand",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3899759098.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T7 AncientLand Sand description",
+ "lore": null,
+ "whereToFind": "Ancient Land",
+ "object": null,
+ "page": "items/materials/t7-ancientland-sand-3899759098.md"
+}

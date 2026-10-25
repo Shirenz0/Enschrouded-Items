@@ -17,4 +17,4 @@ Pants which protect your legs from brambles and thorns when hunting.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-ranger-legs.json)

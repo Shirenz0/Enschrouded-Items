@@ -1,0 +1,99 @@
+{
+ "id": 760251531,
+ "name": "T2 Talltree Stone",
+ "internalName": "Build_TerrainMaterial_T2_Stone_Talltree",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/760251531.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The best stories start small. For example with a stone. For whoever asks it could be a famous one.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 168200942,
+   "name": "Ancient Sunken City Block",
+   "page": "items/buildtools/ancient-sunken-city-block-168200942.md",
+   "json": "items/buildtools/ancient-sunken-city-block-168200942.json"
+  },
+  {
+   "id": 3380780330,
+   "name": "Vukah Stones",
+   "page": "items/buildtools/vukah-stones-3380780330.md",
+   "json": "items/buildtools/vukah-stones-3380780330.json"
+  },
+  {
+   "id": 3703183929,
+   "name": "Blackmire Statue I",
+   "page": "items/buildtools/blackmire-statue-i-3703183929.md",
+   "json": "items/buildtools/blackmire-statue-i-3703183929.json"
+  },
+  {
+   "id": 1805511200,
+   "name": "Blackmire Statue II",
+   "page": "items/buildtools/blackmire-statue-ii-1805511200.md",
+   "json": "items/buildtools/blackmire-statue-ii-1805511200.json"
+  },
+  {
+   "id": 1521263970,
+   "name": "Blackmire Statue III",
+   "page": "items/buildtools/blackmire-statue-iii-1521263970.md",
+   "json": "items/buildtools/blackmire-statue-iii-1521263970.json"
+  },
+  {
+   "id": 3460636238,
+   "name": "Blackmire Statue IV",
+   "page": "items/buildtools/blackmire-statue-iv-3460636238.md",
+   "json": "items/buildtools/blackmire-statue-iv-3460636238.json"
+  },
+  {
+   "id": 1389031384,
+   "name": "Blackmire Statue V",
+   "page": "items/buildtools/blackmire-statue-v-1389031384.md",
+   "json": "items/buildtools/blackmire-statue-v-1389031384.json"
+  },
+  {
+   "id": 3459567060,
+   "name": "Blackmire Statue VI",
+   "page": "items/buildtools/blackmire-statue-vi-3459567060.md",
+   "json": "items/buildtools/blackmire-statue-vi-3459567060.json"
+  },
+  {
+   "id": 3155995947,
+   "name": "Big Blackmire Statue I",
+   "page": "items/buildtools/big-blackmire-statue-i-3155995947.md",
+   "json": "items/buildtools/big-blackmire-statue-i-3155995947.json"
+  },
+  {
+   "id": 861959626,
+   "name": "Big Blackmire Statue II",
+   "page": "items/buildtools/big-blackmire-statue-ii-861959626.md",
+   "json": "items/buildtools/big-blackmire-statue-ii-861959626.json"
+  },
+  {
+   "id": 3620677285,
+   "name": "T2 Talltrees Rubble",
+   "page": "items/materials/t2-talltrees-rubble-3620677285.md",
+   "json": "items/materials/t2-talltrees-rubble-3620677285.json"
+  },
+  {
+   "id": 3996280801,
+   "name": "Blackmire Temple Door",
+   "page": "items/buildtools/blackmire-temple-door-3996280801.md",
+   "json": "items/buildtools/blackmire-temple-door-3996280801.json"
+  }
+ ],
+ "page": "items/materials/t2-talltree-stone-760251531.md"
+}

@@ -1,0 +1,402 @@
+{
+ "id": 4271896226,
+ "name": "Metal Sheets",
+ "internalName": "Material_T1_Metal_Sheets",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/4271896226.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Sheets melted out of Metal Scraps to make them more workable and open up options for the further processing.",
+ "lore": null,
+ "whereToFind": "Forge",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 986468747,
+   "station": "Forge",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3697152581,
+   "name": "Grappling Hook Pull Up Anchor",
+   "page": "items/buildtools/grappling-hook-pull-up-anchor-3697152581.md",
+   "json": "items/buildtools/grappling-hook-pull-up-anchor-3697152581.json"
+  },
+  {
+   "id": 996907151,
+   "name": "Grappling Hook Swing Anchor",
+   "page": "items/buildtools/grappling-hook-swing-anchor-996907151.md",
+   "json": "items/buildtools/grappling-hook-swing-anchor-996907151.json"
+  },
+  {
+   "id": 3642338342,
+   "name": "Medium Chest",
+   "page": "items/buildtools/medium-chest-3642338342.md",
+   "json": "items/buildtools/medium-chest-3642338342.json"
+  },
+  {
+   "id": 1302084846,
+   "name": "Wooden Chest",
+   "page": "items/buildtools/wooden-chest-1302084846.md",
+   "json": "items/buildtools/wooden-chest-1302084846.json"
+  },
+  {
+   "id": 2463706463,
+   "name": "Magic Medium Chest",
+   "page": "items/buildtools/magic-medium-chest-2463706463.md",
+   "json": "items/buildtools/magic-medium-chest-2463706463.json"
+  },
+  {
+   "id": 485052852,
+   "name": "Metal Block",
+   "page": "items/buildtools/metal-block-485052852.md",
+   "json": "items/buildtools/metal-block-485052852.json"
+  },
+  {
+   "id": 2585799720,
+   "name": "Pocket Heater",
+   "page": "items/consumables/pocket-heater-2585799720.md",
+   "json": "items/consumables/pocket-heater-2585799720.json"
+  },
+  {
+   "id": 3397817290,
+   "name": "Oven",
+   "page": "items/buildtools/oven-3397817290.md",
+   "json": "items/buildtools/oven-3397817290.json"
+  },
+  {
+   "id": 3032252431,
+   "name": "Butter Churn",
+   "page": "items/buildtools/butter-churn-3032252431.md",
+   "json": "items/buildtools/butter-churn-3032252431.json"
+  },
+  {
+   "id": 625549676,
+   "name": "Logic System Workbench",
+   "page": "items/buildtools/logic-system-workbench-625549676.md",
+   "json": "items/buildtools/logic-system-workbench-625549676.json"
+  },
+  {
+   "id": 3229096192,
+   "name": "Coloring Station",
+   "page": "items/buildtools/coloring-station-3229096192.md",
+   "json": "items/buildtools/coloring-station-3229096192.json"
+  },
+  {
+   "id": 3022051215,
+   "name": "Snap Trap",
+   "page": "items/buildtools/snap-trap-3022051215.md",
+   "json": "items/buildtools/snap-trap-3022051215.json"
+  },
+  {
+   "id": 2894102737,
+   "name": "Wolf's Hydra",
+   "page": "items/weapons/wolf-s-hydra-2894102737.md",
+   "json": "items/weapons/wolf-s-hydra-2894102737.json"
+  },
+  {
+   "id": 462958958,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-462958958.md",
+   "json": "items/weapons/fenrig-s-axe-462958958.json"
+  },
+  {
+   "id": 3265226455,
+   "name": "Wailing Blade",
+   "page": "items/weapons/wailing-blade-3265226455.md",
+   "json": "items/weapons/wailing-blade-3265226455.json"
+  },
+  {
+   "id": 2159741777,
+   "name": "Valiant Shield",
+   "page": "items/equipment/valiant-shield-2159741777.md",
+   "json": "items/equipment/valiant-shield-2159741777.json"
+  },
+  {
+   "id": 454512717,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-454512717.md",
+   "json": "items/equipment/pikemead-s-ward-454512717.json"
+  },
+  {
+   "id": 1729196030,
+   "name": "Valor Heart Dagger",
+   "page": "items/weapons/valor-heart-dagger-1729196030.md",
+   "json": "items/weapons/valor-heart-dagger-1729196030.json"
+  },
+  {
+   "id": 876348272,
+   "name": "Sacrificial Vukah Dagger",
+   "page": "items/weapons/sacrificial-vukah-dagger-876348272.md",
+   "json": "items/weapons/sacrificial-vukah-dagger-876348272.json"
+  },
+  {
+   "id": 201987856,
+   "name": "Spectral Shield",
+   "page": "items/equipment/spectral-shield-201987856.md",
+   "json": "items/equipment/spectral-shield-201987856.json"
+  },
+  {
+   "id": 1694671169,
+   "name": "Rising Fighter Boots",
+   "page": "items/equipment/rising-fighter-boots-1694671169.md",
+   "json": "items/equipment/rising-fighter-boots-1694671169.json"
+  },
+  {
+   "id": 4293917741,
+   "name": "Rising Fighter Trousers",
+   "page": "items/equipment/rising-fighter-trousers-4293917741.md",
+   "json": "items/equipment/rising-fighter-trousers-4293917741.json"
+  },
+  {
+   "id": 199517504,
+   "name": "Rising Fighter Gloves",
+   "page": "items/equipment/rising-fighter-gloves-199517504.md",
+   "json": "items/equipment/rising-fighter-gloves-199517504.json"
+  },
+  {
+   "id": 2937561739,
+   "name": "Rising Fighter Chest",
+   "page": "items/equipment/rising-fighter-chest-2937561739.md",
+   "json": "items/equipment/rising-fighter-chest-2937561739.json"
+  },
+  {
+   "id": 2070050318,
+   "name": "Rising Fighter Helmet",
+   "page": "items/equipment/rising-fighter-helmet-2070050318.md",
+   "json": "items/equipment/rising-fighter-helmet-2070050318.json"
+  },
+  {
+   "id": 1485009287,
+   "name": "Plough",
+   "page": "items/buildtools/plough-1485009287.md",
+   "json": "items/buildtools/plough-1485009287.json"
+  },
+  {
+   "id": 3218270728,
+   "name": "Decorative Butter Churn",
+   "page": "items/buildtools/decorative-butter-churn-3218270728.md",
+   "json": "items/buildtools/decorative-butter-churn-3218270728.json"
+  },
+  {
+   "id": 4054901860,
+   "name": "Standing Wooden Barrel",
+   "page": "items/buildtools/standing-wooden-barrel-4054901860.md",
+   "json": "items/buildtools/standing-wooden-barrel-4054901860.json"
+  },
+  {
+   "id": 476656696,
+   "name": "Lying Wooden Barrel",
+   "page": "items/buildtools/lying-wooden-barrel-476656696.md",
+   "json": "items/buildtools/lying-wooden-barrel-476656696.json"
+  },
+  {
+   "id": 2646674848,
+   "name": "Half Wooden Barrel",
+   "page": "items/buildtools/half-wooden-barrel-2646674848.md",
+   "json": "items/buildtools/half-wooden-barrel-2646674848.json"
+  },
+  {
+   "id": 198228932,
+   "name": "Vat I",
+   "page": "items/buildtools/vat-i-198228932.md",
+   "json": "items/buildtools/vat-i-198228932.json"
+  },
+  {
+   "id": 3153333595,
+   "name": "Vat II",
+   "page": "items/buildtools/vat-ii-3153333595.md",
+   "json": "items/buildtools/vat-ii-3153333595.json"
+  },
+  {
+   "id": 2797806241,
+   "name": "Vat III",
+   "page": "items/buildtools/vat-iii-2797806241.md",
+   "json": "items/buildtools/vat-iii-2797806241.json"
+  },
+  {
+   "id": 612622945,
+   "name": "Harrow",
+   "page": "items/buildtools/harrow-612622945.md",
+   "json": "items/buildtools/harrow-612622945.json"
+  },
+  {
+   "id": 4193786610,
+   "name": "Waggon",
+   "page": "items/buildtools/waggon-4193786610.md",
+   "json": "items/buildtools/waggon-4193786610.json"
+  },
+  {
+   "id": 3937993843,
+   "name": "Big Waggon",
+   "page": "items/buildtools/big-waggon-3937993843.md",
+   "json": "items/buildtools/big-waggon-3937993843.json"
+  },
+  {
+   "id": 3407492288,
+   "name": "Scrappy Crate",
+   "page": "items/buildtools/scrappy-crate-3407492288.md",
+   "json": "items/buildtools/scrappy-crate-3407492288.json"
+  },
+  {
+   "id": 4218685557,
+   "name": "Kettle",
+   "page": "items/buildtools/kettle-4218685557.md",
+   "json": "items/buildtools/kettle-4218685557.json"
+  },
+  {
+   "id": 3107844914,
+   "name": "Wood Bucket",
+   "page": "items/buildtools/wood-bucket-3107844914.md",
+   "json": "items/buildtools/wood-bucket-3107844914.json"
+  },
+  {
+   "id": 883401509,
+   "name": "Skeleton Showkase",
+   "page": "items/buildtools/skeleton-showkase-883401509.md",
+   "json": "items/buildtools/skeleton-showkase-883401509.json"
+  },
+  {
+   "id": 171960142,
+   "name": "PikeMeadStatue Showcase",
+   "page": "items/buildtools/pikemeadstatue-showcase-171960142.md",
+   "json": "items/buildtools/pikemeadstatue-showcase-171960142.json"
+  },
+  {
+   "id": 2541182637,
+   "name": "Secret Shell Limestone Door",
+   "page": "items/buildtools/secret-shell-limestone-door-2541182637.md",
+   "json": "items/buildtools/secret-shell-limestone-door-2541182637.json"
+  },
+  {
+   "id": 1709695140,
+   "name": "Secret Polished Granite Door",
+   "page": "items/buildtools/secret-polished-granite-door-1709695140.md",
+   "json": "items/buildtools/secret-polished-granite-door-1709695140.json"
+  },
+  {
+   "id": 2073515912,
+   "name": "Secret Granite Door",
+   "page": "items/buildtools/secret-granite-door-2073515912.md",
+   "json": "items/buildtools/secret-granite-door-2073515912.json"
+  },
+  {
+   "id": 3649373448,
+   "name": "Secret Sandstone Door",
+   "page": "items/buildtools/secret-sandstone-door-3649373448.md",
+   "json": "items/buildtools/secret-sandstone-door-3649373448.json"
+  },
+  {
+   "id": 1818315440,
+   "name": "Stone Floor Secret",
+   "page": "items/buildtools/stone-floor-secret-1818315440.md",
+   "json": "items/buildtools/stone-floor-secret-1818315440.json"
+  },
+  {
+   "id": 2310562016,
+   "name": "Basement Wall Secret",
+   "page": "items/buildtools/basement-wall-secret-2310562016.md",
+   "json": "items/buildtools/basement-wall-secret-2310562016.json"
+  },
+  {
+   "id": 2191154793,
+   "name": "Secret Crude Wooden Bookshelf Door",
+   "page": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.md",
+   "json": "items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.json"
+  },
+  {
+   "id": 3126384595,
+   "name": "Carved Secret Bookshelf Door",
+   "page": "items/buildtools/carved-secret-bookshelf-door-3126384595.md",
+   "json": "items/buildtools/carved-secret-bookshelf-door-3126384595.json"
+  },
+  {
+   "id": 22389632,
+   "name": "Castle Wall Secret",
+   "page": "items/buildtools/castle-wall-secret-22389632.md",
+   "json": "items/buildtools/castle-wall-secret-22389632.json"
+  },
+  {
+   "id": 1293427697,
+   "name": "Red Marble Secret",
+   "page": "items/buildtools/red-marble-secret-1293427697.md",
+   "json": "items/buildtools/red-marble-secret-1293427697.json"
+  },
+  {
+   "id": 964619626,
+   "name": "Secret Limestone Door",
+   "page": "items/buildtools/secret-limestone-door-964619626.md",
+   "json": "items/buildtools/secret-limestone-door-964619626.json"
+  },
+  {
+   "id": 2612266571,
+   "name": "Secret Flintstone Door",
+   "page": "items/buildtools/secret-flintstone-door-2612266571.md",
+   "json": "items/buildtools/secret-flintstone-door-2612266571.json"
+  },
+  {
+   "id": 2849381153,
+   "name": "Stone Wall Secret TallTree",
+   "page": "items/buildtools/stone-wall-secret-talltree-2849381153.md",
+   "json": "items/buildtools/stone-wall-secret-talltree-2849381153.json"
+  },
+  {
+   "id": 3109447286,
+   "name": "Stone Wall Secret",
+   "page": "items/buildtools/stone-wall-secret-3109447286.md",
+   "json": "items/buildtools/stone-wall-secret-3109447286.json"
+  },
+  {
+   "id": 296290399,
+   "name": "Wooden Floor Secret",
+   "page": "items/buildtools/wooden-floor-secret-296290399.md",
+   "json": "items/buildtools/wooden-floor-secret-296290399.json"
+  },
+  {
+   "id": 1917066440,
+   "name": "Wood Wall Secret",
+   "page": "items/buildtools/wood-wall-secret-1917066440.md",
+   "json": "items/buildtools/wood-wall-secret-1917066440.json"
+  },
+  {
+   "id": 4020448547,
+   "name": "Ancient Wall Secret",
+   "page": "items/buildtools/ancient-wall-secret-4020448547.md",
+   "json": "items/buildtools/ancient-wall-secret-4020448547.json"
+  }
+ ],
+ "page": "items/materials/metal-sheets-4271896226.md"
+}

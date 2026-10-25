@@ -1,0 +1,25 @@
+{
+ "id": 166917849,
+ "name": "Damaged Fur Boot",
+ "internalName": "_Material_TX_Damaged_FurBoot_Fishing",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 500,
+ "image": "images/icons/166917849.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "damged fur boot - looks like a fur patch.",
+ "lore": null,
+ "whereToFind": "Fishing",
+ "object": null,
+ "page": "items/materials/damaged-fur-boot-166917849.md"
+}

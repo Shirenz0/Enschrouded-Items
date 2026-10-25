@@ -1,0 +1,41 @@
+{
+ "id": 844759039,
+ "name": "Gem of Repetition",
+ "internalName": "T1_Gem_GemOfRepetition",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/844759039.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Dealing pierce damage applies  puncturing to enemies.  Punctured enemies receive %k bonus pierce damage from ANY pierce damage source for %k",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Additional Weapon Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 3000,
+    "display": "3 s",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-repetition-844759039.md"
+}

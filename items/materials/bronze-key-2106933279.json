@@ -1,0 +1,25 @@
+{
+ "id": 2106933279,
+ "name": "Bronze Key",
+ "internalName": "Key_Bronze01",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5,
+ "image": "images/icons/2106933279.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Opens a locked chest.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/bronze-key-2106933279.md"
+}

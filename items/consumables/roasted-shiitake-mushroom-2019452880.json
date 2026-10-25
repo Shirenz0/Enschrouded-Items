@@ -1,0 +1,59 @@
+{
+ "id": 2019452880,
+ "name": "Roasted Shiitake Mushroom",
+ "internalName": "Food_T6_processed_mushroom_Shiitake",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2019452880.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "roasted shiitake mushroom t6 desc",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 343531297,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3354704185,
+      "name": "Shiitake Mushroom",
+      "page": "items/consumables/shiitake-mushroom-3354704185.md",
+      "json": "items/consumables/shiitake-mushroom-3354704185.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/roasted-shiitake-mushroom-2019452880.md"
+}

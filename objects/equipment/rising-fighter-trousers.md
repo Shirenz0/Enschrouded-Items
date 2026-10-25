@@ -17,4 +17,4 @@ Polstered trousers to dampen your fall in fighting practice.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](rising-fighter-trousers.json)

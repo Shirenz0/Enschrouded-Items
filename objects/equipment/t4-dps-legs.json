@@ -1,0 +1,61 @@
+{
+ "name": "T4 DPS Legs",
+ "category": "Equipment",
+ "image": "images/icons/3072220773.png",
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1809820393,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1809820393.png",
+   "page": "items/equipment/t4-dps-legs-1809820393.md",
+   "json": "items/equipment/t4-dps-legs-1809820393.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1880424695,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1880424695.png",
+   "page": "items/equipment/t4-dps-legs-1880424695.md",
+   "json": "items/equipment/t4-dps-legs-1880424695.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 2021532663,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2021532663.png",
+   "page": "items/equipment/t4-dps-legs-2021532663.md",
+   "json": "items/equipment/t4-dps-legs-2021532663.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3072220773,
+   "name": "T4 DPS Legs",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3072220773.png",
+   "page": "items/equipment/t4-dps-legs-3072220773.md",
+   "json": "items/equipment/t4-dps-legs-3072220773.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/equipment/t4-dps-legs.md"
+}

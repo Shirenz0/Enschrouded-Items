@@ -1,0 +1,104 @@
+{
+ "id": 1069361064,
+ "name": "Shroud Weaver",
+ "internalName": "Craft_Weapon_T7_2H_Lore_StaffEpic_ministory_17",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/1069361064.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A malicious staff that effortlessly intertwines the strings of fate with the Shroud.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/shroud-weaver.md",
+  "json": "objects/weapons/shroud-weaver.json",
+  "versions": 5
+ },
+ "stats": {
+  "slot": "Ranged weapon"
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Brutal",
+   "effect": "+24 Brutal"
+  },
+  {
+   "order": 3,
+   "name": "+1 Mana Currents",
+   "effect": "Increases the skill level of Mana Currents by +1"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Nebulous",
+   "effect": "+10 Nebulous"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 430059906,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2246309017,
+      "name": "Glass",
+      "page": "items/materials/glass-2246309017.md",
+      "json": "items/materials/glass-2246309017.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1047122195,
+      "name": "Shroud Adhesive",
+      "page": "items/materials/shroud-adhesive-1047122195.md",
+      "json": "items/materials/shroud-adhesive-1047122195.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/shroud-weaver-1069361064.md"
+}

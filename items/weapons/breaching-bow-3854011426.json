@@ -1,0 +1,118 @@
+{
+ "id": 3854011426,
+ "name": "Breaching Bow",
+ "internalName": "Craft_Weapon_T7_2H_Lore_Bow_drakHeavy",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 46,
+  "max": 46
+ },
+ "maxStack": 1,
+ "image": "images/icons/3854011426.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Breaches all - flesh, scales, borders.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/breaching-bow.md",
+  "json": "objects/weapons/breaching-bow.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Ranged weapon",
+  "values": [
+   {
+    "label": "Draw Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Arrow Speed",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Brutal",
+   "effect": "+24 Brutal"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+7 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3191165230,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1475408789,
+      "name": "Conifer Logs",
+      "page": "items/materials/conifer-logs-1475408789.md",
+      "json": "items/materials/conifer-logs-1475408789.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4005698976,
+      "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+      "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+      "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/breaching-bow-3854011426.md"
+}

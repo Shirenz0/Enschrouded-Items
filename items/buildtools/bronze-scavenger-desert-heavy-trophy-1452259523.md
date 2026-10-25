@@ -27,4 +27,4 @@ A severed Scavenger Desert Heavy Head. Collect multiple to craft the bronze trop
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](bronze-scavenger-desert-heavy-trophy-1452259523.json)

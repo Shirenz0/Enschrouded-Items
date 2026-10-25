@@ -1,0 +1,40 @@
+{
+ "name": "Cauldron",
+ "category": "BuildTools",
+ "image": "images/icons/311508484.png",
+ "versions": 2,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "rarity",
+  "description"
+ ],
+ "items": [
+  {
+   "id": 3119388545,
+   "name": "Cauldron",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3119388545.png",
+   "page": "items/buildtools/cauldron-3119388545.md",
+   "json": "items/buildtools/cauldron-3119388545.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 311508484,
+   "name": "Cauldron",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/311508484.png",
+   "page": "items/buildtools/cauldron-311508484.md",
+   "json": "items/buildtools/cauldron-311508484.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/cauldron.md"
+}

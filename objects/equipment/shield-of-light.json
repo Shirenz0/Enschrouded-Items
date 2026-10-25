@@ -1,0 +1,35 @@
+{
+ "name": "Shield of Light",
+ "category": "Equipment",
+ "image": "images/icons/3056575447.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2584194594,
+   "name": "Shield of Light",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2584194594.png",
+   "page": "items/equipment/shield-of-light-2584194594.md",
+   "json": "items/equipment/shield-of-light-2584194594.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3056575447,
+   "name": "Shield of Light",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3056575447.png",
+   "page": "items/equipment/shield-of-light-3056575447.md",
+   "json": "items/equipment/shield-of-light-3056575447.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/shield-of-light.md"
+}

@@ -1,0 +1,54 @@
+{
+ "id": 32289505,
+ "name": "Gleam Root Diving Light",
+ "internalName": "Tool_Torch04_GleamRoot_UnderWater",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 37,
+  "max": 37
+ },
+ "maxStack": 50,
+ "image": "images/icons/32289505.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Lights your path, even under water. Not as strong as regular torches",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3574344648,
+   "station": null,
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 3507051762,
+      "name": "Gleam Root Dust",
+      "page": "items/materials/gleam-root-dust-3507051762.md",
+      "json": "items/materials/gleam-root-dust-3507051762.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/gleam-root-diving-light-32289505.md"
+}

@@ -1,0 +1,70 @@
+{
+ "id": 3494273287,
+ "name": "Gold In The Water",
+ "internalName": "ColorPalette_T6_ColorPalette_03",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3494273287.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Whant to look like a gold nugget laying on the ground of a lake? With this color palette you embody just that. richt and vibrant blues with just a hint of gold in it. This palette can be made with Wetland materials.",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3050148333,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3581489769,
+      "name": "Shroud Relic",
+      "page": "items/materials/shroud-relic-3581489769.md",
+      "json": "items/materials/shroud-relic-3581489769.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1897605064,
+      "name": "Daylily Flower",
+      "page": "items/materials/daylily-flower-1897605064.md",
+      "json": "items/materials/daylily-flower-1897605064.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/gold-in-the-water-3494273287.md"
+}

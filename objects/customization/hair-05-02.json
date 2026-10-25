@@ -1,0 +1,88 @@
+{
+ "name": "Hair 05 02",
+ "category": "Customization",
+ "image": null,
+ "versions": 7,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1148472898,
+   "name": "Hair 05 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-05-02-1148472898.md",
+   "json": "items/customization/hair-05-02-1148472898.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2870981752,
+   "name": "Hair 05 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-05-02-2870981752.md",
+   "json": "items/customization/hair-05-02-2870981752.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3602168171,
+   "name": "Hair 05 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-05-02-3602168171.md",
+   "json": "items/customization/hair-05-02-3602168171.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 403749265,
+   "name": "Hair 05 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-05-02-403749265.md",
+   "json": "items/customization/hair-05-02-403749265.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 468025339,
+   "name": "Hair 05 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-05-02-468025339.md",
+   "json": "items/customization/hair-05-02-468025339.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 476989835,
+   "name": "Hair 05 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-05-02-476989835.md",
+   "json": "items/customization/hair-05-02-476989835.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 962571235,
+   "name": "Hair 05 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-05-02-962571235.md",
+   "json": "items/customization/hair-05-02-962571235.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/hair-05-02.md"
+}

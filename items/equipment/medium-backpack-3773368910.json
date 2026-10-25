@@ -1,0 +1,67 @@
+{
+ "id": 3773368910,
+ "name": "Medium Backpack",
+ "internalName": "Backpack_T2_NEW",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3773368910.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Backpack t2  NEW Copy from old one",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/medium-backpack.md",
+  "json": "objects/equipment/medium-backpack.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Backpack",
+  "values": [
+   {
+    "label": "Slots",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 19737917,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 291752398,
+      "name": "Reptile Leather",
+      "page": "items/materials/reptile-leather-291752398.md",
+      "json": "items/materials/reptile-leather-291752398.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/medium-backpack-3773368910.md"
+}

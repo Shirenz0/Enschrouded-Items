@@ -1,0 +1,51 @@
+{
+ "id": 345631469,
+ "name": "Hydrak'Dal Head",
+ "internalName": "Material_TX_Trophy_Drak_Heavy_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/345631469.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The severed head of a leader from the Drak'Dal tribe. You've severed this one, but in it's place two new ones will form. \n\nCollect multiple Cyclops Heads to craft the Trophy.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 973320971,
+   "name": "Gold Hydrak'Dal Trophy",
+   "page": "items/buildtools/gold-hydrak-dal-trophy-973320971.md",
+   "json": "items/buildtools/gold-hydrak-dal-trophy-973320971.json"
+  },
+  {
+   "id": 3531113233,
+   "name": "Iron Hydrak'Dal Trophy",
+   "page": "items/buildtools/iron-hydrak-dal-trophy-3531113233.md",
+   "json": "items/buildtools/iron-hydrak-dal-trophy-3531113233.json"
+  },
+  {
+   "id": 645413968,
+   "name": "Bronze Hydrak'Dal Trophy",
+   "page": "items/buildtools/bronze-hydrak-dal-trophy-645413968.md",
+   "json": "items/buildtools/bronze-hydrak-dal-trophy-645413968.json"
+  },
+  {
+   "id": 736400222,
+   "name": "Hydrak'Dal Trophy",
+   "page": "items/buildtools/hydrak-dal-trophy-736400222.md",
+   "json": "items/buildtools/hydrak-dal-trophy-736400222.json"
+  }
+ ],
+ "page": "items/materials/hydrak-dal-head-345631469.md"
+}

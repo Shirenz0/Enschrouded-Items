@@ -27,4 +27,4 @@ Vanity Haloween2024 Outfit legs Desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](vanity-haloween2024-outfit-leg-1987039042.json)

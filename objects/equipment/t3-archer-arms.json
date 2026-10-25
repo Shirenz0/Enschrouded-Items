@@ -1,0 +1,35 @@
+{
+ "name": "T3 Archer Arms",
+ "category": "Equipment",
+ "image": "images/icons/699269342.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 4105535926,
+   "name": "T3 Archer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4105535926.png",
+   "page": "items/equipment/t3-archer-arms-4105535926.md",
+   "json": "items/equipment/t3-archer-arms-4105535926.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 699269342,
+   "name": "T3 Archer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/699269342.png",
+   "page": "items/equipment/t3-archer-arms-699269342.md",
+   "json": "items/equipment/t3-archer-arms-699269342.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-archer-arms.md"
+}

@@ -1,0 +1,96 @@
+{
+ "id": 1476723348,
+ "name": "Lucky Fishing Rod",
+ "internalName": "Tool_T6_FishingRod_epic_lucky",
+ "category": {
+  "id": "FishingRod",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1476723348.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "You're more likely to catch a treasure with this rod",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "values": [
+   {
+    "label": "Fishing Strength",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fishing Endurance",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 40687218,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1381084162,
+      "name": "Bamboo Logs",
+      "page": "items/materials/bamboo-logs-1381084162.md",
+      "json": "items/materials/bamboo-logs-1381084162.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/lucky-fishing-rod-1476723348.md"
+}

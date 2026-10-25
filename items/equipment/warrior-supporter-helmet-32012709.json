@@ -1,0 +1,28 @@
+{
+ "id": 32012709,
+ "name": "Warrior Supporter helmet",
+ "internalName": "Vanity_Tx_DLC_Supporter_Warrior_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/32012709.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Warrior Supporter helmet description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head"
+ },
+ "page": "items/equipment/warrior-supporter-helmet-32012709.md"
+}

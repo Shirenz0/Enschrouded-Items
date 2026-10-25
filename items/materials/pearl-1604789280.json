@@ -1,0 +1,51 @@
+{
+ "id": 1604789280,
+ "name": "Pearl",
+ "internalName": "Material_T6_Pearl",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1604789280.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "a gorgeous pearl",
+ "lore": null,
+ "whereToFind": "find in T6 underwater",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3254225118,
+   "name": "Swim Sprint Stamina Reduction Flask",
+   "page": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.md",
+   "json": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.json"
+  },
+  {
+   "id": 1625866381,
+   "name": "T6 Eternal Heal Beam Channel I",
+   "page": "items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.md",
+   "json": "items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.json"
+  },
+  {
+   "id": 1898288525,
+   "name": "Mother-Of-Pearl",
+   "page": "items/materials/mother-of-pearl-1898288525.md",
+   "json": "items/materials/mother-of-pearl-1898288525.json"
+  },
+  {
+   "id": 1467281560,
+   "name": "Ward T6",
+   "page": "items/equipment/ward-t6-1467281560.md",
+   "json": "items/equipment/ward-t6-1467281560.json"
+  }
+ ],
+ "page": "items/materials/pearl-1604789280.md"
+}

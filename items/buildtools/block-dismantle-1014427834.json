@@ -1,0 +1,25 @@
+{
+ "id": 1014427834,
+ "name": "Block Dismantle",
+ "internalName": "BuildTool_Block_Remove",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1014427834.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/block-dismantle-1014427834.md"
+}

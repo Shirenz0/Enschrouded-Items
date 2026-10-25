@@ -1,0 +1,76 @@
+{
+ "id": 913533703,
+ "name": "Throwing Knives",
+ "internalName": "Weapon_T5_2H_Lore_Daggers_DPS_ministory_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/913533703.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/throwing-knives.md",
+  "json": "objects/weapons/throwing-knives.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 400,
+    "display": "0.4 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Sneaky",
+   "effect": "+20 Sneaky"
+  },
+  {
+   "order": 2,
+   "name": "",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Sneaky",
+   "effect": "+20 Sneaky"
+  },
+  {
+   "order": 4,
+   "name": "Brutal",
+   "effect": "+20 Brutal"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+20 Brutal"
+  }
+ ],
+ "page": "items/weapons/throwing-knives-913533703.md"
+}

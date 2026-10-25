@@ -1,0 +1,79 @@
+{
+ "id": 3562500384,
+ "name": "Sage Leaves",
+ "internalName": "Food_T3_raw_herb_Sage_Leaves",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3562500384.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A bitter tasting herb, that can be found in dry areas. It's said to have enlightening abilities.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 900000,
+    "display": "15:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 587195934,
+   "name": "Nightplant Soup",
+   "page": "items/consumables/nightplant-soup-587195934.md",
+   "json": "items/consumables/nightplant-soup-587195934.json"
+  },
+  {
+   "id": 4018682338,
+   "name": "Sage Seedling",
+   "page": "items/buildtools/sage-seedling-4018682338.md",
+   "json": "items/buildtools/sage-seedling-4018682338.json"
+  },
+  {
+   "id": 649108902,
+   "name": "Antiseptic",
+   "page": "items/materials/antiseptic-649108902.md",
+   "json": "items/materials/antiseptic-649108902.json"
+  },
+  {
+   "id": 2154839974,
+   "name": "Bait Sand Digger",
+   "page": "items/buildtools/bait-sand-digger-2154839974.md",
+   "json": "items/buildtools/bait-sand-digger-2154839974.json"
+  },
+  {
+   "id": 2793515653,
+   "name": "T3 Healer Chest",
+   "page": "items/equipment/t3-healer-chest-2793515653.md",
+   "json": "items/equipment/t3-healer-chest-2793515653.json"
+  },
+  {
+   "id": 1822528443,
+   "name": "T3 Archer Helmet",
+   "page": "items/equipment/t3-archer-helmet-1822528443.md",
+   "json": "items/equipment/t3-archer-helmet-1822528443.json"
+  }
+ ],
+ "page": "items/consumables/sage-leaves-3562500384.md"
+}

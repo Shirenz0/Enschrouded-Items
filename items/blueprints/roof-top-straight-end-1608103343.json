@@ -1,0 +1,29 @@
+{
+ "id": 1608103343,
+ "name": "Roof Top Straight End",
+ "internalName": "Blueprint_Voxel_Roof_Top_Straight_end_2m",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/roof-top-straight-end.md",
+  "json": "objects/blueprints/roof-top-straight-end.json",
+  "versions": 2
+ },
+ "page": "items/blueprints/roof-top-straight-end-1608103343.md"
+}

@@ -1,0 +1,70 @@
+{
+ "id": 2821660974,
+ "name": "T3 Palette 04 Brown Green Grey",
+ "internalName": "ColorPalette_T3_ColorPalette_04",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2821660974.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "vibrant Shades of Brown and Green",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3621011471,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2027586500,
+      "name": "Ammoniak Gland",
+      "page": "items/materials/ammoniak-gland-2027586500.md",
+      "json": "items/materials/ammoniak-gland-2027586500.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2732808327,
+      "name": "Steppes Dirt",
+      "page": "items/materials/steppes-dirt-2732808327.md",
+      "json": "items/materials/steppes-dirt-2732808327.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1453689781,
+      "name": "T3 Green essence",
+      "page": "items/materials/t3-green-essence-1453689781.md",
+      "json": "items/materials/t3-green-essence-1453689781.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.md"
+}

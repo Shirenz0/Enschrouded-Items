@@ -1,0 +1,98 @@
+{
+ "id": 3497094022,
+ "name": "Plantain Salad with ancient beans",
+ "internalName": "Food_T7_dish_vegetable_PlantainBeanSalad",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3497094022.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "plantain sald made out of cooked and roasted plantains, togehter with chopped vegetables and beans",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3600000,
+    "display": "60:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1270811304,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2349456895,
+      "name": "Plantain",
+      "page": "items/consumables/plantain-2349456895.md",
+      "json": "items/consumables/plantain-2349456895.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3317538148,
+      "name": "Ancient \"Beans\"",
+      "page": "items/consumables/ancient-beans-3317538148.md",
+      "json": "items/consumables/ancient-beans-3317538148.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4094316095,
+      "name": "Bell Pepper",
+      "page": "items/consumables/bell-pepper-4094316095.md",
+      "json": "items/consumables/bell-pepper-4094316095.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/plantain-salad-with-ancient-beans-3497094022.md"
+}

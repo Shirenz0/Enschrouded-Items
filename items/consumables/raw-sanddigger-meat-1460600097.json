@@ -1,0 +1,55 @@
+{
+ "id": 1460600097,
+ "name": "Raw Sanddigger Meat",
+ "internalName": "Food_T4_raw_bad_meat_SanddiggerMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1460600097.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Who knows what's in there... Better not eat it like this.",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": -50,
+    "display": "-50",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -60,
+    "display": "-60",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3744591176,
+   "name": "Meat Wrap",
+   "page": "items/consumables/meat-wrap-3744591176.md",
+   "json": "items/consumables/meat-wrap-3744591176.json"
+  },
+  {
+   "id": 643297880,
+   "name": "Grilled Sanddigger",
+   "page": "items/consumables/grilled-sanddigger-643297880.md",
+   "json": "items/consumables/grilled-sanddigger-643297880.json"
+  }
+ ],
+ "page": "items/consumables/raw-sanddigger-meat-1460600097.md"
+}

@@ -17,4 +17,4 @@ Starting out on the path of being an alchemist apprentice, these gloves will mak
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](alchemist-apprentice-gloves.json)

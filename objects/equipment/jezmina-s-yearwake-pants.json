@@ -1,0 +1,35 @@
+{
+ "name": "Jezmina's Yearwake Pants",
+ "category": "Equipment",
+ "image": "images/icons/2273370026.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2249070596,
+   "name": "Jezmina's Yearwake Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2249070596.png",
+   "page": "items/equipment/jezmina-s-yearwake-pants-2249070596.md",
+   "json": "items/equipment/jezmina-s-yearwake-pants-2249070596.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2273370026,
+   "name": "Jezmina's Yearwake Pants",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2273370026.png",
+   "page": "items/equipment/jezmina-s-yearwake-pants-2273370026.md",
+   "json": "items/equipment/jezmina-s-yearwake-pants-2273370026.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/jezmina-s-yearwake-pants.md"
+}

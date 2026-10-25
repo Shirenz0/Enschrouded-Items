@@ -21,4 +21,4 @@ Red Fell Critter Queen head desc
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](red-fell-critter-queen-head-1725685196.json)

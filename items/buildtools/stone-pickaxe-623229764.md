@@ -34,4 +34,4 @@ A basic mining tool, made of the simplest materials. Its not very durable or eff
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](stone-pickaxe-623229764.json)

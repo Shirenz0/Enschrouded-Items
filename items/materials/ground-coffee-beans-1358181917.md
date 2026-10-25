@@ -29,4 +29,4 @@ Crafting, Improved Grinder
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ground-coffee-beans-1358181917.json)

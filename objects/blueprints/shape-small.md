@@ -13,4 +13,4 @@ The versions have the same level range, rarity, stack size and texts; the game k
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](shape-small.json)

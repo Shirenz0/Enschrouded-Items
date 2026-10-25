@@ -30,4 +30,4 @@ Offers a some  amount of storage space to store items.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](small-chest-213939880.json)

@@ -1,0 +1,59 @@
+{
+ "id": 3791962857,
+ "name": "Darya's Staff",
+ "internalName": "Weapon_T5_2H_Lore_Staff_ministory_29",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3791962857.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/darya-s-staff.md",
+  "json": "objects/weapons/darya-s-staff.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Ranged weapon"
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Mana Currents",
+   "effect": "Increases the skill level of Mana Currents by +1"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Thundery",
+   "effect": "+10 Thundery"
+  }
+ ],
+ "page": "items/weapons/darya-s-staff-3791962857.md"
+}

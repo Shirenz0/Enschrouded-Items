@@ -1,0 +1,35 @@
+{
+ "name": "T2 DPS Legs",
+ "category": "Equipment",
+ "image": "images/icons/703671716.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3288350660,
+   "name": "T2 DPS Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3288350660.png",
+   "page": "items/equipment/t2-dps-legs-3288350660.md",
+   "json": "items/equipment/t2-dps-legs-3288350660.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 703671716,
+   "name": "T2 DPS Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/703671716.png",
+   "page": "items/equipment/t2-dps-legs-703671716.md",
+   "json": "items/equipment/t2-dps-legs-703671716.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-dps-legs.md"
+}

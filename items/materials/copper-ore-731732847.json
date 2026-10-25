@@ -1,0 +1,33 @@
+{
+ "id": 731732847,
+ "name": "Copper Ore",
+ "internalName": "Material_T2_Ore_Copper",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/731732847.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The basic ore needed to create a Copper Bar that can be used for many things.",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 170689373,
+   "name": "Copper Bar",
+   "page": "items/materials/copper-bar-170689373.md",
+   "json": "items/materials/copper-bar-170689373.json"
+  }
+ ],
+ "page": "items/materials/copper-ore-731732847.md"
+}

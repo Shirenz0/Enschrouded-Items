@@ -1,0 +1,25 @@
+{
+ "id": 2994143055,
+ "name": "Nomad Highlands Miniature Piece",
+ "internalName": "Collection_Worldmap_Steppe",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2994143055.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A region once filled to the brim with tralleving merchants, gold, and greed.  It was glorious, bustling, and rotten to the core before the Shroud ever came along.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/nomad-highlands-miniature-piece-2994143055.md"
+}

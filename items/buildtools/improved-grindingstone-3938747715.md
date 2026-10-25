@@ -25,4 +25,4 @@ A centerpiece for the improved water grinder.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](improved-grindingstone-3938747715.json)

@@ -1,0 +1,118 @@
+{
+ "id": 255353296,
+ "name": "Pikemead's Ward",
+ "internalName": "Craft_Shield_T7_Lore_ShieldEpic_carpenter_hint06",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/255353296.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Even in death, the queen's shield unites those who seek protection behind it.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/pikemead-s-ward.md",
+  "json": "objects/equipment/pikemead-s-ward.json",
+  "versions": 8
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Fog Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Purification",
+   "effect": "Increases the skill level of Purification by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Survival Instinct",
+   "effect": "Increases the skill level of Survival Instinct"
+  },
+  {
+   "order": 4,
+   "name": "Cut Resistance",
+   "effect": "+5 Cut Resistance"
+  },
+  {
+   "order": 5,
+   "name": "Fog Resistance",
+   "effect": "+5 Fog Resistance"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 990059952,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 853884133,
+      "name": "Shroud Eminence",
+      "page": "items/materials/shroud-eminence-853884133.md",
+      "json": "items/materials/shroud-eminence-853884133.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/pikemead-s-ward-255353296.md"
+}

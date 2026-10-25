@@ -1,0 +1,165 @@
+{
+ "id": 1897605064,
+ "name": "Daylily Flower",
+ "internalName": "Material_T6_Daylily_Flower",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1897605064.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 daylily flower. pretty orange flower, used for dyes",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1050570715,
+   "name": "Poisoned Golden Steel Arrow",
+   "page": "items/ammunition/poisoned-golden-steel-arrow-1050570715.md",
+   "json": "items/ammunition/poisoned-golden-steel-arrow-1050570715.json"
+  },
+  {
+   "id": 1291967765,
+   "name": "Daylily Seedling",
+   "page": "items/buildtools/daylily-seedling-1291967765.md",
+   "json": "items/buildtools/daylily-seedling-1291967765.json"
+  },
+  {
+   "id": 3494273287,
+   "name": "Gold In The Water",
+   "page": "items/colorpalette/gold-in-the-water-3494273287.md",
+   "json": "items/colorpalette/gold-in-the-water-3494273287.json"
+  },
+  {
+   "id": 2331607035,
+   "name": "Rust And Rose",
+   "page": "items/colorpalette/rust-and-rose-2331607035.md",
+   "json": "items/colorpalette/rust-and-rose-2331607035.json"
+  },
+  {
+   "id": 2891068633,
+   "name": "Orange Fabric",
+   "page": "items/materials/orange-fabric-2891068633.md",
+   "json": "items/materials/orange-fabric-2891068633.json"
+  },
+  {
+   "id": 1323450933,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-1323450933.md",
+   "json": "items/weapons/jezmina-s-apotheosis-1323450933.json"
+  },
+  {
+   "id": 3057351533,
+   "name": "Orange Pendant Light I",
+   "page": "items/buildtools/orange-pendant-light-i-3057351533.md",
+   "json": "items/buildtools/orange-pendant-light-i-3057351533.json"
+  },
+  {
+   "id": 193218758,
+   "name": "Orange Pendant Light II",
+   "page": "items/buildtools/orange-pendant-light-ii-193218758.md",
+   "json": "items/buildtools/orange-pendant-light-ii-193218758.json"
+  },
+  {
+   "id": 853154934,
+   "name": "Orange Wall Light I",
+   "page": "items/buildtools/orange-wall-light-i-853154934.md",
+   "json": "items/buildtools/orange-wall-light-i-853154934.json"
+  },
+  {
+   "id": 3679359640,
+   "name": "Orange Wall Light II",
+   "page": "items/buildtools/orange-wall-light-ii-3679359640.md",
+   "json": "items/buildtools/orange-wall-light-ii-3679359640.json"
+  },
+  {
+   "id": 417177465,
+   "name": "Orange Floor Light I",
+   "page": "items/buildtools/orange-floor-light-i-417177465.md",
+   "json": "items/buildtools/orange-floor-light-i-417177465.json"
+  },
+  {
+   "id": 4083221254,
+   "name": "Orange Floor Light II",
+   "page": "items/buildtools/orange-floor-light-ii-4083221254.md",
+   "json": "items/buildtools/orange-floor-light-ii-4083221254.json"
+  },
+  {
+   "id": 4107716547,
+   "name": "Skull Trophy II",
+   "page": "items/buildtools/skull-trophy-ii-4107716547.md",
+   "json": "items/buildtools/skull-trophy-ii-4107716547.json"
+  },
+  {
+   "id": 1224911612,
+   "name": "Skull Trophy III",
+   "page": "items/buildtools/skull-trophy-iii-1224911612.md",
+   "json": "items/buildtools/skull-trophy-iii-1224911612.json"
+  },
+  {
+   "id": 589861897,
+   "name": "Skull Trophy IV",
+   "page": "items/buildtools/skull-trophy-iv-589861897.md",
+   "json": "items/buildtools/skull-trophy-iv-589861897.json"
+  },
+  {
+   "id": 698608775,
+   "name": "Skull Trophy V",
+   "page": "items/buildtools/skull-trophy-v-698608775.md",
+   "json": "items/buildtools/skull-trophy-v-698608775.json"
+  },
+  {
+   "id": 3043055061,
+   "name": "Skull Trophy VI",
+   "page": "items/buildtools/skull-trophy-vi-3043055061.md",
+   "json": "items/buildtools/skull-trophy-vi-3043055061.json"
+  },
+  {
+   "id": 595694028,
+   "name": "Horizontal Banner I",
+   "page": "items/buildtools/horizontal-banner-i-595694028.md",
+   "json": "items/buildtools/horizontal-banner-i-595694028.json"
+  },
+  {
+   "id": 215344206,
+   "name": "Horizontal Banner II",
+   "page": "items/buildtools/horizontal-banner-ii-215344206.md",
+   "json": "items/buildtools/horizontal-banner-ii-215344206.json"
+  },
+  {
+   "id": 1847513367,
+   "name": "Vertical Banner I",
+   "page": "items/buildtools/vertical-banner-i-1847513367.md",
+   "json": "items/buildtools/vertical-banner-i-1847513367.json"
+  },
+  {
+   "id": 3490053092,
+   "name": "Vertical Banner II",
+   "page": "items/buildtools/vertical-banner-ii-3490053092.md",
+   "json": "items/buildtools/vertical-banner-ii-3490053092.json"
+  },
+  {
+   "id": 3492878315,
+   "name": "Vertical Banner III",
+   "page": "items/buildtools/vertical-banner-iii-3492878315.md",
+   "json": "items/buildtools/vertical-banner-iii-3492878315.json"
+  },
+  {
+   "id": 3401744803,
+   "name": "Vertical Banner IV",
+   "page": "items/buildtools/vertical-banner-iv-3401744803.md",
+   "json": "items/buildtools/vertical-banner-iv-3401744803.json"
+  }
+ ],
+ "page": "items/materials/daylily-flower-1897605064.md"
+}

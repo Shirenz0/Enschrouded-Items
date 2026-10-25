@@ -1,0 +1,97 @@
+{
+ "id": 3130551475,
+ "name": "Coconut Milk",
+ "internalName": "Food_T6_processed_hydration_CoconutMilk",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3130551475.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Coconut Milk, drink it pure or cook something with it",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 27,
+    "display": "27",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 60,
+    "display": "60",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 24401653,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 83196405,
+      "name": "Coconut",
+      "page": "items/consumables/coconut-83196405.md",
+      "json": "items/consumables/coconut-83196405.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4124427746,
+   "name": "T6 Taro Root Curry",
+   "page": "items/consumables/t6-taro-root-curry-4124427746.md",
+   "json": "items/consumables/t6-taro-root-curry-4124427746.json"
+  },
+  {
+   "id": 1444162950,
+   "name": "Banana Coconut Smoothie",
+   "page": "items/consumables/banana-coconut-smoothie-1444162950.md",
+   "json": "items/consumables/banana-coconut-smoothie-1444162950.json"
+  },
+  {
+   "id": 2202063914,
+   "name": "Ancient Pomegranate Tarte",
+   "page": "items/consumables/ancient-pomegranate-tarte-2202063914.md",
+   "json": "items/consumables/ancient-pomegranate-tarte-2202063914.json"
+  },
+  {
+   "id": 2884389562,
+   "name": "Banana Curry",
+   "page": "items/consumables/banana-curry-2884389562.md",
+   "json": "items/consumables/banana-curry-2884389562.json"
+  },
+  {
+   "id": 4166256477,
+   "name": "Grilled Fish with Coconut Rice",
+   "page": "items/consumables/grilled-fish-with-coconut-rice-4166256477.md",
+   "json": "items/consumables/grilled-fish-with-coconut-rice-4166256477.json"
+  }
+ ],
+ "page": "items/consumables/coconut-milk-3130551475.md"
+}

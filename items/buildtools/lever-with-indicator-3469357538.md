@@ -21,4 +21,4 @@ A lever combined with a light. PUsing the lever switches the state between true 
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](lever-with-indicator-3469357538.json)

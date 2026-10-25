@@ -1,0 +1,102 @@
+{
+ "id": 2453015274,
+ "name": "Eternal Shock Arrow II",
+ "internalName": "Ammo_T6_Arrow_Magic_Lightning_Eternal_lvl36",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/2453015274.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal Shock Arrow desc",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 35,
+    "display": "35",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Thundery",
+   "effect": "+5 Thundery"
+  },
+  {
+   "order": 5,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2353989460,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3507051762,
+      "name": "Gleam Root Dust",
+      "page": "items/materials/gleam-root-dust-3507051762.md",
+      "json": "items/materials/gleam-root-dust-3507051762.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/eternal-shock-arrow-ii-2453015274.md"
+}

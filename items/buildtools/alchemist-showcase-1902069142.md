@@ -25,4 +25,4 @@ reassemble lost notes to unlock recipes
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](alchemist-showcase-1902069142.json)

@@ -1,0 +1,29 @@
+{
+ "id": 2962795698,
+ "name": "Shape Small",
+ "internalName": "Building_Decay_Shape_Small",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2962795698.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/shape-small.md",
+  "json": "objects/blueprints/shape-small.json",
+  "versions": 2
+ },
+ "page": "items/blueprints/shape-small-2962795698.md"
+}

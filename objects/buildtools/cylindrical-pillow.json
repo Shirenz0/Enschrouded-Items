@@ -1,0 +1,36 @@
+{
+ "name": "Cylindrical Pillow",
+ "category": "BuildTools",
+ "image": "images/icons/3063700121.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1564736216,
+   "name": "Cylindrical Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1564736216.png",
+   "page": "items/buildtools/cylindrical-pillow-1564736216.md",
+   "json": "items/buildtools/cylindrical-pillow-1564736216.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3063700121,
+   "name": "Cylindrical Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3063700121.png",
+   "page": "items/buildtools/cylindrical-pillow-3063700121.md",
+   "json": "items/buildtools/cylindrical-pillow-3063700121.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/cylindrical-pillow.md"
+}

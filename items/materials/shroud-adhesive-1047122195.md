@@ -25,4 +25,4 @@ Shroud Flayer, First: Nomad Highlands Shroud
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](shroud-adhesive-1047122195.json)

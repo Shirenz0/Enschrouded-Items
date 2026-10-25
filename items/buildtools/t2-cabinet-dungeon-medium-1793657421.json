@@ -1,0 +1,70 @@
+{
+ "id": 1793657421,
+ "name": "T2 cabinet Dungeon medium",
+ "internalName": "Prop_Decoration_T2_Cabinet_Medium_Dungeon",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1793657421.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3767318448,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3953523416,
+      "name": "Krypt Krystal",
+      "page": "items/materials/krypt-krystal-3953523416.md",
+      "json": "items/materials/krypt-krystal-3953523416.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t2-cabinet-dungeon-medium-1793657421.md"
+}

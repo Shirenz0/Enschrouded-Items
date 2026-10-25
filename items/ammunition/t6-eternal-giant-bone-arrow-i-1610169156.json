@@ -1,0 +1,102 @@
+{
+ "id": 1610169156,
+ "name": "T6 Eternal Giant Bone Arrow I",
+ "internalName": "Ammo_T6_Arrow_Bone_Eternal_lvl36",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 36,
+  "max": 36
+ },
+ "maxStack": 1,
+ "image": "images/icons/1610169156.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal version of Bone Arrow that costs mana to shoot.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 35,
+    "display": "35",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 4,
+   "name": "All Physical Blunt Damage",
+   "effect": "+5 All Physical Blunt Damage"
+  },
+  {
+   "order": 5,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2295575557,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 100,
+     "item": {
+      "id": 3600953136,
+      "name": "T6 Giant Bone Arrow IV",
+      "page": "items/ammunition/t6-giant-bone-arrow-iv-3600953136.md",
+      "json": "items/ammunition/t6-giant-bone-arrow-iv-3600953136.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1903438107,
+      "name": "T5 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3895216255,
+      "name": "Giant Ice Bones",
+      "page": "items/materials/giant-ice-bones-3895216255.md",
+      "json": "items/materials/giant-ice-bones-3895216255.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t6-eternal-giant-bone-arrow-i-1610169156.md"
+}

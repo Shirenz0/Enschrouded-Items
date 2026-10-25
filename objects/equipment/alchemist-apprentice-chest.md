@@ -17,4 +17,4 @@ A comfortable traditional top suiting an upcoming alchemist.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](alchemist-apprentice-chest.json)

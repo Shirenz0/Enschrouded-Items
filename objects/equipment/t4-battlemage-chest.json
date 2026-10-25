@@ -1,0 +1,35 @@
+{
+ "name": "T4 BattleMage Chest",
+ "category": "Equipment",
+ "image": "images/icons/3372205.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1331200386,
+   "name": "T4 BattleMage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1331200386.png",
+   "page": "items/equipment/t4-battlemage-chest-1331200386.md",
+   "json": "items/equipment/t4-battlemage-chest-1331200386.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3372205,
+   "name": "T4 BattleMage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3372205.png",
+   "page": "items/equipment/t4-battlemage-chest-3372205.md",
+   "json": "items/equipment/t4-battlemage-chest-3372205.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-battlemage-chest.md"
+}

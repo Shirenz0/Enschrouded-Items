@@ -1,0 +1,60 @@
+{
+ "id": 1461371688,
+ "name": "Circular Sawblades",
+ "internalName": "Prop_Component_T2_Sawblades",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1461371688.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An advanced workpiece of a skilled Blacksmith and a needed centerpiece for a Table Saw.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4259765923,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4247975958,
+   "name": "Table Saw",
+   "page": "items/buildtools/table-saw-4247975958.md",
+   "json": "items/buildtools/table-saw-4247975958.json"
+  }
+ ],
+ "page": "items/materials/circular-sawblades-1461371688.md"
+}

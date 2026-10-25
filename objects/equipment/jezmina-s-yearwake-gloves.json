@@ -1,0 +1,35 @@
+{
+ "name": "Jezmina's Yearwake Gloves",
+ "category": "Equipment",
+ "image": "images/icons/4187113723.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2882257945,
+   "name": "Jezmina's Yearwake Gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2882257945.png",
+   "page": "items/equipment/jezmina-s-yearwake-gloves-2882257945.md",
+   "json": "items/equipment/jezmina-s-yearwake-gloves-2882257945.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4187113723,
+   "name": "Jezmina's Yearwake Gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4187113723.png",
+   "page": "items/equipment/jezmina-s-yearwake-gloves-4187113723.md",
+   "json": "items/equipment/jezmina-s-yearwake-gloves-4187113723.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/jezmina-s-yearwake-gloves.md"
+}

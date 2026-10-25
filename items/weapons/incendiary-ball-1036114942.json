@@ -1,0 +1,43 @@
+{
+ "id": 1036114942,
+ "name": "Incendiary Ball",
+ "internalName": "Philipp_Throwable_Ball",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 20,
+ "image": "images/icons/1036114942.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This ball contains a highly flamable liquid, which will cover an area in fire.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/incendiary-ball.md",
+  "json": "objects/weapons/incendiary-ball.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/weapons/incendiary-ball-1036114942.md"
+}

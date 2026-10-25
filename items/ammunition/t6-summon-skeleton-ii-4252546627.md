@@ -36,4 +36,4 @@ Crafting, Collector
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t6-summon-skeleton-ii-4252546627.json)

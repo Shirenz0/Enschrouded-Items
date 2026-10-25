@@ -1,0 +1,29 @@
+{
+ "id": 2429035331,
+ "name": "Carved Tropical Wood Fence Pole",
+ "internalName": "Prop_Decoration_T6_Fence_Wood_Pole_03",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2429035331.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/carved-tropical-wood-fence-pole.md",
+  "json": "objects/buildtools/carved-tropical-wood-fence-pole.json",
+  "versions": 3
+ },
+ "page": "items/buildtools/carved-tropical-wood-fence-pole-2429035331.md"
+}

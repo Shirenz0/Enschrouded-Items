@@ -1,0 +1,96 @@
+{
+ "id": 663961575,
+ "name": "Fish Cutlet",
+ "internalName": "Food_T6_raw_fish_FishCutlet",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/663961575.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Fish cut into thick slices, be aware of the bones, but you can still enjoy it.",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 80,
+    "display": "80",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 600000,
+    "display": "10:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2882068660,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 1675072409,
+       "name": "Fish rare 03 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 3419031428,
+       "name": "Fish rare 01 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 3653119547,
+       "name": "Fish rare 02 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 817023891,
+       "name": "Fish rare 04 name",
+       "page": null,
+       "json": null
+      }
+     ]
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 109152806,
+   "name": "Seared Fish Cutlet",
+   "page": "items/consumables/seared-fish-cutlet-109152806.md",
+   "json": "items/consumables/seared-fish-cutlet-109152806.json"
+  }
+ ],
+ "page": "items/consumables/fish-cutlet-663961575.md"
+}

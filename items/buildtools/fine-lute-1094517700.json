@@ -1,0 +1,29 @@
+{
+ "id": 1094517700,
+ "name": "Fine Lute",
+ "internalName": "Instrument_Lute_Rare",
+ "category": {
+  "id": "Instrument",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1094517700.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Fine Lute Desc",
+ "lore": "Instruments",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "comfort": 2
+ },
+ "page": "items/buildtools/fine-lute-1094517700.md"
+}

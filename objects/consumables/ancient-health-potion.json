@@ -1,0 +1,39 @@
+{
+ "name": "Ancient Health Potion",
+ "category": "Consumables",
+ "image": "images/icons/609216940.png",
+ "versions": 2,
+ "sharedTexts": [
+  "where to find"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1756446918,
+   "name": "Ancient Health Potion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1756446918.png",
+   "page": "items/consumables/ancient-health-potion-1756446918.md",
+   "json": "items/consumables/ancient-health-potion-1756446918.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 609216940,
+   "name": "Ancient Health Potion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/609216940.png",
+   "page": "items/consumables/ancient-health-potion-609216940.md",
+   "json": "items/consumables/ancient-health-potion-609216940.json",
+   "maxStack": 20,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/consumables/ancient-health-potion.md"
+}

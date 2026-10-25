@@ -1,0 +1,141 @@
+{
+ "id": 1068232992,
+ "name": "Underwater Luminous Growth",
+ "internalName": "Build_TerrainMaterial_T6_GlowDirt_Green_Underwater",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/1068232992.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It glows in the dark and under water.",
+ "lore": null,
+ "whereToFind": "find in T6 underwater",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1392674456,
+   "name": "Miner Helmet",
+   "page": "items/equipment/miner-helmet-1392674456.md",
+   "json": "items/equipment/miner-helmet-1392674456.json"
+  },
+  {
+   "id": 2309442083,
+   "name": "Blue Pendant Light I",
+   "page": "items/buildtools/blue-pendant-light-i-2309442083.md",
+   "json": "items/buildtools/blue-pendant-light-i-2309442083.json"
+  },
+  {
+   "id": 3057351533,
+   "name": "Orange Pendant Light I",
+   "page": "items/buildtools/orange-pendant-light-i-3057351533.md",
+   "json": "items/buildtools/orange-pendant-light-i-3057351533.json"
+  },
+  {
+   "id": 2198431481,
+   "name": "Purple Pendant Light I",
+   "page": "items/buildtools/purple-pendant-light-i-2198431481.md",
+   "json": "items/buildtools/purple-pendant-light-i-2198431481.json"
+  },
+  {
+   "id": 939235192,
+   "name": "Blue Pendant Light II",
+   "page": "items/buildtools/blue-pendant-light-ii-939235192.md",
+   "json": "items/buildtools/blue-pendant-light-ii-939235192.json"
+  },
+  {
+   "id": 193218758,
+   "name": "Orange Pendant Light II",
+   "page": "items/buildtools/orange-pendant-light-ii-193218758.md",
+   "json": "items/buildtools/orange-pendant-light-ii-193218758.json"
+  },
+  {
+   "id": 3782344101,
+   "name": "Purple Pendant Light II",
+   "page": "items/buildtools/purple-pendant-light-ii-3782344101.md",
+   "json": "items/buildtools/purple-pendant-light-ii-3782344101.json"
+  },
+  {
+   "id": 14979379,
+   "name": "Blue Wall Light I",
+   "page": "items/buildtools/blue-wall-light-i-14979379.md",
+   "json": "items/buildtools/blue-wall-light-i-14979379.json"
+  },
+  {
+   "id": 853154934,
+   "name": "Orange Wall Light I",
+   "page": "items/buildtools/orange-wall-light-i-853154934.md",
+   "json": "items/buildtools/orange-wall-light-i-853154934.json"
+  },
+  {
+   "id": 1335353289,
+   "name": "Purple Wall Light I",
+   "page": "items/buildtools/purple-wall-light-i-1335353289.md",
+   "json": "items/buildtools/purple-wall-light-i-1335353289.json"
+  },
+  {
+   "id": 3687127031,
+   "name": "Blue Wall Light II",
+   "page": "items/buildtools/blue-wall-light-ii-3687127031.md",
+   "json": "items/buildtools/blue-wall-light-ii-3687127031.json"
+  },
+  {
+   "id": 3679359640,
+   "name": "Orange Wall Light II",
+   "page": "items/buildtools/orange-wall-light-ii-3679359640.md",
+   "json": "items/buildtools/orange-wall-light-ii-3679359640.json"
+  },
+  {
+   "id": 4278796376,
+   "name": "Purple Wall Light II",
+   "page": "items/buildtools/purple-wall-light-ii-4278796376.md",
+   "json": "items/buildtools/purple-wall-light-ii-4278796376.json"
+  },
+  {
+   "id": 1747355696,
+   "name": "Blue Floor Light I",
+   "page": "items/buildtools/blue-floor-light-i-1747355696.md",
+   "json": "items/buildtools/blue-floor-light-i-1747355696.json"
+  },
+  {
+   "id": 417177465,
+   "name": "Orange Floor Light I",
+   "page": "items/buildtools/orange-floor-light-i-417177465.md",
+   "json": "items/buildtools/orange-floor-light-i-417177465.json"
+  },
+  {
+   "id": 517190819,
+   "name": "Purple Floor Light I",
+   "page": "items/buildtools/purple-floor-light-i-517190819.md",
+   "json": "items/buildtools/purple-floor-light-i-517190819.json"
+  },
+  {
+   "id": 2925532764,
+   "name": "Blue Floor Light II",
+   "page": "items/buildtools/blue-floor-light-ii-2925532764.md",
+   "json": "items/buildtools/blue-floor-light-ii-2925532764.json"
+  },
+  {
+   "id": 4083221254,
+   "name": "Orange Floor Light II",
+   "page": "items/buildtools/orange-floor-light-ii-4083221254.md",
+   "json": "items/buildtools/orange-floor-light-ii-4083221254.json"
+  },
+  {
+   "id": 1455205368,
+   "name": "Purple Floor Light II",
+   "page": "items/buildtools/purple-floor-light-ii-1455205368.md",
+   "json": "items/buildtools/purple-floor-light-ii-1455205368.json"
+  }
+ ],
+ "page": "items/materials/underwater-luminous-growth-1068232992.md"
+}

@@ -1,0 +1,407 @@
+{
+ "id": 1798662696,
+ "name": "Twig",
+ "internalName": "Material_T1_Twigs",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 250,
+ "image": "images/icons/1798662696.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A twig, as insignificant as it might seem, has a lot of potential. Everything starts somewhere...",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1644996472,
+   "station": "Table Saw",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1182285312,
+   "name": "Summoning Scepter",
+   "page": "items/buildtools/summoning-scepter-1182285312.md",
+   "json": "items/buildtools/summoning-scepter-1182285312.json"
+  },
+  {
+   "id": 425570534,
+   "name": "Simple Fishing Rod",
+   "page": "items/buildtools/simple-fishing-rod-425570534.md",
+   "json": "items/buildtools/simple-fishing-rod-425570534.json"
+  },
+  {
+   "id": 497414641,
+   "name": "Stone Axe",
+   "page": "items/tools/stone-axe-497414641.md",
+   "json": "items/tools/stone-axe-497414641.json"
+  },
+  {
+   "id": 623229764,
+   "name": "Stone Pickaxe",
+   "page": "items/buildtools/stone-pickaxe-623229764.md",
+   "json": "items/buildtools/stone-pickaxe-623229764.json"
+  },
+  {
+   "id": 2762553617,
+   "name": "Plaited Block",
+   "page": "items/buildtools/plaited-block-2762553617.md",
+   "json": "items/buildtools/plaited-block-2762553617.json"
+  },
+  {
+   "id": 3474096535,
+   "name": "Torch",
+   "page": "items/weapons/torch-3474096535.md",
+   "json": "items/weapons/torch-3474096535.json"
+  },
+  {
+   "id": 2956941513,
+   "name": "Wooden Arrow",
+   "page": "items/ammunition/wooden-arrow-2956941513.md",
+   "json": "items/ammunition/wooden-arrow-2956941513.json"
+  },
+  {
+   "id": 2519697782,
+   "name": "Celesthium Steel Arrow",
+   "page": "items/ammunition/celesthium-steel-arrow-2519697782.md",
+   "json": "items/ammunition/celesthium-steel-arrow-2519697782.json"
+  },
+  {
+   "id": 1677413497,
+   "name": "T7 Blunt Arrow",
+   "page": "items/ammunition/t7-blunt-arrow-1677413497.md",
+   "json": "items/ammunition/t7-blunt-arrow-1677413497.json"
+  },
+  {
+   "id": 832661139,
+   "name": "Moonstone Piercing Arrow",
+   "page": "items/ammunition/moonstone-piercing-arrow-832661139.md",
+   "json": "items/ammunition/moonstone-piercing-arrow-832661139.json"
+  },
+  {
+   "id": 3634108976,
+   "name": "Golden Steel Arrow",
+   "page": "items/ammunition/golden-steel-arrow-3634108976.md",
+   "json": "items/ammunition/golden-steel-arrow-3634108976.json"
+  },
+  {
+   "id": 3559583218,
+   "name": "Steel Arrow",
+   "page": "items/ammunition/steel-arrow-3559583218.md",
+   "json": "items/ammunition/steel-arrow-3559583218.json"
+  },
+  {
+   "id": 2172551026,
+   "name": "Obsidian Arrow",
+   "page": "items/ammunition/obsidian-arrow-2172551026.md",
+   "json": "items/ammunition/obsidian-arrow-2172551026.json"
+  },
+  {
+   "id": 1454438654,
+   "name": "Iron Arrow",
+   "page": "items/ammunition/iron-arrow-1454438654.md",
+   "json": "items/ammunition/iron-arrow-1454438654.json"
+  },
+  {
+   "id": 3990911183,
+   "name": "Bronze Arrow",
+   "page": "items/ammunition/bronze-arrow-3990911183.md",
+   "json": "items/ammunition/bronze-arrow-3990911183.json"
+  },
+  {
+   "id": 1536235498,
+   "name": "Fossilized Bone Arrow",
+   "page": "items/ammunition/fossilized-bone-arrow-1536235498.md",
+   "json": "items/ammunition/fossilized-bone-arrow-1536235498.json"
+  },
+  {
+   "id": 4046432840,
+   "name": "Copper Arrow",
+   "page": "items/ammunition/copper-arrow-4046432840.md",
+   "json": "items/ammunition/copper-arrow-4046432840.json"
+  },
+  {
+   "id": 1729479389,
+   "name": "Scrap Arrow",
+   "page": "items/ammunition/scrap-arrow-1729479389.md",
+   "json": "items/ammunition/scrap-arrow-1729479389.json"
+  },
+  {
+   "id": 1422216404,
+   "name": "Flint Arrow",
+   "page": "items/ammunition/flint-arrow-1422216404.md",
+   "json": "items/ammunition/flint-arrow-1422216404.json"
+  },
+  {
+   "id": 3333535459,
+   "name": "Shroud Arrow III",
+   "page": "items/ammunition/shroud-arrow-iii-3333535459.md",
+   "json": "items/ammunition/shroud-arrow-iii-3333535459.json"
+  },
+  {
+   "id": 4214162606,
+   "name": "Shroud Arrow II",
+   "page": "items/ammunition/shroud-arrow-ii-4214162606.md",
+   "json": "items/ammunition/shroud-arrow-ii-4214162606.json"
+  },
+  {
+   "id": 3761680048,
+   "name": "Fog Arrow",
+   "page": "items/ammunition/fog-arrow-3761680048.md",
+   "json": "items/ammunition/fog-arrow-3761680048.json"
+  },
+  {
+   "id": 2371220722,
+   "name": "Stun Arrow",
+   "page": "items/ammunition/stun-arrow-2371220722.md",
+   "json": "items/ammunition/stun-arrow-2371220722.json"
+  },
+  {
+   "id": 21592019,
+   "name": "Kiln",
+   "page": "items/buildtools/kiln-21592019.md",
+   "json": "items/buildtools/kiln-21592019.json"
+  },
+  {
+   "id": 1785286209,
+   "name": "(Butterfly Lover Bush) Seedling",
+   "page": "items/buildtools/butterfly-lover-bush-seedling-1785286209.md",
+   "json": "items/buildtools/butterfly-lover-bush-seedling-1785286209.json"
+  },
+  {
+   "id": 3704150172,
+   "name": "Cactus Seedling",
+   "page": "items/buildtools/cactus-seedling-3704150172.md",
+   "json": "items/buildtools/cactus-seedling-3704150172.json"
+  },
+  {
+   "id": 352277981,
+   "name": "Tree Seedling \"Tree 03 Steppes\"",
+   "page": "items/buildtools/tree-seedling-tree-03-steppes-352277981.md",
+   "json": "items/buildtools/tree-seedling-tree-03-steppes-352277981.json"
+  },
+  {
+   "id": 3795599645,
+   "name": "Tree Seedling \"Tree 02 Steppes\"",
+   "page": "items/buildtools/tree-seedling-tree-02-steppes-3795599645.md",
+   "json": "items/buildtools/tree-seedling-tree-02-steppes-3795599645.json"
+  },
+  {
+   "id": 2936889942,
+   "name": "Laurel Tree Seedling",
+   "page": "items/buildtools/laurel-tree-seedling-2936889942.md",
+   "json": "items/buildtools/laurel-tree-seedling-2936889942.json"
+  },
+  {
+   "id": 3622968297,
+   "name": "Tree Seedling \"Tree 02 Deepwoods\"",
+   "page": "items/buildtools/tree-seedling-tree-02-deepwoods-3622968297.md",
+   "json": "items/buildtools/tree-seedling-tree-02-deepwoods-3622968297.json"
+  },
+  {
+   "id": 4117633993,
+   "name": "Tree Seedling \"Tree 03 Deepwoods\"",
+   "page": "items/buildtools/tree-seedling-tree-03-deepwoods-4117633993.md",
+   "json": "items/buildtools/tree-seedling-tree-03-deepwoods-4117633993.json"
+  },
+  {
+   "id": 2668074164,
+   "name": "Willow Tree Seedling",
+   "page": "items/buildtools/willow-tree-seedling-2668074164.md",
+   "json": "items/buildtools/willow-tree-seedling-2668074164.json"
+  },
+  {
+   "id": 688553119,
+   "name": "Tree Seedling",
+   "page": "items/buildtools/tree-seedling-688553119.md",
+   "json": "items/buildtools/tree-seedling-688553119.json"
+  },
+  {
+   "id": 3913483832,
+   "name": "Wax Torch",
+   "page": "items/weapons/wax-torch-3913483832.md",
+   "json": "items/weapons/wax-torch-3913483832.json"
+  },
+  {
+   "id": 531354159,
+   "name": "Resin Torch",
+   "page": "items/weapons/resin-torch-531354159.md",
+   "json": "items/weapons/resin-torch-531354159.json"
+  },
+  {
+   "id": 3527909057,
+   "name": "Improvised Bow",
+   "page": "items/weapons/improvised-bow-3527909057.md",
+   "json": "items/weapons/improvised-bow-3527909057.json"
+  },
+  {
+   "id": 2929854543,
+   "name": "Bed T2 Talltree Nest",
+   "page": "items/buildtools/bed-t2-talltree-nest-2929854543.md",
+   "json": "items/buildtools/bed-t2-talltree-nest-2929854543.json"
+  },
+  {
+   "id": 245164403,
+   "name": "Firefly Standing Basket",
+   "page": "items/buildtools/firefly-standing-basket-245164403.md",
+   "json": "items/buildtools/firefly-standing-basket-245164403.json"
+  },
+  {
+   "id": 2938349424,
+   "name": "Scarecrow",
+   "page": "items/buildtools/scarecrow-2938349424.md",
+   "json": "items/buildtools/scarecrow-2938349424.json"
+  },
+  {
+   "id": 2054426662,
+   "name": "Violet Decorative Box",
+   "page": "items/buildtools/violet-decorative-box-2054426662.md",
+   "json": "items/buildtools/violet-decorative-box-2054426662.json"
+  },
+  {
+   "id": 4123212614,
+   "name": "Orange Decorative Box",
+   "page": "items/buildtools/orange-decorative-box-4123212614.md",
+   "json": "items/buildtools/orange-decorative-box-4123212614.json"
+  },
+  {
+   "id": 3931595905,
+   "name": "Yellow Decorative Box",
+   "page": "items/buildtools/yellow-decorative-box-3931595905.md",
+   "json": "items/buildtools/yellow-decorative-box-3931595905.json"
+  },
+  {
+   "id": 4163666130,
+   "name": "Green Decorative Box",
+   "page": "items/buildtools/green-decorative-box-4163666130.md",
+   "json": "items/buildtools/green-decorative-box-4163666130.json"
+  },
+  {
+   "id": 874980262,
+   "name": "Cyan Decorative Box",
+   "page": "items/buildtools/cyan-decorative-box-874980262.md",
+   "json": "items/buildtools/cyan-decorative-box-874980262.json"
+  },
+  {
+   "id": 411374925,
+   "name": "Blue Decorative Box",
+   "page": "items/buildtools/blue-decorative-box-411374925.md",
+   "json": "items/buildtools/blue-decorative-box-411374925.json"
+  },
+  {
+   "id": 3391925223,
+   "name": "Snowpal Mom",
+   "page": "items/buildtools/snowpal-mom-3391925223.md",
+   "json": "items/buildtools/snowpal-mom-3391925223.json"
+  },
+  {
+   "id": 3549560668,
+   "name": "Snowpal Dad",
+   "page": "items/buildtools/snowpal-dad-3549560668.md",
+   "json": "items/buildtools/snowpal-dad-3549560668.json"
+  },
+  {
+   "id": 4097150814,
+   "name": "Decorative Bells III",
+   "page": "items/buildtools/decorative-bells-iii-4097150814.md",
+   "json": "items/buildtools/decorative-bells-iii-4097150814.json"
+  },
+  {
+   "id": 2945317938,
+   "name": "Decorative Bells II",
+   "page": "items/buildtools/decorative-bells-ii-2945317938.md",
+   "json": "items/buildtools/decorative-bells-ii-2945317938.json"
+  },
+  {
+   "id": 1244709120,
+   "name": "Decorative Bells I",
+   "page": "items/buildtools/decorative-bells-i-1244709120.md",
+   "json": "items/buildtools/decorative-bells-i-1244709120.json"
+  },
+  {
+   "id": 2785796264,
+   "name": "Barn Pillow",
+   "page": "items/buildtools/barn-pillow-2785796264.md",
+   "json": "items/buildtools/barn-pillow-2785796264.json"
+  },
+  {
+   "id": 858152914,
+   "name": "Barn Pillow for Yaks",
+   "page": "items/buildtools/barn-pillow-for-yaks-858152914.md",
+   "json": "items/buildtools/barn-pillow-for-yaks-858152914.json"
+  },
+  {
+   "id": 1453779109,
+   "name": "Door Talltree",
+   "page": "items/buildtools/door-talltree-1453779109.md",
+   "json": "items/buildtools/door-talltree-1453779109.json"
+  },
+  {
+   "id": 1118839659,
+   "name": "Rustic Window Frame I",
+   "page": "items/buildtools/rustic-window-frame-i-1118839659.md",
+   "json": "items/buildtools/rustic-window-frame-i-1118839659.json"
+  },
+  {
+   "id": 1411224346,
+   "name": "Rustic Window Frame II",
+   "page": "items/buildtools/rustic-window-frame-ii-1411224346.md",
+   "json": "items/buildtools/rustic-window-frame-ii-1411224346.json"
+  }
+ ],
+ "page": "items/materials/twig-1798662696.md"
+}

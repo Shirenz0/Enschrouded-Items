@@ -1,0 +1,102 @@
+{
+ "id": 576061222,
+ "name": "Fish Filet",
+ "internalName": "Food_T6_raw_fish_FishFilet",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/576061222.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The Filet from a rare fish, don't worry about any fish bones, they have been thoroughly removed.",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1500000,
+    "display": "25:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 36460965,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 4044713321,
+       "name": "Fish epic 01 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 780626079,
+       "name": "Fish epic 02 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 2176589336,
+       "name": "Fish epic 03 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 4122706847,
+       "name": "Specklefin",
+       "page": "items/consumables/specklefin-4122706847.md",
+       "json": "items/consumables/specklefin-4122706847.json"
+      },
+      {
+       "id": 1692397990,
+       "name": "Cinderscale",
+       "page": "items/consumables/cinderscale-1692397990.md",
+       "json": "items/consumables/cinderscale-1692397990.json"
+      }
+     ]
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1826581168,
+   "name": "Seared Fish Filet",
+   "page": "items/consumables/seared-fish-filet-1826581168.md",
+   "json": "items/consumables/seared-fish-filet-1826581168.json"
+  }
+ ],
+ "page": "items/consumables/fish-filet-576061222.md"
+}

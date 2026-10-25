@@ -1,0 +1,717 @@
+{
+ "id": 132545371,
+ "name": "Metal Scraps",
+ "internalName": "Material_T1_Metal_Scraps",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/132545371.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Rests of metal, stories of the war, that were behind as humanity lost. They might turn out to be useful.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1438617272,
+   "name": "Grappling Hook",
+   "page": "items/tools/grappling-hook-1438617272.md",
+   "json": "items/tools/grappling-hook-1438617272.json"
+  },
+  {
+   "id": 2734930286,
+   "name": "Camera",
+   "page": "items/tools/camera-2734930286.md",
+   "json": "items/tools/camera-2734930286.json"
+  },
+  {
+   "id": 425570534,
+   "name": "Simple Fishing Rod",
+   "page": "items/buildtools/simple-fishing-rod-425570534.md",
+   "json": "items/buildtools/simple-fishing-rod-425570534.json"
+  },
+  {
+   "id": 2176546463,
+   "name": "Scrappy Rake",
+   "page": "items/buildtools/scrappy-rake-2176546463.md",
+   "json": "items/buildtools/scrappy-rake-2176546463.json"
+  },
+  {
+   "id": 2231489185,
+   "name": "Logic System Screwdriver Tool",
+   "page": "items/buildtools/logic-system-screwdriver-tool-2231489185.md",
+   "json": "items/buildtools/logic-system-screwdriver-tool-2231489185.json"
+  },
+  {
+   "id": 64945064,
+   "name": "Metal Water Dispenser I",
+   "page": "items/buildtools/metal-water-dispenser-i-64945064.md",
+   "json": "items/buildtools/metal-water-dispenser-i-64945064.json"
+  },
+  {
+   "id": 2395034423,
+   "name": "Watering Can",
+   "page": "items/buildtools/watering-can-2395034423.md",
+   "json": "items/buildtools/watering-can-2395034423.json"
+  },
+  {
+   "id": 3377002158,
+   "name": "Repair Kit",
+   "page": "items/consumables/repair-kit-3377002158.md",
+   "json": "items/consumables/repair-kit-3377002158.json"
+  },
+  {
+   "id": 1729479389,
+   "name": "Scrap Arrow",
+   "page": "items/ammunition/scrap-arrow-1729479389.md",
+   "json": "items/ammunition/scrap-arrow-1729479389.json"
+  },
+  {
+   "id": 1596935538,
+   "name": "Skull Summoning Vessel",
+   "page": "items/weapons/skull-summoning-vessel-1596935538.md",
+   "json": "items/weapons/skull-summoning-vessel-1596935538.json"
+  },
+  {
+   "id": 305542871,
+   "name": "Skull companion Level 20",
+   "page": "items/weapons/skull-companion-level-20-305542871.md",
+   "json": "items/weapons/skull-companion-level-20-305542871.json"
+  },
+  {
+   "id": 1105258830,
+   "name": "Skull companion Level 15",
+   "page": "items/weapons/skull-companion-level-15-1105258830.md",
+   "json": "items/weapons/skull-companion-level-15-1105258830.json"
+  },
+  {
+   "id": 3124613974,
+   "name": "Skull Companion",
+   "page": "items/weapons/skull-companion-3124613974.md",
+   "json": "items/weapons/skull-companion-3124613974.json"
+  },
+  {
+   "id": 3881781700,
+   "name": "Cooking Station",
+   "page": "items/buildtools/cooking-station-3881781700.md",
+   "json": "items/buildtools/cooking-station-3881781700.json"
+  },
+  {
+   "id": 3587916203,
+   "name": "Kitchen",
+   "page": "items/buildtools/kitchen-3587916203.md",
+   "json": "items/buildtools/kitchen-3587916203.json"
+  },
+  {
+   "id": 2736406931,
+   "name": "Carpenter Decoration Workbench",
+   "page": "items/buildtools/carpenter-decoration-workbench-2736406931.md",
+   "json": "items/buildtools/carpenter-decoration-workbench-2736406931.json"
+  },
+  {
+   "id": 21592019,
+   "name": "Kiln",
+   "page": "items/buildtools/kiln-21592019.md",
+   "json": "items/buildtools/kiln-21592019.json"
+  },
+  {
+   "id": 2871019400,
+   "name": "Seedbed",
+   "page": "items/buildtools/seedbed-2871019400.md",
+   "json": "items/buildtools/seedbed-2871019400.json"
+  },
+  {
+   "id": 770717366,
+   "name": "Forge",
+   "page": "items/buildtools/forge-770717366.md",
+   "json": "items/buildtools/forge-770717366.json"
+  },
+  {
+   "id": 2743545700,
+   "name": "Nails",
+   "page": "items/materials/nails-2743545700.md",
+   "json": "items/materials/nails-2743545700.json"
+  },
+  {
+   "id": 4271896226,
+   "name": "Metal Sheets",
+   "page": "items/materials/metal-sheets-4271896226.md",
+   "json": "items/materials/metal-sheets-4271896226.json"
+  },
+  {
+   "id": 3022051215,
+   "name": "Snap Trap",
+   "page": "items/buildtools/snap-trap-3022051215.md",
+   "json": "items/buildtools/snap-trap-3022051215.json"
+  },
+  {
+   "id": 2811112772,
+   "name": "Scrappy Axe",
+   "page": "items/tools/scrappy-axe-2811112772.md",
+   "json": "items/tools/scrappy-axe-2811112772.json"
+  },
+  {
+   "id": 256634933,
+   "name": "Scrappy Pickaxe",
+   "page": "items/buildtools/scrappy-pickaxe-256634933.md",
+   "json": "items/buildtools/scrappy-pickaxe-256634933.json"
+  },
+  {
+   "id": 2283229289,
+   "name": "Explosive Powder Ball",
+   "page": "items/weapons/explosive-powder-ball-2283229289.md",
+   "json": "items/weapons/explosive-powder-ball-2283229289.json"
+  },
+  {
+   "id": 3974938802,
+   "name": "Daggers T1 Cratable",
+   "page": "items/weapons/daggers-t1-cratable-3974938802.md",
+   "json": "items/weapons/daggers-t1-cratable-3974938802.json"
+  },
+  {
+   "id": 1275936258,
+   "name": "Scrappy Sword",
+   "page": "items/weapons/scrappy-sword-1275936258.md",
+   "json": "items/weapons/scrappy-sword-1275936258.json"
+  },
+  {
+   "id": 1081861051,
+   "name": "Fur Trousers",
+   "page": "items/equipment/fur-trousers-1081861051.md",
+   "json": "items/equipment/fur-trousers-1081861051.json"
+  },
+  {
+   "id": 4170361020,
+   "name": "Fur Gloves",
+   "page": "items/equipment/fur-gloves-4170361020.md",
+   "json": "items/equipment/fur-gloves-4170361020.json"
+  },
+  {
+   "id": 1162185590,
+   "name": "Fur Torso",
+   "page": "items/equipment/fur-torso-1162185590.md",
+   "json": "items/equipment/fur-torso-1162185590.json"
+  },
+  {
+   "id": 3303276493,
+   "name": "Alchemist Apprentice Gloves",
+   "page": "items/equipment/alchemist-apprentice-gloves-3303276493.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-3303276493.json"
+  },
+  {
+   "id": 3440719310,
+   "name": "Alchemist Apprentice Chest",
+   "page": "items/equipment/alchemist-apprentice-chest-3440719310.md",
+   "json": "items/equipment/alchemist-apprentice-chest-3440719310.json"
+  },
+  {
+   "id": 1572355779,
+   "name": "Alchemist Apprentice Hat",
+   "page": "items/equipment/alchemist-apprentice-hat-1572355779.md",
+   "json": "items/equipment/alchemist-apprentice-hat-1572355779.json"
+  },
+  {
+   "id": 106014299,
+   "name": "Scavanger Bonfire",
+   "page": "items/buildtools/scavanger-bonfire-106014299.md",
+   "json": "items/buildtools/scavanger-bonfire-106014299.json"
+  },
+  {
+   "id": 934401519,
+   "name": "Bathtub T1",
+   "page": "items/buildtools/bathtub-t1-934401519.md",
+   "json": "items/buildtools/bathtub-t1-934401519.json"
+  },
+  {
+   "id": 3136420737,
+   "name": "Toilet T1",
+   "page": "items/buildtools/toilet-t1-3136420737.md",
+   "json": "items/buildtools/toilet-t1-3136420737.json"
+  },
+  {
+   "id": 1948096195,
+   "name": "Sink T1",
+   "page": "items/buildtools/sink-t1-1948096195.md",
+   "json": "items/buildtools/sink-t1-1948096195.json"
+  },
+  {
+   "id": 571574366,
+   "name": "Sun Lounger",
+   "page": "items/buildtools/sun-lounger-571574366.md",
+   "json": "items/buildtools/sun-lounger-571574366.json"
+  },
+  {
+   "id": 3457345820,
+   "name": "Polished Scrap Brazier",
+   "page": "items/buildtools/polished-scrap-brazier-3457345820.md",
+   "json": "items/buildtools/polished-scrap-brazier-3457345820.json"
+  },
+  {
+   "id": 1804479582,
+   "name": "Illumination T2 Bones Brazier",
+   "page": "items/buildtools/illumination-t2-bones-brazier-1804479582.md",
+   "json": "items/buildtools/illumination-t2-bones-brazier-1804479582.json"
+  },
+  {
+   "id": 116314178,
+   "name": "Brazier",
+   "page": "items/buildtools/brazier-116314178.md",
+   "json": "items/buildtools/brazier-116314178.json"
+  },
+  {
+   "id": 2646644982,
+   "name": "Illumination T2 Bones Chandelier",
+   "page": "items/buildtools/illumination-t2-bones-chandelier-2646644982.md",
+   "json": "items/buildtools/illumination-t2-bones-chandelier-2646644982.json"
+  },
+  {
+   "id": 450440154,
+   "name": "Illumination T2 Wall",
+   "page": "items/buildtools/illumination-t2-wall-450440154.md",
+   "json": "items/buildtools/illumination-t2-wall-450440154.json"
+  },
+  {
+   "id": 1722111434,
+   "name": "Illumination T2 Standing Torch Bone",
+   "page": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-bone-1722111434.json"
+  },
+  {
+   "id": 3652824994,
+   "name": "Illumination T2 Standing Torch",
+   "page": "items/buildtools/illumination-t2-standing-torch-3652824994.md",
+   "json": "items/buildtools/illumination-t2-standing-torch-3652824994.json"
+  },
+  {
+   "id": 3948355948,
+   "name": "Illumination T2 Small Bones",
+   "page": "items/buildtools/illumination-t2-small-bones-3948355948.md",
+   "json": "items/buildtools/illumination-t2-small-bones-3948355948.json"
+  },
+  {
+   "id": 242624234,
+   "name": "Illumination T2 Wall Bones",
+   "page": "items/buildtools/illumination-t2-wall-bones-242624234.md",
+   "json": "items/buildtools/illumination-t2-wall-bones-242624234.json"
+  },
+  {
+   "id": 1057970078,
+   "name": "Paper Lantern I",
+   "page": "items/buildtools/paper-lantern-i-1057970078.md",
+   "json": "items/buildtools/paper-lantern-i-1057970078.json"
+  },
+  {
+   "id": 1987268311,
+   "name": "Paper Lantern II",
+   "page": "items/buildtools/paper-lantern-ii-1987268311.md",
+   "json": "items/buildtools/paper-lantern-ii-1987268311.json"
+  },
+  {
+   "id": 1464322006,
+   "name": "Chandelier",
+   "page": "items/buildtools/chandelier-1464322006.md",
+   "json": "items/buildtools/chandelier-1464322006.json"
+  },
+  {
+   "id": 1191571537,
+   "name": "Standing Torch",
+   "page": "items/buildtools/standing-torch-1191571537.md",
+   "json": "items/buildtools/standing-torch-1191571537.json"
+  },
+  {
+   "id": 1746429100,
+   "name": "Ground Lantern I",
+   "page": "items/buildtools/ground-lantern-i-1746429100.md",
+   "json": "items/buildtools/ground-lantern-i-1746429100.json"
+  },
+  {
+   "id": 3828240641,
+   "name": "Ground Lantern II",
+   "page": "items/buildtools/ground-lantern-ii-3828240641.md",
+   "json": "items/buildtools/ground-lantern-ii-3828240641.json"
+  },
+  {
+   "id": 3019273830,
+   "name": "Wall Lantern",
+   "page": "items/buildtools/wall-lantern-3019273830.md",
+   "json": "items/buildtools/wall-lantern-3019273830.json"
+  },
+  {
+   "id": 2231847922,
+   "name": "Ceiling Lantern",
+   "page": "items/buildtools/ceiling-lantern-2231847922.md",
+   "json": "items/buildtools/ceiling-lantern-2231847922.json"
+  },
+  {
+   "id": 2100892316,
+   "name": "Pendant Ceiling Lantern",
+   "page": "items/buildtools/pendant-ceiling-lantern-2100892316.md",
+   "json": "items/buildtools/pendant-ceiling-lantern-2100892316.json"
+  },
+  {
+   "id": 3536879371,
+   "name": "Standing Lantern",
+   "page": "items/buildtools/standing-lantern-3536879371.md",
+   "json": "items/buildtools/standing-lantern-3536879371.json"
+  },
+  {
+   "id": 1383912137,
+   "name": "Hanging Lantern",
+   "page": "items/buildtools/hanging-lantern-1383912137.md",
+   "json": "items/buildtools/hanging-lantern-1383912137.json"
+  },
+  {
+   "id": 4127950018,
+   "name": "Rural Tavern Counter",
+   "page": "items/buildtools/rural-tavern-counter-4127950018.md",
+   "json": "items/buildtools/rural-tavern-counter-4127950018.json"
+  },
+  {
+   "id": 144858411,
+   "name": "Scrap Platter",
+   "page": "items/buildtools/scrap-platter-144858411.md",
+   "json": "items/buildtools/scrap-platter-144858411.json"
+  },
+  {
+   "id": 2046637790,
+   "name": "Scrap Cup",
+   "page": "items/buildtools/scrap-cup-2046637790.md",
+   "json": "items/buildtools/scrap-cup-2046637790.json"
+  },
+  {
+   "id": 1999901681,
+   "name": "Scrap Bowl",
+   "page": "items/buildtools/scrap-bowl-1999901681.md",
+   "json": "items/buildtools/scrap-bowl-1999901681.json"
+  },
+  {
+   "id": 926705200,
+   "name": "Scrap Jug",
+   "page": "items/buildtools/scrap-jug-926705200.md",
+   "json": "items/buildtools/scrap-jug-926705200.json"
+  },
+  {
+   "id": 1951710379,
+   "name": "Scrap Pan I",
+   "page": "items/buildtools/scrap-pan-i-1951710379.md",
+   "json": "items/buildtools/scrap-pan-i-1951710379.json"
+  },
+  {
+   "id": 679720975,
+   "name": "Scrap Pan II",
+   "page": "items/buildtools/scrap-pan-ii-679720975.md",
+   "json": "items/buildtools/scrap-pan-ii-679720975.json"
+  },
+  {
+   "id": 2677755918,
+   "name": "Scrap Pot I",
+   "page": "items/buildtools/scrap-pot-i-2677755918.md",
+   "json": "items/buildtools/scrap-pot-i-2677755918.json"
+  },
+  {
+   "id": 1334996496,
+   "name": "Scrap Pot II",
+   "page": "items/buildtools/scrap-pot-ii-1334996496.md",
+   "json": "items/buildtools/scrap-pot-ii-1334996496.json"
+  },
+  {
+   "id": 2056180036,
+   "name": "Scrap Pot III",
+   "page": "items/buildtools/scrap-pot-iii-2056180036.md",
+   "json": "items/buildtools/scrap-pot-iii-2056180036.json"
+  },
+  {
+   "id": 2942210273,
+   "name": "Scrap Pot IV",
+   "page": "items/buildtools/scrap-pot-iv-2942210273.md",
+   "json": "items/buildtools/scrap-pot-iv-2942210273.json"
+  },
+  {
+   "id": 3248551594,
+   "name": "Scrap Pot V",
+   "page": "items/buildtools/scrap-pot-v-3248551594.md",
+   "json": "items/buildtools/scrap-pot-v-3248551594.json"
+  },
+  {
+   "id": 3272063351,
+   "name": "Scrap Pot VI",
+   "page": "items/buildtools/scrap-pot-vi-3272063351.md",
+   "json": "items/buildtools/scrap-pot-vi-3272063351.json"
+  },
+  {
+   "id": 3537172082,
+   "name": "Scrap Ladle",
+   "page": "items/buildtools/scrap-ladle-3537172082.md",
+   "json": "items/buildtools/scrap-ladle-3537172082.json"
+  },
+  {
+   "id": 3918097779,
+   "name": "Prison Room Divider I",
+   "page": "items/buildtools/prison-room-divider-i-3918097779.md",
+   "json": "items/buildtools/prison-room-divider-i-3918097779.json"
+  },
+  {
+   "id": 3805998945,
+   "name": "Prison Room Divider II",
+   "page": "items/buildtools/prison-room-divider-ii-3805998945.md",
+   "json": "items/buildtools/prison-room-divider-ii-3805998945.json"
+  },
+  {
+   "id": 1416182802,
+   "name": "Pink Wall Pot",
+   "page": "items/buildtools/pink-wall-pot-1416182802.md",
+   "json": "items/buildtools/pink-wall-pot-1416182802.json"
+  },
+  {
+   "id": 1699546726,
+   "name": "Red Wall Pot",
+   "page": "items/buildtools/red-wall-pot-1699546726.md",
+   "json": "items/buildtools/red-wall-pot-1699546726.json"
+  },
+  {
+   "id": 2553292740,
+   "name": "White Wall Pot",
+   "page": "items/buildtools/white-wall-pot-2553292740.md",
+   "json": "items/buildtools/white-wall-pot-2553292740.json"
+  },
+  {
+   "id": 3643820464,
+   "name": "Yellow Wall Pot",
+   "page": "items/buildtools/yellow-wall-pot-3643820464.md",
+   "json": "items/buildtools/yellow-wall-pot-3643820464.json"
+  },
+  {
+   "id": 2004762545,
+   "name": "Decorative Oven I",
+   "page": "items/buildtools/decorative-oven-i-2004762545.md",
+   "json": "items/buildtools/decorative-oven-i-2004762545.json"
+  },
+  {
+   "id": 3069381157,
+   "name": "Decorative Oven II",
+   "page": "items/buildtools/decorative-oven-ii-3069381157.md",
+   "json": "items/buildtools/decorative-oven-ii-3069381157.json"
+  },
+  {
+   "id": 3005030010,
+   "name": "Decorative Oven III",
+   "page": "items/buildtools/decorative-oven-iii-3005030010.md",
+   "json": "items/buildtools/decorative-oven-iii-3005030010.json"
+  },
+  {
+   "id": 2829385261,
+   "name": "Scavanger Gong",
+   "page": "items/buildtools/scavanger-gong-2829385261.md",
+   "json": "items/buildtools/scavanger-gong-2829385261.json"
+  },
+  {
+   "id": 3104389949,
+   "name": "Scrap Vat I",
+   "page": "items/buildtools/scrap-vat-i-3104389949.md",
+   "json": "items/buildtools/scrap-vat-i-3104389949.json"
+  },
+  {
+   "id": 4129664761,
+   "name": "Scrap Vat II",
+   "page": "items/buildtools/scrap-vat-ii-4129664761.md",
+   "json": "items/buildtools/scrap-vat-ii-4129664761.json"
+  },
+  {
+   "id": 843297444,
+   "name": "Training Doll II",
+   "page": "items/buildtools/training-doll-ii-843297444.md",
+   "json": "items/buildtools/training-doll-ii-843297444.json"
+  },
+  {
+   "id": 1034343716,
+   "name": "Big Leather Crate",
+   "page": "items/buildtools/big-leather-crate-1034343716.md",
+   "json": "items/buildtools/big-leather-crate-1034343716.json"
+  },
+  {
+   "id": 1878726569,
+   "name": "Leather Crate",
+   "page": "items/buildtools/leather-crate-1878726569.md",
+   "json": "items/buildtools/leather-crate-1878726569.json"
+  },
+  {
+   "id": 3137506637,
+   "name": "Scap Cage",
+   "page": "items/buildtools/scap-cage-3137506637.md",
+   "json": "items/buildtools/scap-cage-3137506637.json"
+  },
+  {
+   "id": 3761076482,
+   "name": "Scrap Bucket",
+   "page": "items/buildtools/scrap-bucket-3761076482.md",
+   "json": "items/buildtools/scrap-bucket-3761076482.json"
+  },
+  {
+   "id": 2965594491,
+   "name": "Support Strut",
+   "page": "items/buildtools/support-strut-2965594491.md",
+   "json": "items/buildtools/support-strut-2965594491.json"
+  },
+  {
+   "id": 1193821325,
+   "name": "Mannequin \"Victory\"",
+   "page": "items/buildtools/mannequin-victory-1193821325.md",
+   "json": "items/buildtools/mannequin-victory-1193821325.json"
+  },
+  {
+   "id": 320245652,
+   "name": "Mannequin \"Look At Me\"",
+   "page": "items/buildtools/mannequin-look-at-me-320245652.md",
+   "json": "items/buildtools/mannequin-look-at-me-320245652.json"
+  },
+  {
+   "id": 2681848943,
+   "name": "Mannequin \"Back Off\"",
+   "page": "items/buildtools/mannequin-back-off-2681848943.md",
+   "json": "items/buildtools/mannequin-back-off-2681848943.json"
+  },
+  {
+   "id": 2030809898,
+   "name": "Mannequin \"Here I Come\"",
+   "page": "items/buildtools/mannequin-here-i-come-2030809898.md",
+   "json": "items/buildtools/mannequin-here-i-come-2030809898.json"
+  },
+  {
+   "id": 3072123387,
+   "name": "Mannequin \"Strike A Pose\"",
+   "page": "items/buildtools/mannequin-strike-a-pose-3072123387.md",
+   "json": "items/buildtools/mannequin-strike-a-pose-3072123387.json"
+  },
+  {
+   "id": 501208175,
+   "name": "Mannequin \"Let Me Serve You\"",
+   "page": "items/buildtools/mannequin-let-me-serve-you-501208175.md",
+   "json": "items/buildtools/mannequin-let-me-serve-you-501208175.json"
+  },
+  {
+   "id": 4140714720,
+   "name": "T2 explorer boots",
+   "page": "items/equipment/t2-explorer-boots-4140714720.md",
+   "json": "items/equipment/t2-explorer-boots-4140714720.json"
+  },
+  {
+   "id": 3664044083,
+   "name": "T2 explorer legs",
+   "page": "items/equipment/t2-explorer-legs-3664044083.md",
+   "json": "items/equipment/t2-explorer-legs-3664044083.json"
+  },
+  {
+   "id": 2375429314,
+   "name": "T2 explorerArms",
+   "page": "items/equipment/t2-explorerarms-2375429314.md",
+   "json": "items/equipment/t2-explorerarms-2375429314.json"
+  },
+  {
+   "id": 2140158419,
+   "name": "T2 explorer chest",
+   "page": "items/equipment/t2-explorer-chest-2140158419.md",
+   "json": "items/equipment/t2-explorer-chest-2140158419.json"
+  },
+  {
+   "id": 723826501,
+   "name": "T2 explorer helmet",
+   "page": "items/equipment/t2-explorer-helmet-723826501.md",
+   "json": "items/equipment/t2-explorer-helmet-723826501.json"
+  },
+  {
+   "id": 134682651,
+   "name": "Harp",
+   "page": "items/buildtools/harp-134682651.md",
+   "json": "items/buildtools/harp-134682651.json"
+  },
+  {
+   "id": 1892437103,
+   "name": "Lute",
+   "page": "items/buildtools/lute-1892437103.md",
+   "json": "items/buildtools/lute-1892437103.json"
+  },
+  {
+   "id": 1976103965,
+   "name": "Rough Wooden Closet",
+   "page": "items/buildtools/rough-wooden-closet-1976103965.md",
+   "json": "items/buildtools/rough-wooden-closet-1976103965.json"
+  },
+  {
+   "id": 1992539715,
+   "name": "Showcase Skeletons 2 medium slots",
+   "page": "items/buildtools/showcase-skeletons-2-medium-slots-1992539715.md",
+   "json": "items/buildtools/showcase-skeletons-2-medium-slots-1992539715.json"
+  },
+  {
+   "id": 1713893066,
+   "name": "Showcase Skeletons 1 large slot",
+   "page": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.md",
+   "json": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.json"
+  },
+  {
+   "id": 3608731525,
+   "name": "Copper Door",
+   "page": "items/buildtools/copper-door-3608731525.md",
+   "json": "items/buildtools/copper-door-3608731525.json"
+  },
+  {
+   "id": 712610487,
+   "name": "Metal Bound Wooden Door",
+   "page": "items/buildtools/metal-bound-wooden-door-712610487.md",
+   "json": "items/buildtools/metal-bound-wooden-door-712610487.json"
+  },
+  {
+   "id": 2321570331,
+   "name": "Carved Wooden Door",
+   "page": "items/buildtools/carved-wooden-door-2321570331.md",
+   "json": "items/buildtools/carved-wooden-door-2321570331.json"
+  },
+  {
+   "id": 790494456,
+   "name": "Round Wooden Door",
+   "page": "items/buildtools/round-wooden-door-790494456.md",
+   "json": "items/buildtools/round-wooden-door-790494456.json"
+  },
+  {
+   "id": 1310308759,
+   "name": "Wooden Door",
+   "page": "items/buildtools/wooden-door-1310308759.md",
+   "json": "items/buildtools/wooden-door-1310308759.json"
+  },
+  {
+   "id": 646126885,
+   "name": "Lever",
+   "page": "items/buildtools/lever-646126885.md",
+   "json": "items/buildtools/lever-646126885.json"
+  },
+  {
+   "id": 3469357538,
+   "name": "Lever with indicator",
+   "page": "items/buildtools/lever-with-indicator-3469357538.md",
+   "json": "items/buildtools/lever-with-indicator-3469357538.json"
+  },
+  {
+   "id": 3590042993,
+   "name": "Pressure plate",
+   "page": "items/buildtools/pressure-plate-3590042993.md",
+   "json": "items/buildtools/pressure-plate-3590042993.json"
+  },
+  {
+   "id": 276809172,
+   "name": "Light",
+   "page": "items/buildtools/light-276809172.md",
+   "json": "items/buildtools/light-276809172.json"
+  }
+ ],
+ "page": "items/materials/metal-scraps-132545371.md"
+}

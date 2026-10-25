@@ -1,0 +1,75 @@
+{
+ "id": 209497692,
+ "name": "Greater Fog Survival Flask",
+ "internalName": "Consumable_Potion_Flask_Fog_Survival_Flask_T3",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/209497692.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Contains cleaned Fog Liquid, enhancing the resistance of the user.\nExtends the fog survivability after consumption by 4 Minutes. This effect will last for for 45 Minutes.",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Alchemist",
+ "object": {
+  "page": "objects/consumables/greater-fog-survival-flask.md",
+  "json": "objects/consumables/greater-fog-survival-flask.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Max Shroud Survivability",
+    "value": 240000,
+    "display": "240,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 679975411,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 90588998,
+      "name": "Green Mushroom Meat",
+      "page": "items/materials/green-mushroom-meat-90588998.md",
+      "json": "items/materials/green-mushroom-meat-90588998.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/greater-fog-survival-flask-209497692.md"
+}

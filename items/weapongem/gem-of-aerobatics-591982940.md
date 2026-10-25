@@ -23,4 +23,4 @@ Attacking while in the air spawns %k projectiles that home towards your target a
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-aerobatics-591982940.json)

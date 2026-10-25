@@ -1,0 +1,33 @@
+{
+ "id": 2984997237,
+ "name": "Polaris' Memoir",
+ "internalName": "8kLoreText_mapPiece_communityQuest_2025_02_Polaris",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2984997237.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A star high up in the sky, lost in a sea of only darkness around.",
+ "lore": "Map",
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3491672504,
+   "name": "The Dragon's Map",
+   "page": "items/collectibles/the-dragon-s-map-3491672504.md",
+   "json": "items/collectibles/the-dragon-s-map-3491672504.json"
+  }
+ ],
+ "page": "items/collectibles/polaris-memoir-2984997237.md"
+}

@@ -1,0 +1,41 @@
+{
+ "id": 2206945282,
+ "name": "Mysterious Flask",
+ "internalName": "Consumable_Potion_Flask_Fog_Elixir",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2206945282.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A strange flask exuding a feeling of power.",
+ "lore": "Flask",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "% Damage Multiplier",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max Shroud Survivability",
+    "value": -120000,
+    "display": "-120,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/consumables/mysterious-flask-2206945282.md"
+}

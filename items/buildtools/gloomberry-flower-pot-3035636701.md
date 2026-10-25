@@ -25,4 +25,4 @@ A medium potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gloomberry-flower-pot-3035636701.json)

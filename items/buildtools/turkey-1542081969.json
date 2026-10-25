@@ -1,0 +1,25 @@
+{
+ "id": 1542081969,
+ "name": "Turkey",
+ "internalName": "Animal_Farming_Turkey",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1542081969.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This lively little fella will gladly donate some feathers for the cause.",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/turkey-1542081969.md"
+}

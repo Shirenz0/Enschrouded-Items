@@ -1,0 +1,43 @@
+{
+ "id": 3155995947,
+ "name": "Big Blackmire Statue I",
+ "internalName": "Prop_Decoration_T2_StoneTotem_03A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3155995947.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2230268230,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 760251531,
+      "name": "T2 Talltree Stone",
+      "page": "items/materials/t2-talltree-stone-760251531.md",
+      "json": "items/materials/t2-talltree-stone-760251531.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-blackmire-statue-i-3155995947.md"
+}

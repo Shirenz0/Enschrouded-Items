@@ -1,0 +1,60 @@
+{
+ "id": 1178468623,
+ "name": "Raw Meat and Azure Russula Skewer",
+ "internalName": "Material_T2_raw_dish_MushroomSkewer",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 250,
+ "image": "images/icons/1178468623.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This mushroom skewer will not only strength your flesh, but ylso your mind. Grilled over a fire, it will raise your **maximum health, maximum mana and accelerates your mana regeneration.**",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 510391461,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1304815894,
+      "name": "Azure Russula",
+      "page": "items/consumables/azure-russula-1304815894.md",
+      "json": "items/consumables/azure-russula-1304815894.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2512460235,
+      "name": "Raw Game",
+      "page": "items/consumables/raw-game-2512460235.md",
+      "json": "items/consumables/raw-game-2512460235.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3656080316,
+   "name": "Meat Skewer with Azure Russula",
+   "page": "items/consumables/meat-skewer-with-azure-russula-3656080316.md",
+   "json": "items/consumables/meat-skewer-with-azure-russula-3656080316.json"
+  }
+ ],
+ "page": "items/materials/raw-meat-and-azure-russula-skewer-1178468623.md"
+}

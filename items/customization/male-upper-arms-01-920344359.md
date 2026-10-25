@@ -15,4 +15,4 @@ One of 4 versions of this item: see [Male Upper Arms 01](../../objects/customiza
 
 ---
 
-[← Customization](../../categories/customization.md) · [All categories](../../README.md)
+[← Customization](../../categories/customization.md) · [All categories](../../README.md) · [JSON](male-upper-arms-01-920344359.json)

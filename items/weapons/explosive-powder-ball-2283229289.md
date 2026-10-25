@@ -41,4 +41,4 @@ Manual Crafting
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](explosive-powder-ball-2283229289.json)

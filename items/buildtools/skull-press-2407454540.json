@@ -1,0 +1,88 @@
+{
+ "id": 2407454540,
+ "name": "Skull Press",
+ "internalName": "Prop_NPC_T2_cryptKeeper_EctoplasmPress",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2407454540.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A special crafting station which allows it's devious user to create materials.",
+ "lore": "Furniture",
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2127081262,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1368893472,
+      "name": "Skeleton Heavy head",
+      "page": "items/materials/skeleton-heavy-head-1368893472.md",
+      "json": "items/materials/skeleton-heavy-head-1368893472.json"
+     }
+    },
+    {
+     "count": 120,
+     "item": {
+      "id": 2617088387,
+      "name": "T2 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/skull-press-2407454540.md"
+}

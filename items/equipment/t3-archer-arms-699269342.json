@@ -1,0 +1,122 @@
+{
+ "id": 699269342,
+ "name": "T3 Archer Arms",
+ "internalName": "Armor_T3_Ranger_Assassin_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/699269342.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Plain but sturdy sharpshooter gloves.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-archer-arms.md",
+  "json": "objects/equipment/t3-archer-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "% Dagger Damage",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1734157132,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2302389683,
+      "name": "Corrosive Blood",
+      "page": "items/materials/corrosive-blood-2302389683.md",
+      "json": "items/materials/corrosive-blood-2302389683.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1693311429,
+      "name": "Critter Glands",
+      "page": "items/materials/critter-glands-1693311429.md",
+      "json": "items/materials/critter-glands-1693311429.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t3-archer-arms-699269342.md"
+}

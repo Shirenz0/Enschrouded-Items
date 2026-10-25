@@ -1,0 +1,36 @@
+{
+ "name": "Heart Pillow",
+ "category": "BuildTools",
+ "image": "images/icons/3748979170.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3024345321,
+   "name": "Heart Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3024345321.png",
+   "page": "items/buildtools/heart-pillow-3024345321.md",
+   "json": "items/buildtools/heart-pillow-3024345321.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3748979170,
+   "name": "Heart Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3748979170.png",
+   "page": "items/buildtools/heart-pillow-3748979170.md",
+   "json": "items/buildtools/heart-pillow-3748979170.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/heart-pillow.md"
+}

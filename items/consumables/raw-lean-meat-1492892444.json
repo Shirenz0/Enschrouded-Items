@@ -1,0 +1,73 @@
+{
+ "id": 1492892444,
+ "name": "Raw Lean Meat",
+ "internalName": "Food_T1_raw_bad_meat_LeanMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1492892444.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This looks inedible. Maybe if cooked it would be worth a try...",
+ "lore": null,
+ "whereToFind": "Springlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": -20,
+    "display": "-20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2090825266,
+   "name": "Lean Meat",
+   "page": "items/consumables/lean-meat-2090825266.md",
+   "json": "items/consumables/lean-meat-2090825266.json"
+  },
+  {
+   "id": 3975408930,
+   "name": "Raw Meat and Corncob Skewer",
+   "page": "items/materials/raw-meat-and-corncob-skewer-3975408930.md",
+   "json": "items/materials/raw-meat-and-corncob-skewer-3975408930.json"
+  },
+  {
+   "id": 2335785241,
+   "name": "Raw Meat and Mushroom Skewer",
+   "page": "items/materials/raw-meat-and-mushroom-skewer-2335785241.md",
+   "json": "items/materials/raw-meat-and-mushroom-skewer-2335785241.json"
+  },
+  {
+   "id": 3984646053,
+   "name": "Raw Meat and Tomato Skewer",
+   "page": "items/materials/raw-meat-and-tomato-skewer-3984646053.md",
+   "json": "items/materials/raw-meat-and-tomato-skewer-3984646053.json"
+  },
+  {
+   "id": 1175242603,
+   "name": "Food Cat Feeeding",
+   "page": "items/buildtools/food-cat-feeeding-1175242603.md",
+   "json": "items/buildtools/food-cat-feeeding-1175242603.json"
+  }
+ ],
+ "page": "items/consumables/raw-lean-meat-1492892444.md"
+}

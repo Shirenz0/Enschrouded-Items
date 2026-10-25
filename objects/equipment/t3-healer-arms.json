@@ -1,0 +1,35 @@
+{
+ "name": "T3 Healer Arms",
+ "category": "Equipment",
+ "image": "images/icons/948744885.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 4053860811,
+   "name": "T3 Healer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4053860811.png",
+   "page": "items/equipment/t3-healer-arms-4053860811.md",
+   "json": "items/equipment/t3-healer-arms-4053860811.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 948744885,
+   "name": "T3 Healer Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/948744885.png",
+   "page": "items/equipment/t3-healer-arms-948744885.md",
+   "json": "items/equipment/t3-healer-arms-948744885.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-healer-arms.md"
+}

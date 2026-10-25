@@ -17,4 +17,4 @@ Low cut shoes. Exposing one's ankles is quite enchanting.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-mage-boots.json)

@@ -1,0 +1,71 @@
+{
+ "id": 111548446,
+ "name": "T2 Healer Chest",
+ "internalName": "Armor_T2_Mage_Healer_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/111548446.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A breathable tunic with ample space for storing bandages, herbs, and tissues.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-healer-chest.md",
+  "json": "objects/equipment/t2-healer-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Healing",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Water Aura",
+   "effect": "Increases the skill level of Water Aura by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+40 Health"
+  },
+  {
+   "order": 5,
+   "name": "Shared Misery",
+   "effect": "Increases the skill level of Shared Misery"
+  }
+ ],
+ "page": "items/equipment/t2-healer-chest-111548446.md"
+}

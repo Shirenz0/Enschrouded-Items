@@ -1,0 +1,29 @@
+{
+ "id": 2587423299,
+ "name": "Simple Wood Support",
+ "internalName": "Prop_Decoration_T6_Support_4m_01_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2587423299.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/simple-wood-support.md",
+  "json": "objects/buildtools/simple-wood-support.json",
+  "versions": 4
+ },
+ "page": "items/buildtools/simple-wood-support-2587423299.md"
+}

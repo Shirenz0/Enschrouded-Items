@@ -1,0 +1,35 @@
+{
+ "name": "Scout Hood",
+ "category": "Equipment",
+ "image": "images/icons/3288375535.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2551307587,
+   "name": "Scout Hood",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2551307587.png",
+   "page": "items/equipment/scout-hood-2551307587.md",
+   "json": "items/equipment/scout-hood-2551307587.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3288375535,
+   "name": "Scout Hood",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3288375535.png",
+   "page": "items/equipment/scout-hood-3288375535.md",
+   "json": "items/equipment/scout-hood-3288375535.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/scout-hood.md"
+}

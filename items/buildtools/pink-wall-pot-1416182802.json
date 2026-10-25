@@ -1,0 +1,74 @@
+{
+ "id": 1416182802,
+ "name": "Pink Wall Pot",
+ "internalName": "Flower_Pot_Long_Wall_Pink",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1416182802.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/pink-wall-pot.md",
+  "json": "objects/buildtools/pink-wall-pot.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 1333849589,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1515343684,
+      "name": "Empty Flower Pot I",
+      "page": "items/buildtools/empty-flower-pot-i-1515343684.md",
+      "json": "items/buildtools/empty-flower-pot-i-1515343684.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/pink-wall-pot-1416182802.md"
+}

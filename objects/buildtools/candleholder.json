@@ -1,0 +1,36 @@
+{
+ "name": "Candleholder",
+ "category": "BuildTools",
+ "image": "images/icons/3107093572.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2030375070,
+   "name": "Candleholder",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2030375070.png",
+   "page": "items/buildtools/candleholder-2030375070.md",
+   "json": "items/buildtools/candleholder-2030375070.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3107093572,
+   "name": "Candleholder",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3107093572.png",
+   "page": "items/buildtools/candleholder-3107093572.md",
+   "json": "items/buildtools/candleholder-3107093572.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/candleholder.md"
+}

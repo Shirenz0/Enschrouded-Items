@@ -1,0 +1,29 @@
+{
+ "id": 1556757497,
+ "name": "Broken Piece of a Statue",
+ "internalName": "Collection_StatuePikeMead_Piece_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1556757497.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Try to find the missing pieces to reassemble a Statue.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/collectibles/broken-piece-of-a-statue.md",
+  "json": "objects/collectibles/broken-piece-of-a-statue.json",
+  "versions": 3
+ },
+ "page": "items/collectibles/broken-piece-of-a-statue-1556757497.md"
+}

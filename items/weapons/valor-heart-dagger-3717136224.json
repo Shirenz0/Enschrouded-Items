@@ -1,0 +1,112 @@
+{
+ "id": 3717136224,
+ "name": "Valor Heart Dagger",
+ "internalName": "Craft_Weapon_T4_2H_Lore_DaggersEpic_Parry_bard_Hint02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 21,
+  "max": 21
+ },
+ "maxStack": 1,
+ "image": "images/icons/3717136224.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/valor-heart-dagger.md",
+  "json": "objects/weapons/valor-heart-dagger.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 400,
+    "display": "0.4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Precise",
+   "effect": "+7 Precise"
+  },
+  {
+   "order": 2,
+   "name": "Merciless",
+   "effect": "+18 Merciless"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Merciless",
+   "effect": "+18 Merciless"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2601157951,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/valor-heart-dagger-3717136224.md"
+}

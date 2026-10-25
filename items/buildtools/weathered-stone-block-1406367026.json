@@ -1,0 +1,52 @@
+{
+ "id": 1406367026,
+ "name": "Weathered Stone Block",
+ "internalName": "Block_T2_Dungeon_Stone_Catacombs_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1406367026.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "In ancient times, these blocks were used to build dungeons and catacombs. Nowadays, they are in bad condition, but still server their purpose.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3404363229,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1181280513,
+      "name": "Deepforest Stone",
+      "page": "items/materials/deepforest-stone-1181280513.md",
+      "json": "items/materials/deepforest-stone-1181280513.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/weathered-stone-block-1406367026.md"
+}

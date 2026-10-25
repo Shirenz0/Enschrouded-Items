@@ -17,4 +17,4 @@ A reward for dedicated early access players.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](early-access-reward-badge-1705873383.json)

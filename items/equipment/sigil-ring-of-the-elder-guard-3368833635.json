@@ -1,0 +1,54 @@
+{
+ "id": 3368833635,
+ "name": "Sigil Ring of the Elder Guard",
+ "internalName": "Ring_T1_ministory_01",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/3368833635.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "\"Captain Arkwright\" is engraved in the metal. Given to the most loyal commanders.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Enduring",
+   "effect": "+3 Enduring"
+  }
+ ],
+ "page": "items/equipment/sigil-ring-of-the-elder-guard-3368833635.md"
+}

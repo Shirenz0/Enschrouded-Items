@@ -1,0 +1,39 @@
+{
+ "name": "Greater Fog Survival Flask",
+ "category": "Consumables",
+ "image": "images/icons/1843136640.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore",
+  "where to find"
+ ],
+ "differsIn": [
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 209497692,
+   "name": "Greater Fog Survival Flask",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/209497692.png",
+   "page": "items/consumables/greater-fog-survival-flask-209497692.md",
+   "json": "items/consumables/greater-fog-survival-flask-209497692.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1843136640,
+   "name": "Greater Fog Survival Flask",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1843136640.png",
+   "page": "items/consumables/greater-fog-survival-flask-1843136640.md",
+   "json": "items/consumables/greater-fog-survival-flask-1843136640.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/consumables/greater-fog-survival-flask.md"
+}

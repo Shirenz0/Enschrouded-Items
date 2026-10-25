@@ -21,4 +21,4 @@ They differ in level range and rarity; the table shows the values per version.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](lupa-s-scalper.json)

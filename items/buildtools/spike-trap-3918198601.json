@@ -1,0 +1,43 @@
+{
+ "id": 3918198601,
+ "name": "Spike trap",
+ "internalName": "Prop_Logic_Trap_FloorSpikes",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3918198601.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Beware of the Spike Traps. When they are activated they will hurt more than stepping on a small plastic brick.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2480944815,
+   "station": "Logic System Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1072522988,
+      "name": "Tin Bars",
+      "page": "items/materials/tin-bars-1072522988.md",
+      "json": "items/materials/tin-bars-1072522988.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/spike-trap-3918198601.md"
+}

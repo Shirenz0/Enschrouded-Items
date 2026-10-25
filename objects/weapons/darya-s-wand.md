@@ -19,4 +19,4 @@ A wand that harnesses the power of the eclipse. It functions best when the sun i
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](darya-s-wand.json)

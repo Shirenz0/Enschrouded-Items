@@ -1,0 +1,60 @@
+{
+ "id": 1506458989,
+ "name": "Castle Wall Stone Block",
+ "internalName": "Block_T3_Stone_CastleWall_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1506458989.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A washed version of the Rough Stone Block. Exposed to the weather, the stones have lost their rough features over time.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2540885520,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2732808327,
+      "name": "Steppes Dirt",
+      "page": "items/materials/steppes-dirt-2732808327.md",
+      "json": "items/materials/steppes-dirt-2732808327.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 22389632,
+   "name": "Castle Wall Secret",
+   "page": "items/buildtools/castle-wall-secret-22389632.md",
+   "json": "items/buildtools/castle-wall-secret-22389632.json"
+  }
+ ],
+ "page": "items/buildtools/castle-wall-stone-block-1506458989.md"
+}

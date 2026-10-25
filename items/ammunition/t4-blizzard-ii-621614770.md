@@ -33,4 +33,4 @@ Creates an icy storm that slows down enemies and deals damage.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t4-blizzard-ii-621614770.json)

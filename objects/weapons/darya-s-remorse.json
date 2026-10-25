@@ -1,0 +1,38 @@
+{
+ "name": "Darya's Remorse",
+ "category": "Weapons",
+ "image": "images/icons/2642629621.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 3233786830,
+   "name": "Darya's Remorse",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3233786830.png",
+   "page": "items/weapons/darya-s-remorse-3233786830.md",
+   "json": "items/weapons/darya-s-remorse-3233786830.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2642629621,
+   "name": "Darya's Remorse",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2642629621.png",
+   "page": "items/weapons/darya-s-remorse-2642629621.md",
+   "json": "items/weapons/darya-s-remorse-2642629621.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/darya-s-remorse.md"
+}

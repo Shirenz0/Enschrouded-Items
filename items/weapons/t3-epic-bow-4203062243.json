@@ -1,0 +1,69 @@
+{
+ "id": 4203062243,
+ "name": "T3 Epic Bow",
+ "internalName": "Weapon_T3_2H_BowEpic_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/4203062243.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T3 Epic Bow Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ranged weapon",
+  "values": [
+   {
+    "label": "Draw Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Arrow Speed",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Reaping",
+   "effect": "Defeat an enemy to gain a Stamina Regeneration Buff"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Mana Leech",
+   "effect": "On Hit Leech %Percentage% Damage as Mana"
+  }
+ ],
+ "page": "items/weapons/t3-epic-bow-4203062243.md"
+}

@@ -1,0 +1,29 @@
+{
+ "id": 157325050,
+ "name": "Male Feet 01",
+ "internalName": "VC_Body_Feet_Male_04_elder",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/male-feet-01.md",
+  "json": "objects/customization/male-feet-01.json",
+  "versions": 4
+ },
+ "page": "items/customization/male-feet-01-157325050.md"
+}

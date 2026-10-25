@@ -1,0 +1,38 @@
+{
+ "name": "Proto Bone-Bender",
+ "category": "Weapons",
+ "image": "images/icons/1030886695.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 62683222,
+   "name": "Proto Bone-Bender",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/62683222.png",
+   "page": "items/weapons/proto-bone-bender-62683222.md",
+   "json": "items/weapons/proto-bone-bender-62683222.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1030886695,
+   "name": "Proto Bone-Bender",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/1030886695.png",
+   "page": "items/weapons/proto-bone-bender-1030886695.md",
+   "json": "items/weapons/proto-bone-bender-1030886695.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/proto-bone-bender.md"
+}

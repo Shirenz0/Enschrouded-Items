@@ -15,4 +15,4 @@ One of 4 versions of this item: see [Male Lower Legs 01](../../objects/customiza
 
 ---
 
-[← Customization](../../categories/customization.md) · [All categories](../../README.md)
+[← Customization](../../categories/customization.md) · [All categories](../../README.md) · [JSON](male-lower-legs-01-1099771612.json)

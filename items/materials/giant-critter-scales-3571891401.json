@@ -1,0 +1,69 @@
+{
+ "id": 3571891401,
+ "name": "Giant Critter Scales",
+ "internalName": "Material_T2_GiantCritterScales",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/3571891401.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Massive, hardened scales shed by a giant fell critter. Lightweight yet incredibly tough, they serve as a prime material for crafting durable and flexible armor.",
+ "lore": null,
+ "whereToFind": "Fell Critter Queen, First: Revelwood Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2331461341,
+   "name": "Ghostly Shield",
+   "page": "items/equipment/ghostly-shield-2331461341.md",
+   "json": "items/equipment/ghostly-shield-2331461341.json"
+  },
+  {
+   "id": 3101300981,
+   "name": "T2 DPS Chest",
+   "page": "items/equipment/t2-dps-chest-3101300981.md",
+   "json": "items/equipment/t2-dps-chest-3101300981.json"
+  },
+  {
+   "id": 2707905851,
+   "name": "T2 Healer Chest",
+   "page": "items/equipment/t2-healer-chest-2707905851.md",
+   "json": "items/equipment/t2-healer-chest-2707905851.json"
+  },
+  {
+   "id": 3494556891,
+   "name": "T2 Mage Chest",
+   "page": "items/equipment/t2-mage-chest-3494556891.md",
+   "json": "items/equipment/t2-mage-chest-3494556891.json"
+  },
+  {
+   "id": 1856277122,
+   "name": "T2 Ranger Chest",
+   "page": "items/equipment/t2-ranger-chest-1856277122.md",
+   "json": "items/equipment/t2-ranger-chest-1856277122.json"
+  },
+  {
+   "id": 1543470770,
+   "name": "T2 Archer Chest",
+   "page": "items/equipment/t2-archer-chest-1543470770.md",
+   "json": "items/equipment/t2-archer-chest-1543470770.json"
+  },
+  {
+   "id": 1555932121,
+   "name": "T2 Tank Chest",
+   "page": "items/equipment/t2-tank-chest-1555932121.md",
+   "json": "items/equipment/t2-tank-chest-1555932121.json"
+  }
+ ],
+ "page": "items/materials/giant-critter-scales-3571891401.md"
+}

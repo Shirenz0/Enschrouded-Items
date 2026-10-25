@@ -1,0 +1,83 @@
+{
+ "id": 790393972,
+ "name": "Open Sandwich",
+ "internalName": "Food_T4_dish_grain_cooked_OpenSandwich",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/790393972.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A relatively simple, but fortifying meal. Fast and ready to go!",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 80,
+    "display": "80",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2700000,
+    "display": "45:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 377369326,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3696168941,
+      "name": "Saffron",
+      "page": "items/materials/saffron-3696168941.md",
+      "json": "items/materials/saffron-3696168941.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3373898672,
+      "name": "Grilled Wolf Meat",
+      "page": "items/consumables/grilled-wolf-meat-3373898672.md",
+      "json": "items/consumables/grilled-wolf-meat-3373898672.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2160078991,
+      "name": "Flat Bread",
+      "page": "items/consumables/flat-bread-2160078991.md",
+      "json": "items/consumables/flat-bread-2160078991.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/open-sandwich-790393972.md"
+}

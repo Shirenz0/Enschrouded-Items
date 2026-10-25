@@ -1,0 +1,93 @@
+{
+ "name": "Halescourge",
+ "category": "Weapons",
+ "image": "images/icons/558617602.png",
+ "versions": 7,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 907435246,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "11",
+   "image": "images/icons/907435246.png",
+   "page": "items/weapons/halescourge-907435246.md",
+   "json": "items/weapons/halescourge-907435246.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 602591868,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/602591868.png",
+   "page": "items/weapons/halescourge-602591868.md",
+   "json": "items/weapons/halescourge-602591868.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3145841208,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3145841208.png",
+   "page": "items/weapons/halescourge-3145841208.md",
+   "json": "items/weapons/halescourge-3145841208.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1092596290,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1092596290.png",
+   "page": "items/weapons/halescourge-1092596290.md",
+   "json": "items/weapons/halescourge-1092596290.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2409952376,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2409952376.png",
+   "page": "items/weapons/halescourge-2409952376.md",
+   "json": "items/weapons/halescourge-2409952376.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3983015116,
+   "name": "Halescourge",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3983015116.png",
+   "page": "items/weapons/halescourge-3983015116.md",
+   "json": "items/weapons/halescourge-3983015116.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 558617602,
+   "name": "Halescourge",
+   "rarity": "Epic",
+   "level": "1-55",
+   "image": "images/icons/558617602.png",
+   "page": "items/weapons/halescourge-558617602.md",
+   "json": "items/weapons/halescourge-558617602.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/halescourge.md"
+}

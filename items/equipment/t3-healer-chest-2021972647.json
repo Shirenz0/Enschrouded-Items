@@ -1,0 +1,77 @@
+{
+ "id": 2021972647,
+ "name": "T3 Healer Chest",
+ "internalName": "Armor_T3_Mage_Healer_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2021972647.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Classic herbalist garb with widened pockets for storing healing tinctures.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-healer-chest.md",
+  "json": "objects/equipment/t3-healer-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 36,
+    "display": "36",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Healing",
+    "value": 72,
+    "display": "72",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Water Aura",
+   "effect": "Increases the skill level of Water Aura by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health",
+   "effect": "+60 Health"
+  },
+  {
+   "order": 5,
+   "name": "Shared Misery",
+   "effect": "Increases the skill level of Shared Misery"
+  }
+ ],
+ "page": "items/equipment/t3-healer-chest-2021972647.md"
+}

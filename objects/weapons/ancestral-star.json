@@ -1,0 +1,60 @@
+{
+ "name": "Ancestral Star",
+ "category": "Weapons",
+ "image": "images/icons/2226962572.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 3843821992,
+   "name": "Ancestral Star",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3843821992.png",
+   "page": "items/weapons/ancestral-star-3843821992.md",
+   "json": "items/weapons/ancestral-star-3843821992.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1912269209,
+   "name": "Ancestral Star",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1912269209.png",
+   "page": "items/weapons/ancestral-star-1912269209.md",
+   "json": "items/weapons/ancestral-star-1912269209.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 430276931,
+   "name": "Ancestral Star",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/430276931.png",
+   "page": "items/weapons/ancestral-star-430276931.md",
+   "json": "items/weapons/ancestral-star-430276931.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2226962572,
+   "name": "Ancestral Star",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/2226962572.png",
+   "page": "items/weapons/ancestral-star-2226962572.md",
+   "json": "items/weapons/ancestral-star-2226962572.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/ancestral-star.md"
+}

@@ -1,0 +1,75 @@
+{
+ "id": 459703170,
+ "name": "T5 Ring of mana",
+ "internalName": "Ring_T5_Ring_of_Mana",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 1,
+ "image": "images/icons/459703170.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This ring will increase your Mana and its replenishment.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Mana",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana",
+   "effect": "+30 Mana"
+  },
+  {
+   "order": 2,
+   "name": "Spiritual",
+   "effect": "+20 Spiritual"
+  },
+  {
+   "order": 3,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana Leech",
+   "effect": "+6 Mana Leech"
+  },
+  {
+   "order": 5,
+   "name": "+1 Spellslinger",
+   "effect": "Increases the skill level of Spellslinger by +1"
+  }
+ ],
+ "page": "items/equipment/t5-ring-of-mana-459703170.md"
+}

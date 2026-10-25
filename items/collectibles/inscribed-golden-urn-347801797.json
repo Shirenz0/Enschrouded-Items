@@ -1,0 +1,25 @@
+{
+ "id": 347801797,
+ "name": "Inscribed Golden Urn",
+ "internalName": "Collection_skeletons_02_urns_urn_03",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/347801797.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This golden urn has multiple sigils inscribed in it. Their meaning far exceeds your understanding.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/inscribed-golden-urn-347801797.md"
+}

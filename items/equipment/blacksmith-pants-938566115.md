@@ -27,4 +27,4 @@ These pants are smeared with soot.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](blacksmith-pants-938566115.json)

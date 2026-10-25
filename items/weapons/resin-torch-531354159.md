@@ -30,4 +30,4 @@ An advancedly crafted torch, usable for a longer amount of time, spending light 
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](resin-torch-531354159.json)

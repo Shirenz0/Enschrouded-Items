@@ -1,0 +1,52 @@
+{
+ "id": 1788793277,
+ "name": "Silver chest",
+ "internalName": "Prop_Storage_40_T5_Chest_Silver",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1788793277.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers a some  amount of storage space to store items.",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 598655868,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2746521854,
+      "name": "T5 Silver Bar",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/silver-chest-1788793277.md"
+}

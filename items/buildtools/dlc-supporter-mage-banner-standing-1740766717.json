@@ -1,0 +1,25 @@
+{
+ "id": 1740766717,
+ "name": "DLC SUpporter Mage Banner Standing",
+ "internalName": "Prop_Decoration_DLC_Supporter_Mage_Banner_Standing",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1740766717.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/dlc-supporter-mage-banner-standing-1740766717.md"
+}

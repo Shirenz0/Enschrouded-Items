@@ -1,0 +1,52 @@
+{
+ "id": 2848160320,
+ "name": "HallowHalls Decorative Dungeon Block",
+ "internalName": "Block_T5_Dungeon_HollowHalls_Decoration_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2848160320.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Made from polished Marble",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3605805856,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 9,
+     "item": {
+      "id": 2530601241,
+      "name": "Red Marble fragment",
+      "page": "items/materials/red-marble-fragment-2530601241.md",
+      "json": "items/materials/red-marble-fragment-2530601241.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/hallowhalls-decorative-dungeon-block-2848160320.md"
+}

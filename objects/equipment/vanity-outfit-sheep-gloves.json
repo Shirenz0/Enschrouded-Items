@@ -1,0 +1,35 @@
+{
+ "name": "Vanity Outfit Sheep gloves",
+ "category": "Equipment",
+ "image": "images/icons/99678308.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 302659874,
+   "name": "Vanity Outfit Sheep gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/302659874.png",
+   "page": "items/equipment/vanity-outfit-sheep-gloves-302659874.md",
+   "json": "items/equipment/vanity-outfit-sheep-gloves-302659874.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 99678308,
+   "name": "Vanity Outfit Sheep gloves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/99678308.png",
+   "page": "items/equipment/vanity-outfit-sheep-gloves-99678308.md",
+   "json": "items/equipment/vanity-outfit-sheep-gloves-99678308.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/vanity-outfit-sheep-gloves.md"
+}

@@ -1,0 +1,207 @@
+{
+ "id": 3316218728,
+ "name": "Plant Fibre",
+ "internalName": "Material_T1_Plant_Fibre",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 250,
+ "image": "images/icons/3316218728.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Maybe they can be used as strings? They seem pretty robust.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 196827131,
+   "name": "Roof Tiles Block",
+   "page": "items/buildtools/roof-tiles-block-196827131.md",
+   "json": "items/buildtools/roof-tiles-block-196827131.json"
+  },
+  {
+   "id": 4077117519,
+   "name": "Plant Fibre Roof Block",
+   "page": "items/buildtools/plant-fibre-roof-block-4077117519.md",
+   "json": "items/buildtools/plant-fibre-roof-block-4077117519.json"
+  },
+  {
+   "id": 4047385314,
+   "name": "Shrub Seedling",
+   "page": "items/buildtools/shrub-seedling-4047385314.md",
+   "json": "items/buildtools/shrub-seedling-4047385314.json"
+  },
+  {
+   "id": 1545825068,
+   "name": "Bait Goat",
+   "page": "items/buildtools/bait-goat-1545825068.md",
+   "json": "items/buildtools/bait-goat-1545825068.json"
+  },
+  {
+   "id": 1614998716,
+   "name": "Explosive Powder Grenade",
+   "page": "items/weapons/explosive-powder-grenade-1614998716.md",
+   "json": "items/weapons/explosive-powder-grenade-1614998716.json"
+  },
+  {
+   "id": 3462191401,
+   "name": "Explosive Barrel",
+   "page": "items/buildtools/explosive-barrel-3462191401.md",
+   "json": "items/buildtools/explosive-barrel-3462191401.json"
+  },
+  {
+   "id": 2304873217,
+   "name": "Bed T2",
+   "page": "items/buildtools/bed-t2-2304873217.md",
+   "json": "items/buildtools/bed-t2-2304873217.json"
+  },
+  {
+   "id": 2940001508,
+   "name": "Bed T1",
+   "page": "items/buildtools/bed-t1-2940001508.md",
+   "json": "items/buildtools/bed-t1-2940001508.json"
+  },
+  {
+   "id": 1294451888,
+   "name": "Straw mat",
+   "page": "items/buildtools/straw-mat-1294451888.md",
+   "json": "items/buildtools/straw-mat-1294451888.json"
+  },
+  {
+   "id": 2728573922,
+   "name": "Big Straw Mat",
+   "page": "items/buildtools/big-straw-mat-2728573922.md",
+   "json": "items/buildtools/big-straw-mat-2728573922.json"
+  },
+  {
+   "id": 1057970078,
+   "name": "Paper Lantern I",
+   "page": "items/buildtools/paper-lantern-i-1057970078.md",
+   "json": "items/buildtools/paper-lantern-i-1057970078.json"
+  },
+  {
+   "id": 1987268311,
+   "name": "Paper Lantern II",
+   "page": "items/buildtools/paper-lantern-ii-1987268311.md",
+   "json": "items/buildtools/paper-lantern-ii-1987268311.json"
+  },
+  {
+   "id": 3024345321,
+   "name": "Heart Pillow",
+   "page": "items/buildtools/heart-pillow-3024345321.md",
+   "json": "items/buildtools/heart-pillow-3024345321.json"
+  },
+  {
+   "id": 888761991,
+   "name": "Hophare Pillow",
+   "page": "items/buildtools/hophare-pillow-888761991.md",
+   "json": "items/buildtools/hophare-pillow-888761991.json"
+  },
+  {
+   "id": 1936163292,
+   "name": "Fae Deer Pillow",
+   "page": "items/buildtools/fae-deer-pillow-1936163292.md",
+   "json": "items/buildtools/fae-deer-pillow-1936163292.json"
+  },
+  {
+   "id": 1568297956,
+   "name": "Flightless Redtail Pillow",
+   "page": "items/buildtools/flightless-redtail-pillow-1568297956.md",
+   "json": "items/buildtools/flightless-redtail-pillow-1568297956.json"
+  },
+  {
+   "id": 3063700121,
+   "name": "Cylindrical Pillow",
+   "page": "items/buildtools/cylindrical-pillow-3063700121.md",
+   "json": "items/buildtools/cylindrical-pillow-3063700121.json"
+  },
+  {
+   "id": 68181452,
+   "name": "Bembel",
+   "page": "items/buildtools/bembel-68181452.md",
+   "json": "items/buildtools/bembel-68181452.json"
+  },
+  {
+   "id": 1209952398,
+   "name": "Room Divider \"Flower\"",
+   "page": "items/buildtools/room-divider-flower-1209952398.md",
+   "json": "items/buildtools/room-divider-flower-1209952398.json"
+  },
+  {
+   "id": 1108531204,
+   "name": "Room Divider \"Fish\"",
+   "page": "items/buildtools/room-divider-fish-1108531204.md",
+   "json": "items/buildtools/room-divider-fish-1108531204.json"
+  },
+  {
+   "id": 3460936505,
+   "name": "Room Divider \"Snake\"",
+   "page": "items/buildtools/room-divider-snake-3460936505.md",
+   "json": "items/buildtools/room-divider-snake-3460936505.json"
+  },
+  {
+   "id": 1008591425,
+   "name": "Room Divider \"Dragon\"",
+   "page": "items/buildtools/room-divider-dragon-1008591425.md",
+   "json": "items/buildtools/room-divider-dragon-1008591425.json"
+  },
+  {
+   "id": 896912556,
+   "name": "Lantern Garden Gnome",
+   "page": "items/buildtools/lantern-garden-gnome-896912556.md",
+   "json": "items/buildtools/lantern-garden-gnome-896912556.json"
+  },
+  {
+   "id": 333200327,
+   "name": "Shovel Garden Gnome",
+   "page": "items/buildtools/shovel-garden-gnome-333200327.md",
+   "json": "items/buildtools/shovel-garden-gnome-333200327.json"
+  },
+  {
+   "id": 2775007815,
+   "name": "Sword Garden Gnome",
+   "page": "items/buildtools/sword-garden-gnome-2775007815.md",
+   "json": "items/buildtools/sword-garden-gnome-2775007815.json"
+  },
+  {
+   "id": 2417128668,
+   "name": "Food Catdeer Feeding",
+   "page": "items/buildtools/food-catdeer-feeding-2417128668.md",
+   "json": "items/buildtools/food-catdeer-feeding-2417128668.json"
+  },
+  {
+   "id": 206667189,
+   "name": "Food Goat Feeding",
+   "page": "items/buildtools/food-goat-feeding-206667189.md",
+   "json": "items/buildtools/food-goat-feeding-206667189.json"
+  },
+  {
+   "id": 885937007,
+   "name": "Dog Pillow",
+   "page": "items/buildtools/dog-pillow-885937007.md",
+   "json": "items/buildtools/dog-pillow-885937007.json"
+  },
+  {
+   "id": 654842831,
+   "name": "Cat Pillow",
+   "page": "items/buildtools/cat-pillow-654842831.md",
+   "json": "items/buildtools/cat-pillow-654842831.json"
+  },
+  {
+   "id": 2785796264,
+   "name": "Barn Pillow",
+   "page": "items/buildtools/barn-pillow-2785796264.md",
+   "json": "items/buildtools/barn-pillow-2785796264.json"
+  }
+ ],
+ "page": "items/materials/plant-fibre-3316218728.md"
+}

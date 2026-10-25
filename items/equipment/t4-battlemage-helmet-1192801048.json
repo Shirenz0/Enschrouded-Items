@@ -1,0 +1,122 @@
+{
+ "id": 1192801048,
+ "name": "T4 BattleMage Helmet",
+ "internalName": "Armor_T4_Mage_BattleWand_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1192801048.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A helmet which protects your sensitive cranial bone from harm.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-battlemage-helmet.md",
+  "json": "objects/equipment/t4-battlemage-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Critical Strike Damage",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Radiant Aura",
+   "effect": "Increases the skill level of Radiant Aura by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+16 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1435381508,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2698923038,
+      "name": "Fell Mist",
+      "page": "items/materials/fell-mist-2698923038.md",
+      "json": "items/materials/fell-mist-2698923038.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2128518559,
+      "name": "Fabric",
+      "page": "items/materials/fabric-2128518559.md",
+      "json": "items/materials/fabric-2128518559.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 267668454,
+      "name": "Night Desert Flower",
+      "page": "items/materials/night-desert-flower-267668454.md",
+      "json": "items/materials/night-desert-flower-267668454.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-battlemage-helmet-1192801048.md"
+}

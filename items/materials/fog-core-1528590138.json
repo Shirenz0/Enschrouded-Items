@@ -1,0 +1,84 @@
+{
+ "id": 1528590138,
+ "name": "Fog Core",
+ "internalName": "Material_T1_Fog_Core01_ShroudCore",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1528590138.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A stable form of energy. Burning it at the Flame Altar may protect against the Fog.",
+ "lore": null,
+ "whereToFind": "Alchemist or Fell Bosses",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1859919847,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2559861108,
+      "name": "Fog Essence",
+      "page": "items/materials/fog-essence-2559861108.md",
+      "json": "items/materials/fog-essence-2559861108.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 860644516,
+      "name": "Fog Liquid",
+      "page": "items/materials/fog-liquid-860644516.md",
+      "json": "items/materials/fog-liquid-860644516.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1789305300,
+   "name": "Improved Grappling Hook",
+   "page": "items/tools/improved-grappling-hook-1789305300.md",
+   "json": "items/tools/improved-grappling-hook-1789305300.json"
+  },
+  {
+   "id": 2463706463,
+   "name": "Magic Medium Chest",
+   "page": "items/buildtools/magic-medium-chest-2463706463.md",
+   "json": "items/buildtools/magic-medium-chest-2463706463.json"
+  },
+  {
+   "id": 2847231429,
+   "name": "Loot Drop Station",
+   "page": "items/buildtools/loot-drop-station-2847231429.md",
+   "json": "items/buildtools/loot-drop-station-2847231429.json"
+  },
+  {
+   "id": 3718491895,
+   "name": "Big range Loot Drop Station",
+   "page": "items/buildtools/big-range-loot-drop-station-3718491895.md",
+   "json": "items/buildtools/big-range-loot-drop-station-3718491895.json"
+  },
+  {
+   "id": 3738285842,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-3738285842.md",
+   "json": "items/equipment/pikemead-s-ward-3738285842.json"
+  }
+ ],
+ "page": "items/materials/fog-core-1528590138.md"
+}

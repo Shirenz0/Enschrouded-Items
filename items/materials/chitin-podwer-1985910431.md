@@ -29,4 +29,4 @@ Crafting, Hand Grinder
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](chitin-podwer-1985910431.json)

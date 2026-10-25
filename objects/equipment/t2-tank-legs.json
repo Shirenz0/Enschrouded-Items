@@ -1,0 +1,35 @@
+{
+ "name": "T2 Tank Legs",
+ "category": "Equipment",
+ "image": "images/icons/72360942.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2509853978,
+   "name": "T2 Tank Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2509853978.png",
+   "page": "items/equipment/t2-tank-legs-2509853978.md",
+   "json": "items/equipment/t2-tank-legs-2509853978.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 72360942,
+   "name": "T2 Tank Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/72360942.png",
+   "page": "items/equipment/t2-tank-legs-72360942.md",
+   "json": "items/equipment/t2-tank-legs-72360942.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-tank-legs.md"
+}

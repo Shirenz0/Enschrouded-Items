@@ -1,0 +1,45 @@
+{
+ "id": 1803037496,
+ "name": "Shroud Slime",
+ "internalName": "Material_T6_FogTerrain_ShroudSlime",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/1803037496.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "soo slimy",
+ "lore": null,
+ "whereToFind": "Veilwater Basin Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 30818586,
+   "name": "Enormous Magic Chest",
+   "page": "items/buildtools/enormous-magic-chest-30818586.md",
+   "json": "items/buildtools/enormous-magic-chest-30818586.json"
+  },
+  {
+   "id": 1625866381,
+   "name": "T6 Eternal Heal Beam Channel I",
+   "page": "items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.md",
+   "json": "items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.json"
+  },
+  {
+   "id": 1887186828,
+   "name": "Shroud Sludge",
+   "page": "items/materials/shroud-sludge-1887186828.md",
+   "json": "items/materials/shroud-sludge-1887186828.json"
+  }
+ ],
+ "page": "items/materials/shroud-slime-1803037496.md"
+}

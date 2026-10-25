@@ -1,0 +1,36 @@
+{
+ "name": "Prison Fence",
+ "category": "BuildTools",
+ "image": "images/icons/3434035481.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2452070869,
+   "name": "Prison Fence",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2452070869.png",
+   "page": "items/buildtools/prison-fence-2452070869.md",
+   "json": "items/buildtools/prison-fence-2452070869.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3434035481,
+   "name": "Prison Fence",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3434035481.png",
+   "page": "items/buildtools/prison-fence-3434035481.md",
+   "json": "items/buildtools/prison-fence-3434035481.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/prison-fence.md"
+}

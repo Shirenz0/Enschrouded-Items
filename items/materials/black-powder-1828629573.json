@@ -1,0 +1,93 @@
+{
+ "id": 1828629573,
+ "name": "Black Powder",
+ "internalName": "Material_T4_Black_Powder",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/1828629573.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A dangerous alchemical substance used to produce explosives. Better watch out! It goes Boom.",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3772149951,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 7,
+     "item": {
+      "id": 2206878080,
+      "name": "Nitrate",
+      "page": "items/materials/nitrate-2206878080.md",
+      "json": "items/materials/nitrate-2206878080.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4230023681,
+      "name": "Coal Powder",
+      "page": "items/materials/coal-powder-4230023681.md",
+      "json": "items/materials/coal-powder-4230023681.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4160116201,
+   "name": "Exploding Arrow IV",
+   "page": "items/ammunition/exploding-arrow-iv-4160116201.md",
+   "json": "items/ammunition/exploding-arrow-iv-4160116201.json"
+  },
+  {
+   "id": 3342011345,
+   "name": "Exploding Arrow III",
+   "page": "items/ammunition/exploding-arrow-iii-3342011345.md",
+   "json": "items/ammunition/exploding-arrow-iii-3342011345.json"
+  },
+  {
+   "id": 1038927419,
+   "name": "Exploding Arrow II",
+   "page": "items/ammunition/exploding-arrow-ii-1038927419.md",
+   "json": "items/ammunition/exploding-arrow-ii-1038927419.json"
+  },
+  {
+   "id": 1614998716,
+   "name": "Explosive Powder Grenade",
+   "page": "items/weapons/explosive-powder-grenade-1614998716.md",
+   "json": "items/weapons/explosive-powder-grenade-1614998716.json"
+  },
+  {
+   "id": 3462191401,
+   "name": "Explosive Barrel",
+   "page": "items/buildtools/explosive-barrel-3462191401.md",
+   "json": "items/buildtools/explosive-barrel-3462191401.json"
+  }
+ ],
+ "page": "items/materials/black-powder-1828629573.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Scout Pants",
+ "category": "Equipment",
+ "image": "images/icons/2519499294.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1242709289,
+   "name": "Scout Pants",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1242709289.png",
+   "page": "items/equipment/scout-pants-1242709289.md",
+   "json": "items/equipment/scout-pants-1242709289.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2519499294,
+   "name": "Scout Pants",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2519499294.png",
+   "page": "items/equipment/scout-pants-2519499294.md",
+   "json": "items/equipment/scout-pants-2519499294.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/scout-pants.md"
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Male Collar 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1995712807,
+   "name": "Male Collar 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-collar-01-1995712807.md",
+   "json": "items/customization/male-collar-01-1995712807.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 216358741,
+   "name": "Male Collar 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-collar-01-216358741.md",
+   "json": "items/customization/male-collar-01-216358741.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2724370322,
+   "name": "Male Collar 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-collar-01-2724370322.md",
+   "json": "items/customization/male-collar-01-2724370322.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4250111990,
+   "name": "Male Collar 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-collar-01-4250111990.md",
+   "json": "items/customization/male-collar-01-4250111990.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-collar-01.md"
+}

@@ -17,4 +17,4 @@ These gloves allow nimble fingers to patch up wounds when in a pinch.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-healer-arms.json)

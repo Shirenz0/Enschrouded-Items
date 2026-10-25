@@ -1,0 +1,36 @@
+{
+ "name": "Ornamented Stone Window Frame",
+ "category": "BuildTools",
+ "image": "images/icons/3701510493.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 210614111,
+   "name": "Ornamented Stone Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/210614111.png",
+   "page": "items/buildtools/ornamented-stone-window-frame-210614111.md",
+   "json": "items/buildtools/ornamented-stone-window-frame-210614111.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3701510493,
+   "name": "Ornamented Stone Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3701510493.png",
+   "page": "items/buildtools/ornamented-stone-window-frame-3701510493.md",
+   "json": "items/buildtools/ornamented-stone-window-frame-3701510493.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/ornamented-stone-window-frame.md"
+}

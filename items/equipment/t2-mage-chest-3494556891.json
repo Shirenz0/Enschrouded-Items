@@ -1,0 +1,125 @@
+{
+ "id": 3494556891,
+ "name": "T2 Mage Chest",
+ "internalName": "Armor_T2_Mage_Wizard_DPS_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3494556891.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A fibre-made garment held together by oakwood buttons, a woven belt and magic itself! Mostly by the buttons, though.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-mage-chest.md",
+  "json": "objects/equipment/t2-mage-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+15 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Dark Arts",
+   "effect": "Increases the skill level of Dark Arts by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3352534723,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 4276529065,
+      "name": "Indigo Plant",
+      "page": "items/materials/indigo-plant-4276529065.md",
+      "json": "items/materials/indigo-plant-4276529065.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1862351329,
+      "name": "Amber",
+      "page": "items/materials/amber-1862351329.md",
+      "json": "items/materials/amber-1862351329.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3571891401,
+      "name": "Giant Critter Scales",
+      "page": "items/materials/giant-critter-scales-3571891401.md",
+      "json": "items/materials/giant-critter-scales-3571891401.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t2-mage-chest-3494556891.md"
+}

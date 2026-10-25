@@ -31,4 +31,4 @@ A severed Werewolf Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](werewolf-trophy-3646011305.json)

@@ -25,4 +25,4 @@ A medium potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](grapple-plant-flower-pot-1824422740.json)

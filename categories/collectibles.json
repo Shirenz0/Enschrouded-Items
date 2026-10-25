@@ -1,0 +1,656 @@
+{
+ "category": "Collectibles",
+ "title": "Collectibles",
+ "count": 72,
+ "page": "categories/collectibles.md",
+ "items": [
+  {
+   "id": 2870560219,
+   "name": "Albaneve Summits Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2870560219.png",
+   "page": "items/collectibles/albaneve-summits-miniature-piece-2870560219.md",
+   "json": "items/collectibles/albaneve-summits-miniature-piece-2870560219.json"
+  },
+  {
+   "id": 3891940532,
+   "name": "Ammonite Imprint",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3891940532.png",
+   "page": "items/collectibles/ammonite-imprint-3891940532.md",
+   "json": "items/collectibles/ammonite-imprint-3891940532.json"
+  },
+  {
+   "id": 2966872976,
+   "name": "Angular Golden Urn",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2966872976.png",
+   "page": "items/collectibles/angular-golden-urn-2966872976.md",
+   "json": "items/collectibles/angular-golden-urn-2966872976.json"
+  },
+  {
+   "id": 3061600810,
+   "name": "Bard song 01 flute morning sun",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-01-flute-morning-sun-3061600810.md",
+   "json": "items/collectibles/bard-song-01-flute-morning-sun-3061600810.json"
+  },
+  {
+   "id": 3794499900,
+   "name": "Bard song 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-02-3794499900.md",
+   "json": "items/collectibles/bard-song-02-3794499900.json"
+  },
+  {
+   "id": 2787817047,
+   "name": "Bard song 03",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-03-2787817047.md",
+   "json": "items/collectibles/bard-song-03-2787817047.json"
+  },
+  {
+   "id": 1915284004,
+   "name": "Bard song 04",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-04-1915284004.md",
+   "json": "items/collectibles/bard-song-04-1915284004.json"
+  },
+  {
+   "id": 2676007697,
+   "name": "Bard song 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-05-2676007697.md",
+   "json": "items/collectibles/bard-song-05-2676007697.json"
+  },
+  {
+   "id": 1731907365,
+   "name": "Bard song 06",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-06-1731907365.md",
+   "json": "items/collectibles/bard-song-06-1731907365.json"
+  },
+  {
+   "id": 1135793206,
+   "name": "Bard song 07 harp",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-07-harp-1135793206.md",
+   "json": "items/collectibles/bard-song-07-harp-1135793206.json"
+  },
+  {
+   "id": 2498753264,
+   "name": "Bard song 08",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-08-2498753264.md",
+   "json": "items/collectibles/bard-song-08-2498753264.json"
+  },
+  {
+   "id": 329575215,
+   "name": "Bard song 10 drums",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/collectibles/bard-song-10-drums-329575215.md",
+   "json": "items/collectibles/bard-song-10-drums-329575215.json"
+  },
+  {
+   "id": 3585387192,
+   "name": "Big Ammonite",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3585387192.png",
+   "page": "items/collectibles/big-ammonite-3585387192.md",
+   "json": "items/collectibles/big-ammonite-3585387192.json"
+  },
+  {
+   "id": 132383618,
+   "name": "Blackmire Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/132383618.png",
+   "page": "items/collectibles/blackmire-miniature-piece-132383618.md",
+   "json": "items/collectibles/blackmire-miniature-piece-132383618.json"
+  },
+  {
+   "id": 1556757497,
+   "name": "Broken Piece of a Statue",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1556757497.png",
+   "page": "items/collectibles/broken-piece-of-a-statue-1556757497.md",
+   "json": "items/collectibles/broken-piece-of-a-statue-1556757497.json"
+  },
+  {
+   "id": 2624605842,
+   "name": "Broken Piece of a Statue",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2624605842.png",
+   "page": "items/collectibles/broken-piece-of-a-statue-2624605842.md",
+   "json": "items/collectibles/broken-piece-of-a-statue-2624605842.json"
+  },
+  {
+   "id": 3883219916,
+   "name": "Broken Piece of a Statue",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3883219916.png",
+   "page": "items/collectibles/broken-piece-of-a-statue-3883219916.md",
+   "json": "items/collectibles/broken-piece-of-a-statue-3883219916.json"
+  },
+  {
+   "id": 2995833654,
+   "name": "Cinder's Cradle Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2995833654.png",
+   "page": "items/collectibles/cinder-s-cradle-miniature-piece-2995833654.md",
+   "json": "items/collectibles/cinder-s-cradle-miniature-piece-2995833654.json"
+  },
+  {
+   "id": 2833687320,
+   "name": "Crab Fossil",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2833687320.png",
+   "page": "items/collectibles/crab-fossil-2833687320.md",
+   "json": "items/collectibles/crab-fossil-2833687320.json"
+  },
+  {
+   "id": 1323837855,
+   "name": "Dark Crystal Cluster",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1323837855.png",
+   "page": "items/collectibles/dark-crystal-cluster-1323837855.md",
+   "json": "items/collectibles/dark-crystal-cluster-1323837855.json"
+  },
+  {
+   "id": 3320435774,
+   "name": "Dull Shark Tooth",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3320435774.png",
+   "page": "items/collectibles/dull-shark-tooth-3320435774.md",
+   "json": "items/collectibles/dull-shark-tooth-3320435774.json"
+  },
+  {
+   "id": 2414905485,
+   "name": "Elevated Sea Urchin",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2414905485.png",
+   "page": "items/collectibles/elevated-sea-urchin-2414905485.md",
+   "json": "items/collectibles/elevated-sea-urchin-2414905485.json"
+  },
+  {
+   "id": 3948502627,
+   "name": "Fish Fossil",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3948502627.png",
+   "page": "items/collectibles/fish-fossil-3948502627.md",
+   "json": "items/collectibles/fish-fossil-3948502627.json"
+  },
+  {
+   "id": 1606492525,
+   "name": "Flame Mosaic Piece II",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1606492525.png",
+   "page": "items/collectibles/flame-mosaic-piece-ii-1606492525.md",
+   "json": "items/collectibles/flame-mosaic-piece-ii-1606492525.json"
+  },
+  {
+   "id": 2141908727,
+   "name": "Flame Mosaic Piece III",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2141908727.png",
+   "page": "items/collectibles/flame-mosaic-piece-iii-2141908727.md",
+   "json": "items/collectibles/flame-mosaic-piece-iii-2141908727.json"
+  },
+  {
+   "id": 184567648,
+   "name": "Flame Mosaic Piece IV",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/184567648.png",
+   "page": "items/collectibles/flame-mosaic-piece-iv-184567648.md",
+   "json": "items/collectibles/flame-mosaic-piece-iv-184567648.json"
+  },
+  {
+   "id": 1171016429,
+   "name": "Flame Mosaic Piece V",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1171016429.png",
+   "page": "items/collectibles/flame-mosaic-piece-v-1171016429.md",
+   "json": "items/collectibles/flame-mosaic-piece-v-1171016429.json"
+  },
+  {
+   "id": 1285093894,
+   "name": "Flame Mosaic Piece VI",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1285093894.png",
+   "page": "items/collectibles/flame-mosaic-piece-vi-1285093894.md",
+   "json": "items/collectibles/flame-mosaic-piece-vi-1285093894.json"
+  },
+  {
+   "id": 2393234145,
+   "name": "Flame Mosaic Piece VII",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2393234145.png",
+   "page": "items/collectibles/flame-mosaic-piece-vii-2393234145.md",
+   "json": "items/collectibles/flame-mosaic-piece-vii-2393234145.json"
+  },
+  {
+   "id": 1915219235,
+   "name": "Flame Mosaic Piece VIII",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1915219235.png",
+   "page": "items/collectibles/flame-mosaic-piece-viii-1915219235.md",
+   "json": "items/collectibles/flame-mosaic-piece-viii-1915219235.json"
+  },
+  {
+   "id": 2845222341,
+   "name": "Gastropods",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2845222341.png",
+   "page": "items/collectibles/gastropods-2845222341.md",
+   "json": "items/collectibles/gastropods-2845222341.json"
+  },
+  {
+   "id": 347801797,
+   "name": "Inscribed Golden Urn",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/347801797.png",
+   "page": "items/collectibles/inscribed-golden-urn-347801797.md",
+   "json": "items/collectibles/inscribed-golden-urn-347801797.json"
+  },
+  {
+   "id": 101085309,
+   "name": "Kindlewastes Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/101085309.png",
+   "page": "items/collectibles/kindlewastes-miniature-piece-101085309.md",
+   "json": "items/collectibles/kindlewastes-miniature-piece-101085309.json"
+  },
+  {
+   "id": 170706289,
+   "name": "Large Dark Crystal",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/170706289.png",
+   "page": "items/collectibles/large-dark-crystal-170706289.md",
+   "json": "items/collectibles/large-dark-crystal-170706289.json"
+  },
+  {
+   "id": 2576220661,
+   "name": "Large Meteorite III",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2576220661.png",
+   "page": "items/collectibles/large-meteorite-iii-2576220661.md",
+   "json": "items/collectibles/large-meteorite-iii-2576220661.json"
+  },
+  {
+   "id": 2107819829,
+   "name": "Large Meteorite IV",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2107819829.png",
+   "page": "items/collectibles/large-meteorite-iv-2107819829.md",
+   "json": "items/collectibles/large-meteorite-iv-2107819829.json"
+  },
+  {
+   "id": 4032968739,
+   "name": "Large Sea Lily Fossil",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/4032968739.png",
+   "page": "items/collectibles/large-sea-lily-fossil-4032968739.md",
+   "json": "items/collectibles/large-sea-lily-fossil-4032968739.json"
+  },
+  {
+   "id": 1128292239,
+   "name": "Locked Tome",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1128292239.png",
+   "page": "items/collectibles/locked-tome-1128292239.md",
+   "json": "items/collectibles/locked-tome-1128292239.json"
+  },
+  {
+   "id": 4205594126,
+   "name": "Mae's Memoir",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4205594126.png",
+   "page": "items/collectibles/mae-s-memoir-4205594126.md",
+   "json": "items/collectibles/mae-s-memoir-4205594126.json"
+  },
+  {
+   "id": 151670406,
+   "name": "Meteorite I",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/151670406.png",
+   "page": "items/collectibles/meteorite-i-151670406.md",
+   "json": "items/collectibles/meteorite-i-151670406.json"
+  },
+  {
+   "id": 3160910629,
+   "name": "Meteorite II",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3160910629.png",
+   "page": "items/collectibles/meteorite-ii-3160910629.md",
+   "json": "items/collectibles/meteorite-ii-3160910629.json"
+  },
+  {
+   "id": 3364880867,
+   "name": "Meteorite III",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3364880867.png",
+   "page": "items/collectibles/meteorite-iii-3364880867.md",
+   "json": "items/collectibles/meteorite-iii-3364880867.json"
+  },
+  {
+   "id": 2506823744,
+   "name": "Meteorite IV",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2506823744.png",
+   "page": "items/collectibles/meteorite-iv-2506823744.md",
+   "json": "items/collectibles/meteorite-iv-2506823744.json"
+  },
+  {
+   "id": 1577451608,
+   "name": "Meteorite V",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1577451608.png",
+   "page": "items/collectibles/meteorite-v-1577451608.md",
+   "json": "items/collectibles/meteorite-v-1577451608.json"
+  },
+  {
+   "id": 3901413869,
+   "name": "Modest Golden Urn",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3901413869.png",
+   "page": "items/collectibles/modest-golden-urn-3901413869.md",
+   "json": "items/collectibles/modest-golden-urn-3901413869.json"
+  },
+  {
+   "id": 3312538887,
+   "name": "Mysterious Tome",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3312538887.png",
+   "page": "items/collectibles/mysterious-tome-3312538887.md",
+   "json": "items/collectibles/mysterious-tome-3312538887.json"
+  },
+  {
+   "id": 2994143055,
+   "name": "Nomad Highlands Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2994143055.png",
+   "page": "items/collectibles/nomad-highlands-miniature-piece-2994143055.md",
+   "json": "items/collectibles/nomad-highlands-miniature-piece-2994143055.json"
+  },
+  {
+   "id": 1852126112,
+   "name": "Ony's Memoir",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1852126112.png",
+   "page": "items/collectibles/ony-s-memoir-1852126112.md",
+   "json": "items/collectibles/ony-s-memoir-1852126112.json"
+  },
+  {
+   "id": 4027517982,
+   "name": "Orpheus' Memoir",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4027517982.png",
+   "page": "items/collectibles/orpheus-memoir-4027517982.md",
+   "json": "items/collectibles/orpheus-memoir-4027517982.json"
+  },
+  {
+   "id": 2369213215,
+   "name": "Planetarium Rings (Inner)",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2369213215.png",
+   "page": "items/collectibles/planetarium-rings-inner-2369213215.md",
+   "json": "items/collectibles/planetarium-rings-inner-2369213215.json"
+  },
+  {
+   "id": 4255929710,
+   "name": "Planetarium Rings (middle)",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/4255929710.png",
+   "page": "items/collectibles/planetarium-rings-middle-4255929710.md",
+   "json": "items/collectibles/planetarium-rings-middle-4255929710.json"
+  },
+  {
+   "id": 2240876130,
+   "name": "Planetarium rings (outer)",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2240876130.png",
+   "page": "items/collectibles/planetarium-rings-outer-2240876130.md",
+   "json": "items/collectibles/planetarium-rings-outer-2240876130.json"
+  },
+  {
+   "id": 2984997237,
+   "name": "Polaris' Memoir",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2984997237.png",
+   "page": "items/collectibles/polaris-memoir-2984997237.md",
+   "json": "items/collectibles/polaris-memoir-2984997237.json"
+  },
+  {
+   "id": 2370474630,
+   "name": "Prawn Fossil",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2370474630.png",
+   "page": "items/collectibles/prawn-fossil-2370474630.md",
+   "json": "items/collectibles/prawn-fossil-2370474630.json"
+  },
+  {
+   "id": 2402001907,
+   "name": "Rage Inducing Tome",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2402001907.png",
+   "page": "items/collectibles/rage-inducing-tome-2402001907.md",
+   "json": "items/collectibles/rage-inducing-tome-2402001907.json"
+  },
+  {
+   "id": 113945565,
+   "name": "Revelwood Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/113945565.png",
+   "page": "items/collectibles/revelwood-miniature-piece-113945565.md",
+   "json": "items/collectibles/revelwood-miniature-piece-113945565.json"
+  },
+  {
+   "id": 1372134498,
+   "name": "Ripped Alchemist's Wall Hanging",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1372134498.png",
+   "page": "items/collectibles/ripped-alchemist-s-wall-hanging-1372134498.md",
+   "json": "items/collectibles/ripped-alchemist-s-wall-hanging-1372134498.json"
+  },
+  {
+   "id": 2365197861,
+   "name": "Ripped Alchemist's Wall Hanging",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2365197861.png",
+   "page": "items/collectibles/ripped-alchemist-s-wall-hanging-2365197861.md",
+   "json": "items/collectibles/ripped-alchemist-s-wall-hanging-2365197861.json"
+  },
+  {
+   "id": 2252200136,
+   "name": "Ripped piece of a Wall Tapestry",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2252200136.png",
+   "page": "items/collectibles/ripped-piece-of-a-wall-tapestry-2252200136.md",
+   "json": "items/collectibles/ripped-piece-of-a-wall-tapestry-2252200136.json"
+  },
+  {
+   "id": 3603348812,
+   "name": "Ripped piece of a Wall Tapestry",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3603348812.png",
+   "page": "items/collectibles/ripped-piece-of-a-wall-tapestry-3603348812.md",
+   "json": "items/collectibles/ripped-piece-of-a-wall-tapestry-3603348812.json"
+  },
+  {
+   "id": 2330097805,
+   "name": "Round Sea Urchin",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2330097805.png",
+   "page": "items/collectibles/round-sea-urchin-2330097805.md",
+   "json": "items/collectibles/round-sea-urchin-2330097805.json"
+  },
+  {
+   "id": 3773857537,
+   "name": "Sea Urchin Cluster",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3773857537.png",
+   "page": "items/collectibles/sea-urchin-cluster-3773857537.md",
+   "json": "items/collectibles/sea-urchin-cluster-3773857537.json"
+  },
+  {
+   "id": 2691529004,
+   "name": "Sharp Shark Tooth",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2691529004.png",
+   "page": "items/collectibles/sharp-shark-tooth-2691529004.md",
+   "json": "items/collectibles/sharp-shark-tooth-2691529004.json"
+  },
+  {
+   "id": 81784738,
+   "name": "Shifting Dark Crystal",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/81784738.png",
+   "page": "items/collectibles/shifting-dark-crystal-81784738.md",
+   "json": "items/collectibles/shifting-dark-crystal-81784738.json"
+  },
+  {
+   "id": 1434339102,
+   "name": "Single Gastropod",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1434339102.png",
+   "page": "items/collectibles/single-gastropod-1434339102.md",
+   "json": "items/collectibles/single-gastropod-1434339102.json"
+  },
+  {
+   "id": 219208191,
+   "name": "Small Sea Lily Fossil",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/219208191.png",
+   "page": "items/collectibles/small-sea-lily-fossil-219208191.md",
+   "json": "items/collectibles/small-sea-lily-fossil-219208191.json"
+  },
+  {
+   "id": 429199834,
+   "name": "Springlands Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/429199834.png",
+   "page": "items/collectibles/springlands-miniature-piece-429199834.md",
+   "json": "items/collectibles/springlands-miniature-piece-429199834.json"
+  },
+  {
+   "id": 2381061644,
+   "name": "The Dragon's Map",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2381061644.png",
+   "page": "items/collectibles/the-dragon-s-map-2381061644.md",
+   "json": "items/collectibles/the-dragon-s-map-2381061644.json"
+  },
+  {
+   "id": 3491672504,
+   "name": "The Dragon's Map",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3491672504.png",
+   "page": "items/collectibles/the-dragon-s-map-3491672504.md",
+   "json": "items/collectibles/the-dragon-s-map-3491672504.json"
+  },
+  {
+   "id": 451517866,
+   "name": "Trilobite Imprint",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/451517866.png",
+   "page": "items/collectibles/trilobite-imprint-451517866.md",
+   "json": "items/collectibles/trilobite-imprint-451517866.json"
+  },
+  {
+   "id": 1734789862,
+   "name": "Trilobites",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1734789862.png",
+   "page": "items/collectibles/trilobites-1734789862.md",
+   "json": "items/collectibles/trilobites-1734789862.json"
+  },
+  {
+   "id": 2175709549,
+   "name": "Veilwater Basin Miniature Piece",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2175709549.png",
+   "page": "items/collectibles/veilwater-basin-miniature-piece-2175709549.md",
+   "json": "items/collectibles/veilwater-basin-miniature-piece-2175709549.json"
+  }
+ ]
+}

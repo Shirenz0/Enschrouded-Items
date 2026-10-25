@@ -1,0 +1,56 @@
+{
+ "id": 2361121883,
+ "name": "Bone Key",
+ "internalName": "Key_Skeleton_Bone_Dungeon02",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 1,
+ "image": "images/icons/2361121883.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Opens doors in the Deepforrest Skeleton Halls",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/tools/bone-key.md",
+  "json": "objects/tools/bone-key.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 3934050090,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3953523416,
+      "name": "Krypt Krystal",
+      "page": "items/materials/krypt-krystal-3953523416.md",
+      "json": "items/materials/krypt-krystal-3953523416.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/bone-key-2361121883.md"
+}

@@ -1,0 +1,85 @@
+{
+ "id": 2574733718,
+ "name": "Wooden Rake",
+ "internalName": "Tool_T0_Rake_Wooden",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 1
+ },
+ "maxStack": 1,
+ "image": "images/icons/2574733718.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A rake made of the simplest materials. A basic tool used to flatten the ground for upcoming construction works.",
+ "lore": "Tools",
+ "whereToFind": "Workbench",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max. Durability",
+    "value": 500,
+    "display": "500",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3104688805,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2176546463,
+   "name": "Scrappy Rake",
+   "page": "items/buildtools/scrappy-rake-2176546463.md",
+   "json": "items/buildtools/scrappy-rake-2176546463.json"
+  }
+ ],
+ "page": "items/buildtools/wooden-rake-2574733718.md"
+}

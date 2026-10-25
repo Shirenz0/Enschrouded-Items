@@ -1,0 +1,50 @@
+{
+ "id": 99678308,
+ "name": "Vanity Outfit Sheep gloves",
+ "internalName": "Vanity_T5_Sheep_Gloves",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/99678308.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Vanity  Outfit Sheep  gloves  Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/vanity-outfit-sheep-gloves.md",
+  "json": "objects/equipment/vanity-outfit-sheep-gloves.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands"
+ },
+ "recipes": [
+  {
+   "recipeId": 2807124918,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/vanity-outfit-sheep-gloves-99678308.md"
+}

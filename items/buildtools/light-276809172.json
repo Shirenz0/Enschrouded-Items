@@ -1,0 +1,90 @@
+{
+ "id": 276809172,
+ "name": "Light",
+ "internalName": "Prop_Logic_Light",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/276809172.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A light that can be used in a logic system.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 294448813,
+   "station": "Logic System Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 1782638906,
+       "name": "Fog Goo 01",
+       "page": "items/materials/fog-goo-01-1782638906.md",
+       "json": "items/materials/fog-goo-01-1782638906.json"
+      },
+      {
+       "id": 1323406480,
+       "name": "Fog Goo 02",
+       "page": "items/materials/fog-goo-02-1323406480.md",
+       "json": "items/materials/fog-goo-02-1323406480.json"
+      },
+      {
+       "id": 3928746815,
+       "name": "Fog Goo 03",
+       "page": "items/materials/fog-goo-03-3928746815.md",
+       "json": "items/materials/fog-goo-03-3928746815.json"
+      },
+      {
+       "id": 3561488499,
+       "name": "Fog Goo 04",
+       "page": "items/materials/fog-goo-04-3561488499.md",
+       "json": "items/materials/fog-goo-04-3561488499.json"
+      },
+      {
+       "id": 3844432901,
+       "name": "Fog Goo 05",
+       "page": "items/materials/fog-goo-05-3844432901.md",
+       "json": "items/materials/fog-goo-05-3844432901.json"
+      },
+      {
+       "id": 417655603,
+       "name": "Fog Goo 06",
+       "page": "items/materials/fog-goo-06-417655603.md",
+       "json": "items/materials/fog-goo-06-417655603.json"
+      },
+      {
+       "id": 2135602472,
+       "name": "Fog Goo 07 Archaic Essence VII",
+       "page": "items/materials/fog-goo-07-archaic-essence-vii-2135602472.md",
+       "json": "items/materials/fog-goo-07-archaic-essence-vii-2135602472.json"
+      }
+     ]
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/light-276809172.md"
+}

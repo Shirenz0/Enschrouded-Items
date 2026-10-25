@@ -1,0 +1,99 @@
+{
+ "id": 3614911410,
+ "name": "Shortcrust Pastry Base",
+ "internalName": "Material_T3_ShortcrustPastryBase",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/3614911410.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Perfectly crisp and buttery —a golden foundation for your sweetest baking experiments.",
+ "lore": null,
+ "whereToFind": "Oven",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2864860706,
+   "station": "Oven",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1800945978,
+      "name": "Sugar",
+      "page": "items/consumables/sugar-1800945978.md",
+      "json": "items/consumables/sugar-1800945978.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2982945763,
+      "name": "Butter",
+      "page": "items/consumables/butter-2982945763.md",
+      "json": "items/consumables/butter-2982945763.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 169532188,
+      "name": "Flour",
+      "page": "items/materials/flour-169532188.md",
+      "json": "items/materials/flour-169532188.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1896276940,
+      "name": "Eggs",
+      "page": "items/consumables/eggs-1896276940.md",
+      "json": "items/consumables/eggs-1896276940.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2202063914,
+   "name": "Ancient Pomegranate Tarte",
+   "page": "items/consumables/ancient-pomegranate-tarte-2202063914.md",
+   "json": "items/consumables/ancient-pomegranate-tarte-2202063914.json"
+  },
+  {
+   "id": 264983169,
+   "name": "Strawberry Cake",
+   "page": "items/consumables/strawberry-cake-264983169.md",
+   "json": "items/consumables/strawberry-cake-264983169.json"
+  },
+  {
+   "id": 65287689,
+   "name": "Blueberry Cake",
+   "page": "items/consumables/blueberry-cake-65287689.md",
+   "json": "items/consumables/blueberry-cake-65287689.json"
+  }
+ ],
+ "page": "items/materials/shortcrust-pastry-base-3614911410.md"
+}

@@ -268,4 +268,4 @@
 | <img src="../images/icons/3160502351.png" width="48"> | [Yellow Hair](../items/equipment/yellow-hair-3160502351.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1254060378.png" width="48"> | [Yellows Eyes](../items/equipment/yellows-eyes-1254060378.md) | ⚪ Common | - | 1 |
 
-[← All categories](../README.md) · page [1](equipment.md) · **2**
+[← All categories](../README.md) · page [1](equipment.md) · **2** · [JSON](equipment-2.json)

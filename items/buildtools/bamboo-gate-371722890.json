@@ -1,0 +1,29 @@
+{
+ "id": 371722890,
+ "name": "Bamboo Gate",
+ "internalName": "Prop_Decoration_T6_Lizard_Gate_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/371722890.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/bamboo-gate.md",
+  "json": "objects/buildtools/bamboo-gate.json",
+  "versions": 5
+ },
+ "page": "items/buildtools/bamboo-gate-371722890.md"
+}

@@ -1,0 +1,91 @@
+{
+ "id": 2008478235,
+ "name": "Yucca Fruit",
+ "internalName": "Food_T4_raw_fruit_YuccaFruit",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2008478235.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A sweet fruit that grows in dry areas, needing little water. Despite that, it's quite refreshing, especially for the body!",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 749738317,
+   "name": "Grilled Yucca Fruit",
+   "page": "items/consumables/grilled-yucca-fruit-749738317.md",
+   "json": "items/consumables/grilled-yucca-fruit-749738317.json"
+  },
+  {
+   "id": 917304835,
+   "name": "Fruit Bowl",
+   "page": "items/consumables/fruit-bowl-917304835.md",
+   "json": "items/consumables/fruit-bowl-917304835.json"
+  },
+  {
+   "id": 2661195564,
+   "name": "T4 Nightplant Wrap",
+   "page": "items/consumables/t4-nightplant-wrap-2661195564.md",
+   "json": "items/consumables/t4-nightplant-wrap-2661195564.json"
+  },
+  {
+   "id": 632438153,
+   "name": "T4 Slurp",
+   "page": "items/consumables/t4-slurp-632438153.md",
+   "json": "items/consumables/t4-slurp-632438153.json"
+  },
+  {
+   "id": 1159450648,
+   "name": "Seedling Yucca Palm",
+   "page": "items/buildtools/seedling-yucca-palm-1159450648.md",
+   "json": "items/buildtools/seedling-yucca-palm-1159450648.json"
+  },
+  {
+   "id": 2154839974,
+   "name": "Bait Sand Digger",
+   "page": "items/buildtools/bait-sand-digger-2154839974.md",
+   "json": "items/buildtools/bait-sand-digger-2154839974.json"
+  },
+  {
+   "id": 2013116716,
+   "name": "Food Sanddigger Feeding",
+   "page": "items/buildtools/food-sanddigger-feeding-2013116716.md",
+   "json": "items/buildtools/food-sanddigger-feeding-2013116716.json"
+  },
+  {
+   "id": 3044969758,
+   "name": "Food Yak Feeding",
+   "page": "items/buildtools/food-yak-feeding-3044969758.md",
+   "json": "items/buildtools/food-yak-feeding-3044969758.json"
+  }
+ ],
+ "page": "items/consumables/yucca-fruit-2008478235.md"
+}

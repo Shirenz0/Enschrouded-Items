@@ -1,0 +1,109 @@
+{
+ "id": 2972800174,
+ "name": "Riptide",
+ "internalName": "Craft_Shield_T2_Lore_ShieldEpic_Ministory_17",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 11,
+  "max": 11
+ },
+ "maxStack": 1,
+ "image": "images/icons/2972800174.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/riptide.md",
+  "json": "objects/equipment/riptide.json",
+  "versions": 7
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Poison Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Heavy Handed",
+   "effect": "Increases the skill level of Heavy Handed by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Bash",
+   "effect": "Increases the skill level of Bash by +1"
+  },
+  {
+   "order": 4,
+   "name": "Pierce Resistance",
+   "effect": "+5 Pierce Resistance"
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 510266856,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1503622318,
+      "name": "Poison Sack",
+      "page": "items/materials/poison-sack-1503622318.md",
+      "json": "items/materials/poison-sack-1503622318.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/riptide-2972800174.md"
+}

@@ -1,0 +1,52 @@
+{
+ "id": 594839802,
+ "name": "Wisteria (Overgrowth Plant)",
+ "internalName": "Material_T6_Overgrowth_Wisteria",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1000,
+ "image": "images/icons/594839802.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Use this material to decorate any voxel material using the ??? tool",
+ "lore": "Plants",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1989745843,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4095370049,
+      "name": "T6 Wetlands Dirt",
+      "page": "items/materials/t6-wetlands-dirt-4095370049.md",
+      "json": "items/materials/t6-wetlands-dirt-4095370049.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 4148439656,
+      "name": "Passionflower",
+      "page": "items/materials/passionflower-4148439656.md",
+      "json": "items/materials/passionflower-4148439656.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/wisteria-overgrowth-plant-594839802.md"
+}

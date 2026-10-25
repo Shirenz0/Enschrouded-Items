@@ -1,0 +1,25 @@
+{
+ "id": 1434339102,
+ "name": "Single Gastropod",
+ "internalName": "Collection_fossils_03_Gastropods_gastropod_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1434339102.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lonely gastropod, sitting peacefully on a rock.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/single-gastropod-1434339102.md"
+}

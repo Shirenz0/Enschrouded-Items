@@ -13,4 +13,4 @@
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](block-dismantle-4x4-3189586762.json)

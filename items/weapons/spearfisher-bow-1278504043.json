@@ -1,0 +1,73 @@
+{
+ "id": 1278504043,
+ "name": "Spearfisher Bow",
+ "internalName": "Weapon_T7_2H_Lore_Bow_ministory_03",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1278504043.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A bow used by the Drak to try and catch fish through arrows and luck. They weren't so succesfull with their venture, but perhaps the bow could still be useful in a more traditional sense.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/spearfisher-bow.md",
+  "json": "objects/weapons/spearfisher-bow.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Ranged weapon",
+  "values": [
+   {
+    "label": "Draw Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Arrow Speed",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stalking",
+   "effect": "+10 Damage against Wildlife and Wildbeasts"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Ophidian",
+   "effect": "+10 Damage against Drak"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/spearfisher-bow-1278504043.md"
+}

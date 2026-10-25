@@ -1,0 +1,66 @@
+{
+ "id": 1181594089,
+ "name": "Rusty Short Sword",
+ "internalName": "Weapon_T0-TX_1H_Sword_Enemy_DepletedFogger",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1181594089.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A weapon often used in ancient times, due to the lack of higher quality ressources in their struggle to save themselves. Now, mostly used by the fell, who picked them up.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Vicious",
+   "effect": "+12 Vicious"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Sneaky",
+   "effect": "+12 Sneaky"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/rusty-short-sword-1181594089.md"
+}

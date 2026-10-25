@@ -1,0 +1,32 @@
+{
+ "id": 302659874,
+ "name": "Vanity Outfit Sheep gloves",
+ "internalName": "Vanity_TwitchDrop_Sheep_Gloves",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/302659874.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Vanity  Outfit Sheep  gloves  Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/vanity-outfit-sheep-gloves.md",
+  "json": "objects/equipment/vanity-outfit-sheep-gloves.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands"
+ },
+ "page": "items/equipment/vanity-outfit-sheep-gloves-302659874.md"
+}

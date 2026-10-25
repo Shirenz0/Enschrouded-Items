@@ -1,0 +1,33 @@
+{
+ "name": "Wall Window",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2481913049,
+   "name": "Wall Window",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-window-2481913049.md",
+   "json": "items/blueprints/wall-window-2481913049.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3474562068,
+   "name": "Wall Window",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-window-3474562068.md",
+   "json": "items/blueprints/wall-window-3474562068.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/wall-window.md"
+}

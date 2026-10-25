@@ -1,0 +1,29 @@
+{
+ "id": 361218275,
+ "name": "Graveyard Fence Pole",
+ "internalName": "Z_Prop_Decoration_T3_Fence_Wood_Corner_01_OLD_NORECIPE",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/361218275.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/graveyard-fence-pole.md",
+  "json": "objects/buildtools/graveyard-fence-pole.json",
+  "versions": 3
+ },
+ "page": "items/buildtools/graveyard-fence-pole-361218275.md"
+}

@@ -1,0 +1,66 @@
+{
+ "id": 1175242603,
+ "name": "Food Cat Feeeding",
+ "internalName": "Material_T2_Cat_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/1175242603.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "food cat feeding description",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2748446961,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1492892444,
+      "name": "Raw Lean Meat",
+      "page": "items/consumables/raw-lean-meat-1492892444.md",
+      "json": "items/consumables/raw-lean-meat-1492892444.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 3480216747,
+       "name": "Fish common 02 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 2586083671,
+       "name": "Fish common 03 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 2004880509,
+       "name": "Fish common 01 name",
+       "page": null,
+       "json": null
+      }
+     ]
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/food-cat-feeeding-1175242603.md"
+}

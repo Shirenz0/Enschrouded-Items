@@ -1,0 +1,52 @@
+{
+ "id": 168200942,
+ "name": "Ancient Sunken City Block",
+ "internalName": "Block_T7_Stone_Ancient_SunkenCity_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/168200942.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This block has an aesthetic which is exclusive to the Blackmire. Only in the Sunken City stones wither to look like this.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3096459315,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 100,
+     "item": {
+      "id": 2060473756,
+      "name": "Ancient Gray Stone Block",
+      "page": "items/buildtools/ancient-gray-stone-block-2060473756.md",
+      "json": "items/buildtools/ancient-gray-stone-block-2060473756.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 760251531,
+      "name": "T2 Talltree Stone",
+      "page": "items/materials/t2-talltree-stone-760251531.md",
+      "json": "items/materials/t2-talltree-stone-760251531.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/ancient-sunken-city-block-168200942.md"
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Handrail",
+ "category": "BuildTools",
+ "image": "images/icons/4173051346.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2470943261,
+   "name": "Handrail",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2470943261.png",
+   "page": "items/buildtools/handrail-2470943261.md",
+   "json": "items/buildtools/handrail-2470943261.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 4173051346,
+   "name": "Handrail",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4173051346.png",
+   "page": "items/buildtools/handrail-4173051346.md",
+   "json": "items/buildtools/handrail-4173051346.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/handrail.md"
+}

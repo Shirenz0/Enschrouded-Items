@@ -1,0 +1,35 @@
+{
+ "id": 3844758208,
+ "name": "Gem of Conduction",
+ "internalName": "T3_Gem_GemOfConduction",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/3844758208.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hitting an enemy puts a  mark on them for %k. Hitting a  marked enemy sends a lightning to another  marked enemy, that deals %k and can chain to futher marked enemies. After a lightning went off, the effect has a %k cooldown before it can trigger again from the same enemy. Enemies that are part of a lightning chain have their  mark refereshed.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Lightning Damage on Chain Lightning",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-conduction-3844758208.md"
+}

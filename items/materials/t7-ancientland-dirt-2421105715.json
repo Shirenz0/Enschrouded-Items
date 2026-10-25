@@ -1,0 +1,45 @@
+{
+ "id": 2421105715,
+ "name": "T7 AncientLand Dirt",
+ "internalName": "Build_TerrainMaterial_T7_Dirt_AncientLand",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2421105715.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 4044361518,
+   "name": "Fertile AncientLand T7 Dirt",
+   "page": "items/materials/fertile-ancientland-t7-dirt-4044361518.md",
+   "json": "items/materials/fertile-ancientland-t7-dirt-4044361518.json"
+  },
+  {
+   "id": 1458330217,
+   "name": "Fertile AncientLand T7 Dirt For Special Ancient Grass",
+   "page": "items/materials/fertile-ancientland-t7-dirt-for-special-ancient-grass-1458330217.md",
+   "json": "items/materials/fertile-ancientland-t7-dirt-for-special-ancient-grass-1458330217.json"
+  },
+  {
+   "id": 2780052662,
+   "name": "T7 AncientLand Rubble",
+   "page": "items/materials/t7-ancientland-rubble-2780052662.md",
+   "json": "items/materials/t7-ancientland-rubble-2780052662.json"
+  }
+ ],
+ "page": "items/materials/t7-ancientland-dirt-2421105715.md"
+}

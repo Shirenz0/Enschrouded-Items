@@ -17,4 +17,4 @@ Trousers which were made from very stiff material.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-tank-legs.json)

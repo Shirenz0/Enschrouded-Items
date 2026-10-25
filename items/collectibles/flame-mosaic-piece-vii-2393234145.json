@@ -1,0 +1,25 @@
+{
+ "id": 2393234145,
+ "name": "Flame Mosaic Piece VII",
+ "internalName": "Collection_mosaics_01_flame_piece7",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2393234145.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Placeholder Description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/flame-mosaic-piece-vii-2393234145.md"
+}

@@ -21,4 +21,4 @@ A miniature model of Embervale. Can you locate yourself in it?
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](miniature-embervale-467801292.json)

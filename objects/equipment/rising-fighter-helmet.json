@@ -1,0 +1,35 @@
+{
+ "name": "Rising Fighter Helmet",
+ "category": "Equipment",
+ "image": "images/icons/573920683.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2070050318,
+   "name": "Rising Fighter Helmet",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2070050318.png",
+   "page": "items/equipment/rising-fighter-helmet-2070050318.md",
+   "json": "items/equipment/rising-fighter-helmet-2070050318.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 573920683,
+   "name": "Rising Fighter Helmet",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/573920683.png",
+   "page": "items/equipment/rising-fighter-helmet-573920683.md",
+   "json": "items/equipment/rising-fighter-helmet-573920683.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/rising-fighter-helmet.md"
+}

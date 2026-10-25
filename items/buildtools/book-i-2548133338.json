@@ -1,0 +1,29 @@
+{
+ "id": 2548133338,
+ "name": "Book I",
+ "internalName": "Prop_Decoration_Book_13",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2548133338.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Book. Conveyer of Thougt. Foundation of Progress. Expanders of Minds. Vessel of Knowledge. Bonfire of imagination.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/book-i.md",
+  "json": "objects/buildtools/book-i.json",
+  "versions": 14
+ },
+ "page": "items/buildtools/book-i-2548133338.md"
+}

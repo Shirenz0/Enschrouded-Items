@@ -25,4 +25,4 @@ Crafting, Ancient Researcher
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](player-base-gem-forge-3250908839.json)

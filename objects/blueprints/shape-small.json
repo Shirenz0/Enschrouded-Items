@@ -1,0 +1,33 @@
+{
+ "name": "Shape Small",
+ "category": "Blueprints",
+ "image": "images/icons/439089072.png",
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2962795698,
+   "name": "Shape Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2962795698.png",
+   "page": "items/blueprints/shape-small-2962795698.md",
+   "json": "items/blueprints/shape-small-2962795698.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 439089072,
+   "name": "Shape Small",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/439089072.png",
+   "page": "items/blueprints/shape-small-439089072.md",
+   "json": "items/blueprints/shape-small-439089072.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/shape-small.md"
+}

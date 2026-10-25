@@ -1,0 +1,77 @@
+{
+ "id": 4105535926,
+ "name": "T3 Archer Arms",
+ "internalName": "Armor_T3_Ranger_Assassin_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/4105535926.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Plain but sturdy sharpshooter gloves.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-archer-arms.md",
+  "json": "objects/equipment/t3-archer-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "% Dagger Damage",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/t3-archer-arms-4105535926.md"
+}

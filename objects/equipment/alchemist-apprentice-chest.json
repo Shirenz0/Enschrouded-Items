@@ -1,0 +1,35 @@
+{
+ "name": "Alchemist Apprentice Chest",
+ "category": "Equipment",
+ "image": "images/icons/3440719310.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1343249024,
+   "name": "Alchemist Apprentice Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1343249024.png",
+   "page": "items/equipment/alchemist-apprentice-chest-1343249024.md",
+   "json": "items/equipment/alchemist-apprentice-chest-1343249024.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3440719310,
+   "name": "Alchemist Apprentice Chest",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3440719310.png",
+   "page": "items/equipment/alchemist-apprentice-chest-3440719310.md",
+   "json": "items/equipment/alchemist-apprentice-chest-3440719310.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/alchemist-apprentice-chest.md"
+}

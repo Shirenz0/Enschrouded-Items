@@ -1,0 +1,69 @@
+{
+ "id": 2015512989,
+ "name": "Superior Ring of Health",
+ "internalName": "Ring_T4_Ring_of_Health",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/2015512989.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "this ring will increase your Health and Healing rate.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Health",
+    "value": 35,
+    "display": "35",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 7,
+    "display": "7",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Health",
+   "effect": "+80 Health"
+  },
+  {
+   "order": 2,
+   "name": "Vital",
+   "effect": "+12 Vital"
+  },
+  {
+   "order": 3,
+   "name": "+1 Veteran",
+   "effect": "Increases the skill level of Veteran by +1"
+  },
+  {
+   "order": 4,
+   "name": "Health Leech",
+   "effect": "+5 Health Leech"
+  },
+  {
+   "order": 5,
+   "name": "+1 Battle Heal",
+   "effect": "Increases the skill level of Battle Heal by +1"
+  }
+ ],
+ "page": "items/equipment/superior-ring-of-health-2015512989.md"
+}

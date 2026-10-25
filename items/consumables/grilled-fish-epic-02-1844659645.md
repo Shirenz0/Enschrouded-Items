@@ -33,4 +33,4 @@ delicious grilled fish - increases health and diving time
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](grilled-fish-epic-02-1844659645.json)

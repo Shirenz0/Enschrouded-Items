@@ -1,0 +1,123 @@
+{
+ "id": 3172618647,
+ "name": "T5 Eternal Fire Totem I",
+ "internalName": "Ammo_T5_Spell_Fire_Totem_lvl28_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 28,
+  "max": 28
+ },
+ "maxStack": 1,
+ "image": "images/icons/3172618647.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a totem that launches fiery projectiles at enemies and explodes when it expires. \nMaximum amount of summoned totems is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 74,
+    "display": "74",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 699,
+    "display": "0.699 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 9000,
+    "display": "9 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+4 Precise"
+  },
+  {
+   "order": 5,
+   "name": "Blazing",
+   "effect": "+5 Blazing"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1503147367,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 3376734441,
+      "name": "T5 Obsidian",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1979607477,
+      "name": "Raw Wool",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1997243371,
+      "name": "T5 Material Amethyst",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t5-eternal-fire-totem-i-3172618647.md"
+}

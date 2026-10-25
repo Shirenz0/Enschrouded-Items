@@ -1,0 +1,35 @@
+{
+ "name": "Scout Boots",
+ "category": "Equipment",
+ "image": "images/icons/3996283384.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1677017695,
+   "name": "Scout Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1677017695.png",
+   "page": "items/equipment/scout-boots-1677017695.md",
+   "json": "items/equipment/scout-boots-1677017695.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3996283384,
+   "name": "Scout Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/3996283384.png",
+   "page": "items/equipment/scout-boots-3996283384.md",
+   "json": "items/equipment/scout-boots-3996283384.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/scout-boots.md"
+}

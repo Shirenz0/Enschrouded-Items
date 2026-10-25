@@ -1,0 +1,35 @@
+{
+ "name": "T4 Healer Helmet",
+ "category": "Equipment",
+ "image": "images/icons/3472179568.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1225458816,
+   "name": "T4 Healer Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1225458816.png",
+   "page": "items/equipment/t4-healer-helmet-1225458816.md",
+   "json": "items/equipment/t4-healer-helmet-1225458816.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3472179568,
+   "name": "T4 Healer Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3472179568.png",
+   "page": "items/equipment/t4-healer-helmet-3472179568.md",
+   "json": "items/equipment/t4-healer-helmet-3472179568.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-healer-helmet.md"
+}

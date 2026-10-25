@@ -1,0 +1,69 @@
+{
+ "id": 375831467,
+ "name": "Fog Bow",
+ "internalName": "Weapon_T3_2H_Bow_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/375831467.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Every true shot makes the blood pump faster.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ranged weapon",
+  "values": [
+   {
+    "label": "Draw Speed",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Arrow Speed",
+    "value": 33,
+    "display": "33",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Reaping",
+   "effect": "Defeat an enemy to gain a Stamina Regeneration Buff"
+  },
+  {
+   "order": 4,
+   "name": "Brutal",
+   "effect": "+16 Brutal"
+  },
+  {
+   "order": 5,
+   "name": "Heavy",
+   "effect": null
+  }
+ ],
+ "page": "items/weapons/fog-bow-375831467.md"
+}

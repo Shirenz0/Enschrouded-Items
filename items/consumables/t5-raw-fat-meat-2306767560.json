@@ -1,0 +1,61 @@
+{
+ "id": 2306767560,
+ "name": "T5 Raw Fat Meat",
+ "internalName": "Food_T5_raw_bad_meat_fat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2306767560.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t5 raw fat meat desc. looks a bit disgusting",
+ "lore": null,
+ "whereToFind": "Albaneve Summits",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -70,
+    "display": "-70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": -60,
+    "display": "-60",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 232113931,
+   "name": "Ancient Cabbage Rolls",
+   "page": "items/consumables/ancient-cabbage-rolls-232113931.md",
+   "json": "items/consumables/ancient-cabbage-rolls-232113931.json"
+  },
+  {
+   "id": 2634459448,
+   "name": "Yak Stew",
+   "page": "items/consumables/yak-stew-2634459448.md",
+   "json": "items/consumables/yak-stew-2634459448.json"
+  },
+  {
+   "id": 31257423,
+   "name": "T5 Processed Fat Grilled Meat",
+   "page": "items/consumables/t5-processed-fat-grilled-meat-31257423.md",
+   "json": "items/consumables/t5-processed-fat-grilled-meat-31257423.json"
+  }
+ ],
+ "page": "items/consumables/t5-raw-fat-meat-2306767560.md"
+}

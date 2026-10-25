@@ -25,4 +25,4 @@ Dealing fire damage applies  burning for %k which deals %k per second. After a s
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-burning-3663511234.json)

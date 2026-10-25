@@ -1,0 +1,49 @@
+{
+ "name": "Graveyard Fence Pole",
+ "category": "BuildTools",
+ "image": "images/icons/361218275.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [
+  "max stack"
+ ],
+ "items": [
+  {
+   "id": 1111695486,
+   "name": "Graveyard Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1111695486.png",
+   "page": "items/buildtools/graveyard-fence-pole-1111695486.md",
+   "json": "items/buildtools/graveyard-fence-pole-1111695486.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1663958059,
+   "name": "Graveyard Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1663958059.png",
+   "page": "items/buildtools/graveyard-fence-pole-1663958059.md",
+   "json": "items/buildtools/graveyard-fence-pole-1663958059.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 361218275,
+   "name": "Graveyard Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/361218275.png",
+   "page": "items/buildtools/graveyard-fence-pole-361218275.md",
+   "json": "items/buildtools/graveyard-fence-pole-361218275.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/graveyard-fence-pole.md"
+}

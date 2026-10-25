@@ -1,0 +1,55 @@
+{
+ "name": "Male Feet 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1002039451,
+   "name": "Male Feet 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-feet-01-1002039451.md",
+   "json": "items/customization/male-feet-01-1002039451.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 157325050,
+   "name": "Male Feet 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-feet-01-157325050.md",
+   "json": "items/customization/male-feet-01-157325050.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 545392323,
+   "name": "Male Feet 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-feet-01-545392323.md",
+   "json": "items/customization/male-feet-01-545392323.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 956590983,
+   "name": "Male Feet 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/male-feet-01-956590983.md",
+   "json": "items/customization/male-feet-01-956590983.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/male-feet-01.md"
+}

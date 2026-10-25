@@ -1,0 +1,75 @@
+{
+ "id": 3107844914,
+ "name": "Wood Bucket",
+ "internalName": "Prop_Decoration_T2_Bucket_Wood",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3107844914.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": "Carpenter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 659625826,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1155756187,
+   "name": "Improved Water Well",
+   "page": "items/buildtools/improved-water-well-1155756187.md",
+   "json": "items/buildtools/improved-water-well-1155756187.json"
+  },
+  {
+   "id": 2136474329,
+   "name": "Water Well",
+   "page": "items/buildtools/water-well-2136474329.md",
+   "json": "items/buildtools/water-well-2136474329.json"
+  }
+ ],
+ "page": "items/buildtools/wood-bucket-3107844914.md"
+}

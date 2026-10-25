@@ -17,4 +17,4 @@ Woven pants which keep the wearer from scraping their knees.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-healer-legs.json)

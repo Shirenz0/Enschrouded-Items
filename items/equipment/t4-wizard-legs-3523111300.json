@@ -1,0 +1,73 @@
+{
+ "id": 3523111300,
+ "name": "T4 Wizard Legs",
+ "internalName": "Armor_T4_Mage_BattleSword_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3523111300.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A pair of pants. They're breezier than they look, allowing you to feel the wind.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 90,
+    "display": "90",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Counter Strike",
+   "effect": "Increases the skill level of Counter Strike by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Slasher",
+   "effect": "Increases the skill level of Slasher by +1"
+  }
+ ],
+ "page": "items/equipment/t4-wizard-legs-3523111300.md"
+}

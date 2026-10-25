@@ -1,0 +1,96 @@
+{
+ "id": 396873784,
+ "name": "T6 Shock Wisp III",
+ "internalName": "Ammo_T6_Spell_Lightning_Wisp_lvl38",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 38,
+  "max": 38
+ },
+ "maxStack": 500,
+ "image": "images/icons/396873784.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons an electrified wisp that follows you around and fires shock projectiles.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 143,
+    "display": "143",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2500,
+    "display": "2.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 16000,
+    "display": "16 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3273241310,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2543638866,
+      "name": "Placeholder: A Greater Shroud Sack Than Before",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 25,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2720721975,
+      "name": "Electric organ",
+      "page": "items/materials/electric-organ-2720721975.md",
+      "json": "items/materials/electric-organ-2720721975.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t6-shock-wisp-iii-396873784.md"
+}

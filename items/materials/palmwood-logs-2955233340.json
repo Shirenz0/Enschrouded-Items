@@ -1,0 +1,243 @@
+{
+ "id": 2955233340,
+ "name": "Palmwood Logs",
+ "internalName": "Material_T4_Wood_Logs_Palm",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2955233340.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Logs of a freshly cut palm, ready to be processed to an item of choosing.",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2261499623,
+   "name": "Gold Sieve Prospector",
+   "page": "items/buildtools/gold-sieve-prospector-2261499623.md",
+   "json": "items/buildtools/gold-sieve-prospector-2261499623.json"
+  },
+  {
+   "id": 469436401,
+   "name": "Improved Fishing Rod",
+   "page": "items/buildtools/improved-fishing-rod-469436401.md",
+   "json": "items/buildtools/improved-fishing-rod-469436401.json"
+  },
+  {
+   "id": 2825372463,
+   "name": "Palm Wood Block",
+   "page": "items/buildtools/palm-wood-block-2825372463.md",
+   "json": "items/buildtools/palm-wood-block-2825372463.json"
+  },
+  {
+   "id": 2883918272,
+   "name": "Licuala Seedling",
+   "page": "items/buildtools/licuala-seedling-2883918272.md",
+   "json": "items/buildtools/licuala-seedling-2883918272.json"
+  },
+  {
+   "id": 3373396030,
+   "name": "Roasted Coffee Beans",
+   "page": "items/materials/roasted-coffee-beans-3373396030.md",
+   "json": "items/materials/roasted-coffee-beans-3373396030.json"
+  },
+  {
+   "id": 246967425,
+   "name": "T6 Tool Steel Axe",
+   "page": "items/tools/t6-tool-steel-axe-246967425.md",
+   "json": "items/tools/t6-tool-steel-axe-246967425.json"
+  },
+  {
+   "id": 1268331874,
+   "name": "T6 Pickaxe Steel",
+   "page": "items/buildtools/t6-pickaxe-steel-1268331874.md",
+   "json": "items/buildtools/t6-pickaxe-steel-1268331874.json"
+  },
+  {
+   "id": 1853225094,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-1853225094.md",
+   "json": "items/weapons/fenrig-s-axe-1853225094.json"
+  },
+  {
+   "id": 2509571957,
+   "name": "Jezmina's Apotheosis",
+   "page": "items/weapons/jezmina-s-apotheosis-2509571957.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2509571957.json"
+  },
+  {
+   "id": 1019461234,
+   "name": "Lupa's scalper",
+   "page": "items/weapons/lupa-s-scalper-1019461234.md",
+   "json": "items/weapons/lupa-s-scalper-1019461234.json"
+  },
+  {
+   "id": 3145841208,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-3145841208.md",
+   "json": "items/weapons/halescourge-3145841208.json"
+  },
+  {
+   "id": 2644725310,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-2644725310.md",
+   "json": "items/equipment/riptide-2644725310.json"
+  },
+  {
+   "id": 2385920638,
+   "name": "Soothsayer",
+   "page": "items/weapons/soothsayer-2385920638.md",
+   "json": "items/weapons/soothsayer-2385920638.json"
+  },
+  {
+   "id": 4016669731,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-4016669731.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-4016669731.json"
+  },
+  {
+   "id": 463074629,
+   "name": "Draconian Bow",
+   "page": "items/weapons/draconian-bow-463074629.md",
+   "json": "items/weapons/draconian-bow-463074629.json"
+  },
+  {
+   "id": 2053490668,
+   "name": "Kingsize Bed",
+   "page": "items/buildtools/kingsize-bed-2053490668.md",
+   "json": "items/buildtools/kingsize-bed-2053490668.json"
+  },
+  {
+   "id": 449366573,
+   "name": "T4 Bed",
+   "page": "items/buildtools/t4-bed-449366573.md",
+   "json": "items/buildtools/t4-bed-449366573.json"
+  },
+  {
+   "id": 4157590434,
+   "name": "T4 Chair",
+   "page": "items/buildtools/t4-chair-4157590434.md",
+   "json": "items/buildtools/t4-chair-4157590434.json"
+  },
+  {
+   "id": 3011227787,
+   "name": "Table T4 large",
+   "page": "items/buildtools/table-t4-large-3011227787.md",
+   "json": "items/buildtools/table-t4-large-3011227787.json"
+  },
+  {
+   "id": 1434543946,
+   "name": "Table T4 Medium",
+   "page": "items/buildtools/table-t4-medium-1434543946.md",
+   "json": "items/buildtools/table-t4-medium-1434543946.json"
+  },
+  {
+   "id": 3657618743,
+   "name": "Table Small T4",
+   "page": "items/buildtools/table-small-t4-3657618743.md",
+   "json": "items/buildtools/table-small-t4-3657618743.json"
+  },
+  {
+   "id": 1497798656,
+   "name": "Bedside T4",
+   "page": "items/buildtools/bedside-t4-1497798656.md",
+   "json": "items/buildtools/bedside-t4-1497798656.json"
+  },
+  {
+   "id": 1237085664,
+   "name": "\"Still Life\"",
+   "page": "items/buildtools/still-life-1237085664.md",
+   "json": "items/buildtools/still-life-1237085664.json"
+  },
+  {
+   "id": 1790893349,
+   "name": "\"Temple Landscape\"",
+   "page": "items/buildtools/temple-landscape-1790893349.md",
+   "json": "items/buildtools/temple-landscape-1790893349.json"
+  },
+  {
+   "id": 3753859139,
+   "name": "\"Flower Snake\"",
+   "page": "items/buildtools/flower-snake-3753859139.md",
+   "json": "items/buildtools/flower-snake-3753859139.json"
+  },
+  {
+   "id": 19079311,
+   "name": "\"Flightless Redtail On One Leg\"",
+   "page": "items/buildtools/flightless-redtail-on-one-leg-19079311.md",
+   "json": "items/buildtools/flightless-redtail-on-one-leg-19079311.json"
+  },
+  {
+   "id": 3847020528,
+   "name": "\"Tower In The Night\"",
+   "page": "items/buildtools/tower-in-the-night-3847020528.md",
+   "json": "items/buildtools/tower-in-the-night-3847020528.json"
+  },
+  {
+   "id": 1343085975,
+   "name": "\"Flower Vase\"",
+   "page": "items/buildtools/flower-vase-1343085975.md",
+   "json": "items/buildtools/flower-vase-1343085975.json"
+  },
+  {
+   "id": 3201054228,
+   "name": "\"Boar At Home\"",
+   "page": "items/buildtools/boar-at-home-3201054228.md",
+   "json": "items/buildtools/boar-at-home-3201054228.json"
+  },
+  {
+   "id": 1688806746,
+   "name": "\"Wolf's Choir\"",
+   "page": "items/buildtools/wolf-s-choir-1688806746.md",
+   "json": "items/buildtools/wolf-s-choir-1688806746.json"
+  },
+  {
+   "id": 858152914,
+   "name": "Barn Pillow for Yaks",
+   "page": "items/buildtools/barn-pillow-for-yaks-858152914.md",
+   "json": "items/buildtools/barn-pillow-for-yaks-858152914.json"
+  },
+  {
+   "id": 736877897,
+   "name": "Palmwood Shelf",
+   "page": "items/buildtools/palmwood-shelf-736877897.md",
+   "json": "items/buildtools/palmwood-shelf-736877897.json"
+  },
+  {
+   "id": 3949299402,
+   "name": "Large Ornate Palmwood Cabinet",
+   "page": "items/buildtools/large-ornate-palmwood-cabinet-3949299402.md",
+   "json": "items/buildtools/large-ornate-palmwood-cabinet-3949299402.json"
+  },
+  {
+   "id": 1127311970,
+   "name": "Small Ornate Palmwood Cabinet",
+   "page": "items/buildtools/small-ornate-palmwood-cabinet-1127311970.md",
+   "json": "items/buildtools/small-ornate-palmwood-cabinet-1127311970.json"
+  },
+  {
+   "id": 3695950981,
+   "name": "T4 Cupboard large",
+   "page": "items/buildtools/t4-cupboard-large-3695950981.md",
+   "json": "items/buildtools/t4-cupboard-large-3695950981.json"
+  },
+  {
+   "id": 601260094,
+   "name": "Small Ornate Palmwood Cupboard",
+   "page": "items/buildtools/small-ornate-palmwood-cupboard-601260094.md",
+   "json": "items/buildtools/small-ornate-palmwood-cupboard-601260094.json"
+  }
+ ],
+ "page": "items/materials/palmwood-logs-2955233340.md"
+}

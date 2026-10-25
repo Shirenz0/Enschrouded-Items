@@ -1,0 +1,50 @@
+{
+ "id": 3619572274,
+ "name": "Skeleton armor twitch drop helmet",
+ "internalName": "Vanity_TX_skeleton_armor_purple_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3619572274.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Skeleton armor twitch drop desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/skeleton-armor-twitch-drop-helmet.md",
+  "json": "objects/equipment/skeleton-armor-twitch-drop-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head"
+ },
+ "recipes": [
+  {
+   "recipeId": 2909290146,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/skeleton-armor-twitch-drop-helmet-3619572274.md"
+}

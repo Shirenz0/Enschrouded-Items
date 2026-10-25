@@ -30,4 +30,4 @@ Backpack t3  NEW Copy from old one
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](large-backpack-996296787.json)

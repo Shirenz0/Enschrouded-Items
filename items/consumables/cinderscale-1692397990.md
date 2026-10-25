@@ -25,4 +25,4 @@ It can be eaten raw, but will be even more beneficial when processed further.
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](cinderscale-1692397990.json)

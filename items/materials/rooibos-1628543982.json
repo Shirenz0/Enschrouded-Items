@@ -1,0 +1,69 @@
+{
+ "id": 1628543982,
+ "name": "Rooibos",
+ "internalName": "Material_T3_Rooibos",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/1628543982.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An interesting plant, stimulating every persons taste buds. The use in tea has established itself as a custom.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2982995291,
+   "name": "Rooibos Tea",
+   "page": "items/consumables/rooibos-tea-2982995291.md",
+   "json": "items/consumables/rooibos-tea-2982995291.json"
+  },
+  {
+   "id": 3764454676,
+   "name": "Rooibos Seedling",
+   "page": "items/buildtools/rooibos-seedling-3764454676.md",
+   "json": "items/buildtools/rooibos-seedling-3764454676.json"
+  },
+  {
+   "id": 1126086984,
+   "name": "Spice",
+   "page": "items/materials/spice-1126086984.md",
+   "json": "items/materials/spice-1126086984.json"
+  },
+  {
+   "id": 823841299,
+   "name": "T3 Healer Legs",
+   "page": "items/equipment/t3-healer-legs-823841299.md",
+   "json": "items/equipment/t3-healer-legs-823841299.json"
+  },
+  {
+   "id": 4053860811,
+   "name": "T3 Healer Arms",
+   "page": "items/equipment/t3-healer-arms-4053860811.md",
+   "json": "items/equipment/t3-healer-arms-4053860811.json"
+  },
+  {
+   "id": 1236068115,
+   "name": "T3 Ranger Legs",
+   "page": "items/equipment/t3-ranger-legs-1236068115.md",
+   "json": "items/equipment/t3-ranger-legs-1236068115.json"
+  },
+  {
+   "id": 1184502832,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-1184502832.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1184502832.json"
+  }
+ ],
+ "page": "items/materials/rooibos-1628543982.md"
+}

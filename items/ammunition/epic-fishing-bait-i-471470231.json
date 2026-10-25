@@ -1,0 +1,73 @@
+{
+ "id": 471470231,
+ "name": "Epic Fishing Bait I",
+ "internalName": "Material_T6_04EPIC_FishingBait_Improved",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/471470231.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Catch regulat epic fish with ease thanks to this speical bait.",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "recipes": [
+  {
+   "recipeId": 3945837142,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3599394660,
+      "name": "Frog",
+      "page": "items/ammunition/frog-3599394660.md",
+      "json": "items/ammunition/frog-3599394660.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4230368891,
+      "name": "Capybara Bristles",
+      "page": "items/materials/capybara-bristles-4230368891.md",
+      "json": "items/materials/capybara-bristles-4230368891.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2352305513,
+      "name": "Fish Teeth",
+      "page": "items/materials/fish-teeth-2352305513.md",
+      "json": "items/materials/fish-teeth-2352305513.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/ammunition/epic-fishing-bait-i-471470231.md"
+}

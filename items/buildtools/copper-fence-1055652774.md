@@ -33,4 +33,4 @@ Blacksmith
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](copper-fence-1055652774.json)

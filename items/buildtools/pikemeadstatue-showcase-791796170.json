@@ -1,0 +1,29 @@
+{
+ "id": 791796170,
+ "name": "PikeMeadStatue Showcase",
+ "internalName": "Prop_Collection_Shroud_Enemydrop",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/791796170.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Showcase for a Statue.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/pikemeadstatue-showcase.md",
+  "json": "objects/buildtools/pikemeadstatue-showcase.json",
+  "versions": 3
+ },
+ "page": "items/buildtools/pikemeadstatue-showcase-791796170.md"
+}

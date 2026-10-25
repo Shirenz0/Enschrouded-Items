@@ -1,0 +1,35 @@
+{
+ "name": "Ghostly Shield",
+ "category": "Equipment",
+ "image": "images/icons/284749629.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2331461341,
+   "name": "Ghostly Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2331461341.png",
+   "page": "items/equipment/ghostly-shield-2331461341.md",
+   "json": "items/equipment/ghostly-shield-2331461341.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 284749629,
+   "name": "Ghostly Shield",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/284749629.png",
+   "page": "items/equipment/ghostly-shield-284749629.md",
+   "json": "items/equipment/ghostly-shield-284749629.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/ghostly-shield.md"
+}

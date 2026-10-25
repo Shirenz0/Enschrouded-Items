@@ -1,0 +1,103 @@
+{
+ "id": 600862405,
+ "name": "Penny Bun",
+ "internalName": "Food_T1_raw_mushroom_Mushroom_brown",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/600862405.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Connected with the roots of the world it gathers ancient power in its core.\n\nIncreases your intelligence by a small amount.",
+ "lore": null,
+ "whereToFind": "Springlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 600000,
+    "display": "10:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3744591176,
+   "name": "Meat Wrap",
+   "page": "items/consumables/meat-wrap-3744591176.md",
+   "json": "items/consumables/meat-wrap-3744591176.json"
+  },
+  {
+   "id": 2364777884,
+   "name": "Mushroom Omelett",
+   "page": "items/consumables/mushroom-omelett-2364777884.md",
+   "json": "items/consumables/mushroom-omelett-2364777884.json"
+  },
+  {
+   "id": 1511796527,
+   "name": "Grilled Penny Bun",
+   "page": "items/consumables/grilled-penny-bun-1511796527.md",
+   "json": "items/consumables/grilled-penny-bun-1511796527.json"
+  },
+  {
+   "id": 1183822012,
+   "name": "Spaetzle with Mushroom Cream Sauce",
+   "page": "items/consumables/spaetzle-with-mushroom-cream-sauce-1183822012.md",
+   "json": "items/consumables/spaetzle-with-mushroom-cream-sauce-1183822012.json"
+  },
+  {
+   "id": 3436474234,
+   "name": "Health Potion",
+   "page": "items/consumables/health-potion-3436474234.md",
+   "json": "items/consumables/health-potion-3436474234.json"
+  },
+  {
+   "id": 2335785241,
+   "name": "Raw Meat and Mushroom Skewer",
+   "page": "items/materials/raw-meat-and-mushroom-skewer-2335785241.md",
+   "json": "items/materials/raw-meat-and-mushroom-skewer-2335785241.json"
+  },
+  {
+   "id": 751481953,
+   "name": "Penny Bun Seedling",
+   "page": "items/buildtools/penny-bun-seedling-751481953.md",
+   "json": "items/buildtools/penny-bun-seedling-751481953.json"
+  },
+  {
+   "id": 1639517943,
+   "name": "T1 Palette 01 Brown Grey",
+   "page": "items/colorpalette/t1-palette-01-brown-grey-1639517943.md",
+   "json": "items/colorpalette/t1-palette-01-brown-grey-1639517943.json"
+  },
+  {
+   "id": 2299237068,
+   "name": "T1 Palette 04 Brown blue grey",
+   "page": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.md",
+   "json": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.json"
+  },
+  {
+   "id": 51104213,
+   "name": "T1 Palette 02 Grey Brown",
+   "page": "items/colorpalette/t1-palette-02-grey-brown-51104213.md",
+   "json": "items/colorpalette/t1-palette-02-grey-brown-51104213.json"
+  }
+ ],
+ "page": "items/consumables/penny-bun-600862405.md"
+}

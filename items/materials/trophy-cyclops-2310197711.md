@@ -21,4 +21,4 @@ trophy cyclpos desc
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](trophy-cyclops-2310197711.json)

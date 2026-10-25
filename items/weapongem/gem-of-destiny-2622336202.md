@@ -26,4 +26,4 @@ Mark one random enemy within %km as Marked by Destiny for %k. Defeating the mark
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-destiny-2622336202.json)

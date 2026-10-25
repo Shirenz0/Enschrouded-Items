@@ -1,0 +1,47 @@
+{
+ "id": 2278407208,
+ "name": "Fine Stone Fence",
+ "internalName": "Prop_Decoration_T3_Fence_Stone_01_NEW",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2278407208.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/fine-stone-fence.md",
+  "json": "objects/buildtools/fine-stone-fence.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 1929003717,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/fine-stone-fence-2278407208.md"
+}

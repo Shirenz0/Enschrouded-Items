@@ -29,4 +29,4 @@
 | <img src="../images/icons/3326121147.png" width="48"> | [Underwater Grappling Hook](../items/tools/underwater-grappling-hook-3326121147.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2543839394.png" width="48"> | [Wetland Hollow Halls Key](../items/tools/wetland-hollow-halls-key-2543839394.md) | 🔵 Rare | 43 | 1 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](tools.json)

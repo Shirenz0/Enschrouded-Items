@@ -1,0 +1,79 @@
+{
+ "id": 1831711888,
+ "name": "T4 Archer Arms",
+ "internalName": "Armor_T4_Ranger_Adventurer_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1831711888.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Reliable gloves which shield the wearer's arms from claws.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Ranged Damage",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Depletion Climbing",
+    "value": -20,
+    "display": "-20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Inner Fires",
+   "effect": "Increases the skill level of Inner Fires by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Marksman",
+   "effect": "Increases the skill level of Marksman by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+16 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/t4-archer-arms-1831711888.md"
+}

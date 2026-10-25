@@ -1,0 +1,47 @@
+{
+ "id": 1786201577,
+ "name": "Gem of Fracturing",
+ "internalName": "T2_Gem_GemOfFracturing",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/1786201577.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Killing an enemy with blunt damage has a  %k chance to create homing bone shards that deal %k blunt damage, with a chance of spawning up to 4 projectiles.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Trigger Chance on Kill",
+    "value": 33,
+    "display": "33",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Blunt Projectile Damage",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Chance for additional projectiles",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-fracturing-1786201577.md"
+}

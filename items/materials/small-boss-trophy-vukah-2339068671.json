@@ -1,0 +1,63 @@
+{
+ "id": 2339068671,
+ "name": "Small Boss Trophy Vukah",
+ "internalName": "Material_TX_Trophy_Vukah_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2339068671.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The tusks are still quite dangerous as they don't dull after death. Never stumble!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3298516900,
+   "name": "Gold Vukah Brawler Trophy",
+   "page": "items/buildtools/gold-vukah-brawler-trophy-3298516900.md",
+   "json": "items/buildtools/gold-vukah-brawler-trophy-3298516900.json"
+  },
+  {
+   "id": 2569708054,
+   "name": "Metal Boss Trophy Vukah",
+   "page": "items/buildtools/metal-boss-trophy-vukah-2569708054.md",
+   "json": "items/buildtools/metal-boss-trophy-vukah-2569708054.json"
+  },
+  {
+   "id": 2536014482,
+   "name": "Big Boss Trophy Vukah",
+   "page": "items/buildtools/big-boss-trophy-vukah-2536014482.md",
+   "json": "items/buildtools/big-boss-trophy-vukah-2536014482.json"
+  },
+  {
+   "id": 4204826854,
+   "name": "Boss Trophy Vukah",
+   "page": "items/buildtools/boss-trophy-vukah-4204826854.md",
+   "json": "items/buildtools/boss-trophy-vukah-4204826854.json"
+  },
+  {
+   "id": 2829385261,
+   "name": "Scavanger Gong",
+   "page": "items/buildtools/scavanger-gong-2829385261.md",
+   "json": "items/buildtools/scavanger-gong-2829385261.json"
+  },
+  {
+   "id": 1732202585,
+   "name": "Vukah shrine",
+   "page": "items/buildtools/vukah-shrine-1732202585.md",
+   "json": "items/buildtools/vukah-shrine-1732202585.json"
+  }
+ ],
+ "page": "items/materials/small-boss-trophy-vukah-2339068671.md"
+}

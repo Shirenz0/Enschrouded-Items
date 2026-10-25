@@ -1,0 +1,88 @@
+{
+ "id": 2818493303,
+ "name": "(honeyed) Thyme Tea",
+ "internalName": "Food_T7_dish_hydration_ThymeTea",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2818493303.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "freshly brewed thyme tea",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3600000,
+    "display": "60:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 70,
+    "display": "70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4032844432,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3466985705,
+      "name": "Thyme",
+      "page": "items/consumables/thyme-3466985705.md",
+      "json": "items/consumables/thyme-3466985705.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1958601376,
+   "name": "T7 Heal Channel II",
+   "page": "items/ammunition/t7-heal-channel-ii-1958601376.md",
+   "json": "items/ammunition/t7-heal-channel-ii-1958601376.json"
+  }
+ ],
+ "page": "items/consumables/honeyed-thyme-tea-2818493303.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 2810680206,
+ "name": "Ruffles",
+ "internalName": "Animal_Pet_Dog_01_Bright",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2810680206.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A loud, energetic dog that yearns for connection. It has bright and beautiful fur. The tag on the cage you freed it from read \"Ruffles\".",
+ "lore": "Pet",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/ruffles-2810680206.md"
+}

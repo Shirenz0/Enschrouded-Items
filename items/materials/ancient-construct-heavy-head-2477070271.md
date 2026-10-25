@@ -21,4 +21,4 @@ head or eye from the ancient construct heavy desc
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ancient-construct-heavy-head-2477070271.json)

@@ -1,0 +1,67 @@
+{
+ "id": 1452562148,
+ "name": "T2 Wizard Boots",
+ "internalName": "Armor_T2_Mage_BattleWand_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1452562148.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Remain steadfast when smiting your foes from afar with these formidable wizard boots.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Frost",
+   "effect": "Increases the skill level of Frost by +1"
+  },
+  {
+   "order": 4,
+   "name": "Vital",
+   "effect": "+6 Vital"
+  },
+  {
+   "order": 5,
+   "name": "+1 Ice Resistance",
+   "effect": "Increases the skill level of Ice Resistance by +1"
+  }
+ ],
+ "page": "items/equipment/t2-wizard-boots-1452562148.md"
+}

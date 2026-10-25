@@ -24,4 +24,4 @@ Killing an enemy has a %k chance to spawn an allied level %k elite skeleton. You
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-greater-necromancy-2267960734.json)

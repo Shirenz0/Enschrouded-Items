@@ -1,0 +1,105 @@
+{
+ "id": 4230023681,
+ "name": "Coal Powder",
+ "internalName": "Material_T1_Coal_Powder",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/4230023681.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Grinded coals, creating a highly flammable powder.",
+ "lore": null,
+ "whereToFind": "Crafting, Hand Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1054150616,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2395034423,
+   "name": "Watering Can",
+   "page": "items/buildtools/watering-can-2395034423.md",
+   "json": "items/buildtools/watering-can-2395034423.json"
+  },
+  {
+   "id": 2545181812,
+   "name": "Consumable Potion Antidote T5",
+   "page": "items/consumables/consumable-potion-antidote-t5-2545181812.md",
+   "json": "items/consumables/consumable-potion-antidote-t5-2545181812.json"
+  },
+  {
+   "id": 738997972,
+   "name": "T3 Light Burst",
+   "page": "items/ammunition/t3-light-burst-738997972.md",
+   "json": "items/ammunition/t3-light-burst-738997972.json"
+  },
+  {
+   "id": 1835123088,
+   "name": "T7 Eternal Shroud Meteor",
+   "page": "items/ammunition/t7-eternal-shroud-meteor-1835123088.md",
+   "json": "items/ammunition/t7-eternal-shroud-meteor-1835123088.json"
+  },
+  {
+   "id": 3940653429,
+   "name": "T4 Shroud Meteor",
+   "page": "items/ammunition/t4-shroud-meteor-3940653429.md",
+   "json": "items/ammunition/t4-shroud-meteor-3940653429.json"
+  },
+  {
+   "id": 1828629573,
+   "name": "Black Powder",
+   "page": "items/materials/black-powder-1828629573.md",
+   "json": "items/materials/black-powder-1828629573.json"
+  },
+  {
+   "id": 1350606537,
+   "name": "Fog Oil",
+   "page": "items/materials/fog-oil-1350606537.md",
+   "json": "items/materials/fog-oil-1350606537.json"
+  },
+  {
+   "id": 1639517943,
+   "name": "T1 Palette 01 Brown Grey",
+   "page": "items/colorpalette/t1-palette-01-brown-grey-1639517943.md",
+   "json": "items/colorpalette/t1-palette-01-brown-grey-1639517943.json"
+  },
+  {
+   "id": 103217131,
+   "name": "T1 Palette 03 Brown dark grey",
+   "page": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.md",
+   "json": "items/colorpalette/t1-palette-03-brown-dark-grey-103217131.json"
+  },
+  {
+   "id": 51104213,
+   "name": "T1 Palette 02 Grey Brown",
+   "page": "items/colorpalette/t1-palette-02-grey-brown-51104213.md",
+   "json": "items/colorpalette/t1-palette-02-grey-brown-51104213.json"
+  }
+ ],
+ "page": "items/materials/coal-powder-4230023681.md"
+}

@@ -1,0 +1,97 @@
+{
+ "id": 491393994,
+ "name": "Ultimate Health Potion",
+ "internalName": "Consumable_Potion_Health_T6",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/491393994.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Health potion description",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 1250,
+    "display": "1,250",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 952779859,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 814096701,
+      "name": "Ginger",
+      "page": "items/consumables/ginger-814096701.md",
+      "json": "items/consumables/ginger-814096701.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1887186828,
+      "name": "Shroud Sludge",
+      "page": "items/materials/shroud-sludge-1887186828.md",
+      "json": "items/materials/shroud-sludge-1887186828.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 554104227,
+      "name": "Aquamarine Dust",
+      "page": "items/materials/aquamarine-dust-554104227.md",
+      "json": "items/materials/aquamarine-dust-554104227.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2461980355,
+   "name": "Ultimate Health Potion +",
+   "page": "items/consumables/ultimate-health-potion-2461980355.md",
+   "json": "items/consumables/ultimate-health-potion-2461980355.json"
+  }
+ ],
+ "page": "items/consumables/ultimate-health-potion-491393994.md"
+}

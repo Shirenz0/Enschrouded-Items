@@ -1,0 +1,33 @@
+{
+ "name": "Hair 01 05",
+ "category": "Customization",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3632169222,
+   "name": "Hair 01 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-05-3632169222.md",
+   "json": "items/customization/hair-01-05-3632169222.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3681595440,
+   "name": "Hair 01 05",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/hair-01-05-3681595440.md",
+   "json": "items/customization/hair-01-05-3681595440.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/hair-01-05.md"
+}

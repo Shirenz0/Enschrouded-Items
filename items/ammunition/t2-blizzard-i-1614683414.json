@@ -1,0 +1,81 @@
+{
+ "id": 1614683414,
+ "name": "T2 Blizzard I",
+ "internalName": "Ammo_T2_Spell_Ice_Blizzard_lvl15",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 500,
+ "image": "images/icons/1614683414.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates an icy storm that slows down enemies and deals damage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 84,
+    "display": "84",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 300,
+    "display": "300",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 9000,
+    "display": "9 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2079629672,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t2-blizzard-i-1614683414.md"
+}

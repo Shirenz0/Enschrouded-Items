@@ -1,0 +1,39 @@
+{
+ "name": "City Wall Stone Block",
+ "category": "BuildTools",
+ "image": "images/icons/3379333313.png",
+ "versions": 2,
+ "sharedTexts": [
+  "where to find"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1956408861,
+   "name": "City Wall Stone Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1956408861.png",
+   "page": "items/buildtools/city-wall-stone-block-1956408861.md",
+   "json": "items/buildtools/city-wall-stone-block-1956408861.json",
+   "maxStack": 5000,
+   "ownTexts": []
+  },
+  {
+   "id": 3379333313,
+   "name": "City Wall Stone Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3379333313.png",
+   "page": "items/buildtools/city-wall-stone-block-3379333313.md",
+   "json": "items/buildtools/city-wall-stone-block-3379333313.json",
+   "maxStack": 5000,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/city-wall-stone-block.md"
+}

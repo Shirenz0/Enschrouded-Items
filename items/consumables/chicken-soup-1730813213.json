@@ -1,0 +1,98 @@
+{
+ "id": 1730813213,
+ "name": "Chicken Soup",
+ "internalName": "Food_T3_dish_meat_ChickenSoup",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1730813213.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A very healthy soup made by boiling chicken over a period of time. An old house maidens dish to help the body against illness.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 2400000,
+    "display": "40:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 160,
+    "display": "160",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 27798549,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3542827745,
+      "name": "Forest Beet",
+      "page": "items/consumables/forest-beet-3542827745.md",
+      "json": "items/consumables/forest-beet-3542827745.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 385885887,
+      "name": "Raw Bird Meat",
+      "page": "items/consumables/raw-bird-meat-385885887.md",
+      "json": "items/consumables/raw-bird-meat-385885887.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 4094316095,
+      "name": "Bell Pepper",
+      "page": "items/consumables/bell-pepper-4094316095.md",
+      "json": "items/consumables/bell-pepper-4094316095.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/chicken-soup-1730813213.md"
+}

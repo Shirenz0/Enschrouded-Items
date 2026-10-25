@@ -24,4 +24,4 @@ Everybody has a plan until they get punched in the face -Mike Thyson
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](unarmed-fists-3667811355.json)

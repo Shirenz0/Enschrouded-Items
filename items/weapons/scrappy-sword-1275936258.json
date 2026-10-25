@@ -1,0 +1,108 @@
+{
+ "id": 1275936258,
+ "name": "Scrappy Sword",
+ "internalName": "Weapon_T1_1H_Sword_Craft",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/1275936258.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A blunt enlarged knife, designed to open up ways. Especially through lines of enemies.",
+ "lore": null,
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "",
+   "effect": null
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 158798866,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 722268629,
+      "name": "Wood Logs",
+      "page": "items/materials/wood-logs-722268629.md",
+      "json": "items/materials/wood-logs-722268629.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2743545700,
+      "name": "Nails",
+      "page": "items/materials/nails-2743545700.md",
+      "json": "items/materials/nails-2743545700.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2187829385,
+   "name": "Shield Wall Emblem I",
+   "page": "items/buildtools/shield-wall-emblem-i-2187829385.md",
+   "json": "items/buildtools/shield-wall-emblem-i-2187829385.json"
+  },
+  {
+   "id": 220736750,
+   "name": "Shield Wall Emblem II",
+   "page": "items/buildtools/shield-wall-emblem-ii-220736750.md",
+   "json": "items/buildtools/shield-wall-emblem-ii-220736750.json"
+  },
+  {
+   "id": 2918524342,
+   "name": "Diamond Wall Emblem I",
+   "page": "items/buildtools/diamond-wall-emblem-i-2918524342.md",
+   "json": "items/buildtools/diamond-wall-emblem-i-2918524342.json"
+  },
+  {
+   "id": 2980093307,
+   "name": "Diamond Wall Emblem II",
+   "page": "items/buildtools/diamond-wall-emblem-ii-2980093307.md",
+   "json": "items/buildtools/diamond-wall-emblem-ii-2980093307.json"
+  }
+ ],
+ "page": "items/weapons/scrappy-sword-1275936258.md"
+}

@@ -1,0 +1,87 @@
+{
+ "id": 2610640903,
+ "name": "Push button",
+ "internalName": "Prop_Logic_Button_Push",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2610640903.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A push button that can be used in a logic system.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2634113982,
+   "station": "Logic System Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 631520303,
+       "name": "Stone",
+       "page": "items/materials/stone-631520303.md",
+       "json": "items/materials/stone-631520303.json"
+      },
+      {
+       "id": 1181280513,
+       "name": "Deepforest Stone",
+       "page": "items/materials/deepforest-stone-1181280513.md",
+       "json": "items/materials/deepforest-stone-1181280513.json"
+      },
+      {
+       "id": 760251531,
+       "name": "T2 Talltree Stone",
+       "page": "items/materials/t2-talltree-stone-760251531.md",
+       "json": "items/materials/t2-talltree-stone-760251531.json"
+      },
+      {
+       "id": 3445636557,
+       "name": "Lime Stone",
+       "page": "items/materials/lime-stone-3445636557.md",
+       "json": "items/materials/lime-stone-3445636557.json"
+      },
+      {
+       "id": 1401630464,
+       "name": "Sandstone",
+       "page": "items/materials/sandstone-1401630464.md",
+       "json": "items/materials/sandstone-1401630464.json"
+      },
+      {
+       "id": 3865976041,
+       "name": "T5 Material Granite",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1853942795,
+       "name": "T6 material limestone from shells",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 885155884,
+       "name": "T7 material stone",
+       "page": null,
+       "json": null
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/push-button-2610640903.md"
+}

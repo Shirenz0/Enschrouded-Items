@@ -1,0 +1,41 @@
+{
+ "id": 415736304,
+ "name": "Gem of Toxic Reaction",
+ "internalName": "T2_Gem_GemOfToxicReaction",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/415736304.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Landing a Backstab on an enemy applies  poison for %k that deals %k poison damage per second.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Poison damage over time",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Poison Duration",
+    "value": 6000,
+    "display": "6 s",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-toxic-reaction-415736304.md"
+}

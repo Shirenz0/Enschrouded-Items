@@ -21,4 +21,4 @@ Used to add and edit logic graphs.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](logic-switchbox-577103459.json)

@@ -1,0 +1,165 @@
+{
+ "id": 554104227,
+ "name": "Aquamarine Dust",
+ "internalName": "Material_T6_Aquamarine_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/554104227.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 Aquamarine dust desc",
+ "lore": null,
+ "whereToFind": "Crafting, Improved Grinder",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2600249749,
+   "station": "improved grinder; water wheel grinder)",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1476017101,
+      "name": "Aquamarine",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 491393994,
+   "name": "Ultimate Health Potion",
+   "page": "items/consumables/ultimate-health-potion-491393994.md",
+   "json": "items/consumables/ultimate-health-potion-491393994.json"
+  },
+  {
+   "id": 2404490725,
+   "name": "T6 Eternal Mana Leech Beam VII",
+   "page": "items/ammunition/t6-eternal-mana-leech-beam-vii-2404490725.md",
+   "json": "items/ammunition/t6-eternal-mana-leech-beam-vii-2404490725.json"
+  },
+  {
+   "id": 2453015274,
+   "name": "Eternal Shock Arrow II",
+   "page": "items/ammunition/eternal-shock-arrow-ii-2453015274.md",
+   "json": "items/ammunition/eternal-shock-arrow-ii-2453015274.json"
+  },
+  {
+   "id": 111980330,
+   "name": "T6 Pillar of Flames III",
+   "page": "items/ammunition/t6-pillar-of-flames-iii-111980330.md",
+   "json": "items/ammunition/t6-pillar-of-flames-iii-111980330.json"
+  },
+  {
+   "id": 3960177886,
+   "name": "T6 Ice Totem II",
+   "page": "items/ammunition/t6-ice-totem-ii-3960177886.md",
+   "json": "items/ammunition/t6-ice-totem-ii-3960177886.json"
+  },
+  {
+   "id": 220072414,
+   "name": "Pretty In Pink",
+   "page": "items/colorpalette/pretty-in-pink-220072414.md",
+   "json": "items/colorpalette/pretty-in-pink-220072414.json"
+  },
+  {
+   "id": 855563189,
+   "name": "Fell Fashion",
+   "page": "items/colorpalette/fell-fashion-855563189.md",
+   "json": "items/colorpalette/fell-fashion-855563189.json"
+  },
+  {
+   "id": 391330740,
+   "name": "Veil Of Blues",
+   "page": "items/colorpalette/veil-of-blues-391330740.md",
+   "json": "items/colorpalette/veil-of-blues-391330740.json"
+  },
+  {
+   "id": 3957855784,
+   "name": "Pikemead's Ward",
+   "page": "items/equipment/pikemead-s-ward-3957855784.md",
+   "json": "items/equipment/pikemead-s-ward-3957855784.json"
+  },
+  {
+   "id": 1777113935,
+   "name": "T6 Shield Tank",
+   "page": "items/equipment/t6-shield-tank-1777113935.md",
+   "json": "items/equipment/t6-shield-tank-1777113935.json"
+  },
+  {
+   "id": 2863750697,
+   "name": "T6 Shield DPS",
+   "page": "items/equipment/t6-shield-dps-2863750697.md",
+   "json": "items/equipment/t6-shield-dps-2863750697.json"
+  },
+  {
+   "id": 4073230411,
+   "name": "Lord Vorgoth's Sword",
+   "page": "items/weapons/lord-vorgoth-s-sword-4073230411.md",
+   "json": "items/weapons/lord-vorgoth-s-sword-4073230411.json"
+  },
+  {
+   "id": 1561187159,
+   "name": "Darya's Wand",
+   "page": "items/weapons/darya-s-wand-1561187159.md",
+   "json": "items/weapons/darya-s-wand-1561187159.json"
+  },
+  {
+   "id": 2309442083,
+   "name": "Blue Pendant Light I",
+   "page": "items/buildtools/blue-pendant-light-i-2309442083.md",
+   "json": "items/buildtools/blue-pendant-light-i-2309442083.json"
+  },
+  {
+   "id": 939235192,
+   "name": "Blue Pendant Light II",
+   "page": "items/buildtools/blue-pendant-light-ii-939235192.md",
+   "json": "items/buildtools/blue-pendant-light-ii-939235192.json"
+  },
+  {
+   "id": 14979379,
+   "name": "Blue Wall Light I",
+   "page": "items/buildtools/blue-wall-light-i-14979379.md",
+   "json": "items/buildtools/blue-wall-light-i-14979379.json"
+  },
+  {
+   "id": 3687127031,
+   "name": "Blue Wall Light II",
+   "page": "items/buildtools/blue-wall-light-ii-3687127031.md",
+   "json": "items/buildtools/blue-wall-light-ii-3687127031.json"
+  },
+  {
+   "id": 1747355696,
+   "name": "Blue Floor Light I",
+   "page": "items/buildtools/blue-floor-light-i-1747355696.md",
+   "json": "items/buildtools/blue-floor-light-i-1747355696.json"
+  },
+  {
+   "id": 2925532764,
+   "name": "Blue Floor Light II",
+   "page": "items/buildtools/blue-floor-light-ii-2925532764.md",
+   "json": "items/buildtools/blue-floor-light-ii-2925532764.json"
+  },
+  {
+   "id": 970794453,
+   "name": "Skull Trophy I",
+   "page": "items/buildtools/skull-trophy-i-970794453.md",
+   "json": "items/buildtools/skull-trophy-i-970794453.json"
+  }
+ ],
+ "page": "items/materials/aquamarine-dust-554104227.md"
+}

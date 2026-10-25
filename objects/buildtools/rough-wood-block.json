@@ -1,0 +1,73 @@
+{
+ "name": "Rough Wood Block",
+ "category": "BuildTools",
+ "image": "images/icons/444874319.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "max stack",
+  "where to find"
+ ],
+ "items": [
+  {
+   "id": 1441646853,
+   "name": "Rough Wood Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1441646853.png",
+   "page": "items/buildtools/rough-wood-block-1441646853.md",
+   "json": "items/buildtools/rough-wood-block-1441646853.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1923097402,
+   "name": "Rough Wood Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1923097402.png",
+   "page": "items/buildtools/rough-wood-block-1923097402.md",
+   "json": "items/buildtools/rough-wood-block-1923097402.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2012474258,
+   "name": "Rough Wood Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2012474258.png",
+   "page": "items/buildtools/rough-wood-block-2012474258.md",
+   "json": "items/buildtools/rough-wood-block-2012474258.json",
+   "maxStack": 5000,
+   "ownTexts": [
+    "where to find"
+   ]
+  },
+  {
+   "id": 2243637327,
+   "name": "Rough Wood Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2243637327.png",
+   "page": "items/buildtools/rough-wood-block-2243637327.md",
+   "json": "items/buildtools/rough-wood-block-2243637327.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 444874319,
+   "name": "Rough Wood Block",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/444874319.png",
+   "page": "items/buildtools/rough-wood-block-444874319.md",
+   "json": "items/buildtools/rough-wood-block-444874319.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/rough-wood-block.md"
+}

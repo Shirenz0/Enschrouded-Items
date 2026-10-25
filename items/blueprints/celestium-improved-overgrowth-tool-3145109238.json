@@ -1,0 +1,25 @@
+{
+ "id": 3145109238,
+ "name": "Celestium/Improved Overgrowth Tool",
+ "internalName": "Tool_Building_Overgrowth_Improved",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3145109238.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical tool that allows you to fly while being capable of **adding and removing various types of overgrowth** to walls in your base. \n\nRequires to be **within the range of a Flame Altar** to work.",
+ "lore": null,
+ "whereToFind": "Crafting, Ancient Researcher",
+ "object": null,
+ "page": "items/blueprints/celestium-improved-overgrowth-tool-3145109238.md"
+}

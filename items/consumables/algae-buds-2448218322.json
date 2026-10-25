@@ -1,0 +1,55 @@
+{
+ "id": 2448218322,
+ "name": "Algae Buds",
+ "internalName": "Food_T6_raw_bad_herb_AlgaeBuds",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2448218322.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The Buds of the Algae Plant. Raw inedible, but you can dry them.",
+ "lore": null,
+ "whereToFind": "find in T6 underwater",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -80,
+    "display": "-80",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": -70,
+    "display": "-70",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3254225118,
+   "name": "Swim Sprint Stamina Reduction Flask",
+   "page": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.md",
+   "json": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.json"
+  },
+  {
+   "id": 3423336686,
+   "name": "Grilled Algae Buds",
+   "page": "items/consumables/grilled-algae-buds-3423336686.md",
+   "json": "items/consumables/grilled-algae-buds-3423336686.json"
+  }
+ ],
+ "page": "items/consumables/algae-buds-2448218322.md"
+}

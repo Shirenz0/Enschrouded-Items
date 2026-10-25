@@ -1,0 +1,52 @@
+{
+ "id": 1521452298,
+ "name": "Underwater Overgrowth",
+ "internalName": "Material_TX_Overgrowth_Underwater",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1521452298.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Use this material to decorate any voxel material using the ??? tool",
+ "lore": "Plants",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1294369001,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 890360552,
+      "name": "Underwater Mud",
+      "page": "items/materials/underwater-mud-890360552.md",
+      "json": "items/materials/underwater-mud-890360552.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1026141130,
+      "name": "Paper Reed",
+      "page": "items/materials/paper-reed-1026141130.md",
+      "json": "items/materials/paper-reed-1026141130.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/underwater-overgrowth-1521452298.md"
+}

@@ -1,0 +1,82 @@
+{
+ "id": 2520666169,
+ "name": "Uncommon Bait",
+ "internalName": "Material_T6_02UNCOMMON_FishingBait_Improved",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2520666169.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Any uncommon fish will want to take a bite of this bait.",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "recipes": [
+  {
+   "recipeId": 1257478067,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2201448182,
+      "name": "Moth",
+      "page": "items/ammunition/moth-2201448182.md",
+      "json": "items/ammunition/moth-2201448182.json"
+     }
+    },
+    {
+     "count": 12,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 4230368891,
+      "name": "Capybara Bristles",
+      "page": "items/materials/capybara-bristles-4230368891.md",
+      "json": "items/materials/capybara-bristles-4230368891.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2244383765,
+      "name": "Fish Bones",
+      "page": "items/materials/fish-bones-2244383765.md",
+      "json": "items/materials/fish-bones-2244383765.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2342031255,
+      "name": "Grasshopper",
+      "page": "items/ammunition/grasshopper-2342031255.md",
+      "json": "items/ammunition/grasshopper-2342031255.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/ammunition/uncommon-bait-2520666169.md"
+}

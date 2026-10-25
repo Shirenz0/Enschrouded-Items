@@ -19,4 +19,4 @@ Try to find the missing pieces to reassemble a Statue.
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](broken-piece-of-a-statue-1556757497.json)

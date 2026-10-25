@@ -1,0 +1,39 @@
+{
+ "id": 1212327967,
+ "name": "Spider Gland",
+ "internalName": "Material_T1_SpiderGland",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1212327967.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "They are still dripping with poison",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1410921691,
+   "name": "Hemotoxication Antidode",
+   "page": "items/consumables/hemotoxication-antidode-1410921691.md",
+   "json": "items/consumables/hemotoxication-antidode-1410921691.json"
+  },
+  {
+   "id": 3441701492,
+   "name": "Antidote T2",
+   "page": "items/consumables/antidote-t2-3441701492.md",
+   "json": "items/consumables/antidote-t2-3441701492.json"
+  }
+ ],
+ "page": "items/materials/spider-gland-1212327967.md"
+}

@@ -25,4 +25,4 @@ A large potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](stapelia-starflower-flower-pot-3447568951.json)

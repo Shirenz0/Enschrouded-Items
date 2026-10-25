@@ -1,0 +1,35 @@
+{
+ "name": "Beach Attire chest",
+ "category": "Equipment",
+ "image": "images/icons/1986909631.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1827887436,
+   "name": "Beach Attire chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1827887436.png",
+   "page": "items/equipment/beach-attire-chest-1827887436.md",
+   "json": "items/equipment/beach-attire-chest-1827887436.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1986909631,
+   "name": "Beach Attire chest",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1986909631.png",
+   "page": "items/equipment/beach-attire-chest-1986909631.md",
+   "json": "items/equipment/beach-attire-chest-1986909631.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/beach-attire-chest.md"
+}

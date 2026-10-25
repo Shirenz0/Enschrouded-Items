@@ -1,0 +1,57 @@
+{
+ "id": 1940778781,
+ "name": "Vorgoth Blood",
+ "internalName": "Material_T7_Vorgoth_Blood",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/1940778781.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "the essence of lord vorgoth, it can be used to craft his armor",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3158681634,
+   "name": "Vorgoth's Gloves",
+   "page": "items/equipment/vorgoth-s-gloves-3158681634.md",
+   "json": "items/equipment/vorgoth-s-gloves-3158681634.json"
+  },
+  {
+   "id": 3057743376,
+   "name": "Vorgoth's Boots",
+   "page": "items/equipment/vorgoth-s-boots-3057743376.md",
+   "json": "items/equipment/vorgoth-s-boots-3057743376.json"
+  },
+  {
+   "id": 248650235,
+   "name": "Vorgoth's Chest",
+   "page": "items/equipment/vorgoth-s-chest-248650235.md",
+   "json": "items/equipment/vorgoth-s-chest-248650235.json"
+  },
+  {
+   "id": 876665028,
+   "name": "Vorgoth's Crown",
+   "page": "items/equipment/vorgoth-s-crown-876665028.md",
+   "json": "items/equipment/vorgoth-s-crown-876665028.json"
+  },
+  {
+   "id": 3057524028,
+   "name": "Vorgoth's Pants",
+   "page": "items/equipment/vorgoth-s-pants-3057524028.md",
+   "json": "items/equipment/vorgoth-s-pants-3057524028.json"
+  }
+ ],
+ "page": "items/materials/vorgoth-blood-1940778781.md"
+}

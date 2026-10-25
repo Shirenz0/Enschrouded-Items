@@ -1,0 +1,61 @@
+{
+ "name": "T4 DPS Arms",
+ "category": "Equipment",
+ "image": "images/icons/706627686.png",
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1090544834,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1090544834.png",
+   "page": "items/equipment/t4-dps-arms-1090544834.md",
+   "json": "items/equipment/t4-dps-arms-1090544834.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1478658636,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1478658636.png",
+   "page": "items/equipment/t4-dps-arms-1478658636.md",
+   "json": "items/equipment/t4-dps-arms-1478658636.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 4093835492,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4093835492.png",
+   "page": "items/equipment/t4-dps-arms-4093835492.md",
+   "json": "items/equipment/t4-dps-arms-4093835492.json",
+   "maxStack": 1,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 706627686,
+   "name": "T4 DPS Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/706627686.png",
+   "page": "items/equipment/t4-dps-arms-706627686.md",
+   "json": "items/equipment/t4-dps-arms-706627686.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-dps-arms.md"
+}

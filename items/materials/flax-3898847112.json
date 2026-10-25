@@ -1,0 +1,45 @@
+{
+ "id": 3898847112,
+ "name": "Flax",
+ "internalName": "Material_T2_Flax",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/3898847112.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A popular plant due to its strong fibers. It can be used to make linnen.",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 34487402,
+   "name": "Flax Seedling",
+   "page": "items/buildtools/flax-seedling-34487402.md",
+   "json": "items/buildtools/flax-seedling-34487402.json"
+  },
+  {
+   "id": 1815424180,
+   "name": "Linnen",
+   "page": "items/materials/linnen-1815424180.md",
+   "json": "items/materials/linnen-1815424180.json"
+  },
+  {
+   "id": 779558916,
+   "name": "Climbing Rose overgrowth plant",
+   "page": "items/buildtools/climbing-rose-overgrowth-plant-779558916.md",
+   "json": "items/buildtools/climbing-rose-overgrowth-plant-779558916.json"
+  }
+ ],
+ "page": "items/materials/flax-3898847112.md"
+}

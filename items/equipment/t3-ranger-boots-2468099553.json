@@ -1,0 +1,77 @@
+{
+ "id": 2468099553,
+ "name": "T3 Ranger Boots",
+ "internalName": "Armor_T3_Ranger_Archer_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2468099553.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Ideal for stalking prey.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-ranger-boots.md",
+  "json": "objects/equipment/t3-ranger-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -300,
+    "display": "-0.3 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  }
+ ],
+ "page": "items/equipment/t3-ranger-boots-2468099553.md"
+}

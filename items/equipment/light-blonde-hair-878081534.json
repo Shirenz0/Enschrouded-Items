@@ -1,0 +1,25 @@
+{
+ "id": 878081534,
+ "name": "Light Blonde Hair",
+ "internalName": "Icon_HairColor_blonde_bright",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/878081534.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Visit the Barber to change your appearance. Once you've unlocked this color, you can use it on any server.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/equipment/light-blonde-hair-878081534.md"
+}

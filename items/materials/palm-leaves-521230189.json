@@ -1,0 +1,87 @@
+{
+ "id": 521230189,
+ "name": "Palm Leaves",
+ "internalName": "Material_T6_PalmLeaves",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/521230189.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 palm leaves mat desc",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2670548968,
+   "name": "T6 Palm Leaf Roof",
+   "page": "items/buildtools/t6-palm-leaf-roof-2670548968.md",
+   "json": "items/buildtools/t6-palm-leaf-roof-2670548968.json"
+  },
+  {
+   "id": 2068629527,
+   "name": "Coffee Roastery",
+   "page": "items/buildtools/coffee-roastery-2068629527.md",
+   "json": "items/buildtools/coffee-roastery-2068629527.json"
+  },
+  {
+   "id": 4185580477,
+   "name": "Brewer",
+   "page": "items/buildtools/brewer-4185580477.md",
+   "json": "items/buildtools/brewer-4185580477.json"
+  },
+  {
+   "id": 2883918272,
+   "name": "Licuala Seedling",
+   "page": "items/buildtools/licuala-seedling-2883918272.md",
+   "json": "items/buildtools/licuala-seedling-2883918272.json"
+  },
+  {
+   "id": 1108421963,
+   "name": "Palm Leaf Basket",
+   "page": "items/buildtools/palm-leaf-basket-1108421963.md",
+   "json": "items/buildtools/palm-leaf-basket-1108421963.json"
+  },
+  {
+   "id": 675151487,
+   "name": "Bamboo Container I",
+   "page": "items/buildtools/bamboo-container-i-675151487.md",
+   "json": "items/buildtools/bamboo-container-i-675151487.json"
+  },
+  {
+   "id": 1343767117,
+   "name": "Bamboo Container II",
+   "page": "items/buildtools/bamboo-container-ii-1343767117.md",
+   "json": "items/buildtools/bamboo-container-ii-1343767117.json"
+  },
+  {
+   "id": 56166095,
+   "name": "T6 Bamboo Palm Leaf Umbrella",
+   "page": "items/buildtools/t6-bamboo-palm-leaf-umbrella-56166095.md",
+   "json": "items/buildtools/t6-bamboo-palm-leaf-umbrella-56166095.json"
+  },
+  {
+   "id": 694698355,
+   "name": "Small Bamboo Window I",
+   "page": "items/buildtools/small-bamboo-window-i-694698355.md",
+   "json": "items/buildtools/small-bamboo-window-i-694698355.json"
+  },
+  {
+   "id": 4182429771,
+   "name": "Bamboo Window III",
+   "page": "items/buildtools/bamboo-window-iii-4182429771.md",
+   "json": "items/buildtools/bamboo-window-iii-4182429771.json"
+  }
+ ],
+ "page": "items/materials/palm-leaves-521230189.md"
+}

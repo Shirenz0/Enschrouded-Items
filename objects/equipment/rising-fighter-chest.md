@@ -17,4 +17,4 @@ Light, polstered and ready to take a few hits - the perfect chest armor for a be
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](rising-fighter-chest.json)

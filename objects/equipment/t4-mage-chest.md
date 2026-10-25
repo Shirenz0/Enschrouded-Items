@@ -17,4 +17,4 @@ Died over many nights with deep cobalt coloring derived from nightblooms oversea
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-mage-chest.json)

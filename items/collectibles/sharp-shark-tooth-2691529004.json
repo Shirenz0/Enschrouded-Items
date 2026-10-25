@@ -1,0 +1,25 @@
+{
+ "id": 2691529004,
+ "name": "Sharp Shark Tooth",
+ "internalName": "Collection_fossils_04_SharkTeeth_sharkTooth_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2691529004.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A surprisingly sharp tooth from an aquatic being. It must've had quite an appetite to make use of such gigantic teeth!",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/sharp-shark-tooth-2691529004.md"
+}

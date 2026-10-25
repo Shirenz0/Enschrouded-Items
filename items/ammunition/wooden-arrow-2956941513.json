@@ -1,0 +1,49 @@
+{
+ "id": 2956941513,
+ "name": "Wooden Arrow",
+ "internalName": "Ammo_T0_Arrow_Wooden_Grassland_lvl3",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 3,
+  "max": 3
+ },
+ "maxStack": 500,
+ "image": "images/icons/2956941513.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Wooden Arrow made of the most basic ingredients.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 662847701,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/ammunition/wooden-arrow-2956941513.md"
+}

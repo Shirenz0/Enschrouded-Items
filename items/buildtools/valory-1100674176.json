@@ -1,0 +1,25 @@
+{
+ "id": 1100674176,
+ "name": "Valory",
+ "internalName": "NPC_Crafter_Bard01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "The adventuring Bard, Valory, carves instruments and shares exiting tales and knowledge she gathered from all corners of Embervale.",
+ "lore": "Survivor",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/valory-1100674176.md"
+}

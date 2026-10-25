@@ -17,4 +17,4 @@ Plain but sturdy sharpshooter gloves.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-archer-arms.json)

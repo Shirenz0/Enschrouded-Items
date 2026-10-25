@@ -1,0 +1,35 @@
+{
+ "name": "Vanity Outfit Sheep helmet",
+ "category": "Equipment",
+ "image": "images/icons/4045154450.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2461388514,
+   "name": "Vanity Outfit Sheep helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2461388514.png",
+   "page": "items/equipment/vanity-outfit-sheep-helmet-2461388514.md",
+   "json": "items/equipment/vanity-outfit-sheep-helmet-2461388514.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4045154450,
+   "name": "Vanity Outfit Sheep helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4045154450.png",
+   "page": "items/equipment/vanity-outfit-sheep-helmet-4045154450.md",
+   "json": "items/equipment/vanity-outfit-sheep-helmet-4045154450.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/vanity-outfit-sheep-helmet.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 3672772460,
+ "name": "Celestium/Improved Decay Tool",
+ "internalName": "Tool_Building_Decay_Improved",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3672772460.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A magical tool that allows you to fly while being capable of **adding and removing broken looking edges** to walls in your base. \n\nRequires to be **within the range of a Flame Altar** to work.",
+ "lore": null,
+ "whereToFind": "Crafting, Ancient Researcher",
+ "object": null,
+ "page": "items/blueprints/celestium-improved-decay-tool-3672772460.md"
+}

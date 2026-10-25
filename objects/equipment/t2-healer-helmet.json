@@ -1,0 +1,35 @@
+{
+ "name": "T2 Healer Helmet",
+ "category": "Equipment",
+ "image": "images/icons/628018019.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 4040241990,
+   "name": "T2 Healer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4040241990.png",
+   "page": "items/equipment/t2-healer-helmet-4040241990.md",
+   "json": "items/equipment/t2-healer-helmet-4040241990.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 628018019,
+   "name": "T2 Healer Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/628018019.png",
+   "page": "items/equipment/t2-healer-helmet-628018019.md",
+   "json": "items/equipment/t2-healer-helmet-628018019.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-healer-helmet.md"
+}

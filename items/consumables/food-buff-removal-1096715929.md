@@ -21,4 +21,4 @@ Removes all food buffs.
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](food-buff-removal-1096715929.json)

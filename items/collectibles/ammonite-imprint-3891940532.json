@@ -1,0 +1,25 @@
+{
+ "id": 3891940532,
+ "name": "Ammonite Imprint",
+ "internalName": "Collection_fossils_01_Ammonites_ammonite_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3891940532.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A stone with multiple large ammonite imprints. There's a mysterious spiralling shape on every side of it.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/ammonite-imprint-3891940532.md"
+}

@@ -32,4 +32,4 @@ A fire place that can be placed in your home to provide warmthto receive the Res
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](stone-fire-place-3677711018.json)

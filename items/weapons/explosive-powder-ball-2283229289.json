@@ -1,0 +1,100 @@
+{
+ "id": 2283229289,
+ "name": "Explosive Powder Ball",
+ "internalName": "Consumable_Grenade_Explosive_PowderBall_T1",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 20,
+ "image": "images/icons/2283229289.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A throwable explosive with astounding power!",
+ "lore": "Level 1 KABOOM!",
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 39651374,
+   "station": null,
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1714627847,
+      "name": "Tar",
+      "page": "items/materials/tar-1714627847.md",
+      "json": "items/materials/tar-1714627847.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 3316218728,
+       "name": "Plant Fibre",
+       "page": "items/materials/plant-fibre-3316218728.md",
+       "json": "items/materials/plant-fibre-3316218728.json"
+      },
+      {
+       "id": 1026141130,
+       "name": "Paper Reed",
+       "page": "items/materials/paper-reed-1026141130.md",
+       "json": "items/materials/paper-reed-1026141130.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4233298973,
+   "name": "Explosive Powderball Net",
+   "page": "items/weapons/explosive-powderball-net-4233298973.md",
+   "json": "items/weapons/explosive-powderball-net-4233298973.json"
+  }
+ ],
+ "page": "items/weapons/explosive-powder-ball-2283229289.md"
+}

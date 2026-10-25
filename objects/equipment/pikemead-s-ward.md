@@ -23,4 +23,4 @@ Even in death, the queen's shield unites those who seek protection behind it.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](pikemead-s-ward.json)

@@ -1,0 +1,68 @@
+{
+ "name": "Ranger Fog Protection Armor",
+ "category": "Equipment",
+ "image": "images/icons/935025760.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1184502832,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1184502832.png",
+   "page": "items/equipment/ranger-fog-protection-armor-1184502832.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1184502832.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1352959398,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1352959398.png",
+   "page": "items/equipment/ranger-fog-protection-armor-1352959398.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1352959398.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 13759280,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/13759280.png",
+   "page": "items/equipment/ranger-fog-protection-armor-13759280.md",
+   "json": "items/equipment/ranger-fog-protection-armor-13759280.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3038310088,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3038310088.png",
+   "page": "items/equipment/ranger-fog-protection-armor-3038310088.md",
+   "json": "items/equipment/ranger-fog-protection-armor-3038310088.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 935025760,
+   "name": "Ranger Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/935025760.png",
+   "page": "items/equipment/ranger-fog-protection-armor-935025760.md",
+   "json": "items/equipment/ranger-fog-protection-armor-935025760.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/ranger-fog-protection-armor.md"
+}

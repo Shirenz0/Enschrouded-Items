@@ -1,0 +1,25 @@
+{
+ "id": 2414905485,
+ "name": "Elevated Sea Urchin",
+ "internalName": "Collection_fossils_05_urchins_urchin_03",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2414905485.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This sea urchin sits atop a small platform and is too delicate to attempt removal.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/elevated-sea-urchin-2414905485.md"
+}

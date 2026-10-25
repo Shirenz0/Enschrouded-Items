@@ -30,4 +30,4 @@ Smelter
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](bronze-bars-642002617.json)

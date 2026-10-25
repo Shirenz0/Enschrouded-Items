@@ -1,0 +1,52 @@
+{
+ "id": 2698582898,
+ "name": "Cultivation Rack",
+ "internalName": "Prop_Collection_15_Ancients_Cultivation_Showcase_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2698582898.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Up to 3 ancient plant pots can be placed in this decorative cultivation rack.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 847170515,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 885155884,
+      "name": "T7 material stone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/cultivation-rack-2698582898.md"
+}

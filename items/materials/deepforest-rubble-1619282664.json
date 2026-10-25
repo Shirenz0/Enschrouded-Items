@@ -1,0 +1,61 @@
+{
+ "id": 1619282664,
+ "name": "Deepforest Rubble",
+ "internalName": "Build_TerrainMaterial_T2_Deepforest_Rubble",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/1619282664.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "mix of materials, mainly stones and dirt",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 799719495,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1257792166,
+      "name": "Rubble",
+      "page": "items/materials/rubble-1257792166.md",
+      "json": "items/materials/rubble-1257792166.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3937186197,
+      "name": "Deep Forest Dirt",
+      "page": "items/materials/deep-forest-dirt-3937186197.md",
+      "json": "items/materials/deep-forest-dirt-3937186197.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1181280513,
+      "name": "Deepforest Stone",
+      "page": "items/materials/deepforest-stone-1181280513.md",
+      "json": "items/materials/deepforest-stone-1181280513.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/deepforest-rubble-1619282664.md"
+}

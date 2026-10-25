@@ -1,0 +1,69 @@
+{
+ "id": 1225142754,
+ "name": "T2 Lore Armor Fogger Boots",
+ "internalName": "Armor_T2_MultiClass_FogPowered_Boots_ministory_13",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1225142754.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Boots of an elixir infused armor set",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max Shroud Survivability",
+    "value": -60000,
+    "display": "-60,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  },
+  {
+   "order": 2,
+   "name": "+1 Iceman",
+   "effect": "Increases the skill level of Iceman by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Eagle's Bane",
+   "effect": "Increases the skill level of Eagle's Bane by +1"
+  }
+ ],
+ "page": "items/equipment/t2-lore-armor-fogger-boots-1225142754.md"
+}

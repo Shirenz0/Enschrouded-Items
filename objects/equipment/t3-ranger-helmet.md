@@ -17,4 +17,4 @@ Remain unseen and strike from the shadows with this formidable archer's hood.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-ranger-helmet.json)

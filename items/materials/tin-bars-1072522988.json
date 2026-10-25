@@ -1,0 +1,247 @@
+{
+ "id": 1072522988,
+ "name": "Tin Bars",
+ "internalName": "Material_T3_Tin_Bars",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/1072522988.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A metal used to create bronze which can be found in the steppes.",
+ "lore": null,
+ "whereToFind": "Smelter",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2120126255,
+   "station": "Blast Furnace",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 3749540900,
+      "name": "Tin Ore",
+      "page": "items/materials/tin-ore-3749540900.md",
+      "json": "items/materials/tin-ore-3749540900.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  },
+  {
+   "recipeId": 3170636320,
+   "station": "Smelter",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3749540900,
+      "name": "Tin Ore",
+      "page": "items/materials/tin-ore-3749540900.md",
+      "json": "items/materials/tin-ore-3749540900.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 64945064,
+   "name": "Metal Water Dispenser I",
+   "page": "items/buildtools/metal-water-dispenser-i-64945064.md",
+   "json": "items/buildtools/metal-water-dispenser-i-64945064.json"
+  },
+  {
+   "id": 1203301438,
+   "name": "T3 Eternal Chain Heal I",
+   "page": "items/ammunition/t3-eternal-chain-heal-i-1203301438.md",
+   "json": "items/ammunition/t3-eternal-chain-heal-i-1203301438.json"
+  },
+  {
+   "id": 632849243,
+   "name": "T3 Ice Totem I",
+   "page": "items/ammunition/t3-ice-totem-i-632849243.md",
+   "json": "items/ammunition/t3-ice-totem-i-632849243.json"
+  },
+  {
+   "id": 1735403844,
+   "name": "T3 Ball Lightning",
+   "page": "items/ammunition/t3-ball-lightning-1735403844.md",
+   "json": "items/ammunition/t3-ball-lightning-1735403844.json"
+  },
+  {
+   "id": 4044132453,
+   "name": "T3 Shock Totem I",
+   "page": "items/ammunition/t3-shock-totem-i-4044132453.md",
+   "json": "items/ammunition/t3-shock-totem-i-4044132453.json"
+  },
+  {
+   "id": 1100793430,
+   "name": "T3 Entangle II",
+   "page": "items/ammunition/t3-entangle-ii-1100793430.md",
+   "json": "items/ammunition/t3-entangle-ii-1100793430.json"
+  },
+  {
+   "id": 642002617,
+   "name": "Bronze Bars",
+   "page": "items/materials/bronze-bars-642002617.md",
+   "json": "items/materials/bronze-bars-642002617.json"
+  },
+  {
+   "id": 2352034665,
+   "name": "Dragon Sword",
+   "page": "items/weapons/dragon-sword-2352034665.md",
+   "json": "items/weapons/dragon-sword-2352034665.json"
+  },
+  {
+   "id": 2108531401,
+   "name": "Stormshield",
+   "page": "items/equipment/stormshield-2108531401.md",
+   "json": "items/equipment/stormshield-2108531401.json"
+  },
+  {
+   "id": 1873675161,
+   "name": "Valor Heart Dagger",
+   "page": "items/weapons/valor-heart-dagger-1873675161.md",
+   "json": "items/weapons/valor-heart-dagger-1873675161.json"
+  },
+  {
+   "id": 1343375854,
+   "name": "Shroud Weaver",
+   "page": "items/weapons/shroud-weaver-1343375854.md",
+   "json": "items/weapons/shroud-weaver-1343375854.json"
+  },
+  {
+   "id": 3800404508,
+   "name": "T3 DPS Chest",
+   "page": "items/equipment/t3-dps-chest-3800404508.md",
+   "json": "items/equipment/t3-dps-chest-3800404508.json"
+  },
+  {
+   "id": 3255447356,
+   "name": "T3 DPS Helmet",
+   "page": "items/equipment/t3-dps-helmet-3255447356.md",
+   "json": "items/equipment/t3-dps-helmet-3255447356.json"
+  },
+  {
+   "id": 2793515653,
+   "name": "T3 Healer Chest",
+   "page": "items/equipment/t3-healer-chest-2793515653.md",
+   "json": "items/equipment/t3-healer-chest-2793515653.json"
+  },
+  {
+   "id": 1847071028,
+   "name": "T3 Mage Boots",
+   "page": "items/equipment/t3-mage-boots-1847071028.md",
+   "json": "items/equipment/t3-mage-boots-1847071028.json"
+  },
+  {
+   "id": 4045860943,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-4045860943.md",
+   "json": "items/equipment/mage-fog-protection-armor-4045860943.json"
+  },
+  {
+   "id": 383069883,
+   "name": "T3 Ranger Arms",
+   "page": "items/equipment/t3-ranger-arms-383069883.md",
+   "json": "items/equipment/t3-ranger-arms-383069883.json"
+  },
+  {
+   "id": 1352959398,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-1352959398.md",
+   "json": "items/equipment/ranger-fog-protection-armor-1352959398.json"
+  },
+  {
+   "id": 905258707,
+   "name": "T3 Archer Boots",
+   "page": "items/equipment/t3-archer-boots-905258707.md",
+   "json": "items/equipment/t3-archer-boots-905258707.json"
+  },
+  {
+   "id": 2173083844,
+   "name": "T3 Tank Chest",
+   "page": "items/equipment/t3-tank-chest-2173083844.md",
+   "json": "items/equipment/t3-tank-chest-2173083844.json"
+  },
+  {
+   "id": 1221959339,
+   "name": "T3 Tank Helmet",
+   "page": "items/equipment/t3-tank-helmet-1221959339.md",
+   "json": "items/equipment/t3-tank-helmet-1221959339.json"
+  },
+  {
+   "id": 3354677077,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-3354677077.md",
+   "json": "items/equipment/warrior-fog-protection-armor-3354677077.json"
+  },
+  {
+   "id": 3918198601,
+   "name": "Spike trap",
+   "page": "items/buildtools/spike-trap-3918198601.md",
+   "json": "items/buildtools/spike-trap-3918198601.json"
+  },
+  {
+   "id": 2647145060,
+   "name": "Trapdoor metal 4m",
+   "page": "items/buildtools/trapdoor-metal-4m-2647145060.md",
+   "json": "items/buildtools/trapdoor-metal-4m-2647145060.json"
+  },
+  {
+   "id": 1985271250,
+   "name": "Trapdoor metal 2m",
+   "page": "items/buildtools/trapdoor-metal-2m-1985271250.md",
+   "json": "items/buildtools/trapdoor-metal-2m-1985271250.json"
+  }
+ ],
+ "page": "items/materials/tin-bars-1072522988.md"
+}

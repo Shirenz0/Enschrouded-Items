@@ -17,4 +17,4 @@ An electrifying wand that was previously used to start engines and machinery in 
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](electric-initialiser.json)

@@ -33,4 +33,4 @@ Collect multiple Cyclops Heads to craft the Trophy.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](boss-trophy-cyclops-2846600790.json)

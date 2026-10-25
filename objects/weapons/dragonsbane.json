@@ -1,0 +1,60 @@
+{
+ "name": "Dragonsbane",
+ "category": "Weapons",
+ "image": "images/icons/729789776.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 1608083210,
+   "name": "Dragonsbane",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/1608083210.png",
+   "page": "items/weapons/dragonsbane-1608083210.md",
+   "json": "items/weapons/dragonsbane-1608083210.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2688480639,
+   "name": "Dragonsbane",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2688480639.png",
+   "page": "items/weapons/dragonsbane-2688480639.md",
+   "json": "items/weapons/dragonsbane-2688480639.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2594618935,
+   "name": "Dragonsbane",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/2594618935.png",
+   "page": "items/weapons/dragonsbane-2594618935.md",
+   "json": "items/weapons/dragonsbane-2594618935.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 729789776,
+   "name": "Dragonsbane",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/729789776.png",
+   "page": "items/weapons/dragonsbane-729789776.md",
+   "json": "items/weapons/dragonsbane-729789776.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/dragonsbane.md"
+}

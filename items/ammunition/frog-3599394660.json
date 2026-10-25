@@ -1,0 +1,36 @@
+{
+ "id": 3599394660,
+ "name": "Frog",
+ "internalName": "Material_T6_Frogs_FishingBait",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/3599394660.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "frogs, used for fish bait t6 desc",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "usedToMake": [
+  {
+   "id": 471470231,
+   "name": "Epic Fishing Bait I",
+   "page": "items/ammunition/epic-fishing-bait-i-471470231.md",
+   "json": "items/ammunition/epic-fishing-bait-i-471470231.json"
+  }
+ ],
+ "page": "items/ammunition/frog-3599394660.md"
+}

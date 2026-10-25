@@ -1,0 +1,93 @@
+{
+ "id": 267668454,
+ "name": "Night Desert Flower",
+ "internalName": "Material_T4_Night_DesertFlower",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/267668454.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Night deser flower - used to produce bright yellow color",
+ "lore": null,
+ "whereToFind": "Kindlewastes, night",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2661195564,
+   "name": "T4 Nightplant Wrap",
+   "page": "items/consumables/t4-nightplant-wrap-2661195564.md",
+   "json": "items/consumables/t4-nightplant-wrap-2661195564.json"
+  },
+  {
+   "id": 1196255924,
+   "name": "Revilalizing Health Potion improved",
+   "page": "items/consumables/revilalizing-health-potion-improved-1196255924.md",
+   "json": "items/consumables/revilalizing-health-potion-improved-1196255924.json"
+  },
+  {
+   "id": 289913176,
+   "name": "T4 Eternal Mana Leech Beam V",
+   "page": "items/ammunition/t4-eternal-mana-leech-beam-v-289913176.md",
+   "json": "items/ammunition/t4-eternal-mana-leech-beam-v-289913176.json"
+  },
+  {
+   "id": 3413443507,
+   "name": "T4 Assassin Legs",
+   "page": "items/equipment/t4-assassin-legs-3413443507.md",
+   "json": "items/equipment/t4-assassin-legs-3413443507.json"
+  },
+  {
+   "id": 1192801048,
+   "name": "T4 BattleMage Helmet",
+   "page": "items/equipment/t4-battlemage-helmet-1192801048.md",
+   "json": "items/equipment/t4-battlemage-helmet-1192801048.json"
+  },
+  {
+   "id": 3091686369,
+   "name": "T4 DPS Helmet",
+   "page": "items/equipment/t4-dps-helmet-3091686369.md",
+   "json": "items/equipment/t4-dps-helmet-3091686369.json"
+  },
+  {
+   "id": 1791031659,
+   "name": "T4 Healer Arms",
+   "page": "items/equipment/t4-healer-arms-1791031659.md",
+   "json": "items/equipment/t4-healer-arms-1791031659.json"
+  },
+  {
+   "id": 1953528963,
+   "name": "T4 Mage Boots",
+   "page": "items/equipment/t4-mage-boots-1953528963.md",
+   "json": "items/equipment/t4-mage-boots-1953528963.json"
+  },
+  {
+   "id": 3486210573,
+   "name": "T4 Ranger Boots",
+   "page": "items/equipment/t4-ranger-boots-3486210573.md",
+   "json": "items/equipment/t4-ranger-boots-3486210573.json"
+  },
+  {
+   "id": 345073573,
+   "name": "T4 sniper boots",
+   "page": "items/equipment/t4-sniper-boots-345073573.md",
+   "json": "items/equipment/t4-sniper-boots-345073573.json"
+  },
+  {
+   "id": 3856381953,
+   "name": "T4 Tank Legs",
+   "page": "items/equipment/t4-tank-legs-3856381953.md",
+   "json": "items/equipment/t4-tank-legs-3856381953.json"
+  }
+ ],
+ "page": "items/materials/night-desert-flower-267668454.md"
+}

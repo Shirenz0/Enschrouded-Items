@@ -1,0 +1,71 @@
+{
+ "id": 1191002021,
+ "name": "T2 Ranger Helmet",
+ "internalName": "Armor_T2_Ranger_Archer_DPS_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1191002021.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hood that provides additonal protcetion from the sun, allowing you to focus your gaze undisturbed.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-ranger-helmet.md",
+  "json": "objects/equipment/t2-ranger-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Critical Strike Chance Ranged",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Puncture",
+   "effect": "Increases the skill level of Puncture by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+6 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "page": "items/equipment/t2-ranger-helmet-1191002021.md"
+}

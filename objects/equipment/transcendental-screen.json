@@ -1,0 +1,35 @@
+{
+ "name": "Transcendental Screen",
+ "category": "Equipment",
+ "image": "images/icons/3490852408.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2821143924,
+   "name": "Transcendental Screen",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2821143924.png",
+   "page": "items/equipment/transcendental-screen-2821143924.md",
+   "json": "items/equipment/transcendental-screen-2821143924.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3490852408,
+   "name": "Transcendental Screen",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3490852408.png",
+   "page": "items/equipment/transcendental-screen-3490852408.md",
+   "json": "items/equipment/transcendental-screen-3490852408.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/transcendental-screen.md"
+}

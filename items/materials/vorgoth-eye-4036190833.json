@@ -1,0 +1,51 @@
+{
+ "id": 4036190833,
+ "name": "Vorgoth Eye",
+ "internalName": "_Material_TX_Trophy_Vorgoth_Eye_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/4036190833.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "crazy huge vorgoth corrupted eye",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2903890683,
+   "name": "Gold Vorgoth Eye Trophy",
+   "page": "items/buildtools/gold-vorgoth-eye-trophy-2903890683.md",
+   "json": "items/buildtools/gold-vorgoth-eye-trophy-2903890683.json"
+  },
+  {
+   "id": 3043171452,
+   "name": "Iron Vorgoth Eye Trophy",
+   "page": "items/buildtools/iron-vorgoth-eye-trophy-3043171452.md",
+   "json": "items/buildtools/iron-vorgoth-eye-trophy-3043171452.json"
+  },
+  {
+   "id": 3943343867,
+   "name": "Bronze Vorgoth Eye Trophy",
+   "page": "items/buildtools/bronze-vorgoth-eye-trophy-3943343867.md",
+   "json": "items/buildtools/bronze-vorgoth-eye-trophy-3943343867.json"
+  },
+  {
+   "id": 3568382178,
+   "name": "Vorgoth Eye Trophy",
+   "page": "items/buildtools/vorgoth-eye-trophy-3568382178.md",
+   "json": "items/buildtools/vorgoth-eye-trophy-3568382178.json"
+  }
+ ],
+ "page": "items/materials/vorgoth-eye-4036190833.md"
+}

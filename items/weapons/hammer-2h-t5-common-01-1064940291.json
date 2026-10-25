@@ -1,0 +1,72 @@
+{
+ "id": 1064940291,
+ "name": "Hammer 2H T5 common 01",
+ "internalName": "Weapon_T5_2H_Hammer_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/1064940291.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hammer  2H  T5 common  01 desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Brutal",
+   "effect": "+20 Brutal"
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Brutal",
+   "effect": "+20 Brutal"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+20 Brutal"
+  }
+ ],
+ "page": "items/weapons/hammer-2h-t5-common-01-1064940291.md"
+}

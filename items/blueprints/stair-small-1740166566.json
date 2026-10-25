@@ -1,0 +1,29 @@
+{
+ "id": 1740166566,
+ "name": "Stair Small",
+ "internalName": "Blueprint_Voxel_Block_Wood_Stair_2m",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/stair-small.md",
+  "json": "objects/blueprints/stair-small.json",
+  "versions": 4
+ },
+ "page": "items/blueprints/stair-small-1740166566.md"
+}

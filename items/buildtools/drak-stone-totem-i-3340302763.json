@@ -1,0 +1,29 @@
+{
+ "id": 3340302763,
+ "name": "Drak Stone Totem I",
+ "internalName": "Prop_Decoration_T6_Wetland_King_Statue",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3340302763.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/drak-stone-totem-i.md",
+  "json": "objects/buildtools/drak-stone-totem-i.json",
+  "versions": 2
+ },
+ "page": "items/buildtools/drak-stone-totem-i-3340302763.md"
+}

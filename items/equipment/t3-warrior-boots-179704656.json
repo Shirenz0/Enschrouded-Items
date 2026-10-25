@@ -1,0 +1,73 @@
+{
+ "id": 179704656,
+ "name": "T3 Warrior Boots",
+ "internalName": "Armor_T3_Warrior_Rogue_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/179704656.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A knight's boots. They've seen much peril and anguish.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -300,
+    "display": "-0.3 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Finesse",
+   "effect": "Increases the skill level of Finesse by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Warrior's Path",
+   "effect": "Increases the skill level of Warrior's Path by +1"
+  }
+ ],
+ "page": "items/equipment/t3-warrior-boots-179704656.md"
+}

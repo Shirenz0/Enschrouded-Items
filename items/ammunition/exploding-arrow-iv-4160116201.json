@@ -1,0 +1,76 @@
+{
+ "id": 4160116201,
+ "name": "Exploding Arrow IV",
+ "internalName": "Ammo_T7_Arrow_Explosive_lvl50",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 50,
+  "max": 50
+ },
+ "maxStack": 500,
+ "image": "images/icons/4160116201.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An arrow that delivers an explosive surprise.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Fire": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 397795407,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 1422216404,
+      "name": "Flint Arrow",
+      "page": "items/ammunition/flint-arrow-1422216404.md",
+      "json": "items/ammunition/flint-arrow-1422216404.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3838906683,
+      "name": "Feather",
+      "page": "items/materials/feather-3838906683.md",
+      "json": "items/materials/feather-3838906683.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1828629573,
+      "name": "Black Powder",
+      "page": "items/materials/black-powder-1828629573.md",
+      "json": "items/materials/black-powder-1828629573.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/exploding-arrow-iv-4160116201.md"
+}

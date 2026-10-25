@@ -1,0 +1,53 @@
+{
+ "id": 3646522155,
+ "name": "Talltree Table Large",
+ "internalName": "Prop_Decoration_Comfort3_T2_Table_TallTree_Large",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3646522155.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative item that can be placed in your home.\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Table",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1539007137,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 1745782985,
+      "name": "Blackmire Heartwood",
+      "page": "items/materials/blackmire-heartwood-1745782985.md",
+      "json": "items/materials/blackmire-heartwood-1745782985.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/talltree-table-large-3646522155.md"
+}

@@ -1,0 +1,107 @@
+{
+ "id": 780965247,
+ "name": "T7 Ice Bolt IV",
+ "internalName": "Ammo_T7_Spell_Ice_Bolt_lvl47",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 47,
+  "max": 47
+ },
+ "maxStack": 500,
+ "image": "images/icons/780965247.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates an icy projectile that deals damage in an area and applies a slow debuff.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 186,
+    "display": "186",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1000,
+    "display": "1 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 200,
+    "display": "200",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 14000,
+    "display": "14 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 80,
+    "display": "80",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1772344892,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 4199799645,
+      "name": "T5 Ice",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3553538325,
+      "name": "Wildbeast Scales (Scorpion and maybe SandDigger)",
+      "page": "items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.md",
+      "json": "items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1144190206,
+   "name": "T7 Eternal Ice Bolt IV",
+   "page": "items/ammunition/t7-eternal-ice-bolt-iv-1144190206.md",
+   "json": "items/ammunition/t7-eternal-ice-bolt-iv-1144190206.json"
+  }
+ ],
+ "page": "items/ammunition/t7-ice-bolt-iv-780965247.md"
+}

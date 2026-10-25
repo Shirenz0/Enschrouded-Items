@@ -1,0 +1,58 @@
+{
+ "name": "Large Bamboo Basket",
+ "category": "BuildTools",
+ "image": "images/icons/3541979658.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1506922480,
+   "name": "Large Bamboo Basket",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1506922480.png",
+   "page": "items/buildtools/large-bamboo-basket-1506922480.md",
+   "json": "items/buildtools/large-bamboo-basket-1506922480.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2694217922,
+   "name": "Large Bamboo Basket",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2694217922.png",
+   "page": "items/buildtools/large-bamboo-basket-2694217922.md",
+   "json": "items/buildtools/large-bamboo-basket-2694217922.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2867139849,
+   "name": "Large Bamboo Basket",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2867139849.png",
+   "page": "items/buildtools/large-bamboo-basket-2867139849.md",
+   "json": "items/buildtools/large-bamboo-basket-2867139849.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 3541979658,
+   "name": "Large Bamboo Basket",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3541979658.png",
+   "page": "items/buildtools/large-bamboo-basket-3541979658.md",
+   "json": "items/buildtools/large-bamboo-basket-3541979658.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/large-bamboo-basket.md"
+}

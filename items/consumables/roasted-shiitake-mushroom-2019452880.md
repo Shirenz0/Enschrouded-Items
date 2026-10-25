@@ -32,4 +32,4 @@ Cooking Station
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](roasted-shiitake-mushroom-2019452880.json)

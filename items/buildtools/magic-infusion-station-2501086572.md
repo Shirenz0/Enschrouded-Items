@@ -29,4 +29,4 @@ Crafting, Ancient Researcher
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](magic-infusion-station-2501086572.json)

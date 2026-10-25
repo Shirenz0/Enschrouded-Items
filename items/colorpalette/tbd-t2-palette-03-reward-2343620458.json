@@ -1,0 +1,70 @@
+{
+ "id": 2343620458,
+ "name": "Tbd T2 Palette 03 Reward",
+ "internalName": "ColorPalette_T2_ColorPalette_Reward_03",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2343620458.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "tbd T2 Palette 03 reward description",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1387030010,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3509012331,
+      "name": "Mycelium",
+      "page": "items/materials/mycelium-3509012331.md",
+      "json": "items/materials/mycelium-3509012331.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2201448182,
+      "name": "Moth",
+      "page": "items/ammunition/moth-2201448182.md",
+      "json": "items/ammunition/moth-2201448182.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2617088387,
+      "name": "T2 Green Essence",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/tbd-t2-palette-03-reward-2343620458.md"
+}

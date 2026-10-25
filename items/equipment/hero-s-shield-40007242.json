@@ -1,0 +1,103 @@
+{
+ "id": 40007242,
+ "name": "Hero's Shield",
+ "internalName": "Shield_T2_DPS",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/40007242.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This basic shield allows you to **block** physical attacks. Blocking drains Stamina.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/hero-s-shield.md",
+  "json": "objects/equipment/hero-s-shield.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  },
+  {
+   "order": 3,
+   "name": "+1 Opportunity",
+   "effect": "Increases the skill level of Opportunity by +1"
+  },
+  {
+   "order": 4,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Bash",
+   "effect": "Increases the skill level of Bash by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 4154779105,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/hero-s-shield-40007242.md"
+}

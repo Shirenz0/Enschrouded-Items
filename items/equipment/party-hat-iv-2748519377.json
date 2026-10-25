@@ -1,0 +1,55 @@
+{
+ "id": 2748519377,
+ "name": "Party Hat IV",
+ "internalName": "Vanity_TX_PartyHat_04_Tint_WIP",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2748519377.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Party Hat Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Head"
+ },
+ "recipes": [
+  {
+   "recipeId": 835726043,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3436629486,
+      "name": "Yellow Fabric",
+      "page": "items/materials/yellow-fabric-3436629486.md",
+      "json": "items/materials/yellow-fabric-3436629486.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/party-hat-iv-2748519377.md"
+}

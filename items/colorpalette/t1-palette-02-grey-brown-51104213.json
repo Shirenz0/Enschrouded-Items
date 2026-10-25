@@ -1,0 +1,70 @@
+{
+ "id": 51104213,
+ "name": "T1 Palette 02 Grey Brown",
+ "internalName": "ColorPalette_T1_ColorPalette_02",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/51104213.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "different shades of green",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4054565957,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4230023681,
+      "name": "Coal Powder",
+      "page": "items/materials/coal-powder-4230023681.md",
+      "json": "items/materials/coal-powder-4230023681.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 600862405,
+      "name": "Penny Bun",
+      "page": "items/consumables/penny-bun-600862405.md",
+      "json": "items/consumables/penny-bun-600862405.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 860644516,
+      "name": "Fog Liquid",
+      "page": "items/materials/fog-liquid-860644516.md",
+      "json": "items/materials/fog-liquid-860644516.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t1-palette-02-grey-brown-51104213.md"
+}

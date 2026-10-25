@@ -1,0 +1,61 @@
+{
+ "id": 2260715396,
+ "name": "Big Yellow Wall Banner",
+ "internalName": "Prop_Decoration_T5_Banner_Wall_yellow_big",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2260715396.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 840692169,
+   "station": "Bard",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 2837376937,
+      "name": "Wool",
+      "page": "items/materials/wool-2837376937.md",
+      "json": "items/materials/wool-2837376937.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3436629486,
+      "name": "Yellow Fabric",
+      "page": "items/materials/yellow-fabric-3436629486.md",
+      "json": "items/materials/yellow-fabric-3436629486.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-yellow-wall-banner-2260715396.md"
+}

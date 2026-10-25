@@ -1,0 +1,67 @@
+{
+ "id": 3761680048,
+ "name": "Fog Arrow",
+ "internalName": "Ammo_T2_Arrow_Fog_lvl15",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 500,
+ "image": "images/icons/3761680048.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "If you can't beat them, join them. This arrow uses the power of the Shroud and disperses a cloud of Shroud upon impact.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Shroud": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 1463268641,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1798662696,
+      "name": "Twig",
+      "page": "items/materials/twig-1798662696.md",
+      "json": "items/materials/twig-1798662696.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1728169696,
+      "name": "Fog Sack",
+      "page": "items/materials/fog-sack-1728169696.md",
+      "json": "items/materials/fog-sack-1728169696.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/fog-arrow-3761680048.md"
+}

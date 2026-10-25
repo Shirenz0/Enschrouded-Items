@@ -1,0 +1,52 @@
+{
+ "id": 3575022075,
+ "name": "T6 Shelllime Wall Block Foundation",
+ "internalName": "Block_T6_Stone_Shelllime_Castle_wall_Foundation",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3575022075.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T6 Shelllime Wall Block Foundation description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 277565910,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3865976041,
+      "name": "T5 Material Granite",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/t6-shelllime-wall-block-foundation-3575022075.md"
+}

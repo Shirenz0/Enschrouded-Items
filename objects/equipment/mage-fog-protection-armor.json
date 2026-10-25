@@ -1,0 +1,68 @@
+{
+ "name": "Mage Fog Protection Armor",
+ "category": "Equipment",
+ "image": "images/icons/4103714612.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1096990380,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1096990380.png",
+   "page": "items/equipment/mage-fog-protection-armor-1096990380.md",
+   "json": "items/equipment/mage-fog-protection-armor-1096990380.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1559741302,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1559741302.png",
+   "page": "items/equipment/mage-fog-protection-armor-1559741302.md",
+   "json": "items/equipment/mage-fog-protection-armor-1559741302.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2746111440,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2746111440.png",
+   "page": "items/equipment/mage-fog-protection-armor-2746111440.md",
+   "json": "items/equipment/mage-fog-protection-armor-2746111440.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4045860943,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4045860943.png",
+   "page": "items/equipment/mage-fog-protection-armor-4045860943.md",
+   "json": "items/equipment/mage-fog-protection-armor-4045860943.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4103714612,
+   "name": "Mage Fog Protection Armor",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/4103714612.png",
+   "page": "items/equipment/mage-fog-protection-armor-4103714612.md",
+   "json": "items/equipment/mage-fog-protection-armor-4103714612.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/mage-fog-protection-armor.md"
+}

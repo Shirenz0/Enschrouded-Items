@@ -17,4 +17,4 @@ No matter how they may tear and wear, these pants can always be patched up again
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-dps-legs.json)

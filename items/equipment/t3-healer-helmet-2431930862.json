@@ -1,0 +1,77 @@
+{
+ "id": 2431930862,
+ "name": "T3 Healer Helmet",
+ "internalName": "Armor_T3_Mage_Healer_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2431930862.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Healing others is suprisingly hard when you can't actually see them.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t3-healer-helmet.md",
+  "json": "objects/equipment/t3-healer-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Revive Duration",
+    "value": -800,
+    "display": "-0.8 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+12 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Shroud Filter",
+   "effect": "Increases the skill level of Shroud Filter by +1"
+  }
+ ],
+ "page": "items/equipment/t3-healer-helmet-2431930862.md"
+}

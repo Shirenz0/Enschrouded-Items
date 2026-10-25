@@ -134,4 +134,4 @@
 | <img src="../images/categories/customization.svg" width="48"> | [Male Waist 01](../items/customization/male-waist-01-2661144551.md) | ⚪ Common | - | 1 |
 | <img src="../images/categories/customization.svg" width="48"> | [Male Waist 01](../items/customization/male-waist-01-2802713006.md) | ⚪ Common | - | 1 |
 
-[← All categories](../README.md)
+[← All categories](../README.md) · [JSON](customization.json)

@@ -1,0 +1,35 @@
+{
+ "name": "T4 Assassin Chest",
+ "category": "Equipment",
+ "image": "images/icons/2802395209.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1124346105,
+   "name": "T4 Assassin Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1124346105.png",
+   "page": "items/equipment/t4-assassin-chest-1124346105.md",
+   "json": "items/equipment/t4-assassin-chest-1124346105.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2802395209,
+   "name": "T4 Assassin Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2802395209.png",
+   "page": "items/equipment/t4-assassin-chest-2802395209.md",
+   "json": "items/equipment/t4-assassin-chest-2802395209.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-assassin-chest.md"
+}

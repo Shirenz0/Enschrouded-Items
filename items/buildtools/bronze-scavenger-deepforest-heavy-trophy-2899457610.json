@@ -1,0 +1,35 @@
+{
+ "id": 2899457610,
+ "name": "Bronze Scavenger Deepforest Heavy Trophy",
+ "internalName": "_Prop_Decoration_Boss_Trophy_Scavenger_Deepforest_Heavy_02_bronze",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 10,
+ "image": "images/icons/2899457610.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A severed Scavenger Deepforest HeavyHead. Collect multiple to craft the bronze trophy",
+ "lore": "Comfort - Trophy",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Trophy",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/buildtools/bronze-scavenger-deepforest-heavy-trophy-2899457610.md"
+}

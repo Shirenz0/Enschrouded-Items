@@ -1,0 +1,55 @@
+{
+ "name": "Crotch Male 01",
+ "category": "Customization",
+ "image": null,
+ "versions": 4,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1406146665,
+   "name": "Crotch Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/crotch-male-01-1406146665.md",
+   "json": "items/customization/crotch-male-01-1406146665.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2817960290,
+   "name": "Crotch Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/crotch-male-01-2817960290.md",
+   "json": "items/customization/crotch-male-01-2817960290.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3590450839,
+   "name": "Crotch Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/crotch-male-01-3590450839.md",
+   "json": "items/customization/crotch-male-01-3590450839.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 763396668,
+   "name": "Crotch Male 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/customization/crotch-male-01-763396668.md",
+   "json": "items/customization/crotch-male-01-763396668.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/customization/crotch-male-01.md"
+}

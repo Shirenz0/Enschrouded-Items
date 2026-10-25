@@ -1,0 +1,25 @@
+{
+ "id": 1536371128,
+ "name": "Flame Essence",
+ "internalName": "Material_T1_Flame_Essence_Spark",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1536371128.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A small amount of essence from the flame! By feeding it back to the **flame altar** maybe it could become stronger and burn even brighter.",
+ "lore": null,
+ "whereToFind": "Flame Shrine or Sanctum",
+ "object": null,
+ "page": "items/materials/flame-essence-1536371128.md"
+}

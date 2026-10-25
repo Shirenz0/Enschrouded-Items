@@ -17,4 +17,4 @@ Padded trousers which have been carefully stitched at the seams.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-tank-legs.json)

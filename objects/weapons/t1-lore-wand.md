@@ -23,4 +23,4 @@ T1 lore wand
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](t1-lore-wand.json)

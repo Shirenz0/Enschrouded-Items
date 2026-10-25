@@ -1,0 +1,76 @@
+{
+ "name": "White Flower Pot",
+ "category": "BuildTools",
+ "image": "images/icons/3367211688.png",
+ "versions": 5,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 120176694,
+   "name": "White Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/120176694.png",
+   "page": "items/buildtools/white-flower-pot-120176694.md",
+   "json": "items/buildtools/white-flower-pot-120176694.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2140221206,
+   "name": "White Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2140221206.png",
+   "page": "items/buildtools/white-flower-pot-2140221206.md",
+   "json": "items/buildtools/white-flower-pot-2140221206.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 2204868420,
+   "name": "White Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2204868420.png",
+   "page": "items/buildtools/white-flower-pot-2204868420.md",
+   "json": "items/buildtools/white-flower-pot-2204868420.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2557793336,
+   "name": "White Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2557793336.png",
+   "page": "items/buildtools/white-flower-pot-2557793336.md",
+   "json": "items/buildtools/white-flower-pot-2557793336.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  },
+  {
+   "id": 3367211688,
+   "name": "White Flower Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3367211688.png",
+   "page": "items/buildtools/white-flower-pot-3367211688.md",
+   "json": "items/buildtools/white-flower-pot-3367211688.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/white-flower-pot.md"
+}

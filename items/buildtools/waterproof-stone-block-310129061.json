@@ -1,0 +1,52 @@
+{
+ "id": 310129061,
+ "name": "Waterproof Stone Block",
+ "internalName": "Block_T4_Dungeon_Stone_WellWall_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/310129061.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Bathed in waterproofing liquids, this stone block is mostly used for water storage.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1619058200,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 860644516,
+      "name": "Fog Liquid",
+      "page": "items/materials/fog-liquid-860644516.md",
+      "json": "items/materials/fog-liquid-860644516.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/waterproof-stone-block-310129061.md"
+}

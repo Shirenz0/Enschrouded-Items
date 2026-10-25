@@ -25,4 +25,4 @@ Place this anchor to your buildings. Requires a Grappling Hook to navigate.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](grappling-hook-swing-anchor-996907151.json)

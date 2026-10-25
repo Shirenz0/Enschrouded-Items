@@ -1,0 +1,92 @@
+{
+ "id": 609216940,
+ "name": "Ancient Health Potion",
+ "internalName": "Consumable_Potion_Health_T7",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/609216940.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t7 health potion desc",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": {
+  "page": "objects/consumables/ancient-health-potion.md",
+  "json": "objects/consumables/ancient-health-potion.json",
+  "versions": 2
+ },
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 1500,
+    "display": "1,500",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3398007606,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 227143323,
+      "name": "Honey",
+      "page": "items/consumables/honey-227143323.md",
+      "json": "items/consumables/honey-227143323.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3466985705,
+      "name": "Thyme",
+      "page": "items/consumables/thyme-3466985705.md",
+      "json": "items/consumables/thyme-3466985705.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3478847834,
+      "name": "Chamomile",
+      "page": "items/materials/chamomile-3478847834.md",
+      "json": "items/materials/chamomile-3478847834.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 677177092,
+   "name": "Ancient Health Potion +",
+   "page": "items/consumables/ancient-health-potion-677177092.md",
+   "json": "items/consumables/ancient-health-potion-677177092.json"
+  }
+ ],
+ "page": "items/consumables/ancient-health-potion-609216940.md"
+}

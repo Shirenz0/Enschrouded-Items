@@ -15,4 +15,4 @@ One of 2 versions of this item: see [Shape Small](../../objects/blueprints/shape
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](shape-small-439089072.json)

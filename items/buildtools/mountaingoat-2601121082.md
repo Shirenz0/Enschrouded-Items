@@ -21,4 +21,4 @@ This animal can supply you especially fatty mountaingoat milk.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](mountaingoat-2601121082.json)

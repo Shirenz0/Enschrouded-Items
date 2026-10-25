@@ -1,0 +1,25 @@
+{
+ "id": 1136287838,
+ "name": "Bamboo Boardwalk II",
+ "internalName": "Prop_Decoration_T6_Lizard_Boardwalk_4m_02_A",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1136287838.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/bamboo-boardwalk-ii-1136287838.md"
+}

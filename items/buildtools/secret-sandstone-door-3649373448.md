@@ -25,4 +25,4 @@ A secret you can install in your base.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](secret-sandstone-door-3649373448.json)

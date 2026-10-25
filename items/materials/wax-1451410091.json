@@ -1,0 +1,71 @@
+{
+ "id": 1451410091,
+ "name": "Wax",
+ "internalName": "Material_T1_Wax",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1451410091.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An eyesight in the day that can provide a light in the dark.",
+ "lore": null,
+ "whereToFind": "Beehive",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1928833035,
+   "station": "Wasphive",
+   "inputs": [
+    {
+     "count": 3,
+     "oneOf": [
+      {
+       "id": 3316218728,
+       "name": "Plant Fibre",
+       "page": "items/materials/plant-fibre-3316218728.md",
+       "json": "items/materials/plant-fibre-3316218728.json"
+      },
+      {
+       "id": 1026141130,
+       "name": "Paper Reed",
+       "page": "items/materials/paper-reed-1026141130.md",
+       "json": "items/materials/paper-reed-1026141130.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2261499623,
+   "name": "Gold Sieve Prospector",
+   "page": "items/buildtools/gold-sieve-prospector-2261499623.md",
+   "json": "items/buildtools/gold-sieve-prospector-2261499623.json"
+  },
+  {
+   "id": 3913483832,
+   "name": "Wax Torch",
+   "page": "items/weapons/wax-torch-3913483832.md",
+   "json": "items/weapons/wax-torch-3913483832.json"
+  },
+  {
+   "id": 2939168228,
+   "name": "Candle",
+   "page": "items/buildtools/candle-2939168228.md",
+   "json": "items/buildtools/candle-2939168228.json"
+  }
+ ],
+ "page": "items/materials/wax-1451410091.md"
+}

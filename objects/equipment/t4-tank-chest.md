@@ -17,4 +17,4 @@ An incredibly sturdy chestpiece, often worn by generals or select members of the
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-tank-chest.json)

@@ -21,4 +21,4 @@ A helpful townsfolk that will work and live in your base.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](alma-fairburn-1055693550.json)

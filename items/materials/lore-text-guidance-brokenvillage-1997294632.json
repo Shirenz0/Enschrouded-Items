@@ -1,0 +1,25 @@
+{
+ "id": 1997294632,
+ "name": "Lore Text Guidance BrokenVillage",
+ "internalName": "LoreText_Guidance_BrokenVillage",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1997294632.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/lore-text-guidance-brokenvillage-1997294632.md"
+}

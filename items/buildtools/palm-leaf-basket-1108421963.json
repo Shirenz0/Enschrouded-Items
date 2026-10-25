@@ -1,0 +1,65 @@
+{
+ "id": 1108421963,
+ "name": "Palm Leaf Basket",
+ "internalName": "Prop_Decoration_T6_Basket_02",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1108421963.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/palm-leaf-basket.md",
+  "json": "objects/buildtools/palm-leaf-basket.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 3048113079,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1026141130,
+      "name": "Paper Reed",
+      "page": "items/materials/paper-reed-1026141130.md",
+      "json": "items/materials/paper-reed-1026141130.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 521230189,
+      "name": "Palm Leaves",
+      "page": "items/materials/palm-leaves-521230189.md",
+      "json": "items/materials/palm-leaves-521230189.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/palm-leaf-basket-1108421963.md"
+}

@@ -17,4 +17,4 @@ A helmet which protects your sensitive cranial bone from harm.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-battlemage-helmet.json)

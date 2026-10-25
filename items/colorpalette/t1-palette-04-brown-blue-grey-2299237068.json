@@ -1,0 +1,70 @@
+{
+ "id": 2299237068,
+ "name": "T1 Palette 04 Brown blue grey",
+ "internalName": "ColorPalette_T1_ColorPalette_04",
+ "category": {
+  "id": "ColorPalette",
+  "title": "Color Palettes",
+  "page": "categories/colorpalette.md",
+  "json": "categories/colorpalette.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2299237068.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Shades of brown and blue",
+ "lore": null,
+ "whereToFind": "Coloring Station",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1228303772,
+   "station": "Coloring Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 860644516,
+      "name": "Fog Liquid",
+      "page": "items/materials/fog-liquid-860644516.md",
+      "json": "items/materials/fog-liquid-860644516.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2433487720,
+      "name": "Night Lily",
+      "page": "items/consumables/night-lily-2433487720.md",
+      "json": "items/consumables/night-lily-2433487720.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 600862405,
+      "name": "Penny Bun",
+      "page": "items/consumables/penny-bun-600862405.md",
+      "json": "items/consumables/penny-bun-600862405.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/colorpalette/t1-palette-04-brown-blue-grey-2299237068.md"
+}

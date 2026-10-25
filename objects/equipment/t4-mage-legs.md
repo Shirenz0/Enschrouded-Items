@@ -17,4 +17,4 @@ Elegantly held together with cobalt linen and thread. Truly fitting for a sophis
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-mage-legs.json)

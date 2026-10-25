@@ -1,0 +1,36 @@
+{
+ "name": "Iron Grate",
+ "category": "BuildTools",
+ "image": "images/icons/3638722075.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2583752204,
+   "name": "Iron Grate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2583752204.png",
+   "page": "items/buildtools/iron-grate-2583752204.md",
+   "json": "items/buildtools/iron-grate-2583752204.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 3638722075,
+   "name": "Iron Grate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3638722075.png",
+   "page": "items/buildtools/iron-grate-3638722075.md",
+   "json": "items/buildtools/iron-grate-3638722075.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/iron-grate.md"
+}

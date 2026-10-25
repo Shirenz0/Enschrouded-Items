@@ -1,0 +1,61 @@
+{
+ "id": 197885818,
+ "name": "Small Prickle Pearl Plant Pot",
+ "internalName": "_Flower_Pot_Ancient_Small_Pomegranate",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/197885818.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An ancient potted plant. This one can be displayed in the Cultivation Rack",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 54926422,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 885155884,
+      "name": "T7 material stone",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2141541288,
+      "name": "Archaic Shards",
+      "page": "items/materials/archaic-shards-2141541288.md",
+      "json": "items/materials/archaic-shards-2141541288.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1930450533,
+      "name": "Basalt Farm Soil",
+      "page": "items/materials/basalt-farm-soil-1930450533.md",
+      "json": "items/materials/basalt-farm-soil-1930450533.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/small-prickle-pearl-plant-pot-197885818.md"
+}

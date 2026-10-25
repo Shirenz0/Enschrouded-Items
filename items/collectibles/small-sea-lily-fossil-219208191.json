@@ -1,0 +1,25 @@
+{
+ "id": 219208191,
+ "name": "Small Sea Lily Fossil",
+ "internalName": "Collection_fossils_06_seaCreatures_seaLily_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/219208191.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A robust, small sea lily fossil. No matter how you turn it, you're always greeted by a tendril or imprint.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/small-sea-lily-fossil-219208191.md"
+}

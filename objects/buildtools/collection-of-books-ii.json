@@ -1,0 +1,36 @@
+{
+ "name": "Collection Of Books II",
+ "category": "BuildTools",
+ "image": "images/icons/1732682352.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 147747455,
+   "name": "Collection Of Books II",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/147747455.png",
+   "page": "items/buildtools/collection-of-books-ii-147747455.md",
+   "json": "items/buildtools/collection-of-books-ii-147747455.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1732682352,
+   "name": "Collection Of Books II",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1732682352.png",
+   "page": "items/buildtools/collection-of-books-ii-1732682352.md",
+   "json": "items/buildtools/collection-of-books-ii-1732682352.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/collection-of-books-ii.md"
+}

@@ -1,0 +1,39 @@
+{
+ "id": 2861211892,
+ "name": "Evil Cyclops Eye",
+ "internalName": "Material_T5_EvilCyclopsEye",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/2861211892.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A massive, unblinking eye brimming with ancient Shroud power, torn from the monstrous Fell Cyclops. Its overwhelming energy is a critical element in crafting the most resilient and powerful high-level armor.",
+ "lore": null,
+ "whereToFind": "Fell Cyclops, Albaneve Summits Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 945340556,
+   "name": "Eternal Frost Arrow II",
+   "page": "items/ammunition/eternal-frost-arrow-ii-945340556.md",
+   "json": "items/ammunition/eternal-frost-arrow-ii-945340556.json"
+  },
+  {
+   "id": 2394759659,
+   "name": "Ward T5",
+   "page": "items/equipment/ward-t5-2394759659.md",
+   "json": "items/equipment/ward-t5-2394759659.json"
+  }
+ ],
+ "page": "items/materials/evil-cyclops-eye-2861211892.md"
+}

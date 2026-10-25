@@ -1,0 +1,141 @@
+{
+ "id": 2975006357,
+ "name": "Monstrous Ribs",
+ "internalName": "Material_T3_MonstrousRibs",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/2975006357.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Large Ribs that could serve as protection.",
+ "lore": null,
+ "whereToFind": "Fell Monstrosity, First: Nomad Highlands Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1203301438,
+   "name": "T3 Eternal Chain Heal I",
+   "page": "items/ammunition/t3-eternal-chain-heal-i-1203301438.md",
+   "json": "items/ammunition/t3-eternal-chain-heal-i-1203301438.json"
+  },
+  {
+   "id": 2034875163,
+   "name": "T3 DPS Legs",
+   "page": "items/equipment/t3-dps-legs-2034875163.md",
+   "json": "items/equipment/t3-dps-legs-2034875163.json"
+  },
+  {
+   "id": 823841299,
+   "name": "T3 Healer Legs",
+   "page": "items/equipment/t3-healer-legs-823841299.md",
+   "json": "items/equipment/t3-healer-legs-823841299.json"
+  },
+  {
+   "id": 1523324827,
+   "name": "T3 Mage Chest",
+   "page": "items/equipment/t3-mage-chest-1523324827.md",
+   "json": "items/equipment/t3-mage-chest-1523324827.json"
+  },
+  {
+   "id": 1559741302,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-1559741302.md",
+   "json": "items/equipment/mage-fog-protection-armor-1559741302.json"
+  },
+  {
+   "id": 2255840984,
+   "name": "T3 Ranger Chest",
+   "page": "items/equipment/t3-ranger-chest-2255840984.md",
+   "json": "items/equipment/t3-ranger-chest-2255840984.json"
+  },
+  {
+   "id": 13759280,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-13759280.md",
+   "json": "items/equipment/ranger-fog-protection-armor-13759280.json"
+  },
+  {
+   "id": 2301277967,
+   "name": "T3 Archer Chest",
+   "page": "items/equipment/t3-archer-chest-2301277967.md",
+   "json": "items/equipment/t3-archer-chest-2301277967.json"
+  },
+  {
+   "id": 4212426126,
+   "name": "T3 Tank Arms",
+   "page": "items/equipment/t3-tank-arms-4212426126.md",
+   "json": "items/equipment/t3-tank-arms-4212426126.json"
+  },
+  {
+   "id": 147265330,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-147265330.md",
+   "json": "items/equipment/warrior-fog-protection-armor-147265330.json"
+  },
+  {
+   "id": 2802395209,
+   "name": "T4 Assassin Chest",
+   "page": "items/equipment/t4-assassin-chest-2802395209.md",
+   "json": "items/equipment/t4-assassin-chest-2802395209.json"
+  },
+  {
+   "id": 1567003886,
+   "name": "T4 DPS Chest",
+   "page": "items/equipment/t4-dps-chest-1567003886.md",
+   "json": "items/equipment/t4-dps-chest-1567003886.json"
+  },
+  {
+   "id": 3183764632,
+   "name": "T4 Healer Legs",
+   "page": "items/equipment/t4-healer-legs-3183764632.md",
+   "json": "items/equipment/t4-healer-legs-3183764632.json"
+  },
+  {
+   "id": 1947086683,
+   "name": "T4 Healer Chest",
+   "page": "items/equipment/t4-healer-chest-1947086683.md",
+   "json": "items/equipment/t4-healer-chest-1947086683.json"
+  },
+  {
+   "id": 1616516574,
+   "name": "T4 Mage Legs",
+   "page": "items/equipment/t4-mage-legs-1616516574.md",
+   "json": "items/equipment/t4-mage-legs-1616516574.json"
+  },
+  {
+   "id": 1123016064,
+   "name": "T4 Ranger Legs",
+   "page": "items/equipment/t4-ranger-legs-1123016064.md",
+   "json": "items/equipment/t4-ranger-legs-1123016064.json"
+  },
+  {
+   "id": 1676245323,
+   "name": "T4 Rogue Chest",
+   "page": "items/equipment/t4-rogue-chest-1676245323.md",
+   "json": "items/equipment/t4-rogue-chest-1676245323.json"
+  },
+  {
+   "id": 3452463502,
+   "name": "T4 Sniper Chest",
+   "page": "items/equipment/t4-sniper-chest-3452463502.md",
+   "json": "items/equipment/t4-sniper-chest-3452463502.json"
+  },
+  {
+   "id": 3856381953,
+   "name": "T4 Tank Legs",
+   "page": "items/equipment/t4-tank-legs-3856381953.md",
+   "json": "items/equipment/t4-tank-legs-3856381953.json"
+  }
+ ],
+ "page": "items/materials/monstrous-ribs-2975006357.md"
+}

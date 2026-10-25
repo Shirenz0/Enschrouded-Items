@@ -31,4 +31,4 @@ A severed Red Fell Critter Queen Head. Collect multiple to craft the iron trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-red-fell-critter-queen-trophy-1790649468.json)

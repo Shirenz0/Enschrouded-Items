@@ -1,0 +1,136 @@
+{
+ "id": 3158681634,
+ "name": "Vorgoth's Gloves",
+ "internalName": "Armor_T7_Ranger_Arms_Vorgoth",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/3158681634.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Overlapping scales of iron sheathe each finger. flexible enough for a firm grip, heavy enough to crush.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "% Dagger Damage",
+    "value": 32,
+    "display": "32",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Backstab Damage",
+    "value": 14,
+    "display": "14",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage against Melee Foes",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Wet Duration Reduction",
+    "value": 90000,
+    "display": "1:30 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Veiled Vigor",
+   "effect": "Increases the skill level of Veiled Vigor"
+  },
+  {
+   "order": 2,
+   "name": "Enduring",
+   "effect": "+21 Enduring"
+  },
+  {
+   "order": 3,
+   "name": "+1 Backstab Mastery",
+   "effect": "Increases the skill level of Backstab Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1143520537,
+   "station": "Archeologist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 234899173,
+      "name": "Magma Gel",
+      "page": "items/materials/magma-gel-234899173.md",
+      "json": "items/materials/magma-gel-234899173.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3553538325,
+      "name": "Wildbeast Scales (Scorpion and maybe SandDigger)",
+      "page": "items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.md",
+      "json": "items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2893592883,
+      "name": "Celesthium Bars",
+      "page": "items/materials/celesthium-bars-2893592883.md",
+      "json": "items/materials/celesthium-bars-2893592883.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1940778781,
+      "name": "Vorgoth Blood",
+      "page": "items/materials/vorgoth-blood-1940778781.md",
+      "json": "items/materials/vorgoth-blood-1940778781.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/vorgoth-s-gloves-3158681634.md"
+}

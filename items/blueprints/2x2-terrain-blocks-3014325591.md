@@ -13,4 +13,4 @@
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](2x2-terrain-blocks-3014325591.json)

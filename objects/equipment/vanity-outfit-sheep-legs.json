@@ -1,0 +1,35 @@
+{
+ "name": "Vanity Outfit Sheep legs",
+ "category": "Equipment",
+ "image": "images/icons/453745299.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1379043223,
+   "name": "Vanity Outfit Sheep legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1379043223.png",
+   "page": "items/equipment/vanity-outfit-sheep-legs-1379043223.md",
+   "json": "items/equipment/vanity-outfit-sheep-legs-1379043223.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 453745299,
+   "name": "Vanity Outfit Sheep legs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/453745299.png",
+   "page": "items/equipment/vanity-outfit-sheep-legs-453745299.md",
+   "json": "items/equipment/vanity-outfit-sheep-legs-453745299.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/vanity-outfit-sheep-legs.md"
+}

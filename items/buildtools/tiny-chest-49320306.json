@@ -1,0 +1,25 @@
+{
+ "id": 49320306,
+ "name": "Tiny Chest",
+ "internalName": "Prop_Storage_16_T0_Box_DISABLED",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/49320306.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A crude, but easy to craft, storage. It holds space for a few items.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/tiny-chest-49320306.md"
+}

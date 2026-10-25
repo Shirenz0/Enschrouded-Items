@@ -1,0 +1,73 @@
+{
+ "id": 2824141465,
+ "name": "Dried Red Berry",
+ "internalName": "Food_T1_processed_fruit_Dried_RedBerry",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2824141465.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Conserved the Dried Red Berry is not stimulating the regeneration as much as the Red Berries, but for a longer duration.",
+ "lore": null,
+ "whereToFind": "Crafting, Drying Rack",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 480000,
+    "display": "8:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2558559236,
+   "station": "Drying Rack",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3707271437,
+      "name": "Red Berries",
+      "page": "items/consumables/red-berries-3707271437.md",
+      "json": "items/consumables/red-berries-3707271437.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 65287689,
+   "name": "Blueberry Cake",
+   "page": "items/consumables/blueberry-cake-65287689.md",
+   "json": "items/consumables/blueberry-cake-65287689.json"
+  },
+  {
+   "id": 3044969758,
+   "name": "Food Yak Feeding",
+   "page": "items/buildtools/food-yak-feeding-3044969758.md",
+   "json": "items/buildtools/food-yak-feeding-3044969758.json"
+  }
+ ],
+ "page": "items/consumables/dried-red-berry-2824141465.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "T6 Shield Tank",
+ "category": "Equipment",
+ "image": "images/icons/1900300234.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1777113935,
+   "name": "T6 Shield Tank",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/1777113935.png",
+   "page": "items/equipment/t6-shield-tank-1777113935.md",
+   "json": "items/equipment/t6-shield-tank-1777113935.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1900300234,
+   "name": "T6 Shield Tank",
+   "rarity": "Rare",
+   "level": "40",
+   "image": "images/icons/1900300234.png",
+   "page": "items/equipment/t6-shield-tank-1900300234.md",
+   "json": "items/equipment/t6-shield-tank-1900300234.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t6-shield-tank.md"
+}

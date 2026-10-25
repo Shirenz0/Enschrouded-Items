@@ -1,0 +1,35 @@
+{
+ "name": "T2 Mage Arms",
+ "category": "Equipment",
+ "image": "images/icons/475314263.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3973020884,
+   "name": "T2 Mage Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3973020884.png",
+   "page": "items/equipment/t2-mage-arms-3973020884.md",
+   "json": "items/equipment/t2-mage-arms-3973020884.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 475314263,
+   "name": "T2 Mage Arms",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/475314263.png",
+   "page": "items/equipment/t2-mage-arms-475314263.md",
+   "json": "items/equipment/t2-mage-arms-475314263.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-mage-arms.md"
+}

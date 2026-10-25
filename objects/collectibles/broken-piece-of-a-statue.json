@@ -1,0 +1,46 @@
+{
+ "name": "Broken Piece of a Statue",
+ "category": "Collectibles",
+ "image": "images/icons/3883219916.png",
+ "versions": 3,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1556757497,
+   "name": "Broken Piece of a Statue",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1556757497.png",
+   "page": "items/collectibles/broken-piece-of-a-statue-1556757497.md",
+   "json": "items/collectibles/broken-piece-of-a-statue-1556757497.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2624605842,
+   "name": "Broken Piece of a Statue",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2624605842.png",
+   "page": "items/collectibles/broken-piece-of-a-statue-2624605842.md",
+   "json": "items/collectibles/broken-piece-of-a-statue-2624605842.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 3883219916,
+   "name": "Broken Piece of a Statue",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3883219916.png",
+   "page": "items/collectibles/broken-piece-of-a-statue-3883219916.md",
+   "json": "items/collectibles/broken-piece-of-a-statue-3883219916.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/collectibles/broken-piece-of-a-statue.md"
+}

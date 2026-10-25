@@ -25,4 +25,4 @@ A showcase that can display meteorite collection items.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](meteorite-showcase-1-large-slot-878567414.json)

@@ -1,0 +1,70 @@
+{
+ "id": 1155756187,
+ "name": "Improved Water Well",
+ "internalName": "Prop_NPC_T3_Water_Well",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1155756187.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A well deep enough to reach the unlimited water sources of the world.\n\nSlightly improved to reach more ground water more quickly.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1110736211,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    },
+    {
+     "count": 100,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3107844914,
+      "name": "Wood Bucket",
+      "page": "items/buildtools/wood-bucket-3107844914.md",
+      "json": "items/buildtools/wood-bucket-3107844914.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/improved-water-well-1155756187.md"
+}

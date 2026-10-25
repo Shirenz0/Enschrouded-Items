@@ -1,0 +1,39 @@
+{
+ "id": 2632607216,
+ "name": "Poison Sting",
+ "internalName": "Material_T6_Poison_Sting",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/2632607216.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A poisonous sting t6 desc",
+ "lore": null,
+ "whereToFind": "Veilwater Basin Enemies and Cinder's Cradle Crops",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1674086102,
+   "name": "T7 Eternal Acid Cone II",
+   "page": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.md",
+   "json": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.json"
+  },
+  {
+   "id": 1050570715,
+   "name": "Poisoned Golden Steel Arrow",
+   "page": "items/ammunition/poisoned-golden-steel-arrow-1050570715.md",
+   "json": "items/ammunition/poisoned-golden-steel-arrow-1050570715.json"
+  }
+ ],
+ "page": "items/materials/poison-sting-2632607216.md"
+}

@@ -25,4 +25,4 @@ Interacting with this shrine will grant you the **Vuk'ahrrrrr** buff. It grants 
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](vukah-shrine-1732202585.json)

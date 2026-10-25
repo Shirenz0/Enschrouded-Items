@@ -35,4 +35,4 @@ Crafting, Huntress
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](cleaned-bandage-3244772462.json)

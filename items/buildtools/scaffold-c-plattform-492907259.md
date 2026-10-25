@@ -25,4 +25,4 @@ A Scaffold that helps you to reach higher points while building your Base.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](scaffold-c-plattform-492907259.json)

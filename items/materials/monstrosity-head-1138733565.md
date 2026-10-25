@@ -21,4 +21,4 @@ It grasps at anything. Hope, despair, loneliness... anything to fill the void.
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](monstrosity-head-1138733565.json)

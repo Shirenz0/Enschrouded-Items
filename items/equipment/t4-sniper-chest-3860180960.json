@@ -1,0 +1,77 @@
+{
+ "id": 3860180960,
+ "name": "T4 Sniper Chest",
+ "internalName": "Armor_T4_Ranger_Sniper_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3860180960.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "You won't leave yourself open to damage with this piece of chest armor.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-sniper-chest.md",
+  "json": "objects/equipment/t4-sniper-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 48,
+    "display": "48",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Skillshot Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Ranger",
+   "effect": "Increases the skill level of Ranger by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+20 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "page": "items/equipment/t4-sniper-chest-3860180960.md"
+}

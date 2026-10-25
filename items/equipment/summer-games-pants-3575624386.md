@@ -27,4 +27,4 @@ Summer Games pants desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](summer-games-pants-3575624386.json)

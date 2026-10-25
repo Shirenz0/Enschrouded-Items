@@ -1,0 +1,43 @@
+{
+ "id": 3590042993,
+ "name": "Pressure plate",
+ "internalName": "Prop_Logic_PressurePlate",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3590042993.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A pressure plate that can be used in a logic system. Walking onto it activates it.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3762646301,
+   "station": "Logic System Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/pressure-plate-3590042993.md"
+}

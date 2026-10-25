@@ -1,0 +1,32 @@
+{
+ "id": 3121149981,
+ "name": "Skeleton armor twitch drop helmet",
+ "internalName": "Vanity_T3_SkeletonArmor2_TwitchDrop_Helmet",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3121149981.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Skeleton armor twitch drop desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/skeleton-armor-twitch-drop-helmet.md",
+  "json": "objects/equipment/skeleton-armor-twitch-drop-helmet.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head"
+ },
+ "page": "items/equipment/skeleton-armor-twitch-drop-helmet-3121149981.md"
+}

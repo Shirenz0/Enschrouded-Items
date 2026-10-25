@@ -1,0 +1,94 @@
+{
+ "id": 2671192505,
+ "name": "Copper Pickaxe",
+ "internalName": "Tool_T2_Pickaxe_Copper_Deepwoods",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/2671192505.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Forged out of copper and a decent tool. At least, working does not become a hassle because of bad equipment.",
+ "lore": "Tools",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Enduring",
+   "effect": "+6 Enduring"
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+8 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Mason",
+   "effect": "Increases the skill level of Mason by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1190660243,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/copper-pickaxe-2671192505.md"
+}

@@ -1,0 +1,35 @@
+{
+ "name": "T3 Ranger Helmet",
+ "category": "Equipment",
+ "image": "images/icons/977735658.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1025627126,
+   "name": "T3 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/1025627126.png",
+   "page": "items/equipment/t3-ranger-helmet-1025627126.md",
+   "json": "items/equipment/t3-ranger-helmet-1025627126.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 977735658,
+   "name": "T3 Ranger Helmet",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/977735658.png",
+   "page": "items/equipment/t3-ranger-helmet-977735658.md",
+   "json": "items/equipment/t3-ranger-helmet-977735658.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-ranger-helmet.md"
+}

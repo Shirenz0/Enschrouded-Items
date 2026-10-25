@@ -17,4 +17,4 @@ Your steps will be quick and quiet with these supreme assassin boots.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-assassin-boots.json)

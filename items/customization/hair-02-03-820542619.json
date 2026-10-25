@@ -1,0 +1,25 @@
+{
+ "id": 820542619,
+ "name": "Hair 02 03",
+ "internalName": "VC_Hair_02_03_pony_ponytail",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/customization/hair-02-03-820542619.md"
+}

@@ -21,4 +21,4 @@ Potted Plant
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](empty-cymbidum-pot.json)

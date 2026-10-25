@@ -19,4 +19,4 @@ An elaborate sword, decorated in gold filligre. It came from the skies years ago
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](greater-twinflame-sword.json)

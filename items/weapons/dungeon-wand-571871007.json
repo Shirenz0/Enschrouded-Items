@@ -1,0 +1,84 @@
+{
+ "id": 571871007,
+ "name": "Dungeon Wand",
+ "internalName": "Weapon_TX_1H_Wand_HollowHall_Blunt",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/571871007.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Dungeon Wand desc  - Multishot: Fires multiple projectiles but at reduced damage",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Overcharge",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Multishot",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Mana Leech",
+   "effect": "On Hit Leech %Percentage% Damage as Mana"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Holy",
+   "effect": "+10 Holy "
+  },
+  {
+   "order": 5,
+   "name": "All Physical Blunt Damage",
+   "effect": "+10 All Physical Blunt Damage"
+  }
+ ],
+ "page": "items/weapons/dungeon-wand-571871007.md"
+}

@@ -1,0 +1,123 @@
+{
+ "name": "Trap Fireball",
+ "category": "Ammunition",
+ "image": "images/icons/2872459908.png",
+ "versions": 10,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1006313599,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1006313599.png",
+   "page": "items/ammunition/trap-fireball-1006313599.md",
+   "json": "items/ammunition/trap-fireball-1006313599.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1571663933,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1571663933.png",
+   "page": "items/ammunition/trap-fireball-1571663933.md",
+   "json": "items/ammunition/trap-fireball-1571663933.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1654015901,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1654015901.png",
+   "page": "items/ammunition/trap-fireball-1654015901.md",
+   "json": "items/ammunition/trap-fireball-1654015901.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1668003136,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1668003136.png",
+   "page": "items/ammunition/trap-fireball-1668003136.md",
+   "json": "items/ammunition/trap-fireball-1668003136.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1756403655,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1756403655.png",
+   "page": "items/ammunition/trap-fireball-1756403655.md",
+   "json": "items/ammunition/trap-fireball-1756403655.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1978739882,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1978739882.png",
+   "page": "items/ammunition/trap-fireball-1978739882.md",
+   "json": "items/ammunition/trap-fireball-1978739882.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2269127555,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2269127555.png",
+   "page": "items/ammunition/trap-fireball-2269127555.md",
+   "json": "items/ammunition/trap-fireball-2269127555.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2431804622,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2431804622.png",
+   "page": "items/ammunition/trap-fireball-2431804622.md",
+   "json": "items/ammunition/trap-fireball-2431804622.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2467156641,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2467156641.png",
+   "page": "items/ammunition/trap-fireball-2467156641.md",
+   "json": "items/ammunition/trap-fireball-2467156641.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2872459908,
+   "name": "Trap Fireball",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2872459908.png",
+   "page": "items/ammunition/trap-fireball-2872459908.md",
+   "json": "items/ammunition/trap-fireball-2872459908.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/ammunition/trap-fireball.md"
+}

@@ -1,0 +1,60 @@
+{
+ "id": 2630618097,
+ "name": "Raw Meat and Hazelnut Skewer",
+ "internalName": "Material_T2_raw_dish_GrainSkewer",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 250,
+ "image": "images/icons/2630618097.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will increase your **melee damage, boost your maximum health and accelerate your health regeneration.**",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3670269653,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3360608010,
+      "name": "Hazelnut",
+      "page": "items/consumables/hazelnut-3360608010.md",
+      "json": "items/consumables/hazelnut-3360608010.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2512460235,
+      "name": "Raw Game",
+      "page": "items/consumables/raw-game-2512460235.md",
+      "json": "items/consumables/raw-game-2512460235.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3366430041,
+   "name": "Meat Skewer with Hazelnut",
+   "page": "items/consumables/meat-skewer-with-hazelnut-3366430041.md",
+   "json": "items/consumables/meat-skewer-with-hazelnut-3366430041.json"
+  }
+ ],
+ "page": "items/materials/raw-meat-and-hazelnut-skewer-2630618097.md"
+}

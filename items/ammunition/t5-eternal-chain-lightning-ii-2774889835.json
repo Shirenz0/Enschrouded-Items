@@ -1,0 +1,99 @@
+{
+ "id": 2774889835,
+ "name": "T5 Eternal Chain Lightning II",
+ "internalName": "Ammo_T5_Spell_Lightning_Chain_lvl28_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 28,
+  "max": 28
+ },
+ "maxStack": 1,
+ "image": "images/icons/2774889835.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal Chain Lightning desc.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 167,
+    "display": "167",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1200,
+    "display": "1.2 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Magical Critical Strike Chance",
+   "effect": "+5 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Thundery",
+   "effect": "+5 Thundery"
+  },
+  {
+   "order": 5,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-5 Charge_Duration_Mod"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3929697704,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3728704408,
+      "name": "T5 Silver Dust",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t5-eternal-chain-lightning-ii-2774889835.md"
+}

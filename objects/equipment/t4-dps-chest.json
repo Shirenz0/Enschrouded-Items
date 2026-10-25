@@ -1,0 +1,35 @@
+{
+ "name": "T4 DPS Chest",
+ "category": "Equipment",
+ "image": "images/icons/3892994199.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1567003886,
+   "name": "T4 DPS Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1567003886.png",
+   "page": "items/equipment/t4-dps-chest-1567003886.md",
+   "json": "items/equipment/t4-dps-chest-1567003886.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3892994199,
+   "name": "T4 DPS Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3892994199.png",
+   "page": "items/equipment/t4-dps-chest-3892994199.md",
+   "json": "items/equipment/t4-dps-chest-3892994199.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-dps-chest.md"
+}

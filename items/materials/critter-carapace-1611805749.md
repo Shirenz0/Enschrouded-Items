@@ -25,4 +25,4 @@ Albaneve Summits and Veilwater Basin Fell Enemies
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](critter-carapace-1611805749.json)

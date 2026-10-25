@@ -1,0 +1,25 @@
+{
+ "id": 2370474630,
+ "name": "Prawn Fossil",
+ "internalName": "Collection_fossils_06_seaCreatures_crab_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2370474630.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The fossilized remains of a stranded prawn. Most of the legs are not visible anymore.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/prawn-fossil-2370474630.md"
+}

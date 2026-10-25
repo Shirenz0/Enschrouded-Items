@@ -31,4 +31,4 @@ Summons an electrified wisp that follows you around and fires shock projectiles.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t6-shock-wisp-iii-396873784.json)

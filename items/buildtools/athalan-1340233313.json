@@ -1,0 +1,25 @@
+{
+ "id": 1340233313,
+ "name": "Athalan",
+ "internalName": "NPC_Crafter_Hunter01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/buildtools.svg",
+ "caption": null,
+ "description": "The Hunter Athalan Skree helps you build armors and tincutres vital for survival.",
+ "lore": "Survivor",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/athalan-1340233313.md"
+}

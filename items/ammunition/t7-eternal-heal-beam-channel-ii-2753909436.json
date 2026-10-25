@@ -1,0 +1,117 @@
+{
+ "id": 2753909436,
+ "name": "T7 Eternal Heal Beam Channel II",
+ "internalName": "Ammo_T7_Spell_Heal_Beam_Channel_lvl45_Eternal",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 1,
+ "image": "images/icons/2753909436.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Continously heal a target in a beam up to 20 meters away. + eternal desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Healing": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 54,
+    "display": "54",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Charge_Duration_Mod",
+   "effect": "+-10 Charge_Duration_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 4,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 5,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 197471890,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 1725874983,
+      "name": "Diamond Dust",
+      "page": "items/materials/diamond-dust-1725874983.md",
+      "json": "items/materials/diamond-dust-1725874983.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 284304129,
+      "name": "Basalt Dust",
+      "page": "items/materials/basalt-dust-284304129.md",
+      "json": "items/materials/basalt-dust-284304129.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3581489769,
+      "name": "Shroud Relic",
+      "page": "items/materials/shroud-relic-3581489769.md",
+      "json": "items/materials/shroud-relic-3581489769.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3084703100,
+      "name": "Archaic Core",
+      "page": "items/materials/archaic-core-3084703100.md",
+      "json": "items/materials/archaic-core-3084703100.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/t7-eternal-heal-beam-channel-ii-2753909436.md"
+}

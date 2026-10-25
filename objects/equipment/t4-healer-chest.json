@@ -1,0 +1,35 @@
+{
+ "name": "T4 Healer Chest",
+ "category": "Equipment",
+ "image": "images/icons/1947086683.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1526551450,
+   "name": "T4 Healer Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1526551450.png",
+   "page": "items/equipment/t4-healer-chest-1526551450.md",
+   "json": "items/equipment/t4-healer-chest-1526551450.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1947086683,
+   "name": "T4 Healer Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1947086683.png",
+   "page": "items/equipment/t4-healer-chest-1947086683.md",
+   "json": "items/equipment/t4-healer-chest-1947086683.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-healer-chest.md"
+}

@@ -1,0 +1,29 @@
+{
+ "id": 23035970,
+ "name": "Fine Hang-Drum",
+ "internalName": "Instrument_Hangdrum_Rare",
+ "category": {
+  "id": "Instrument",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/23035970.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A rare hang drum is a hand-played steel instrument whose gentle tones spread like ripples across still water.",
+ "lore": "Instruments",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "comfort": 2
+ },
+ "page": "items/buildtools/fine-hang-drum-23035970.md"
+}

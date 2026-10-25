@@ -24,4 +24,4 @@ t6 cashew apple desc (the fruity fleshy part of the cashew fruit, can be eaten r
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](cashew-apple-3005548183.json)

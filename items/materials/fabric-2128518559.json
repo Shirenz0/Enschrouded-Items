@@ -1,0 +1,321 @@
+{
+ "id": 2128518559,
+ "name": "Fabric",
+ "internalName": "Material_T4_Fabric",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2128518559.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A sturdy material that was woven out of linnen. It revolutionized the clothing industry due to its flexibility and durability. It looks better as well.",
+ "lore": null,
+ "whereToFind": "Crafting, Loom",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1868810601,
+   "station": "Loom",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 1815424180,
+      "name": "Linnen",
+      "page": "items/materials/linnen-1815424180.md",
+      "json": "items/materials/linnen-1815424180.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3357517884,
+   "name": "Ghost Glider",
+   "page": "items/tools/ghost-glider-3357517884.md",
+   "json": "items/tools/ghost-glider-3357517884.json"
+  },
+  {
+   "id": 2105748910,
+   "name": "T7 Bandage",
+   "page": "items/consumables/t7-bandage-2105748910.md",
+   "json": "items/consumables/t7-bandage-2105748910.json"
+  },
+  {
+   "id": 2388891615,
+   "name": "Bandage T5",
+   "page": "items/consumables/bandage-t5-2388891615.md",
+   "json": "items/consumables/bandage-t5-2388891615.json"
+  },
+  {
+   "id": 2961306312,
+   "name": "Small Windmill",
+   "page": "items/buildtools/small-windmill-2961306312.md",
+   "json": "items/buildtools/small-windmill-2961306312.json"
+  },
+  {
+   "id": 1711247619,
+   "name": "Padding",
+   "page": "items/materials/padding-1711247619.md",
+   "json": "items/materials/padding-1711247619.json"
+  },
+  {
+   "id": 2891068633,
+   "name": "Orange Fabric",
+   "page": "items/materials/orange-fabric-2891068633.md",
+   "json": "items/materials/orange-fabric-2891068633.json"
+  },
+  {
+   "id": 148404293,
+   "name": "Exceptional Ectoplasm",
+   "page": "items/materials/exceptional-ectoplasm-148404293.md",
+   "json": "items/materials/exceptional-ectoplasm-148404293.json"
+  },
+  {
+   "id": 1506592036,
+   "name": "Extraordinary Ectoplasm",
+   "page": "items/materials/extraordinary-ectoplasm-1506592036.md",
+   "json": "items/materials/extraordinary-ectoplasm-1506592036.json"
+  },
+  {
+   "id": 3960097842,
+   "name": "Red Fabric",
+   "page": "items/materials/red-fabric-3960097842.md",
+   "json": "items/materials/red-fabric-3960097842.json"
+  },
+  {
+   "id": 3436629486,
+   "name": "Yellow Fabric",
+   "page": "items/materials/yellow-fabric-3436629486.md",
+   "json": "items/materials/yellow-fabric-3436629486.json"
+  },
+  {
+   "id": 2287874170,
+   "name": "Green Fabric",
+   "page": "items/materials/green-fabric-2287874170.md",
+   "json": "items/materials/green-fabric-2287874170.json"
+  },
+  {
+   "id": 398142464,
+   "name": "Blue Fabric",
+   "page": "items/materials/blue-fabric-398142464.md",
+   "json": "items/materials/blue-fabric-398142464.json"
+  },
+  {
+   "id": 3413443507,
+   "name": "T4 Assassin Legs",
+   "page": "items/equipment/t4-assassin-legs-3413443507.md",
+   "json": "items/equipment/t4-assassin-legs-3413443507.json"
+  },
+  {
+   "id": 853658470,
+   "name": "T4 Assassin Arms",
+   "page": "items/equipment/t4-assassin-arms-853658470.md",
+   "json": "items/equipment/t4-assassin-arms-853658470.json"
+  },
+  {
+   "id": 1123774086,
+   "name": "T4 Assassin Helmet",
+   "page": "items/equipment/t4-assassin-helmet-1123774086.md",
+   "json": "items/equipment/t4-assassin-helmet-1123774086.json"
+  },
+  {
+   "id": 219898735,
+   "name": "T4 BattleMage boote",
+   "page": "items/equipment/t4-battlemage-boote-219898735.md",
+   "json": "items/equipment/t4-battlemage-boote-219898735.json"
+  },
+  {
+   "id": 1563449197,
+   "name": "T4 BattleMage Legs",
+   "page": "items/equipment/t4-battlemage-legs-1563449197.md",
+   "json": "items/equipment/t4-battlemage-legs-1563449197.json"
+  },
+  {
+   "id": 3648209951,
+   "name": "T4 BattleMage Arms",
+   "page": "items/equipment/t4-battlemage-arms-3648209951.md",
+   "json": "items/equipment/t4-battlemage-arms-3648209951.json"
+  },
+  {
+   "id": 1192801048,
+   "name": "T4 BattleMage Helmet",
+   "page": "items/equipment/t4-battlemage-helmet-1192801048.md",
+   "json": "items/equipment/t4-battlemage-helmet-1192801048.json"
+  },
+  {
+   "id": 1123016064,
+   "name": "T4 Ranger Legs",
+   "page": "items/equipment/t4-ranger-legs-1123016064.md",
+   "json": "items/equipment/t4-ranger-legs-1123016064.json"
+  },
+  {
+   "id": 2309078212,
+   "name": "T4 Ranger Arms",
+   "page": "items/equipment/t4-ranger-arms-2309078212.md",
+   "json": "items/equipment/t4-ranger-arms-2309078212.json"
+  },
+  {
+   "id": 3620714580,
+   "name": "T4 DPS Boots",
+   "page": "items/equipment/t4-dps-boots-3620714580.md",
+   "json": "items/equipment/t4-dps-boots-3620714580.json"
+  },
+  {
+   "id": 1809820393,
+   "name": "T4 DPS Legs",
+   "page": "items/equipment/t4-dps-legs-1809820393.md",
+   "json": "items/equipment/t4-dps-legs-1809820393.json"
+  },
+  {
+   "id": 107717902,
+   "name": "T4 Rogue Helmet",
+   "page": "items/equipment/t4-rogue-helmet-107717902.md",
+   "json": "items/equipment/t4-rogue-helmet-107717902.json"
+  },
+  {
+   "id": 2035835813,
+   "name": "T4 Sniper Legs",
+   "page": "items/equipment/t4-sniper-legs-2035835813.md",
+   "json": "items/equipment/t4-sniper-legs-2035835813.json"
+  },
+  {
+   "id": 3073964148,
+   "name": "T4 Sniper Arms",
+   "page": "items/equipment/t4-sniper-arms-3073964148.md",
+   "json": "items/equipment/t4-sniper-arms-3073964148.json"
+  },
+  {
+   "id": 3141427238,
+   "name": "T4 Sniper Helmet",
+   "page": "items/equipment/t4-sniper-helmet-3141427238.md",
+   "json": "items/equipment/t4-sniper-helmet-3141427238.json"
+  },
+  {
+   "id": 3057524028,
+   "name": "Vorgoth's Pants",
+   "page": "items/equipment/vorgoth-s-pants-3057524028.md",
+   "json": "items/equipment/vorgoth-s-pants-3057524028.json"
+  },
+  {
+   "id": 4266264621,
+   "name": "Bed T5",
+   "page": "items/buildtools/bed-t5-4266264621.md",
+   "json": "items/buildtools/bed-t5-4266264621.json"
+  },
+  {
+   "id": 2053490668,
+   "name": "Kingsize Bed",
+   "page": "items/buildtools/kingsize-bed-2053490668.md",
+   "json": "items/buildtools/kingsize-bed-2053490668.json"
+  },
+  {
+   "id": 449366573,
+   "name": "T4 Bed",
+   "page": "items/buildtools/t4-bed-449366573.md",
+   "json": "items/buildtools/t4-bed-449366573.json"
+  },
+  {
+   "id": 3319129258,
+   "name": "T4 Carpet",
+   "page": "items/buildtools/t4-carpet-3319129258.md",
+   "json": "items/buildtools/t4-carpet-3319129258.json"
+  },
+  {
+   "id": 1237085664,
+   "name": "\"Still Life\"",
+   "page": "items/buildtools/still-life-1237085664.md",
+   "json": "items/buildtools/still-life-1237085664.json"
+  },
+  {
+   "id": 1790893349,
+   "name": "\"Temple Landscape\"",
+   "page": "items/buildtools/temple-landscape-1790893349.md",
+   "json": "items/buildtools/temple-landscape-1790893349.json"
+  },
+  {
+   "id": 3753859139,
+   "name": "\"Flower Snake\"",
+   "page": "items/buildtools/flower-snake-3753859139.md",
+   "json": "items/buildtools/flower-snake-3753859139.json"
+  },
+  {
+   "id": 19079311,
+   "name": "\"Flightless Redtail On One Leg\"",
+   "page": "items/buildtools/flightless-redtail-on-one-leg-19079311.md",
+   "json": "items/buildtools/flightless-redtail-on-one-leg-19079311.json"
+  },
+  {
+   "id": 3847020528,
+   "name": "\"Tower In The Night\"",
+   "page": "items/buildtools/tower-in-the-night-3847020528.md",
+   "json": "items/buildtools/tower-in-the-night-3847020528.json"
+  },
+  {
+   "id": 1343085975,
+   "name": "\"Flower Vase\"",
+   "page": "items/buildtools/flower-vase-1343085975.md",
+   "json": "items/buildtools/flower-vase-1343085975.json"
+  },
+  {
+   "id": 3201054228,
+   "name": "\"Boar At Home\"",
+   "page": "items/buildtools/boar-at-home-3201054228.md",
+   "json": "items/buildtools/boar-at-home-3201054228.json"
+  },
+  {
+   "id": 1688806746,
+   "name": "\"Wolf's Choir\"",
+   "page": "items/buildtools/wolf-s-choir-1688806746.md",
+   "json": "items/buildtools/wolf-s-choir-1688806746.json"
+  },
+  {
+   "id": 2208569013,
+   "name": "Tarpaulin",
+   "page": "items/buildtools/tarpaulin-2208569013.md",
+   "json": "items/buildtools/tarpaulin-2208569013.json"
+  },
+  {
+   "id": 3580780628,
+   "name": "Tarpaulin Corner",
+   "page": "items/buildtools/tarpaulin-corner-3580780628.md",
+   "json": "items/buildtools/tarpaulin-corner-3580780628.json"
+  },
+  {
+   "id": 1340326394,
+   "name": "Awning I",
+   "page": "items/buildtools/awning-i-1340326394.md",
+   "json": "items/buildtools/awning-i-1340326394.json"
+  },
+  {
+   "id": 1959524109,
+   "name": "Awning II",
+   "page": "items/buildtools/awning-ii-1959524109.md",
+   "json": "items/buildtools/awning-ii-1959524109.json"
+  },
+  {
+   "id": 4146957236,
+   "name": "Awning III",
+   "page": "items/buildtools/awning-iii-4146957236.md",
+   "json": "items/buildtools/awning-iii-4146957236.json"
+  },
+  {
+   "id": 3549560668,
+   "name": "Snowpal Dad",
+   "page": "items/buildtools/snowpal-dad-3549560668.md",
+   "json": "items/buildtools/snowpal-dad-3549560668.json"
+  }
+ ],
+ "page": "items/materials/fabric-2128518559.md"
+}

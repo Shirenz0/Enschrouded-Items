@@ -1,0 +1,39 @@
+{
+ "id": 2493843175,
+ "name": "Sand",
+ "internalName": "Build_TerrainMaterial_T4_Dirt_Desert_sand",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/2493843175.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A mix of all kinds of materials. Not very useful, but so are many byproducts.",
+ "lore": null,
+ "whereToFind": "Kindlewastes",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1555483091,
+   "name": "Refined Sandstone Block",
+   "page": "items/buildtools/refined-sandstone-block-1555483091.md",
+   "json": "items/buildtools/refined-sandstone-block-1555483091.json"
+  },
+  {
+   "id": 3936746657,
+   "name": "Lamp",
+   "page": "items/buildtools/lamp-3936746657.md",
+   "json": "items/buildtools/lamp-3936746657.json"
+  }
+ ],
+ "page": "items/materials/sand-2493843175.md"
+}

@@ -1,0 +1,56 @@
+{
+ "id": 3804066383,
+ "name": "Red Flower Pot",
+ "internalName": "Flower_Pot_Square_Red",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3804066383.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A small potted plant to beautify your home.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/red-flower-pot.md",
+  "json": "objects/buildtools/red-flower-pot.json",
+  "versions": 5
+ },
+ "recipes": [
+  {
+   "recipeId": 2907913542,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 99730651,
+      "name": "Empty Flower Pot IV",
+      "page": "items/buildtools/empty-flower-pot-iv-99730651.md",
+      "json": "items/buildtools/empty-flower-pot-iv-99730651.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/red-flower-pot-3804066383.md"
+}

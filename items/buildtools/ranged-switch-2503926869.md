@@ -21,4 +21,4 @@ This ranged switch can only be activated with a ranged weapon by shooting on it 
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](ranged-switch-2503926869.json)

@@ -1,0 +1,35 @@
+{
+ "name": "T4 Assassin Boots",
+ "category": "Equipment",
+ "image": "images/icons/443399688.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 4024884903,
+   "name": "T4 Assassin Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/4024884903.png",
+   "page": "items/equipment/t4-assassin-boots-4024884903.md",
+   "json": "items/equipment/t4-assassin-boots-4024884903.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 443399688,
+   "name": "T4 Assassin Boots",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/443399688.png",
+   "page": "items/equipment/t4-assassin-boots-443399688.md",
+   "json": "items/equipment/t4-assassin-boots-443399688.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-assassin-boots.md"
+}

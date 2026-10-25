@@ -1,0 +1,29 @@
+{
+ "id": 1325385401,
+ "name": "Exceptional Drum",
+ "internalName": "Instrument_Drum_Epic",
+ "category": {
+  "id": "Instrument",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1325385401.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Epic Drum Desc",
+ "lore": "Instruments",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "comfort": 3
+ },
+ "page": "items/buildtools/exceptional-drum-1325385401.md"
+}

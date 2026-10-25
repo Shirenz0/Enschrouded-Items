@@ -34,4 +34,4 @@ Coffee Brewery
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](black-coffee-4208954912.json)

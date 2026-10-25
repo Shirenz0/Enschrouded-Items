@@ -31,4 +31,4 @@ defeat the boss multiples times to craft the golden trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-fell-dragon-youngling-trophy-1900096652.json)

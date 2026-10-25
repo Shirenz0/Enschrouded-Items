@@ -25,4 +25,4 @@ Alchemy!
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](yellow-confetti-mortar-2553641502.json)

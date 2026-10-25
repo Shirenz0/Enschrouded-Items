@@ -1,0 +1,52 @@
+{
+ "id": 56166095,
+ "name": "T6 Bamboo Palm Leaf Umbrella",
+ "internalName": "Prop_Decoration_T6_Umbrella",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/56166095.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3258426915,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 1381084162,
+      "name": "Bamboo Logs",
+      "page": "items/materials/bamboo-logs-1381084162.md",
+      "json": "items/materials/bamboo-logs-1381084162.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 521230189,
+      "name": "Palm Leaves",
+      "page": "items/materials/palm-leaves-521230189.md",
+      "json": "items/materials/palm-leaves-521230189.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t6-bamboo-palm-leaf-umbrella-56166095.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 461254565,
+ "name": "Chemistry Set 01",
+ "internalName": "Prop_Furniture_Chemistry_Set_01",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 500,
+ "image": "images/icons/461254565.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/chemistry-set-01-461254565.md"
+}

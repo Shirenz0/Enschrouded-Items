@@ -17,4 +17,4 @@ A simple light chest piece to compliment the rest of the armor.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](scout-chest.json)

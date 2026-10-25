@@ -1,0 +1,25 @@
+{
+ "id": 1473052608,
+ "name": "Baby Digger",
+ "internalName": "Animal_Baby_Sanddigger",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1473052608.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Cute little Digger",
+ "lore": "Baby animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/baby-digger-1473052608.md"
+}

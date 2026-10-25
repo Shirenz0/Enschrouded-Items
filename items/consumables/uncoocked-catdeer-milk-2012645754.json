@@ -1,0 +1,49 @@
+{
+ "id": 2012645754,
+ "name": "Uncoocked Catdeer Milk",
+ "internalName": "Food_T2_raw_bad_hydration_CatdeerMilk",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2012645754.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Smells disgusting. Maybe if it's cooked...",
+ "lore": null,
+ "whereToFind": "Revelwood, Tamed Fae Deer",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -40,
+    "display": "-40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 3774403584,
+   "name": "Catdeer milk",
+   "page": "items/consumables/catdeer-milk-3774403584.md",
+   "json": "items/consumables/catdeer-milk-3774403584.json"
+  }
+ ],
+ "page": "items/consumables/uncoocked-catdeer-milk-2012645754.md"
+}

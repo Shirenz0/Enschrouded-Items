@@ -33,4 +33,4 @@ Crafting, Huntress
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](cursed-fishing-rod-1815671523.json)

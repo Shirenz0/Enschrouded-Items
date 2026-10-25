@@ -1,0 +1,68 @@
+{
+ "id": 4065514205,
+ "name": "Great Mana Potion improved",
+ "internalName": "_Consumable_Potion_Mana_T3_MoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4065514205.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some mana instantly and provides an additional Mana over time effect for more  seconds.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 90,
+    "display": "90",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2833838593,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2341333485,
+      "name": "Aurum Lily",
+      "page": "items/materials/aurum-lily-2341333485.md",
+      "json": "items/materials/aurum-lily-2341333485.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2085710950,
+      "name": "Great Mana Potion",
+      "page": "items/consumables/great-mana-potion-2085710950.md",
+      "json": "items/consumables/great-mana-potion-2085710950.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/great-mana-potion-improved-4065514205.md"
+}

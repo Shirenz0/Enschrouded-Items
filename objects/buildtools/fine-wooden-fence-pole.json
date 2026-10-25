@@ -1,0 +1,36 @@
+{
+ "name": "Fine Wooden Fence Pole",
+ "category": "BuildTools",
+ "image": "images/icons/4080829941.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3618025467,
+   "name": "Fine Wooden Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3618025467.png",
+   "page": "items/buildtools/fine-wooden-fence-pole-3618025467.md",
+   "json": "items/buildtools/fine-wooden-fence-pole-3618025467.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 4080829941,
+   "name": "Fine Wooden Fence Pole",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4080829941.png",
+   "page": "items/buildtools/fine-wooden-fence-pole-4080829941.md",
+   "json": "items/buildtools/fine-wooden-fence-pole-4080829941.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/fine-wooden-fence-pole.md"
+}

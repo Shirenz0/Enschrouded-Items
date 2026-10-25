@@ -27,4 +27,4 @@ What is better than one  book?
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](collection-of-books-i-3259443869.json)

@@ -1,0 +1,29 @@
+{
+ "id": 4211995022,
+ "name": "Wall Roof Inverted",
+ "internalName": "Blueprint_Voxel_Block_Wall_Roof_Inverted_4m",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/wall-roof-inverted.md",
+  "json": "objects/blueprints/wall-roof-inverted.json",
+  "versions": 2
+ },
+ "page": "items/blueprints/wall-roof-inverted-4211995022.md"
+}

@@ -25,4 +25,4 @@ A display for your Instruments
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](instruments-holder-3718138326.json)

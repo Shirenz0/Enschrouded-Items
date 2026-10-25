@@ -1,0 +1,25 @@
+{
+ "id": 3691282069,
+ "name": "Hair 04 02",
+ "internalName": "VC_Hair_04_02_frenchcrop",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/customization/hair-04-02-3691282069.md"
+}

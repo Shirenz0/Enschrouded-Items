@@ -1,0 +1,68 @@
+{
+ "id": 2369582730,
+ "name": "Poisoned Iron Arrow",
+ "internalName": "Ammo_T4_Arrow_Iron_Poison_lvl27",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 27,
+  "max": 27
+ },
+ "maxStack": 500,
+ "image": "images/icons/2369582730.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A deadly arrow, tipped with an iron arrowhead lanced in poison. Some also called it the \"reaper\".",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 50,
+   "Poison": 50
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 1264692091,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 1454438654,
+      "name": "Iron Arrow",
+      "page": "items/ammunition/iron-arrow-1454438654.md",
+      "json": "items/ammunition/iron-arrow-1454438654.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1503622318,
+      "name": "Poison Sack",
+      "page": "items/materials/poison-sack-1503622318.md",
+      "json": "items/materials/poison-sack-1503622318.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/poisoned-iron-arrow-2369582730.md"
+}

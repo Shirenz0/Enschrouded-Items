@@ -1,0 +1,35 @@
+{
+ "name": "T3 Ranger Arms",
+ "category": "Equipment",
+ "image": "images/icons/652028600.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 383069883,
+   "name": "T3 Ranger Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/383069883.png",
+   "page": "items/equipment/t3-ranger-arms-383069883.md",
+   "json": "items/equipment/t3-ranger-arms-383069883.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 652028600,
+   "name": "T3 Ranger Arms",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/652028600.png",
+   "page": "items/equipment/t3-ranger-arms-652028600.md",
+   "json": "items/equipment/t3-ranger-arms-652028600.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-ranger-arms.md"
+}

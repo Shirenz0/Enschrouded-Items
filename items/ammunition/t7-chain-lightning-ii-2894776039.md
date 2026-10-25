@@ -34,4 +34,4 @@ Ammunition to release a powerful lightnig strike that shocks and jumps to nearby
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t7-chain-lightning-ii-2894776039.json)

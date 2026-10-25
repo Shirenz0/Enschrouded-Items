@@ -1,0 +1,47 @@
+{
+ "id": 3166374248,
+ "name": "Fine Wooden Fence",
+ "internalName": "Prop_Decoration_T2_Fence_Wood_Tavern",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3166374248.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/fine-wooden-fence.md",
+  "json": "objects/buildtools/fine-wooden-fence.json",
+  "versions": 3
+ },
+ "recipes": [
+  {
+   "recipeId": 2596429681,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/fine-wooden-fence-3166374248.md"
+}

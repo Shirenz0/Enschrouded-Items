@@ -31,4 +31,4 @@ Fisher
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](epic-fishing-bait-ii-3765704048.json)

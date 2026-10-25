@@ -1,0 +1,39 @@
+{
+ "name": "Red Wall Pot",
+ "category": "BuildTools",
+ "image": "images/icons/2029375274.png",
+ "versions": 2,
+ "sharedTexts": [
+  "lore"
+ ],
+ "differsIn": [
+  "description"
+ ],
+ "items": [
+  {
+   "id": 1699546726,
+   "name": "Red Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1699546726.png",
+   "page": "items/buildtools/red-wall-pot-1699546726.md",
+   "json": "items/buildtools/red-wall-pot-1699546726.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 2029375274,
+   "name": "Red Wall Pot",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2029375274.png",
+   "page": "items/buildtools/red-wall-pot-2029375274.md",
+   "json": "items/buildtools/red-wall-pot-2029375274.json",
+   "maxStack": 50,
+   "ownTexts": [
+    "description"
+   ]
+  }
+ ],
+ "page": "objects/buildtools/red-wall-pot.md"
+}

@@ -24,4 +24,4 @@ After sprinting for a short time your attacks deal %k bonus cut damage for %k. T
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-swiftness-1378756449.json)

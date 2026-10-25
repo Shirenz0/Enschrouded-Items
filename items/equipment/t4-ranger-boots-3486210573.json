@@ -1,0 +1,122 @@
+{
+ "id": 3486210573,
+ "name": "T4 Ranger Boots",
+ "internalName": "Armor_T4_Ranger_Archer_DPS_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3486210573.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Stakking prey in these boots makes barely any sound.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-ranger-boots.md",
+  "json": "objects/equipment/t4-ranger-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Timeout Reduction",
+    "value": -350,
+    "display": "-0.35 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+12 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 114367352,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 267668454,
+      "name": "Night Desert Flower",
+      "page": "items/materials/night-desert-flower-267668454.md",
+      "json": "items/materials/night-desert-flower-267668454.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 4135223598,
+      "name": "Leather",
+      "page": "items/materials/leather-4135223598.md",
+      "json": "items/materials/leather-4135223598.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1172450293,
+      "name": "Shroud Sand",
+      "page": "items/materials/shroud-sand-1172450293.md",
+      "json": "items/materials/shroud-sand-1172450293.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-ranger-boots-3486210573.md"
+}

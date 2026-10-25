@@ -1,0 +1,35 @@
+{
+ "name": "T3 Tank Boots",
+ "category": "Equipment",
+ "image": "images/icons/536100641.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2237590597,
+   "name": "T3 Tank Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2237590597.png",
+   "page": "items/equipment/t3-tank-boots-2237590597.md",
+   "json": "items/equipment/t3-tank-boots-2237590597.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 536100641,
+   "name": "T3 Tank Boots",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/536100641.png",
+   "page": "items/equipment/t3-tank-boots-536100641.md",
+   "json": "items/equipment/t3-tank-boots-536100641.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-tank-boots.md"
+}

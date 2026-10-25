@@ -1,0 +1,71 @@
+{
+ "id": 1677017695,
+ "name": "Scout Boots",
+ "internalName": "Armor_T1_Ranger_Archer_DPS_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/1677017695.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "On quiet soles the path of the scout is a little easier.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/scout-boots.md",
+  "json": "objects/equipment/scout-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  },
+  {
+   "order": 4,
+   "name": "Enduring",
+   "effect": "+3 Enduring"
+  },
+  {
+   "order": 5,
+   "name": "+1 Runner",
+   "effect": "Increases the skill level of Runner by +1"
+  }
+ ],
+ "page": "items/equipment/scout-boots-1677017695.md"
+}

@@ -21,4 +21,4 @@ She is less fearsome when headless. Still has an acidic scent, however.
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](scavenger-head-3574383404.json)

@@ -1,0 +1,37 @@
+{
+ "name": "Shield",
+ "category": "Equipment",
+ "image": "images/icons/4213879490.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range"
+ ],
+ "items": [
+  {
+   "id": 691231505,
+   "name": "Shield",
+   "rarity": "Common",
+   "level": "3",
+   "image": "images/icons/691231505.png",
+   "page": "items/equipment/shield-691231505.md",
+   "json": "items/equipment/shield-691231505.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4213879490,
+   "name": "Shield",
+   "rarity": "Common",
+   "level": "1-55",
+   "image": "images/icons/4213879490.png",
+   "page": "items/equipment/shield-4213879490.md",
+   "json": "items/equipment/shield-4213879490.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/shield.md"
+}

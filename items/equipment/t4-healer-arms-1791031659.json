@@ -1,0 +1,122 @@
+{
+ "id": 1791031659,
+ "name": "T4 Healer Arms",
+ "internalName": "Armor_T4_Mage_Healer_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1791031659.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "In old times, these gloves were worn by the wisest scholars of the kingdom.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-healer-arms.md",
+  "json": "objects/equipment/t4-healer-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Healing",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Revive Duration",
+    "value": -600,
+    "display": "-0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Healer",
+   "effect": "Increases the skill level of Healer by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Quick Charge",
+   "effect": "Increases the skill level of Quick Charge by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2855260697,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2102228606,
+      "name": "Giant Fell Talon",
+      "page": "items/materials/giant-fell-talon-2102228606.md",
+      "json": "items/materials/giant-fell-talon-2102228606.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2287874170,
+      "name": "Green Fabric",
+      "page": "items/materials/green-fabric-2287874170.md",
+      "json": "items/materials/green-fabric-2287874170.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 267668454,
+      "name": "Night Desert Flower",
+      "page": "items/materials/night-desert-flower-267668454.md",
+      "json": "items/materials/night-desert-flower-267668454.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-healer-arms-1791031659.md"
+}

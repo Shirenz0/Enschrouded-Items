@@ -1,0 +1,35 @@
+{
+ "name": "T3 Ranger Chest",
+ "category": "Equipment",
+ "image": "images/icons/2613010861.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2255840984,
+   "name": "T3 Ranger Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2255840984.png",
+   "page": "items/equipment/t3-ranger-chest-2255840984.md",
+   "json": "items/equipment/t3-ranger-chest-2255840984.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2613010861,
+   "name": "T3 Ranger Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2613010861.png",
+   "page": "items/equipment/t3-ranger-chest-2613010861.md",
+   "json": "items/equipment/t3-ranger-chest-2613010861.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-ranger-chest.md"
+}

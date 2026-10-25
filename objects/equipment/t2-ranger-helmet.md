@@ -17,4 +17,4 @@ A hood that provides additonal protcetion from the sun, allowing you to focus yo
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-ranger-helmet.json)

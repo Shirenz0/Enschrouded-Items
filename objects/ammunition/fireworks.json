@@ -1,0 +1,68 @@
+{
+ "name": "Fireworks",
+ "category": "Ammunition",
+ "image": "images/icons/403460397.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1079068592,
+   "name": "Fireworks",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1079068592.png",
+   "page": "items/ammunition/fireworks-1079068592.md",
+   "json": "items/ammunition/fireworks-1079068592.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 1679532175,
+   "name": "Fireworks",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1679532175.png",
+   "page": "items/ammunition/fireworks-1679532175.md",
+   "json": "items/ammunition/fireworks-1679532175.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2062654155,
+   "name": "Fireworks",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2062654155.png",
+   "page": "items/ammunition/fireworks-2062654155.md",
+   "json": "items/ammunition/fireworks-2062654155.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 3332654176,
+   "name": "Fireworks",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3332654176.png",
+   "page": "items/ammunition/fireworks-3332654176.md",
+   "json": "items/ammunition/fireworks-3332654176.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 403460397,
+   "name": "Fireworks",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/403460397.png",
+   "page": "items/ammunition/fireworks-403460397.md",
+   "json": "items/ammunition/fireworks-403460397.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/ammunition/fireworks.md"
+}

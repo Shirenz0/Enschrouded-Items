@@ -21,4 +21,4 @@ Find all Items for the EarlyAccess Rewards here.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](earlyaccess-reward-items-1916039100.json)

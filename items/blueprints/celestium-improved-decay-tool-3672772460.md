@@ -23,4 +23,4 @@ Crafting, Ancient Researcher
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](celestium-improved-decay-tool-3672772460.json)

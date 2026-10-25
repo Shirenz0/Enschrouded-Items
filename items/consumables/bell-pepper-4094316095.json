@@ -1,0 +1,103 @@
+{
+ "id": 4094316095,
+ "name": "Bell Pepper",
+ "internalName": "Food_T3_raw_vegetable_RedPepper",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4094316095.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A plant of sweet flavour and powerful red colour. Grants the user dexterity upon consumption.",
+ "lore": null,
+ "whereToFind": "Nomad Highlands",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 900000,
+    "display": "15:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1730813213,
+   "name": "Chicken Soup",
+   "page": "items/consumables/chicken-soup-1730813213.md",
+   "json": "items/consumables/chicken-soup-1730813213.json"
+  },
+  {
+   "id": 3497094022,
+   "name": "Plantain Salad with ancient beans",
+   "page": "items/consumables/plantain-salad-with-ancient-beans-3497094022.md",
+   "json": "items/consumables/plantain-salad-with-ancient-beans-3497094022.json"
+  },
+  {
+   "id": 4124427746,
+   "name": "T6 Taro Root Curry",
+   "page": "items/consumables/t6-taro-root-curry-4124427746.md",
+   "json": "items/consumables/t6-taro-root-curry-4124427746.json"
+  },
+  {
+   "id": 1105965780,
+   "name": "Stir-Fried Vegetables",
+   "page": "items/consumables/stir-fried-vegetables-1105965780.md",
+   "json": "items/consumables/stir-fried-vegetables-1105965780.json"
+  },
+  {
+   "id": 3049932278,
+   "name": "Vegetable Soup",
+   "page": "items/consumables/vegetable-soup-3049932278.md",
+   "json": "items/consumables/vegetable-soup-3049932278.json"
+  },
+  {
+   "id": 2074901818,
+   "name": "Rice with ancient \"beans\"",
+   "page": "items/consumables/rice-with-ancient-beans-2074901818.md",
+   "json": "items/consumables/rice-with-ancient-beans-2074901818.json"
+  },
+  {
+   "id": 2285189073,
+   "name": "T6 Fried Rice",
+   "page": "items/consumables/t6-fried-rice-2285189073.md",
+   "json": "items/consumables/t6-fried-rice-2285189073.json"
+  },
+  {
+   "id": 2330783516,
+   "name": "Pepper Seedling",
+   "page": "items/buildtools/pepper-seedling-2330783516.md",
+   "json": "items/buildtools/pepper-seedling-2330783516.json"
+  },
+  {
+   "id": 2553328095,
+   "name": "Food Turkey Feeding",
+   "page": "items/buildtools/food-turkey-feeding-2553328095.md",
+   "json": "items/buildtools/food-turkey-feeding-2553328095.json"
+  }
+ ],
+ "page": "items/consumables/bell-pepper-4094316095.md"
+}

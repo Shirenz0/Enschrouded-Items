@@ -1,0 +1,20 @@
+{
+ "category": "Weapons",
+ "title": "Weapons",
+ "count": 301,
+ "pageNumber": 2,
+ "pages": 2,
+ "page": "categories/weapons-2.md",
+ "categoryJson": "categories/weapons.json",
+ "items": [
+  {
+   "id": 3623508713,
+   "name": "Wooden Tooth",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3623508713.png",
+   "page": "items/weapons/wooden-tooth-3623508713.md",
+   "json": "items/weapons/wooden-tooth-3623508713.json"
+  }
+ ]
+}

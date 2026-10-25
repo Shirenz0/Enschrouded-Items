@@ -27,4 +27,4 @@ Maid/Farmer garb desc
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](maid-farmer-garb-3847929949.json)

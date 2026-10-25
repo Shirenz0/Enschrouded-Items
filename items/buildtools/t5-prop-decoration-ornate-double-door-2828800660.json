@@ -1,0 +1,43 @@
+{
+ "id": 2828800660,
+ "name": "T5 Prop Decoration Ornate Double Door",
+ "internalName": "_Prop_Decoration_T5_Door_Steel_ornate_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2828800660.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1023920956,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 2555652081,
+      "name": "T5 Prop Decoration Ornate Door",
+      "page": "items/buildtools/t5-prop-decoration-ornate-door-2555652081.md",
+      "json": "items/buildtools/t5-prop-decoration-ornate-door-2555652081.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/t5-prop-decoration-ornate-double-door-2828800660.md"
+}

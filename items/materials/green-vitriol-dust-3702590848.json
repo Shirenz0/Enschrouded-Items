@@ -1,0 +1,120 @@
+{
+ "id": 3702590848,
+ "name": "Green Vitriol Dust",
+ "internalName": "Material_T6_Green_Vitriol_Dust",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 250,
+ "image": "images/icons/3702590848.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 green vitriol dust desc",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2266701869,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2916308043,
+   "name": "Ultimate Mana Potion",
+   "page": "items/consumables/ultimate-mana-potion-2916308043.md",
+   "json": "items/consumables/ultimate-mana-potion-2916308043.json"
+  },
+  {
+   "id": 1334157650,
+   "name": "T6 Eternal Fireball II",
+   "page": "items/ammunition/t6-eternal-fireball-ii-1334157650.md",
+   "json": "items/ammunition/t6-eternal-fireball-ii-1334157650.json"
+  },
+  {
+   "id": 1625866381,
+   "name": "T6 Eternal Heal Beam Channel I",
+   "page": "items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.md",
+   "json": "items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.json"
+  },
+  {
+   "id": 1389638766,
+   "name": "T6 Eternal Lightning Channel I",
+   "page": "items/ammunition/t6-eternal-lightning-channel-i-1389638766.md",
+   "json": "items/ammunition/t6-eternal-lightning-channel-i-1389638766.json"
+  },
+  {
+   "id": 3046388897,
+   "name": "T6 Shock Totem II",
+   "page": "items/ammunition/t6-shock-totem-ii-3046388897.md",
+   "json": "items/ammunition/t6-shock-totem-ii-3046388897.json"
+  },
+  {
+   "id": 2434044399,
+   "name": "Ginger In A Jungle",
+   "page": "items/colorpalette/ginger-in-a-jungle-2434044399.md",
+   "json": "items/colorpalette/ginger-in-a-jungle-2434044399.json"
+  },
+  {
+   "id": 1966532423,
+   "name": "Holly and Berry",
+   "page": "items/colorpalette/holly-and-berry-1966532423.md",
+   "json": "items/colorpalette/holly-and-berry-1966532423.json"
+  },
+  {
+   "id": 3846605059,
+   "name": "Frog In The Grass",
+   "page": "items/colorpalette/frog-in-the-grass-3846605059.md",
+   "json": "items/colorpalette/frog-in-the-grass-3846605059.json"
+  },
+  {
+   "id": 853884133,
+   "name": "Shroud Eminence",
+   "page": "items/materials/shroud-eminence-853884133.md",
+   "json": "items/materials/shroud-eminence-853884133.json"
+  },
+  {
+   "id": 2563601506,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-2563601506.md",
+   "json": "items/weapons/cryptic-wand-2563601506.json"
+  },
+  {
+   "id": 2230173783,
+   "name": "T6 Assassin Legs",
+   "page": "items/equipment/t6-assassin-legs-2230173783.md",
+   "json": "items/equipment/t6-assassin-legs-2230173783.json"
+  }
+ ],
+ "page": "items/materials/green-vitriol-dust-3702590848.md"
+}

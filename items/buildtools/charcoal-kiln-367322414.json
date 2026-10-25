@@ -1,0 +1,43 @@
+{
+ "id": 367322414,
+ "name": "Charcoal Kiln",
+ "internalName": "Prop_Production_T1_Charcoal_Kiln",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/367322414.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A heap of wood covered with soil, able to produce Charcoal over time.",
+ "lore": "Furniture",
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3344973719,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/charcoal-kiln-367322414.md"
+}

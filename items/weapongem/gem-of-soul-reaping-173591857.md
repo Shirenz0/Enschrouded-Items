@@ -24,4 +24,4 @@ Damaging an enemy puts a   mark on them for %k.  Marked enemies spawn a soul phi
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-soul-reaping-173591857.json)

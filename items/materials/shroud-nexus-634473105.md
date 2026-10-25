@@ -29,4 +29,4 @@ Alchemist or Fell Monstrosity and Fell Sicklescythe
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](shroud-nexus-634473105.json)

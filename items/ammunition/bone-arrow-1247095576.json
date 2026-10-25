@@ -1,0 +1,58 @@
+{
+ "id": 1247095576,
+ "name": "Bone Arrow",
+ "internalName": "Ammo_T2_Arrow_Bone_lvl15",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 500,
+ "image": "images/icons/1247095576.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An arrow made from Bone.\n\nThe force of this arrow allows it to penetrate hit targets.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Blunt": 100
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 3788125708,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2617088387,
+      "name": "T2 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 25,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/bone-arrow-1247095576.md"
+}

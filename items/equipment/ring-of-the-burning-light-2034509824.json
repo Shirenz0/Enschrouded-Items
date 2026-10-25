@@ -1,0 +1,75 @@
+{
+ "id": 2034509824,
+ "name": "Ring Of The Burning Light",
+ "internalName": "Ring_T3_Ring_of_Light",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2034509824.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Filled with ancient magic, this Ring will be a ligth to you in dark places, when all other lights go out.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Increased Fire Damage",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fire Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Fire Resistance",
+   "effect": "Increases the skill level of Fire Resistance by +1"
+  },
+  {
+   "order": 2,
+   "name": "Mana",
+   "effect": "+20 Mana"
+  },
+  {
+   "order": 3,
+   "name": "Spiritual",
+   "effect": "+12 Spiritual"
+  },
+  {
+   "order": 4,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Arsonist",
+   "effect": "Increases the skill level of Arsonist by +1"
+  }
+ ],
+ "page": "items/equipment/ring-of-the-burning-light-2034509824.md"
+}

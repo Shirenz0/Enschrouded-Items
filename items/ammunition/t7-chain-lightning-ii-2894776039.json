@@ -1,0 +1,89 @@
+{
+ "id": 2894776039,
+ "name": "T7 Chain Lightning II",
+ "internalName": "Ammo_T7_Spell_Lightning_Chain_lvl47",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 47,
+  "max": 47
+ },
+ "maxStack": 500,
+ "image": "images/icons/2894776039.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Ammunition to release a powerful lightnig strike that shocks and jumps to nearby enemies. Hit enemies receive a small portion of stun bar progress.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Lightning": 100
+  },
+  "values": [
+   {
+    "label": "Cast Time",
+    "value": 1200,
+    "display": "1.2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Cost",
+    "value": 200,
+    "display": "200",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2258192574,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 844454296,
+      "name": "Sparkling Dust",
+      "page": "items/materials/sparkling-dust-844454296.md",
+      "json": "items/materials/sparkling-dust-844454296.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 61577244,
+      "name": "Diamond",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1943367547,
+   "name": "T7 Eternal Chain Lightning III",
+   "page": "items/ammunition/t7-eternal-chain-lightning-iii-1943367547.md",
+   "json": "items/ammunition/t7-eternal-chain-lightning-iii-1943367547.json"
+  }
+ ],
+ "page": "items/ammunition/t7-chain-lightning-ii-2894776039.md"
+}

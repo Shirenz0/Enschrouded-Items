@@ -32,4 +32,4 @@ Campfire
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](roasted-corncob-4293773074.json)

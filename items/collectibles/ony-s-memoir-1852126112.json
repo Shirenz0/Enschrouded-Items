@@ -1,0 +1,33 @@
+{
+ "id": 1852126112,
+ "name": "Ony's Memoir",
+ "internalName": "8kLoreText_mapPiece_communityQuest_2025_04_ony",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/1852126112.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "My cup is always full.",
+ "lore": "Map",
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3491672504,
+   "name": "The Dragon's Map",
+   "page": "items/collectibles/the-dragon-s-map-3491672504.md",
+   "json": "items/collectibles/the-dragon-s-map-3491672504.json"
+  }
+ ],
+ "page": "items/collectibles/ony-s-memoir-1852126112.md"
+}

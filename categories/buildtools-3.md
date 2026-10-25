@@ -305,4 +305,4 @@
 | <img src="../images/icons/1543478105.png" width="48"> | [Notice Board](../items/buildtools/notice-board-1543478105.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4123212614.png" width="48"> | [Orange Decorative Box](../items/buildtools/orange-decorative-box-4123212614.md) | ⚪ Common | - | 50 |
 
-[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · **3** · [4](buildtools-4.md) · [5](buildtools-5.md) · [6](buildtools-6.md)
+[← All categories](../README.md) · page [1](buildtools.md) · [2](buildtools-2.md) · **3** · [4](buildtools-4.md) · [5](buildtools-5.md) · [6](buildtools-6.md) · [JSON](buildtools-3.json)

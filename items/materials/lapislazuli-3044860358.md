@@ -25,4 +25,4 @@ Kindlewastes
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](lapislazuli-3044860358.json)

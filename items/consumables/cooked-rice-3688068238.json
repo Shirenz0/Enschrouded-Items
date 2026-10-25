@@ -1,0 +1,112 @@
+{
+ "id": 3688068238,
+ "name": "Cooked Rice",
+ "internalName": "Food_T6_processed_grain_Rice",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3688068238.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "delicious cooked rice but will be even better when used in a dish",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Melee Damage",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2033035162,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2374813707,
+      "name": "Raw Rice",
+      "page": "items/materials/raw-rice-2374813707.md",
+      "json": "items/materials/raw-rice-2374813707.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 4124427746,
+   "name": "T6 Taro Root Curry",
+   "page": "items/consumables/t6-taro-root-curry-4124427746.md",
+   "json": "items/consumables/t6-taro-root-curry-4124427746.json"
+  },
+  {
+   "id": 2884389562,
+   "name": "Banana Curry",
+   "page": "items/consumables/banana-curry-2884389562.md",
+   "json": "items/consumables/banana-curry-2884389562.json"
+  },
+  {
+   "id": 2848753277,
+   "name": "Cabbage Mushroom Rice",
+   "page": "items/consumables/cabbage-mushroom-rice-2848753277.md",
+   "json": "items/consumables/cabbage-mushroom-rice-2848753277.json"
+  },
+  {
+   "id": 3529288638,
+   "name": "Sushi",
+   "page": "items/consumables/sushi-3529288638.md",
+   "json": "items/consumables/sushi-3529288638.json"
+  },
+  {
+   "id": 4166256477,
+   "name": "Grilled Fish with Coconut Rice",
+   "page": "items/consumables/grilled-fish-with-coconut-rice-4166256477.md",
+   "json": "items/consumables/grilled-fish-with-coconut-rice-4166256477.json"
+  },
+  {
+   "id": 2074901818,
+   "name": "Rice with ancient \"beans\"",
+   "page": "items/consumables/rice-with-ancient-beans-2074901818.md",
+   "json": "items/consumables/rice-with-ancient-beans-2074901818.json"
+  },
+  {
+   "id": 2285189073,
+   "name": "T6 Fried Rice",
+   "page": "items/consumables/t6-fried-rice-2285189073.md",
+   "json": "items/consumables/t6-fried-rice-2285189073.json"
+  }
+ ],
+ "page": "items/consumables/cooked-rice-3688068238.md"
+}

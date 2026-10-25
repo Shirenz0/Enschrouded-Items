@@ -17,4 +17,4 @@ Heavy gloves which can swing any weaponry with added might.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t4-tank-arms.json)

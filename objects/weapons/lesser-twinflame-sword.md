@@ -19,4 +19,4 @@ A weapon that was rumored to have fallen from the stars. It crashed down to Embe
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](lesser-twinflame-sword.json)

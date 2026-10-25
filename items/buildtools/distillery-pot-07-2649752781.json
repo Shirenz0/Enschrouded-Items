@@ -1,0 +1,25 @@
+{
+ "id": 2649752781,
+ "name": "Distillery Pot 07",
+ "internalName": "Prop_Furniture_Distillery_Pot_07",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2649752781.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": null,
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/distillery-pot-07-2649752781.md"
+}

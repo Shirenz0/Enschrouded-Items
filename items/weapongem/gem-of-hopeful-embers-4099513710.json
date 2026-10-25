@@ -1,0 +1,41 @@
+{
+ "id": 4099513710,
+ "name": "Gem of Hopeful Embers",
+ "internalName": "T2_Gem_GemOfHopefulEmbers",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/4099513710.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "When your Shroudmeter is in a below %k, defeated enemies drop Fogpower Orbs that replenish %k.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Replenished Time",
+    "value": 20000,
+    "display": "20 s",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Remaining Shroud time threshold",
+    "value": 120000,
+    "display": "120,000",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-hopeful-embers-4099513710.md"
+}

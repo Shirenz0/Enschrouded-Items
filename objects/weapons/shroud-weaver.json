@@ -1,0 +1,71 @@
+{
+ "name": "Shroud Weaver",
+ "category": "Weapons",
+ "image": "images/icons/3192770947.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 1343375854,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/1343375854.png",
+   "page": "items/weapons/shroud-weaver-1343375854.md",
+   "json": "items/weapons/shroud-weaver-1343375854.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3570989791,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3570989791.png",
+   "page": "items/weapons/shroud-weaver-3570989791.md",
+   "json": "items/weapons/shroud-weaver-3570989791.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1621727293,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/1621727293.png",
+   "page": "items/weapons/shroud-weaver-1621727293.md",
+   "json": "items/weapons/shroud-weaver-1621727293.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1069361064,
+   "name": "Shroud Weaver",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1069361064.png",
+   "page": "items/weapons/shroud-weaver-1069361064.md",
+   "json": "items/weapons/shroud-weaver-1069361064.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3192770947,
+   "name": "Shroud Weaver",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3192770947.png",
+   "page": "items/weapons/shroud-weaver-3192770947.md",
+   "json": "items/weapons/shroud-weaver-3192770947.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/shroud-weaver.md"
+}

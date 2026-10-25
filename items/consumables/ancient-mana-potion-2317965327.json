@@ -1,0 +1,68 @@
+{
+ "id": 2317965327,
+ "name": "Ancient Mana Potion +",
+ "internalName": "_Consumable_Potion_Mana_T7_MoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2317965327.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some mana instantly and provides an additional Mana over time effect for even more seconds.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana per second",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 300,
+    "display": "300",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1598376037,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1756446918,
+      "name": "Ancient Health Potion",
+      "page": "items/consumables/ancient-health-potion-1756446918.md",
+      "json": "items/consumables/ancient-health-potion-1756446918.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/ancient-mana-potion-2317965327.md"
+}

@@ -1,0 +1,29 @@
+{
+ "id": 3590450839,
+ "name": "Crotch Male 01",
+ "internalName": "VC_Body_Crotch_01",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/crotch-male-01.md",
+  "json": "objects/customization/crotch-male-01.json",
+  "versions": 4
+ },
+ "page": "items/customization/crotch-male-01-3590450839.md"
+}

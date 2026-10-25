@@ -24,4 +24,4 @@ Dealing pierce damage applies  puncturing to enemies.  Punctured enemies receive
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-repetition-844759039.json)

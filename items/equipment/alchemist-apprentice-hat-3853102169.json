@@ -1,0 +1,71 @@
+{
+ "id": 3853102169,
+ "name": "Alchemist Apprentice Hat",
+ "internalName": "Armor_T1_Mage_Wizard_DPS_Helmet_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/3853102169.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Spending general protection and providing shade, the alchemists apprentice hat is perfect to wander around the world.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/alchemist-apprentice-hat.md",
+  "json": "objects/equipment/alchemist-apprentice-hat.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Head",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Magical Critical Strike Chance",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Mage Apprenticeship",
+   "effect": "Increases the skill level of Mage Apprenticeship by +1"
+  },
+  {
+   "order": 4,
+   "name": "Spiritual",
+   "effect": "+4 Spiritual"
+  },
+  {
+   "order": 5,
+   "name": "+1 Thunder",
+   "effect": "Increases the skill level of Thunder by +1"
+  }
+ ],
+ "page": "items/equipment/alchemist-apprentice-hat-3853102169.md"
+}

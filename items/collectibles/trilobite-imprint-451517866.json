@@ -1,0 +1,25 @@
+{
+ "id": 451517866,
+ "name": "Trilobite Imprint",
+ "internalName": "Collection_fossils_02_Trilobites_trilobite_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/451517866.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A detailed trilobite imprint. The structure of it's body can still be made out clearly.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/trilobite-imprint-451517866.md"
+}

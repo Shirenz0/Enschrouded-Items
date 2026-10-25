@@ -1,0 +1,77 @@
+{
+ "id": 3460797392,
+ "name": "T4 Mage Chest",
+ "internalName": "Armor_T4_Mage_Wizard_DPS_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/3460797392.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Died over many nights with deep cobalt coloring derived from nightblooms overseas.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-mage-chest.md",
+  "json": "objects/equipment/t4-mage-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 96,
+    "display": "96",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Dark Arts",
+   "effect": "Increases the skill level of Dark Arts by +1"
+  }
+ ],
+ "page": "items/equipment/t4-mage-chest-3460797392.md"
+}

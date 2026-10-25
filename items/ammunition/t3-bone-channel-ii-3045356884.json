@@ -1,0 +1,72 @@
+{
+ "id": 3045356884,
+ "name": "T3 Bone Channel II",
+ "internalName": "Ammo_T3_Spell_Bone_Channel_lvl20",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 500,
+ "image": "images/icons/3045356884.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Hold to summon bone projectiles that seek out enemies.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 25,
+    "display": "25",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3425862152,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 30,
+     "item": {
+      "id": 2617088387,
+      "name": "T2 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 60,
+     "item": {
+      "id": 2053375978,
+      "name": "Bones",
+      "page": "items/materials/bones-2053375978.md",
+      "json": "items/materials/bones-2053375978.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/ammunition/t3-bone-channel-ii-3045356884.md"
+}

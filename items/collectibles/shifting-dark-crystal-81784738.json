@@ -1,0 +1,25 @@
+{
+ "id": 81784738,
+ "name": "Shifting Dark Crystal",
+ "internalName": "Collection_skeletons_01_crystals_crystal_03",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/81784738.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "When gazing upon the crystal's surface, you feel the mirror image warp and shift into something... unsettling.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/shifting-dark-crystal-81784738.md"
+}

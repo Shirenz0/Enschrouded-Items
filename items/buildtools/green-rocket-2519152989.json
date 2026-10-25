@@ -1,0 +1,43 @@
+{
+ "id": 2519152989,
+ "name": "Green Rocket",
+ "internalName": "Consumable_Toy_Fireworks_03_Green_Rocket_T1",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2519152989.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Alchemy!",
+ "lore": "Consumables",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1108276609,
+   "station": "Lunar New Year Trader",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/buildtools/green-rocket-2519152989.md"
+}

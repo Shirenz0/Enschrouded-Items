@@ -28,4 +28,4 @@ A Wooden Arrow made of the most basic ingredients.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](wooden-arrow-2956941513.json)

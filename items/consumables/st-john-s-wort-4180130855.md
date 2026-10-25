@@ -32,4 +32,4 @@ Springlands
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](st-john-s-wort-4180130855.json)

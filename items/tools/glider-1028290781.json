@@ -1,0 +1,93 @@
+{
+ "id": 1028290781,
+ "name": "Glider",
+ "internalName": "Tool_Glider_T1",
+ "category": {
+  "id": "Tools",
+  "title": "Tools",
+  "page": "categories/tools.md",
+  "json": "categories/tools.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 1,
+ "image": "images/icons/1028290781.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The possibility to fly has always been a desirable trade. Using the windcurrents and height of the starting platform, the glider is a powerful tool, that enables its user to travel great distances in an instance.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Glider",
+  "values": [
+   {
+    "label": "Range",
+    "value": 100,
+    "display": "100",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina per Second",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Speed",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2525236858,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 1320899587,
+      "name": "Fog Wood",
+      "page": "items/materials/fog-wood-1320899587.md",
+      "json": "items/materials/fog-wood-1320899587.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 984234407,
+      "name": "Animal Fur",
+      "page": "items/materials/animal-fur-984234407.md",
+      "json": "items/materials/animal-fur-984234407.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2559861108,
+      "name": "Fog Essence",
+      "page": "items/materials/fog-essence-2559861108.md",
+      "json": "items/materials/fog-essence-2559861108.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/tools/glider-1028290781.md"
+}

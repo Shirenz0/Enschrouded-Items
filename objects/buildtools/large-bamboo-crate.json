@@ -1,0 +1,36 @@
+{
+ "name": "Large Bamboo Crate",
+ "category": "BuildTools",
+ "image": "images/icons/3554673768.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2326445767,
+   "name": "Large Bamboo Crate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2326445767.png",
+   "page": "items/buildtools/large-bamboo-crate-2326445767.md",
+   "json": "items/buildtools/large-bamboo-crate-2326445767.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 3554673768,
+   "name": "Large Bamboo Crate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3554673768.png",
+   "page": "items/buildtools/large-bamboo-crate-3554673768.md",
+   "json": "items/buildtools/large-bamboo-crate-3554673768.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/large-bamboo-crate.md"
+}

@@ -27,4 +27,4 @@ A severed Scavenger Desert Heavy Head. Collect multiple to craft the iron trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](iron-scavenger-desert-heavy-trophy-3203632506.json)

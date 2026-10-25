@@ -17,4 +17,4 @@ A metal plate shield that was twisted and shaped in a Shroudstorm. It seems to b
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](stormshield.json)

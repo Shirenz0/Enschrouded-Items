@@ -29,4 +29,4 @@ This Ancient Workbench is only a visual varaition of the normal workbench.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](ancinet-workbench-2941673930.json)

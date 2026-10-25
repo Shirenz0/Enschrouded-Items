@@ -1,0 +1,43 @@
+{
+ "id": 2835143812,
+ "name": "Ancient Rune",
+ "internalName": "Material_T2_Token_WeaponUpgrade_Rune02",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2835143812.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Used to upgrade legendary weapons.",
+ "lore": null,
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2602133653,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 1101501148,
+      "name": "Runes",
+      "page": "items/materials/runes-1101501148.md",
+      "json": "items/materials/runes-1101501148.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/materials/ancient-rune-2835143812.md"
+}

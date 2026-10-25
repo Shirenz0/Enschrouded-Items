@@ -1,0 +1,79 @@
+{
+ "id": 160895742,
+ "name": "T6 Greatsword Arms - Unique",
+ "internalName": "Armor_T6_Unique_Greatsword_Arms",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/160895742.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 Greatsword arms desc - unique",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Great Sword Damage",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Damage Multiplier vs flying enemy",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Athlete",
+   "effect": "Increases the skill level of Athlete by +1"
+  },
+  {
+   "order": 4,
+   "name": "+1 Vigorous Deflection",
+   "effect": "Increases the skill level of Vigorous Deflection by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Titan Edge",
+   "effect": "Increases the skill level of Titan Edge by +1"
+  }
+ ],
+ "page": "items/equipment/t6-greatsword-arms-unique-160895742.md"
+}

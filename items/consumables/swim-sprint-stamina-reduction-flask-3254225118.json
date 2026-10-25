@@ -1,0 +1,80 @@
+{
+ "id": 3254225118,
+ "name": "Swim Sprint Stamina Reduction Flask",
+ "internalName": "Consumable_Potion_Flask_SwimSprintStaminaReductionMod_T6",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3254225118.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Your stamina depletes slower thanks to this flask",
+ "lore": "Flask",
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina Depletion Swim Sprinting",
+    "value": -20,
+    "display": "-20",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4240407940,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 806123624,
+      "name": "Algae",
+      "page": "items/consumables/algae-806123624.md",
+      "json": "items/consumables/algae-806123624.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 2448218322,
+      "name": "Algae Buds",
+      "page": "items/consumables/algae-buds-2448218322.md",
+      "json": "items/consumables/algae-buds-2448218322.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1898288525,
+      "name": "Mother-Of-Pearl",
+      "page": "items/materials/mother-of-pearl-1898288525.md",
+      "json": "items/materials/mother-of-pearl-1898288525.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1604789280,
+      "name": "Pearl",
+      "page": "items/materials/pearl-1604789280.md",
+      "json": "items/materials/pearl-1604789280.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.md"
+}

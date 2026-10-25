@@ -1,0 +1,43 @@
+{
+ "id": 337744460,
+ "name": "Fine Hardwood Double Door",
+ "internalName": "Prop_Decoration_T2_Door_Fine_HardWood_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/337744460.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3967950635,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 517818801,
+      "name": "Fine Hardwood Door",
+      "page": "items/buildtools/fine-hardwood-door-517818801.md",
+      "json": "items/buildtools/fine-hardwood-door-517818801.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/fine-hardwood-double-door-337744460.md"
+}

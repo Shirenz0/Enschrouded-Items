@@ -1,0 +1,51 @@
+{
+ "id": 2573714663,
+ "name": "Skeleton T7 Boss Head",
+ "internalName": "Material_TX_Trophy_Skeleton_Lizard_Boss_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2573714663.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Skeleton T7 Boss Head des",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3996827562,
+   "name": "Gold Hollow Wispwyvern Trophy",
+   "page": "items/buildtools/gold-hollow-wispwyvern-trophy-3996827562.md",
+   "json": "items/buildtools/gold-hollow-wispwyvern-trophy-3996827562.json"
+  },
+  {
+   "id": 2151396097,
+   "name": "Iron Hollow Wispwyvern Trophy",
+   "page": "items/buildtools/iron-hollow-wispwyvern-trophy-2151396097.md",
+   "json": "items/buildtools/iron-hollow-wispwyvern-trophy-2151396097.json"
+  },
+  {
+   "id": 530618702,
+   "name": "Bronze Hollow Wispwyvern Trophy",
+   "page": "items/buildtools/bronze-hollow-wispwyvern-trophy-530618702.md",
+   "json": "items/buildtools/bronze-hollow-wispwyvern-trophy-530618702.json"
+  },
+  {
+   "id": 897401785,
+   "name": "Hollow Wispwyvern Trophy",
+   "page": "items/buildtools/hollow-wispwyvern-trophy-897401785.md",
+   "json": "items/buildtools/hollow-wispwyvern-trophy-897401785.json"
+  }
+ ],
+ "page": "items/materials/skeleton-t7-boss-head-2573714663.md"
+}

@@ -1,0 +1,39 @@
+{
+ "id": 1611805749,
+ "name": "Critter Carapace",
+ "internalName": "Material_T5_CritterParts_CritterCarapace",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/1611805749.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "I dont really like sea food...",
+ "lore": null,
+ "whereToFind": "Albaneve Summits and Veilwater Basin Fell Enemies",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3870359442,
+   "name": "Critter Crawler Bomb",
+   "page": "items/weapons/critter-crawler-bomb-3870359442.md",
+   "json": "items/weapons/critter-crawler-bomb-3870359442.json"
+  },
+  {
+   "id": 2903659724,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-2903659724.md",
+   "json": "items/equipment/riptide-2903659724.json"
+  }
+ ],
+ "page": "items/materials/critter-carapace-1611805749.md"
+}

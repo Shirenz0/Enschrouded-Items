@@ -1,0 +1,70 @@
+{
+ "id": 2545181812,
+ "name": "Consumable Potion Antidote T5",
+ "internalName": "Consumable_Potion_Antidote_Poison_T5",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2545181812.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Removes all Poison effects and prevents next poisoning for an hour",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2580627371,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1503622318,
+      "name": "Poison Sack",
+      "page": "items/materials/poison-sack-1503622318.md",
+      "json": "items/materials/poison-sack-1503622318.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 579568751,
+      "name": "Shroud Vapor",
+      "page": "items/materials/shroud-vapor-579568751.md",
+      "json": "items/materials/shroud-vapor-579568751.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1355070973,
+      "name": "T5 Wolfsbane",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4230023681,
+      "name": "Coal Powder",
+      "page": "items/materials/coal-powder-4230023681.md",
+      "json": "items/materials/coal-powder-4230023681.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "page": "items/consumables/consumable-potion-antidote-t5-2545181812.md"
+}

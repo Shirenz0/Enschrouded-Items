@@ -1,0 +1,88 @@
+{
+ "id": 2575926249,
+ "name": "Tomato Fish Soup",
+ "internalName": "Food_T2_dish_fish_TomatoFishSoup",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2575926249.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Tomato Fish Soup. suddenly you can stay longer under water",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Maximum Oxygen",
+    "value": 20,
+    "display": "20",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2100000,
+    "display": "35:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3632646542,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1036540037,
+      "name": "Tomatos",
+      "page": "items/consumables/tomatos-1036540037.md",
+      "json": "items/consumables/tomatos-1036540037.json"
+     }
+    },
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 887847819,
+       "name": "Fish uncommon 02 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 3445329106,
+       "name": "Fish uncommon 01 name",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1216878011,
+       "name": "Fish uncommon 03 name",
+       "page": null,
+       "json": null
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/tomato-fish-soup-2575926249.md"
+}

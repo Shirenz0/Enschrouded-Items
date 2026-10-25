@@ -23,4 +23,4 @@ Crafting, Ancient Researcher
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](celestium-improved-overgrowth-tool-3145109238.json)

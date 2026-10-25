@@ -31,4 +31,4 @@ A severed Hollow Wispwyvern Head. Collect multiple to craft the trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](hollow-wispwyvern-trophy-897401785.json)

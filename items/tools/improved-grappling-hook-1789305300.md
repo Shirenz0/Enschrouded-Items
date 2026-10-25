@@ -36,4 +36,4 @@ Carpenter
 
 ---
 
-[← Tools](../../categories/tools.md) · [All categories](../../README.md)
+[← Tools](../../categories/tools.md) · [All categories](../../README.md) · [JSON](improved-grappling-hook-1789305300.json)

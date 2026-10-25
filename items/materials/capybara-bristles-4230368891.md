@@ -25,4 +25,4 @@ Veilwater Basin
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](capybara-bristles-4230368891.json)

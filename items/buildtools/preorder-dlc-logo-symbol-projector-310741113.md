@@ -21,4 +21,4 @@ An illumination item that can be placed in your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](preorder-dlc-logo-symbol-projector-310741113.json)

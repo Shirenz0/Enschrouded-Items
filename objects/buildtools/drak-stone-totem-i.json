@@ -1,0 +1,36 @@
+{
+ "name": "Drak Stone Totem I",
+ "category": "BuildTools",
+ "image": "images/icons/674281730.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3340302763,
+   "name": "Drak Stone Totem I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3340302763.png",
+   "page": "items/buildtools/drak-stone-totem-i-3340302763.md",
+   "json": "items/buildtools/drak-stone-totem-i-3340302763.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 674281730,
+   "name": "Drak Stone Totem I",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/674281730.png",
+   "page": "items/buildtools/drak-stone-totem-i-674281730.md",
+   "json": "items/buildtools/drak-stone-totem-i-674281730.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/drak-stone-totem-i.md"
+}

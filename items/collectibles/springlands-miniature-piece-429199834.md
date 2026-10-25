@@ -17,4 +17,4 @@ The place where everything began. Green, rolling hills, the smell of honey and c
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](springlands-miniature-piece-429199834.json)

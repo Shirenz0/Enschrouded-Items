@@ -1,0 +1,67 @@
+{
+ "id": 1206899711,
+ "name": "T2 Sniper Chest",
+ "internalName": "Armor_T2_Ranger_Sniper_Chest_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/1206899711.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This upper body armor captures the spirit of the forrest with it's green undergarment. The stitched leather decor resembles leaves.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Piercing Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Ranger",
+   "effect": "Increases the skill level of Ranger by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+8 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Fatal Precision",
+   "effect": "Increases the skill level of Fatal Precision by +1"
+  }
+ ],
+ "page": "items/equipment/t2-sniper-chest-1206899711.md"
+}

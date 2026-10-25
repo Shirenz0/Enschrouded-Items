@@ -17,4 +17,4 @@ Visit the Barber to change your appearance. Once you've unlocked this color, you
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](light-blonde-hair-878081534.json)

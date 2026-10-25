@@ -1,0 +1,35 @@
+{
+ "name": "Rising Fighter Boots",
+ "category": "Equipment",
+ "image": "images/icons/2147223774.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1694671169,
+   "name": "Rising Fighter Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/1694671169.png",
+   "page": "items/equipment/rising-fighter-boots-1694671169.md",
+   "json": "items/equipment/rising-fighter-boots-1694671169.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2147223774,
+   "name": "Rising Fighter Boots",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2147223774.png",
+   "page": "items/equipment/rising-fighter-boots-2147223774.md",
+   "json": "items/equipment/rising-fighter-boots-2147223774.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/rising-fighter-boots.md"
+}

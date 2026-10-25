@@ -1,0 +1,41 @@
+{
+ "id": 2418233534,
+ "name": "Gem of Hyperspecialization",
+ "internalName": "T7_Gem_GemOfHyperSpecialization",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/2418233534.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "After triggering the weapons Special Ability, any kill within %k will return %k Special Ability Energy.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Buff Duration",
+    "value": 3000,
+    "display": "3 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Special Ability Energy On Kill",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-hyperspecialization-2418233534.md"
+}

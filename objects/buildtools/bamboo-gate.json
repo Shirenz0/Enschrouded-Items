@@ -1,0 +1,69 @@
+{
+ "name": "Bamboo Gate",
+ "category": "BuildTools",
+ "image": "images/icons/371722890.png",
+ "versions": 5,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1950301003,
+   "name": "Bamboo Gate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1950301003.png",
+   "page": "items/buildtools/bamboo-gate-1950301003.md",
+   "json": "items/buildtools/bamboo-gate-1950301003.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 260723984,
+   "name": "Bamboo Gate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/260723984.png",
+   "page": "items/buildtools/bamboo-gate-260723984.md",
+   "json": "items/buildtools/bamboo-gate-260723984.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 3413337702,
+   "name": "Bamboo Gate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3413337702.png",
+   "page": "items/buildtools/bamboo-gate-3413337702.md",
+   "json": "items/buildtools/bamboo-gate-3413337702.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 3607939791,
+   "name": "Bamboo Gate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3607939791.png",
+   "page": "items/buildtools/bamboo-gate-3607939791.md",
+   "json": "items/buildtools/bamboo-gate-3607939791.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 371722890,
+   "name": "Bamboo Gate",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/371722890.png",
+   "page": "items/buildtools/bamboo-gate-371722890.md",
+   "json": "items/buildtools/bamboo-gate-371722890.json",
+   "maxStack": 20,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/bamboo-gate.md"
+}

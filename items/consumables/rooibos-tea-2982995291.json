@@ -1,0 +1,65 @@
+{
+ "id": 2982995291,
+ "name": "Rooibos Tea",
+ "internalName": "Food_T3_dish_hydration_RooibosTea",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2982995291.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An aromatic that calms the body, providing an instant boost of energy for the user.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 2400000,
+    "display": "40:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 30,
+    "display": "30",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 308485935,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1628543982,
+      "name": "Rooibos",
+      "page": "items/materials/rooibos-1628543982.md",
+      "json": "items/materials/rooibos-1628543982.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/rooibos-tea-2982995291.md"
+}

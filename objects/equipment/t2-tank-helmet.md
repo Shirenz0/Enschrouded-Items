@@ -17,4 +17,4 @@ Allows you to protect both your allies and your skull.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t2-tank-helmet.json)

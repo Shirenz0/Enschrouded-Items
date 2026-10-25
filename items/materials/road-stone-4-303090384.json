@@ -1,0 +1,52 @@
+{
+ "id": 303090384,
+ "name": "Road Stone 4",
+ "internalName": "Build_TerrainMaterial_T6_Road_Stone_4",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/303090384.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A road made from T6 Wetlands Stones",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 689477811,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 7,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2252426664,
+      "name": "T6 Wetlands Rubble",
+      "page": "items/materials/t6-wetlands-rubble-2252426664.md",
+      "json": "items/materials/t6-wetlands-rubble-2252426664.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/road-stone-4-303090384.md"
+}

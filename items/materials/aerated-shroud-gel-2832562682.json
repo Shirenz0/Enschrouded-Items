@@ -1,0 +1,81 @@
+{
+ "id": 2832562682,
+ "name": "Aerated Shroud Gel",
+ "internalName": "Material_T1_AeratedShroudGel",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/2832562682.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lightweight, buoyant gel. Has properties of fell magic.\n\n**Crafting Ingredient**: Primarily used for crafting armor.\n**Source**: Dropped by Fell Banshees, first found in the Springlands biome.",
+ "lore": null,
+ "whereToFind": "Fell Banshees, Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1899806950,
+   "name": "T1 Heal Channel I",
+   "page": "items/ammunition/t1-heal-channel-i-1899806950.md",
+   "json": "items/ammunition/t1-heal-channel-i-1899806950.json"
+  },
+  {
+   "id": 2195022120,
+   "name": "T1 lore wand",
+   "page": "items/weapons/t1-lore-wand-2195022120.md",
+   "json": "items/weapons/t1-lore-wand-2195022120.json"
+  },
+  {
+   "id": 201987856,
+   "name": "Spectral Shield",
+   "page": "items/equipment/spectral-shield-201987856.md",
+   "json": "items/equipment/spectral-shield-201987856.json"
+  },
+  {
+   "id": 3303276493,
+   "name": "Alchemist Apprentice Gloves",
+   "page": "items/equipment/alchemist-apprentice-gloves-3303276493.md",
+   "json": "items/equipment/alchemist-apprentice-gloves-3303276493.json"
+  },
+  {
+   "id": 1572355779,
+   "name": "Alchemist Apprentice Hat",
+   "page": "items/equipment/alchemist-apprentice-hat-1572355779.md",
+   "json": "items/equipment/alchemist-apprentice-hat-1572355779.json"
+  },
+  {
+   "id": 199517504,
+   "name": "Rising Fighter Gloves",
+   "page": "items/equipment/rising-fighter-gloves-199517504.md",
+   "json": "items/equipment/rising-fighter-gloves-199517504.json"
+  },
+  {
+   "id": 2070050318,
+   "name": "Rising Fighter Helmet",
+   "page": "items/equipment/rising-fighter-helmet-2070050318.md",
+   "json": "items/equipment/rising-fighter-helmet-2070050318.json"
+  },
+  {
+   "id": 1972419518,
+   "name": "Scout Gloves",
+   "page": "items/equipment/scout-gloves-1972419518.md",
+   "json": "items/equipment/scout-gloves-1972419518.json"
+  },
+  {
+   "id": 3288375535,
+   "name": "Scout Hood",
+   "page": "items/equipment/scout-hood-3288375535.md",
+   "json": "items/equipment/scout-hood-3288375535.json"
+  }
+ ],
+ "page": "items/materials/aerated-shroud-gel-2832562682.md"
+}

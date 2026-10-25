@@ -1,0 +1,111 @@
+{
+ "id": 3940653429,
+ "name": "T4 Shroud Meteor",
+ "internalName": "Ammo_T4_Spell_Fog_Meteor_lvl27",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 27,
+  "max": 27
+ },
+ "maxStack": 500,
+ "image": "images/icons/3940653429.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Magical ammunition that summons a fog meteor, which crashes down on your enemies.\n\nA powerful spell that strikes fear into your enemies, but be careful with its usage, as it consumes part of your Shroud Survivability.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Shroud": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 182,
+    "display": "182",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 4000,
+    "display": "4 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Max Shroud Survivability",
+    "value": -240000,
+    "display": "-240,000",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 500,
+    "display": "500",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3015843854,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2698923038,
+      "name": "Fell Mist",
+      "page": "items/materials/fell-mist-2698923038.md",
+      "json": "items/materials/fell-mist-2698923038.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2206878080,
+      "name": "Nitrate",
+      "page": "items/materials/nitrate-2206878080.md",
+      "json": "items/materials/nitrate-2206878080.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 4230023681,
+      "name": "Coal Powder",
+      "page": "items/materials/coal-powder-4230023681.md",
+      "json": "items/materials/coal-powder-4230023681.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t4-shroud-meteor-3940653429.md"
+}

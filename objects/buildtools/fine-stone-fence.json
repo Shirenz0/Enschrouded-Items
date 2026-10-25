@@ -1,0 +1,38 @@
+{
+ "name": "Fine Stone Fence",
+ "category": "BuildTools",
+ "image": "images/icons/2278407208.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [
+  "max stack"
+ ],
+ "items": [
+  {
+   "id": 2049249086,
+   "name": "Fine Stone Fence",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2049249086.png",
+   "page": "items/buildtools/fine-stone-fence-2049249086.md",
+   "json": "items/buildtools/fine-stone-fence-2049249086.json",
+   "maxStack": 20,
+   "ownTexts": []
+  },
+  {
+   "id": 2278407208,
+   "name": "Fine Stone Fence",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2278407208.png",
+   "page": "items/buildtools/fine-stone-fence-2278407208.md",
+   "json": "items/buildtools/fine-stone-fence-2278407208.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/fine-stone-fence.md"
+}

@@ -1,0 +1,80 @@
+{
+ "id": 574360589,
+ "name": "Soup Of Blue Light",
+ "internalName": "Food_T4_dish_mushroom_SoupOfBlueLight",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/574360589.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A weird brew emitting a blue glow... Until this day nobody knows why it glows? Could it be of magical nature?",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Fog Survivability Extension",
+    "value": 150000,
+    "display": "150,000",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 15,
+    "display": "15",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2700000,
+    "display": "45:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 8,
+    "display": "8",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 475133670,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1126086984,
+      "name": "Spice",
+      "page": "items/materials/spice-1126086984.md",
+      "json": "items/materials/spice-1126086984.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1304815894,
+      "name": "Azure Russula",
+      "page": "items/consumables/azure-russula-1304815894.md",
+      "json": "items/consumables/azure-russula-1304815894.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/soup-of-blue-light-574360589.md"
+}

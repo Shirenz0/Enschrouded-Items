@@ -1,0 +1,25 @@
+{
+ "id": 2605453799,
+ "name": "Prison Fence Corner",
+ "internalName": "Prop_Decoration_T4_Fence_PrisonCorner",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2605453799.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/prison-fence-corner-2605453799.md"
+}

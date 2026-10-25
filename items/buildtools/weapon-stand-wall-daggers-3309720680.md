@@ -25,4 +25,4 @@ A display to showcase weapons or shields.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](weapon-stand-wall-daggers-3309720680.json)

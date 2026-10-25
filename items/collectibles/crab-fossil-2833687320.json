@@ -1,0 +1,25 @@
+{
+ "id": 2833687320,
+ "name": "Crab Fossil",
+ "internalName": "Collection_fossils_06_seaCreatures_crab_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2833687320.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "It's rare to find the petrified body of an ancient crab among the former rivers and basins of Embervale. When crabs were still plentiful, their meat was considered a delicacy - and their shells were stuffed with trinkets and beads to be thrown back into the ocean as a tradition.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/crab-fossil-2833687320.md"
+}

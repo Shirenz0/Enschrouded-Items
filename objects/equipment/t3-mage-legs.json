@@ -1,0 +1,35 @@
+{
+ "name": "T3 Mage Legs",
+ "category": "Equipment",
+ "image": "images/icons/2941992815.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2743374359,
+   "name": "T3 Mage Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2743374359.png",
+   "page": "items/equipment/t3-mage-legs-2743374359.md",
+   "json": "items/equipment/t3-mage-legs-2743374359.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2941992815,
+   "name": "T3 Mage Legs",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2941992815.png",
+   "page": "items/equipment/t3-mage-legs-2941992815.md",
+   "json": "items/equipment/t3-mage-legs-2941992815.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-mage-legs.md"
+}

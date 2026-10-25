@@ -1,0 +1,35 @@
+{
+ "name": "T2 DPS Chest",
+ "category": "Equipment",
+ "image": "images/icons/3101300981.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2652134441,
+   "name": "T2 DPS Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2652134441.png",
+   "page": "items/equipment/t2-dps-chest-2652134441.md",
+   "json": "items/equipment/t2-dps-chest-2652134441.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3101300981,
+   "name": "T2 DPS Chest",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3101300981.png",
+   "page": "items/equipment/t2-dps-chest-3101300981.md",
+   "json": "items/equipment/t2-dps-chest-3101300981.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-dps-chest.md"
+}

@@ -1,0 +1,29 @@
+{
+ "id": 4077419426,
+ "name": "Exceptional Flute",
+ "internalName": "Instrument_Flute_Epic",
+ "category": {
+  "id": "Instrument",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4077419426.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Epic Flute Desc",
+ "lore": "Instruments",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Tool",
+  "comfort": 3
+ },
+ "page": "items/buildtools/exceptional-flute-4077419426.md"
+}

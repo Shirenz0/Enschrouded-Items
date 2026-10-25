@@ -1,0 +1,55 @@
+{
+ "id": 3869409947,
+ "name": "Crab Meat",
+ "internalName": "Food_T6_raw_bad_meat_CrabMeat",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3869409947.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "raw crab meat, cook it!",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": -70,
+    "display": "-70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -80,
+    "display": "-80",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 294915422,
+   "name": "Grilled Crab Meat",
+   "page": "items/consumables/grilled-crab-meat-294915422.md",
+   "json": "items/consumables/grilled-crab-meat-294915422.json"
+  },
+  {
+   "id": 1453423195,
+   "name": "Crab Cakes",
+   "page": "items/consumables/crab-cakes-1453423195.md",
+   "json": "items/consumables/crab-cakes-1453423195.json"
+  }
+ ],
+ "page": "items/consumables/crab-meat-3869409947.md"
+}

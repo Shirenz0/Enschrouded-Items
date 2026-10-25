@@ -1,0 +1,59 @@
+{
+ "id": 1136544436,
+ "name": "Boiled Eggs",
+ "internalName": "Food_T3_dish_egg_boiled_BirdEggs",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1136544436.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Simple but nourishing. Boosts Health and Stamina Regeneration.",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 446364595,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1896276940,
+      "name": "Eggs",
+      "page": "items/consumables/eggs-1896276940.md",
+      "json": "items/consumables/eggs-1896276940.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/boiled-eggs-1136544436.md"
+}

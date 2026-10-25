@@ -1,0 +1,25 @@
+{
+ "id": 3391827453,
+ "name": "Bunny",
+ "internalName": "Animal_Farming_Bunny",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3391827453.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Bunny",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/bunny-3391827453.md"
+}

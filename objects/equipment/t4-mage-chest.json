@@ -1,0 +1,35 @@
+{
+ "name": "T4 Mage Chest",
+ "category": "Equipment",
+ "image": "images/icons/3460797392.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1299163561,
+   "name": "T4 Mage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1299163561.png",
+   "page": "items/equipment/t4-mage-chest-1299163561.md",
+   "json": "items/equipment/t4-mage-chest-1299163561.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3460797392,
+   "name": "T4 Mage Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3460797392.png",
+   "page": "items/equipment/t4-mage-chest-3460797392.md",
+   "json": "items/equipment/t4-mage-chest-3460797392.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-mage-chest.md"
+}

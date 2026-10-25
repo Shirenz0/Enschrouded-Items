@@ -1,0 +1,1808 @@
+{
+ "category": "Consumables",
+ "title": "Consumables",
+ "count": 200,
+ "page": "categories/consumables.md",
+ "items": [
+  {
+   "id": 2818493303,
+   "name": "(honeyed) Thyme Tea",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2818493303.png",
+   "page": "items/consumables/honeyed-thyme-tea-2818493303.md",
+   "json": "items/consumables/honeyed-thyme-tea-2818493303.json"
+  },
+  {
+   "id": 1473193465,
+   "name": "(Lemon) Basil",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1473193465.png",
+   "page": "items/consumables/lemon-basil-1473193465.md",
+   "json": "items/consumables/lemon-basil-1473193465.json"
+  },
+  {
+   "id": 806123624,
+   "name": "Algae",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/806123624.png",
+   "page": "items/consumables/algae-806123624.md",
+   "json": "items/consumables/algae-806123624.json"
+  },
+  {
+   "id": 2448218322,
+   "name": "Algae Buds",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2448218322.png",
+   "page": "items/consumables/algae-buds-2448218322.md",
+   "json": "items/consumables/algae-buds-2448218322.json"
+  },
+  {
+   "id": 2733976881,
+   "name": "Algae Salad",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2733976881.png",
+   "page": "items/consumables/algae-salad-2733976881.md",
+   "json": "items/consumables/algae-salad-2733976881.json"
+  },
+  {
+   "id": 2342880136,
+   "name": "Amphibian Blood Flask",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2342880136.png",
+   "page": "items/consumables/amphibian-blood-flask-2342880136.md",
+   "json": "items/consumables/amphibian-blood-flask-2342880136.json"
+  },
+  {
+   "id": 426586658,
+   "name": "Ancient \"Artichoke\"",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/426586658.png",
+   "page": "items/consumables/ancient-artichoke-426586658.md",
+   "json": "items/consumables/ancient-artichoke-426586658.json"
+  },
+  {
+   "id": 3317538148,
+   "name": "Ancient \"Beans\"",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3317538148.png",
+   "page": "items/consumables/ancient-beans-3317538148.md",
+   "json": "items/consumables/ancient-beans-3317538148.json"
+  },
+  {
+   "id": 1682430863,
+   "name": "Ancient \"Cabbage\" Leaves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1682430863.png",
+   "page": "items/consumables/ancient-cabbage-leaves-1682430863.md",
+   "json": "items/consumables/ancient-cabbage-leaves-1682430863.json"
+  },
+  {
+   "id": 1321928315,
+   "name": "Ancient \"Pomegranate\"",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1321928315.png",
+   "page": "items/consumables/ancient-pomegranate-1321928315.md",
+   "json": "items/consumables/ancient-pomegranate-1321928315.json"
+  },
+  {
+   "id": 232113931,
+   "name": "Ancient Cabbage Rolls",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/232113931.png",
+   "page": "items/consumables/ancient-cabbage-rolls-232113931.md",
+   "json": "items/consumables/ancient-cabbage-rolls-232113931.json"
+  },
+  {
+   "id": 1756446918,
+   "name": "Ancient Health Potion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1756446918.png",
+   "page": "items/consumables/ancient-health-potion-1756446918.md",
+   "json": "items/consumables/ancient-health-potion-1756446918.json"
+  },
+  {
+   "id": 609216940,
+   "name": "Ancient Health Potion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/609216940.png",
+   "page": "items/consumables/ancient-health-potion-609216940.md",
+   "json": "items/consumables/ancient-health-potion-609216940.json"
+  },
+  {
+   "id": 677177092,
+   "name": "Ancient Health Potion +",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/677177092.png",
+   "page": "items/consumables/ancient-health-potion-677177092.md",
+   "json": "items/consumables/ancient-health-potion-677177092.json"
+  },
+  {
+   "id": 2317965327,
+   "name": "Ancient Mana Potion +",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2317965327.png",
+   "page": "items/consumables/ancient-mana-potion-2317965327.md",
+   "json": "items/consumables/ancient-mana-potion-2317965327.json"
+  },
+  {
+   "id": 2202063914,
+   "name": "Ancient Pomegranate Tarte",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2202063914.png",
+   "page": "items/consumables/ancient-pomegranate-tarte-2202063914.md",
+   "json": "items/consumables/ancient-pomegranate-tarte-2202063914.json"
+  },
+  {
+   "id": 3441701492,
+   "name": "Antidote T2",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3441701492.png",
+   "page": "items/consumables/antidote-t2-3441701492.md",
+   "json": "items/consumables/antidote-t2-3441701492.json"
+  },
+  {
+   "id": 1304815894,
+   "name": "Azure Russula",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1304815894.png",
+   "page": "items/consumables/azure-russula-1304815894.md",
+   "json": "items/consumables/azure-russula-1304815894.json"
+  },
+  {
+   "id": 2626897582,
+   "name": "Banana",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2626897582.png",
+   "page": "items/consumables/banana-2626897582.md",
+   "json": "items/consumables/banana-2626897582.json"
+  },
+  {
+   "id": 1444162950,
+   "name": "Banana Coconut Smoothie",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1444162950.png",
+   "page": "items/consumables/banana-coconut-smoothie-1444162950.md",
+   "json": "items/consumables/banana-coconut-smoothie-1444162950.json"
+  },
+  {
+   "id": 2884389562,
+   "name": "Banana Curry",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2884389562.png",
+   "page": "items/consumables/banana-curry-2884389562.md",
+   "json": "items/consumables/banana-curry-2884389562.json"
+  },
+  {
+   "id": 1539486909,
+   "name": "Bandage",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1539486909.png",
+   "page": "items/consumables/bandage-1539486909.md",
+   "json": "items/consumables/bandage-1539486909.json"
+  },
+  {
+   "id": 2388891615,
+   "name": "Bandage T5",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2388891615.png",
+   "page": "items/consumables/bandage-t5-2388891615.md",
+   "json": "items/consumables/bandage-t5-2388891615.json"
+  },
+  {
+   "id": 4094316095,
+   "name": "Bell Pepper",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4094316095.png",
+   "page": "items/consumables/bell-pepper-4094316095.md",
+   "json": "items/consumables/bell-pepper-4094316095.json"
+  },
+  {
+   "id": 4208954912,
+   "name": "Black Coffee",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/4208954912.png",
+   "page": "items/consumables/black-coffee-4208954912.md",
+   "json": "items/consumables/black-coffee-4208954912.json"
+  },
+  {
+   "id": 65287689,
+   "name": "Blueberry Cake",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/65287689.png",
+   "page": "items/consumables/blueberry-cake-65287689.md",
+   "json": "items/consumables/blueberry-cake-65287689.json"
+  },
+  {
+   "id": 1136544436,
+   "name": "Boiled Eggs",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1136544436.png",
+   "page": "items/consumables/boiled-eggs-1136544436.md",
+   "json": "items/consumables/boiled-eggs-1136544436.json"
+  },
+  {
+   "id": 2982945763,
+   "name": "Butter",
+   "rarity": "Common",
+   "level": "18",
+   "image": "images/icons/2982945763.png",
+   "page": "items/consumables/butter-2982945763.md",
+   "json": "items/consumables/butter-2982945763.json"
+  },
+  {
+   "id": 1768658046,
+   "name": "Buttermilk",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1768658046.png",
+   "page": "items/consumables/buttermilk-1768658046.md",
+   "json": "items/consumables/buttermilk-1768658046.json"
+  },
+  {
+   "id": 2848753277,
+   "name": "Cabbage Mushroom Rice",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2848753277.png",
+   "page": "items/consumables/cabbage-mushroom-rice-2848753277.md",
+   "json": "items/consumables/cabbage-mushroom-rice-2848753277.json"
+  },
+  {
+   "id": 3999300572,
+   "name": "Candied Ginger",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3999300572.png",
+   "page": "items/consumables/candied-ginger-3999300572.md",
+   "json": "items/consumables/candied-ginger-3999300572.json"
+  },
+  {
+   "id": 3005548183,
+   "name": "Cashew Apple",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3005548183.png",
+   "page": "items/consumables/cashew-apple-3005548183.md",
+   "json": "items/consumables/cashew-apple-3005548183.json"
+  },
+  {
+   "id": 1481532079,
+   "name": "Cashew Nut",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1481532079.png",
+   "page": "items/consumables/cashew-nut-1481532079.md",
+   "json": "items/consumables/cashew-nut-1481532079.json"
+  },
+  {
+   "id": 3774403584,
+   "name": "Catdeer milk",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3774403584.png",
+   "page": "items/consumables/catdeer-milk-3774403584.md",
+   "json": "items/consumables/catdeer-milk-3774403584.json"
+  },
+  {
+   "id": 2337909498,
+   "name": "Chamomile Tea",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2337909498.png",
+   "page": "items/consumables/chamomile-tea-2337909498.md",
+   "json": "items/consumables/chamomile-tea-2337909498.json"
+  },
+  {
+   "id": 1730813213,
+   "name": "Chicken Soup",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1730813213.png",
+   "page": "items/consumables/chicken-soup-1730813213.md",
+   "json": "items/consumables/chicken-soup-1730813213.json"
+  },
+  {
+   "id": 1692397990,
+   "name": "Cinderscale",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1692397990.png",
+   "page": "items/consumables/cinderscale-1692397990.md",
+   "json": "items/consumables/cinderscale-1692397990.json"
+  },
+  {
+   "id": 3244772462,
+   "name": "Cleaned Bandage",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3244772462.png",
+   "page": "items/consumables/cleaned-bandage-3244772462.md",
+   "json": "items/consumables/cleaned-bandage-3244772462.json"
+  },
+  {
+   "id": 83196405,
+   "name": "Coconut",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/83196405.png",
+   "page": "items/consumables/coconut-83196405.md",
+   "json": "items/consumables/coconut-83196405.json"
+  },
+  {
+   "id": 3130551475,
+   "name": "Coconut Milk",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3130551475.png",
+   "page": "items/consumables/coconut-milk-3130551475.md",
+   "json": "items/consumables/coconut-milk-3130551475.json"
+  },
+  {
+   "id": 2545181812,
+   "name": "Consumable Potion Antidote T5",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2545181812.png",
+   "page": "items/consumables/consumable-potion-antidote-t5-2545181812.md",
+   "json": "items/consumables/consumable-potion-antidote-t5-2545181812.json"
+  },
+  {
+   "id": 3087876,
+   "name": "Consumable Potion Mana T5",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3087876.png",
+   "page": "items/consumables/consumable-potion-mana-t5-3087876.md",
+   "json": "items/consumables/consumable-potion-mana-t5-3087876.json"
+  },
+  {
+   "id": 3688068238,
+   "name": "Cooked Rice",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3688068238.png",
+   "page": "items/consumables/cooked-rice-3688068238.md",
+   "json": "items/consumables/cooked-rice-3688068238.json"
+  },
+  {
+   "id": 3118804138,
+   "name": "Corncob",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3118804138.png",
+   "page": "items/consumables/corncob-3118804138.md",
+   "json": "items/consumables/corncob-3118804138.json"
+  },
+  {
+   "id": 1453423195,
+   "name": "Crab Cakes",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1453423195.png",
+   "page": "items/consumables/crab-cakes-1453423195.md",
+   "json": "items/consumables/crab-cakes-1453423195.json"
+  },
+  {
+   "id": 3869409947,
+   "name": "Crab Meat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3869409947.png",
+   "page": "items/consumables/crab-meat-3869409947.md",
+   "json": "items/consumables/crab-meat-3869409947.json"
+  },
+  {
+   "id": 4231900495,
+   "name": "Date",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4231900495.png",
+   "page": "items/consumables/date-4231900495.md",
+   "json": "items/consumables/date-4231900495.json"
+  },
+  {
+   "id": 2065473526,
+   "name": "Devil's Claw",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2065473526.png",
+   "page": "items/consumables/devil-s-claw-2065473526.md",
+   "json": "items/consumables/devil-s-claw-2065473526.json"
+  },
+  {
+   "id": 1717387680,
+   "name": "Dried Banana Chips",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1717387680.png",
+   "page": "items/consumables/dried-banana-chips-1717387680.md",
+   "json": "items/consumables/dried-banana-chips-1717387680.json"
+  },
+  {
+   "id": 2824141465,
+   "name": "Dried Red Berry",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2824141465.png",
+   "page": "items/consumables/dried-red-berry-2824141465.md",
+   "json": "items/consumables/dried-red-berry-2824141465.json"
+  },
+  {
+   "id": 1896276940,
+   "name": "Eggs",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1896276940.png",
+   "page": "items/consumables/eggs-1896276940.md",
+   "json": "items/consumables/eggs-1896276940.json"
+  },
+  {
+   "id": 1212732429,
+   "name": "Experience Scroll",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1212732429.png",
+   "page": "items/consumables/experience-scroll-1212732429.md",
+   "json": "items/consumables/experience-scroll-1212732429.json"
+  },
+  {
+   "id": 3329610289,
+   "name": "Extraordinary Ectoplasm Soup",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3329610289.png",
+   "page": "items/consumables/extraordinary-ectoplasm-soup-3329610289.md",
+   "json": "items/consumables/extraordinary-ectoplasm-soup-3329610289.json"
+  },
+  {
+   "id": 1603269825,
+   "name": "Fancy Fruit Juice",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1603269825.png",
+   "page": "items/consumables/fancy-fruit-juice-1603269825.md",
+   "json": "items/consumables/fancy-fruit-juice-1603269825.json"
+  },
+  {
+   "id": 1072066690,
+   "name": "Fish Chowder",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1072066690.png",
+   "page": "items/consumables/fish-chowder-1072066690.md",
+   "json": "items/consumables/fish-chowder-1072066690.json"
+  },
+  {
+   "id": 663961575,
+   "name": "Fish Cutlet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/663961575.png",
+   "page": "items/consumables/fish-cutlet-663961575.md",
+   "json": "items/consumables/fish-cutlet-663961575.json"
+  },
+  {
+   "id": 576061222,
+   "name": "Fish Filet",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/576061222.png",
+   "page": "items/consumables/fish-filet-576061222.md",
+   "json": "items/consumables/fish-filet-576061222.json"
+  },
+  {
+   "id": 71610791,
+   "name": "Fish Tacos",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/71610791.png",
+   "page": "items/consumables/fish-tacos-71610791.md",
+   "json": "items/consumables/fish-tacos-71610791.json"
+  },
+  {
+   "id": 2635793540,
+   "name": "Flask of the Fallen",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2635793540.png",
+   "page": "items/consumables/flask-of-the-fallen-2635793540.md",
+   "json": "items/consumables/flask-of-the-fallen-2635793540.json"
+  },
+  {
+   "id": 2160078991,
+   "name": "Flat Bread",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2160078991.png",
+   "page": "items/consumables/flat-bread-2160078991.md",
+   "json": "items/consumables/flat-bread-2160078991.json"
+  },
+  {
+   "id": 127804572,
+   "name": "Fog Meteor Shower",
+   "rarity": "Uncommon",
+   "level": "20",
+   "image": "images/icons/127804572.png",
+   "page": "items/consumables/fog-meteor-shower-127804572.md",
+   "json": "items/consumables/fog-meteor-shower-127804572.json"
+  },
+  {
+   "id": 1782997504,
+   "name": "Fog Survival Flask",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1782997504.png",
+   "page": "items/consumables/fog-survival-flask-1782997504.md",
+   "json": "items/consumables/fog-survival-flask-1782997504.json"
+  },
+  {
+   "id": 1096715929,
+   "name": "Food Buff Removal",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1096715929.png",
+   "page": "items/consumables/food-buff-removal-1096715929.md",
+   "json": "items/consumables/food-buff-removal-1096715929.json"
+  },
+  {
+   "id": 3542827745,
+   "name": "Forest Beet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3542827745.png",
+   "page": "items/consumables/forest-beet-3542827745.md",
+   "json": "items/consumables/forest-beet-3542827745.json"
+  },
+  {
+   "id": 917304835,
+   "name": "Fruit Bowl",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/917304835.png",
+   "page": "items/consumables/fruit-bowl-917304835.md",
+   "json": "items/consumables/fruit-bowl-917304835.json"
+  },
+  {
+   "id": 270916101,
+   "name": "Fruit Salad",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/270916101.png",
+   "page": "items/consumables/fruit-salad-270916101.md",
+   "json": "items/consumables/fruit-salad-270916101.json"
+  },
+  {
+   "id": 814096701,
+   "name": "Ginger",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/814096701.png",
+   "page": "items/consumables/ginger-814096701.md",
+   "json": "items/consumables/ginger-814096701.json"
+  },
+  {
+   "id": 1666657738,
+   "name": "Ginger Tea",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1666657738.png",
+   "page": "items/consumables/ginger-tea-1666657738.md",
+   "json": "items/consumables/ginger-tea-1666657738.json"
+  },
+  {
+   "id": 2085710950,
+   "name": "Great Mana Potion",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2085710950.png",
+   "page": "items/consumables/great-mana-potion-2085710950.md",
+   "json": "items/consumables/great-mana-potion-2085710950.json"
+  },
+  {
+   "id": 4065514205,
+   "name": "Great Mana Potion improved",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/4065514205.png",
+   "page": "items/consumables/great-mana-potion-improved-4065514205.md",
+   "json": "items/consumables/great-mana-potion-improved-4065514205.json"
+  },
+  {
+   "id": 1843136640,
+   "name": "Greater Fog Survival Flask",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1843136640.png",
+   "page": "items/consumables/greater-fog-survival-flask-1843136640.md",
+   "json": "items/consumables/greater-fog-survival-flask-1843136640.json"
+  },
+  {
+   "id": 209497692,
+   "name": "Greater Fog Survival Flask",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/209497692.png",
+   "page": "items/consumables/greater-fog-survival-flask-209497692.md",
+   "json": "items/consumables/greater-fog-survival-flask-209497692.json"
+  },
+  {
+   "id": 3102924359,
+   "name": "Greater Health Potion",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3102924359.png",
+   "page": "items/consumables/greater-health-potion-3102924359.md",
+   "json": "items/consumables/greater-health-potion-3102924359.json"
+  },
+  {
+   "id": 1509402971,
+   "name": "Greater Health Potion improved",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1509402971.png",
+   "page": "items/consumables/greater-health-potion-improved-1509402971.md",
+   "json": "items/consumables/greater-health-potion-improved-1509402971.json"
+  },
+  {
+   "id": 3423336686,
+   "name": "Grilled Algae Buds",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3423336686.png",
+   "page": "items/consumables/grilled-algae-buds-3423336686.md",
+   "json": "items/consumables/grilled-algae-buds-3423336686.json"
+  },
+  {
+   "id": 2028455467,
+   "name": "Grilled Bird Meat",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2028455467.png",
+   "page": "items/consumables/grilled-bird-meat-2028455467.md",
+   "json": "items/consumables/grilled-bird-meat-2028455467.json"
+  },
+  {
+   "id": 2597418482,
+   "name": "Grilled Cinderscale",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2597418482.png",
+   "page": "items/consumables/grilled-cinderscale-2597418482.md",
+   "json": "items/consumables/grilled-cinderscale-2597418482.json"
+  },
+  {
+   "id": 294915422,
+   "name": "Grilled Crab Meat",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/294915422.png",
+   "page": "items/consumables/grilled-crab-meat-294915422.md",
+   "json": "items/consumables/grilled-crab-meat-294915422.json"
+  },
+  {
+   "id": 1540283427,
+   "name": "Grilled Fish Common 01",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1540283427.png",
+   "page": "items/consumables/grilled-fish-common-01-1540283427.md",
+   "json": "items/consumables/grilled-fish-common-01-1540283427.json"
+  },
+  {
+   "id": 1845941074,
+   "name": "Grilled Fish Common 02",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1845941074.png",
+   "page": "items/consumables/grilled-fish-common-02-1845941074.md",
+   "json": "items/consumables/grilled-fish-common-02-1845941074.json"
+  },
+  {
+   "id": 1274457134,
+   "name": "Grilled Fish Common 03",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1274457134.png",
+   "page": "items/consumables/grilled-fish-common-03-1274457134.md",
+   "json": "items/consumables/grilled-fish-common-03-1274457134.json"
+  },
+  {
+   "id": 2887144646,
+   "name": "Grilled Fish Epic 01",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2887144646.png",
+   "page": "items/consumables/grilled-fish-epic-01-2887144646.md",
+   "json": "items/consumables/grilled-fish-epic-01-2887144646.json"
+  },
+  {
+   "id": 1844659645,
+   "name": "Grilled Fish Epic 02",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1844659645.png",
+   "page": "items/consumables/grilled-fish-epic-02-1844659645.md",
+   "json": "items/consumables/grilled-fish-epic-02-1844659645.json"
+  },
+  {
+   "id": 4285761832,
+   "name": "Grilled Fish Epic 03",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/4285761832.png",
+   "page": "items/consumables/grilled-fish-epic-03-4285761832.md",
+   "json": "items/consumables/grilled-fish-epic-03-4285761832.json"
+  },
+  {
+   "id": 2721097531,
+   "name": "Grilled Fish Rare 01",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2721097531.png",
+   "page": "items/consumables/grilled-fish-rare-01-2721097531.md",
+   "json": "items/consumables/grilled-fish-rare-01-2721097531.json"
+  },
+  {
+   "id": 2799925853,
+   "name": "Grilled Fish Rare 02",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2799925853.png",
+   "page": "items/consumables/grilled-fish-rare-02-2799925853.md",
+   "json": "items/consumables/grilled-fish-rare-02-2799925853.json"
+  },
+  {
+   "id": 3867042878,
+   "name": "Grilled Fish Rare 03",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3867042878.png",
+   "page": "items/consumables/grilled-fish-rare-03-3867042878.md",
+   "json": "items/consumables/grilled-fish-rare-03-3867042878.json"
+  },
+  {
+   "id": 3207915990,
+   "name": "Grilled Fish Rare 04",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3207915990.png",
+   "page": "items/consumables/grilled-fish-rare-04-3207915990.md",
+   "json": "items/consumables/grilled-fish-rare-04-3207915990.json"
+  },
+  {
+   "id": 2537992952,
+   "name": "Grilled Fish Uncommon 01",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2537992952.png",
+   "page": "items/consumables/grilled-fish-uncommon-01-2537992952.md",
+   "json": "items/consumables/grilled-fish-uncommon-01-2537992952.json"
+  },
+  {
+   "id": 2213678190,
+   "name": "Grilled Fish Uncommon 02",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2213678190.png",
+   "page": "items/consumables/grilled-fish-uncommon-02-2213678190.md",
+   "json": "items/consumables/grilled-fish-uncommon-02-2213678190.json"
+  },
+  {
+   "id": 1452092217,
+   "name": "Grilled Fish Uncommon 03",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1452092217.png",
+   "page": "items/consumables/grilled-fish-uncommon-03-1452092217.md",
+   "json": "items/consumables/grilled-fish-uncommon-03-1452092217.json"
+  },
+  {
+   "id": 4166256477,
+   "name": "Grilled Fish with Coconut Rice",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/4166256477.png",
+   "page": "items/consumables/grilled-fish-with-coconut-rice-4166256477.md",
+   "json": "items/consumables/grilled-fish-with-coconut-rice-4166256477.json"
+  },
+  {
+   "id": 16972502,
+   "name": "Grilled Game",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/16972502.png",
+   "page": "items/consumables/grilled-game-16972502.md",
+   "json": "items/consumables/grilled-game-16972502.json"
+  },
+  {
+   "id": 1511796527,
+   "name": "Grilled Penny Bun",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1511796527.png",
+   "page": "items/consumables/grilled-penny-bun-1511796527.md",
+   "json": "items/consumables/grilled-penny-bun-1511796527.json"
+  },
+  {
+   "id": 643297880,
+   "name": "Grilled Sanddigger",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/643297880.png",
+   "page": "items/consumables/grilled-sanddigger-643297880.md",
+   "json": "items/consumables/grilled-sanddigger-643297880.json"
+  },
+  {
+   "id": 2860029933,
+   "name": "Grilled Specklefin",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2860029933.png",
+   "page": "items/consumables/grilled-specklefin-2860029933.md",
+   "json": "items/consumables/grilled-specklefin-2860029933.json"
+  },
+  {
+   "id": 3373898672,
+   "name": "Grilled Wolf Meat",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3373898672.png",
+   "page": "items/consumables/grilled-wolf-meat-3373898672.md",
+   "json": "items/consumables/grilled-wolf-meat-3373898672.json"
+  },
+  {
+   "id": 749738317,
+   "name": "Grilled Yucca Fruit",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/749738317.png",
+   "page": "items/consumables/grilled-yucca-fruit-749738317.md",
+   "json": "items/consumables/grilled-yucca-fruit-749738317.json"
+  },
+  {
+   "id": 3360608010,
+   "name": "Hazelnut",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3360608010.png",
+   "page": "items/consumables/hazelnut-3360608010.md",
+   "json": "items/consumables/hazelnut-3360608010.json"
+  },
+  {
+   "id": 3436474234,
+   "name": "Health Potion",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3436474234.png",
+   "page": "items/consumables/health-potion-3436474234.md",
+   "json": "items/consumables/health-potion-3436474234.json"
+  },
+  {
+   "id": 2949322768,
+   "name": "Health Potion improved",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2949322768.png",
+   "page": "items/consumables/health-potion-improved-2949322768.md",
+   "json": "items/consumables/health-potion-improved-2949322768.json"
+  },
+  {
+   "id": 1410921691,
+   "name": "Hemotoxication Antidode",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1410921691.png",
+   "page": "items/consumables/hemotoxication-antidode-1410921691.md",
+   "json": "items/consumables/hemotoxication-antidode-1410921691.json"
+  },
+  {
+   "id": 227143323,
+   "name": "Honey",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/227143323.png",
+   "page": "items/consumables/honey-227143323.md",
+   "json": "items/consumables/honey-227143323.json"
+  },
+  {
+   "id": 3556995300,
+   "name": "Honey Baked Banana with Cashews",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3556995300.png",
+   "page": "items/consumables/honey-baked-banana-with-cashews-3556995300.md",
+   "json": "items/consumables/honey-baked-banana-with-cashews-3556995300.json"
+  },
+  {
+   "id": 3182673008,
+   "name": "Huge Mana Potion improved",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3182673008.png",
+   "page": "items/consumables/huge-mana-potion-improved-3182673008.md",
+   "json": "items/consumables/huge-mana-potion-improved-3182673008.json"
+  },
+  {
+   "id": 386738695,
+   "name": "Ice Protection Lotion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/386738695.png",
+   "page": "items/consumables/ice-protection-lotion-386738695.md",
+   "json": "items/consumables/ice-protection-lotion-386738695.json"
+  },
+  {
+   "id": 2652246715,
+   "name": "Latte/Milk coffee",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2652246715.png",
+   "page": "items/consumables/latte-milk-coffee-2652246715.md",
+   "json": "items/consumables/latte-milk-coffee-2652246715.json"
+  },
+  {
+   "id": 2090825266,
+   "name": "Lean Meat",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2090825266.png",
+   "page": "items/consumables/lean-meat-2090825266.md",
+   "json": "items/consumables/lean-meat-2090825266.json"
+  },
+  {
+   "id": 83248261,
+   "name": "Mana Potion",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/83248261.png",
+   "page": "items/consumables/mana-potion-83248261.md",
+   "json": "items/consumables/mana-potion-83248261.json"
+  },
+  {
+   "id": 3656080316,
+   "name": "Meat Skewer with Azure Russula",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3656080316.png",
+   "page": "items/consumables/meat-skewer-with-azure-russula-3656080316.md",
+   "json": "items/consumables/meat-skewer-with-azure-russula-3656080316.json"
+  },
+  {
+   "id": 2840500800,
+   "name": "Meat Skewer with Corncob",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2840500800.png",
+   "page": "items/consumables/meat-skewer-with-corncob-2840500800.md",
+   "json": "items/consumables/meat-skewer-with-corncob-2840500800.json"
+  },
+  {
+   "id": 16567466,
+   "name": "Meat Skewer with Forest Beet",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/16567466.png",
+   "page": "items/consumables/meat-skewer-with-forest-beet-16567466.md",
+   "json": "items/consumables/meat-skewer-with-forest-beet-16567466.json"
+  },
+  {
+   "id": 3366430041,
+   "name": "Meat Skewer with Hazelnut",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3366430041.png",
+   "page": "items/consumables/meat-skewer-with-hazelnut-3366430041.md",
+   "json": "items/consumables/meat-skewer-with-hazelnut-3366430041.json"
+  },
+  {
+   "id": 3286272712,
+   "name": "Meat skewer with Mushroom",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3286272712.png",
+   "page": "items/consumables/meat-skewer-with-mushroom-3286272712.md",
+   "json": "items/consumables/meat-skewer-with-mushroom-3286272712.json"
+  },
+  {
+   "id": 1767022245,
+   "name": "Meat Skewer with Tomato",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1767022245.png",
+   "page": "items/consumables/meat-skewer-with-tomato-1767022245.md",
+   "json": "items/consumables/meat-skewer-with-tomato-1767022245.json"
+  },
+  {
+   "id": 3744591176,
+   "name": "Meat Wrap",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3744591176.png",
+   "page": "items/consumables/meat-wrap-3744591176.md",
+   "json": "items/consumables/meat-wrap-3744591176.json"
+  },
+  {
+   "id": 2873455991,
+   "name": "Milk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2873455991.png",
+   "page": "items/consumables/milk-2873455991.md",
+   "json": "items/consumables/milk-2873455991.json"
+  },
+  {
+   "id": 623430551,
+   "name": "Mokka",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/623430551.png",
+   "page": "items/consumables/mokka-623430551.md",
+   "json": "items/consumables/mokka-623430551.json"
+  },
+  {
+   "id": 3268443018,
+   "name": "Mountain herbs tea",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3268443018.png",
+   "page": "items/consumables/mountain-herbs-tea-3268443018.md",
+   "json": "items/consumables/mountain-herbs-tea-3268443018.json"
+  },
+  {
+   "id": 443792978,
+   "name": "Mountaingoat Milk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/443792978.png",
+   "page": "items/consumables/mountaingoat-milk-443792978.md",
+   "json": "items/consumables/mountaingoat-milk-443792978.json"
+  },
+  {
+   "id": 2364777884,
+   "name": "Mushroom Omelett",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2364777884.png",
+   "page": "items/consumables/mushroom-omelett-2364777884.md",
+   "json": "items/consumables/mushroom-omelett-2364777884.json"
+  },
+  {
+   "id": 2206945282,
+   "name": "Mysterious Flask",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2206945282.png",
+   "page": "items/consumables/mysterious-flask-2206945282.md",
+   "json": "items/consumables/mysterious-flask-2206945282.json"
+  },
+  {
+   "id": 3173308572,
+   "name": "Night Berry",
+   "rarity": "Uncommon",
+   "level": "13",
+   "image": "images/icons/3173308572.png",
+   "page": "items/consumables/night-berry-3173308572.md",
+   "json": "items/consumables/night-berry-3173308572.json"
+  },
+  {
+   "id": 2433487720,
+   "name": "Night Lily",
+   "rarity": "Uncommon",
+   "level": "5",
+   "image": "images/icons/2433487720.png",
+   "page": "items/consumables/night-lily-2433487720.md",
+   "json": "items/consumables/night-lily-2433487720.json"
+  },
+  {
+   "id": 587195934,
+   "name": "Nightplant Soup",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/587195934.png",
+   "page": "items/consumables/nightplant-soup-587195934.md",
+   "json": "items/consumables/nightplant-soup-587195934.json"
+  },
+  {
+   "id": 664951543,
+   "name": "Nightplant tea",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/664951543.png",
+   "page": "items/consumables/nightplant-tea-664951543.md",
+   "json": "items/consumables/nightplant-tea-664951543.json"
+  },
+  {
+   "id": 790393972,
+   "name": "Open Sandwich",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/790393972.png",
+   "page": "items/consumables/open-sandwich-790393972.md",
+   "json": "items/consumables/open-sandwich-790393972.json"
+  },
+  {
+   "id": 600862405,
+   "name": "Penny Bun",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/600862405.png",
+   "page": "items/consumables/penny-bun-600862405.md",
+   "json": "items/consumables/penny-bun-600862405.json"
+  },
+  {
+   "id": 2349456895,
+   "name": "Plantain",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2349456895.png",
+   "page": "items/consumables/plantain-2349456895.md",
+   "json": "items/consumables/plantain-2349456895.json"
+  },
+  {
+   "id": 3497094022,
+   "name": "Plantain Salad with ancient beans",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3497094022.png",
+   "page": "items/consumables/plantain-salad-with-ancient-beans-3497094022.md",
+   "json": "items/consumables/plantain-salad-with-ancient-beans-3497094022.json"
+  },
+  {
+   "id": 2585799720,
+   "name": "Pocket Heater",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2585799720.png",
+   "page": "items/consumables/pocket-heater-2585799720.md",
+   "json": "items/consumables/pocket-heater-2585799720.json"
+  },
+  {
+   "id": 2382406755,
+   "name": "Popcorn",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2382406755.png",
+   "page": "items/consumables/popcorn-2382406755.md",
+   "json": "items/consumables/popcorn-2382406755.json"
+  },
+  {
+   "id": 2058567631,
+   "name": "Prayer of the Flame Scroll",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2058567631.png",
+   "page": "items/consumables/prayer-of-the-flame-scroll-2058567631.md",
+   "json": "items/consumables/prayer-of-the-flame-scroll-2058567631.json"
+  },
+  {
+   "id": 2687604137,
+   "name": "Prayer To The Vukahs",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2687604137.png",
+   "page": "items/consumables/prayer-to-the-vukahs-2687604137.md",
+   "json": "items/consumables/prayer-to-the-vukahs-2687604137.json"
+  },
+  {
+   "id": 4234426543,
+   "name": "Pumpkin",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4234426543.png",
+   "page": "items/consumables/pumpkin-4234426543.md",
+   "json": "items/consumables/pumpkin-4234426543.json"
+  },
+  {
+   "id": 2905059781,
+   "name": "Pumpkin Soup",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2905059781.png",
+   "page": "items/consumables/pumpkin-soup-2905059781.md",
+   "json": "items/consumables/pumpkin-soup-2905059781.json"
+  },
+  {
+   "id": 385885887,
+   "name": "Raw Bird Meat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/385885887.png",
+   "page": "items/consumables/raw-bird-meat-385885887.md",
+   "json": "items/consumables/raw-bird-meat-385885887.json"
+  },
+  {
+   "id": 2512460235,
+   "name": "Raw Game",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2512460235.png",
+   "page": "items/consumables/raw-game-2512460235.md",
+   "json": "items/consumables/raw-game-2512460235.json"
+  },
+  {
+   "id": 1492892444,
+   "name": "Raw Lean Meat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1492892444.png",
+   "page": "items/consumables/raw-lean-meat-1492892444.md",
+   "json": "items/consumables/raw-lean-meat-1492892444.json"
+  },
+  {
+   "id": 1460600097,
+   "name": "Raw Sanddigger Meat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1460600097.png",
+   "page": "items/consumables/raw-sanddigger-meat-1460600097.md",
+   "json": "items/consumables/raw-sanddigger-meat-1460600097.json"
+  },
+  {
+   "id": 2417552370,
+   "name": "Raw Taro",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2417552370.png",
+   "page": "items/consumables/raw-taro-2417552370.md",
+   "json": "items/consumables/raw-taro-2417552370.json"
+  },
+  {
+   "id": 2968802610,
+   "name": "Raw Wolf Meat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2968802610.png",
+   "page": "items/consumables/raw-wolf-meat-2968802610.md",
+   "json": "items/consumables/raw-wolf-meat-2968802610.json"
+  },
+  {
+   "id": 3707271437,
+   "name": "Red Berries",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3707271437.png",
+   "page": "items/consumables/red-berries-3707271437.md",
+   "json": "items/consumables/red-berries-3707271437.json"
+  },
+  {
+   "id": 3377002158,
+   "name": "Repair Kit",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3377002158.png",
+   "page": "items/consumables/repair-kit-3377002158.md",
+   "json": "items/consumables/repair-kit-3377002158.json"
+  },
+  {
+   "id": 1196255924,
+   "name": "Revilalizing Health Potion improved",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1196255924.png",
+   "page": "items/consumables/revilalizing-health-potion-improved-1196255924.md",
+   "json": "items/consumables/revilalizing-health-potion-improved-1196255924.json"
+  },
+  {
+   "id": 3702644205,
+   "name": "Revitalizing Health Potion",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3702644205.png",
+   "page": "items/consumables/revitalizing-health-potion-3702644205.md",
+   "json": "items/consumables/revitalizing-health-potion-3702644205.json"
+  },
+  {
+   "id": 2074901818,
+   "name": "Rice with ancient \"beans\"",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2074901818.png",
+   "page": "items/consumables/rice-with-ancient-beans-2074901818.md",
+   "json": "items/consumables/rice-with-ancient-beans-2074901818.json"
+  },
+  {
+   "id": 4293773074,
+   "name": "Roasted Corncob",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/4293773074.png",
+   "page": "items/consumables/roasted-corncob-4293773074.md",
+   "json": "items/consumables/roasted-corncob-4293773074.json"
+  },
+  {
+   "id": 2019452880,
+   "name": "Roasted Shiitake Mushroom",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2019452880.png",
+   "page": "items/consumables/roasted-shiitake-mushroom-2019452880.md",
+   "json": "items/consumables/roasted-shiitake-mushroom-2019452880.json"
+  },
+  {
+   "id": 2982995291,
+   "name": "Rooibos Tea",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2982995291.png",
+   "page": "items/consumables/rooibos-tea-2982995291.md",
+   "json": "items/consumables/rooibos-tea-2982995291.json"
+  },
+  {
+   "id": 3562500384,
+   "name": "Sage Leaves",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3562500384.png",
+   "page": "items/consumables/sage-leaves-3562500384.md",
+   "json": "items/consumables/sage-leaves-3562500384.json"
+  },
+  {
+   "id": 109152806,
+   "name": "Seared Fish Cutlet",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/109152806.png",
+   "page": "items/consumables/seared-fish-cutlet-109152806.md",
+   "json": "items/consumables/seared-fish-cutlet-109152806.json"
+  },
+  {
+   "id": 1826581168,
+   "name": "Seared Fish Filet",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/1826581168.png",
+   "page": "items/consumables/seared-fish-filet-1826581168.md",
+   "json": "items/consumables/seared-fish-filet-1826581168.json"
+  },
+  {
+   "id": 3354704185,
+   "name": "Shiitake Mushroom",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3354704185.png",
+   "page": "items/consumables/shiitake-mushroom-3354704185.md",
+   "json": "items/consumables/shiitake-mushroom-3354704185.json"
+  },
+  {
+   "id": 1518794687,
+   "name": "Shroud Curse Cleanser",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1518794687.png",
+   "page": "items/consumables/shroud-curse-cleanser-1518794687.md",
+   "json": "items/consumables/shroud-curse-cleanser-1518794687.json"
+  },
+  {
+   "id": 1985343352,
+   "name": "Smelted Azure Russula",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1985343352.png",
+   "page": "items/consumables/smelted-azure-russula-1985343352.md",
+   "json": "items/consumables/smelted-azure-russula-1985343352.json"
+  },
+  {
+   "id": 574360589,
+   "name": "Soup Of Blue Light",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/574360589.png",
+   "page": "items/consumables/soup-of-blue-light-574360589.md",
+   "json": "items/consumables/soup-of-blue-light-574360589.json"
+  },
+  {
+   "id": 1183822012,
+   "name": "Spaetzle with Mushroom Cream Sauce",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1183822012.png",
+   "page": "items/consumables/spaetzle-with-mushroom-cream-sauce-1183822012.md",
+   "json": "items/consumables/spaetzle-with-mushroom-cream-sauce-1183822012.json"
+  },
+  {
+   "id": 4122706847,
+   "name": "Specklefin",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/4122706847.png",
+   "page": "items/consumables/specklefin-4122706847.md",
+   "json": "items/consumables/specklefin-4122706847.json"
+  },
+  {
+   "id": 1263589034,
+   "name": "Spiced Tea",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1263589034.png",
+   "page": "items/consumables/spiced-tea-1263589034.md",
+   "json": "items/consumables/spiced-tea-1263589034.json"
+  },
+  {
+   "id": 4180130855,
+   "name": "St. John's Wort",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4180130855.png",
+   "page": "items/consumables/st-john-s-wort-4180130855.md",
+   "json": "items/consumables/st-john-s-wort-4180130855.json"
+  },
+  {
+   "id": 2290894589,
+   "name": "Stinging Nettle",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2290894589.png",
+   "page": "items/consumables/stinging-nettle-2290894589.md",
+   "json": "items/consumables/stinging-nettle-2290894589.json"
+  },
+  {
+   "id": 1105965780,
+   "name": "Stir-Fried Vegetables",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/1105965780.png",
+   "page": "items/consumables/stir-fried-vegetables-1105965780.md",
+   "json": "items/consumables/stir-fried-vegetables-1105965780.json"
+  },
+  {
+   "id": 3479563223,
+   "name": "Strawberry",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3479563223.png",
+   "page": "items/consumables/strawberry-3479563223.md",
+   "json": "items/consumables/strawberry-3479563223.json"
+  },
+  {
+   "id": 264983169,
+   "name": "Strawberry Cake",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/264983169.png",
+   "page": "items/consumables/strawberry-cake-264983169.md",
+   "json": "items/consumables/strawberry-cake-264983169.json"
+  },
+  {
+   "id": 1800945978,
+   "name": "Sugar",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/1800945978.png",
+   "page": "items/consumables/sugar-1800945978.md",
+   "json": "items/consumables/sugar-1800945978.json"
+  },
+  {
+   "id": 2456844314,
+   "name": "Sugar Cane",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2456844314.png",
+   "page": "items/consumables/sugar-cane-2456844314.md",
+   "json": "items/consumables/sugar-cane-2456844314.json"
+  },
+  {
+   "id": 823453977,
+   "name": "Summoning Of A Fire Wisp",
+   "rarity": "Rare",
+   "level": "27",
+   "image": "images/icons/823453977.png",
+   "page": "items/consumables/summoning-of-a-fire-wisp-823453977.md",
+   "json": "items/consumables/summoning-of-a-fire-wisp-823453977.json"
+  },
+  {
+   "id": 3529288638,
+   "name": "Sushi",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3529288638.png",
+   "page": "items/consumables/sushi-3529288638.md",
+   "json": "items/consumables/sushi-3529288638.json"
+  },
+  {
+   "id": 3254225118,
+   "name": "Swim Sprint Stamina Reduction Flask",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3254225118.png",
+   "page": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.md",
+   "json": "items/consumables/swim-sprint-stamina-reduction-flask-3254225118.json"
+  },
+  {
+   "id": 625865593,
+   "name": "T2 Slurp",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/625865593.png",
+   "page": "items/consumables/t2-slurp-625865593.md",
+   "json": "items/consumables/t2-slurp-625865593.json"
+  },
+  {
+   "id": 3145520936,
+   "name": "T3 Slurp",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/3145520936.png",
+   "page": "items/consumables/t3-slurp-3145520936.md",
+   "json": "items/consumables/t3-slurp-3145520936.json"
+  },
+  {
+   "id": 2661195564,
+   "name": "T4 Nightplant Wrap",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2661195564.png",
+   "page": "items/consumables/t4-nightplant-wrap-2661195564.md",
+   "json": "items/consumables/t4-nightplant-wrap-2661195564.json"
+  },
+  {
+   "id": 632438153,
+   "name": "T4 Slurp",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/632438153.png",
+   "page": "items/consumables/t4-slurp-632438153.md",
+   "json": "items/consumables/t4-slurp-632438153.json"
+  },
+  {
+   "id": 3779366146,
+   "name": "T5 Food Raw Herb Gentian",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3779366146.png",
+   "page": "items/consumables/t5-food-raw-herb-gentian-3779366146.md",
+   "json": "items/consumables/t5-food-raw-herb-gentian-3779366146.json"
+  },
+  {
+   "id": 2405125031,
+   "name": "T5 Health potion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2405125031.png",
+   "page": "items/consumables/t5-health-potion-2405125031.md",
+   "json": "items/consumables/t5-health-potion-2405125031.json"
+  },
+  {
+   "id": 844956750,
+   "name": "T5 Health Potion improved",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/844956750.png",
+   "page": "items/consumables/t5-health-potion-improved-844956750.md",
+   "json": "items/consumables/t5-health-potion-improved-844956750.json"
+  },
+  {
+   "id": 439577610,
+   "name": "T5 Milkshake Dish",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/439577610.png",
+   "page": "items/consumables/t5-milkshake-dish-439577610.md",
+   "json": "items/consumables/t5-milkshake-dish-439577610.json"
+  },
+  {
+   "id": 31257423,
+   "name": "T5 Processed Fat Grilled Meat",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/31257423.png",
+   "page": "items/consumables/t5-processed-fat-grilled-meat-31257423.md",
+   "json": "items/consumables/t5-processed-fat-grilled-meat-31257423.json"
+  },
+  {
+   "id": 2306767560,
+   "name": "T5 Raw Fat Meat",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2306767560.png",
+   "page": "items/consumables/t5-raw-fat-meat-2306767560.md",
+   "json": "items/consumables/t5-raw-fat-meat-2306767560.json"
+  },
+  {
+   "id": 2285189073,
+   "name": "T6 Fried Rice",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2285189073.png",
+   "page": "items/consumables/t6-fried-rice-2285189073.md",
+   "json": "items/consumables/t6-fried-rice-2285189073.json"
+  },
+  {
+   "id": 4124427746,
+   "name": "T6 Taro Root Curry",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/4124427746.png",
+   "page": "items/consumables/t6-taro-root-curry-4124427746.md",
+   "json": "items/consumables/t6-taro-root-curry-4124427746.json"
+  },
+  {
+   "id": 2105748910,
+   "name": "T7 Bandage",
+   "rarity": "Epic",
+   "level": "-",
+   "image": "images/icons/2105748910.png",
+   "page": "items/consumables/t7-bandage-2105748910.md",
+   "json": "items/consumables/t7-bandage-2105748910.json"
+  },
+  {
+   "id": 3466985705,
+   "name": "Thyme",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3466985705.png",
+   "page": "items/consumables/thyme-3466985705.md",
+   "json": "items/consumables/thyme-3466985705.json"
+  },
+  {
+   "id": 2575926249,
+   "name": "Tomato Fish Soup",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2575926249.png",
+   "page": "items/consumables/tomato-fish-soup-2575926249.md",
+   "json": "items/consumables/tomato-fish-soup-2575926249.json"
+  },
+  {
+   "id": 1036540037,
+   "name": "Tomatos",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1036540037.png",
+   "page": "items/consumables/tomatos-1036540037.md",
+   "json": "items/consumables/tomatos-1036540037.json"
+  },
+  {
+   "id": 491393994,
+   "name": "Ultimate Health Potion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/491393994.png",
+   "page": "items/consumables/ultimate-health-potion-491393994.md",
+   "json": "items/consumables/ultimate-health-potion-491393994.json"
+  },
+  {
+   "id": 2461980355,
+   "name": "Ultimate Health Potion +",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2461980355.png",
+   "page": "items/consumables/ultimate-health-potion-2461980355.md",
+   "json": "items/consumables/ultimate-health-potion-2461980355.json"
+  },
+  {
+   "id": 2916308043,
+   "name": "Ultimate Mana Potion",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2916308043.png",
+   "page": "items/consumables/ultimate-mana-potion-2916308043.md",
+   "json": "items/consumables/ultimate-mana-potion-2916308043.json"
+  },
+  {
+   "id": 814867063,
+   "name": "Ultimate Mana Potion +",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/814867063.png",
+   "page": "items/consumables/ultimate-mana-potion-814867063.md",
+   "json": "items/consumables/ultimate-mana-potion-814867063.json"
+  },
+  {
+   "id": 2012645754,
+   "name": "Uncoocked Catdeer Milk",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2012645754.png",
+   "page": "items/consumables/uncoocked-catdeer-milk-2012645754.md",
+   "json": "items/consumables/uncoocked-catdeer-milk-2012645754.json"
+  },
+  {
+   "id": 2793438000,
+   "name": "Vegetable Puree",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2793438000.png",
+   "page": "items/consumables/vegetable-puree-2793438000.md",
+   "json": "items/consumables/vegetable-puree-2793438000.json"
+  },
+  {
+   "id": 3049932278,
+   "name": "Vegetable Soup",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/3049932278.png",
+   "page": "items/consumables/vegetable-soup-3049932278.md",
+   "json": "items/consumables/vegetable-soup-3049932278.json"
+  },
+  {
+   "id": 4066550441,
+   "name": "Water",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/4066550441.png",
+   "page": "items/consumables/water-4066550441.md",
+   "json": "items/consumables/water-4066550441.json"
+  },
+  {
+   "id": 3833797336,
+   "name": "Water Pouch",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3833797336.png",
+   "page": "items/consumables/water-pouch-3833797336.md",
+   "json": "items/consumables/water-pouch-3833797336.json"
+  },
+  {
+   "id": 2239380894,
+   "name": "Wisp of Light",
+   "rarity": "Rare",
+   "level": "-",
+   "image": "images/icons/2239380894.png",
+   "page": "items/consumables/wisp-of-light-2239380894.md",
+   "json": "items/consumables/wisp-of-light-2239380894.json"
+  },
+  {
+   "id": 2634459448,
+   "name": "Yak Stew",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/2634459448.png",
+   "page": "items/consumables/yak-stew-2634459448.md",
+   "json": "items/consumables/yak-stew-2634459448.json"
+  },
+  {
+   "id": 305385380,
+   "name": "Yellow Glow Soup",
+   "rarity": "Uncommon",
+   "level": "-",
+   "image": "images/icons/305385380.png",
+   "page": "items/consumables/yellow-glow-soup-305385380.md",
+   "json": "items/consumables/yellow-glow-soup-305385380.json"
+  },
+  {
+   "id": 1683685602,
+   "name": "Yellow Shroud Mushroom",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1683685602.png",
+   "page": "items/consumables/yellow-shroud-mushroom-1683685602.md",
+   "json": "items/consumables/yellow-shroud-mushroom-1683685602.json"
+  },
+  {
+   "id": 2008478235,
+   "name": "Yucca Fruit",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2008478235.png",
+   "page": "items/consumables/yucca-fruit-2008478235.md",
+   "json": "items/consumables/yucca-fruit-2008478235.json"
+  }
+ ]
+}

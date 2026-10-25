@@ -1,0 +1,67 @@
+{
+ "id": 4213879490,
+ "name": "Shield",
+ "internalName": "Shield_T0-TX_Enemy_Fogger_Depleted",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/4213879490.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This makeshift shield allows you to **block** physical attacks. Blocking drains Stamina.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/shield.md",
+  "json": "objects/equipment/shield.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Shield",
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Ice Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Power Parry",
+   "effect": "Increases the skill level of Power Parry by +1"
+  }
+ ],
+ "page": "items/equipment/shield-4213879490.md"
+}

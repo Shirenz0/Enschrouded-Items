@@ -1,0 +1,35 @@
+{
+ "name": "T4 BattleMage Arms",
+ "category": "Equipment",
+ "image": "images/icons/3648209951.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1665658784,
+   "name": "T4 BattleMage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1665658784.png",
+   "page": "items/equipment/t4-battlemage-arms-1665658784.md",
+   "json": "items/equipment/t4-battlemage-arms-1665658784.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3648209951,
+   "name": "T4 BattleMage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3648209951.png",
+   "page": "items/equipment/t4-battlemage-arms-3648209951.md",
+   "json": "items/equipment/t4-battlemage-arms-3648209951.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-battlemage-arms.md"
+}

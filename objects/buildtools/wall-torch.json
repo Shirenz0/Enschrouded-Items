@@ -1,0 +1,38 @@
+{
+ "name": "Wall Torch",
+ "category": "BuildTools",
+ "image": "images/icons/665220347.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [
+  "max stack"
+ ],
+ "items": [
+  {
+   "id": 1727027190,
+   "name": "Wall Torch",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1727027190.png",
+   "page": "items/buildtools/wall-torch-1727027190.md",
+   "json": "items/buildtools/wall-torch-1727027190.json",
+   "maxStack": 1000,
+   "ownTexts": []
+  },
+  {
+   "id": 665220347,
+   "name": "Wall Torch",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/665220347.png",
+   "page": "items/buildtools/wall-torch-665220347.md",
+   "json": "items/buildtools/wall-torch-665220347.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/wall-torch.md"
+}

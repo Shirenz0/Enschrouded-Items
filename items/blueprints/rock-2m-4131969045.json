@@ -1,0 +1,25 @@
+{
+ "id": 4131969045,
+ "name": "Rock 2m",
+ "internalName": "Blueprint_Terrain_Whitebox_2x2_Blob_Rock",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": "This tool can only be used inside the building area around an Altar. It can help you to quickly build your desired base with pre-defined structures.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/blueprints/rock-2m-4131969045.md"
+}

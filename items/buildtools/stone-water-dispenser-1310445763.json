@@ -1,0 +1,61 @@
+{
+ "id": 1310445763,
+ "name": "Stone Water Dispenser",
+ "internalName": "Prop_WaterDispenser_Stone_spillUntilCovered_nature",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1310445763.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This item allows you to create water. Place it wherever you like, and it will spit out water until it is covered.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2627579649,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 40,
+     "item": {
+      "id": 1853942795,
+      "name": "T6 material limestone from shells",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 8,
+     "item": {
+      "id": 4114143627,
+      "name": "Iron Dust",
+      "page": "items/materials/iron-dust-4114143627.md",
+      "json": "items/materials/iron-dust-4114143627.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/stone-water-dispenser-1310445763.md"
+}

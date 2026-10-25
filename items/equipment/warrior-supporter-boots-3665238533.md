@@ -23,4 +23,4 @@ Warrior Supporter Boots description
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](warrior-supporter-boots-3665238533.json)

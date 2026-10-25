@@ -1,0 +1,90 @@
+{
+ "id": 621614770,
+ "name": "T4 Blizzard II",
+ "internalName": "Ammo_T4_Spell_Ice_Blizzard_lvl22",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 22,
+  "max": 22
+ },
+ "maxStack": 500,
+ "image": "images/icons/621614770.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates an icy storm that slows down enemies and deals damage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Ice": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 134,
+    "display": "134",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 400,
+    "display": "400",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 10000,
+    "display": "10 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Slow",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 439151822,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1350606537,
+      "name": "Fog Oil",
+      "page": "items/materials/fog-oil-1350606537.md",
+      "json": "items/materials/fog-oil-1350606537.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t4-blizzard-ii-621614770.md"
+}

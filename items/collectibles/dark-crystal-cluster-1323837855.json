@@ -1,0 +1,25 @@
+{
+ "id": 1323837855,
+ "name": "Dark Crystal Cluster",
+ "internalName": "Collection_skeletons_01_crystals_crystal_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1323837855.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A cluster of dark Crystals, growing together.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/dark-crystal-cluster-1323837855.md"
+}

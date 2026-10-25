@@ -1,0 +1,82 @@
+{
+ "name": "Dragon Sword",
+ "category": "Weapons",
+ "image": "images/icons/3670734309.png",
+ "versions": 6,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 3907468980,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/3907468980.png",
+   "page": "items/weapons/dragon-sword-3907468980.md",
+   "json": "items/weapons/dragon-sword-3907468980.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3434497058,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/3434497058.png",
+   "page": "items/weapons/dragon-sword-3434497058.md",
+   "json": "items/weapons/dragon-sword-3434497058.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3566731447,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/3566731447.png",
+   "page": "items/weapons/dragon-sword-3566731447.md",
+   "json": "items/weapons/dragon-sword-3566731447.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2352034665,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/2352034665.png",
+   "page": "items/weapons/dragon-sword-2352034665.md",
+   "json": "items/weapons/dragon-sword-2352034665.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3584171520,
+   "name": "Dragon Sword",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3584171520.png",
+   "page": "items/weapons/dragon-sword-3584171520.md",
+   "json": "items/weapons/dragon-sword-3584171520.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3670734309,
+   "name": "Dragon Sword",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3670734309.png",
+   "page": "items/weapons/dragon-sword-3670734309.md",
+   "json": "items/weapons/dragon-sword-3670734309.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/dragon-sword.md"
+}

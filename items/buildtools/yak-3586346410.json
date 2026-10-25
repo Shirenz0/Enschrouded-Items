@@ -1,0 +1,25 @@
+{
+ "id": 3586346410,
+ "name": "Yak",
+ "internalName": "Animal_Farming_Yak",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/3586346410.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This woolly fellow grows a thick coat to weather the harsh climate of Biom. It can be shaved for wool.",
+ "lore": "Farming Animal",
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/yak-3586346410.md"
+}

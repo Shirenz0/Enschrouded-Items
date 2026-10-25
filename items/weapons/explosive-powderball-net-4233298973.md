@@ -37,4 +37,4 @@ Crafting, Alchemist
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](explosive-powderball-net-4233298973.json)

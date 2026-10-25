@@ -1,0 +1,67 @@
+{
+ "id": 3354704185,
+ "name": "Shiitake Mushroom",
+ "internalName": "Food_T6_raw_mushroom_Shiitake",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3354704185.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Shiitake Mushroom t6 desc",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1500000,
+    "display": "25:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 2848753277,
+   "name": "Cabbage Mushroom Rice",
+   "page": "items/consumables/cabbage-mushroom-rice-2848753277.md",
+   "json": "items/consumables/cabbage-mushroom-rice-2848753277.json"
+  },
+  {
+   "id": 2019452880,
+   "name": "Roasted Shiitake Mushroom",
+   "page": "items/consumables/roasted-shiitake-mushroom-2019452880.md",
+   "json": "items/consumables/roasted-shiitake-mushroom-2019452880.json"
+  },
+  {
+   "id": 2733976881,
+   "name": "Algae Salad",
+   "page": "items/consumables/algae-salad-2733976881.md",
+   "json": "items/consumables/algae-salad-2733976881.json"
+  },
+  {
+   "id": 420003849,
+   "name": "Shiitake Seedling",
+   "page": "items/buildtools/shiitake-seedling-420003849.md",
+   "json": "items/buildtools/shiitake-seedling-420003849.json"
+  }
+ ],
+ "page": "items/consumables/shiitake-mushroom-3354704185.md"
+}

@@ -1,0 +1,69 @@
+{
+ "id": 3405461465,
+ "name": "Corrupted Boar Tusk",
+ "internalName": "Material_T2_CorruptedBoarTusk",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/3405461465.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A jagged tusk blackened by Shroud corruption. Pulsing with faint traces of toxic energy, it carries the raw aggression of the Shroud Boar it came from. A prized material for crafting brutal weapons or armor enhancements",
+ "lore": null,
+ "whereToFind": "Fell Boars, Revelwood Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 1334157650,
+   "name": "T6 Eternal Fireball II",
+   "page": "items/ammunition/t6-eternal-fireball-ii-1334157650.md",
+   "json": "items/ammunition/t6-eternal-fireball-ii-1334157650.json"
+  },
+  {
+   "id": 2728050036,
+   "name": "T2 Ice Bolt II",
+   "page": "items/ammunition/t2-ice-bolt-ii-2728050036.md",
+   "json": "items/ammunition/t2-ice-bolt-ii-2728050036.json"
+  },
+  {
+   "id": 722422442,
+   "name": "T2 Healer Legs",
+   "page": "items/equipment/t2-healer-legs-722422442.md",
+   "json": "items/equipment/t2-healer-legs-722422442.json"
+  },
+  {
+   "id": 1798843751,
+   "name": "T2 Mage Legs",
+   "page": "items/equipment/t2-mage-legs-1798843751.md",
+   "json": "items/equipment/t2-mage-legs-1798843751.json"
+  },
+  {
+   "id": 2374868988,
+   "name": "T2 Ranger Legs",
+   "page": "items/equipment/t2-ranger-legs-2374868988.md",
+   "json": "items/equipment/t2-ranger-legs-2374868988.json"
+  },
+  {
+   "id": 3559413170,
+   "name": "T2 Archer Legs",
+   "page": "items/equipment/t2-archer-legs-3559413170.md",
+   "json": "items/equipment/t2-archer-legs-3559413170.json"
+  },
+  {
+   "id": 2509853978,
+   "name": "T2 Tank Legs",
+   "page": "items/equipment/t2-tank-legs-2509853978.md",
+   "json": "items/equipment/t2-tank-legs-2509853978.json"
+  }
+ ],
+ "page": "items/materials/corrupted-boar-tusk-3405461465.md"
+}

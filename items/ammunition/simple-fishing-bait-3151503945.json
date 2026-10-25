@@ -1,0 +1,63 @@
+{
+ "id": 3151503945,
+ "name": "Simple Fishing Bait",
+ "internalName": "Material_T0_simple_FishingBait",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3151503945.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "very simple bait",
+ "lore": null,
+ "whereToFind": "Manual Crafting",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "recipes": [
+  {
+   "recipeId": 3984619120,
+   "station": null,
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3264892278,
+      "name": "Critter Parts",
+      "page": "items/materials/critter-parts-3264892278.md",
+      "json": "items/materials/critter-parts-3264892278.json"
+     }
+    },
+    {
+     "count": 4,
+     "oneOf": [
+      {
+       "id": 3316218728,
+       "name": "Plant Fibre",
+       "page": "items/materials/plant-fibre-3316218728.md",
+       "json": "items/materials/plant-fibre-3316218728.json"
+      },
+      {
+       "id": 1026141130,
+       "name": "Paper Reed",
+       "page": "items/materials/paper-reed-1026141130.md",
+       "json": "items/materials/paper-reed-1026141130.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/ammunition/simple-fishing-bait-3151503945.md"
+}

@@ -1,0 +1,51 @@
+{
+ "id": 4218685557,
+ "name": "Kettle",
+ "internalName": "Prop_Component_Kettle",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4218685557.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A metal Kettle that can be suspended over a fire place.",
+ "lore": "Furniture",
+ "whereToFind": "Blacksmith",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2664219489,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 4271896226,
+      "name": "Metal Sheets",
+      "page": "items/materials/metal-sheets-4271896226.md",
+      "json": "items/materials/metal-sheets-4271896226.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3881781700,
+   "name": "Cooking Station",
+   "page": "items/buildtools/cooking-station-3881781700.md",
+   "json": "items/buildtools/cooking-station-3881781700.json"
+  }
+ ],
+ "page": "items/buildtools/kettle-4218685557.md"
+}

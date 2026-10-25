@@ -24,4 +24,4 @@ Killing a enemy with a visceral attack has a %k chance to spawn a friendly level
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-skulls-3928711197.json)

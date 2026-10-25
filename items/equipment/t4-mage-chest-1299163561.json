@@ -1,0 +1,131 @@
+{
+ "id": 1299163561,
+ "name": "T4 Mage Chest",
+ "internalName": "Armor_T4_Mage_Wizard_DPS_Chest",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 20,
+  "max": 20
+ },
+ "maxStack": 1,
+ "image": "images/icons/1299163561.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Died over many nights with deep cobalt coloring derived from nightblooms overseas.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t4-mage-chest.md",
+  "json": "objects/equipment/t4-mage-chest.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Chest",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 96,
+    "display": "96",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 4,
+   "name": "Mana",
+   "effect": "+25 Mana"
+  },
+  {
+   "order": 5,
+   "name": "+1 Dark Arts",
+   "effect": "Increases the skill level of Dark Arts by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2507803791,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1711247619,
+      "name": "Padding",
+      "page": "items/materials/padding-1711247619.md",
+      "json": "items/materials/padding-1711247619.json"
+     }
+    },
+    {
+     "count": 7,
+     "item": {
+      "id": 764289975,
+      "name": "Aloe",
+      "page": "items/materials/aloe-764289975.md",
+      "json": "items/materials/aloe-764289975.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 536984995,
+      "name": "Fell Heart",
+      "page": "items/materials/fell-heart-536984995.md",
+      "json": "items/materials/fell-heart-536984995.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/t4-mage-chest-1299163561.md"
+}

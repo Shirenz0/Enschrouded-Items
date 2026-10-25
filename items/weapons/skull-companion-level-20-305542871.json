@@ -1,0 +1,87 @@
+{
+ "id": 305542871,
+ "name": "Skull companion Level 20",
+ "internalName": "Consumable_Necromancer_Grenade_T4",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 20,
+ "image": "images/icons/305542871.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Throw to summon a skull companion.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 90,
+    "display": "90",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 120000,
+    "display": "2:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2961546324,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 132545371,
+      "name": "Metal Scraps",
+      "page": "items/materials/metal-scraps-132545371.md",
+      "json": "items/materials/metal-scraps-132545371.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 1453689781,
+      "name": "T3 Green essence",
+      "page": "items/materials/t3-green-essence-1453689781.md",
+      "json": "items/materials/t3-green-essence-1453689781.json"
+     }
+    }
+   ],
+   "outputCount": 3
+  }
+ ],
+ "page": "items/weapons/skull-companion-level-20-305542871.md"
+}

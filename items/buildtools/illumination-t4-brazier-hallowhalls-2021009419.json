@@ -1,0 +1,106 @@
+{
+ "id": 2021009419,
+ "name": "Illumination T4 Brazier HallowHalls",
+ "internalName": "Prop_Decoration_Comfort_T4_Illumination_Floor_HallowHalls_Brazier",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2021009419.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative Item, which will provide warmth and illumination in its proximitye .\n\nProvides **comfort** which increases the duration of the Rested Bonus.",
+ "lore": "Hearth",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Comfort - Hearth",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3902594634,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 10,
+     "item": {
+      "id": 372029138,
+      "name": "Charcoal",
+      "page": "items/materials/charcoal-372029138.md",
+      "json": "items/materials/charcoal-372029138.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 4109728689,
+      "name": "Resin",
+      "page": "items/materials/resin-4109728689.md",
+      "json": "items/materials/resin-4109728689.json"
+     }
+    },
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 2617088387,
+       "name": "T2 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1453689781,
+       "name": "T3 Green essence",
+       "page": "items/materials/t3-green-essence-1453689781.md",
+       "json": "items/materials/t3-green-essence-1453689781.json"
+      },
+      {
+       "id": 3236482539,
+       "name": "T4 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 1903438107,
+       "name": "T5 Green Essence",
+       "page": null,
+       "json": null
+      },
+      {
+       "id": 4005698976,
+       "name": "T6 Green Essence (Ectoplasm Aggregate??)",
+       "page": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.md",
+       "json": "items/materials/t6-green-essence-ectoplasm-aggregate-4005698976.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/illumination-t4-brazier-hallowhalls-2021009419.md"
+}

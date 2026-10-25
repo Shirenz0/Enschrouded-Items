@@ -1,0 +1,73 @@
+{
+ "id": 1511796527,
+ "name": "Grilled Penny Bun",
+ "internalName": "Food_T1_processed_mushroom_Grilled_Mushroom_brown",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1511796527.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Enhancing energy with power! One plus one makes two.\n\nIncreases the intelligence of the user upon consumption greatly.",
+ "lore": null,
+ "whereToFind": "Campfire",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Magic Damage Multiplier",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1200000,
+    "display": "20:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 59968945,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 600862405,
+      "name": "Penny Bun",
+      "page": "items/consumables/penny-bun-600862405.md",
+      "json": "items/consumables/penny-bun-600862405.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3196782416,
+   "name": "Overgrowth Tool",
+   "page": "items/blueprints/overgrowth-tool-3196782416.md",
+   "json": "items/blueprints/overgrowth-tool-3196782416.json"
+  },
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-penny-bun-1511796527.md"
+}

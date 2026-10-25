@@ -1,0 +1,35 @@
+{
+ "name": "T3 DPS Chest",
+ "category": "Equipment",
+ "image": "images/icons/3800404508.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2668531225,
+   "name": "T3 DPS Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/2668531225.png",
+   "page": "items/equipment/t3-dps-chest-2668531225.md",
+   "json": "items/equipment/t3-dps-chest-2668531225.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3800404508,
+   "name": "T3 DPS Chest",
+   "rarity": "Rare",
+   "level": "15",
+   "image": "images/icons/3800404508.png",
+   "page": "items/equipment/t3-dps-chest-3800404508.md",
+   "json": "items/equipment/t3-dps-chest-3800404508.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t3-dps-chest.md"
+}

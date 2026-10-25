@@ -1,0 +1,67 @@
+{
+ "id": 2626897582,
+ "name": "Banana",
+ "internalName": "Food_T6_raw_fruit_YellowBanana",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2626897582.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "ripe yellow banana can be eaten raw or used in another dish",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health Regeneration",
+    "value": 21,
+    "display": "21",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 180000,
+    "display": "3:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1444162950,
+   "name": "Banana Coconut Smoothie",
+   "page": "items/consumables/banana-coconut-smoothie-1444162950.md",
+   "json": "items/consumables/banana-coconut-smoothie-1444162950.json"
+  },
+  {
+   "id": 3556995300,
+   "name": "Honey Baked Banana with Cashews",
+   "page": "items/consumables/honey-baked-banana-with-cashews-3556995300.md",
+   "json": "items/consumables/honey-baked-banana-with-cashews-3556995300.json"
+  },
+  {
+   "id": 1717387680,
+   "name": "Dried Banana Chips",
+   "page": "items/consumables/dried-banana-chips-1717387680.md",
+   "json": "items/consumables/dried-banana-chips-1717387680.json"
+  },
+  {
+   "id": 3955544954,
+   "name": "Banana Seedling",
+   "page": "items/buildtools/banana-seedling-3955544954.md",
+   "json": "items/buildtools/banana-seedling-3955544954.json"
+  }
+ ],
+ "page": "items/consumables/banana-2626897582.md"
+}

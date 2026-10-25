@@ -1,0 +1,35 @@
+{
+ "name": "T4 Tank Helmet",
+ "category": "Equipment",
+ "image": "images/icons/3928174717.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2870440263,
+   "name": "T4 Tank Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2870440263.png",
+   "page": "items/equipment/t4-tank-helmet-2870440263.md",
+   "json": "items/equipment/t4-tank-helmet-2870440263.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3928174717,
+   "name": "T4 Tank Helmet",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3928174717.png",
+   "page": "items/equipment/t4-tank-helmet-3928174717.md",
+   "json": "items/equipment/t4-tank-helmet-3928174717.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-tank-helmet.md"
+}

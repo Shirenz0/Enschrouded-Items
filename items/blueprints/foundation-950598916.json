@@ -1,0 +1,29 @@
+{
+ "id": 950598916,
+ "name": "Foundation",
+ "internalName": "Blueprint_Voxel_Block_Foundation_4m",
+ "category": {
+  "id": "Blueprints",
+  "title": "Blueprints",
+  "page": "categories/blueprints.md",
+  "json": "categories/blueprints.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/blueprints.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/blueprints/foundation.md",
+  "json": "objects/blueprints/foundation.json",
+  "versions": 2
+ },
+ "page": "items/blueprints/foundation-950598916.md"
+}

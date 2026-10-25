@@ -1,0 +1,51 @@
+{
+ "id": 1353828797,
+ "name": "Fell Critter Queen Head",
+ "internalName": "_Material_TX_Trophy_Fell_Critter_Queen_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1353828797.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "the head of a Fell Critter Queen description",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 501181105,
+   "name": "Gold Fell Critter Queen Trophy",
+   "page": "items/buildtools/gold-fell-critter-queen-trophy-501181105.md",
+   "json": "items/buildtools/gold-fell-critter-queen-trophy-501181105.json"
+  },
+  {
+   "id": 1414430028,
+   "name": "Iron Fell Critter Queen Trophy",
+   "page": "items/buildtools/iron-fell-critter-queen-trophy-1414430028.md",
+   "json": "items/buildtools/iron-fell-critter-queen-trophy-1414430028.json"
+  },
+  {
+   "id": 1318672109,
+   "name": "Bronze Fell Critter Queen Trophy",
+   "page": "items/buildtools/bronze-fell-critter-queen-trophy-1318672109.md",
+   "json": "items/buildtools/bronze-fell-critter-queen-trophy-1318672109.json"
+  },
+  {
+   "id": 421729762,
+   "name": "Fell Critter Queen Trophy",
+   "page": "items/buildtools/fell-critter-queen-trophy-421729762.md",
+   "json": "items/buildtools/fell-critter-queen-trophy-421729762.json"
+  }
+ ],
+ "page": "items/materials/fell-critter-queen-head-1353828797.md"
+}

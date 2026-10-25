@@ -33,4 +33,4 @@ Creates a pillar of flames that deals fire damage to enemies and burns them.
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t4-pillar-of-flames-ii-1805048399.json)

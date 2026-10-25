@@ -1,0 +1,71 @@
+{
+ "id": 3232965601,
+ "name": "T2 Archer Arms",
+ "internalName": "Armor_T2_Ranger_Assassin_Arms_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3232965601.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Made from many different patches of leather, these gloves have been refined to be snug and effective.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-archer-arms.md",
+  "json": "objects/equipment/t2-archer-arms.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Hands",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "% Dagger Damage",
+    "value": 9,
+    "display": "9",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+8 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Fog Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Dagger Mastery",
+   "effect": "Increases the skill level of Dagger Mastery by +1"
+  }
+ ],
+ "page": "items/equipment/t2-archer-arms-3232965601.md"
+}

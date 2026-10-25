@@ -1,0 +1,35 @@
+{
+ "name": "T2 DPS Boots",
+ "category": "Equipment",
+ "image": "images/icons/710844874.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 372204401,
+   "name": "T2 DPS Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/372204401.png",
+   "page": "items/equipment/t2-dps-boots-372204401.md",
+   "json": "items/equipment/t2-dps-boots-372204401.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 710844874,
+   "name": "T2 DPS Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/710844874.png",
+   "page": "items/equipment/t2-dps-boots-710844874.md",
+   "json": "items/equipment/t2-dps-boots-710844874.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-dps-boots.md"
+}

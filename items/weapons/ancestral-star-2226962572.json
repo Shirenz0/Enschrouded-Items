@@ -1,0 +1,77 @@
+{
+ "id": 2226962572,
+ "name": "Ancestral Star",
+ "internalName": "Weapon_T5_2H_Lore_Hammer_townsfolk_male_01_hint_01",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/2226962572.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: \"If you want this weapon, you'll have to pry it from my cold, dead hands\".",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/ancestral-star.md",
+  "json": "objects/weapons/ancestral-star.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 50,
+   "Fire": 50
+  },
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 2,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "Precise",
+   "effect": "+6 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "Retaliation",
+   "effect": "A percentage of incoming damage is dealt back to the attacker"
+  }
+ ],
+ "page": "items/weapons/ancestral-star-2226962572.md"
+}

@@ -1,0 +1,99 @@
+{
+ "id": 1805048399,
+ "name": "T4 Pillar of Flames II",
+ "internalName": "Ammo_T4_Spell_Fire_Pillar_lvl22",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 22,
+  "max": 22
+ },
+ "maxStack": 500,
+ "image": "images/icons/1805048399.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Creates a pillar of flames that deals fire damage to enemies and burns them.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 87,
+    "display": "87",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 1250,
+    "display": "1.25 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 200,
+    "display": "200",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 5000,
+    "display": "5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 10000,
+    "display": "10 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2388749242,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3044860358,
+      "name": "Lapislazuli",
+      "page": "items/materials/lapislazuli-3044860358.md",
+      "json": "items/materials/lapislazuli-3044860358.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2819734894,
+      "name": "Sulfur",
+      "page": "items/materials/sulfur-2819734894.md",
+      "json": "items/materials/sulfur-2819734894.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "page": "items/ammunition/t4-pillar-of-flames-ii-1805048399.md"
+}

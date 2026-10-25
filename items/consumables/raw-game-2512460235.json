@@ -1,0 +1,73 @@
+{
+ "id": 2512460235,
+ "name": "Raw Game",
+ "internalName": "Food_T2_raw_bad_meat_Game",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2512460235.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Looks disgusting. Maybe if it's cooked...",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -40,
+    "display": "-40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 16972502,
+   "name": "Grilled Game",
+   "page": "items/consumables/grilled-game-16972502.md",
+   "json": "items/consumables/grilled-game-16972502.json"
+  },
+  {
+   "id": 2630618097,
+   "name": "Raw Meat and Hazelnut Skewer",
+   "page": "items/materials/raw-meat-and-hazelnut-skewer-2630618097.md",
+   "json": "items/materials/raw-meat-and-hazelnut-skewer-2630618097.json"
+  },
+  {
+   "id": 1178468623,
+   "name": "Raw Meat and Azure Russula Skewer",
+   "page": "items/materials/raw-meat-and-azure-russula-skewer-1178468623.md",
+   "json": "items/materials/raw-meat-and-azure-russula-skewer-1178468623.json"
+  },
+  {
+   "id": 3031557010,
+   "name": "Raw Meat and Forest Beet Skewer",
+   "page": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.md",
+   "json": "items/materials/raw-meat-and-forest-beet-skewer-3031557010.json"
+  },
+  {
+   "id": 1522120746,
+   "name": "Food Dog Feeding",
+   "page": "items/buildtools/food-dog-feeding-1522120746.md",
+   "json": "items/buildtools/food-dog-feeding-1522120746.json"
+  }
+ ],
+ "page": "items/consumables/raw-game-2512460235.md"
+}

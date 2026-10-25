@@ -1,0 +1,35 @@
+{
+ "name": "Skeleton armor twitch drop helmet",
+ "category": "Equipment",
+ "image": "images/icons/3619572274.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3121149981,
+   "name": "Skeleton armor twitch drop helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3121149981.png",
+   "page": "items/equipment/skeleton-armor-twitch-drop-helmet-3121149981.md",
+   "json": "items/equipment/skeleton-armor-twitch-drop-helmet-3121149981.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3619572274,
+   "name": "Skeleton armor twitch drop helmet",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/3619572274.png",
+   "page": "items/equipment/skeleton-armor-twitch-drop-helmet-3619572274.md",
+   "json": "items/equipment/skeleton-armor-twitch-drop-helmet-3619572274.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/skeleton-armor-twitch-drop-helmet.md"
+}

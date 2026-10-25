@@ -25,4 +25,4 @@ An ancient potted plant. This one can be displayed in the Cultivation Rack
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](large-bloomheart-fruit-flower-pot-i-1020559529.json)

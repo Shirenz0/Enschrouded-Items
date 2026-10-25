@@ -305,4 +305,4 @@
 | <img src="../images/icons/2770415595.png" width="48"> | [Wolf's Teeth](../items/weapons/wolf-s-teeth-2770415595.md) | ⚪ Common | 1-55 | 1 |
 | <img src="../images/icons/979851343.png" width="48"> | [Wooden Club](../items/weapons/wooden-club-979851343.md) | ⚪ Common | 3 | 1 |
 
-[← All categories](../README.md) · page **1** · [2](weapons-2.md)
+[← All categories](../README.md) · page **1** · [2](weapons-2.md) · [JSON](weapons.json)

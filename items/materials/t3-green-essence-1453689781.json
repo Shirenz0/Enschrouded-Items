@@ -1,0 +1,63 @@
+{
+ "id": 1453689781,
+ "name": "T3 Green essence",
+ "internalName": "Material_T3_Green_Essence",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 500,
+ "image": "images/icons/1453689781.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "T3 Green Essence desc",
+ "lore": null,
+ "whereToFind": "Nomad Highlands, Hollow Halls",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3877300758,
+   "name": "Green Glow Block",
+   "page": "items/buildtools/green-glow-block-3877300758.md",
+   "json": "items/buildtools/green-glow-block-3877300758.json"
+  },
+  {
+   "id": 3270347800,
+   "name": "T4 Giant Bone Arrow II",
+   "page": "items/ammunition/t4-giant-bone-arrow-ii-3270347800.md",
+   "json": "items/ammunition/t4-giant-bone-arrow-ii-3270347800.json"
+  },
+  {
+   "id": 3014702000,
+   "name": "T4 Bone Channel III",
+   "page": "items/ammunition/t4-bone-channel-iii-3014702000.md",
+   "json": "items/ammunition/t4-bone-channel-iii-3014702000.json"
+  },
+  {
+   "id": 305542871,
+   "name": "Skull companion Level 20",
+   "page": "items/weapons/skull-companion-level-20-305542871.md",
+   "json": "items/weapons/skull-companion-level-20-305542871.json"
+  },
+  {
+   "id": 3841845306,
+   "name": "T3 Palette 01 reward Green, green, green",
+   "page": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.md",
+   "json": "items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.json"
+  },
+  {
+   "id": 2821660974,
+   "name": "T3 Palette 04 Brown Green Grey",
+   "page": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.md",
+   "json": "items/colorpalette/t3-palette-04-brown-green-grey-2821660974.json"
+  }
+ ],
+ "page": "items/materials/t3-green-essence-1453689781.md"
+}

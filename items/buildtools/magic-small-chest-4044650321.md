@@ -26,4 +26,4 @@ Offers some amount of storage space to store items. The items stored here can be
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](magic-small-chest-4044650321.json)

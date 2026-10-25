@@ -1,0 +1,170 @@
+{
+ "id": 1642368164,
+ "name": "Empty Flower Pot VI",
+ "internalName": "Empty_Flower_Pot_Round_Large_Ground_Empty",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1642368164.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": "Crafting, Kiln",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3226034021,
+   "station": "Kiln",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3127704929,
+   "name": "Passionflower Flower Pot",
+   "page": "items/buildtools/passionflower-flower-pot-3127704929.md",
+   "json": "items/buildtools/passionflower-flower-pot-3127704929.json"
+  },
+  {
+   "id": 2027224453,
+   "name": "Gleam Root Flower Pot",
+   "page": "items/buildtools/gleam-root-flower-pot-2027224453.md",
+   "json": "items/buildtools/gleam-root-flower-pot-2027224453.json"
+  },
+  {
+   "id": 529262830,
+   "name": "Coconut Plant Pot",
+   "page": "items/buildtools/coconut-plant-pot-529262830.md",
+   "json": "items/buildtools/coconut-plant-pot-529262830.json"
+  },
+  {
+   "id": 1370519204,
+   "name": "Banana Plant Pot",
+   "page": "items/buildtools/banana-plant-pot-1370519204.md",
+   "json": "items/buildtools/banana-plant-pot-1370519204.json"
+  },
+  {
+   "id": 4232861370,
+   "name": "Licuala Plant Pot",
+   "page": "items/buildtools/licuala-plant-pot-4232861370.md",
+   "json": "items/buildtools/licuala-plant-pot-4232861370.json"
+  },
+  {
+   "id": 3331736531,
+   "name": "Daylily Flower Pot",
+   "page": "items/buildtools/daylily-flower-pot-3331736531.md",
+   "json": "items/buildtools/daylily-flower-pot-3331736531.json"
+  },
+  {
+   "id": 3803006190,
+   "name": "Ginger Flower Pot",
+   "page": "items/buildtools/ginger-flower-pot-3803006190.md",
+   "json": "items/buildtools/ginger-flower-pot-3803006190.json"
+  },
+  {
+   "id": 3447568951,
+   "name": "Stapelia Starflower Flower Pot",
+   "page": "items/buildtools/stapelia-starflower-flower-pot-3447568951.md",
+   "json": "items/buildtools/stapelia-starflower-flower-pot-3447568951.json"
+  },
+  {
+   "id": 3758178692,
+   "name": "Glimmer Gentian Flower Pot",
+   "page": "items/buildtools/glimmer-gentian-flower-pot-3758178692.md",
+   "json": "items/buildtools/glimmer-gentian-flower-pot-3758178692.json"
+  },
+  {
+   "id": 889046505,
+   "name": "Alpine Rose Flower Pot",
+   "page": "items/buildtools/alpine-rose-flower-pot-889046505.md",
+   "json": "items/buildtools/alpine-rose-flower-pot-889046505.json"
+  },
+  {
+   "id": 440235364,
+   "name": "Shadowbloom Flower Pot",
+   "page": "items/buildtools/shadowbloom-flower-pot-440235364.md",
+   "json": "items/buildtools/shadowbloom-flower-pot-440235364.json"
+  },
+  {
+   "id": 274681682,
+   "name": "Cactus Plant Pot",
+   "page": "items/buildtools/cactus-plant-pot-274681682.md",
+   "json": "items/buildtools/cactus-plant-pot-274681682.json"
+  },
+  {
+   "id": 711377171,
+   "name": "Brittlebush Flower Pot",
+   "page": "items/buildtools/brittlebush-flower-pot-711377171.md",
+   "json": "items/buildtools/brittlebush-flower-pot-711377171.json"
+  },
+  {
+   "id": 3965963935,
+   "name": "Indigo Flower Pot",
+   "page": "items/buildtools/indigo-flower-pot-3965963935.md",
+   "json": "items/buildtools/indigo-flower-pot-3965963935.json"
+  }
+ ],
+ "page": "items/buildtools/empty-flower-pot-vi-1642368164.md"
+}

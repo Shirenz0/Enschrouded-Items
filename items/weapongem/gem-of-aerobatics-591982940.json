@@ -1,0 +1,35 @@
+{
+ "id": 591982940,
+ "name": "Gem of Aerobatics",
+ "internalName": "T6_Gem_GemOfAerobatics_UnderFog",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/591982940.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Attacking while in the air spawns %k projectiles that home towards your target and deal %k piercing damage",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Pierce Projectile Damage",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-aerobatics-591982940.md"
+}

@@ -1,0 +1,39 @@
+{
+ "id": 3247058638,
+ "name": "Philipp Buoyancy Platform",
+ "internalName": "Philipp_Buoyancy_Platform",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 35,
+  "max": 35
+ },
+ "maxStack": 20,
+ "image": "images/icons/3247058638.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Philipp_Buoyancy_Platform",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Magic weapon",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Throw Interval",
+    "value": 1000,
+    "display": "1,000",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "page": "items/weapons/philipp-buoyancy-platform-3247058638.md"
+}

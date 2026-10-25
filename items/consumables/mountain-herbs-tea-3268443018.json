@@ -1,0 +1,71 @@
+{
+ "id": 3268443018,
+ "name": "Mountain herbs tea",
+ "internalName": "Food_T5_dish_hydration_HerbTea",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3268443018.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A strong, herbal tea. It increases your mana and stamina.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": 50,
+    "display": "50",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana",
+    "value": 100,
+    "display": "100",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 24,
+    "display": "24",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3850783447,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 3779366146,
+      "name": "T5 Food Raw Herb Gentian",
+      "page": "items/consumables/t5-food-raw-herb-gentian-3779366146.md",
+      "json": "items/consumables/t5-food-raw-herb-gentian-3779366146.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/mountain-herbs-tea-3268443018.md"
+}

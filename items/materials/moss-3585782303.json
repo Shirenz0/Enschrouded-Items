@@ -1,0 +1,51 @@
+{
+ "id": 3585782303,
+ "name": "Moss",
+ "internalName": "Build_TerrainMaterial_T5_Moss",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/3585782303.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "to be used in highly effective bandages",
+ "lore": null,
+ "whereToFind": "First: Revelwood",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2388891615,
+   "name": "Bandage T5",
+   "page": "items/consumables/bandage-t5-2388891615.md",
+   "json": "items/consumables/bandage-t5-2388891615.json"
+  },
+  {
+   "id": 3087876,
+   "name": "Consumable Potion Mana T5",
+   "page": "items/consumables/consumable-potion-mana-t5-3087876.md",
+   "json": "items/consumables/consumable-potion-mana-t5-3087876.json"
+  },
+  {
+   "id": 2300763299,
+   "name": "Stone Stair II",
+   "page": "items/buildtools/stone-stair-ii-2300763299.md",
+   "json": "items/buildtools/stone-stair-ii-2300763299.json"
+  },
+  {
+   "id": 1509264651,
+   "name": "Stone Stair I",
+   "page": "items/buildtools/stone-stair-i-1509264651.md",
+   "json": "items/buildtools/stone-stair-i-1509264651.json"
+  }
+ ],
+ "page": "items/materials/moss-3585782303.md"
+}

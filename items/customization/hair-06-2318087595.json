@@ -1,0 +1,29 @@
+{
+ "id": 2318087595,
+ "name": "Hair 06",
+ "internalName": "VC_Hair08_dreads_hightop",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/customization/hair-06.md",
+  "json": "objects/customization/hair-06.json",
+  "versions": 3
+ },
+ "page": "items/customization/hair-06-2318087595.md"
+}

@@ -25,4 +25,4 @@ Alchemy!
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](yellow-fountain-3860327004.json)

@@ -15,4 +15,4 @@ One of 2 versions of this item: see [Shape Medium](../../objects/blueprints/shap
 
 ---
 
-[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)
+[← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md) · [JSON](shape-medium-1456389031.json)

@@ -1,0 +1,45 @@
+{
+ "id": 310580024,
+ "name": "Shadow Rose",
+ "internalName": "Material_T5_Night_Blackflower",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/310580024.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "shadow rose - used to produce dark black color",
+ "lore": null,
+ "whereToFind": "Albaneve Summits, night",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 664951543,
+   "name": "Nightplant tea",
+   "page": "items/consumables/nightplant-tea-664951543.md",
+   "json": "items/consumables/nightplant-tea-664951543.json"
+  },
+  {
+   "id": 3182673008,
+   "name": "Huge Mana Potion improved",
+   "page": "items/consumables/huge-mana-potion-improved-3182673008.md",
+   "json": "items/consumables/huge-mana-potion-improved-3182673008.json"
+  },
+  {
+   "id": 2971039479,
+   "name": "T5 Eternal Mana Leech Beam VI",
+   "page": "items/ammunition/t5-eternal-mana-leech-beam-vi-2971039479.md",
+   "json": "items/ammunition/t5-eternal-mana-leech-beam-vi-2971039479.json"
+  }
+ ],
+ "page": "items/materials/shadow-rose-310580024.md"
+}

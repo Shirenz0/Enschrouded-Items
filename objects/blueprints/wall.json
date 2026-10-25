@@ -1,0 +1,33 @@
+{
+ "name": "Wall",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 48042626,
+   "name": "Wall",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-48042626.md",
+   "json": "items/blueprints/wall-48042626.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 948722226,
+   "name": "Wall",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-948722226.md",
+   "json": "items/blueprints/wall-948722226.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/wall.md"
+}

@@ -1,0 +1,72 @@
+{
+ "id": 3831314886,
+ "name": "Epic Great Wolf Mace",
+ "internalName": "Weapon_T2_2H_HammerEpic_02",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 1,
+  "max": 55
+ },
+ "maxStack": 1,
+ "image": "images/icons/3831314886.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Epic Great Wolf Mace Desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Blunt": 100
+  },
+  "values": [
+   {
+    "label": "Parry Power",
+    "value": 1,
+    "display": "1",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Brutal",
+   "effect": "+14 Brutal"
+  },
+  {
+   "order": 3,
+   "name": "Heavy",
+   "effect": null
+  },
+  {
+   "order": 4,
+   "name": "Merciless",
+   "effect": "+14 Merciless"
+  },
+  {
+   "order": 5,
+   "name": "Brutal",
+   "effect": "+14 Brutal"
+  }
+ ],
+ "page": "items/weapons/epic-great-wolf-mace-3831314886.md"
+}

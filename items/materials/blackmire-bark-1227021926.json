@@ -1,0 +1,25 @@
+{
+ "id": 1227021926,
+ "name": "Blackmire Bark",
+ "internalName": "Build_TerrainMaterial_T2_TallTree_Bark",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/1227021926.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Bark from the giant trees in the Blackmire. It feels rough, but could look quite cozy.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/materials/blackmire-bark-1227021926.md"
+}

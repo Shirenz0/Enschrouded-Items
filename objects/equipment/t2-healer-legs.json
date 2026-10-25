@@ -1,0 +1,35 @@
+{
+ "name": "T2 Healer Legs",
+ "category": "Equipment",
+ "image": "images/icons/722422442.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1484060021,
+   "name": "T2 Healer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1484060021.png",
+   "page": "items/equipment/t2-healer-legs-1484060021.md",
+   "json": "items/equipment/t2-healer-legs-1484060021.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 722422442,
+   "name": "T2 Healer Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/722422442.png",
+   "page": "items/equipment/t2-healer-legs-722422442.md",
+   "json": "items/equipment/t2-healer-legs-722422442.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-healer-legs.md"
+}

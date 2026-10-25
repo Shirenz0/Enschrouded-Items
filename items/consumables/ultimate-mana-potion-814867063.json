@@ -1,0 +1,68 @@
+{
+ "id": 814867063,
+ "name": "Ultimate Mana Potion +",
+ "internalName": "_Consumable_Potion_Mana_T6_MoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/814867063.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some mana instantly and provides an additional Mana over time effect for even more seconds.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 240,
+    "display": "240",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana per second",
+    "value": 16,
+    "display": "16",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 1648601999,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2145533653,
+      "name": "Gleam Root",
+      "page": "items/materials/gleam-root-2145533653.md",
+      "json": "items/materials/gleam-root-2145533653.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2916308043,
+      "name": "Ultimate Mana Potion",
+      "page": "items/consumables/ultimate-mana-potion-2916308043.md",
+      "json": "items/consumables/ultimate-mana-potion-2916308043.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/ultimate-mana-potion-814867063.md"
+}

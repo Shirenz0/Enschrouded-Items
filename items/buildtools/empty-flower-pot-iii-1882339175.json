@@ -1,0 +1,152 @@
+{
+ "id": 1882339175,
+ "name": "Empty Flower Pot III",
+ "internalName": "Empty_Flower_Pot_Small_Empty",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/1882339175.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A lovely pot of flowers to beautify your world.",
+ "lore": "Potted Plant",
+ "whereToFind": "Crafting, Kiln",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 363285501,
+   "station": "Kiln",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1925006089,
+      "name": "Lump of Clay",
+      "page": "items/materials/lump-of-clay-1925006089.md",
+      "json": "items/materials/lump-of-clay-1925006089.json"
+     }
+    },
+    {
+     "count": 1,
+     "oneOf": [
+      {
+       "id": 722268629,
+       "name": "Wood Logs",
+       "page": "items/materials/wood-logs-722268629.md",
+       "json": "items/materials/wood-logs-722268629.json"
+      },
+      {
+       "id": 1765656585,
+       "name": "Hardwood",
+       "page": "items/materials/hardwood-1765656585.md",
+       "json": "items/materials/hardwood-1765656585.json"
+      },
+      {
+       "id": 2955233340,
+       "name": "Palmwood Logs",
+       "page": "items/materials/palmwood-logs-2955233340.md",
+       "json": "items/materials/palmwood-logs-2955233340.json"
+      },
+      {
+       "id": 1475408789,
+       "name": "Conifer Logs",
+       "page": "items/materials/conifer-logs-1475408789.md",
+       "json": "items/materials/conifer-logs-1475408789.json"
+      },
+      {
+       "id": 1381084162,
+       "name": "Bamboo Logs",
+       "page": "items/materials/bamboo-logs-1381084162.md",
+       "json": "items/materials/bamboo-logs-1381084162.json"
+      },
+      {
+       "id": 1283252179,
+       "name": "Tropical Wood",
+       "page": "items/materials/tropical-wood-1283252179.md",
+       "json": "items/materials/tropical-wood-1283252179.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 523366717,
+   "name": "Small Monstera Plant Pot",
+   "page": "items/buildtools/small-monstera-plant-pot-523366717.md",
+   "json": "items/buildtools/small-monstera-plant-pot-523366717.json"
+  },
+  {
+   "id": 2019603203,
+   "name": "Fern Pot",
+   "page": "items/buildtools/fern-pot-2019603203.md",
+   "json": "items/buildtools/fern-pot-2019603203.json"
+  },
+  {
+   "id": 4231642797,
+   "name": "Gras Pot",
+   "page": "items/buildtools/gras-pot-4231642797.md",
+   "json": "items/buildtools/gras-pot-4231642797.json"
+  },
+  {
+   "id": 1682046505,
+   "name": "Pink Flower Pot",
+   "page": "items/buildtools/pink-flower-pot-1682046505.md",
+   "json": "items/buildtools/pink-flower-pot-1682046505.json"
+  },
+  {
+   "id": 157147909,
+   "name": "Red Flower Pot",
+   "page": "items/buildtools/red-flower-pot-157147909.md",
+   "json": "items/buildtools/red-flower-pot-157147909.json"
+  },
+  {
+   "id": 120176694,
+   "name": "White Flower Pot",
+   "page": "items/buildtools/white-flower-pot-120176694.md",
+   "json": "items/buildtools/white-flower-pot-120176694.json"
+  },
+  {
+   "id": 1594649719,
+   "name": "Yellow Flower Pot",
+   "page": "items/buildtools/yellow-flower-pot-1594649719.md",
+   "json": "items/buildtools/yellow-flower-pot-1594649719.json"
+  },
+  {
+   "id": 533905592,
+   "name": "Pink Wall Pot",
+   "page": "items/buildtools/pink-wall-pot-533905592.md",
+   "json": "items/buildtools/pink-wall-pot-533905592.json"
+  },
+  {
+   "id": 2029375274,
+   "name": "Red Wall Pot",
+   "page": "items/buildtools/red-wall-pot-2029375274.md",
+   "json": "items/buildtools/red-wall-pot-2029375274.json"
+  },
+  {
+   "id": 1763603908,
+   "name": "White Wall Pot",
+   "page": "items/buildtools/white-wall-pot-1763603908.md",
+   "json": "items/buildtools/white-wall-pot-1763603908.json"
+  },
+  {
+   "id": 2862328564,
+   "name": "Yellow Wall Pot",
+   "page": "items/buildtools/yellow-wall-pot-2862328564.md",
+   "json": "items/buildtools/yellow-wall-pot-2862328564.json"
+  }
+ ],
+ "page": "items/buildtools/empty-flower-pot-iii-1882339175.md"
+}

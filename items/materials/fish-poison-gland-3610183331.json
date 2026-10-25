@@ -1,0 +1,60 @@
+{
+ "id": 3610183331,
+ "name": "Fish Poison Gland",
+ "internalName": "Material_T7_Fish_Poison_Gland",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 45,
+  "max": 45
+ },
+ "maxStack": 250,
+ "image": "images/icons/3610183331.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Potent in small doses. A staple ingredient for poison-based concoctions.",
+ "lore": null,
+ "whereToFind": "Fisher",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 4049228704,
+   "station": "Fish Trader",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1692397990,
+      "name": "Cinderscale",
+      "page": "items/consumables/cinderscale-1692397990.md",
+      "json": "items/consumables/cinderscale-1692397990.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2572858337,
+      "name": "T6 Material Gold Coins",
+      "page": "items/materials/t6-material-gold-coins-2572858337.md",
+      "json": "items/materials/t6-material-gold-coins-2572858337.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1674086102,
+   "name": "T7 Eternal Acid Cone II",
+   "page": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.md",
+   "json": "items/ammunition/t7-eternal-acid-cone-ii-1674086102.json"
+  }
+ ],
+ "page": "items/materials/fish-poison-gland-3610183331.md"
+}

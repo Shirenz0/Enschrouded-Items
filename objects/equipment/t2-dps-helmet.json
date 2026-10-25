@@ -1,0 +1,35 @@
+{
+ "name": "T2 DPS Helmet",
+ "category": "Equipment",
+ "image": "images/icons/4279969253.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3359562849,
+   "name": "T2 DPS Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3359562849.png",
+   "page": "items/equipment/t2-dps-helmet-3359562849.md",
+   "json": "items/equipment/t2-dps-helmet-3359562849.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4279969253,
+   "name": "T2 DPS Helmet",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/4279969253.png",
+   "page": "items/equipment/t2-dps-helmet-4279969253.md",
+   "json": "items/equipment/t2-dps-helmet-4279969253.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-dps-helmet.md"
+}

@@ -1,0 +1,68 @@
+{
+ "id": 4044650321,
+ "name": "Magic Small Chest",
+ "internalName": "Prop_Storage_24_T1_Box_Magic",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/4044650321.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Offers some amount of storage space to store items. The items stored here can be used for crafting purposes from anywhere in the base!",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 338468470,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 213939880,
+      "name": "Small Chest",
+      "page": "items/buildtools/small-chest-213939880.md",
+      "json": "items/buildtools/small-chest-213939880.json"
+     }
+    },
+    {
+     "count": 6,
+     "item": {
+      "id": 2559861108,
+      "name": "Fog Essence",
+      "page": "items/materials/fog-essence-2559861108.md",
+      "json": "items/materials/fog-essence-2559861108.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  },
+  {
+   "recipeId": 3140934520,
+   "station": null,
+   "inputs": [
+    {
+     "count": 6,
+     "item": {
+      "id": 2559861108,
+      "name": "Fog Essence",
+      "page": "items/materials/fog-essence-2559861108.md",
+      "json": "items/materials/fog-essence-2559861108.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/magic-small-chest-4044650321.md"
+}

@@ -1,0 +1,61 @@
+{
+ "id": 4233423640,
+ "name": "Grassland Rubble",
+ "internalName": "Build_TerrainMaterial_T1_Grassland_Rubble",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1000,
+ "image": "images/icons/4233423640.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "mix of materials, mainly stones and dirt",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1965533026,
+   "station": "Grinding Stones",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1257792166,
+      "name": "Rubble",
+      "page": "items/materials/rubble-1257792166.md",
+      "json": "items/materials/rubble-1257792166.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    }
+   ],
+   "outputCount": 10
+  }
+ ],
+ "page": "items/materials/grassland-rubble-4233423640.md"
+}

@@ -1,0 +1,52 @@
+{
+ "id": 2310650651,
+ "name": "Self Illuminating Block Warm white",
+ "internalName": "Block_T1_GlowDirt_WarmWhite_CRAFTING",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/2310650651.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Block Crafted from Warm White  glowdirt . Luminates in a warm white light.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3567670281,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 631520303,
+      "name": "Stone",
+      "page": "items/materials/stone-631520303.md",
+      "json": "items/materials/stone-631520303.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3962501836,
+      "name": "Glow Dirt WarmWhite",
+      "page": "items/materials/glow-dirt-warmwhite-3962501836.md",
+      "json": "items/materials/glow-dirt-warmwhite-3962501836.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/self-illuminating-block-warm-white-2310650651.md"
+}

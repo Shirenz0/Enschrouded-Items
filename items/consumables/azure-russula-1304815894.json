@@ -1,0 +1,79 @@
+{
+ "id": 1304815894,
+ "name": "Azure Russula",
+ "internalName": "Food_T2_raw_bad_mushroom_AzureRussula",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1304815894.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The Azure Russula - an ancient mushroom, existing and consuming magic since the beginning of time. Unfortunately inedible if not cooked.",
+ "lore": null,
+ "whereToFind": "Revelwood, Caves",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": -40,
+    "display": "-40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina",
+    "value": -30,
+    "display": "-30",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 574360589,
+   "name": "Soup Of Blue Light",
+   "page": "items/consumables/soup-of-blue-light-574360589.md",
+   "json": "items/consumables/soup-of-blue-light-574360589.json"
+  },
+  {
+   "id": 1985343352,
+   "name": "Smelted Azure Russula",
+   "page": "items/consumables/smelted-azure-russula-1985343352.md",
+   "json": "items/consumables/smelted-azure-russula-1985343352.json"
+  },
+  {
+   "id": 2085710950,
+   "name": "Great Mana Potion",
+   "page": "items/consumables/great-mana-potion-2085710950.md",
+   "json": "items/consumables/great-mana-potion-2085710950.json"
+  },
+  {
+   "id": 83248261,
+   "name": "Mana Potion",
+   "page": "items/consumables/mana-potion-83248261.md",
+   "json": "items/consumables/mana-potion-83248261.json"
+  },
+  {
+   "id": 1178468623,
+   "name": "Raw Meat and Azure Russula Skewer",
+   "page": "items/materials/raw-meat-and-azure-russula-skewer-1178468623.md",
+   "json": "items/materials/raw-meat-and-azure-russula-skewer-1178468623.json"
+  },
+  {
+   "id": 3776129035,
+   "name": "Glowing Mushroom Seedling",
+   "page": "items/buildtools/glowing-mushroom-seedling-3776129035.md",
+   "json": "items/buildtools/glowing-mushroom-seedling-3776129035.json"
+  }
+ ],
+ "page": "items/consumables/azure-russula-1304815894.md"
+}

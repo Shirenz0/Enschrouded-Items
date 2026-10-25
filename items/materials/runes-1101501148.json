@@ -1,0 +1,33 @@
+{
+ "id": 1101501148,
+ "name": "Runes",
+ "internalName": "Material_T1_Token_WeaponUpgrade_Rune01",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 5000,
+ "image": "images/icons/1101501148.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Used to upgrade Items",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 2835143812,
+   "name": "Ancient Rune",
+   "page": "items/materials/ancient-rune-2835143812.md",
+   "json": "items/materials/ancient-rune-2835143812.json"
+  }
+ ],
+ "page": "items/materials/runes-1101501148.md"
+}

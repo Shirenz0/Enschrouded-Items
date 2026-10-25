@@ -1,0 +1,115 @@
+{
+ "id": 2261499623,
+ "name": "Gold Sieve Prospector",
+ "internalName": "Tool_T6_GoldSieve_Prospector_Wetlands",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 40,
+  "max": 40
+ },
+ "maxStack": 1,
+ "image": "images/icons/2261499623.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A hand scraper and sieve that can be used to mine gold and other materials underwater.",
+ "lore": "Tools",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "damageTypes": {
+   "Cutting": 50,
+   "Piercing": 50
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Enduring",
+   "effect": "+3 Enduring"
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+4 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "Prospector",
+   "effect": "Increases the skill level of Prospector"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 1173223683,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 2955233340,
+      "name": "Palmwood Logs",
+      "page": "items/materials/palmwood-logs-2955233340.md",
+      "json": "items/materials/palmwood-logs-2955233340.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1451410091,
+      "name": "Wax",
+      "page": "items/materials/wax-1451410091.md",
+      "json": "items/materials/wax-1451410091.json"
+     }
+    },
+    {
+     "count": 2,
+     "oneOf": [
+      {
+       "id": 3316218728,
+       "name": "Plant Fibre",
+       "page": "items/materials/plant-fibre-3316218728.md",
+       "json": "items/materials/plant-fibre-3316218728.json"
+      },
+      {
+       "id": 1026141130,
+       "name": "Paper Reed",
+       "page": "items/materials/paper-reed-1026141130.md",
+       "json": "items/materials/paper-reed-1026141130.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/gold-sieve-prospector-2261499623.md"
+}

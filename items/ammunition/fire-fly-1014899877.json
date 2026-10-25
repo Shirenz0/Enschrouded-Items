@@ -1,0 +1,126 @@
+{
+ "id": 1014899877,
+ "name": "Fire Fly",
+ "internalName": "Material_T1_Fire_Fly_FishingBait",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/1014899877.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An animal, also blessed by the flame, that spreads light in the dark and has many usecases.",
+ "lore": null,
+ "whereToFind": "Springlands, night",
+ "object": null,
+ "stats": {
+  "slot": "Fishing bait"
+ },
+ "usedToMake": [
+  {
+   "id": 1830151622,
+   "name": "Glow Dust",
+   "page": "items/materials/glow-dust-1830151622.md",
+   "json": "items/materials/glow-dust-1830151622.json"
+  },
+  {
+   "id": 1246545941,
+   "name": "Common Bait",
+   "page": "items/ammunition/common-bait-1246545941.md",
+   "json": "items/ammunition/common-bait-1246545941.json"
+  },
+  {
+   "id": 4044216073,
+   "name": "Firefly Chandelier Basket",
+   "page": "items/buildtools/firefly-chandelier-basket-4044216073.md",
+   "json": "items/buildtools/firefly-chandelier-basket-4044216073.json"
+  },
+  {
+   "id": 202378255,
+   "name": "Firefly Wall Basket",
+   "page": "items/buildtools/firefly-wall-basket-202378255.md",
+   "json": "items/buildtools/firefly-wall-basket-202378255.json"
+  },
+  {
+   "id": 245164403,
+   "name": "Firefly Standing Basket",
+   "page": "items/buildtools/firefly-standing-basket-245164403.md",
+   "json": "items/buildtools/firefly-standing-basket-245164403.json"
+  },
+  {
+   "id": 834043165,
+   "name": "Firefly Basket",
+   "page": "items/buildtools/firefly-basket-834043165.md",
+   "json": "items/buildtools/firefly-basket-834043165.json"
+  },
+  {
+   "id": 896912556,
+   "name": "Lantern Garden Gnome",
+   "page": "items/buildtools/lantern-garden-gnome-896912556.md",
+   "json": "items/buildtools/lantern-garden-gnome-896912556.json"
+  },
+  {
+   "id": 3379425226,
+   "name": "Small Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-i-3379425226.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-i-3379425226.json"
+  },
+  {
+   "id": 3473131825,
+   "name": "Small Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-ii-3473131825.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-ii-3473131825.json"
+  },
+  {
+   "id": 1727870443,
+   "name": "Small Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/small-hollow-s-eve-pumpkin-iii-1727870443.md",
+   "json": "items/buildtools/small-hollow-s-eve-pumpkin-iii-1727870443.json"
+  },
+  {
+   "id": 517050102,
+   "name": "Medium Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-i-517050102.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-i-517050102.json"
+  },
+  {
+   "id": 3506589171,
+   "name": "Medium Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-ii-3506589171.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-ii-3506589171.json"
+  },
+  {
+   "id": 2385353507,
+   "name": "Medium Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.md",
+   "json": "items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.json"
+  },
+  {
+   "id": 1229707250,
+   "name": "Big Hollow's Eve Pumpkin I",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-i-1229707250.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-i-1229707250.json"
+  },
+  {
+   "id": 3003483125,
+   "name": "Big Hollow's Eve Pumpkin II",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-ii-3003483125.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-ii-3003483125.json"
+  },
+  {
+   "id": 1102965817,
+   "name": "Big Hollow's Eve Pumpkin III",
+   "page": "items/buildtools/big-hollow-s-eve-pumpkin-iii-1102965817.md",
+   "json": "items/buildtools/big-hollow-s-eve-pumpkin-iii-1102965817.json"
+  }
+ ],
+ "page": "items/ammunition/fire-fly-1014899877.md"
+}

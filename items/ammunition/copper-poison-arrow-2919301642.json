@@ -1,0 +1,59 @@
+{
+ "id": 2919301642,
+ "name": "Copper Poison Arrow",
+ "internalName": "Ammo_T2_Arrow_Copper_Poison_lvl15",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 500,
+ "image": "images/icons/2919301642.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A Copper Arrow lanced in poison, making it even deadlier.\n\n**Poisoned Arrow**: Wildlife and Wild Beast hit by this arrow are poisoned and receive 8 damage per second for 5 seconds.",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Piercing": 50,
+   "Poison": 50
+  }
+ },
+ "recipes": [
+  {
+   "recipeId": 146974912,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 4046432840,
+      "name": "Copper Arrow",
+      "page": "items/ammunition/copper-arrow-4046432840.md",
+      "json": "items/ammunition/copper-arrow-4046432840.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1503622318,
+      "name": "Poison Sack",
+      "page": "items/materials/poison-sack-1503622318.md",
+      "json": "items/materials/poison-sack-1503622318.json"
+     }
+    }
+   ],
+   "outputCount": 25
+  }
+ ],
+ "page": "items/ammunition/copper-poison-arrow-2919301642.md"
+}

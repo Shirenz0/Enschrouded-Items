@@ -1,0 +1,35 @@
+{
+ "name": "T4 Mage Arms",
+ "category": "Equipment",
+ "image": "images/icons/787893053.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 398094556,
+   "name": "T4 Mage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/398094556.png",
+   "page": "items/equipment/t4-mage-arms-398094556.md",
+   "json": "items/equipment/t4-mage-arms-398094556.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 787893053,
+   "name": "T4 Mage Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/787893053.png",
+   "page": "items/equipment/t4-mage-arms-787893053.md",
+   "json": "items/equipment/t4-mage-arms-787893053.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-mage-arms.md"
+}

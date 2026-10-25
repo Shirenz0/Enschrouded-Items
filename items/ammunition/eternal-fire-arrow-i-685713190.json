@@ -1,0 +1,102 @@
+{
+ "id": 685713190,
+ "name": "Eternal Fire Arrow I",
+ "internalName": "Ammo_T3_Arrow_Magic_Fire_Eternal_lvl15",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/685713190.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal Fire Arrow desc",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 19,
+    "display": "19",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+2 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Blazing",
+   "effect": "+5 Blazing"
+  },
+  {
+   "order": 5,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+2 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 3732191658,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 2371777842,
+      "name": "Alchemical Base",
+      "page": "items/materials/alchemical-base-2371777842.md",
+      "json": "items/materials/alchemical-base-2371777842.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 1830151622,
+      "name": "Glow Dust",
+      "page": "items/materials/glow-dust-1830151622.md",
+      "json": "items/materials/glow-dust-1830151622.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3073226096,
+      "name": "Fossilized Bone Dust",
+      "page": "items/materials/fossilized-bone-dust-3073226096.md",
+      "json": "items/materials/fossilized-bone-dust-3073226096.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/eternal-fire-arrow-i-685713190.md"
+}

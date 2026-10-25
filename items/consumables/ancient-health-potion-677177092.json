@@ -1,0 +1,68 @@
+{
+ "id": 677177092,
+ "name": "Ancient Health Potion +",
+ "internalName": "_Consumable_Potion_Health_T7_HoT",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/677177092.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Restores some Health instantly and provides an additional healing over time effect for 50 seconds.",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Healing per second",
+    "value": 70,
+    "display": "70",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": 900,
+    "display": "900",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 563151740,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 609216940,
+      "name": "Ancient Health Potion",
+      "page": "items/consumables/ancient-health-potion-609216940.md",
+      "json": "items/consumables/ancient-health-potion-609216940.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 4078086541,
+      "name": "Moonstone Dust",
+      "page": "items/materials/moonstone-dust-4078086541.md",
+      "json": "items/materials/moonstone-dust-4078086541.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/consumables/ancient-health-potion-677177092.md"
+}

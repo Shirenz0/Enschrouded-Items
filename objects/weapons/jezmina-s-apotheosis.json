@@ -1,0 +1,82 @@
+{
+ "name": "Jezmina's Apotheosis",
+ "category": "Weapons",
+ "image": "images/icons/3153911934.png",
+ "versions": 6,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 2628423562,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "16",
+   "image": "images/icons/2628423562.png",
+   "page": "items/weapons/jezmina-s-apotheosis-2628423562.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2628423562.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2509571957,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "21",
+   "image": "images/icons/2509571957.png",
+   "page": "items/weapons/jezmina-s-apotheosis-2509571957.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2509571957.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2030714844,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/2030714844.png",
+   "page": "items/weapons/jezmina-s-apotheosis-2030714844.md",
+   "json": "items/weapons/jezmina-s-apotheosis-2030714844.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 649877474,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/649877474.png",
+   "page": "items/weapons/jezmina-s-apotheosis-649877474.md",
+   "json": "items/weapons/jezmina-s-apotheosis-649877474.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1323450933,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1323450933.png",
+   "page": "items/weapons/jezmina-s-apotheosis-1323450933.md",
+   "json": "items/weapons/jezmina-s-apotheosis-1323450933.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3153911934,
+   "name": "Jezmina's Apotheosis",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3153911934.png",
+   "page": "items/weapons/jezmina-s-apotheosis-3153911934.md",
+   "json": "items/weapons/jezmina-s-apotheosis-3153911934.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/jezmina-s-apotheosis.md"
+}

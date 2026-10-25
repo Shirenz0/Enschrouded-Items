@@ -1,0 +1,35 @@
+{
+ "name": "T4 Sniper Chest",
+ "category": "Equipment",
+ "image": "images/icons/3860180960.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 3452463502,
+   "name": "T4 Sniper Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3452463502.png",
+   "page": "items/equipment/t4-sniper-chest-3452463502.md",
+   "json": "items/equipment/t4-sniper-chest-3452463502.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3860180960,
+   "name": "T4 Sniper Chest",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/3860180960.png",
+   "page": "items/equipment/t4-sniper-chest-3860180960.md",
+   "json": "items/equipment/t4-sniper-chest-3860180960.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-sniper-chest.md"
+}

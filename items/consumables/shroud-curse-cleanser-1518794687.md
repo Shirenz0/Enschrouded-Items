@@ -25,4 +25,4 @@ Manual Crafting
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](shroud-curse-cleanser-1518794687.json)

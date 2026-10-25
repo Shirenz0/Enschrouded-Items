@@ -1,0 +1,102 @@
+{
+ "id": 225262139,
+ "name": "Eternal Fire Arrow II",
+ "internalName": "Ammo_T5_Arrow_Magic_Fire_Eternal_lvl28",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 28,
+  "max": 28
+ },
+ "maxStack": 1,
+ "image": "images/icons/225262139.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Eternal Fire Arrow desc",
+ "lore": null,
+ "whereToFind": "Crafting, Huntress",
+ "object": null,
+ "stats": {
+  "slot": "Ammunition",
+  "damageTypes": {
+   "Fire": 100
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 28,
+    "display": "28",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 2,
+   "name": "Mana_Cost_Mod",
+   "effect": "+-5 Mana_Cost_Mod"
+  },
+  {
+   "order": 3,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  },
+  {
+   "order": 4,
+   "name": "Blazing",
+   "effect": "+5 Blazing"
+  },
+  {
+   "order": 5,
+   "name": "Critical Strike Chance Ranged",
+   "effect": "+3 Precise"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 2194430660,
+   "station": "Hunter",
+   "inputs": [
+    {
+     "count": 25,
+     "item": {
+      "id": 887761434,
+      "name": "Flammable Goo",
+      "page": "items/materials/flammable-goo-887761434.md",
+      "json": "items/materials/flammable-goo-887761434.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 3728704408,
+      "name": "T5 Silver Dust",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 4123882248,
+      "name": "T5 Mauveine",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/ammunition/eternal-fire-arrow-ii-225262139.md"
+}

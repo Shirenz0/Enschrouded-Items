@@ -17,4 +17,4 @@ A region once filled to the brim with tralleving merchants, gold, and greed.  It
 
 ---
 
-[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)
+[← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md) · [JSON](nomad-highlands-miniature-piece-2994143055.json)

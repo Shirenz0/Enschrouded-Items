@@ -1,0 +1,43 @@
+{
+ "id": 2706897970,
+ "name": "Metal Floor Drain I",
+ "internalName": "Prop_WaterDrain_Metal_Floor",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2706897970.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Place this Drain on the Floor and it will suck in all water, that is placed above.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 236975540,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 159114158,
+      "name": "Iron Bars",
+      "page": "items/materials/iron-bars-159114158.md",
+      "json": "items/materials/iron-bars-159114158.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/metal-floor-drain-i-2706897970.md"
+}

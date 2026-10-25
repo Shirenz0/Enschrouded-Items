@@ -1,0 +1,61 @@
+{
+ "id": 3044969758,
+ "name": "Food Yak Feeding",
+ "internalName": "Material_T5_Yak_Feeding",
+ "category": {
+  "id": "AnimalFood",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 200,
+ "image": "images/icons/3044969758.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "food yak feeding description",
+ "lore": null,
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1579947917,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 2008478235,
+      "name": "Yucca Fruit",
+      "page": "items/consumables/yucca-fruit-2008478235.md",
+      "json": "items/consumables/yucca-fruit-2008478235.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3118804138,
+      "name": "Corncob",
+      "page": "items/consumables/corncob-3118804138.md",
+      "json": "items/consumables/corncob-3118804138.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2824141465,
+      "name": "Dried Red Berry",
+      "page": "items/consumables/dried-red-berry-2824141465.md",
+      "json": "items/consumables/dried-red-berry-2824141465.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/buildtools/food-yak-feeding-3044969758.md"
+}

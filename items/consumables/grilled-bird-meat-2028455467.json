@@ -1,0 +1,67 @@
+{
+ "id": 2028455467,
+ "name": "Grilled Bird Meat",
+ "internalName": "Food_T3_proccessed_meat_grilled_Bird",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2028455467.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A healthy protein rich snack. The color looks just perfect...",
+ "lore": null,
+ "whereToFind": "Cooking Station",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Health",
+    "value": 120,
+    "display": "120",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1800000,
+    "display": "30:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 4163686106,
+   "station": "Cooking Station",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 385885887,
+      "name": "Raw Bird Meat",
+      "page": "items/consumables/raw-bird-meat-385885887.md",
+      "json": "items/consumables/raw-bird-meat-385885887.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 1714627847,
+   "name": "Tar",
+   "page": "items/materials/tar-1714627847.md",
+   "json": "items/materials/tar-1714627847.json"
+  }
+ ],
+ "page": "items/consumables/grilled-bird-meat-2028455467.md"
+}

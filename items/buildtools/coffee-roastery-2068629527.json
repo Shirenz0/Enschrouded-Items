@@ -1,0 +1,70 @@
+{
+ "id": 2068629527,
+ "name": "Coffee Roastery",
+ "internalName": "Prop_Production_T6_coffeemaker_roaster",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": "images/icons/2068629527.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Coffee maker roaster desc",
+ "lore": "Furniture",
+ "whereToFind": "Farmer",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 19508921,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1626290897,
+      "name": "Wood Planks",
+      "page": "items/materials/wood-planks-1626290897.md",
+      "json": "items/materials/wood-planks-1626290897.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1893325731,
+      "name": "Small Steel Barrel",
+      "page": "items/buildtools/small-steel-barrel-1893325731.md",
+      "json": "items/buildtools/small-steel-barrel-1893325731.json"
+     }
+    },
+    {
+     "count": 4,
+     "item": {
+      "id": 1060230019,
+      "name": "Gold Dust",
+      "page": "items/materials/gold-dust-1060230019.md",
+      "json": "items/materials/gold-dust-1060230019.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 521230189,
+      "name": "Palm Leaves",
+      "page": "items/materials/palm-leaves-521230189.md",
+      "json": "items/materials/palm-leaves-521230189.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/coffee-roastery-2068629527.md"
+}

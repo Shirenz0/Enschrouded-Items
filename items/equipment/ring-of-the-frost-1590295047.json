@@ -1,0 +1,81 @@
+{
+ "id": 1590295047,
+ "name": "Ring of the Frost",
+ "internalName": "Ring_T5_Ring_of_Frost",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Legendary",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 1,
+ "image": "images/icons/1590295047.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "gives 2 freezing protection",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Ring",
+  "values": [
+   {
+    "label": "Mana Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Increased Ice Damage",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ice Resistance",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "+1 Ice Resistance",
+   "effect": "Increases the skill level of Ice Resistance by +1"
+  },
+  {
+   "order": 2,
+   "name": "Mana",
+   "effect": "+30 Mana"
+  },
+  {
+   "order": 3,
+   "name": "Spiritual",
+   "effect": "+20 Spiritual"
+  },
+  {
+   "order": 4,
+   "name": "+1 Wizard",
+   "effect": "Increases the skill level of Wizard by +1"
+  },
+  {
+   "order": 5,
+   "name": "+1 Iceman",
+   "effect": "Increases the skill level of Iceman by +1"
+  }
+ ],
+ "page": "items/equipment/ring-of-the-frost-1590295047.md"
+}

@@ -1,0 +1,85 @@
+{
+ "id": 814096701,
+ "name": "Ginger",
+ "internalName": "Food_T6_raw_vegetable_Ginger",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/814096701.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "t6 ginger desc",
+ "lore": null,
+ "whereToFind": "Veilwater Basin",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Ranged Damage",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 1500000,
+    "display": "25:00 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 1666657738,
+   "name": "Ginger Tea",
+   "page": "items/consumables/ginger-tea-1666657738.md",
+   "json": "items/consumables/ginger-tea-1666657738.json"
+  },
+  {
+   "id": 3999300572,
+   "name": "Candied Ginger",
+   "page": "items/consumables/candied-ginger-3999300572.md",
+   "json": "items/consumables/candied-ginger-3999300572.json"
+  },
+  {
+   "id": 2733976881,
+   "name": "Algae Salad",
+   "page": "items/consumables/algae-salad-2733976881.md",
+   "json": "items/consumables/algae-salad-2733976881.json"
+  },
+  {
+   "id": 491393994,
+   "name": "Ultimate Health Potion",
+   "page": "items/consumables/ultimate-health-potion-491393994.md",
+   "json": "items/consumables/ultimate-health-potion-491393994.json"
+  },
+  {
+   "id": 2916308043,
+   "name": "Ultimate Mana Potion",
+   "page": "items/consumables/ultimate-mana-potion-2916308043.md",
+   "json": "items/consumables/ultimate-mana-potion-2916308043.json"
+  },
+  {
+   "id": 2601152870,
+   "name": "Ginger Seedling",
+   "page": "items/buildtools/ginger-seedling-2601152870.md",
+   "json": "items/buildtools/ginger-seedling-2601152870.json"
+  }
+ ],
+ "page": "items/consumables/ginger-814096701.md"
+}

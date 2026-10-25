@@ -1,0 +1,53 @@
+{
+ "id": 1066469057,
+ "name": "Gem of Bloodlust",
+ "internalName": "T5_Gem_GemOfBloodlust",
+ "category": {
+  "id": "WeaponGem",
+  "title": "Weapon Gems",
+  "page": "categories/weapongem.md",
+  "json": "categories/weapongem.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 1,
+  "max": 105
+ },
+ "maxStack": 1,
+ "image": "images/icons/1066469057.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Grants a %k base chance to spawn a health orb when defeating an enemy. Collecting a health orb grants %k additional cut damage to your attacks and increases the chance for health orbs by %k for %k",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Chance to spawn a health orb while buffed",
+    "value": 10,
+    "display": "10",
+    "scalesWithLevel": true
+   },
+   {
+    "label": "Chance to spawn a health orb",
+    "value": 5,
+    "display": "5",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Buff Duration",
+    "value": 10000,
+    "display": "10 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Additional Weapon Cut Damage",
+    "value": 4,
+    "display": "4",
+    "scalesWithLevel": true
+   }
+  ]
+ },
+ "page": "items/weapongem/gem-of-bloodlust-1066469057.md"
+}

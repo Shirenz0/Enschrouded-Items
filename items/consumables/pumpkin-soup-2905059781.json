@@ -1,0 +1,104 @@
+{
+ "id": 2905059781,
+ "name": "Pumpkin Soup",
+ "internalName": "Food_T5_dish_vegetables_Pumpkinsoup",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2905059781.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A tasty soup.\n\nBoosts health and stamina regeneration upon consumption. Keeps you also warm for a bit.",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 3000000,
+    "display": "50:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cold Resistance",
+    "value": 2,
+    "display": "2",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "% Dagger Damage",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Ranged Damage",
+    "value": 18,
+    "display": "18",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Stamina Regeneration",
+    "value": 12,
+    "display": "12",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2996116689,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 4234426543,
+      "name": "Pumpkin",
+      "page": "items/consumables/pumpkin-4234426543.md",
+      "json": "items/consumables/pumpkin-4234426543.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 3779366146,
+      "name": "T5 Food Raw Herb Gentian",
+      "page": "items/consumables/t5-food-raw-herb-gentian-3779366146.md",
+      "json": "items/consumables/t5-food-raw-herb-gentian-3779366146.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 443792978,
+      "name": "Mountaingoat Milk",
+      "page": "items/consumables/mountaingoat-milk-443792978.md",
+      "json": "items/consumables/mountaingoat-milk-443792978.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/pumpkin-soup-2905059781.md"
+}

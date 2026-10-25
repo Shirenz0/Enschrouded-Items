@@ -1,0 +1,38 @@
+{
+ "name": "Standing Torch",
+ "category": "BuildTools",
+ "image": "images/icons/8841766.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [
+  "max stack"
+ ],
+ "items": [
+  {
+   "id": 1191571537,
+   "name": "Standing Torch",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1191571537.png",
+   "page": "items/buildtools/standing-torch-1191571537.md",
+   "json": "items/buildtools/standing-torch-1191571537.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 8841766,
+   "name": "Standing torch",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/8841766.png",
+   "page": "items/buildtools/standing-torch-8841766.md",
+   "json": "items/buildtools/standing-torch-8841766.json",
+   "maxStack": 1000,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/standing-torch.md"
+}

@@ -1,0 +1,152 @@
+{
+ "id": 2206878080,
+ "name": "Nitrate",
+ "internalName": "Material_T4_Nitrate",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 25,
+  "max": 25
+ },
+ "maxStack": 250,
+ "image": "images/icons/2206878080.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "An alchemical acid used to create explosive substances.",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2961836092,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1172450293,
+      "name": "Shroud Sand",
+      "page": "items/materials/shroud-sand-1172450293.md",
+      "json": "items/materials/shroud-sand-1172450293.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 5,
+     "oneOf": [
+      {
+       "id": 2493843175,
+       "name": "Sand",
+       "page": "items/materials/sand-2493843175.md",
+       "json": "items/materials/sand-2493843175.json"
+      },
+      {
+       "id": 3489782185,
+       "name": "Fine Sand",
+       "page": "items/materials/fine-sand-3489782185.md",
+       "json": "items/materials/fine-sand-3489782185.json"
+      },
+      {
+       "id": 2181045178,
+       "name": "T6 Wetlands Sand",
+       "page": "items/materials/t6-wetlands-sand-2181045178.md",
+       "json": "items/materials/t6-wetlands-sand-2181045178.json"
+      },
+      {
+       "id": 3899759098,
+       "name": "T7 AncientLand Sand",
+       "page": "items/materials/t7-ancientland-sand-3899759098.md",
+       "json": "items/materials/t7-ancientland-sand-3899759098.json"
+      }
+     ]
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 3940653429,
+   "name": "T4 Shroud Meteor",
+   "page": "items/ammunition/t4-shroud-meteor-3940653429.md",
+   "json": "items/ammunition/t4-shroud-meteor-3940653429.json"
+  },
+  {
+   "id": 526064074,
+   "name": "Aloe Seedling",
+   "page": "items/buildtools/aloe-seedling-526064074.md",
+   "json": "items/buildtools/aloe-seedling-526064074.json"
+  },
+  {
+   "id": 3687407983,
+   "name": "T4 Palette 03 maroon",
+   "page": "items/colorpalette/t4-palette-03-maroon-3687407983.md",
+   "json": "items/colorpalette/t4-palette-03-maroon-3687407983.json"
+  },
+  {
+   "id": 1316536777,
+   "name": "Tbd T4 Palette 01 Reward Red,Orange, Yellow",
+   "page": "items/colorpalette/tbd-t4-palette-01-reward-red-orange-yellow-1316536777.md",
+   "json": "items/colorpalette/tbd-t4-palette-01-reward-red-orange-yellow-1316536777.json"
+  },
+  {
+   "id": 3491275682,
+   "name": "T4 Palette 01 Brown yellow red",
+   "page": "items/colorpalette/t4-palette-01-brown-yellow-red-3491275682.md",
+   "json": "items/colorpalette/t4-palette-01-brown-yellow-red-3491275682.json"
+  },
+  {
+   "id": 3726799847,
+   "name": "T4 Palette 04 yellow Grey",
+   "page": "items/colorpalette/t4-palette-04-yellow-grey-3726799847.md",
+   "json": "items/colorpalette/t4-palette-04-yellow-grey-3726799847.json"
+  },
+  {
+   "id": 2607932810,
+   "name": "T4 Palette 02 Brown yellow red",
+   "page": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.md",
+   "json": "items/colorpalette/t4-palette-02-brown-yellow-red-2607932810.json"
+  },
+  {
+   "id": 1828629573,
+   "name": "Black Powder",
+   "page": "items/materials/black-powder-1828629573.md",
+   "json": "items/materials/black-powder-1828629573.json"
+  },
+  {
+   "id": 2777715830,
+   "name": "Mortar",
+   "page": "items/buildtools/mortar-2777715830.md",
+   "json": "items/buildtools/mortar-2777715830.json"
+  },
+  {
+   "id": 260133819,
+   "name": "Fertilised Farm Soil",
+   "page": "items/materials/fertilised-farm-soil-260133819.md",
+   "json": "items/materials/fertilised-farm-soil-260133819.json"
+  }
+ ],
+ "page": "items/materials/nitrate-2206878080.md"
+}

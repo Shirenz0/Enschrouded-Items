@@ -1,0 +1,56 @@
+{
+ "id": 3379333313,
+ "name": "City Wall Stone Block",
+ "internalName": "Block_T3_Stone_CityWall_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3379333313.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A classic building block used in the Kindlewastes. It was refined by mixing in some imported sandstone.",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": {
+  "page": "objects/buildtools/city-wall-stone-block.md",
+  "json": "objects/buildtools/city-wall-stone-block.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 901402540,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1401630464,
+      "name": "Sandstone",
+      "page": "items/materials/sandstone-1401630464.md",
+      "json": "items/materials/sandstone-1401630464.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/buildtools/city-wall-stone-block-3379333313.md"
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Hophare Pillow",
+ "category": "BuildTools",
+ "image": "images/icons/888761991.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2148329352,
+   "name": "Hophare Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/2148329352.png",
+   "page": "items/buildtools/hophare-pillow-2148329352.md",
+   "json": "items/buildtools/hophare-pillow-2148329352.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 888761991,
+   "name": "Hophare Pillow",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/888761991.png",
+   "page": "items/buildtools/hophare-pillow-888761991.md",
+   "json": "items/buildtools/hophare-pillow-888761991.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/hophare-pillow.md"
+}

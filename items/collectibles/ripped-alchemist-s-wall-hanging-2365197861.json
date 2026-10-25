@@ -1,0 +1,29 @@
+{
+ "id": 2365197861,
+ "name": "Ripped Alchemist's Wall Hanging",
+ "internalName": "Collection_Alchemist_WallHang_Piece_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/2365197861.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A ripped piece of fabric, detailing alchemical wisdom. Someone might be able to decipher it if you had the other half!",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/collectibles/ripped-alchemist-s-wall-hanging.md",
+  "json": "objects/collectibles/ripped-alchemist-s-wall-hanging.json",
+  "versions": 2
+ },
+ "page": "items/collectibles/ripped-alchemist-s-wall-hanging-2365197861.md"
+}

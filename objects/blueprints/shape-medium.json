@@ -1,0 +1,33 @@
+{
+ "name": "Shape Medium",
+ "category": "Blueprints",
+ "image": "images/icons/473703809.png",
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1456389031,
+   "name": "Shape Medium",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1456389031.png",
+   "page": "items/blueprints/shape-medium-1456389031.md",
+   "json": "items/blueprints/shape-medium-1456389031.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 473703809,
+   "name": "Shape Medium",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/473703809.png",
+   "page": "items/blueprints/shape-medium-473703809.md",
+   "json": "items/blueprints/shape-medium-473703809.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/shape-medium.md"
+}

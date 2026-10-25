@@ -1,0 +1,25 @@
+{
+ "id": 3069185779,
+ "name": "Hair 03 03",
+ "internalName": "VC_Hair_03_03_mid_back",
+ "category": {
+  "id": "Customization",
+  "title": "Customization",
+  "page": "categories/customization.md",
+  "json": "categories/customization.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 1,
+ "image": null,
+ "placeholderImage": "images/categories/customization.svg",
+ "caption": null,
+ "description": null,
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/customization/hair-03-03-3069185779.md"
+}

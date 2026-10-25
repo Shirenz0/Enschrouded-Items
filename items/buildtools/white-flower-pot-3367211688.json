@@ -1,0 +1,56 @@
+{
+ "id": 3367211688,
+ "name": "White Flower Pot",
+ "internalName": "Flower_Pot_Tiny_White",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3367211688.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A tiny potted plant to beautify your home.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/white-flower-pot.md",
+  "json": "objects/buildtools/white-flower-pot.json",
+  "versions": 5
+ },
+ "recipes": [
+  {
+   "recipeId": 1127579082,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 2996817370,
+      "name": "Empty Flower Pot V",
+      "page": "items/buildtools/empty-flower-pot-v-2996817370.md",
+      "json": "items/buildtools/empty-flower-pot-v-2996817370.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/white-flower-pot-3367211688.md"
+}

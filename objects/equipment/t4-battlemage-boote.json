@@ -1,0 +1,35 @@
+{
+ "name": "T4 BattleMage boote",
+ "category": "Equipment",
+ "image": "images/icons/2461700133.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 219898735,
+   "name": "T4 BattleMage boote",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/219898735.png",
+   "page": "items/equipment/t4-battlemage-boote-219898735.md",
+   "json": "items/equipment/t4-battlemage-boote-219898735.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2461700133,
+   "name": "T4 BattleMage boote",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2461700133.png",
+   "page": "items/equipment/t4-battlemage-boote-2461700133.md",
+   "json": "items/equipment/t4-battlemage-boote-2461700133.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-battlemage-boote.md"
+}

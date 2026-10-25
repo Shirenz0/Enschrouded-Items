@@ -1,0 +1,25 @@
+{
+ "id": 2297010177,
+ "name": "Boxwood Material",
+ "internalName": "Build_TerrainMaterial_T2_TallTree_BoxTree",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 250,
+ "image": "images/icons/2297010177.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A leafy green plant material, naturally occuring in the Blackmire. Can be used for hedgemazes or garden artistry.",
+ "lore": null,
+ "whereToFind": "Blackmire",
+ "object": null,
+ "page": "items/materials/boxwood-material-2297010177.md"
+}

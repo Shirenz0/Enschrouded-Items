@@ -34,4 +34,4 @@ Coffee Brewery
 
 ---
 
-[← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
+[← Consumables](../../categories/consumables.md) · [All categories](../../README.md) · [JSON](latte-milk-coffee-2652246715.json)

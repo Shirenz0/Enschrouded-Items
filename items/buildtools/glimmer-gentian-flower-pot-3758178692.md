@@ -25,4 +25,4 @@ A large potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](glimmer-gentian-flower-pot-3758178692.json)

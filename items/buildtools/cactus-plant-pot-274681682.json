@@ -1,0 +1,56 @@
+{
+ "id": 274681682,
+ "name": "Cactus Plant Pot",
+ "internalName": "Flower_Pot_Round_Large_Cactus",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/274681682.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A large potted plant to beautify your home.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/cactus-plant-pot.md",
+  "json": "objects/buildtools/cactus-plant-pot.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 3894437385,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 1642368164,
+      "name": "Empty Flower Pot VI",
+      "page": "items/buildtools/empty-flower-pot-vi-1642368164.md",
+      "json": "items/buildtools/empty-flower-pot-vi-1642368164.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/cactus-plant-pot-274681682.md"
+}

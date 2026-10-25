@@ -1,0 +1,59 @@
+{
+ "id": 4075123457,
+ "name": "Boot rags",
+ "internalName": "Armor_T0_Rags_Boots",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 3,
+  "max": 3
+ },
+ "maxStack": 1,
+ "image": "images/icons/4075123457.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Barely the minimum quality to be called boots.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 404083676,
+   "station": null,
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 1496290527,
+      "name": "Torn Cloth",
+      "page": "items/materials/torn-cloth-1496290527.md",
+      "json": "items/materials/torn-cloth-1496290527.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 419344916,
+      "name": "String",
+      "page": "items/materials/string-419344916.md",
+      "json": "items/materials/string-419344916.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/equipment/boot-rags-4075123457.md"
+}

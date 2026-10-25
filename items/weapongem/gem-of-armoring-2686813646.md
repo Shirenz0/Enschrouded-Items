@@ -23,4 +23,4 @@ Killing an enemy spawns an orb at the enemies location. Collecting the orb allow
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-armoring-2686813646.json)

@@ -1,0 +1,99 @@
+{
+ "id": 2302389683,
+ "name": "Corrosive Blood",
+ "internalName": "Material_T3_CorrosiveBlood",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 18,
+  "max": 18
+ },
+ "maxStack": 250,
+ "image": "images/icons/2302389683.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A volatile, acidic fluid harvested from weak Fell Foes. Its corrosive properties make it a valuable ingredient in crafting repair kits, where its unique chemistry is harnessed to restore the durability of worn-out items.",
+ "lore": null,
+ "whereToFind": "Fell Enemies, First: Nomad Highlands Shroud",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3377002158,
+   "name": "Repair Kit",
+   "page": "items/consumables/repair-kit-3377002158.md",
+   "json": "items/consumables/repair-kit-3377002158.json"
+  },
+  {
+   "id": 3687407983,
+   "name": "T4 Palette 03 maroon",
+   "page": "items/colorpalette/t4-palette-03-maroon-3687407983.md",
+   "json": "items/colorpalette/t4-palette-03-maroon-3687407983.json"
+  },
+  {
+   "id": 1316536777,
+   "name": "Tbd T4 Palette 01 Reward Red,Orange, Yellow",
+   "page": "items/colorpalette/tbd-t4-palette-01-reward-red-orange-yellow-1316536777.md",
+   "json": "items/colorpalette/tbd-t4-palette-01-reward-red-orange-yellow-1316536777.json"
+  },
+  {
+   "id": 2371777842,
+   "name": "Alchemical Base",
+   "page": "items/materials/alchemical-base-2371777842.md",
+   "json": "items/materials/alchemical-base-2371777842.json"
+  },
+  {
+   "id": 2202659557,
+   "name": "T3 DPS Arms",
+   "page": "items/equipment/t3-dps-arms-2202659557.md",
+   "json": "items/equipment/t3-dps-arms-2202659557.json"
+  },
+  {
+   "id": 1523324827,
+   "name": "T3 Mage Chest",
+   "page": "items/equipment/t3-mage-chest-1523324827.md",
+   "json": "items/equipment/t3-mage-chest-1523324827.json"
+  },
+  {
+   "id": 1559741302,
+   "name": "Mage Fog Protection Armor",
+   "page": "items/equipment/mage-fog-protection-armor-1559741302.md",
+   "json": "items/equipment/mage-fog-protection-armor-1559741302.json"
+  },
+  {
+   "id": 2255840984,
+   "name": "T3 Ranger Chest",
+   "page": "items/equipment/t3-ranger-chest-2255840984.md",
+   "json": "items/equipment/t3-ranger-chest-2255840984.json"
+  },
+  {
+   "id": 13759280,
+   "name": "Ranger Fog Protection Armor",
+   "page": "items/equipment/ranger-fog-protection-armor-13759280.md",
+   "json": "items/equipment/ranger-fog-protection-armor-13759280.json"
+  },
+  {
+   "id": 699269342,
+   "name": "T3 Archer Arms",
+   "page": "items/equipment/t3-archer-arms-699269342.md",
+   "json": "items/equipment/t3-archer-arms-699269342.json"
+  },
+  {
+   "id": 536100641,
+   "name": "T3 Tank Boots",
+   "page": "items/equipment/t3-tank-boots-536100641.md",
+   "json": "items/equipment/t3-tank-boots-536100641.json"
+  },
+  {
+   "id": 875044567,
+   "name": "Warrior Fog Protection Armor",
+   "page": "items/equipment/warrior-fog-protection-armor-875044567.md",
+   "json": "items/equipment/warrior-fog-protection-armor-875044567.json"
+  }
+ ],
+ "page": "items/materials/corrosive-blood-2302389683.md"
+}

@@ -32,4 +32,4 @@ Maximum amount of summoned totems is 1 by default which can be increased via ski
 
 ---
 
-[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)
+[← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md) · [JSON](t6-shock-totem-ii-3046388897.json)

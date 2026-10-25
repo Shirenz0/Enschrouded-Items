@@ -1,0 +1,36 @@
+{
+ "name": "Wooden Window Frame",
+ "category": "BuildTools",
+ "image": "images/icons/1349537387.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description",
+  "lore"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1030664241,
+   "name": "Wooden Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1030664241.png",
+   "page": "items/buildtools/wooden-window-frame-1030664241.md",
+   "json": "items/buildtools/wooden-window-frame-1030664241.json",
+   "maxStack": 50,
+   "ownTexts": []
+  },
+  {
+   "id": 1349537387,
+   "name": "Wooden Window Frame",
+   "rarity": "Common",
+   "level": "-",
+   "image": "images/icons/1349537387.png",
+   "page": "items/buildtools/wooden-window-frame-1349537387.md",
+   "json": "items/buildtools/wooden-window-frame-1349537387.json",
+   "maxStack": 50,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/buildtools/wooden-window-frame.md"
+}

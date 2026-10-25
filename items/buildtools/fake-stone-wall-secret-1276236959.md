@@ -21,4 +21,4 @@ A fake secret you can install in your base to confuse others.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](fake-stone-wall-secret-1276236959.json)

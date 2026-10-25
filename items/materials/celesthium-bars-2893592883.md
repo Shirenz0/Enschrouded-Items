@@ -29,4 +29,4 @@ Blast Furnace
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](celesthium-bars-2893592883.json)

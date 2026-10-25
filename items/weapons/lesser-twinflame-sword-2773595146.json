@@ -1,0 +1,115 @@
+{
+ "id": 2773595146,
+ "name": "Lesser Twinflame Sword",
+ "internalName": "Craft_Weapon_T5_1H_Lore_Sword_ministory_28",
+ "category": {
+  "id": "Weapons",
+  "title": "Weapons",
+  "page": "categories/weapons.md",
+  "json": "categories/weapons.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 26,
+  "max": 26
+ },
+ "maxStack": 1,
+ "image": "images/icons/2773595146.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/weapons/lesser-twinflame-sword.md",
+  "json": "objects/weapons/lesser-twinflame-sword.json",
+  "versions": 4
+ },
+ "stats": {
+  "slot": "Melee weapon",
+  "damageTypes": {
+   "Cutting": 100
+  },
+  "values": [
+   {
+    "label": "Attack Speed",
+    "value": 600,
+    "display": "0.6 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Sneaky",
+   "effect": "+18 Sneaky"
+  },
+  {
+   "order": 2,
+   "name": "Vicious",
+   "effect": "+20 Vicious"
+  },
+  {
+   "order": 3,
+   "name": "Chargeback",
+   "effect": "Defeat an enemy to restore Durability"
+  },
+  {
+   "order": 4,
+   "name": "Sneaky",
+   "effect": "+20 Sneaky"
+  },
+  {
+   "order": 5,
+   "name": "Vicious",
+   "effect": "+20 Vicious"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 411142573,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 3,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 170689373,
+      "name": "Copper Bar",
+      "page": "items/materials/copper-bar-170689373.md",
+      "json": "items/materials/copper-bar-170689373.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 1997243371,
+      "name": "T5 Material Amethyst",
+      "page": null,
+      "json": null
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/weapons/lesser-twinflame-sword-2773595146.md"
+}

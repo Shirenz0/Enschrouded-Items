@@ -17,4 +17,4 @@ Mercenary gloves. They're worth their weight in gold.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-dps-arms.json)

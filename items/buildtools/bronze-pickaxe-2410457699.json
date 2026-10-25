@@ -1,0 +1,94 @@
+{
+ "id": 2410457699,
+ "name": "Bronze Pickaxe",
+ "internalName": "Tool_T3_Pickaxe_Bronze_Steppes",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 15,
+  "max": 15
+ },
+ "maxStack": 1,
+ "image": "images/icons/2410457699.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A pickaxe made out of bronze. Only struggling with the hardest of stones, it can be considered very efficient.",
+ "lore": "Tools",
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "damageTypes": {
+   "Piercing": 100
+  },
+  "values": [
+   {
+    "label": "Stamina Cost",
+    "value": 3,
+    "display": "3",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Attack Speed",
+    "value": 774,
+    "display": "0.774 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 125,
+    "display": "125",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Enduring",
+   "effect": "+9 Enduring"
+  },
+  {
+   "order": 2,
+   "name": "Stamina",
+   "effect": "+12 Stamina"
+  },
+  {
+   "order": 3,
+   "name": "+1 Mason",
+   "effect": "Increases the skill level of Mason by +1"
+  }
+ ],
+ "recipes": [
+  {
+   "recipeId": 308788979,
+   "station": "Blacksmith",
+   "inputs": [
+    {
+     "count": 8,
+     "item": {
+      "id": 642002617,
+      "name": "Bronze Bars",
+      "page": "items/materials/bronze-bars-642002617.md",
+      "json": "items/materials/bronze-bars-642002617.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/bronze-pickaxe-2410457699.md"
+}

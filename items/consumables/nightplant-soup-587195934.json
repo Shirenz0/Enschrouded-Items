@@ -1,0 +1,89 @@
+{
+ "id": 587195934,
+ "name": "Nightplant Soup",
+ "internalName": "Food_T3_dish_nightplant_Soup",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/587195934.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A soup made from various vegetables full of vitamins and energy. It glows in the dark and extends your time in the shroud!",
+ "lore": null,
+ "whereToFind": "Kitchen",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Mana",
+    "value": 40,
+    "display": "40",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fog Survivability Extension",
+    "value": 120000,
+    "display": "120,000",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 2400000,
+    "display": "40:00 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Mana Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2465232187,
+   "station": "Kitchen",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1564406835,
+      "name": "Salt",
+      "page": "items/materials/salt-1564406835.md",
+      "json": "items/materials/salt-1564406835.json"
+     }
+    },
+    {
+     "count": 3,
+     "item": {
+      "id": 2341333485,
+      "name": "Aurum Lily",
+      "page": "items/materials/aurum-lily-2341333485.md",
+      "json": "items/materials/aurum-lily-2341333485.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 3562500384,
+      "name": "Sage Leaves",
+      "page": "items/consumables/sage-leaves-3562500384.md",
+      "json": "items/consumables/sage-leaves-3562500384.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/consumables/nightplant-soup-587195934.md"
+}

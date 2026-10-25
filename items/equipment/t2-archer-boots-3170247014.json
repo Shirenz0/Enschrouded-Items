@@ -1,0 +1,71 @@
+{
+ "id": 3170247014,
+ "name": "T2 Archer Boots",
+ "internalName": "Armor_T2_Ranger_Assassin_Boots_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/3170247014.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The reinforced soles allow you to scale small cliffs or reach vantage points quickly.",
+ "lore": null,
+ "whereToFind": null,
+ "object": {
+  "page": "objects/equipment/t2-archer-boots.md",
+  "json": "objects/equipment/t2-archer-boots.json",
+  "versions": 2
+ },
+ "stats": {
+  "slot": "Feet",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Cutting Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Vital",
+   "effect": "+6 Vital"
+  },
+  {
+   "order": 3,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  },
+  {
+   "order": 4,
+   "name": "Fire Armor",
+   "effect": null
+  },
+  {
+   "order": 5,
+   "name": "+1 Thrust",
+   "effect": "Increases the skill level of Thrust by +1"
+  }
+ ],
+ "page": "items/equipment/t2-archer-boots-3170247014.md"
+}

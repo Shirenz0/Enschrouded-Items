@@ -1,0 +1,51 @@
+{
+ "id": 2477070271,
+ "name": "Ancient Construct: Heavy Head",
+ "internalName": "_Material_TX_Trophy_Ancient_Construct_Heavy_head",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2477070271.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "head or eye from the ancient construct heavy desc",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 962609600,
+   "name": "Gold Ancient Construct: Heavy Trophy",
+   "page": "items/buildtools/gold-ancient-construct-heavy-trophy-962609600.md",
+   "json": "items/buildtools/gold-ancient-construct-heavy-trophy-962609600.json"
+  },
+  {
+   "id": 1753788725,
+   "name": "Iron Ancient Construct: Heavy Trophy",
+   "page": "items/buildtools/iron-ancient-construct-heavy-trophy-1753788725.md",
+   "json": "items/buildtools/iron-ancient-construct-heavy-trophy-1753788725.json"
+  },
+  {
+   "id": 1715982707,
+   "name": "Bronze Ancient Construct: Heavy Trophy",
+   "page": "items/buildtools/bronze-ancient-construct-heavy-trophy-1715982707.md",
+   "json": "items/buildtools/bronze-ancient-construct-heavy-trophy-1715982707.json"
+  },
+  {
+   "id": 825905286,
+   "name": "Ancient Construct: Heavy Trophy",
+   "page": "items/buildtools/ancient-construct-heavy-trophy-825905286.md",
+   "json": "items/buildtools/ancient-construct-heavy-trophy-825905286.json"
+  }
+ ],
+ "page": "items/materials/ancient-construct-heavy-head-2477070271.md"
+}

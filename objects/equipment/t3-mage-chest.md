@@ -17,4 +17,4 @@ An ordinary shirt, covered partially by a more sophisticated jacket.
 
 ---
 
-[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)
+[← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md) · [JSON](t3-mage-chest.json)

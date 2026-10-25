@@ -1,0 +1,56 @@
+{
+ "id": 2779909442,
+ "name": "Cactus Plant Pot",
+ "internalName": "Flower_Pot_Medium_Cactus",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2779909442.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A medium potted plant to beautify your home.",
+ "lore": "Potted Plant",
+ "whereToFind": null,
+ "object": {
+  "page": "objects/buildtools/cactus-plant-pot.md",
+  "json": "objects/buildtools/cactus-plant-pot.json",
+  "versions": 2
+ },
+ "recipes": [
+  {
+   "recipeId": 2403306935,
+   "station": "Farmer",
+   "inputs": [
+    {
+     "count": 4,
+     "item": {
+      "id": 624884086,
+      "name": "Empty Flower Pot II",
+      "page": "items/buildtools/empty-flower-pot-ii-624884086.md",
+      "json": "items/buildtools/empty-flower-pot-ii-624884086.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3604850591,
+      "name": "Flower Soil",
+      "page": "items/materials/flower-soil-3604850591.md",
+      "json": "items/materials/flower-soil-3604850591.json"
+     }
+    }
+   ],
+   "outputCount": 4
+  }
+ ],
+ "page": "items/buildtools/cactus-plant-pot-2779909442.md"
+}

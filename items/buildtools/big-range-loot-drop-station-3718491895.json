@@ -1,0 +1,61 @@
+{
+ "id": 3718491895,
+ "name": "Big range Loot Drop Station",
+ "internalName": "Prop_Storage_Loot_Drop_Station_24x24",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3718491895.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "This Loot Drop Station can be used to drop items from your backpack to matching items stacks in magic chests within range. Magic chests need to be placed in a 24x24m range.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1312726777,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 1528590138,
+      "name": "Fog Core",
+      "page": "items/materials/fog-core-1528590138.md",
+      "json": "items/materials/fog-core-1528590138.json"
+     }
+    },
+    {
+     "count": 2,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3445636557,
+      "name": "Lime Stone",
+      "page": "items/materials/lime-stone-3445636557.md",
+      "json": "items/materials/lime-stone-3445636557.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/big-range-loot-drop-station-3718491895.md"
+}

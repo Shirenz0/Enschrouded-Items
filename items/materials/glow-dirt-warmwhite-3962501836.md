@@ -29,4 +29,4 @@ Crafting, Alchemist
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](glow-dirt-warmwhite-3962501836.json)

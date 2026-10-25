@@ -1,0 +1,87 @@
+{
+ "id": 1774181330,
+ "name": "T5 Entangle III",
+ "internalName": "Ammo_T5_Spell_Root_lvl30",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 30,
+  "max": 30
+ },
+ "maxStack": 500,
+ "image": "images/icons/1774181330.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Entangling Roots that prevent enemies from moving for a short duration.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 39,
+    "display": "39",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 500,
+    "display": "0.5 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Radius",
+    "value": 250,
+    "display": "250",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 7000,
+    "display": "7 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Debuff Duration",
+    "value": 9000,
+    "display": "9 s",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 2445814471,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 3156031834,
+      "name": "T5 Steel Bar Desc",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 1985910431,
+      "name": "Chitin Podwer",
+      "page": "items/materials/chitin-podwer-1985910431.md",
+      "json": "items/materials/chitin-podwer-1985910431.json"
+     }
+    }
+   ],
+   "outputCount": 50
+  }
+ ],
+ "page": "items/ammunition/t5-entangle-iii-1774181330.md"
+}

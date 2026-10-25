@@ -1,0 +1,60 @@
+{
+ "id": 3877300758,
+ "name": "Green Glow Block",
+ "internalName": "Block_T3_GreenGlow_HallowHalls_Cairn_REWARD",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 5000,
+ "image": "images/icons/3877300758.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Green Glow Block description",
+ "lore": null,
+ "whereToFind": "Workbench",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1564870895,
+   "station": "Workbench",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 1453689781,
+      "name": "T3 Green essence",
+      "page": "items/materials/t3-green-essence-1453689781.md",
+      "json": "items/materials/t3-green-essence-1453689781.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 883401509,
+   "name": "Skeleton Showkase",
+   "page": "items/buildtools/skeleton-showkase-883401509.md",
+   "json": "items/buildtools/skeleton-showkase-883401509.json"
+  }
+ ],
+ "page": "items/buildtools/green-glow-block-3877300758.md"
+}

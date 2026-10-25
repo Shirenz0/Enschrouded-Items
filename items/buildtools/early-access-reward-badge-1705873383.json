@@ -1,0 +1,25 @@
+{
+ "id": 1705873383,
+ "name": "Early Access Reward Badge",
+ "internalName": "Prop_DLC_EarlyAccessReward_SymbolBadge",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1705873383.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A reward for dedicated early access players.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/buildtools/early-access-reward-badge-1705873383.md"
+}

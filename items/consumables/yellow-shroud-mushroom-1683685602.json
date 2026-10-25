@@ -1,0 +1,55 @@
+{
+ "id": 1683685602,
+ "name": "Yellow Shroud Mushroom",
+ "internalName": "Food_T5_raw_bad_mushroom_YellowFogMushroom",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1683685602.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Tastes very bitter. Maybe palatable  when cooked.",
+ "lore": null,
+ "whereToFind": "find in Albaneve Summits Shroud",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Stamina",
+    "value": -60,
+    "display": "-60",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health",
+    "value": -70,
+    "display": "-70",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 305385380,
+   "name": "Yellow Glow Soup",
+   "page": "items/consumables/yellow-glow-soup-305385380.md",
+   "json": "items/consumables/yellow-glow-soup-305385380.json"
+  },
+  {
+   "id": 1783208373,
+   "name": "Chanterelle Seedling",
+   "page": "items/buildtools/chanterelle-seedling-1783208373.md",
+   "json": "items/buildtools/chanterelle-seedling-1783208373.json"
+  }
+ ],
+ "page": "items/consumables/yellow-shroud-mushroom-1683685602.md"
+}

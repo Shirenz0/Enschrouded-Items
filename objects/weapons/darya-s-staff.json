@@ -1,0 +1,60 @@
+{
+ "name": "Darya's Staff",
+ "category": "Weapons",
+ "image": "images/icons/3791962857.png",
+ "versions": 4,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 4000975642,
+   "name": "Darya's Staff",
+   "rarity": "Rare",
+   "level": "26",
+   "image": "images/icons/4000975642.png",
+   "page": "items/weapons/darya-s-staff-4000975642.md",
+   "json": "items/weapons/darya-s-staff-4000975642.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 4287106432,
+   "name": "Darya's Staff",
+   "rarity": "Rare",
+   "level": "36",
+   "image": "images/icons/4287106432.png",
+   "page": "items/weapons/darya-s-staff-4287106432.md",
+   "json": "items/weapons/darya-s-staff-4287106432.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 1271805655,
+   "name": "Darya's Staff",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/1271805655.png",
+   "page": "items/weapons/darya-s-staff-1271805655.md",
+   "json": "items/weapons/darya-s-staff-1271805655.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3791962857,
+   "name": "Darya's Staff",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/3791962857.png",
+   "page": "items/weapons/darya-s-staff-3791962857.md",
+   "json": "items/weapons/darya-s-staff-3791962857.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/darya-s-staff.md"
+}

@@ -1,0 +1,114 @@
+{
+ "id": 887761434,
+ "name": "Flammable Goo",
+ "internalName": "Material_T5_FlammableGoo",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 33,
+  "max": 33
+ },
+ "maxStack": 250,
+ "image": "images/icons/887761434.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A sticky and highly flamable substance. Handle with care!",
+ "lore": null,
+ "whereToFind": "Crafting, Laboratory",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 44745427,
+   "station": "Laboratory",
+   "inputs": [
+    {
+     "count": 5,
+     "item": {
+      "id": 1714627847,
+      "name": "Tar",
+      "page": "items/materials/tar-1714627847.md",
+      "json": "items/materials/tar-1714627847.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 579568751,
+      "name": "Shroud Vapor",
+      "page": "items/materials/shroud-vapor-579568751.md",
+      "json": "items/materials/shroud-vapor-579568751.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 2348656032,
+      "name": "T5 Material Coal Name",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3403995938,
+      "name": "Goo",
+      "page": "items/materials/goo-3403995938.md",
+      "json": "items/materials/goo-3403995938.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 225262139,
+   "name": "Eternal Fire Arrow II",
+   "page": "items/ammunition/eternal-fire-arrow-ii-225262139.md",
+   "json": "items/ammunition/eternal-fire-arrow-ii-225262139.json"
+  },
+  {
+   "id": 1822034736,
+   "name": "T5 Ball Lightning",
+   "page": "items/ammunition/t5-ball-lightning-1822034736.md",
+   "json": "items/ammunition/t5-ball-lightning-1822034736.json"
+  },
+  {
+   "id": 2594618935,
+   "name": "Dragonsbane",
+   "page": "items/weapons/dragonsbane-2594618935.md",
+   "json": "items/weapons/dragonsbane-2594618935.json"
+  },
+  {
+   "id": 1462961786,
+   "name": "Incendiary Ball",
+   "page": "items/weapons/incendiary-ball-1462961786.md",
+   "json": "items/weapons/incendiary-ball-1462961786.json"
+  },
+  {
+   "id": 2908736852,
+   "name": "Cryptic wand",
+   "page": "items/weapons/cryptic-wand-2908736852.md",
+   "json": "items/weapons/cryptic-wand-2908736852.json"
+  },
+  {
+   "id": 1851651517,
+   "name": "T5 Prop Decoration Comfort Illumination Floor (small Brazier)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-small-brazier-1851651517.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-floor-small-brazier-1851651517.json"
+  },
+  {
+   "id": 628676871,
+   "name": "T5 Prop Decoration Comfort Illumination Wall (small Brazier)",
+   "page": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-small-brazier-628676871.md",
+   "json": "items/buildtools/t5-prop-decoration-comfort-illumination-wall-small-brazier-628676871.json"
+  }
+ ],
+ "page": "items/materials/flammable-goo-887761434.md"
+}

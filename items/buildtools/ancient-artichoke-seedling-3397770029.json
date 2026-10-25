@@ -1,0 +1,52 @@
+{
+ "id": 3397770029,
+ "name": "Ancient \"Artichoke\" Seedling",
+ "internalName": "T7_Seedling_Fruit_Artichoke",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 100,
+ "image": "images/icons/3397770029.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A seedling that will grow into a plant when sown in **basalt farm soil**. Once fully grown, it can be harvested once.",
+ "lore": "Seedlings",
+ "whereToFind": "Seedbed",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 3413282778,
+   "station": "Seedbed",
+   "inputs": [
+    {
+     "count": 1,
+     "item": {
+      "id": 426586658,
+      "name": "Ancient \"Artichoke\"",
+      "page": "items/consumables/ancient-artichoke-426586658.md",
+      "json": "items/consumables/ancient-artichoke-426586658.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1930450533,
+      "name": "Basalt Farm Soil",
+      "page": "items/materials/basalt-farm-soil-1930450533.md",
+      "json": "items/materials/basalt-farm-soil-1930450533.json"
+     }
+    }
+   ],
+   "outputCount": 5
+  }
+ ],
+ "page": "items/buildtools/ancient-artichoke-seedling-3397770029.md"
+}

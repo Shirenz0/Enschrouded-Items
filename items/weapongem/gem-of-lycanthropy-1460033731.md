@@ -30,4 +30,4 @@ Defeating an enemy at night has a %k chance to spawn a Lunar Orb. Collecting a L
 
 ---
 
-[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)
+[← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md) · [JSON](gem-of-lycanthropy-1460033731.json)

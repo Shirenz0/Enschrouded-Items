@@ -1,0 +1,25 @@
+{
+ "id": 3901413869,
+ "name": "Modest Golden Urn",
+ "internalName": "Collection_skeletons_02_urns_urn_01",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/3901413869.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A golden urn with intricate ornaments.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/modest-golden-urn-3901413869.md"
+}

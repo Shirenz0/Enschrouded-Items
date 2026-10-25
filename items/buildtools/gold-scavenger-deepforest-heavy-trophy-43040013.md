@@ -27,4 +27,4 @@ A severed Scavenger Deepforest Heavy Head. Collect multiple to craft the golden 
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-scavenger-deepforest-heavy-trophy-43040013.json)

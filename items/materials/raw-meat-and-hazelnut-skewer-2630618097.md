@@ -29,4 +29,4 @@ Manual Crafting
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](raw-meat-and-hazelnut-skewer-2630618097.json)

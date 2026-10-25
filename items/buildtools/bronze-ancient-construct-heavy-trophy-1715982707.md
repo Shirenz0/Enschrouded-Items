@@ -31,4 +31,4 @@ A severed Ancient Construct: Heavy Head. Collect multiple to craft the bronze tr
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](bronze-ancient-construct-heavy-trophy-1715982707.json)

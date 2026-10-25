@@ -25,4 +25,4 @@ A showcase for displaying the embervale miniature.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](embervale-miniature-showcase-1764672566.json)

@@ -1,0 +1,35 @@
+{
+ "name": "T2 Ranger Boots",
+ "category": "Equipment",
+ "image": "images/icons/3590618366.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 265162097,
+   "name": "T2 Ranger Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/265162097.png",
+   "page": "items/equipment/t2-ranger-boots-265162097.md",
+   "json": "items/equipment/t2-ranger-boots-265162097.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 3590618366,
+   "name": "T2 Ranger Boots",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/3590618366.png",
+   "page": "items/equipment/t2-ranger-boots-3590618366.md",
+   "json": "items/equipment/t2-ranger-boots-3590618366.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-ranger-boots.md"
+}

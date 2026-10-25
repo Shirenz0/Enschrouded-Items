@@ -1,0 +1,35 @@
+{
+ "name": "T2 Ranger Legs",
+ "category": "Equipment",
+ "image": "images/icons/2374868988.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1505192014,
+   "name": "T2 Ranger Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/1505192014.png",
+   "page": "items/equipment/t2-ranger-legs-1505192014.md",
+   "json": "items/equipment/t2-ranger-legs-1505192014.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2374868988,
+   "name": "T2 Ranger Legs",
+   "rarity": "Rare",
+   "level": "10",
+   "image": "images/icons/2374868988.png",
+   "page": "items/equipment/t2-ranger-legs-2374868988.md",
+   "json": "items/equipment/t2-ranger-legs-2374868988.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t2-ranger-legs.md"
+}

@@ -27,4 +27,4 @@ This ball contains a highly flamable liquid, which will cover an area in fire.
 
 ---
 
-[← Weapons](../../categories/weapons.md) · [All categories](../../README.md)
+[← Weapons](../../categories/weapons.md) · [All categories](../../README.md) · [JSON](incendiary-ball-1036114942.json)

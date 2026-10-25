@@ -1,0 +1,35 @@
+{
+ "name": "T4 Tank Arms",
+ "category": "Equipment",
+ "image": "images/icons/863496468.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1838950390,
+   "name": "T4 Tank Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1838950390.png",
+   "page": "items/equipment/t4-tank-arms-1838950390.md",
+   "json": "items/equipment/t4-tank-arms-1838950390.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 863496468,
+   "name": "T4 Tank Arms",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/863496468.png",
+   "page": "items/equipment/t4-tank-arms-863496468.md",
+   "json": "items/equipment/t4-tank-arms-863496468.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/t4-tank-arms.md"
+}

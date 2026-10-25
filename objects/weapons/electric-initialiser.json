@@ -1,0 +1,38 @@
+{
+ "name": "Electric Initialiser",
+ "category": "Weapons",
+ "image": "images/icons/873336281.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [
+  "level range",
+  "rarity"
+ ],
+ "items": [
+  {
+   "id": 3848774794,
+   "name": "Electric Initialiser",
+   "rarity": "Rare",
+   "level": "46",
+   "image": "images/icons/3848774794.png",
+   "page": "items/weapons/electric-initialiser-3848774794.md",
+   "json": "items/weapons/electric-initialiser-3848774794.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 873336281,
+   "name": "Electric Initialiser",
+   "rarity": "Legendary",
+   "level": "1-55",
+   "image": "images/icons/873336281.png",
+   "page": "items/weapons/electric-initialiser-873336281.md",
+   "json": "items/weapons/electric-initialiser-873336281.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/weapons/electric-initialiser.md"
+}

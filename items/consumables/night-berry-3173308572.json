@@ -1,0 +1,85 @@
+{
+ "id": 3173308572,
+ "name": "Night Berry",
+ "internalName": "Food_T2_raw_nightplant_NightBerry",
+ "category": {
+  "id": "Consumables",
+  "title": "Consumables",
+  "page": "categories/consumables.md",
+  "json": "categories/consumables.json"
+ },
+ "rarity": "Uncommon",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/3173308572.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Night Berry - can be used for special dishes to increase the effect",
+ "lore": null,
+ "whereToFind": "Revelwood, night",
+ "object": null,
+ "stats": {
+  "values": [
+   {
+    "label": "Duration",
+    "value": 750000,
+    "display": "12:30 min",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Fog Survivability Extension",
+    "value": 90000,
+    "display": "90,000",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Health Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "usedToMake": [
+  {
+   "id": 65287689,
+   "name": "Blueberry Cake",
+   "page": "items/consumables/blueberry-cake-65287689.md",
+   "json": "items/consumables/blueberry-cake-65287689.json"
+  },
+  {
+   "id": 917304835,
+   "name": "Fruit Bowl",
+   "page": "items/consumables/fruit-bowl-917304835.md",
+   "json": "items/consumables/fruit-bowl-917304835.json"
+  },
+  {
+   "id": 1509402971,
+   "name": "Greater Health Potion improved",
+   "page": "items/consumables/greater-health-potion-improved-1509402971.md",
+   "json": "items/consumables/greater-health-potion-improved-1509402971.json"
+  },
+  {
+   "id": 711941661,
+   "name": "T2 Eternal Mana Leech Beam III",
+   "page": "items/ammunition/t2-eternal-mana-leech-beam-iii-711941661.md",
+   "json": "items/ammunition/t2-eternal-mana-leech-beam-iii-711941661.json"
+  },
+  {
+   "id": 556297753,
+   "name": "T2 Palette 02 shades of grey",
+   "page": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.md",
+   "json": "items/colorpalette/t2-palette-02-shades-of-grey-556297753.json"
+  },
+  {
+   "id": 4286973253,
+   "name": "Tbd T2 Palette 02 Reward",
+   "page": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.md",
+   "json": "items/colorpalette/tbd-t2-palette-02-reward-4286973253.json"
+  }
+ ],
+ "page": "items/consumables/night-berry-3173308572.md"
+}

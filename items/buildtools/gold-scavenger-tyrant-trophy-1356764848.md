@@ -31,4 +31,4 @@ A severed Scavenger Tyrant Head. Collect multiple to craft the golden trophy
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](gold-scavenger-tyrant-trophy-1356764848.json)

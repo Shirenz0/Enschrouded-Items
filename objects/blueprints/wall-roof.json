@@ -1,0 +1,33 @@
+{
+ "name": "Wall Roof",
+ "category": "Blueprints",
+ "image": null,
+ "versions": 2,
+ "sharedTexts": [],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 2096316628,
+   "name": "Wall Roof",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-2096316628.md",
+   "json": "items/blueprints/wall-roof-2096316628.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 457882098,
+   "name": "Wall Roof",
+   "rarity": "Common",
+   "level": "-",
+   "image": null,
+   "page": "items/blueprints/wall-roof-457882098.md",
+   "json": "items/blueprints/wall-roof-457882098.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/blueprints/wall-roof.md"
+}

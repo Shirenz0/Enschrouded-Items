@@ -1,0 +1,79 @@
+{
+ "id": 4252546627,
+ "name": "T6 Summon Skeleton II",
+ "internalName": "Ammo_T6_Spell_Skeleton_lvl44",
+ "category": {
+  "id": "Ammunition",
+  "title": "Ammunition & Spells",
+  "page": "categories/ammunition.md",
+  "json": "categories/ammunition.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 44,
+  "max": 44
+ },
+ "maxStack": 500,
+ "image": "images/icons/4252546627.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "Summons a Skeleton that attacks enemies. \nMaximum limit of summoned Skeletons is 1 by default which can be increased via skills.",
+ "lore": null,
+ "whereToFind": "Crafting, Collector",
+ "object": null,
+ "stats": {
+  "slot": "Spell",
+  "damageTypes": {
+   "Cutting": 50,
+   "Ice": 50
+  },
+  "values": [
+   {
+    "label": "Mana Cost",
+    "value": 231,
+    "display": "231",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Cast Time",
+    "value": 2000,
+    "display": "2 s",
+    "scalesWithLevel": false
+   },
+   {
+    "label": "Duration",
+    "value": 100000,
+    "display": "1:40 min",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "recipes": [
+  {
+   "recipeId": 3262796711,
+   "station": "Collector",
+   "inputs": [
+    {
+     "count": 20,
+     "item": {
+      "id": 1903438107,
+      "name": "T5 Green Essence",
+      "page": null,
+      "json": null
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 3895216255,
+      "name": "Giant Ice Bones",
+      "page": "items/materials/giant-ice-bones-3895216255.md",
+      "json": "items/materials/giant-ice-bones-3895216255.json"
+     }
+    }
+   ],
+   "outputCount": 100
+  }
+ ],
+ "page": "items/ammunition/t6-summon-skeleton-ii-4252546627.md"
+}

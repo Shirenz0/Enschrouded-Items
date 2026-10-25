@@ -29,4 +29,4 @@ Magic Infusion Station
 
 ---
 
-[← Materials](../../categories/materials.md) · [All categories](../../README.md)
+[← Materials](../../categories/materials.md) · [All categories](../../README.md) · [JSON](ancient-archaic-infusion-2670118573.json)

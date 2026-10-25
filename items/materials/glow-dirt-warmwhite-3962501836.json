@@ -1,0 +1,84 @@
+{
+ "id": 3962501836,
+ "name": "Glow Dirt WarmWhite",
+ "internalName": "Material_T1_GlowDirt_WarmWhite",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 5,
+  "max": 5
+ },
+ "maxStack": 250,
+ "image": "images/icons/3962501836.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A dirt glowing in a warm white light",
+ "lore": null,
+ "whereToFind": "Crafting, Alchemist",
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2777363936,
+   "station": "Alchemist",
+   "inputs": [
+    {
+     "count": 7,
+     "item": {
+      "id": 1558115984,
+      "name": "Dirt",
+      "page": "items/materials/dirt-1558115984.md",
+      "json": "items/materials/dirt-1558115984.json"
+     }
+    },
+    {
+     "count": 10,
+     "item": {
+      "id": 3509012331,
+      "name": "Mycelium",
+      "page": "items/materials/mycelium-3509012331.md",
+      "json": "items/materials/mycelium-3509012331.json"
+     }
+    },
+    {
+     "count": 20,
+     "item": {
+      "id": 2982735558,
+      "name": "Bonemeal",
+      "page": "items/materials/bonemeal-2982735558.md",
+      "json": "items/materials/bonemeal-2982735558.json"
+     }
+    },
+    {
+     "count": 1,
+     "item": {
+      "id": 1635234852,
+      "name": "Wood Acid",
+      "page": "items/materials/wood-acid-1635234852.md",
+      "json": "items/materials/wood-acid-1635234852.json"
+     }
+    }
+   ],
+   "outputCount": 20
+  }
+ ],
+ "usedToMake": [
+  {
+   "id": 2310650651,
+   "name": "Self Illuminating Block Warm white",
+   "page": "items/buildtools/self-illuminating-block-warm-white-2310650651.md",
+   "json": "items/buildtools/self-illuminating-block-warm-white-2310650651.json"
+  },
+  {
+   "id": 3615680929,
+   "name": "Halloween Banner",
+   "page": "items/buildtools/halloween-banner-3615680929.md",
+   "json": "items/buildtools/halloween-banner-3615680929.json"
+  }
+ ],
+ "page": "items/materials/glow-dirt-warmwhite-3962501836.md"
+}

@@ -25,4 +25,4 @@ A medium potted plant to beautify your home.
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](medium-monstera-plant-pot-1666087652.json)

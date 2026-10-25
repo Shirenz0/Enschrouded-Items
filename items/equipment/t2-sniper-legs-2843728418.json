@@ -1,0 +1,67 @@
+{
+ "id": 2843728418,
+ "name": "T2 Sniper Legs",
+ "internalName": "Armor_T2_Ranger_Sniper_Legs_Loot",
+ "category": {
+  "id": "Equipment",
+  "title": "Armor & Equipment",
+  "page": "categories/equipment.md",
+  "json": "categories/equipment.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 10,
+  "max": 10
+ },
+ "maxStack": 1,
+ "image": "images/icons/2843728418.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The coloring and of these pants allows the wearer to seamlessly blend into the foliage.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "stats": {
+  "slot": "Legs",
+  "armorTypes": [
+   "Physical",
+   "Magical"
+  ],
+  "values": [
+   {
+    "label": "Stamina Regeneration",
+    "value": 6,
+    "display": "6",
+    "scalesWithLevel": false
+   }
+  ]
+ },
+ "enhancements": [
+  {
+   "order": 1,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 2,
+   "name": "Blunt Armor",
+   "effect": null
+  },
+  {
+   "order": 3,
+   "name": "+1 Counter Battery",
+   "effect": "Increases the skill level of Counter Battery by +1"
+  },
+  {
+   "order": 4,
+   "name": "Stamina",
+   "effect": "+8 Stamina"
+  },
+  {
+   "order": 5,
+   "name": "+1 Counter Battery",
+   "effect": "Increases the skill level of Counter Battery by +1"
+  }
+ ],
+ "page": "items/equipment/t2-sniper-legs-2843728418.md"
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1128292239,
+ "name": "Locked Tome",
+ "internalName": "Collection_skeletons_03_books_book_02",
+ "category": {
+  "id": "Collectibles",
+  "title": "Collectibles",
+  "page": "categories/collectibles.md",
+  "json": "categories/collectibles.json"
+ },
+ "rarity": "Rare",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/1128292239.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A book that's been permanently frozen shut with ectoplasm crystals.",
+ "lore": null,
+ "whereToFind": null,
+ "object": null,
+ "page": "items/collectibles/locked-tome-1128292239.md"
+}

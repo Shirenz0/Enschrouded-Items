@@ -1,0 +1,399 @@
+{
+ "id": 1765656585,
+ "name": "Hardwood",
+ "internalName": "Material_T2_Wood_Hardwood",
+ "category": {
+  "id": "Materials",
+  "title": "Materials",
+  "page": "categories/materials.md",
+  "json": "categories/materials.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 13,
+  "max": 13
+ },
+ "maxStack": 250,
+ "image": "images/icons/1765656585.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "The byproducts of felling a tree. Just be careful that it doesn't fall on the head!",
+ "lore": null,
+ "whereToFind": "Revelwood",
+ "object": null,
+ "usedToMake": [
+  {
+   "id": 3286071567,
+   "name": "Decay Tool",
+   "page": "items/blueprints/decay-tool-3286071567.md",
+   "json": "items/blueprints/decay-tool-3286071567.json"
+  },
+  {
+   "id": 2570341954,
+   "name": "Hardwood Ash Tree",
+   "page": "items/buildtools/hardwood-ash-tree-2570341954.md",
+   "json": "items/buildtools/hardwood-ash-tree-2570341954.json"
+  },
+  {
+   "id": 4131324901,
+   "name": "Iron Axe",
+   "page": "items/tools/iron-axe-4131324901.md",
+   "json": "items/tools/iron-axe-4131324901.json"
+  },
+  {
+   "id": 1012249632,
+   "name": "Bronze Axe",
+   "page": "items/tools/bronze-axe-1012249632.md",
+   "json": "items/tools/bronze-axe-1012249632.json"
+  },
+  {
+   "id": 1978632298,
+   "name": "Copper Axe",
+   "page": "items/tools/copper-axe-1978632298.md",
+   "json": "items/tools/copper-axe-1978632298.json"
+  },
+  {
+   "id": 1345456437,
+   "name": "Iron Pickaxe",
+   "page": "items/buildtools/iron-pickaxe-1345456437.md",
+   "json": "items/buildtools/iron-pickaxe-1345456437.json"
+  },
+  {
+   "id": 2410457699,
+   "name": "Bronze Pickaxe",
+   "page": "items/buildtools/bronze-pickaxe-2410457699.md",
+   "json": "items/buildtools/bronze-pickaxe-2410457699.json"
+  },
+  {
+   "id": 2671192505,
+   "name": "Copper Pickaxe",
+   "page": "items/buildtools/copper-pickaxe-2671192505.md",
+   "json": "items/buildtools/copper-pickaxe-2671192505.json"
+  },
+  {
+   "id": 2440163799,
+   "name": "Fenrig's Axe",
+   "page": "items/weapons/fenrig-s-axe-2440163799.md",
+   "json": "items/weapons/fenrig-s-axe-2440163799.json"
+  },
+  {
+   "id": 907435246,
+   "name": "Halescourge",
+   "page": "items/weapons/halescourge-907435246.md",
+   "json": "items/weapons/halescourge-907435246.json"
+  },
+  {
+   "id": 2972800174,
+   "name": "Riptide",
+   "page": "items/equipment/riptide-2972800174.md",
+   "json": "items/equipment/riptide-2972800174.json"
+  },
+  {
+   "id": 3886257993,
+   "name": "Consumed fog soldier bow",
+   "page": "items/weapons/consumed-fog-soldier-bow-3886257993.md",
+   "json": "items/weapons/consumed-fog-soldier-bow-3886257993.json"
+  },
+  {
+   "id": 738101794,
+   "name": "T5 Comfort Decoration Bathroom Sink For Barber Shop",
+   "page": "items/buildtools/t5-comfort-decoration-bathroom-sink-for-barber-shop-738101794.md",
+   "json": "items/buildtools/t5-comfort-decoration-bathroom-sink-for-barber-shop-738101794.json"
+  },
+  {
+   "id": 2304873217,
+   "name": "Bed T2",
+   "page": "items/buildtools/bed-t2-2304873217.md",
+   "json": "items/buildtools/bed-t2-2304873217.json"
+  },
+  {
+   "id": 2523000783,
+   "name": "Bench T2",
+   "page": "items/buildtools/bench-t2-2523000783.md",
+   "json": "items/buildtools/bench-t2-2523000783.json"
+  },
+  {
+   "id": 3238278001,
+   "name": "Throne T2",
+   "page": "items/buildtools/throne-t2-3238278001.md",
+   "json": "items/buildtools/throne-t2-3238278001.json"
+  },
+  {
+   "id": 1890067674,
+   "name": "Chair T2",
+   "page": "items/buildtools/chair-t2-1890067674.md",
+   "json": "items/buildtools/chair-t2-1890067674.json"
+  },
+  {
+   "id": 2331092704,
+   "name": "Table Large T2",
+   "page": "items/buildtools/table-large-t2-2331092704.md",
+   "json": "items/buildtools/table-large-t2-2331092704.json"
+  },
+  {
+   "id": 3856498506,
+   "name": "Table Medium T2",
+   "page": "items/buildtools/table-medium-t2-3856498506.md",
+   "json": "items/buildtools/table-medium-t2-3856498506.json"
+  },
+  {
+   "id": 1950809514,
+   "name": "Table Small T2",
+   "page": "items/buildtools/table-small-t2-1950809514.md",
+   "json": "items/buildtools/table-small-t2-1950809514.json"
+  },
+  {
+   "id": 3404342333,
+   "name": "Bedside T2",
+   "page": "items/buildtools/bedside-t2-3404342333.md",
+   "json": "items/buildtools/bedside-t2-3404342333.json"
+  },
+  {
+   "id": 884882314,
+   "name": "Room Divider I",
+   "page": "items/buildtools/room-divider-i-884882314.md",
+   "json": "items/buildtools/room-divider-i-884882314.json"
+  },
+  {
+   "id": 817722495,
+   "name": "Room Divider II",
+   "page": "items/buildtools/room-divider-ii-817722495.md",
+   "json": "items/buildtools/room-divider-ii-817722495.json"
+  },
+  {
+   "id": 3992184683,
+   "name": "Room Divider III",
+   "page": "items/buildtools/room-divider-iii-3992184683.md",
+   "json": "items/buildtools/room-divider-iii-3992184683.json"
+  },
+  {
+   "id": 1209952398,
+   "name": "Room Divider \"Flower\"",
+   "page": "items/buildtools/room-divider-flower-1209952398.md",
+   "json": "items/buildtools/room-divider-flower-1209952398.json"
+  },
+  {
+   "id": 1108531204,
+   "name": "Room Divider \"Fish\"",
+   "page": "items/buildtools/room-divider-fish-1108531204.md",
+   "json": "items/buildtools/room-divider-fish-1108531204.json"
+  },
+  {
+   "id": 3460936505,
+   "name": "Room Divider \"Snake\"",
+   "page": "items/buildtools/room-divider-snake-3460936505.md",
+   "json": "items/buildtools/room-divider-snake-3460936505.json"
+  },
+  {
+   "id": 1008591425,
+   "name": "Room Divider \"Dragon\"",
+   "page": "items/buildtools/room-divider-dragon-1008591425.md",
+   "json": "items/buildtools/room-divider-dragon-1008591425.json"
+  },
+  {
+   "id": 1434999137,
+   "name": "Standing Target",
+   "page": "items/buildtools/standing-target-1434999137.md",
+   "json": "items/buildtools/standing-target-1434999137.json"
+  },
+  {
+   "id": 3685057724,
+   "name": "Training Doll I",
+   "page": "items/buildtools/training-doll-i-3685057724.md",
+   "json": "items/buildtools/training-doll-i-3685057724.json"
+  },
+  {
+   "id": 843297444,
+   "name": "Training Doll II",
+   "page": "items/buildtools/training-doll-ii-843297444.md",
+   "json": "items/buildtools/training-doll-ii-843297444.json"
+  },
+  {
+   "id": 2505765670,
+   "name": "Training Doll III",
+   "page": "items/buildtools/training-doll-iii-2505765670.md",
+   "json": "items/buildtools/training-doll-iii-2505765670.json"
+  },
+  {
+   "id": 4212724325,
+   "name": "Statue of Pikemead",
+   "page": "items/buildtools/statue-of-pikemead-4212724325.md",
+   "json": "items/buildtools/statue-of-pikemead-4212724325.json"
+  },
+  {
+   "id": 3307829786,
+   "name": "Fine Wooden Fence",
+   "page": "items/buildtools/fine-wooden-fence-3307829786.md",
+   "json": "items/buildtools/fine-wooden-fence-3307829786.json"
+  },
+  {
+   "id": 760996732,
+   "name": "Fine Wooden Handrail",
+   "page": "items/buildtools/fine-wooden-handrail-760996732.md",
+   "json": "items/buildtools/fine-wooden-handrail-760996732.json"
+  },
+  {
+   "id": 4080829941,
+   "name": "Fine Wooden Fence Pole",
+   "page": "items/buildtools/fine-wooden-fence-pole-4080829941.md",
+   "json": "items/buildtools/fine-wooden-fence-pole-4080829941.json"
+  },
+  {
+   "id": 4140714720,
+   "name": "T2 explorer boots",
+   "page": "items/equipment/t2-explorer-boots-4140714720.md",
+   "json": "items/equipment/t2-explorer-boots-4140714720.json"
+  },
+  {
+   "id": 3664044083,
+   "name": "T2 explorer legs",
+   "page": "items/equipment/t2-explorer-legs-3664044083.md",
+   "json": "items/equipment/t2-explorer-legs-3664044083.json"
+  },
+  {
+   "id": 2375429314,
+   "name": "T2 explorerArms",
+   "page": "items/equipment/t2-explorerarms-2375429314.md",
+   "json": "items/equipment/t2-explorerarms-2375429314.json"
+  },
+  {
+   "id": 2140158419,
+   "name": "T2 explorer chest",
+   "page": "items/equipment/t2-explorer-chest-2140158419.md",
+   "json": "items/equipment/t2-explorer-chest-2140158419.json"
+  },
+  {
+   "id": 723826501,
+   "name": "T2 explorer helmet",
+   "page": "items/equipment/t2-explorer-helmet-723826501.md",
+   "json": "items/equipment/t2-explorer-helmet-723826501.json"
+  },
+  {
+   "id": 2247014936,
+   "name": "Drum",
+   "page": "items/buildtools/drum-2247014936.md",
+   "json": "items/buildtools/drum-2247014936.json"
+  },
+  {
+   "id": 1892437103,
+   "name": "Lute",
+   "page": "items/buildtools/lute-1892437103.md",
+   "json": "items/buildtools/lute-1892437103.json"
+  },
+  {
+   "id": 3777469353,
+   "name": "Large Ornamented Wooden Cabinet",
+   "page": "items/buildtools/large-ornamented-wooden-cabinet-3777469353.md",
+   "json": "items/buildtools/large-ornamented-wooden-cabinet-3777469353.json"
+  },
+  {
+   "id": 120961786,
+   "name": "Small Ornamented Wooden Cabinet",
+   "page": "items/buildtools/small-ornamented-wooden-cabinet-120961786.md",
+   "json": "items/buildtools/small-ornamented-wooden-cabinet-120961786.json"
+  },
+  {
+   "id": 93557059,
+   "name": "Large Ornamented Wooden Cupboard",
+   "page": "items/buildtools/large-ornamented-wooden-cupboard-93557059.md",
+   "json": "items/buildtools/large-ornamented-wooden-cupboard-93557059.json"
+  },
+  {
+   "id": 2071955966,
+   "name": "Small Ornamented Wooden Cupboard",
+   "page": "items/buildtools/small-ornamented-wooden-cupboard-2071955966.md",
+   "json": "items/buildtools/small-ornamented-wooden-cupboard-2071955966.json"
+  },
+  {
+   "id": 3695698000,
+   "name": "Showcase Fossiles 3 small slots",
+   "page": "items/buildtools/showcase-fossiles-3-small-slots-3695698000.md",
+   "json": "items/buildtools/showcase-fossiles-3-small-slots-3695698000.json"
+  },
+  {
+   "id": 3384008596,
+   "name": "Showcase Fossiles 3 small 2 medium slots",
+   "page": "items/buildtools/showcase-fossiles-3-small-2-medium-slots-3384008596.md",
+   "json": "items/buildtools/showcase-fossiles-3-small-2-medium-slots-3384008596.json"
+  },
+  {
+   "id": 2214332309,
+   "name": "Showcase Fossiles 2 small slots",
+   "page": "items/buildtools/showcase-fossiles-2-small-slots-2214332309.md",
+   "json": "items/buildtools/showcase-fossiles-2-small-slots-2214332309.json"
+  },
+  {
+   "id": 2952678297,
+   "name": "Showcase Fossiles 2 medium slots",
+   "page": "items/buildtools/showcase-fossiles-2-medium-slots-2952678297.md",
+   "json": "items/buildtools/showcase-fossiles-2-medium-slots-2952678297.json"
+  },
+  {
+   "id": 2564145075,
+   "name": "Showcase Skeletons 3 small and 2 medium slots",
+   "page": "items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.md",
+   "json": "items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.json"
+  },
+  {
+   "id": 3034421283,
+   "name": "Showcase Skeletons 3 small slots",
+   "page": "items/buildtools/showcase-skeletons-3-small-slots-3034421283.md",
+   "json": "items/buildtools/showcase-skeletons-3-small-slots-3034421283.json"
+  },
+  {
+   "id": 3512248515,
+   "name": "Showcase Skeletons 2 small slots",
+   "page": "items/buildtools/showcase-skeletons-2-small-slots-3512248515.md",
+   "json": "items/buildtools/showcase-skeletons-2-small-slots-3512248515.json"
+  },
+  {
+   "id": 1992539715,
+   "name": "Showcase Skeletons 2 medium slots",
+   "page": "items/buildtools/showcase-skeletons-2-medium-slots-1992539715.md",
+   "json": "items/buildtools/showcase-skeletons-2-medium-slots-1992539715.json"
+  },
+  {
+   "id": 1713893066,
+   "name": "Showcase Skeletons 1 large slot",
+   "page": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.md",
+   "json": "items/buildtools/showcase-skeletons-1-large-slot-1713893066.json"
+  },
+  {
+   "id": 171960142,
+   "name": "PikeMeadStatue Showcase",
+   "page": "items/buildtools/pikemeadstatue-showcase-171960142.md",
+   "json": "items/buildtools/pikemeadstatue-showcase-171960142.json"
+  },
+  {
+   "id": 2847426289,
+   "name": "Jump Pad High",
+   "page": "items/buildtools/jump-pad-high-2847426289.md",
+   "json": "items/buildtools/jump-pad-high-2847426289.json"
+  },
+  {
+   "id": 1412155513,
+   "name": "Jump Pad Medium",
+   "page": "items/buildtools/jump-pad-medium-1412155513.md",
+   "json": "items/buildtools/jump-pad-medium-1412155513.json"
+  },
+  {
+   "id": 2718386496,
+   "name": "Door chinese New Year",
+   "page": "items/buildtools/door-chinese-new-year-2718386496.md",
+   "json": "items/buildtools/door-chinese-new-year-2718386496.json"
+  },
+  {
+   "id": 517818801,
+   "name": "Fine Hardwood Door",
+   "page": "items/buildtools/fine-hardwood-door-517818801.md",
+   "json": "items/buildtools/fine-hardwood-door-517818801.json"
+  },
+  {
+   "id": 3012628405,
+   "name": "Ornamented Wooden Door",
+   "page": "items/buildtools/ornamented-wooden-door-3012628405.md",
+   "json": "items/buildtools/ornamented-wooden-door-3012628405.json"
+  }
+ ],
+ "page": "items/materials/hardwood-1765656585.md"
+}

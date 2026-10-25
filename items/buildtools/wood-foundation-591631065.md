@@ -17,4 +17,4 @@ This tool can only be used inside the building area around an Altar. It can help
 
 ---
 
-[← Building](../../categories/buildtools.md) · [All categories](../../README.md)
+[← Building](../../categories/buildtools.md) · [All categories](../../README.md) · [JSON](wood-foundation-591631065.json)

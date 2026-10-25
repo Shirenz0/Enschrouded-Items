@@ -1,0 +1,35 @@
+{
+ "name": "Ethereal Plane",
+ "category": "Equipment",
+ "image": "images/icons/2418290854.png",
+ "versions": 2,
+ "sharedTexts": [
+  "description"
+ ],
+ "differsIn": [],
+ "items": [
+  {
+   "id": 1811997178,
+   "name": "Ethereal Plane",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/1811997178.png",
+   "page": "items/equipment/ethereal-plane-1811997178.md",
+   "json": "items/equipment/ethereal-plane-1811997178.json",
+   "maxStack": 1,
+   "ownTexts": []
+  },
+  {
+   "id": 2418290854,
+   "name": "Ethereal Plane",
+   "rarity": "Rare",
+   "level": "20",
+   "image": "images/icons/2418290854.png",
+   "page": "items/equipment/ethereal-plane-2418290854.md",
+   "json": "items/equipment/ethereal-plane-2418290854.json",
+   "maxStack": 1,
+   "ownTexts": []
+  }
+ ],
+ "page": "objects/equipment/ethereal-plane.md"
+}

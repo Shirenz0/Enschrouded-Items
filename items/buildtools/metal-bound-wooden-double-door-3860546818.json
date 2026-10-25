@@ -1,0 +1,43 @@
+{
+ "id": 3860546818,
+ "name": "Metal Bound Wooden Double Door",
+ "internalName": "_Prop_Decoration_TX_Door_Wood_Metal_bound_Double",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/3860546818.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 2940882801,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 2,
+     "item": {
+      "id": 712610487,
+      "name": "Metal Bound Wooden Door",
+      "page": "items/buildtools/metal-bound-wooden-door-712610487.md",
+      "json": "items/buildtools/metal-bound-wooden-door-712610487.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/metal-bound-wooden-double-door-3860546818.md"
+}

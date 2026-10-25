@@ -1,0 +1,61 @@
+{
+ "id": 4212724325,
+ "name": "Statue of Pikemead",
+ "internalName": "Prop_Decoration_T2_Statue_pikemeadStatue",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Epic",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 20,
+ "image": "images/icons/4212724325.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A statue of the late queen Pikemead. An Ingraving reads: Gather 'round, we're drinkin'! An ode to the Queen, once young! 3 babes on 'er arm, cup filled to the brim. Thinkin' out loud, she sung!",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 1996699913,
+   "station": "Carpenter Decoration Workbench",
+   "inputs": [
+    {
+     "count": 15,
+     "item": {
+      "id": 1181280513,
+      "name": "Deepforest Stone",
+      "page": "items/materials/deepforest-stone-1181280513.md",
+      "json": "items/materials/deepforest-stone-1181280513.json"
+     }
+    },
+    {
+     "count": 15,
+     "item": {
+      "id": 1586398842,
+      "name": "Flintstone",
+      "page": "items/materials/flintstone-1586398842.md",
+      "json": "items/materials/flintstone-1586398842.json"
+     }
+    },
+    {
+     "count": 30,
+     "item": {
+      "id": 1765656585,
+      "name": "Hardwood",
+      "page": "items/materials/hardwood-1765656585.md",
+      "json": "items/materials/hardwood-1765656585.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/statue-of-pikemead-4212724325.md"
+}

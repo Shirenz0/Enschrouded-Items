@@ -1,0 +1,52 @@
+{
+ "id": 2655579347,
+ "name": "Ancient Night Door",
+ "internalName": "_Prop_Decoration_T7_Door_Ancient_NightDoor",
+ "category": {
+  "id": "BuildTools",
+  "title": "Building",
+  "page": "categories/buildtools.md",
+  "json": "categories/buildtools.json"
+ },
+ "rarity": "Common",
+ "level": {
+  "min": 0,
+  "max": 0
+ },
+ "maxStack": 50,
+ "image": "images/icons/2655579347.png",
+ "placeholderImage": null,
+ "caption": null,
+ "description": "A decorative object to design and beautify yout home.",
+ "lore": "Furniture",
+ "whereToFind": null,
+ "object": null,
+ "recipes": [
+  {
+   "recipeId": 212814366,
+   "station": "Carpenter",
+   "inputs": [
+    {
+     "count": 100,
+     "item": {
+      "id": 688801496,
+      "name": "Moonshine and Stars Block",
+      "page": "items/buildtools/moonshine-and-stars-block-688801496.md",
+      "json": "items/buildtools/moonshine-and-stars-block-688801496.json"
+     }
+    },
+    {
+     "count": 5,
+     "item": {
+      "id": 2670118573,
+      "name": "Ancient/Archaic Infusion",
+      "page": "items/materials/ancient-archaic-infusion-2670118573.md",
+      "json": "items/materials/ancient-archaic-infusion-2670118573.json"
+     }
+    }
+   ],
+   "outputCount": 1
+  }
+ ],
+ "page": "items/buildtools/ancient-night-door-2655579347.md"
+}
