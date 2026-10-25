@@ -1,6 +1,6 @@
 # Improved Grappling Hook
 
-<img src="../../images/categories/tools.svg" alt="Improved Grappling Hook" width="160">
+<img src="../../images/icons/1789305300.png" alt="Improved Grappling Hook" width="160">
 
 | | |
 |---|---|

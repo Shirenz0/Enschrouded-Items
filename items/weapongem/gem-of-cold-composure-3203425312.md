@@ -1,6 +1,6 @@
 # Gem of Cold Composure
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Cold Composure" width="160">
+<img src="../../images/icons/3203425312.png" alt="Gem of Cold Composure" width="160">
 
 | | |
 |---|---|

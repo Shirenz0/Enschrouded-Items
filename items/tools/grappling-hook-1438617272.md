@@ -1,6 +1,6 @@
 # Grappling Hook
 
-<img src="../../images/categories/tools.svg" alt="Grappling Hook" width="160">
+<img src="../../images/icons/1438617272.png" alt="Grappling Hook" width="160">
 
 | | |
 |---|---|

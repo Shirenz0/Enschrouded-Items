@@ -1,6 +1,6 @@
 # Shroud Lair Axe
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Axe" width="160">
+<img src="../../images/icons/1947635377.png" alt="Shroud Lair Axe" width="160">
 
 | | |
 |---|---|

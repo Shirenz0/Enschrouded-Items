@@ -1,6 +1,6 @@
 # Monstrosity Head
 
-<img src="../../images/categories/materials.svg" alt="Monstrosity Head" width="160">
+<img src="../../images/icons/1138733565.png" alt="Monstrosity Head" width="160">
 
 | | |
 |---|---|

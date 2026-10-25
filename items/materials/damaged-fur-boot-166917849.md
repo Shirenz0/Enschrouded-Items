@@ -1,6 +1,6 @@
 # Damaged Fur Boot
 
-<img src="../../images/categories/materials.svg" alt="Damaged Fur Boot" width="160">
+<img src="../../images/icons/166917849.png" alt="Damaged Fur Boot" width="160">
 
 | | |
 |---|---|

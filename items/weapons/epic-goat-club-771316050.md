@@ -1,6 +1,6 @@
 # Epic goat club
 
-<img src="../../images/categories/weapons.svg" alt="Epic goat club" width="160">
+<img src="../../images/icons/771316050.png" alt="Epic goat club" width="160">
 
 | | |
 |---|---|

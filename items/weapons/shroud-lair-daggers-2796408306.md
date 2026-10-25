@@ -1,6 +1,6 @@
 # Shroud Lair Daggers
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Daggers" width="160">
+<img src="../../images/icons/2796408306.png" alt="Shroud Lair Daggers" width="160">
 
 | | |
 |---|---|

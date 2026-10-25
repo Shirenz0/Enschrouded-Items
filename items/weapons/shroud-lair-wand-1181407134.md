@@ -1,6 +1,6 @@
 # Shroud Lair Wand
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Wand" width="160">
+<img src="../../images/icons/1181407134.png" alt="Shroud Lair Wand" width="160">
 
 | | |
 |---|---|

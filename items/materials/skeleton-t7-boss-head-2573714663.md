@@ -1,6 +1,6 @@
 # Skeleton T7 Boss Head
 
-<img src="../../images/categories/materials.svg" alt="Skeleton T7 Boss Head" width="160">
+<img src="../../images/icons/2573714663.png" alt="Skeleton T7 Boss Head" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gem of Corruption
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Corruption" width="160">
+<img src="../../images/icons/1073007208.png" alt="Gem of Corruption" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gem of Toxic Reaction
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Toxic Reaction" width="160">
+<img src="../../images/icons/415736304.png" alt="Gem of Toxic Reaction" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Shroud Lair Bow
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Bow" width="160">
+<img src="../../images/icons/886466633.png" alt="Shroud Lair Bow" width="160">
 
 | | |
 |---|---|

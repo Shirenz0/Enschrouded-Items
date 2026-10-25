@@ -1,6 +1,6 @@
 # Skeleton Heavy head
 
-<img src="../../images/categories/materials.svg" alt="Skeleton Heavy head" width="160">
+<img src="../../images/icons/1368893472.png" alt="Skeleton Heavy head" width="160">
 
 | | |
 |---|---|

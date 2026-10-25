@@ -1,6 +1,6 @@
 # Wetland Hollow Halls Key
 
-<img src="../../images/categories/tools.svg" alt="Wetland Hollow Halls Key" width="160">
+<img src="../../images/icons/2543839394.png" alt="Wetland Hollow Halls Key" width="160">
 
 | | |
 |---|---|

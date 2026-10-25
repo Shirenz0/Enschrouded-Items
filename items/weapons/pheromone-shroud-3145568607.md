@@ -1,6 +1,6 @@
 # Pheromone Shroud
 
-<img src="../../images/categories/weapons.svg" alt="Pheromone Shroud" width="160">
+<img src="../../images/icons/3145568607.png" alt="Pheromone Shroud" width="160">
 
 | | |
 |---|---|

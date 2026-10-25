@@ -1,6 +1,6 @@
 # Extiguished Sword
 
-<img src="../../images/categories/weapons.svg" alt="Extiguished Sword" width="160">
+<img src="../../images/icons/3502536665.png" alt="Extiguished Sword" width="160">
 
 | | |
 |---|---|

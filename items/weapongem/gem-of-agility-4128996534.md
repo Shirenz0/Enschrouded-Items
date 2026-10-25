@@ -1,6 +1,6 @@
 # Gem of Agility
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Agility" width="160">
+<img src="../../images/icons/4128996534.png" alt="Gem of Agility" width="160">
 
 | | |
 |---|---|

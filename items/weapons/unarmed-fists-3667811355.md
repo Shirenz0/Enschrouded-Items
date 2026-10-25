@@ -1,6 +1,6 @@
 # Unarmed Fists
 
-<img src="../../images/categories/weapons.svg" alt="Unarmed Fists" width="160">
+<img src="../../images/icons/3667811355.png" alt="Unarmed Fists" width="160">
 
 | | |
 |---|---|

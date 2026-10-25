@@ -1,6 +1,6 @@
 # Gem of Obsession
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Obsession" width="160">
+<img src="../../images/icons/100480458.png" alt="Gem of Obsession" width="160">
 
 | | |
 |---|---|

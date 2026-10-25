@@ -1,6 +1,6 @@
 # Gem of Lesser Necromancy
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Lesser Necromancy" width="160">
+<img src="../../images/icons/2671415350.png" alt="Gem of Lesser Necromancy" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gem of Skulls
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Skulls" width="160">
+<img src="../../images/icons/3928711197.png" alt="Gem of Skulls" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Epic Vigor Lightbound Sword
 
-<img src="../../images/categories/weapons.svg" alt="Epic Vigor Lightbound Sword" width="160">
+<img src="../../images/icons/3405497023.png" alt="Epic Vigor Lightbound Sword" width="160">
 
 | | |
 |---|---|

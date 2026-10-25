@@ -1,6 +1,6 @@
 # Gem of Swiftness
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Swiftness" width="160">
+<img src="../../images/icons/1378756449.png" alt="Gem of Swiftness" width="160">
 
 | | |
 |---|---|

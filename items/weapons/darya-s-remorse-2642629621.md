@@ -1,6 +1,6 @@
 # Darya's Remorse
 
-<img src="../../images/categories/weapons.svg" alt="Darya&#x27;s Remorse" width="160">
+<img src="../../images/icons/2642629621.png" alt="Darya&#x27;s Remorse" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Righteous Club
 
-<img src="../../images/categories/weapons.svg" alt="Righteous Club" width="160">
+<img src="../../images/icons/3534558679.png" alt="Righteous Club" width="160">
 
 | | |
 |---|---|

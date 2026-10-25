@@ -1,6 +1,6 @@
 # Gem of Soul Reaping
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Soul Reaping" width="160">
+<img src="../../images/icons/173591857.png" alt="Gem of Soul Reaping" width="160">
 
 | | |
 |---|---|

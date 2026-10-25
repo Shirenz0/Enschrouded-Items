@@ -1,6 +1,6 @@
 # Gem of Conduction
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Conduction" width="160">
+<img src="../../images/icons/3844758208.png" alt="Gem of Conduction" width="160">
 
 | | |
 |---|---|

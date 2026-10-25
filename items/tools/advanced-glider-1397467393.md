@@ -1,6 +1,6 @@
 # Advanced Glider
 
-<img src="../../images/categories/tools.svg" alt="Advanced Glider" width="160">
+<img src="../../images/icons/1397467393.png" alt="Advanced Glider" width="160">
 
 | | |
 |---|---|

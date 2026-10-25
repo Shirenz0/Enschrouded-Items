@@ -1,6 +1,6 @@
 # Climbing Claws
 
-<img src="../../images/categories/tools.svg" alt="Climbing Claws" width="160">
+<img src="../../images/icons/1549647644.png" alt="Climbing Claws" width="160">
 
 | | |
 |---|---|

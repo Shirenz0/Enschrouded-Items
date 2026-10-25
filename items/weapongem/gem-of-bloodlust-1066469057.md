@@ -1,6 +1,6 @@
 # Gem of Bloodlust
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Bloodlust" width="160">
+<img src="../../images/icons/1066469057.png" alt="Gem of Bloodlust" width="160">
 
 | | |
 |---|---|

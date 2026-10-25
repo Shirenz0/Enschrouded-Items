@@ -1,6 +1,6 @@
 # TX Greatsword HollowHalls 02
 
-<img src="../../images/categories/weapons.svg" alt="TX Greatsword HollowHalls 02" width="160">
+<img src="../../images/icons/2822724630.png" alt="TX Greatsword HollowHalls 02" width="160">
 
 | | |
 |---|---|

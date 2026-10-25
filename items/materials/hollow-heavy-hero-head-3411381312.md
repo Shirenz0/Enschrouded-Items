@@ -1,6 +1,6 @@
 # Hollow Heavy Hero Head
 
-<img src="../../images/categories/materials.svg" alt="Hollow Heavy Hero Head" width="160">
+<img src="../../images/icons/3411381312.png" alt="Hollow Heavy Hero Head" width="160">
 
 | | |
 |---|---|

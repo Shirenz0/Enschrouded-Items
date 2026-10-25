@@ -1,6 +1,6 @@
 # Sparkling Dust
 
-<img src="../../images/categories/materials.svg" alt="Sparkling Dust" width="160">
+<img src="../../images/icons/844454296.png" alt="Sparkling Dust" width="160">
 
 | | |
 |---|---|

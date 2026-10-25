@@ -1,6 +1,6 @@
 # Vorgoth Blood
 
-<img src="../../images/categories/materials.svg" alt="Vorgoth Blood" width="160">
+<img src="../../images/icons/1940778781.png" alt="Vorgoth Blood" width="160">
 
 | | |
 |---|---|

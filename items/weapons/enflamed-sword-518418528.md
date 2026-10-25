@@ -1,6 +1,6 @@
 # Enflamed Sword
 
-<img src="../../images/categories/weapons.svg" alt="Enflamed Sword" width="160">
+<img src="../../images/icons/518418528.png" alt="Enflamed Sword" width="160">
 
 | | |
 |---|---|

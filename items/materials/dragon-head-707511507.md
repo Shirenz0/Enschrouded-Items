@@ -1,6 +1,6 @@
 # Dragon Head
 
-<img src="../../images/categories/materials.svg" alt="Dragon Head" width="160">
+<img src="../../images/icons/707511507.png" alt="Dragon Head" width="160">
 
 | | |
 |---|---|

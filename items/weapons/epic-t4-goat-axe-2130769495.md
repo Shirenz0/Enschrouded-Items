@@ -1,6 +1,6 @@
 # Epic t4 goat axe
 
-<img src="../../images/categories/weapons.svg" alt="Epic t4 goat axe" width="160">
+<img src="../../images/icons/2130769495.png" alt="Epic t4 goat axe" width="160">
 
 | | |
 |---|---|

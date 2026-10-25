@@ -1,6 +1,6 @@
 # Proto Bone-Bender
 
-<img src="../../images/categories/weapons.svg" alt="Proto Bone-Bender" width="160">
+<img src="../../images/icons/1030886695.png" alt="Proto Bone-Bender" width="160">
 
 | | |
 |---|---|

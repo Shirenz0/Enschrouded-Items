@@ -1,6 +1,6 @@
 # Gem of Cleansing
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Cleansing" width="160">
+<img src="../../images/icons/312775854.png" alt="Gem of Cleansing" width="160">
 
 | | |
 |---|---|

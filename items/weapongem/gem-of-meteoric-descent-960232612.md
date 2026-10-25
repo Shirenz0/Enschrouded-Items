@@ -1,6 +1,6 @@
 # Gem of Meteoric Descent
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Meteoric Descent" width="160">
+<img src="../../images/icons/960232612.png" alt="Gem of Meteoric Descent" width="160">
 
 | | |
 |---|---|

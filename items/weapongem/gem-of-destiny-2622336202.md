@@ -1,6 +1,6 @@
 # Gem of Destiny
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Destiny" width="160">
+<img src="../../images/icons/2622336202.png" alt="Gem of Destiny" width="160">
 
 | | |
 |---|---|

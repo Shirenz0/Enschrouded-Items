@@ -1,6 +1,6 @@
 # Shroud Lair Sword
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Sword" width="160">
+<img src="../../images/icons/66688434.png" alt="Shroud Lair Sword" width="160">
 
 | | |
 |---|---|

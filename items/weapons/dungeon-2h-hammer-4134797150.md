@@ -1,6 +1,6 @@
 # Dungeon 2h Hammer
 
-<img src="../../images/categories/weapons.svg" alt="Dungeon 2h Hammer" width="160">
+<img src="../../images/icons/4134797150.png" alt="Dungeon 2h Hammer" width="160">
 
 | | |
 |---|---|

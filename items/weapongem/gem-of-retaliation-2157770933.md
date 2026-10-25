@@ -1,6 +1,6 @@
 # Gem of Retaliation
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Retaliation" width="160">
+<img src="../../images/icons/2157770933.png" alt="Gem of Retaliation" width="160">
 
 | | |
 |---|---|

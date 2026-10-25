@@ -1,6 +1,6 @@
 # Critter Crawler Bomb
 
-<img src="../../images/categories/weapons.svg" alt="Critter Crawler Bomb" width="160">
+<img src="../../images/icons/3870359442.png" alt="Critter Crawler Bomb" width="160">
 
 | | |
 |---|---|

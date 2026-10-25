@@ -19,7 +19,7 @@ Increases  stamina  by 20.",Flask,"Crafting, Alchemist",Consumables,Uncommon,20,
 Gain a small amount of Experience upon absorption of the content.",,,Consumables,Uncommon,20,0,0,images/icons/1212732429.png
 2687604137,Consumable_Scroll_Prayer_To_The_Vukah_Buff,Prayer To The Vukahs,,"Offers a prayer to the ancient Vukahs. If answered, the user receives their blessing.","A tiny flame, a tiny light
 banishes the darkness and all it's blight",,Consumables,Rare,20,0,0,images/icons/2687604137.png
-2283229289,Consumable_Grenade_Explosive_PowderBall_T1,Explosive Powder Ball,,A throwable explosive with astounding power!,Level 1 KABOOM!,Manual Crafting,Weapons,Common,20,10,10,
+2283229289,Consumable_Grenade_Explosive_PowderBall_T1,Explosive Powder Ball,,A throwable explosive with astounding power!,Level 1 KABOOM!,Manual Crafting,Weapons,Common,20,10,10,images/icons/2283229289.png
 823453977,Consumable_Scroll_Fire_Wisp_T4_Lvl27,Summoning Of A Fire Wisp,,"In the old times a popular tool to expand ones power.
 
 The Scroll summons a Fire Wisp that follows, assists you in battle and spends light.",,,Consumables,Rare,20,27,27,images/icons/823453977.png
@@ -53,8 +53,8 @@ Extends the fog survivability after consumption by 4 Minutes. This effect will l
 2553641502,Consumable_Toy_Confetti_02_Yellow_Mortar_WIP,Yellow Confetti Mortar,,Alchemy! ,Consumables,,BuildTools,Common,20,0,0,images/icons/2553641502.png
 3422704366,Consumable_Toy_Confetti_03_Red_Mortar_WIP,Red Confetti Mortar,,Alchemy! ,Consumables,,BuildTools,Common,20,0,0,images/icons/3422704366.png
 3377002158,Consumable_RepairKit_T3,Repair Kit,,Repair your equipment on the go. Continously restores durability with every tick.,,"Crafting, Huntress",Consumables,Rare,10,0,0,images/icons/3377002158.png
-3145568607,_Consumable_ShroudPheromone_Grenade_T3,Pheromone Shroud,,Throw to attract the fell.,,"Crafting, Alchemist",Weapons,Uncommon,20,20,20,
-3870359442,Consumable_CritterCrawler_Bomb_Grenade_T5,Critter Crawler Bomb,,Throw to send of an explosive critter crawler,,"Crafting, Alchemist",Weapons,Uncommon,20,35,35,
+3145568607,_Consumable_ShroudPheromone_Grenade_T3,Pheromone Shroud,,Throw to attract the fell.,,"Crafting, Alchemist",Weapons,Uncommon,20,20,20,images/icons/3145568607.png
+3870359442,Consumable_CritterCrawler_Bomb_Grenade_T5,Critter Crawler Bomb,,Throw to send of an explosive critter crawler,,"Crafting, Alchemist",Weapons,Uncommon,20,35,35,images/icons/3870359442.png
 1518794687,Consumable_Potion_Antidote_RemoveShroudCurse,Shroud Curse Cleanser,,Removes the Shroud Curse.,,Manual Crafting,Consumables,Common,20,0,0,images/icons/1518794687.png
 1410921691,Consumable_Potion_Antidote_Hemotoxication,Hemotoxication Antidode,,Removes Hemotoxication Sickness.,,Manual Crafting,Consumables,Common,20,0,0,images/icons/1410921691.png
 2949322768,_Consumable_Potion_Health_T1_HoT,Health Potion improved,,Restores some Health instantly and provides an additional healing over time effect for 10 seconds.,Level 5 Potion,"Crafting, Alchemist",Consumables,Common,20,0,0,images/icons/2949322768.png
@@ -160,18 +160,18 @@ Burned wood mixed with oxygen creates a flammable material, highly convenient an
 4079068070,Material_T4_Scales,Sanddigger Scales,,Hardened scales of the Sanddigger. Some say they are as hard as stone.,,Kindlewastes,Materials,Common,250,25,25,images/icons/4079068070.png
 2206878080,Material_T4_Nitrate,Nitrate,,An alchemical acid used to create explosive substances.,,"Crafting, Laboratory",Materials,Common,250,25,25,images/icons/2206878080.png
 1828629573,Material_T4_Black_Powder,Black Powder,,A dangerous alchemical substance used to produce explosives. Better watch out! It goes Boom. ,,"Crafting, Laboratory",Materials,Common,250,25,25,images/icons/1828629573.png
-1138733565,Material_TX_Trophy_Fell_Monstrosity_head,Monstrosity Head,,"It grasps at anything. Hope, despair, loneliness... anything to fill the void.",,,Materials,Epic,50,0,0,
-707511507,Material_TX_Trophy_Fell_LizardBoss_head,Dragon Head,,"It used to skim the waters near pikemeads reach with its brood, but soon became enshrouded as the land became corrupted.",,,Materials,Epic,50,0,0,
-2339068671,Material_TX_Trophy_Vukah_head,Small Boss Trophy Vukah,,The tusks are still quite dangerous as they don't dull after death. Never stumble!,,,Materials,Epic,50,0,0,
-3438055168,Material_TX_Trophy_Fell_Mage_head,Mage Head,,There's still a faint  glow behind it's eyes. Hopefully they won't follow your every move.,,,Materials,Epic,50,0,0,
-3574383404,Material_TX_Trophy_Scavenger_mage_head,Scavenger Head,,"She is less fearsome when headless. Still has an acidic scent, however.",,,Materials,Epic,50,0,0,
-2710616938,Material_TX_Trophy_Fell_Heavy_head,Heavy Head,,Even the head alone is heavy.,,,Materials,Rare,50,0,0,
+1138733565,Material_TX_Trophy_Fell_Monstrosity_head,Monstrosity Head,,"It grasps at anything. Hope, despair, loneliness... anything to fill the void.",,,Materials,Epic,50,0,0,images/icons/1138733565.png
+707511507,Material_TX_Trophy_Fell_LizardBoss_head,Dragon Head,,"It used to skim the waters near pikemeads reach with its brood, but soon became enshrouded as the land became corrupted.",,,Materials,Epic,50,0,0,images/icons/707511507.png
+2339068671,Material_TX_Trophy_Vukah_head,Small Boss Trophy Vukah,,The tusks are still quite dangerous as they don't dull after death. Never stumble!,,,Materials,Epic,50,0,0,images/icons/2339068671.png
+3438055168,Material_TX_Trophy_Fell_Mage_head,Mage Head,,There's still a faint  glow behind it's eyes. Hopefully they won't follow your every move.,,,Materials,Epic,50,0,0,images/icons/3438055168.png
+3574383404,Material_TX_Trophy_Scavenger_mage_head,Scavenger Head,,"She is less fearsome when headless. Still has an acidic scent, however.",,,Materials,Epic,50,0,0,images/icons/3574383404.png
+2710616938,Material_TX_Trophy_Fell_Heavy_head,Heavy Head,,Even the head alone is heavy.,,,Materials,Rare,50,0,0,images/icons/2710616938.png
 661026568,Material_T1_Animal_Fur_Patch,Fur Patch,,A small shred of animal fur. ,,,Materials,Common,250,5,5,images/icons/661026568.png
 2610555646,Material_T1_OldBooks,Old Books,,A stack of old parchments. Worn and Torn by the ravages of time. Maybe a wise man will be able to salvage something from the remnants. ,,,Materials,Common,250,5,5,images/icons/2610555646.png
 1765656585,Material_T2_Wood_Hardwood,Hardwood,,The byproducts of felling a tree. Just be careful that it doesn't fall on the head!,,Revelwood,Materials,Common,250,13,13,images/icons/1765656585.png
 1453689781,Material_T3_Green_Essence,T3 Green essence,,T3 Green Essence desc,,"Nomad Highlands, Hollow Halls",Materials,Common,500,18,18,images/icons/1453689781.png
 2956062198,Material_T2_Giant_Bones,Giant bones,,The eartly remains of a big Skelleton. ,,"Hollow Cyclops, First: Revelwood Hollow Halls",Materials,Uncommon,250,13,13,images/icons/2956062198.png
-1368893472,Material_TX_Trophy_Skeleton_Heavy_head,Skeleton Heavy head,,Why does it only have one eye???,,,Materials,Epic,50,0,0,
+1368893472,Material_TX_Trophy_Skeleton_Heavy_head,Skeleton Heavy head,,Why does it only have one eye???,,,Materials,Epic,50,0,0,images/icons/1368893472.png
 2530601241,Material_T1_Red_Marble_Fragment,Red Marble fragment,,"This might look simple, but if processed can turn into something beautiful. ",,Hollow Halls and Albaneve Summits,Materials,Common,500,5,5,images/icons/2530601241.png
 3953523416,Material_T1_KryptCrystal,Krypt Krystal,,A green crystal glowing with magic. ,,"Crafting, Collector",Materials,Common,250,5,5,images/icons/3953523416.png
 2149011961,Material_T2_GlowDirt_Green,Glow Dirt Green,,A green glwoing dirt ,,"Crafting, Ectoplasm Press",Materials,Common,250,18,18,images/icons/2149011961.png
@@ -181,7 +181,7 @@ Burned wood mixed with oxygen creates a flammable material, highly convenient an
 291752398,Material_T2_Reptile_Leather,Reptile Leather,,"A sturdy material, which can be used in tailoring. ",,"Crafting, Drying Rack",Materials,Common,250,13,13,images/icons/291752398.png
 2837376937,Material_T5_Wool,Wool,,Wool Desc,,Spinning Machine,Materials,Common,250,33,33,images/icons/2837376937.png
 1475408789,Material_T5_Wood_Logs_Pine,Conifer Logs,,Conifer Logs Desc,,Albaneve Summits,Materials,Common,250,33,33,images/icons/1475408789.png
-2310197711,Material_TX_Trophy_Cyclops_head,Trophy Cyclops,,trophy cyclpos desc,,,Materials,Epic,50,0,0,
+2310197711,Material_TX_Trophy_Cyclops_head,Trophy Cyclops,,trophy cyclpos desc,,,Materials,Epic,50,0,0,images/icons/2310197711.png
 887761434,Material_T5_FlammableGoo,Flammable Goo,,A sticky and highly flamable substance. Handle with care!,,"Crafting, Laboratory",Materials,Common,250,33,33,images/icons/887761434.png
 649108902,Material_T3_Antiseptic,Antiseptic,,A medical solution that can clean wounds curing all active <b>poison</b> status effects.,,"Crafting, Alchemy Station",Materials,Uncommon,250,16,16,images/icons/649108902.png
 1782638906,Material_T1_Fognest_Ressource,Fog Goo 01,,"A radiant whirl of energy that is needed to insert gems into weaponry. 
@@ -273,16 +273,16 @@ While initially used by the Ancients, it was claimed by the Fell to fuel their b
 866649871,Material_T6_LizardScales,Drak Scales,,Drak Scales t6 desc,,"Enemies, Wetland",Materials,Common,250,40,40,images/icons/866649871.png
 345631469,Material_TX_Trophy_Drak_Heavy_head,Hydrak'Dal Head,,"The severed head of a leader from the Drak'Dal tribe. You've severed this one, but in it's place two new ones will form. 
 
-Collect multiple Cyclops Heads to craft the Trophy.",,,Materials,Epic,50,0,0,
+Collect multiple Cyclops Heads to craft the Trophy.",,,Materials,Epic,50,0,0,images/icons/345631469.png
 4114143627,Material_T6_Iron_Dust,Iron Dust,,t6 Iron dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/4114143627.png
 4248468545,Material_T6_LizardBlood,Drak Blood,,Drak Blood t6 desc. (will be more purple-ish),,"Enemies, Wetland",Materials,Common,250,40,40,images/icons/4248468545.png
 1887186828,Material_T6_Shroud_Sludge,Shroud Sludge,,"A very sludgy substance, but what else would you expect when mixing slime (t6 shroud slime) and jelly(t3 shroud jelly)?",,"Crafting, Alchemist",Materials,Common,250,40,40,images/icons/1887186828.png
 3895216255,Material_T5_Giant_Bones,Giant Ice Bones,,These things are bone-chilling.,,"Enemies, Albaneve Summits Hollow Halls",Materials,Uncommon,250,33,33,images/icons/3895216255.png
 2632607216,Material_T6_Poison_Sting,Poison Sting,,A poisonous sting t6 desc,,Veilwater Basin Enemies and Cinder's Cradle Crops,Materials,Common,250,40,40,images/icons/2632607216.png
 1283252179,Material_T6_Wood_Logs_Tropical,Tropical Wood,,"Tropical wood, resource from very large/tall trees, sturdy material",,Veilwater Basin,Materials,Common,250,40,40,images/icons/1283252179.png
-3411381312,_Material_TX_Trophy_Skeleton_Heavy_Hero_head,Hollow Heavy Hero Head,,Hollow Heavy Hero head desc,,,Materials,Epic,50,0,0,
+3411381312,_Material_TX_Trophy_Skeleton_Heavy_Hero_head,Hollow Heavy Hero Head,,Hollow Heavy Hero head desc,,,Materials,Epic,50,0,0,images/icons/3411381312.png
 2720721975,Material_T6_Fish_ElectricOrgan,Electric organ,,t6 electric organ description - can be used to craft some spells,,Fisher,Materials,Common,250,40,40,images/icons/2720721975.png
-166917849,_Material_TX_Damaged_FurBoot_Fishing,Damaged Fur Boot,,damged fur boot - looks like a fur patch.,,Fishing,Materials,Common,500,1,1,
+166917849,_Material_TX_Damaged_FurBoot_Fishing,Damaged Fur Boot,,damged fur boot - looks like a fur patch.,,Fishing,Materials,Common,500,1,1,images/icons/166917849.png
 545888475,Material_T6_Fish_Bone_Teeth_Dust,Piscine Ivory Dust,,"Piscine Ivory, often called the ivory of the sea, ground into a bright powder. Renowned for its strength and resilience, it can even serve as a component in metal alloys, lending them exceptional robustness.",,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/545888475.png
 148404293,Material_T5_SlurpBroth,Exceptional Ectoplasm,,t5 slurp broth desc,,"Crafting, Ectoplasm Press",Materials,Uncommon,250,35,35,images/icons/148404293.png
 1506592036,Material_T6_SlurpBroth,Extraordinary Ectoplasm,,t6 slurp broth desc,,"Crafting, Ectoplasm Press",Materials,Uncommon,250,40,40,images/icons/1506592036.png
@@ -291,8 +291,8 @@ Collect multiple Cyclops Heads to craft the Trophy.",,,Materials,Epic,50,0,0,
 2035945146,Material_T7_Celesthium_Ore,Celesthium Ore,,celesthium ore desc,,Ancient Land,Materials,Common,250,45,45,images/icons/2035945146.png
 2893592883,Material_T7_Celesthium_Bar,Celesthium Bars,,t7 Celesthium Bars desc,,Blast Furnace,Materials,Common,250,45,45,images/icons/2893592883.png
 1725874983,Material_T7_Diamond_Dust,Diamond Dust,,diamond dust desc,,"Crafting, Improved Grinder",Materials,Common,250,45,45,images/icons/1725874983.png
-4078086541,Material_T7_Moonstone_Dust,Moonstone Dust,,Moonstone Dust,,"Crafting, Improved Grinder",Materials,Common,250,45,45,
-844454296,Material_T7_Sparkling_Dust,Sparkling Dust,,Sparkling Dust,,"Crafting, Improved Grinder",Materials,Common,250,45,45,
+4078086541,Material_T7_Moonstone_Dust,Moonstone Dust,,Moonstone Dust,,"Crafting, Improved Grinder",Materials,Common,250,45,45,images/icons/4078086541.png
+844454296,Material_T7_Sparkling_Dust,Sparkling Dust,,Sparkling Dust,,"Crafting, Improved Grinder",Materials,Common,250,45,45,images/icons/844454296.png
 2135602472,Material_T7_Fognest_Ressource,Fog Goo 07 Archaic Essence VII,,"A radiant whirl of energy that is needed to insert gems into weaponry. 
 
 While initially used by the Ancients, it was claimed by the Fell to fuel their brood until you freed it from its newly organic prison. ",,"Ancient Land Shroud, Shroud Lairs",Materials,Common,500,45,45,images/icons/2135602472.png
@@ -302,17 +302,17 @@ While initially used by the Ancients, it was claimed by the Fell to fuel their b
 3975408930,Material_T1_raw_dish_GrainSkewer,Raw Meat and Corncob Skewer,,"A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will increase your <b>melee damage, boost your maximum health and accelerate your health regeneration.</b>",,Manual Crafting,Materials,Common,250,5,5,images/icons/3975408930.png
 2335785241,Material_T1_raw_dish_MushroomSkewer,Raw Meat and Mushroom Skewer,,"This mushroom skewer will not only strength your flesh, but ylso your mind. Grilled over a fire, it will raise your <b>maximum health, maximum mana and accelerates your mana regeneration.</b>",,Manual Crafting,Materials,Common,250,5,5,images/icons/2335785241.png
 3984646053,Material_T1_raw_dish_VegetableSkewer,Raw Meat and Tomato Skewer,,"A hunter's favorite ration, crafted for precision. After you've grilled it over a fire, it will grant you <b>more maximum health, increase your ranged and dagger damage and expand your maximum stamina.</b>",,Manual Crafting,Materials,Common,250,5,5,images/icons/3984646053.png
-1285378490,_Material_TX_Trophy_Wolf_Heavy_head,Wolf Heavy Head,,The head of the wolf heavy enemy.,,,Materials,Epic,50,0,0,
-800792662,_Material_TX_Trophy_Fell_Heavy_Berserker_head,Fell Well Heavy Head,,The head of the fell well heavy enemy,,,Materials,Epic,50,0,0,
-2573714663,Material_TX_Trophy_Skeleton_Lizard_Boss_head,Skeleton T7 Boss Head,,Skeleton T7 Boss Head des,,,Materials,Epic,50,0,0,
+1285378490,_Material_TX_Trophy_Wolf_Heavy_head,Wolf Heavy Head,,The head of the wolf heavy enemy.,,,Materials,Epic,50,0,0,images/icons/1285378490.png
+800792662,_Material_TX_Trophy_Fell_Heavy_Berserker_head,Fell Well Heavy Head,,The head of the fell well heavy enemy,,,Materials,Epic,50,0,0,images/icons/800792662.png
+2573714663,Material_TX_Trophy_Skeleton_Lizard_Boss_head,Skeleton T7 Boss Head,,Skeleton T7 Boss Head des,,,Materials,Epic,50,0,0,images/icons/2573714663.png
 234899173,Material_T7_LavaPlant_Magma_Gel,Magma Gel,,"This gel cures to an incredibly hard consistency and can therefore be used as a coating. In addition, this gel appears to be capable of generating heat internally. (wip)",,Ancient Land,Materials,Common,250,45,45,images/icons/234899173.png
 2670118573,Material_T7_Ancient_Infusion,Ancient/Archaic Infusion,,this ancient infusion is created from exclusive ancient materials and holds extraterrestrial abilities(?) the ancient researcher npc can use it and create magical things with it for you.,,Magic Infusion Station,Materials,Common,250,45,45,images/icons/2670118573.png
-3553538325,Material_T7_WildBeast_Scales,Wildbeast Scales (Scorpion and maybe SandDigger),,"Wildbeast scales, ver strudy and robust, can even withstand lava",,"Enemies, Ancientland",Materials,Common,250,40,40,
-4036190833,_Material_TX_Trophy_Vorgoth_Eye_head,Vorgoth Eye,,crazy huge vorgoth corrupted eye,,,Materials,Epic,50,0,0,
-2477070271,_Material_TX_Trophy_Ancient_Construct_Heavy_head,Ancient Construct: Heavy Head,,head or eye from the ancient construct heavy desc,,,Materials,Epic,50,0,0,
-1725685196,_Material_TX_Trophy_Fell_Red_Critter_Queen_head,Red Fell Critter Queen Head,,Red Fell Critter Queen head desc,,,Materials,Epic,50,0,0,
-1353828797,_Material_TX_Trophy_Fell_Critter_Queen_head,Fell Critter Queen Head,,the head of a Fell Critter Queen description,,,Materials,Epic,50,0,0,
-1940778781,Material_T7_Vorgoth_Blood,Vorgoth Blood,,"the essence of lord vorgoth, it can be used to craft his armor",,,Materials,Common,250,45,45,
+3553538325,Material_T7_WildBeast_Scales,Wildbeast Scales (Scorpion and maybe SandDigger),,"Wildbeast scales, ver strudy and robust, can even withstand lava",,"Enemies, Ancientland",Materials,Common,250,40,40,images/icons/3553538325.png
+4036190833,_Material_TX_Trophy_Vorgoth_Eye_head,Vorgoth Eye,,crazy huge vorgoth corrupted eye,,,Materials,Epic,50,0,0,images/icons/4036190833.png
+2477070271,_Material_TX_Trophy_Ancient_Construct_Heavy_head,Ancient Construct: Heavy Head,,head or eye from the ancient construct heavy desc,,,Materials,Epic,50,0,0,images/icons/2477070271.png
+1725685196,_Material_TX_Trophy_Fell_Red_Critter_Queen_head,Red Fell Critter Queen Head,,Red Fell Critter Queen head desc,,,Materials,Epic,50,0,0,images/icons/1725685196.png
+1353828797,_Material_TX_Trophy_Fell_Critter_Queen_head,Fell Critter Queen Head,,the head of a Fell Critter Queen description,,,Materials,Epic,50,0,0,images/icons/1353828797.png
+1940778781,Material_T7_Vorgoth_Blood,Vorgoth Blood,,"the essence of lord vorgoth, it can be used to craft his armor",,,Materials,Common,250,45,45,images/icons/1940778781.png
 4040557403,Material_T7_Fish_Scales,Fish Scales,,The scales are still warm when removed from the fish. They never fully cool and are popular under fire mages for obvious reasons.,,Fisher,Materials,Common,250,45,45,images/icons/4040557403.png
 3610183331,Material_T7_Fish_Poison_Gland,Fish Poison Gland,,Potent in small doses. A staple ingredient for poison-based concoctions.,,Fisher,Materials,Common,250,45,45,images/icons/3610183331.png
 1178468623,Material_T2_raw_dish_MushroomSkewer,Raw Meat and Azure Russula Skewer,,"This mushroom skewer will not only strength your flesh, but ylso your mind. Grilled over a fire, it will raise your <b>maximum health, maximum mana and accelerates your mana regeneration.</b>",,Manual Crafting,Materials,Common,250,10,10,images/icons/1178468623.png
@@ -1332,7 +1332,7 @@ You shaped this world. It's your story to tell!",,,BuildTools,Rare,20,0,0,images
 4111981896,Prop_Component_T2_Crucible,Crucible,,A small device used in ovens to melt substances.,Furniture,Blacksmith,BuildTools,Rare,1,0,0,images/icons/4111981896.png
 4218685557,Prop_Component_Kettle,Kettle,,A metal Kettle that can be suspended over a fire place. ,Furniture,Blacksmith,BuildTools,Rare,1,0,0,images/icons/4218685557.png
 895710916,Prop_Component_Scientific_Instruments,Scientific Instruments,,Basic tools needed for a laboratory and scientific experiments.,Furniture,,BuildTools,Rare,1,0,0,images/icons/895710916.png
-1461371688,Prop_Component_T2_Sawblades,Circular Sawblades,,An advanced workpiece of a skilled Blacksmith and a needed centerpiece for a Table Saw. ,Furniture,,Materials,Rare,50,0,0,
+1461371688,Prop_Component_T2_Sawblades,Circular Sawblades,,An advanced workpiece of a skilled Blacksmith and a needed centerpiece for a Table Saw. ,Furniture,,Materials,Rare,50,0,0,images/icons/1461371688.png
 311508484,Prop_Component_T5_Black_Cauldron,Cauldron,,A centerpiece for the Alchemical Station.,Furniture,,BuildTools,Rare,1,0,0,images/icons/311508484.png
 3002231083,Prop_Component_Athanor,Athanor,,Designed to heat substances under a permanent temperature this oven opens up new alchemical possibilities.,Furniture,"Crafting, Alchemist",BuildTools,Rare,1,0,0,images/icons/3002231083.png
 146975947,Prop_Production_T2_Smelter,Smelter,,"Able to melt and alloy metals, the Smelter is a valuable machinery.",Furniture,Blacksmith,BuildTools,Rare,1,0,0,images/icons/146975947.png
@@ -2697,7 +2697,7 @@ This collectible is found in Cinder's Cradle.",,,Collectibles,Rare,20,0,0,images
 3057743376,Armor_T7_Warrior_Boots_Vorgoth,Vorgoth's Boots,,"Solid iron and froged shut. No gap, no give.",,,Equipment,Legendary,1,45,45,images/icons/3057743376.png
 248650235,Armor_T7_Ranger_Chest_Vorgoth,Vorgoth's Chest,,Squint and you might see a heart etched into the plate. More heart than Vorgoth himself has shown in years. His real one drowned in Elixir.,,,Equipment,Legendary,1,45,45,images/icons/248650235.png
 3057524028,Armor_T7_Mage_Legs_Vorgoth,Vorgoth's Pants,,Iron-clad from hip to heel.,,,Equipment,Legendary,1,45,45,images/icons/3057524028.png
-3667811355,_Weapon_Unarmed_Fists_Hand_lvl00,Unarmed Fists,,Everybody has a plan until they get punched in the face -Mike Thyson,,,Weapons,Legendary,1,1,1,
+3667811355,_Weapon_Unarmed_Fists_Hand_lvl00,Unarmed Fists,,Everybody has a plan until they get punched in the face -Mike Thyson,,,Weapons,Legendary,1,1,1,images/icons/3667811355.png
 1985879197,Weapon_T1_1H_Mace_Craft,Spiked Club,,"A slightly improved version of the Wooden Club, reinforced with spikes.",,,Weapons,Common,1,5,5,
 3304320872,Weapon_T1_2H_GreatAxe_01,Hangman's Axe,,When there is no gallows around.,,,Weapons,Legendary,1,1,55,
 3536356032,Weapon_T1_2H_Staff_Craft,Spiritual Cane,,"A basic magical staff that allows the wearer to release spells at the cost of mana and magical ammunition.
@@ -2756,14 +2756,14 @@ The spells need to be crafted or found.",,,Weapons,Common,1,5,5,
 2901533456,Weapon_T3_2H_Bow_01,Antler Bow,,A bow crafted from Antlers ,,,Weapons,Legendary,1,1,55,
 4171383651,Weapon_T3_1H_Wand_01_Fire,T3 Fire Wand,,Weapon_T3_1H_Wand_01_Fire desc,,,Weapons,Common,1,1,55,
 2867801060,Weapon_T3_1H_Axe_01,Enshrouded Axe,,A mighty axe that spent so much time in the fog that it might've created a personality. It's lusting for blood!,,,Weapons,Legendary,1,1,55,
-3168936309,Weapon_T3_2H_Staff_01,Enshrouded Staff,,"A magical staff, utilizing the power of the fog to create stronger magic spells. A mighty tool appreciated by every sorcerer.",,,Weapons,Legendary,1,1,55,
+3168936309,Weapon_T3_2H_Staff_01,Enshrouded Staff,,"A magical staff, utilizing the power of the fog to create stronger magic spells. A mighty tool appreciated by every sorcerer.",,,Weapons,Legendary,1,1,55,images/icons/3168936309.png
 4290427358,Weapon_T3_1H_SwordEpic_02,Ice Blade,,"A magical blade, utilizing the power of ice, with edges so sharp they cut skin upon touch.",,,Weapons,Legendary,1,1,55,
 4120929581,Weapon_T3_1H_WandEpic_02_Ice,T3 Epic Ice Lightning Wand,,Ice lightning descr,,,Weapons,Common,1,1,55,
 1080812742,Weapon_T3_1H_MaceEpic_01,Epic spiked club,,It goes ouch ,,,Weapons,Legendary,1,1,55,
 1659424208,Weapon_T3_1H_Sword_02,Fang Blade,,The blade of this swords sucks up the warmth from its surrounding like a vampire. ,,,Weapons,Legendary,1,1,55,
 2237665335,Weapon_T3_2H_BowEpic_01,Composite bow,,A very sophisticated bow wiht a high tension. ,,,Weapons,Legendary,1,1,55,
 375831467,Weapon_T3_2H_Bow_02,Fog Bow,,Every true shot makes the blood pump faster.,,,Weapons,Legendary,1,1,55,
-3090479094,Weapon_T3_2H_StaffEpic_01,Fog Staff,,Infested Shroud staff,,,Weapons,Legendary,1,1,55,
+3090479094,Weapon_T3_2H_StaffEpic_01,Fog Staff,,Infested Shroud staff,,,Weapons,Legendary,1,1,55,images/icons/3090479094.png
 1174019207,Weapon_T3_1H_AxeEpic_01,Epix Fog Axe,,Epix fog axe descr,,,Weapons,Legendary,1,1,55,
 3342004247,Weapon_T3_2H_HammerEpic_01,Ignited Eagle,,Inhereting the power of the flame. ,,,Weapons,Legendary,1,1,55,
 1940764111,Weapon_T3_2H_GreatAxeEpic_01,Epic Vukah Axe,,vukah axe descr,,,Weapons,Legendary,1,1,55,
@@ -2775,39 +2775,39 @@ The spells need to be crafted or found.",,,Weapons,Common,1,5,5,
 3873714456,Weapon_T3_2H_Daggers_DPS,Daggers T3 Type 1,,Daggers T3  Epic Type 1 desc,,,Weapons,Legendary,1,1,55,
 1851176688,Weapon_T3_2H_DaggersEpic_DPS,Daggers T3 Epic Type 1,,Daggers T3  Type 1 desc,,,Weapons,Legendary,1,1,55,
 3174763756,Weapon_T3_1H_WandEpic_01_Fog,T3 Epic Fog Wand,,Epic Fog Wand - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
-3502536665,Weapon_T4_1H_Sword_01,Extiguished Sword,,Although no longer enflamed this former magical sword still has a sharp edge. ,,,Weapons,Common,1,1,55,
+3502536665,Weapon_T4_1H_Sword_01,Extiguished Sword,,Although no longer enflamed this former magical sword still has a sharp edge. ,,,Weapons,Common,1,1,55,images/icons/3502536665.png
 1640849157,Weapon_T4_2H_Bow_01,Vigor Fogbound Bow,,This bow fires easily against creatures of the Fog.,,,Weapons,Legendary,1,1,55,
 458314937,Weapon_T4_2H_Staff_02,Gleaming Staff,,A magical staff allows the wearer to release powerful Spells at the cost of Mana. The Spells need to be crafted or found.,,,Weapons,Legendary,1,1,55,
 1457307757,Weapon_T4_2H_BowEpic_02,Ignited Bow,,"Upon craft it was Ignited by the flame itself, pulsing with the power of fire.",,,Weapons,Legendary,1,1,55,
-102274580,Weapon_T4_1H_Mace_01,Iron club,,A nice mace. ,,,Weapons,Common,1,1,55,
+102274580,Weapon_T4_1H_Mace_01,Iron club,,A nice mace. ,,,Weapons,Common,1,1,55,images/icons/102274580.png
 2524297201,Weapon_T4_1H_Wand_02_Fire,T4 Sun Wand,,Wand with fire damage,,,Weapons,Common,1,1,55,
 3729741852,Weapon_T4_2H_Hammer_01,Shroud Corrupted Hammer,,"A mighty hammer, corrupted to the core. The power of the shroud is channeled in this weapon.",,,Weapons,Legendary,1,1,55,
-3534558679,Weapon_T4_1H_MaceEpic_01,Righteous Club,,This club strikes fear into the hearts of your foes with every swing.,,,Weapons,Common,1,1,55,
-2667317119,Weapon_T4_1H_Sword_02,Sunbeam,,The blade of this former epic weapon still emits warmth. ,,,Weapons,Legendary,1,1,55,
+3534558679,Weapon_T4_1H_MaceEpic_01,Righteous Club,,This club strikes fear into the hearts of your foes with every swing.,,,Weapons,Common,1,1,55,images/icons/3534558679.png
+2667317119,Weapon_T4_1H_Sword_02,Sunbeam,,The blade of this former epic weapon still emits warmth. ,,,Weapons,Legendary,1,1,55,images/icons/2667317119.png
 2568349283,Weapon_T4_1H_Wand_01_Fog,T4 Goat Wand,,"Fires a projectile that deals fog damage.
 
 <b>Ethereal Duplication</b>: The wand's unique magic grants it a 50% chance to spontaneously create an additional fog projectile.",,,Weapons,Common,1,1,55,
-225230490,Weapon_T4_1H_SwordEpic_03,Major Arcana,,"Archaic power sleeps within this blade. It resonates, whispers and sings to those who dare to listen.",,,Weapons,Legendary,1,1,55,
+225230490,Weapon_T4_1H_SwordEpic_03,Major Arcana,,"Archaic power sleeps within this blade. It resonates, whispers and sings to those who dare to listen.",,,Weapons,Legendary,1,1,55,images/icons/225230490.png
 3025766089,Weapon_T4_2H_GreatAxeEpic_01,Ornamented Battle Axe,,T4 2h Battle Axe Desc,,,Weapons,Legendary,1,1,55,
 2490862466,Weapon_T4_2H_Bow_02,Sun Bow,,Sun Bow descr,,,Weapons,Legendary,1,1,55,
-2130769495,Weapon_T4_1H_AxeEpic_01,Epic t4 goat axe,,Epic goat axe desc,,,Weapons,Legendary,1,1,55,
-771316050,Weapon_T4_1H_MaceEpic_02,Epic goat club,,Epic goat club descr,,,Weapons,Common,1,1,55,
+2130769495,Weapon_T4_1H_AxeEpic_01,Epic t4 goat axe,,Epic goat axe desc,,,Weapons,Legendary,1,1,55,images/icons/2130769495.png
+771316050,Weapon_T4_1H_MaceEpic_02,Epic goat club,,Epic goat club descr,,,Weapons,Common,1,1,55,images/icons/771316050.png
 2305089639,Weapon_T4_1H_WandEpic_01_Fog,T4 Goat Wand epic,,"Fires a projectile that deals fog damage.
 
 <b>Ethereal Duplication</b>: The wand's unique magic grants it a 50% chance to spontaneously create an additional fog projectile.",,,Weapons,Common,1,1,55,
-2427081154,Weapon_T4_1H_AxeEpic_02,Lightforged Axe,,Lightforged axe desc,,,Weapons,Legendary,1,1,55,
+2427081154,Weapon_T4_1H_AxeEpic_02,Lightforged Axe,,Lightforged axe desc,,,Weapons,Legendary,1,1,55,images/icons/2427081154.png
 4104616591,Weapon_T4_1H_WandEpic_02_Lightning,Epic Shock Wand,,This wand can bring the lighting down on your enemies. - Multishot: Fires multiple projectiles but at reduced damage.  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
 457119037,Weapon_T4_2H_BowEpic_01,Epic Goat Bow,,Epic goat bow descr,,,Weapons,Legendary,1,1,55,
-3405497023,Weapon_T4_1H_SwordEpic_02,Epic Vigor Lightbound Sword,,Epic Vigor Lightbound Sword descr,,,Weapons,Legendary,1,1,55,
-518418528,Weapon_T4_1H_SwordEpic_01,Enflamed Sword,,"A burning sword, glowing of power. It burns hot enough to reduce the mana of its prey with every hit.",,,Weapons,Legendary,1,1,55,
+3405497023,Weapon_T4_1H_SwordEpic_02,Epic Vigor Lightbound Sword,,Epic Vigor Lightbound Sword descr,,,Weapons,Legendary,1,1,55,images/icons/3405497023.png
+518418528,Weapon_T4_1H_SwordEpic_01,Enflamed Sword,,"A burning sword, glowing of power. It burns hot enough to reduce the mana of its prey with every hit.",,,Weapons,Legendary,1,1,55,images/icons/518418528.png
 3936779840,Weapon_T4_2H_Hammer_02,Sun Hammer,,Sun hammer  descr,,,Weapons,Legendary,1,1,55,
 3521922296,Weapon_T4_2H_HammerEpic_01,Epic goat hammer,,Epic goat hammer descr,,,Weapons,Legendary,1,1,55,
 119442934,Weapon_T4_1H_Sword_03,Lightbound Sword,,Sword T4 sun (No glow) desc,,,Weapons,Rare,1,1,55,
-940748477,Weapon_T4_1H_AxeEpic_03,Ornamented Axe,,This one handes Axe cracles with lighning.,,,Weapons,Legendary,1,1,55,
+940748477,Weapon_T4_1H_AxeEpic_03,Ornamented Axe,,This one handes Axe cracles with lighning.,,,Weapons,Legendary,1,1,55,images/icons/940748477.png
 69105879,Weapon_T4_2H_GreatSwordEpic_02,T4 Greatsword Epic 02,,T4 Greatsword Epic 01 desc,,,Weapons,Legendary,1,1,55,
 1602331229,Weapon_T5_1H_Axe_01,Axe T5 common 01,,Axe  T5 common  01  desc,,,Weapons,Legendary,1,1,55,
 3270175842,Weapon_T5_1H_WandEpic_01_Ice,Wand T5 epic 01,,Wand  T5 epic  01 desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
-1064940291,Weapon_T5_2H_Hammer_01,Hammer 2H T5 common 01,,Hammer  2H  T5 common  01 desc,,,Weapons,Legendary,1,1,55,
+1064940291,Weapon_T5_2H_Hammer_01,Hammer 2H T5 common 01,,Hammer  2H  T5 common  01 desc,,,Weapons,Legendary,1,1,55,images/icons/1064940291.png
 2198697693,Weapon_T5_1H_WandEpic_03_Fire,Wand T5 epic 03,,Wand  T5 epic  03 desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
 40007242,Shield_T2_DPS,Hero's Shield,,This basic shield allows you to <b>block</b> physical attacks. Blocking drains Stamina.,,,Equipment,Rare,1,10,10,images/icons/40007242.png
 3744513726,Shield_T2_DPS_Loot,Hero's Shield,,This basic shield allows you to <b>block</b> physical attacks. Blocking drains Stamina.,,,Equipment,Rare,1,10,10,images/icons/3744513726.png
@@ -2859,15 +2859,15 @@ Flame Power allows you to stay in the Fog longer.",,,Equipment,Rare,1,20,20,imag
 3670734309,Weapon_T3_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Legendary,1,1,55,
 2700871988,Weapon_T2_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Legendary,1,1,55,
 2860747780,Weapon_T1_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Epic,1,1,55,
-2226962572,Weapon_T5_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Legendary,1,1,55,
-913533703,Weapon_T5_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Epic,1,1,55,
+2226962572,Weapon_T5_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Legendary,1,1,55,images/icons/2226962572.png
+913533703,Weapon_T5_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Epic,1,1,55,images/icons/913533703.png
 3323951069,Weapon_T5_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Legendary,1,1,55,
 4189016694,Weapon_T5_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,1,55,
-2269196323,Weapon_T6_2H_Lore_GreatAxeLeg_forge,Golden War Veteran Axe,,"Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.",,,Weapons,Legendary,1,1,55,
-1464929321,Weapon_T6_2H_Lore_GreatAxeEpic_outpost,Golden Recruit Axe,,"The most successful and newly decorated recruits are sometimes gifted weapons dipped in gold. They aren't anymore hardy, but serve as a status symbol among the group.",,,Weapons,Epic,1,1,55,
+2269196323,Weapon_T6_2H_Lore_GreatAxeLeg_forge,Golden War Veteran Axe,,"Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.",,,Weapons,Legendary,1,1,55,images/icons/2269196323.png
+1464929321,Weapon_T6_2H_Lore_GreatAxeEpic_outpost,Golden Recruit Axe,,"The most successful and newly decorated recruits are sometimes gifted weapons dipped in gold. They aren't anymore hardy, but serve as a status symbol among the group.",,,Weapons,Epic,1,1,55,images/icons/1464929321.png
 729789776,Weapon_T5_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Legendary,1,1,55,
 2331017633,Weapon_T5_1H_Lore_Wand_ministory_29_Fog,Darya's Wand,,"A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",,,Weapons,Epic,1,1,55,
-3791962857,Weapon_T5_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Legendary,1,1,55,
+3791962857,Weapon_T5_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Legendary,1,1,55,images/icons/3791962857.png
 4294860398,Craft_Weapon_T3_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,16,16,
 4048093059,Craft_Weapon_T2_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,11,11,
 2385920638,Craft_Weapon_T4_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,21,21,
@@ -2998,27 +2998,27 @@ Flame Power allows you to stay in the Fog longer.",,,Equipment,Rare,1,20,20,imag
 3848774794,Craft_Weapon_T7_1H_Lore_Wand_ministory_25_lightning,Electric Initialiser,,An electrifying wand that was previously used to start engines and machinery in an instant.,,,Weapons,Rare,1,46,46,
 2187973877,Craft_Weapon_T7_2H_Lore_Bow_ministory_03,Spearfisher Bow,,"A bow used by the Drak to try and catch fish through arrows and luck. They weren't so succesfull with their venture, but perhaps the bow could still be useful in a more traditional sense.",,,Weapons,Rare,1,46,46,
 3854011426,Craft_Weapon_T7_2H_Lore_Bow_drakHeavy,Breaching Bow,,"Breaches all - flesh, scales, borders.",,,Weapons,Rare,1,46,46,
-1237806794,Weapon_T6_2H_Lore_GreatSwordEpic_Ministory_20,Lord Vorgoth's Sword,,"Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",,,Weapons,Legendary,1,1,55,
-873336281,Weapon_T7_1H_Lore_Wand_ministory_25_lightning,Electric Initialiser,,An electrifying wand that was previously used to start engines and machinery in an instant.,,,Weapons,Legendary,1,1,55,
-1030886695,Weapon_T7_1H_Lore_Wand_protoVessels_blunt,Proto Bone-Bender,,A traditional wand that helps to adjust the subject's bones after arrival.,,,Weapons,Legendary,1,1,55,
-2642629621,Weapon_T7_1H_Lore_Wand_ministory_06_fog,Darya's Remorse,,"A heavy wand that's bright as the sun, decorated by a flower that wraps around the handle, blooming near the hilt. Despite it's radiance, you feel that it carried a dark energy - is it remorse, or the curse of the Shroud?",,,Weapons,Legendary,1,1,55,
-1278504043,Weapon_T7_2H_Lore_Bow_ministory_03,Spearfisher Bow,,"A bow used by the Drak to try and catch fish through arrows and luck. They weren't so succesfull with their venture, but perhaps the bow could still be useful in a more traditional sense.",,,Weapons,Epic,1,1,55,
-101106603,Weapon_T7_2H_Lore_Bow_drakHeavy,Breaching Bow,,"Breaches all - flesh, scales, borders.",,,Weapons,Legendary,1,1,55,
-4134797150,Weapon_TX_2H_Hammer_HollowHall,Dungeon 2h Hammer,,dungeon eh desc,,,Weapons,Epic,1,1,55,
-571871007,Weapon_TX_1H_Wand_HollowHall_Blunt,Dungeon Wand,,Dungeon Wand desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Uncommon,1,1,55,
-1029972982,Weapon_TX_2H_Greataxe_HollowHall,Dungeon 2h Axe,,dungeon eh desc,,,Weapons,Epic,1,1,55,
-1356112072,Weapon_TX_1H_Axe_HollowHall,Dungeon Ace 1h,,dungeon axe desc,,,Weapons,Epic,1,1,55,
-3816626611,Weapon_TX_2H_Greatsword_HollowHall_01,TX Greatsword HollowHalls 01,,TX Greatsword HollowHall 01 desc,,,Weapons,Legendary,1,1,55,
-2822724630,Weapon_TX_2H_Greatsword_HollowHall_02,TX Greatsword HollowHalls 02,,TX Greatsword HollowHall 02 desc,,,Weapons,Legendary,1,1,55,
-1947635377,Weapon_TX_1H_Axe_FogNest,Shroud Lair Axe,,A powerful Axe infused by the Shroud.Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Epic,1,1,55,
-2604232739,Weapon_TX_1H_Mace_FogNest,Shroud Lair Mace,,A brutal mace infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Epic,1,1,55,
-66688434,Weapon_TX_1H_Sword_FogNest,Shroud Lair Sword,,A sleek sword infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Epic,1,1,55,
-1181407134,Weapon_TX_1H_Wand_FogNest_Fog,Shroud Lair Wand,,This Wand radiates darkness for it is infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Uncommon,1,1,55,
-886466633,Weapon_TX_2H_Bow_FogNest,Shroud Lair Bow,,A fierce Bow infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,
-4071675176,Weapon_TX_2H_Hammer_FogNest,Shroud Lair Hammer,,A massive Hammer infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Epic,1,1,55,
-1404050036,Weapon_TX_2H_Staff_FogNest,Shroud Lair Staff,,An omnipotent Staff infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,
-2796408306,Weapon_TX_2H_Daggers_DPS_FogNest,Shroud Lair Daggers,,A pair of Daggers infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,
-2151380048,Weapon_TX_2H_Greatsword_FogNest,Shroud Lair Greatsword,,This Greatsword  radiates darkness for it is infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Legendary,1,1,55,
+1237806794,Weapon_T6_2H_Lore_GreatSwordEpic_Ministory_20,Lord Vorgoth's Sword,,"Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",,,Weapons,Legendary,1,1,55,images/icons/1237806794.png
+873336281,Weapon_T7_1H_Lore_Wand_ministory_25_lightning,Electric Initialiser,,An electrifying wand that was previously used to start engines and machinery in an instant.,,,Weapons,Legendary,1,1,55,images/icons/873336281.png
+1030886695,Weapon_T7_1H_Lore_Wand_protoVessels_blunt,Proto Bone-Bender,,A traditional wand that helps to adjust the subject's bones after arrival.,,,Weapons,Legendary,1,1,55,images/icons/1030886695.png
+2642629621,Weapon_T7_1H_Lore_Wand_ministory_06_fog,Darya's Remorse,,"A heavy wand that's bright as the sun, decorated by a flower that wraps around the handle, blooming near the hilt. Despite it's radiance, you feel that it carried a dark energy - is it remorse, or the curse of the Shroud?",,,Weapons,Legendary,1,1,55,images/icons/2642629621.png
+1278504043,Weapon_T7_2H_Lore_Bow_ministory_03,Spearfisher Bow,,"A bow used by the Drak to try and catch fish through arrows and luck. They weren't so succesfull with their venture, but perhaps the bow could still be useful in a more traditional sense.",,,Weapons,Epic,1,1,55,images/icons/1278504043.png
+101106603,Weapon_T7_2H_Lore_Bow_drakHeavy,Breaching Bow,,"Breaches all - flesh, scales, borders.",,,Weapons,Legendary,1,1,55,images/icons/101106603.png
+4134797150,Weapon_TX_2H_Hammer_HollowHall,Dungeon 2h Hammer,,dungeon eh desc,,,Weapons,Epic,1,1,55,images/icons/4134797150.png
+571871007,Weapon_TX_1H_Wand_HollowHall_Blunt,Dungeon Wand,,Dungeon Wand desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Uncommon,1,1,55,images/icons/571871007.png
+1029972982,Weapon_TX_2H_Greataxe_HollowHall,Dungeon 2h Axe,,dungeon eh desc,,,Weapons,Epic,1,1,55,images/icons/1029972982.png
+1356112072,Weapon_TX_1H_Axe_HollowHall,Dungeon Ace 1h,,dungeon axe desc,,,Weapons,Epic,1,1,55,images/icons/1356112072.png
+3816626611,Weapon_TX_2H_Greatsword_HollowHall_01,TX Greatsword HollowHalls 01,,TX Greatsword HollowHall 01 desc,,,Weapons,Legendary,1,1,55,images/icons/3816626611.png
+2822724630,Weapon_TX_2H_Greatsword_HollowHall_02,TX Greatsword HollowHalls 02,,TX Greatsword HollowHall 02 desc,,,Weapons,Legendary,1,1,55,images/icons/2822724630.png
+1947635377,Weapon_TX_1H_Axe_FogNest,Shroud Lair Axe,,A powerful Axe infused by the Shroud.Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Epic,1,1,55,images/icons/1947635377.png
+2604232739,Weapon_TX_1H_Mace_FogNest,Shroud Lair Mace,,A brutal mace infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Epic,1,1,55,images/icons/2604232739.png
+66688434,Weapon_TX_1H_Sword_FogNest,Shroud Lair Sword,,A sleek sword infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Epic,1,1,55,images/icons/66688434.png
+1181407134,Weapon_TX_1H_Wand_FogNest_Fog,Shroud Lair Wand,,This Wand radiates darkness for it is infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Uncommon,1,1,55,images/icons/1181407134.png
+886466633,Weapon_TX_2H_Bow_FogNest,Shroud Lair Bow,,A fierce Bow infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,images/icons/886466633.png
+4071675176,Weapon_TX_2H_Hammer_FogNest,Shroud Lair Hammer,,A massive Hammer infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Epic,1,1,55,images/icons/4071675176.png
+1404050036,Weapon_TX_2H_Staff_FogNest,Shroud Lair Staff,,An omnipotent Staff infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,images/icons/1404050036.png
+2796408306,Weapon_TX_2H_Daggers_DPS_FogNest,Shroud Lair Daggers,,A pair of Daggers infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,images/icons/2796408306.png
+2151380048,Weapon_TX_2H_Greatsword_FogNest,Shroud Lair Greatsword,,This Greatsword  radiates darkness for it is infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Legendary,1,1,55,images/icons/2151380048.png
 1181594089,Weapon_T0-TX_1H_Sword_Enemy_DepletedFogger,Rusty Short Sword,,"A weapon often used in ancient times, due to the lack of higher quality ressources in their struggle to save themselves. Now, mostly used by the fell, who picked them up.",,,Weapons,Common,1,1,55,
 3847678429,Weapon_T1-TX_1H_Sword_Enemy_Fogger_Soldier,Sharpened Broadsword,,A broadsword almost too big to be comfortable. The original user must have been a giant of a man.,,,Weapons,Common,1,1,55,
 2757862595,Weapon_T1-TX_1H_Sword_Enemy_Vukah,Short Sword,,"A basic short sword, designed for fights in narrow areas. Especially agile and sharp at the tip!",,,Weapons,Common,1,1,55,
@@ -3026,7 +3026,7 @@ Flame Power allows you to stay in the Fog longer.",,,Equipment,Rare,1,20,20,imag
 2749653597,Weapon_T1-TX_2H_Staff_Enemy_Vukah,Vaporous Staff,,"A basic magical staff that allows the wearer to release Spells at the cost of Mana and Magical Ammunition.
 
 The Spells need to be crafted or found.",,,Weapons,Common,1,1,55,
-4148367690,Weapon_T6-TX_1H_Axe_Enemy_Drak_Elite,Drak Elite Axe,,Drak Elite Axe Desc,,,Weapons,Common,1,1,55,
+4148367690,Weapon_T6-TX_1H_Axe_Enemy_Drak_Elite,Drak Elite Axe,,Drak Elite Axe Desc,,,Weapons,Common,1,1,55,images/icons/4148367690.png
 2386596106,Weapon_T5-TX_1H_Axe_Enemy_Scavenger_Miner,Scavenger Miner Axe,,Scavenger Miner Axer desc,,,Weapons,Common,1,1,55,
 3308817829,Weapon_T2-TX_2H_Bow_Enemy_Fogger_Ranger_Armored,Fogger Ranger Armored Bow,,Fogger Ranger Armored Bow desc,,,Weapons,Common,1,1,55,
 1474722178,Weapon_T1-TX_1H_Mace_Enemy_Fogger_Soldier,Feathered Mace,,"Designed after the fletching of an arrow, this is a brutal weapon whose only purpose is bashing friend or foe.",,,Weapons,Common,1,1,55,
@@ -3034,10 +3034,10 @@ The Spells need to be crafted or found.",,,Weapons,Common,1,1,55,
 662464113,Weapon_T2-TX_1H_Sword_Enemy_FoggerBroadsword,Fogger Broad Sword,,A heavy sword fileded by armored Foggers,,,Weapons,Common,1,1,55,
 4213879490,Shield_T0-TX_Enemy_Fogger_Depleted,Shield,,This makeshift shield allows you to <b>block</b> physical attacks. Blocking drains Stamina.,,,Equipment,Common,1,1,55,images/icons/4213879490.png
 3981836644,Shield_TX_Enemy_Fogger,Fogger Shield,,A big shield found on Foggers,,,Equipment,Common,1,1,55,images/icons/3981836644.png
-1541977934,Weapon_T6_1H_Axe_01,Axe T6 common 01,,Axe  T6 common  01  desc,,,Weapons,Legendary,1,1,55,
-484392245,Weapon_T6_2H_Hammer_01,Hammer 2H T6 common 01,,Hammer  2H  T6 common  01 desc,,,Weapons,Legendary,1,1,55,
-2628714681,Weapon_T6_2H_GreatAxeEpic_01,Axe 2H T6 epic 01,,Axe 2H  T6 epic  01 desc,,,Weapons,Legendary,1,1,55,
-4248181976,Weapon_T6_2H_DaggersEpic_Poison,Daggers T6 Epic Poison,,Dagger T6 Epic Poison desc,,,Weapons,Legendary,1,1,55,
+1541977934,Weapon_T6_1H_Axe_01,Axe T6 common 01,,Axe  T6 common  01  desc,,,Weapons,Legendary,1,1,55,images/icons/1541977934.png
+484392245,Weapon_T6_2H_Hammer_01,Hammer 2H T6 common 01,,Hammer  2H  T6 common  01 desc,,,Weapons,Legendary,1,1,55,images/icons/484392245.png
+2628714681,Weapon_T6_2H_GreatAxeEpic_01,Axe 2H T6 epic 01,,Axe 2H  T6 epic  01 desc,,,Weapons,Legendary,1,1,55,images/icons/2628714681.png
+4248181976,Weapon_T6_2H_DaggersEpic_Poison,Daggers T6 Epic Poison,,Dagger T6 Epic Poison desc,,,Weapons,Legendary,1,1,55,images/icons/4248181976.png
 72900743,Block_T4_Sandstone_Rough_CRAFTING,Rough Sandstone Block,,"A rougher version of the Refined Sandstone Block, mainly produced for quantity. Due to its outer appearance it was mainly used for foundations.",,Workbench,BuildTools,Common,5000,0,0,images/icons/72900743.png
 2216303598,Block_T4_SandStone_SandstonePlastered_01_CRAFTING,Regular Sandstone Block,,A Regular Sandstone Block. It's very cost-efficient. ,,Workbench,BuildTools,Common,5000,0,0,images/icons/2216303598.png
 2175686957,Block_T1_Stone_Rough_CRAFTING,Rough Stone Block,,A Rough Stone Block built in the most basic manner of craftsmanship.,,Workbench,BuildTools,Common,5000,0,0,images/icons/2175686957.png
@@ -3111,14 +3111,14 @@ The Spells need to be crafted or found.",,,Weapons,Common,1,1,55,
 2106933279,Key_Bronze01,Bronze Key,,Opens a locked chest.,,,Materials,Common,5,0,0,images/icons/2106933279.png
 1199443988,Key_Gold01,Gold Key,,Opens doors of import.,,,Materials,Rare,5,0,0,images/icons/1199443988.png
 3748695465,Key_Silver01,Silver Key,,Opens most locked doors.,,,Materials,Common,5,0,0,images/icons/3748695465.png
-2897843384,Lockpick_Scrapy_T0-T4,Scrappy Lockpick,,Opens a lock. (Hopefully),,,Tools,Common,50,0,0,
-3808912742,Key_Gold02_Castle,Castle Key,,Opens all doors in the Castle.,,,Tools,Rare,1,0,0,
-2361121883,Key_Skeleton_Bone_Dungeon02,Bone Key,,Opens doors in the Deepforrest Skeleton Halls,,,Tools,Rare,1,13,13,
-2449462227,Key_Skeleton_Bone_Dungeon03,Bone Key,,Opens doors in the Steppes Skeleton Halls,,,Tools,Rare,1,18,18,
-4053229560,Key_Skeleton_Bone_Dungeon04,Bone Key,,Opens doors in the Desert Skeleton Halls,,,Tools,Rare,1,23,23,
-3022088459,Key_Skeleton_Bone_Dungeon05,Albaneve Summits Hollow Halls Key,,Key for the Albaneve Summits Hollow Halls,,,Tools,Rare,1,33,33,
-2543839394,Key_Skeleton_Bone_Dungeon06,Wetland Hollow Halls Key,,Key for the Wetland Hollow Halls,,,Tools,Rare,1,43,43,
-1528331711,Lockpick_Ancient_T7,Ancient/Archaic Lockpick,,"Lockpicks used by the ancients exclusively in their structures, dungeons etc.",,,Tools,Rare,50,0,0,
+2897843384,Lockpick_Scrapy_T0-T4,Scrappy Lockpick,,Opens a lock. (Hopefully),,,Tools,Common,50,0,0,images/icons/2897843384.png
+3808912742,Key_Gold02_Castle,Castle Key,,Opens all doors in the Castle.,,,Tools,Rare,1,0,0,images/icons/3808912742.png
+2361121883,Key_Skeleton_Bone_Dungeon02,Bone Key,,Opens doors in the Deepforrest Skeleton Halls,,,Tools,Rare,1,13,13,images/icons/2361121883.png
+2449462227,Key_Skeleton_Bone_Dungeon03,Bone Key,,Opens doors in the Steppes Skeleton Halls,,,Tools,Rare,1,18,18,images/icons/2449462227.png
+4053229560,Key_Skeleton_Bone_Dungeon04,Bone Key,,Opens doors in the Desert Skeleton Halls,,,Tools,Rare,1,23,23,images/icons/4053229560.png
+3022088459,Key_Skeleton_Bone_Dungeon05,Albaneve Summits Hollow Halls Key,,Key for the Albaneve Summits Hollow Halls,,,Tools,Rare,1,33,33,images/icons/3022088459.png
+2543839394,Key_Skeleton_Bone_Dungeon06,Wetland Hollow Halls Key,,Key for the Wetland Hollow Halls,,,Tools,Rare,1,43,43,images/icons/2543839394.png
+1528331711,Lockpick_Ancient_T7,Ancient/Archaic Lockpick,,"Lockpicks used by the ancients exclusively in their structures, dungeons etc.",,,Tools,Rare,50,0,0,images/icons/1528331711.png
 2787817047,8kLoreText_scroll_bard_song_03,Bard song 03,,A sheet of music containing bard song 03.,Music,,Collectibles,Common,1,0,0,
 3794499900,8kLoreText_scroll_bard_song_02,Bard song 02,,A sheet of music containing bard song 02.,Music,,Collectibles,Common,1,0,0,
 2676007697,8kLoreText_scroll_bard_song_05,Bard song 05,,A sheet of music containing bard song 05.,Music,,Collectibles,Common,1,0,0,
@@ -3347,12 +3347,12 @@ Maximum limit of summoned Skeletons is 1 by default which can be increased via s
 334395711,Ammo_T7_Arrow_Bone_Eternal_lvl45,T7 Eternal Giant Bone Arrow II,,Eternal version of Bone Arrow that costs mana to shoot.,,"Crafting, Collector",Ammunition,Legendary,1,45,45,images/icons/334395711.png
 2369196415,Ammo_T7_Arrow_Magic_Lightning_Eternal_lvl45,Eternal Shock Arrow III,,Eternal Shock Arrow desc,,"Crafting, Huntress",Ammunition,Legendary,1,45,45,images/icons/2369196415.png
 678529367,Ammo_T7_Arrow_Magic_Fire_Eternal_lvl45,Eternal Fire Arrow III,,Eternal Fire Arrow desc,,"Crafting, Huntress",Ammunition,Legendary,1,45,45,images/icons/678529367.png
-1549647644,Tool_ClimbingClaws,Climbing Claws,,Claws that were designed to climb steep walls. They are especially useful in case of a lost front door key.,,,Tools,Rare,1,0,0,
-497414641,Tool_T0_Axe_Stone_Grassland,Stone Axe,,"A primitive tool that is useful for cutting wood, but at the same time can be used as a mediocre weapon.",,,Tools,Common,1,1,1,
-1438617272,Tool_Grappling_Hook,Grappling Hook,,A sturdy tool that can help to cross many chasms along the way.,,Workbench,Tools,Uncommon,1,0,0,
-1028290781,Tool_Glider_T1,Glider,,"The possibility to fly has always been a desirable trade. Using the windcurrents and height of the starting platform, the glider is a powerful tool, that enables its user to travel great distances in an instance.",,,Tools,Uncommon,1,5,5,
+1549647644,Tool_ClimbingClaws,Climbing Claws,,Claws that were designed to climb steep walls. They are especially useful in case of a lost front door key.,,,Tools,Rare,1,0,0,images/icons/1549647644.png
+497414641,Tool_T0_Axe_Stone_Grassland,Stone Axe,,"A primitive tool that is useful for cutting wood, but at the same time can be used as a mediocre weapon.",,,Tools,Common,1,1,1,images/icons/497414641.png
+1438617272,Tool_Grappling_Hook,Grappling Hook,,A sturdy tool that can help to cross many chasms along the way.,,Workbench,Tools,Uncommon,1,0,0,images/icons/1438617272.png
+1028290781,Tool_Glider_T1,Glider,,"The possibility to fly has always been a desirable trade. Using the windcurrents and height of the starting platform, the glider is a powerful tool, that enables its user to travel great distances in an instance.",,,Tools,Uncommon,1,5,5,images/icons/1028290781.png
 3474096535,Tool_Torch01,Torch,,"A torch made of basic ingredients, spending light for a short amount of time.",,,Weapons,Common,1,1,1,images/icons/3474096535.png
-2811112772,Tool_T1_Axe_Scrap_Grassland,Scrappy Axe,,An axe made out of scrap metal with an improved durability and efficiency compared to the Stone Axe.,,,Tools,Common,1,5,5,
+2811112772,Tool_T1_Axe_Scrap_Grassland,Scrappy Axe,,An axe made out of scrap metal with an improved durability and efficiency compared to the Stone Axe.,,,Tools,Common,1,5,5,images/icons/2811112772.png
 2574733718,Tool_T0_Rake_Wooden,Wooden Rake,,A rake made of the simplest materials. A basic tool used to flatten the ground for upcoming construction works.,Tools,Workbench,BuildTools,Common,1,1,1,images/icons/2574733718.png
 2176546463,Tool_T1_Rake_Scrappy,Scrappy Rake,,A Wooden Rake enhanced with scrap metal to increase its durablility. A decent tool to level hilly ground.,Tools,,BuildTools,Common,1,5,5,images/icons/2176546463.png
 531354159,Tool_Torch02_Resin,Resin Torch,,"An advancedly crafted torch, usable for a longer amount of time, spending light in the dark.",,,Weapons,Common,1,2,2,images/icons/531354159.png
@@ -3360,24 +3360,24 @@ Maximum limit of summoned Skeletons is 1 by default which can be increased via s
 256634933,Tool_T1_Pickaxe_Scrap_Grassland,Scrappy Pickaxe,,"Forged from old metal rests, it shows signs of improvement in performance, but still does not deserve to be called a handy tool.",Tools,,BuildTools,Common,1,5,5,images/icons/256634933.png
 2671192505,Tool_T2_Pickaxe_Copper_Deepwoods,Copper Pickaxe,,"Forged out of copper and a decent tool. At least, working does not become a hassle because of bad equipment.",Tools,,BuildTools,Uncommon,1,10,10,images/icons/2671192505.png
 2410457699,Tool_T3_Pickaxe_Bronze_Steppes,Bronze Pickaxe,,"A pickaxe made out of bronze. Only struggling with the hardest of stones, it can be considered very efficient.",Tools,,BuildTools,Rare,1,15,15,images/icons/2410457699.png
-1978632298,Tool_T2_Axe_Copper_Deepwoods,Copper Axe,,"A sharp copper axe, that is highly efficient at cutting wood, but can also be used to cut down enemies.",,,Tools,Uncommon,1,10,10,
+1978632298,Tool_T2_Axe_Copper_Deepwoods,Copper Axe,,"A sharp copper axe, that is highly efficient at cutting wood, but can also be used to cut down enemies.",,,Tools,Uncommon,1,10,10,images/icons/1978632298.png
 1345456437,Tool_T4_Pickaxe_Iron_Desert,Iron Pickaxe,,"A highly performant pickaxe made out of iron, useful in every environment. A truly handy tool to have.",Tools,,BuildTools,Rare,1,20,20,images/icons/1345456437.png
-1397467393,Tool_Glider_T2,Advanced Glider,,This glider is lighter and enables you to travel bigger distances.,,,Tools,Rare,1,10,10,
-284247111,Tool_Glider_T3,Extraordinary Glider,,This glider will allow you to travel extraordinary long distances.,,,Tools,Epic,1,20,20,
-3357517884,Tool_Glider_T4_REWARD,Ghost Glider,,Death comes from above.,,,Tools,Legendary,1,30,30,
-1789305300,Tool_Grappling_Hook_improved,Improved Grappling Hook,,Use fewer Stamina. Activate at larger ranges.,,Carpenter,Tools,Rare,1,0,0,
-1012249632,Tool_T3_Axe_Bronze_Steppes,Bronze Axe,,An Axe with a bronze head. More sturdy than the Copper Version. ,,,Tools,Rare,1,15,15,
-4131324901,Tool_T4_Axe_Iron_Desert,Iron Axe,,An Axe with a very sturdy iron  head. ,,,Tools,Rare,1,20,20,
+1397467393,Tool_Glider_T2,Advanced Glider,,This glider is lighter and enables you to travel bigger distances.,,,Tools,Rare,1,10,10,images/icons/1397467393.png
+284247111,Tool_Glider_T3,Extraordinary Glider,,This glider will allow you to travel extraordinary long distances.,,,Tools,Epic,1,20,20,images/icons/284247111.png
+3357517884,Tool_Glider_T4_REWARD,Ghost Glider,,Death comes from above.,,,Tools,Legendary,1,30,30,images/icons/3357517884.png
+1789305300,Tool_Grappling_Hook_improved,Improved Grappling Hook,,Use fewer Stamina. Activate at larger ranges.,,Carpenter,Tools,Rare,1,0,0,images/icons/1789305300.png
+1012249632,Tool_T3_Axe_Bronze_Steppes,Bronze Axe,,An Axe with a bronze head. More sturdy than the Copper Version. ,,,Tools,Rare,1,15,15,images/icons/1012249632.png
+4131324901,Tool_T4_Axe_Iron_Desert,Iron Axe,,An Axe with a very sturdy iron  head. ,,,Tools,Rare,1,20,20,images/icons/4131324901.png
 623229764,Tool_T0_Pickaxe_Stone_Grassland,Stone Pickaxe,,"A basic mining tool, made of the simplest materials. Its not very durable or efficient, but it does what it's supposed to.",Tools,,BuildTools,Common,1,1,1,images/icons/623229764.png
 32289505,Tool_Torch04_GleamRoot_UnderWater,Gleam Root Diving Light,,"Lights your path, even under water. Not as strong as regular torches",,,Tools,Epic,50,37,37,images/icons/32289505.png
 2261499623,Tool_T6_GoldSieve_Prospector_Wetlands,Gold Sieve Prospector,,A hand scraper and sieve that can be used to mine gold and other materials underwater.,Tools,,BuildTools,Rare,1,40,40,images/icons/2261499623.png
 1053852637,Tool_T3_Channelled_Water_Hose_Tool,Channelled Water Tool,,Use this to add water to your base,Tools,,BuildTools,Epic,1,40,40,images/icons/1053852637.png
 2395034423,Tool_T1_WateringCan,Watering Can,,"It's called watering can, not watering-cannot.",Tools,refill at lakes and wells,BuildTools,Common,1,0,0,images/icons/2395034423.png
-3326121147,Tool_Grappling_Hook_underwater,Underwater Grappling Hook,,This Grappling Hook also works under water,,,Tools,Rare,1,0,0,
+3326121147,Tool_Grappling_Hook_underwater,Underwater Grappling Hook,,This Grappling Hook also works under water,,,Tools,Rare,1,0,0,images/icons/3326121147.png
 1268331874,Tool_T6_Pickaxe_Steel_Gold_Wetlands,T6 Pickaxe Steel,,t6 pickaxe steel with Gold ornaments desc,Tools,,BuildTools,Rare,1,40,40,images/icons/1268331874.png
-246967425,Tool_T6_Axe_Steel_Gold_Wetlands,T6 Tool Steel Axe,,t6 tool steel axe with gold ornaments desc,,,Tools,Rare,1,40,40,
+246967425,Tool_T6_Axe_Steel_Gold_Wetlands,T6 Tool Steel Axe,,t6 tool steel axe with gold ornaments desc,,,Tools,Rare,1,40,40,images/icons/246967425.png
 3833797336,Tool_Water_Pouch_Refillable,Water Pouch,,A sip of water helps to recharge your power! ,,refill at lakes and wells,Consumables,Common,1,0,0,images/icons/3833797336.png
-2734930286,Tool_Camera,Camera,,You can take screenshots with this item.,,,Tools,Common,1,0,0,
+2734930286,Tool_Camera,Camera,,You can take screenshots with this item.,,,Tools,Common,1,0,0,images/icons/2734930286.png
 600862405,Food_T1_raw_mushroom_Mushroom_brown,Penny Bun,,"
 Connected with the roots of the world it gathers ancient power in its core.
 
@@ -3842,34 +3842,34 @@ This Ancient Workbench is only a visual varaition of the normal workbench.",Furn
 1295700630,Vanity_Tx_DLC_Supporter_Warrior_Chest,Warrior Supporter chest,,Warrior Supporter chest description,,,Equipment,Common,1,0,0,images/icons/1295700630.png
 3665238533,Vanity_Tx_DLC_Supporter_Warrior_Boots,Warrior Supporter Boots,,Warrior Supporter Boots description,,,Equipment,Common,1,0,0,images/icons/3665238533.png
 131368072,Vanity_Tx_DLC_Supporter_Warrior_Legs,Warrior Supporter legs,,Warrior Supporter legs description,,,Equipment,Common,1,0,0,images/icons/131368072.png
-697993352,T1_Gem_GemOfBleeding,Gem of Bleeding,,"Critical hits with cut damage applies <img gemeffect_bleeding> bleeding on the enemy, that deals %k per second for %k",,,WeaponGem,Common,1,1,105,
-844759039,T1_Gem_GemOfRepetition,Gem of Repetition,,Dealing pierce damage applies <img gemeffect_puncturing> puncturing to enemies. <img gemeffect_puncturing> Punctured enemies receive %k bonus pierce damage from ANY pierce damage source for %k,,,WeaponGem,Common,1,1,105,
-3928711197,T1_Gem_GemOfSkulls,Gem of Skulls,,Killing a enemy with a visceral attack has a %k chance to spawn a friendly level %k flying skull,,,WeaponGem,Uncommon,1,1,105,
-3663511234,T1_Gem_GemOfIgnition,Gem of Burning,,"Dealing fire damage applies <img gemeffect_burning> burning for %k which deals %k per second. After a succesful trigger, it has a cooldown of %k",,,WeaponGem,Common,1,1,105,
-1786201577,T2_Gem_GemOfFracturing,Gem of Fracturing,,"Killing an enemy with blunt damage has a  %k chance to create homing bone shards that deal %k blunt damage, with a chance of spawning up to 4 projectiles.",,,WeaponGem,Rare,1,1,105,
-2157770933,T2_Gem_GemOfRetaliation,Gem of Retaliation,,Blocking damage has a %k chance to add %k bonus blunt damage to the next attack and increases the pushback.,,,WeaponGem,Common,1,1,105,
-415736304,T2_Gem_GemOfToxicReaction,Gem of Toxic Reaction,,Landing a Backstab on an enemy applies <img gemeffect_poison> poison for %k that deals %k poison damage per second.,,,WeaponGem,Uncommon,1,1,105,
-1378756449,T2_Gem_GemOfSwiftness,Gem of Swiftness,,After sprinting for a short time your attacks deal %k bonus cut damage for %k. The duration refreshes everytime you deal damage.,,,WeaponGem,Uncommon,1,1,105,
-4099513710,T2_Gem_GemOfHopefulEmbers,Gem of Hopeful Embers,,"When your Shroudmeter is in a below %k, defeated enemies drop Fogpower Orbs that replenish %k.",,,WeaponGem,Rare,1,1,105,
-3844758208,T3_Gem_GemOfConduction,Gem of Conduction,,"Hitting an enemy puts a <img gemeffect_stormseye> mark on them for %k. Hitting a <img gemeffect_stormseye> marked enemy sends a lightning to another <img gemeffect_stormseye> marked enemy, that deals %k and can chain to futher marked enemies. After a lightning went off, the effect has a %k cooldown before it can trigger again from the same enemy. Enemies that are part of a lightning chain have their <img gemeffect_stormseye> mark refereshed.",,,WeaponGem,Uncommon,1,1,105,
-2671415350,T3_Gem_GemOfLesserNecromancy,Gem of Lesser Necromancy,,Killing an enemy has a %k chance to spawn an allied level %k skeleton weakling. You can only have 4 active skeletons weaklings from this gem at a time. Spawning more deletes the oldest one. Skeleton weaklings decay when too long out of combat.,,,WeaponGem,Uncommon,1,1,105,
-4128996534,T3_Gem_GemOfAgility,Gem of Agility,,"After performing a Dodge, your next hit deals %k additional cut damage and replenishes %k",,,WeaponGem,Rare,1,1,105,
-2729865674,T3_Gem_GemOfOverpowering,Gem of Overpowering,,Attacking a blocking enemy deals %k additional Stamina Damage and increased pushback.,,,WeaponGem,Uncommon,1,1,105,
-63026718,T4_Gem_GemOfFocusedLight,Gem of Focused Light,,"Targeting an enemy for a few seconds while aiming or blocking puts a <img gemeffect_focusedlight> mark on the enemy. Attacking the marked enemy deals %k addtional fire damage. The mark can stackup to 3 times, by continued targeting, increasing the bonus damage by %k at 2 stacks and %k at 3 stacks.",,,WeaponGem,Legendary,1,1,105,
-173591857,T4_Gem_GemOfSoulReaping,Gem of Soul Reaping,,Damaging an enemy puts a <img gemeffect_soulreaping>  mark on them for %k. <img gemeffect_soulreaping> Marked enemies spawn a soul phial on death that can be destroyed to heal you and your allies for %k in a 5m radius and also counts as an enemy kill for other effects.,,,WeaponGem,Epic,1,1,105,
-1073007208,T4_Gem_GemOfCorruption,Gem of Corruption,,"Hitting an enemy applies a <img gemeffect_corruption> mark that can stack up to 5 times. <img gemeffect_corruption> Marked enemies will emit an explosion when no new stack of <img gemeffect_corruption> mark has been added for %k or if the enemy dies. The explosion deals %k shroud damage in a 1m radius. Each stack adds 0,5m and %k of the base damage to the explosion.",,,WeaponGem,Epic,1,1,105,
-100480458,T4_Gem_GemOfObsession,Gem of Obsession,,"While the Elixir Buff is active, dealing damage grants %k health regeneration, %k stamina regeneration and %k mana regeneration for %k. After the increased regeneration runs out, regeneration of health, stamina and mana are disabled for %k.",,,WeaponGem,Rare,1,1,105,
-3203425312,T5_Gem_GemOfColdComposure,Gem of Cold Composure,,"Blocking or Aiming for a short time grants you %k physical and %k magical resistance but slows you by %k. Getting hit or attacking while buffed creates an ice explosion that deals %k ice damageand slows hit enemies, after which the buff gets removed.",,,WeaponGem,Legendary,1,1,105,
-960232612,T5_Gem_GemOfMeteoricDescent,Gem of Meteoric Descent,,"Landing after gliding for same time creates an explosion that deals %k fire damage and leaves behind a trail of fire that applies <img gemeffect_bruning> burning to enemies, dealing %k per second for %k. After the initial impact, your attacks deal %k additional fire damage for %k.",,,WeaponGem,Epic,1,1,105,
-1066469057,T5_Gem_GemOfBloodlust,Gem of Bloodlust,,Grants a %k base chance to spawn a health orb when defeating an enemy. Collecting a health orb grants %k additional cut damage to your attacks and increases the chance for health orbs by %k for %k,,,WeaponGem,Rare,1,1,105,
-1634845335,T6_Gem_GemOfCurrents_OverFog,Gem of Currents,,"While Wet or Soaked, damaging enemies will apply Soaked to them for %k Sec. Damaging soaked enemies has a chance of %k to deal %k bonus shock damage.",,,WeaponGem,Rare,1,1,105,
-591982940,T6_Gem_GemOfAerobatics_UnderFog,Gem of Aerobatics,,Attacking while in the air spawns %k projectiles that home towards your target and deal %k piercing damage,,,WeaponGem,Epic,1,1,105,
-2267960734,T6_Gem_GemOfGreaterNecromancy,Gem of Greater Necromancy,,Killing an enemy has a %k chance to spawn an allied level %k elite skeleton. You can only have 1 active elite skeleton from this gem at a time. Spawning more deletes the exsiting one. Elite Skeletons decay when too long out of combat.,,,WeaponGem,Rare,1,1,105,
-1460033731,T6_Gem_GemOfLycanthropy,Gem of Lycanthropy,,"Defeating an enemy at night has a %k chance to spawn a Lunar Orb. Collecting a Luna Orb grants %k health and %k mana aswell as a special food buff that grants %k max health, %k max mana, %k max stamina and %k melee damage for %k",,,WeaponGem,Legendary,1,1,105,
-312775854,T7_Gem_GemOfCleansing,Gem of Cleansing,,Dealing damage removes the enemies fog damage resistance for %k,,,WeaponGem,Epic,1,1,105,
-2622336202,T7_Gem_GemOfDestiny,Gem of Destiny,,"Mark one random enemy within %km as Marked by Destiny for %k. Defeating the marked enemy spawns an orb that grants either %k health, %k mana or %k stamina, depending on what you need most in the moment.",,,WeaponGem,Epic,1,1,105,
-2686813646,T7_Gem_GemOfArmoring,Gem of Armoring,,Killing an enemy spawns an orb at the enemies location. Collecting the orb allows you to resist all damage for  %k. ,,,WeaponGem,Legendary,1,1,105,
-2418233534,T7_Gem_GemOfHyperSpecialization,Gem of Hyperspecialization,,"After triggering the weapons Special Ability, any kill within %k will return %k Special Ability Energy.",,,WeaponGem,Legendary,1,1,105,
+697993352,T1_Gem_GemOfBleeding,Gem of Bleeding,,"Critical hits with cut damage applies <img gemeffect_bleeding> bleeding on the enemy, that deals %k per second for %k",,,WeaponGem,Common,1,1,105,images/icons/697993352.png
+844759039,T1_Gem_GemOfRepetition,Gem of Repetition,,Dealing pierce damage applies <img gemeffect_puncturing> puncturing to enemies. <img gemeffect_puncturing> Punctured enemies receive %k bonus pierce damage from ANY pierce damage source for %k,,,WeaponGem,Common,1,1,105,images/icons/844759039.png
+3928711197,T1_Gem_GemOfSkulls,Gem of Skulls,,Killing a enemy with a visceral attack has a %k chance to spawn a friendly level %k flying skull,,,WeaponGem,Uncommon,1,1,105,images/icons/3928711197.png
+3663511234,T1_Gem_GemOfIgnition,Gem of Burning,,"Dealing fire damage applies <img gemeffect_burning> burning for %k which deals %k per second. After a succesful trigger, it has a cooldown of %k",,,WeaponGem,Common,1,1,105,images/icons/3663511234.png
+1786201577,T2_Gem_GemOfFracturing,Gem of Fracturing,,"Killing an enemy with blunt damage has a  %k chance to create homing bone shards that deal %k blunt damage, with a chance of spawning up to 4 projectiles.",,,WeaponGem,Rare,1,1,105,images/icons/1786201577.png
+2157770933,T2_Gem_GemOfRetaliation,Gem of Retaliation,,Blocking damage has a %k chance to add %k bonus blunt damage to the next attack and increases the pushback.,,,WeaponGem,Common,1,1,105,images/icons/2157770933.png
+415736304,T2_Gem_GemOfToxicReaction,Gem of Toxic Reaction,,Landing a Backstab on an enemy applies <img gemeffect_poison> poison for %k that deals %k poison damage per second.,,,WeaponGem,Uncommon,1,1,105,images/icons/415736304.png
+1378756449,T2_Gem_GemOfSwiftness,Gem of Swiftness,,After sprinting for a short time your attacks deal %k bonus cut damage for %k. The duration refreshes everytime you deal damage.,,,WeaponGem,Uncommon,1,1,105,images/icons/1378756449.png
+4099513710,T2_Gem_GemOfHopefulEmbers,Gem of Hopeful Embers,,"When your Shroudmeter is in a below %k, defeated enemies drop Fogpower Orbs that replenish %k.",,,WeaponGem,Rare,1,1,105,images/icons/4099513710.png
+3844758208,T3_Gem_GemOfConduction,Gem of Conduction,,"Hitting an enemy puts a <img gemeffect_stormseye> mark on them for %k. Hitting a <img gemeffect_stormseye> marked enemy sends a lightning to another <img gemeffect_stormseye> marked enemy, that deals %k and can chain to futher marked enemies. After a lightning went off, the effect has a %k cooldown before it can trigger again from the same enemy. Enemies that are part of a lightning chain have their <img gemeffect_stormseye> mark refereshed.",,,WeaponGem,Uncommon,1,1,105,images/icons/3844758208.png
+2671415350,T3_Gem_GemOfLesserNecromancy,Gem of Lesser Necromancy,,Killing an enemy has a %k chance to spawn an allied level %k skeleton weakling. You can only have 4 active skeletons weaklings from this gem at a time. Spawning more deletes the oldest one. Skeleton weaklings decay when too long out of combat.,,,WeaponGem,Uncommon,1,1,105,images/icons/2671415350.png
+4128996534,T3_Gem_GemOfAgility,Gem of Agility,,"After performing a Dodge, your next hit deals %k additional cut damage and replenishes %k",,,WeaponGem,Rare,1,1,105,images/icons/4128996534.png
+2729865674,T3_Gem_GemOfOverpowering,Gem of Overpowering,,Attacking a blocking enemy deals %k additional Stamina Damage and increased pushback.,,,WeaponGem,Uncommon,1,1,105,images/icons/2729865674.png
+63026718,T4_Gem_GemOfFocusedLight,Gem of Focused Light,,"Targeting an enemy for a few seconds while aiming or blocking puts a <img gemeffect_focusedlight> mark on the enemy. Attacking the marked enemy deals %k addtional fire damage. The mark can stackup to 3 times, by continued targeting, increasing the bonus damage by %k at 2 stacks and %k at 3 stacks.",,,WeaponGem,Legendary,1,1,105,images/icons/63026718.png
+173591857,T4_Gem_GemOfSoulReaping,Gem of Soul Reaping,,Damaging an enemy puts a <img gemeffect_soulreaping>  mark on them for %k. <img gemeffect_soulreaping> Marked enemies spawn a soul phial on death that can be destroyed to heal you and your allies for %k in a 5m radius and also counts as an enemy kill for other effects.,,,WeaponGem,Epic,1,1,105,images/icons/173591857.png
+1073007208,T4_Gem_GemOfCorruption,Gem of Corruption,,"Hitting an enemy applies a <img gemeffect_corruption> mark that can stack up to 5 times. <img gemeffect_corruption> Marked enemies will emit an explosion when no new stack of <img gemeffect_corruption> mark has been added for %k or if the enemy dies. The explosion deals %k shroud damage in a 1m radius. Each stack adds 0,5m and %k of the base damage to the explosion.",,,WeaponGem,Epic,1,1,105,images/icons/1073007208.png
+100480458,T4_Gem_GemOfObsession,Gem of Obsession,,"While the Elixir Buff is active, dealing damage grants %k health regeneration, %k stamina regeneration and %k mana regeneration for %k. After the increased regeneration runs out, regeneration of health, stamina and mana are disabled for %k.",,,WeaponGem,Rare,1,1,105,images/icons/100480458.png
+3203425312,T5_Gem_GemOfColdComposure,Gem of Cold Composure,,"Blocking or Aiming for a short time grants you %k physical and %k magical resistance but slows you by %k. Getting hit or attacking while buffed creates an ice explosion that deals %k ice damageand slows hit enemies, after which the buff gets removed.",,,WeaponGem,Legendary,1,1,105,images/icons/3203425312.png
+960232612,T5_Gem_GemOfMeteoricDescent,Gem of Meteoric Descent,,"Landing after gliding for same time creates an explosion that deals %k fire damage and leaves behind a trail of fire that applies <img gemeffect_bruning> burning to enemies, dealing %k per second for %k. After the initial impact, your attacks deal %k additional fire damage for %k.",,,WeaponGem,Epic,1,1,105,images/icons/960232612.png
+1066469057,T5_Gem_GemOfBloodlust,Gem of Bloodlust,,Grants a %k base chance to spawn a health orb when defeating an enemy. Collecting a health orb grants %k additional cut damage to your attacks and increases the chance for health orbs by %k for %k,,,WeaponGem,Rare,1,1,105,images/icons/1066469057.png
+1634845335,T6_Gem_GemOfCurrents_OverFog,Gem of Currents,,"While Wet or Soaked, damaging enemies will apply Soaked to them for %k Sec. Damaging soaked enemies has a chance of %k to deal %k bonus shock damage.",,,WeaponGem,Rare,1,1,105,images/icons/1634845335.png
+591982940,T6_Gem_GemOfAerobatics_UnderFog,Gem of Aerobatics,,Attacking while in the air spawns %k projectiles that home towards your target and deal %k piercing damage,,,WeaponGem,Epic,1,1,105,images/icons/591982940.png
+2267960734,T6_Gem_GemOfGreaterNecromancy,Gem of Greater Necromancy,,Killing an enemy has a %k chance to spawn an allied level %k elite skeleton. You can only have 1 active elite skeleton from this gem at a time. Spawning more deletes the exsiting one. Elite Skeletons decay when too long out of combat.,,,WeaponGem,Rare,1,1,105,images/icons/2267960734.png
+1460033731,T6_Gem_GemOfLycanthropy,Gem of Lycanthropy,,"Defeating an enemy at night has a %k chance to spawn a Lunar Orb. Collecting a Luna Orb grants %k health and %k mana aswell as a special food buff that grants %k max health, %k max mana, %k max stamina and %k melee damage for %k",,,WeaponGem,Legendary,1,1,105,images/icons/1460033731.png
+312775854,T7_Gem_GemOfCleansing,Gem of Cleansing,,Dealing damage removes the enemies fog damage resistance for %k,,,WeaponGem,Epic,1,1,105,images/icons/312775854.png
+2622336202,T7_Gem_GemOfDestiny,Gem of Destiny,,"Mark one random enemy within %km as Marked by Destiny for %k. Defeating the marked enemy spawns an orb that grants either %k health, %k mana or %k stamina, depending on what you need most in the moment.",,,WeaponGem,Epic,1,1,105,images/icons/2622336202.png
+2686813646,T7_Gem_GemOfArmoring,Gem of Armoring,,Killing an enemy spawns an orb at the enemies location. Collecting the orb allows you to resist all damage for  %k. ,,,WeaponGem,Legendary,1,1,105,images/icons/2686813646.png
+2418233534,T7_Gem_GemOfHyperSpecialization,Gem of Hyperspecialization,,"After triggering the weapons Special Ability, any kill within %k will return %k Special Ability Energy.",,,WeaponGem,Legendary,1,1,105,images/icons/2418233534.png
 89089003,Building_Overgrowth_Shape_Big,Shape Big,,,,,Blueprints,Common,1,0,0,images/icons/89089003.png
 473703809,Building_Overgrowth_Shape_Medium,Shape Medium,,,,,Blueprints,Common,1,0,0,images/icons/473703809.png
 439089072,Building_Overgrowth_Shape_Small,Shape Small,,,,,Blueprints,Common,1,0,0,images/icons/439089072.png

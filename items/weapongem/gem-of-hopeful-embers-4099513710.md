@@ -1,6 +1,6 @@
 # Gem of Hopeful Embers
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Hopeful Embers" width="160">
+<img src="../../images/icons/4099513710.png" alt="Gem of Hopeful Embers" width="160">
 
 | | |
 |---|---|

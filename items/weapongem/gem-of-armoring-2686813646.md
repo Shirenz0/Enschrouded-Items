@@ -1,6 +1,6 @@
 # Gem of Armoring
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Armoring" width="160">
+<img src="../../images/icons/2686813646.png" alt="Gem of Armoring" width="160">
 
 | | |
 |---|---|

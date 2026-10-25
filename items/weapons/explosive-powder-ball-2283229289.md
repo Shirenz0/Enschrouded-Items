@@ -1,6 +1,6 @@
 # Explosive Powder Ball
 
-<img src="../../images/categories/weapons.svg" alt="Explosive Powder Ball" width="160">
+<img src="../../images/icons/2283229289.png" alt="Explosive Powder Ball" width="160">
 
 | | |
 |---|---|

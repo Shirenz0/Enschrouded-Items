@@ -1,6 +1,6 @@
 # Shroud Lair Greatsword
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Greatsword" width="160">
+<img src="../../images/icons/2151380048.png" alt="Shroud Lair Greatsword" width="160">
 
 | | |
 |---|---|

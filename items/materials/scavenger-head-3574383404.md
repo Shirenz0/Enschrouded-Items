@@ -1,6 +1,6 @@
 # Scavenger Head
 
-<img src="../../images/categories/materials.svg" alt="Scavenger Head" width="160">
+<img src="../../images/icons/3574383404.png" alt="Scavenger Head" width="160">
 
 | | |
 |---|---|

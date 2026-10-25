@@ -1,6 +1,6 @@
 # Underwater Grappling Hook
 
-<img src="../../images/categories/tools.svg" alt="Underwater Grappling Hook" width="160">
+<img src="../../images/icons/3326121147.png" alt="Underwater Grappling Hook" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gem of Burning
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Burning" width="160">
+<img src="../../images/icons/3663511234.png" alt="Gem of Burning" width="160">
 
 | | |
 |---|---|

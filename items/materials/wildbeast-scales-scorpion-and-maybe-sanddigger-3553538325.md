@@ -1,6 +1,6 @@
 # Wildbeast Scales (Scorpion and maybe SandDigger)
 
-<img src="../../images/categories/materials.svg" alt="Wildbeast Scales (Scorpion and maybe SandDigger)" width="160">
+<img src="../../images/icons/3553538325.png" alt="Wildbeast Scales (Scorpion and maybe SandDigger)" width="160">
 
 | | |
 |---|---|

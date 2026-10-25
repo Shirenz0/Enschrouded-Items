@@ -1,6 +1,6 @@
 # Gem of Bleeding
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Bleeding" width="160">
+<img src="../../images/icons/697993352.png" alt="Gem of Bleeding" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Shroud Lair Mace
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Mace" width="160">
+<img src="../../images/icons/2604232739.png" alt="Shroud Lair Mace" width="160">
 
 | | |
 |---|---|

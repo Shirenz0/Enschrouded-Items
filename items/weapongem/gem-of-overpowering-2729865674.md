@@ -1,6 +1,6 @@
 # Gem of Overpowering
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Overpowering" width="160">
+<img src="../../images/icons/2729865674.png" alt="Gem of Overpowering" width="160">
 
 | | |
 |---|---|

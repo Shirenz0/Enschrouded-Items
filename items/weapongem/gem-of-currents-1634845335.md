@@ -1,6 +1,6 @@
 # Gem of Currents
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Currents" width="160">
+<img src="../../images/icons/1634845335.png" alt="Gem of Currents" width="160">
 
 | | |
 |---|---|

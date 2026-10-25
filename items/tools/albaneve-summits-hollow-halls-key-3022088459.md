@@ -1,6 +1,6 @@
 # Albaneve Summits Hollow Halls Key
 
-<img src="../../images/categories/tools.svg" alt="Albaneve Summits Hollow Halls Key" width="160">
+<img src="../../images/icons/3022088459.png" alt="Albaneve Summits Hollow Halls Key" width="160">
 
 | | |
 |---|---|

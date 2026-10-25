@@ -1,6 +1,6 @@
 # Gem of Aerobatics
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Aerobatics" width="160">
+<img src="../../images/icons/591982940.png" alt="Gem of Aerobatics" width="160">
 
 | | |
 |---|---|

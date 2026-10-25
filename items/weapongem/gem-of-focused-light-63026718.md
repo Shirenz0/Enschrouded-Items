@@ -1,6 +1,6 @@
 # Gem of Focused Light
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Focused Light" width="160">
+<img src="../../images/icons/63026718.png" alt="Gem of Focused Light" width="160">
 
 | | |
 |---|---|

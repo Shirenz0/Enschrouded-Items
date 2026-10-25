@@ -1,6 +1,6 @@
 # Dungeon Wand
 
-<img src="../../images/categories/weapons.svg" alt="Dungeon Wand" width="160">
+<img src="../../images/icons/571871007.png" alt="Dungeon Wand" width="160">
 
 | | |
 |---|---|

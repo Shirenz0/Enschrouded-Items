@@ -1,6 +1,6 @@
 # Major Arcana
 
-<img src="../../images/categories/weapons.svg" alt="Major Arcana" width="160">
+<img src="../../images/icons/225230490.png" alt="Major Arcana" width="160">
 
 | | |
 |---|---|

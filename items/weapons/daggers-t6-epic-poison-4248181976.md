@@ -1,6 +1,6 @@
 # Daggers T6 Epic Poison
 
-<img src="../../images/categories/weapons.svg" alt="Daggers T6 Epic Poison" width="160">
+<img src="../../images/icons/4248181976.png" alt="Daggers T6 Epic Poison" width="160">
 
 | | |
 |---|---|

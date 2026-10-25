@@ -1,6 +1,6 @@
 # Shroud Lair Hammer
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Hammer" width="160">
+<img src="../../images/icons/4071675176.png" alt="Shroud Lair Hammer" width="160">
 
 | | |
 |---|---|

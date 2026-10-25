@@ -1,6 +1,6 @@
 # Circular Sawblades
 
-<img src="../../images/categories/materials.svg" alt="Circular Sawblades" width="160">
+<img src="../../images/icons/1461371688.png" alt="Circular Sawblades" width="160">
 
 | | |
 |---|---|

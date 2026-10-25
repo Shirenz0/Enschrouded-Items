@@ -1,6 +1,6 @@
 # Ancient/Archaic Lockpick
 
-<img src="../../images/categories/tools.svg" alt="Ancient/Archaic Lockpick" width="160">
+<img src="../../images/icons/1528331711.png" alt="Ancient/Archaic Lockpick" width="160">
 
 | | |
 |---|---|

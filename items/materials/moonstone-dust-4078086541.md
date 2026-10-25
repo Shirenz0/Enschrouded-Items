@@ -1,6 +1,6 @@
 # Moonstone Dust
 
-<img src="../../images/categories/materials.svg" alt="Moonstone Dust" width="160">
+<img src="../../images/icons/4078086541.png" alt="Moonstone Dust" width="160">
 
 | | |
 |---|---|

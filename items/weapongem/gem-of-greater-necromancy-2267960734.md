@@ -1,6 +1,6 @@
 # Gem of Greater Necromancy
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Greater Necromancy" width="160">
+<img src="../../images/icons/2267960734.png" alt="Gem of Greater Necromancy" width="160">
 
 | | |
 |---|---|

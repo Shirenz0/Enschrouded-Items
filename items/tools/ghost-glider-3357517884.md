@@ -1,6 +1,6 @@
 # Ghost Glider
 
-<img src="../../images/categories/tools.svg" alt="Ghost Glider" width="160">
+<img src="../../images/icons/3357517884.png" alt="Ghost Glider" width="160">
 
 | | |
 |---|---|

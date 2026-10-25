@@ -1,6 +1,6 @@
 # Gem of Repetition
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Repetition" width="160">
+<img src="../../images/icons/844759039.png" alt="Gem of Repetition" width="160">
 
 | | |
 |---|---|

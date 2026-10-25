@@ -1,6 +1,6 @@
 # Gem of Fracturing
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Fracturing" width="160">
+<img src="../../images/icons/1786201577.png" alt="Gem of Fracturing" width="160">
 
 | | |
 |---|---|

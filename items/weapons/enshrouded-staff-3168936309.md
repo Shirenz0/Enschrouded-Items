@@ -1,6 +1,6 @@
 # Enshrouded Staff
 
-<img src="../../images/categories/weapons.svg" alt="Enshrouded Staff" width="160">
+<img src="../../images/icons/3168936309.png" alt="Enshrouded Staff" width="160">
 
 | | |
 |---|---|

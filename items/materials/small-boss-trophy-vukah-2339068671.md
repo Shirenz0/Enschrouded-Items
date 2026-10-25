@@ -1,6 +1,6 @@
 # Small Boss Trophy Vukah
 
-<img src="../../images/categories/materials.svg" alt="Small Boss Trophy Vukah" width="160">
+<img src="../../images/icons/2339068671.png" alt="Small Boss Trophy Vukah" width="160">
 
 | | |
 |---|---|

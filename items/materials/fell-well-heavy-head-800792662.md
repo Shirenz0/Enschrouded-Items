@@ -1,6 +1,6 @@
 # Fell Well Heavy Head
 
-<img src="../../images/categories/materials.svg" alt="Fell Well Heavy Head" width="160">
+<img src="../../images/icons/800792662.png" alt="Fell Well Heavy Head" width="160">
 
 | | |
 |---|---|

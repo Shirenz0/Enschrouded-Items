@@ -20,7 +20,7 @@
 | <img src="../images/icons/764289975.png" width="48"> | [Aloe](../items/materials/aloe-764289975.md) | ⚪ Common | 25 | 250 |
 | <img src="../images/icons/1862351329.png" width="48"> | [Amber](../items/materials/amber-1862351329.md) | ⚪ Common | 13 | 250 |
 | <img src="../images/icons/2027586500.png" width="48"> | [Ammoniak Gland](../items/materials/ammoniak-gland-2027586500.md) | ⚪ Common | 16 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Ancient Construct: Heavy Head](../items/materials/ancient-construct-heavy-head-2477070271.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/2477070271.png" width="48"> | [Ancient Construct: Heavy Head](../items/materials/ancient-construct-heavy-head-2477070271.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/2835143812.png" width="48"> | [Ancient Rune](../items/materials/ancient-rune-2835143812.md) | 🟠 Legendary | 13 | 5000 |
 | <img src="../images/icons/2670118573.png" width="48"> | [Ancient/Archaic Infusion](../items/materials/ancient-archaic-infusion-2670118573.md) | ⚪ Common | 45 | 250 |
 | <img src="../images/icons/984234407.png" width="48"> | [Animal Fur](../items/materials/animal-fur-984234407.md) | ⚪ Common | 5 | 250 |
@@ -50,7 +50,7 @@
 | <img src="../images/icons/3478847834.png" width="48"> | [Chamomile](../items/materials/chamomile-3478847834.md) | ⚪ Common | 13 | 250 |
 | <img src="../images/icons/372029138.png" width="48"> | [Charcoal](../items/materials/charcoal-372029138.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/1985910431.png" width="48"> | [Chitin Podwer](../items/materials/chitin-podwer-1985910431.md) | 🟢 Uncommon | 33 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Circular Sawblades](../items/materials/circular-sawblades-1461371688.md) | 🔵 Rare | - | 50 |
+| <img src="../images/icons/1461371688.png" width="48"> | [Circular Sawblades](../items/materials/circular-sawblades-1461371688.md) | 🔵 Rare | - | 50 |
 | <img src="../images/icons/4230023681.png" width="48"> | [Coal Powder](../items/materials/coal-powder-4230023681.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/397030700.png" width="48"> | [Coffee Beans](../items/materials/coffee-beans-397030700.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/1475408789.png" width="48"> | [Conifer Logs](../items/materials/conifer-logs-1475408789.md) | ⚪ Common | 33 | 250 |
@@ -61,7 +61,7 @@
 | <img src="../images/icons/1611805749.png" width="48"> | [Critter Carapace](../items/materials/critter-carapace-1611805749.md) | ⚪ Common | 33 | 250 |
 | <img src="../images/icons/1693311429.png" width="48"> | [Critter Glands](../items/materials/critter-glands-1693311429.md) | ⚪ Common | 18 | 250 |
 | <img src="../images/icons/3264892278.png" width="48"> | [Critter Parts](../items/materials/critter-parts-3264892278.md) | ⚪ Common | 5 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Damaged Fur Boot](../items/materials/damaged-fur-boot-166917849.md) | ⚪ Common | 1 | 500 |
+| <img src="../images/icons/166917849.png" width="48"> | [Damaged Fur Boot](../items/materials/damaged-fur-boot-166917849.md) | ⚪ Common | 1 | 500 |
 | <img src="../images/icons/1897605064.png" width="48"> | [Daylily Flower](../items/materials/daylily-flower-1897605064.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/3937186197.png" width="48"> | [Deep Forest Dirt](../items/materials/deep-forest-dirt-3937186197.md) | ⚪ Common | - | 1000 |
 | <img src="../images/icons/1619282664.png" width="48"> | [Deepforest Rubble](../items/materials/deepforest-rubble-1619282664.md) | ⚪ Common | - | 1000 |
@@ -70,7 +70,7 @@
 | <img src="../images/icons/4056696698.png" width="48"> | [Desert Rubble](../items/materials/desert-rubble-4056696698.md) | ⚪ Common | - | 1000 |
 | <img src="../images/icons/1725874983.png" width="48"> | [Diamond Dust](../items/materials/diamond-dust-1725874983.md) | ⚪ Common | 45 | 250 |
 | <img src="../images/icons/1558115984.png" width="48"> | [Dirt](../items/materials/dirt-1558115984.md) | ⚪ Common | - | 1000 |
-| <img src="../images/categories/materials.svg" width="48"> | [Dragon Head](../items/materials/dragon-head-707511507.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/707511507.png" width="48"> | [Dragon Head](../items/materials/dragon-head-707511507.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/4248468545.png" width="48"> | [Drak Blood](../items/materials/drak-blood-4248468545.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/866649871.png" width="48"> | [Drak Scales](../items/materials/drak-scales-866649871.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/3420500473.png" width="48"> | [Dried Fur](../items/materials/dried-fur-3420500473.md) | ⚪ Common | 5 | 250 |
@@ -81,10 +81,10 @@
 | <img src="../images/icons/2128518559.png" width="48"> | [Fabric](../items/materials/fabric-2128518559.md) | ⚪ Common | 25 | 250 |
 | <img src="../images/icons/1823674426.png" width="48"> | [Farm Soil](../items/materials/farm-soil-1823674426.md) | ⚪ Common | - | 250 |
 | <img src="../images/icons/3838906683.png" width="48"> | [Feather](../items/materials/feather-3838906683.md) | ⚪ Common | 18 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Fell Critter Queen Head](../items/materials/fell-critter-queen-head-1353828797.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/1353828797.png" width="48"> | [Fell Critter Queen Head](../items/materials/fell-critter-queen-head-1353828797.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/536984995.png" width="48"> | [Fell Heart](../items/materials/fell-heart-536984995.md) | 🟢 Uncommon | 25 | 250 |
 | <img src="../images/icons/2698923038.png" width="48"> | [Fell Mist](../items/materials/fell-mist-2698923038.md) | 🔵 Rare | 25 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Fell Well Heavy Head](../items/materials/fell-well-heavy-head-800792662.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/800792662.png" width="48"> | [Fell Well Heavy Head](../items/materials/fell-well-heavy-head-800792662.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/4044361518.png" width="48"> | [Fertile AncientLand T7 Dirt](../items/materials/fertile-ancientland-t7-dirt-4044361518.md) | ⚪ Common | - | 1000 |
 | <img src="../images/icons/1458330217.png" width="48"> | [Fertile AncientLand T7 Dirt For Special Ancient Grass](../items/materials/fertile-ancientland-t7-dirt-for-special-ancient-grass-1458330217.md) | ⚪ Common | - | 1000 |
 | <img src="../images/icons/459345780.png" width="48"> | [Fertile Deepforest Dirt](../items/materials/fertile-deepforest-dirt-459345780.md) | ⚪ Common | - | 1000 |
@@ -148,9 +148,9 @@
 | <img src="../images/icons/3702590848.png" width="48"> | [Green Vitriol Dust](../items/materials/green-vitriol-dust-3702590848.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/1358181917.png" width="48"> | [Ground Coffee Beans](../items/materials/ground-coffee-beans-1358181917.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/1765656585.png" width="48"> | [Hardwood](../items/materials/hardwood-1765656585.md) | ⚪ Common | 13 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Heavy Head](../items/materials/heavy-head-2710616938.md) | 🔵 Rare | - | 50 |
-| <img src="../images/categories/materials.svg" width="48"> | [Hollow Heavy Hero Head](../items/materials/hollow-heavy-hero-head-3411381312.md) | 🟣 Epic | - | 50 |
-| <img src="../images/categories/materials.svg" width="48"> | [Hydrak'Dal Head](../items/materials/hydrak-dal-head-345631469.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/2710616938.png" width="48"> | [Heavy Head](../items/materials/heavy-head-2710616938.md) | 🔵 Rare | - | 50 |
+| <img src="../images/icons/3411381312.png" width="48"> | [Hollow Heavy Hero Head](../items/materials/hollow-heavy-hero-head-3411381312.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/345631469.png" width="48"> | [Hydrak'Dal Head](../items/materials/hydrak-dal-head-345631469.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/4276529065.png" width="48"> | [Indigo Plant](../items/materials/indigo-plant-4276529065.md) | ⚪ Common | 13 | 250 |
 | <img src="../images/icons/159114158.png" width="48"> | [Iron Bars](../items/materials/iron-bars-159114158.md) | ⚪ Common | 25 | 250 |
 | <img src="../images/icons/4114143627.png" width="48"> | [Iron Dust](../items/materials/iron-dust-4114143627.md) | ⚪ Common | 40 | 250 |
@@ -163,13 +163,13 @@
 | <img src="../images/icons/1997294632.png" width="48"> | [Lore Text Guidance BrokenVillage](../items/materials/lore-text-guidance-brokenvillage-1997294632.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/4043331491.png" width="48"> | [Lore Text Open Book](../items/materials/lore-text-open-book-4043331491.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1925006089.png" width="48"> | [Lump of Clay](../items/materials/lump-of-clay-1925006089.md) | ⚪ Common | 13 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Mage Head](../items/materials/mage-head-3438055168.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/3438055168.png" width="48"> | [Mage Head](../items/materials/mage-head-3438055168.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/234899173.png" width="48"> | [Magma Gel](../items/materials/magma-gel-234899173.md) | ⚪ Common | 45 | 250 |
 | <img src="../images/icons/132545371.png" width="48"> | [Metal Scraps](../items/materials/metal-scraps-132545371.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/4271896226.png" width="48"> | [Metal Sheets](../items/materials/metal-sheets-4271896226.md) | ⚪ Common | 5 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Monstrosity Head](../items/materials/monstrosity-head-1138733565.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/1138733565.png" width="48"> | [Monstrosity Head](../items/materials/monstrosity-head-1138733565.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/2975006357.png" width="48"> | [Monstrous Ribs](../items/materials/monstrous-ribs-2975006357.md) | 🟣 Epic | 18 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Moonstone Dust](../items/materials/moonstone-dust-4078086541.md) | ⚪ Common | 45 | 250 |
+| <img src="../images/icons/4078086541.png" width="48"> | [Moonstone Dust](../items/materials/moonstone-dust-4078086541.md) | ⚪ Common | 45 | 250 |
 | <img src="../images/icons/3585782303.png" width="48"> | [Moss](../items/materials/moss-3585782303.md) | ⚪ Common | - | 1000 |
 | <img src="../images/icons/1898288525.png" width="48"> | [Mother-Of-Pearl](../items/materials/mother-of-pearl-1898288525.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/2479098085.png" width="48"> | [Mushroom Flesh](../items/materials/mushroom-flesh-2479098085.md) | ⚪ Common | - | 250 |
@@ -200,7 +200,7 @@
 | <img src="../images/icons/3984646053.png" width="48"> | [Raw Meat and Tomato Skewer](../items/materials/raw-meat-and-tomato-skewer-3984646053.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/2374813707.png" width="48"> | [Raw Rice](../items/materials/raw-rice-2374813707.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/3960097842.png" width="48"> | [Red Fabric](../items/materials/red-fabric-3960097842.md) | ⚪ Common | 25 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Red Fell Critter Queen Head](../items/materials/red-fell-critter-queen-head-1725685196.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/1725685196.png" width="48"> | [Red Fell Critter Queen Head](../items/materials/red-fell-critter-queen-head-1725685196.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/2530601241.png" width="48"> | [Red Marble fragment](../items/materials/red-marble-fragment-2530601241.md) | ⚪ Common | 5 | 500 |
 | <img src="../images/icons/2845598712.png" width="48"> | [Reptile Hide](../items/materials/reptile-hide-2845598712.md) | ⚪ Common | 13 | 250 |
 | <img src="../images/icons/291752398.png" width="48"> | [Reptile Leather](../items/materials/reptile-leather-291752398.md) | ⚪ Common | 13 | 250 |
@@ -220,7 +220,7 @@
 | <img src="../images/icons/2493843175.png" width="48"> | [Sand](../items/materials/sand-2493843175.md) | ⚪ Common | - | 1000 |
 | <img src="../images/icons/4079068070.png" width="48"> | [Sanddigger Scales](../items/materials/sanddigger-scales-4079068070.md) | ⚪ Common | 25 | 250 |
 | <img src="../images/icons/1401630464.png" width="48"> | [Sandstone](../items/materials/sandstone-1401630464.md) | ⚪ Common | - | 1000 |
-| <img src="../images/categories/materials.svg" width="48"> | [Scavenger Head](../items/materials/scavenger-head-3574383404.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/3574383404.png" width="48"> | [Scavenger Head](../items/materials/scavenger-head-3574383404.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/310580024.png" width="48"> | [Shadow Rose](../items/materials/shadow-rose-310580024.md) | 🟢 Uncommon | 33 | 250 |
 | <img src="../images/icons/3614911410.png" width="48"> | [Shortcrust Pastry Base](../items/materials/shortcrust-pastry-base-3614911410.md) | ⚪ Common | 18 | 250 |
 | <img src="../images/icons/1047122195.png" width="48"> | [Shroud Adhesive](../items/materials/shroud-adhesive-1047122195.md) | 🟢 Uncommon | 18 | 250 |
@@ -236,10 +236,10 @@
 | <img src="../images/icons/1887186828.png" width="48"> | [Shroud Sludge](../items/materials/shroud-sludge-1887186828.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/579568751.png" width="48"> | [Shroud Vapor](../items/materials/shroud-vapor-579568751.md) | 🔵 Rare | 33 | 250 |
 | <img src="../images/icons/3748695465.png" width="48"> | [Silver Key](../items/materials/silver-key-3748695465.md) | ⚪ Common | - | 5 |
-| <img src="../images/categories/materials.svg" width="48"> | [Skeleton Heavy head](../items/materials/skeleton-heavy-head-1368893472.md) | 🟣 Epic | - | 50 |
-| <img src="../images/categories/materials.svg" width="48"> | [Skeleton T7 Boss Head](../items/materials/skeleton-t7-boss-head-2573714663.md) | 🟣 Epic | - | 50 |
-| <img src="../images/categories/materials.svg" width="48"> | [Small Boss Trophy Vukah](../items/materials/small-boss-trophy-vukah-2339068671.md) | 🟣 Epic | - | 50 |
-| <img src="../images/categories/materials.svg" width="48"> | [Sparkling Dust](../items/materials/sparkling-dust-844454296.md) | ⚪ Common | 45 | 250 |
+| <img src="../images/icons/1368893472.png" width="48"> | [Skeleton Heavy head](../items/materials/skeleton-heavy-head-1368893472.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/2573714663.png" width="48"> | [Skeleton T7 Boss Head](../items/materials/skeleton-t7-boss-head-2573714663.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/2339068671.png" width="48"> | [Small Boss Trophy Vukah](../items/materials/small-boss-trophy-vukah-2339068671.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/844454296.png" width="48"> | [Sparkling Dust](../items/materials/sparkling-dust-844454296.md) | ⚪ Common | 45 | 250 |
 | <img src="../images/icons/1126086984.png" width="48"> | [Spice](../items/materials/spice-1126086984.md) | ⚪ Common | 25 | 250 |
 | <img src="../images/icons/1212327967.png" width="48"> | [Spider Gland](../items/materials/spider-gland-1212327967.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/2732808327.png" width="48"> | [Steppes Dirt](../items/materials/steppes-dirt-2732808327.md) | ⚪ Common | - | 1000 |
@@ -269,13 +269,13 @@
 | <img src="../images/icons/1496290527.png" width="48"> | [Torn Cloth](../items/materials/torn-cloth-1496290527.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/1549788273.png" width="48"> | [Toxic Goo](../items/materials/toxic-goo-1549788273.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/3577968307.png" width="48"> | [Treehouse Material](../items/materials/treehouse-material-3577968307.md) | ⚪ Common | - | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Trophy Cyclops](../items/materials/trophy-cyclops-2310197711.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/2310197711.png" width="48"> | [Trophy Cyclops](../items/materials/trophy-cyclops-2310197711.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/1283252179.png" width="48"> | [Tropical Wood](../items/materials/tropical-wood-1283252179.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/1798662696.png" width="48"> | [Twig](../items/materials/twig-1798662696.md) | ⚪ Common | 1 | 250 |
 | <img src="../images/icons/1068232992.png" width="48"> | [Underwater Luminous Growth](../items/materials/underwater-luminous-growth-1068232992.md) | ⚪ Common | - | 250 |
 | <img src="../images/icons/890360552.png" width="48"> | [Underwater Mud](../items/materials/underwater-mud-890360552.md) | ⚪ Common | - | 1000 |
-| <img src="../images/categories/materials.svg" width="48"> | [Vorgoth Blood](../items/materials/vorgoth-blood-1940778781.md) | ⚪ Common | 45 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Vorgoth Eye](../items/materials/vorgoth-eye-4036190833.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/1940778781.png" width="48"> | [Vorgoth Blood](../items/materials/vorgoth-blood-1940778781.md) | ⚪ Common | 45 | 250 |
+| <img src="../images/icons/4036190833.png" width="48"> | [Vorgoth Eye](../items/materials/vorgoth-eye-4036190833.md) | 🟣 Epic | - | 50 |
 | <img src="../images/categories/materials.svg" width="48"> | [Water Dodge](../items/materials/water-dodge-3770110946.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/2821339070.png" width="48"> | [Water Reptile Hide](../items/materials/water-reptile-hide-2821339070.md) | ⚪ Common | 40 | 250 |
 | <img src="../images/icons/2059656108.png" width="48"> | [Water Reptile Leather](../items/materials/water-reptile-leather-2059656108.md) | ⚪ Common | 40 | 250 |
@@ -284,8 +284,8 @@
 | <img src="../images/categories/materials.svg" width="48"> | [Weapon Skill](../items/materials/weapon-skill-433052744.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/2435149273.png" width="48"> | [Wheat Grains](../items/materials/wheat-grains-2435149273.md) | ⚪ Common | 18 | 250 |
 | <img src="../images/categories/materials.svg" width="48"> | [Whirl Attack](../items/materials/whirl-attack-2222257671.md) | ⚪ Common | - | 1 |
-| <img src="../images/categories/materials.svg" width="48"> | [Wildbeast Scales (Scorpion and maybe SandDigger)](../items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.md) | ⚪ Common | 40 | 250 |
-| <img src="../images/categories/materials.svg" width="48"> | [Wolf Heavy Head](../items/materials/wolf-heavy-head-1285378490.md) | 🟣 Epic | - | 50 |
+| <img src="../images/icons/3553538325.png" width="48"> | [Wildbeast Scales (Scorpion and maybe SandDigger)](../items/materials/wildbeast-scales-scorpion-and-maybe-sanddigger-3553538325.md) | ⚪ Common | 40 | 250 |
+| <img src="../images/icons/1285378490.png" width="48"> | [Wolf Heavy Head](../items/materials/wolf-heavy-head-1285378490.md) | 🟣 Epic | - | 50 |
 | <img src="../images/icons/1635234852.png" width="48"> | [Wood Acid](../items/materials/wood-acid-1635234852.md) | ⚪ Common | 5 | 250 |
 | <img src="../images/icons/722268629.png" width="48"> | [Wood Logs](../items/materials/wood-logs-722268629.md) | ⚪ Common | 1 | 250 |
 | <img src="../images/icons/1626290897.png" width="48"> | [Wood Planks](../items/materials/wood-planks-1626290897.md) | ⚪ Common | 13 | 250 |

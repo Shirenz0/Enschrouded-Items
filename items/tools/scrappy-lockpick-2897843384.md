@@ -1,6 +1,6 @@
 # Scrappy Lockpick
 
-<img src="../../images/categories/tools.svg" alt="Scrappy Lockpick" width="160">
+<img src="../../images/icons/2897843384.png" alt="Scrappy Lockpick" width="160">
 
 | | |
 |---|---|

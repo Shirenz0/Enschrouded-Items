@@ -1,6 +1,6 @@
 # Shroud Lair Staff
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Lair Staff" width="160">
+<img src="../../images/icons/1404050036.png" alt="Shroud Lair Staff" width="160">
 
 | | |
 |---|---|

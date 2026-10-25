@@ -1,6 +1,6 @@
 # Extraordinary Glider
 
-<img src="../../images/categories/tools.svg" alt="Extraordinary Glider" width="160">
+<img src="../../images/icons/284247111.png" alt="Extraordinary Glider" width="160">
 
 | | |
 |---|---|

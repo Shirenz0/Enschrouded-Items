@@ -1,6 +1,6 @@
 # Ancient Construct: Heavy Head
 
-<img src="../../images/categories/materials.svg" alt="Ancient Construct: Heavy Head" width="160">
+<img src="../../images/icons/2477070271.png" alt="Ancient Construct: Heavy Head" width="160">
 
 | | |
 |---|---|

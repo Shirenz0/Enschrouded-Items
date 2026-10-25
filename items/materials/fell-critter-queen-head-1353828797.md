@@ -1,6 +1,6 @@
 # Fell Critter Queen Head
 
-<img src="../../images/categories/materials.svg" alt="Fell Critter Queen Head" width="160">
+<img src="../../images/icons/1353828797.png" alt="Fell Critter Queen Head" width="160">
 
 | | |
 |---|---|

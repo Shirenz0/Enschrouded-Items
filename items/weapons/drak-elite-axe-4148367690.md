@@ -1,6 +1,6 @@
 # Drak Elite Axe
 
-<img src="../../images/categories/weapons.svg" alt="Drak Elite Axe" width="160">
+<img src="../../images/icons/4148367690.png" alt="Drak Elite Axe" width="160">
 
 | | |
 |---|---|

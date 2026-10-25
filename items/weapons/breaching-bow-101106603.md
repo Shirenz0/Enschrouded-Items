@@ -1,6 +1,6 @@
 # Breaching Bow
 
-<img src="../../images/categories/weapons.svg" alt="Breaching Bow" width="160">
+<img src="../../images/icons/101106603.png" alt="Breaching Bow" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gem of Hyperspecialization
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Hyperspecialization" width="160">
+<img src="../../images/icons/2418233534.png" alt="Gem of Hyperspecialization" width="160">
 
 | | |
 |---|---|

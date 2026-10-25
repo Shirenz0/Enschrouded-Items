@@ -1,6 +1,6 @@
 # Gem of Lycanthropy
 
-<img src="../../images/categories/weapongem.svg" alt="Gem of Lycanthropy" width="160">
+<img src="../../images/icons/1460033731.png" alt="Gem of Lycanthropy" width="160">
 
 | | |
 |---|---|

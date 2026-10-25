@@ -1,6 +1,6 @@
 # Trophy Cyclops
 
-<img src="../../images/categories/materials.svg" alt="Trophy Cyclops" width="160">
+<img src="../../images/icons/2310197711.png" alt="Trophy Cyclops" width="160">
 
 | | |
 |---|---|

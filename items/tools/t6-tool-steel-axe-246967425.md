@@ -1,6 +1,6 @@
 # T6 Tool Steel Axe
 
-<img src="../../images/categories/tools.svg" alt="T6 Tool Steel Axe" width="160">
+<img src="../../images/icons/246967425.png" alt="T6 Tool Steel Axe" width="160">
 
 | | |
 |---|---|
