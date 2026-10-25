@@ -11,6 +11,8 @@
 | Item ID | `1462961786` |
 | Internal name | `Consumable_Grenade_Fire_T5` |
 
+One of 2 versions of this item: see [Incendiary Ball](../../objects/weapons/incendiary-ball.md) for all of them and how they differ.
+
 ## Description
 
 This ball contains a highly flamable liquid, which will cover an area in fire.

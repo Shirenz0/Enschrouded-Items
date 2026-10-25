@@ -11,6 +11,8 @@
 | Item ID | `3379333313` |
 | Internal name | `Block_T3_Stone_CityWall_REWARD` |
 
+One of 2 versions of this item: see [City Wall Stone Block](../../objects/buildtools/city-wall-stone-block.md) for all of them and how they differ.
+
 ## Description
 
 A classic building block used in the Kindlewastes. It was refined by mixing in some imported sandstone.

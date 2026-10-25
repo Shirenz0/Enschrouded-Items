@@ -11,6 +11,8 @@
 | Item ID | `2793515653` |
 | Internal name | `Armor_T3_Mage_Healer_Chest` |
 
+One of 2 versions of this item: see [T3 Healer Chest](../../objects/equipment/t3-healer-chest.md) for all of them and how they differ.
+
 ## Description
 
 Classic herbalist garb with widened pockets for storing healing tinctures.

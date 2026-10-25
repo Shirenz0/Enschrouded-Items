@@ -11,6 +11,8 @@
 | Item ID | `2012474258` |
 | Internal name | `Block_T1_Wood_Rough_CRAFTING` |
 
+One of 5 versions of this item: see [Rough Wood Block](../../objects/buildtools/rough-wood-block.md) for all of them and how they differ.
+
 ## Description
 
 A basic material for construction designated to survival. It's not pretty, but does the job!

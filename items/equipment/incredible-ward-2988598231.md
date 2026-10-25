@@ -11,6 +11,8 @@
 | Item ID | `2988598231` |
 | Internal name | `Ward_T7` |
 
+One of 2 versions of this item: see [Incredible Ward](../../objects/equipment/incredible-ward.md) for all of them and how they differ.
+
 ## Description
 
 ward t7 desc

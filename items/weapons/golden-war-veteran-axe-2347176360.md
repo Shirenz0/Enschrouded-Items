@@ -11,6 +11,8 @@
 | Item ID | `2347176360` |
 | Internal name | `Craft_Weapon_T7_2H_Lore_GreatAxeLeg_forge` |
 
+One of 3 versions of this item: see [Golden War Veteran Axe](../../objects/weapons/golden-war-veteran-axe.md) for all of them and how they differ.
+
 ## Description
 
 Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.

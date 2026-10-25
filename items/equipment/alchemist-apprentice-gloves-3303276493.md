@@ -11,6 +11,8 @@
 | Item ID | `3303276493` |
 | Internal name | `Armor_T1_Mage_Wizard_DPS_Arms` |
 
+One of 2 versions of this item: see [Alchemist Apprentice Gloves](../../objects/equipment/alchemist-apprentice-gloves.md) for all of them and how they differ.
+
 ## Description
 
 Starting out on the path of being an alchemist apprentice, these gloves will make your life a little more comfortable.

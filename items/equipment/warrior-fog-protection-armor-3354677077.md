@@ -11,6 +11,8 @@
 | Item ID | `3354677077` |
 | Internal name | `Armor_T3_Warrior_FogProtection_Chest` |
 
+One of 5 versions of this item: see [Warrior Fog Protection Armor](../../objects/equipment/warrior-fog-protection-armor.md) for all of them and how they differ.
+
 ## Description
 
 Hastely put together from fell monster parts. Offers extended protection against the Shroud.

@@ -11,6 +11,8 @@
 | Item ID | `1195149031` |
 | Internal name | `Prop_Decoration_T6_Simple_Boardwalk_4m_01_A` |
 
+One of 2 versions of this item: see [Simple Baordwalk](../../objects/buildtools/simple-baordwalk.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

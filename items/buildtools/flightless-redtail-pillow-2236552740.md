@@ -11,6 +11,8 @@
 | Item ID | `2236552740` |
 | Internal name | `Prop_Decoration_TX_Pillow_Animal_03_TwitchDrop` |
 
+One of 2 versions of this item: see [Flightless Redtail Pillow](../../objects/buildtools/flightless-redtail-pillow.md) for all of them and how they differ.
+
 ## Description
 
 A comfortable pillow with a bird motiv. The bird may not fly, but it looks stylish!

@@ -11,6 +11,8 @@
 | Item ID | `1543470770` |
 | Internal name | `Armor_T2_Ranger_Assassin_Chest` |
 
+One of 2 versions of this item: see [T2 Archer Chest](../../objects/equipment/t2-archer-chest.md) for all of them and how they differ.
+
 ## Description
 
 Padded and warm. Ideal for bracing cold nights when awaiting the time to strike.

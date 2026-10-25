@@ -11,6 +11,8 @@
 | Item ID | `1096990380` |
 | Internal name | `Armor_T3_Mage_FogProtection_Arms` |
 
+One of 5 versions of this item: see [Mage Fog Protection Armor](../../objects/equipment/mage-fog-protection-armor.md) for all of them and how they differ.
+
 ## Description
 
 Hastely put together from fell monster parts. Offers extended protection against the Shroud.

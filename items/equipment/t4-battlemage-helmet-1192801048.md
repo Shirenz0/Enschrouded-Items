@@ -11,6 +11,8 @@
 | Item ID | `1192801048` |
 | Internal name | `Armor_T4_Mage_BattleWand_Helmet` |
 
+One of 2 versions of this item: see [T4 BattleMage Helmet](../../objects/equipment/t4-battlemage-helmet.md) for all of them and how they differ.
+
 ## Description
 
 A helmet which protects your sensitive cranial bone from harm.

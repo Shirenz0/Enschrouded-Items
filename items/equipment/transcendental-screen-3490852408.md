@@ -11,6 +11,8 @@
 | Item ID | `3490852408` |
 | Internal name | `Ward_T3_Loot` |
 
+One of 2 versions of this item: see [Transcendental Screen](../../objects/equipment/transcendental-screen.md) for all of them and how they differ.
+
 ## Description
 
 ward t3 desc

@@ -11,6 +11,8 @@
 | Item ID | `33507171` |
 | Internal name | `Prop_Decoration_T6_Boardwalk_8m_01_A` |
 
+One of 4 versions of this item: see [Wetland Boardwalk](../../objects/buildtools/wetland-boardwalk.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

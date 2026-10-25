@@ -11,6 +11,8 @@
 | Item ID | `3166374248` |
 | Internal name | `Prop_Decoration_T2_Fence_Wood_Tavern` |
 
+One of 3 versions of this item: see [Fine Wooden Fence](../../objects/buildtools/fine-wooden-fence.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

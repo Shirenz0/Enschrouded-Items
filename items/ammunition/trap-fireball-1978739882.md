@@ -11,6 +11,8 @@
 | Item ID | `1978739882` |
 | Internal name | `Ammo_Trap_Projectile_Magmaball` |
 
+One of 10 versions of this item: see [Trap Fireball](../../objects/ammunition/trap-fireball.md) for all of them and how they differ.
+
 ## Description
 
 Trap Fireball

@@ -11,6 +11,8 @@
 | Item ID | `2249070596` |
 | Internal name | `Vanity_T2_springButterfly_Legs` |
 
+One of 2 versions of this item: see [Jezmina's Yearwake Pants](../../objects/equipment/jezmina-s-yearwake-pants.md) for all of them and how they differ.
+
 ## Description
 
 Jezmina's Yearwake pants desc

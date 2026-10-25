@@ -11,6 +11,8 @@
 | Item ID | `65433484` |
 | Internal name | `Craft_Weapon_T5_1H_Lore_Axe_Ministory_10` |
 
+One of 8 versions of this item: see [Fenrig's Axe](../../objects/weapons/fenrig-s-axe.md) for all of them and how they differ.
+
 ## Description
 
 An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.

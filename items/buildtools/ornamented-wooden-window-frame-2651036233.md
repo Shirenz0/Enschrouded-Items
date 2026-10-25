@@ -11,6 +11,8 @@
 | Item ID | `2651036233` |
 | Internal name | `Prop_Decoration_T2_Window_Ornamented_Wooden_Frame` |
 
+One of 2 versions of this item: see [Ornamented Wooden Window Frame](../../objects/buildtools/ornamented-wooden-window-frame.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

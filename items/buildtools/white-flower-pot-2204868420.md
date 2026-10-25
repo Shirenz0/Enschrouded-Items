@@ -11,6 +11,8 @@
 | Item ID | `2204868420` |
 | Internal name | `Flower_Pot_Square_White` |
 
+One of 5 versions of this item: see [White Flower Pot](../../objects/buildtools/white-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A small potted plant to beautify your home.

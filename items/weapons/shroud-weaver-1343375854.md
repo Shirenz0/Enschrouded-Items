@@ -11,6 +11,8 @@
 | Item ID | `1343375854` |
 | Internal name | `Craft_Weapon_T4_2H_Lore_StaffEpic_ministory_17` |
 
+One of 5 versions of this item: see [Shroud Weaver](../../objects/weapons/shroud-weaver.md) for all of them and how they differ.
+
 ## Description
 
 A malicious staff that effortlessly intertwines the strings of fate with the Shroud.

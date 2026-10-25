@@ -11,6 +11,8 @@
 | Item ID | `3848774794` |
 | Internal name | `Craft_Weapon_T7_1H_Lore_Wand_ministory_25_lightning` |
 
+One of 2 versions of this item: see [Electric Initialiser](../../objects/weapons/electric-initialiser.md) for all of them and how they differ.
+
 ## Description
 
 An electrifying wand that was previously used to start engines and machinery in an instant.

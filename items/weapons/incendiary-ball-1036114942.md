@@ -11,6 +11,8 @@
 | Item ID | `1036114942` |
 | Internal name | `Philipp_Throwable_Ball` |
 
+One of 2 versions of this item: see [Incendiary Ball](../../objects/weapons/incendiary-ball.md) for all of them and how they differ.
+
 ## Description
 
 This ball contains a highly flamable liquid, which will cover an area in fire.

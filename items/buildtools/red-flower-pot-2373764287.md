@@ -11,6 +11,8 @@
 | Item ID | `2373764287` |
 | Internal name | `Flower_Pot_Long_Ground_Red` |
 
+One of 5 versions of this item: see [Red Flower Pot](../../objects/buildtools/red-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A lovely pot of flowers to beautify your world.

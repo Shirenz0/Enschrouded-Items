@@ -11,6 +11,8 @@
 | Item ID | `3094342003` |
 | Internal name | `Flower_Pot_Tiny_Red` |
 
+One of 5 versions of this item: see [Red Flower Pot](../../objects/buildtools/red-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A tiny potted plant to beautify your home.

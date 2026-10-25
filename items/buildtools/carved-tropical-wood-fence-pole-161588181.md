@@ -11,6 +11,8 @@
 | Item ID | `161588181` |
 | Internal name | `Prop_Decoration_T6_Fence_Wood_Pole_01` |
 
+One of 3 versions of this item: see [Carved Tropical Wood Fence Pole](../../objects/buildtools/carved-tropical-wood-fence-pole.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

@@ -11,6 +11,8 @@
 | Item ID | `3413443507` |
 | Internal name | `Armor_T4_Ranger_Assassin_Legs` |
 
+One of 2 versions of this item: see [T4 Assassin Legs](../../objects/equipment/t4-assassin-legs.md) for all of them and how they differ.
+
 ## Description
 
 A plain pair of pants. Under different circumstances, they would allow the wearer to easily blend into any crowd.

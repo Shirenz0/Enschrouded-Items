@@ -11,6 +11,8 @@
 | Item ID | `811648475` |
 | Internal name | `Flower_Pot_Tiny_Yellow` |
 
+One of 5 versions of this item: see [Yellow Flower Pot](../../objects/buildtools/yellow-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A tiny potted plant to beautify your home.

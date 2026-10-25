@@ -11,6 +11,8 @@
 | Item ID | `361218275` |
 | Internal name | `Z_Prop_Decoration_T3_Fence_Wood_Corner_01_OLD_NORECIPE` |
 
+One of 3 versions of this item: see [Graveyard Fence Pole](../../objects/buildtools/graveyard-fence-pole.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

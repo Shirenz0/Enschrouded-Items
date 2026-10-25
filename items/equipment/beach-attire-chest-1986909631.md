@@ -11,6 +11,8 @@
 | Item ID | `1986909631` |
 | Internal name | `Vanity_TwitchDrop_Wetlands_Chest` |
 
+One of 2 versions of this item: see [Beach Attire chest](../../objects/equipment/beach-attire-chest.md) for all of them and how they differ.
+
 ## Description
 
 BeachAttire chest desc

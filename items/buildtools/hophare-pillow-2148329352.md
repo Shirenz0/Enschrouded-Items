@@ -11,6 +11,8 @@
 | Item ID | `2148329352` |
 | Internal name | `Prop_Decoration_TX_Pillow_Animal_01_TwitchDrop` |
 
+One of 2 versions of this item: see [Hophare Pillow](../../objects/buildtools/hophare-pillow.md) for all of them and how they differ.
+
 ## Description
 
 A cosy pillow with a Hophare design on it.

@@ -11,6 +11,8 @@
 | Item ID | `1732682352` |
 | Internal name | `Prop_Decoration_Book_Pile_04_D` |
 
+One of 2 versions of this item: see [Collection Of Books II](../../objects/buildtools/collection-of-books-ii.md) for all of them and how they differ.
+
 ## Description
 
 What is better than one  book?

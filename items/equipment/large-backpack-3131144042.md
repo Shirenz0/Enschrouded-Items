@@ -11,6 +11,8 @@
 | Item ID | `3131144042` |
 | Internal name | `Backpack_T3` |
 
+One of 2 versions of this item: see [Large Backpack](../../objects/equipment/large-backpack.md) for all of them and how they differ.
+
 ## Description
 
 An extension to your backpack that increases your inventory by a lot.

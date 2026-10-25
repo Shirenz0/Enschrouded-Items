@@ -11,6 +11,8 @@
 | Item ID | `3372205` |
 | Internal name | `Armor_T4_Mage_BattleWand_Chest_Loot` |
 
+One of 2 versions of this item: see [T4 BattleMage Chest](../../objects/equipment/t4-battlemage-chest.md) for all of them and how they differ.
+
 ## Description
 
 A garment which is often displayed by mages and wizards walking into battle.

@@ -11,6 +11,8 @@
 | Item ID | `2102661805` |
 | Internal name | `Prop_Collection_Shroud_Enemydrop_Large` |
 
+One of 3 versions of this item: see [PikeMeadStatue Showcase](../../objects/buildtools/pikemeadstatue-showcase.md) for all of them and how they differ.
+
 ## Description
 
 Showcase for a Statue.

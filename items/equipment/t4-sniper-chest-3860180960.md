@@ -11,6 +11,8 @@
 | Item ID | `3860180960` |
 | Internal name | `Armor_T4_Ranger_Sniper_Chest_Loot` |
 
+One of 2 versions of this item: see [T4 Sniper Chest](../../objects/equipment/t4-sniper-chest.md) for all of them and how they differ.
+
 ## Description
 
 You won't leave yourself open to damage with this piece of chest armor.

@@ -11,6 +11,8 @@
 | Item ID | `2452070869` |
 | Internal name | `Prop_Decoration_T4_Prison_Fence_Fixed` |
 
+One of 2 versions of this item: see [Prison Fence](../../objects/buildtools/prison-fence.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

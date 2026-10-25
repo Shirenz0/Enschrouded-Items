@@ -11,6 +11,8 @@
 | Item ID | `2431930862` |
 | Internal name | `Armor_T3_Mage_Healer_Helmet_Loot` |
 
+One of 2 versions of this item: see [T3 Healer Helmet](../../objects/equipment/t3-healer-helmet.md) for all of them and how they differ.
+
 ## Description
 
 Healing others is suprisingly hard when you can't actually see them.

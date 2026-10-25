@@ -11,6 +11,8 @@
 | Item ID | `2278407208` |
 | Internal name | `Prop_Decoration_T3_Fence_Stone_01_NEW` |
 
+One of 2 versions of this item: see [Fine Stone Fence](../../objects/buildtools/fine-stone-fence.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

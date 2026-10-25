@@ -11,6 +11,8 @@
 | Item ID | `3519262696` |
 | Internal name | `Armor_T6_Ranger_Assassin_Legs_Loot` |
 
+One of 2 versions of this item: see [T6 Assassin Legs](../../objects/equipment/t6-assassin-legs.md) for all of them and how they differ.
+
 ## Description
 
 t6 assassin legs desc

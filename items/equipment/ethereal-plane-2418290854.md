@@ -11,6 +11,8 @@
 | Item ID | `2418290854` |
 | Internal name | `Ward_T4` |
 
+One of 2 versions of this item: see [Ethereal Plane](../../objects/equipment/ethereal-plane.md) for all of them and how they differ.
+
 ## Description
 
 ward t4 desc

@@ -11,6 +11,8 @@
 | Item ID | `729789776` |
 | Internal name | `Weapon_T5_1H_Lore_AxeEpic_ministory_30` |
 
+One of 4 versions of this item: see [Dragonsbane](../../objects/weapons/dragonsbane.md) for all of them and how they differ.
+
 ## Description
 
 An axe found inside the skullcap of a giant dragon skeleton.

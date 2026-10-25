@@ -11,6 +11,8 @@
 | Item ID | `3618025467` |
 | Internal name | `Prop_Decoration_T2_Fence_Wood_Tavern_Corner` |
 
+One of 2 versions of this item: see [Fine Wooden Fence Pole](../../objects/buildtools/fine-wooden-fence-pole.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

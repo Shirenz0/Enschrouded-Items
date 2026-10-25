@@ -11,6 +11,8 @@
 | Item ID | `2461388514` |
 | Internal name | `Vanity_T5_Sheep_Helmet` |
 
+One of 2 versions of this item: see [Vanity Outfit Sheep helmet](../../objects/equipment/vanity-outfit-sheep-helmet.md) for all of them and how they differ.
+
 ## Description
 
 Vanity  Outfit Sheep  helmet   Desc

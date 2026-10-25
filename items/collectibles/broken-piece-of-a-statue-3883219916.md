@@ -11,6 +11,8 @@
 | Item ID | `3883219916` |
 | Internal name | `Collection_StatuePikeMead_Piece_01` |
 
+One of 3 versions of this item: see [Broken Piece of a Statue](../../objects/collectibles/broken-piece-of-a-statue.md) for all of them and how they differ.
+
 ## Description
 
 Try to find the missing pieces to reassemble a Statue.

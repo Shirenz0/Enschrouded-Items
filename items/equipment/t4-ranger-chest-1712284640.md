@@ -11,6 +11,8 @@
 | Item ID | `1712284640` |
 | Internal name | `Armor_T4_Ranger_Archer_DPS_Chest_Loot` |
 
+One of 2 versions of this item: see [T4 Ranger Chest](../../objects/equipment/t4-ranger-chest.md) for all of them and how they differ.
+
 ## Description
 
 Every movement is softened and muted whilst clad in this upper body armor.

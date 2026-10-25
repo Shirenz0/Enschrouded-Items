@@ -11,6 +11,8 @@
 | Item ID | `3121149981` |
 | Internal name | `Vanity_T3_SkeletonArmor2_TwitchDrop_Helmet` |
 
+One of 2 versions of this item: see [Skeleton armor twitch drop helmet](../../objects/equipment/skeleton-armor-twitch-drop-helmet.md) for all of them and how they differ.
+
 ## Description
 
 Skeleton armor twitch drop desc

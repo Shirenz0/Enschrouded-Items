@@ -11,6 +11,8 @@
 | Item ID | `302659874` |
 | Internal name | `Vanity_TwitchDrop_Sheep_Gloves` |
 
+One of 2 versions of this item: see [Vanity Outfit Sheep gloves](../../objects/equipment/vanity-outfit-sheep-gloves.md) for all of them and how they differ.
+
 ## Description
 
 Vanity  Outfit Sheep  gloves  Desc

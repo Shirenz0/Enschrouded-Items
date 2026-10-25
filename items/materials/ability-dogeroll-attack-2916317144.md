@@ -11,6 +11,8 @@
 | Item ID | `2916317144` |
 | Internal name | `Ability_DodgerollAttack` |
 
+One of 2 versions of this item: see [Ability: Dogeroll Attack](../../objects/materials/ability-dogeroll-attack.md) for all of them and how they differ.
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

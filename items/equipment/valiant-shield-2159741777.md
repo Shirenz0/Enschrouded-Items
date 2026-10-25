@@ -11,6 +11,8 @@
 | Item ID | `2159741777` |
 | Internal name | `Shield_T2_Tank` |
 
+One of 2 versions of this item: see [Valiant Shield](../../objects/equipment/valiant-shield.md) for all of them and how they differ.
+
 ## Description
 
 A formidable shield that can keep you and your allys safe.

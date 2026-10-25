@@ -11,6 +11,8 @@
 | Item ID | `157147909` |
 | Internal name | `Flower_Pot_Small_Ground_Red` |
 
+One of 5 versions of this item: see [Red Flower Pot](../../objects/buildtools/red-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A small potted plant to beautify your home.

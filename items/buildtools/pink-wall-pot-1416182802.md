@@ -11,6 +11,8 @@
 | Item ID | `1416182802` |
 | Internal name | `Flower_Pot_Long_Wall_Pink` |
 
+One of 2 versions of this item: see [Pink Wall Pot](../../objects/buildtools/pink-wall-pot.md) for all of them and how they differ.
+
 ## Description
 
 A lovely pot of flowers to beautify your world.

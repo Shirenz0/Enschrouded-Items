@@ -11,6 +11,8 @@
 | Item ID | `1526921804` |
 | Internal name | `Flower_Pot_Square_Yellow` |
 
+One of 5 versions of this item: see [Yellow Flower Pot](../../objects/buildtools/yellow-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A small potted plant to beautify your home.

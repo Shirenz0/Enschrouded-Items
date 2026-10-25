@@ -11,6 +11,8 @@
 | Item ID | `3236763530` |
 | Internal name | `Blueprint_Voxel_Roof_Top_Straight_4m` |
 
+One of 2 versions of this item: see [Roof Top Straight](../../objects/blueprints/roof-top-straight.md) for all of them and how they differ.
+
 ---
 
 [← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)

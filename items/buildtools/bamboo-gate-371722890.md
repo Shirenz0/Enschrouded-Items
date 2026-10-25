@@ -11,6 +11,8 @@
 | Item ID | `371722890` |
 | Internal name | `Prop_Decoration_T6_Lizard_Gate_01` |
 
+One of 5 versions of this item: see [Bamboo Gate](../../objects/buildtools/bamboo-gate.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

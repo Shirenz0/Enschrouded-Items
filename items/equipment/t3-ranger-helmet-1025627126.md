@@ -11,6 +11,8 @@
 | Item ID | `1025627126` |
 | Internal name | `Armor_T3_Ranger_Archer_DPS_Helmet_Loot` |
 
+One of 2 versions of this item: see [T3 Ranger Helmet](../../objects/equipment/t3-ranger-helmet.md) for all of them and how they differ.
+
 ## Description
 
 Remain unseen and strike from the shadows with this formidable archer's hood.

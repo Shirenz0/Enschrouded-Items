@@ -11,6 +11,8 @@
 | Item ID | `614770460` |
 | Internal name | `Armor_T2_Mage_Healer_Arms` |
 
+One of 2 versions of this item: see [T2 Healer Arms](../../objects/equipment/t2-healer-arms.md) for all of them and how they differ.
+
 ## Description
 
 These gloves allow nimble fingers to patch up wounds when in a pinch.

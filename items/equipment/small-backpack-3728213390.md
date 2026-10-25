@@ -11,6 +11,8 @@
 | Item ID | `3728213390` |
 | Internal name | `Backpack_T1_NEW` |
 
+One of 2 versions of this item: see [Small Backpack](../../objects/equipment/small-backpack.md) for all of them and how they differ.
+
 ## Description
 
 Backpack t1  NEW Copy from old one

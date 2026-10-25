@@ -11,6 +11,8 @@
 | Item ID | `1936163292` |
 | Internal name | `Prop_Decoration_Comfort_T4_Pillow_Animal_02` |
 
+One of 2 versions of this item: see [Fae Deer Pillow](../../objects/buildtools/fae-deer-pillow.md) for all of them and how they differ.
+
 ## Description
 
 A decorative pillow that's been adorned with a Fae Deer motiv. It seems to be running wild through wind and bushes.

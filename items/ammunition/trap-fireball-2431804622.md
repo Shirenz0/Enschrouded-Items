@@ -11,6 +11,8 @@
 | Item ID | `2431804622` |
 | Internal name | `Ammo_Enemy_Projectile_Magical_Fire_Fog_Destroy` |
 
+One of 10 versions of this item: see [Trap Fireball](../../objects/ammunition/trap-fireball.md) for all of them and how they differ.
+
 ## Description
 
 Trap Fireball

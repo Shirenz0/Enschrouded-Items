@@ -11,6 +11,8 @@
 | Item ID | `1929469344` |
 | Internal name | `Armor_T4_Ranger_Assassin_Helmet_Loot` |
 
+One of 2 versions of this item: see [T4 Assassin Helmet](../../objects/equipment/t4-assassin-helmet.md) for all of them and how they differ.
+
 ## Description
 
 A special piece of cloth was added to this assassin hood to hide the wearer's face, and their most likely daunting smile.

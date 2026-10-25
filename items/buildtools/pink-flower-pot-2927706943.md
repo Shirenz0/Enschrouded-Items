@@ -11,6 +11,8 @@
 | Item ID | `2927706943` |
 | Internal name | `Flower_Pot_Medium_Pink` |
 
+One of 5 versions of this item: see [Pink Flower Pot](../../objects/buildtools/pink-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A medium potted plant to beautify your home.

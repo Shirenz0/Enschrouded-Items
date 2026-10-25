@@ -11,6 +11,8 @@
 | Item ID | `1343249024` |
 | Internal name | `Armor_T1_Mage_Wizard_DPS_Chest_Loot` |
 
+One of 2 versions of this item: see [Alchemist Apprentice Chest](../../objects/equipment/alchemist-apprentice-chest.md) for all of them and how they differ.
+
 ## Description
 
 A comfortable traditional top suiting an upcoming alchemist.

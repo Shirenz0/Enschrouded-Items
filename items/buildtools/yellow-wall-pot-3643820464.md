@@ -11,6 +11,8 @@
 | Item ID | `3643820464` |
 | Internal name | `Flower_Pot_Long_Wall_Yellow` |
 
+One of 2 versions of this item: see [Yellow Wall Pot](../../objects/buildtools/yellow-wall-pot.md) for all of them and how they differ.
+
 ## Description
 
 A lovely pot of flowers to beautify your world.

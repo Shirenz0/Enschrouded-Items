@@ -11,6 +11,8 @@
 | Item ID | `163823517` |
 | Internal name | `Flower_Pot_Long_Ground_Yellow` |
 
+One of 5 versions of this item: see [Yellow Flower Pot](../../objects/buildtools/yellow-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A lovely pot of flowers to beautify your world.

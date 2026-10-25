@@ -11,6 +11,8 @@
 | Item ID | `3904030989` |
 | Internal name | `Prop_Decoration_T5_Crate_Conifer03` |
 
+One of 3 versions of this item: see [Conifer Crate](../../objects/buildtools/conifer-crate.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

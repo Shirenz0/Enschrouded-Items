@@ -11,6 +11,8 @@
 | Item ID | `439089072` |
 | Internal name | `Building_Overgrowth_Shape_Small` |
 
+One of 2 versions of this item: see [Shape Small](../../objects/blueprints/shape-small.md) for all of them and how they differ.
+
 ---
 
 [← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)

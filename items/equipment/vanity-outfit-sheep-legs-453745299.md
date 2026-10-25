@@ -11,6 +11,8 @@
 | Item ID | `453745299` |
 | Internal name | `Vanity_T5_Sheep_Legs` |
 
+One of 2 versions of this item: see [Vanity Outfit Sheep legs](../../objects/equipment/vanity-outfit-sheep-legs.md) for all of them and how they differ.
+
 ## Description
 
 Vanity  Outfit Sheep  legs  Desc

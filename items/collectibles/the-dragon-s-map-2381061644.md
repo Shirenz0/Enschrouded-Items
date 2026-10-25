@@ -11,6 +11,8 @@
 | Item ID | `2381061644` |
 | Internal name | `8kLoreText_TreasureMap_completed_communityQuest_2025` |
 
+One of 2 versions of this item: see [The Dragon's Map](../../objects/collectibles/the-dragon-s-map.md) for all of them and how they differ.
+
 ## Description
 
 A reconstructed map, consisting of 4 former map pieces. There's writing on the back:

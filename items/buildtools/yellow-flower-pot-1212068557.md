@@ -11,6 +11,8 @@
 | Item ID | `1212068557` |
 | Internal name | `Flower_Pot_Medium_Yellow` |
 
+One of 5 versions of this item: see [Yellow Flower Pot](../../objects/buildtools/yellow-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A medium potted plant to beautify your home.

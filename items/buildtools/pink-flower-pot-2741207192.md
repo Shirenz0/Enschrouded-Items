@@ -11,6 +11,8 @@
 | Item ID | `2741207192` |
 | Internal name | `Flower_Pot_Square_Pink` |
 
+One of 5 versions of this item: see [Pink Flower Pot](../../objects/buildtools/pink-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A small potted plant to beautify your home.

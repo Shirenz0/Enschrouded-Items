@@ -11,6 +11,8 @@
 | Item ID | `1972419518` |
 | Internal name | `Armor_T1_Ranger_Archer_DPS_Arms` |
 
+One of 2 versions of this item: see [Scout Gloves](../../objects/equipment/scout-gloves.md) for all of them and how they differ.
+
 ## Description
 
 Excellent tools to scout - especially, for their grip and padding.

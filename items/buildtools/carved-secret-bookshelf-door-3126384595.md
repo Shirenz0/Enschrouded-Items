@@ -11,6 +11,8 @@
 | Item ID | `3126384595` |
 | Internal name | `Base_Shelf_Secret_02` |
 
+One of 2 versions of this item: see [Carved Secret Bookshelf Door](../../objects/buildtools/carved-secret-bookshelf-door.md) for all of them and how they differ.
+
 ## Description
 
 A secret you can install in your base.

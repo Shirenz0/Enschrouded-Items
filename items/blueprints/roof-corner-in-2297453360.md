@@ -11,6 +11,8 @@
 | Item ID | `2297453360` |
 | Internal name | `Blueprint_Voxel_Roof_Corner_In_4m` |
 
+One of 2 versions of this item: see [Roof Corner In](../../objects/blueprints/roof-corner-in.md) for all of them and how they differ.
+
 ---
 
 [← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)

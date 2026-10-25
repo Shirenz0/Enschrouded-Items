@@ -11,6 +11,8 @@
 | Item ID | `3773368910` |
 | Internal name | `Backpack_T2_NEW` |
 
+One of 2 versions of this item: see [Medium Backpack](../../objects/equipment/medium-backpack.md) for all of them and how they differ.
+
 ## Description
 
 Backpack t2  NEW Copy from old one

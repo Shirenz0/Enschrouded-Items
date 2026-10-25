@@ -11,6 +11,8 @@
 | Item ID | `3854011426` |
 | Internal name | `Craft_Weapon_T7_2H_Lore_Bow_drakHeavy` |
 
+One of 2 versions of this item: see [Breaching Bow](../../objects/weapons/breaching-bow.md) for all of them and how they differ.
+
 ## Description
 
 Breaches all - flesh, scales, borders.

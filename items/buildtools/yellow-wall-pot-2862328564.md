@@ -11,6 +11,8 @@
 | Item ID | `2862328564` |
 | Internal name | `Flower_Pot_Small_Wall_Yellow` |
 
+One of 2 versions of this item: see [Yellow Wall Pot](../../objects/buildtools/yellow-wall-pot.md) for all of them and how they differ.
+
 ## Description
 
 A small potted plant to beautify your home.

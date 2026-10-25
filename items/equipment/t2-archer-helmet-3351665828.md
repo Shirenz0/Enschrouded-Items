@@ -11,6 +11,8 @@
 | Item ID | `3351665828` |
 | Internal name | `Armor_T2_Ranger_Assassin_Helmet` |
 
+One of 2 versions of this item: see [T2 Archer Helmet](../../objects/equipment/t2-archer-helmet.md) for all of them and how they differ.
+
 ## Description
 
 A darkened hood which lets you blend into the woodland scenery more easily.

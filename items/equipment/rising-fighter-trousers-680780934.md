@@ -11,6 +11,8 @@
 | Item ID | `680780934` |
 | Internal name | `Armor_T1_Warrior_DPS_Legs_Loot` |
 
+One of 2 versions of this item: see [Rising Fighter Trousers](../../objects/equipment/rising-fighter-trousers.md) for all of them and how they differ.
+
 ## Description
 
 Polstered trousers to dampen your fall in fighting practice.

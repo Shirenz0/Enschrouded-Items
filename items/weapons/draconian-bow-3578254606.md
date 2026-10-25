@@ -11,6 +11,8 @@
 | Item ID | `3578254606` |
 | Internal name | `Craft_Weapon_T6_2H_Lore_BowEpic_ministory_19` |
 
+One of 5 versions of this item: see [Draconian Bow](../../objects/weapons/draconian-bow.md) for all of them and how they differ.
+
 ## Description
 
 Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.

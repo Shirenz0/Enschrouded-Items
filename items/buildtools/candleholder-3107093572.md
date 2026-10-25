@@ -11,6 +11,8 @@
 | Item ID | `3107093572` |
 | Internal name | `Prop_Decoration_Comfort_T3_Illumination_Small` |
 
+One of 2 versions of this item: see [Candleholder](../../objects/buildtools/candleholder.md) for all of them and how they differ.
+
 ## Description
 
 An illumination item that can be placed in your home.

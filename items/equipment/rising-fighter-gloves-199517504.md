@@ -11,6 +11,8 @@
 | Item ID | `199517504` |
 | Internal name | `Armor_T1_Warrior_DPS_Arms` |
 
+One of 2 versions of this item: see [Rising Fighter Gloves](../../objects/equipment/rising-fighter-gloves.md) for all of them and how they differ.
+
 ## Description
 
 Gloves made for beginner fighters. Robust, but agile. They will mainly protect you from the blisters of swinging the sword.

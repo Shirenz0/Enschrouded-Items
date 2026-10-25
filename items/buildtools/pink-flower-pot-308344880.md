@@ -11,6 +11,8 @@
 | Item ID | `308344880` |
 | Internal name | `Flower_Pot_Long_Ground_Pink` |
 
+One of 5 versions of this item: see [Pink Flower Pot](../../objects/buildtools/pink-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A lovely pot of flowers to beautify your world.

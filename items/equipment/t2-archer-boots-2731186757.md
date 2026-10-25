@@ -11,6 +11,8 @@
 | Item ID | `2731186757` |
 | Internal name | `Armor_T2_Ranger_Assassin_Boots` |
 
+One of 2 versions of this item: see [T2 Archer Boots](../../objects/equipment/t2-archer-boots.md) for all of them and how they differ.
+
 ## Description
 
 The reinforced soles allow you to scale small cliffs or reach vantage points quickly.

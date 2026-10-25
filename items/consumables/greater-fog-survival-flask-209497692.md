@@ -11,6 +11,8 @@
 | Item ID | `209497692` |
 | Internal name | `Consumable_Potion_Flask_Fog_Survival_Flask_T3` |
 
+One of 2 versions of this item: see [Greater Fog Survival Flask](../../objects/consumables/greater-fog-survival-flask.md) for all of them and how they differ.
+
 ## Description
 
 Contains cleaned Fog Liquid, enhancing the resistance of the user.

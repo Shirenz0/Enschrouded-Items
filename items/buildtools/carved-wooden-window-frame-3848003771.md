@@ -11,6 +11,8 @@
 | Item ID | `3848003771` |
 | Internal name | `Prop_Decoration_T1_Window_Round_Carved_Large_Wooden_Frame` |
 
+One of 2 versions of this item: see [Carved Wooden Window Frame](../../objects/buildtools/carved-wooden-window-frame.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

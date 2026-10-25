@@ -11,6 +11,8 @@
 | Item ID | `4135259126` |
 | Internal name | `Empty_Flower_Pot_CNY_Empty_02a` |
 
+One of 2 versions of this item: see [Empty Cymbidum Pot](../../objects/buildtools/empty-cymbidum-pot.md) for all of them and how they differ.
+
 ## Description
 
 A lovely pot of flowers to beautify your world.

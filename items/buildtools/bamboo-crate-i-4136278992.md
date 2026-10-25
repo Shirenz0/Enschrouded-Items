@@ -11,6 +11,8 @@
 | Item ID | `4136278992` |
 | Internal name | `Prop_Decoration_T6_Crate_Bamboo_01` |
 
+One of 2 versions of this item: see [Bamboo Crate I](../../objects/buildtools/bamboo-crate-i.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

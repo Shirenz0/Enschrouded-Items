@@ -11,6 +11,8 @@
 | Item ID | `750528805` |
 | Internal name | `Vanity_TwitchDrop_Sheep_Boots` |
 
+One of 2 versions of this item: see [Vanity Outfit Sheep boots](../../objects/equipment/vanity-outfit-sheep-boots.md) for all of them and how they differ.
+
 ## Description
 
 Vanity  Outfit Sheep  boots  Desc

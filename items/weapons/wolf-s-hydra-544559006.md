@@ -11,6 +11,8 @@
 | Item ID | `544559006` |
 | Internal name | `Weapon_T3_1H_Lore_Mace_ministory_04` |
 
+One of 6 versions of this item: see [Wolf's Hydra](../../objects/weapons/wolf-s-hydra.md) for all of them and how they differ.
+
 ## Description
 
 A heavy club adorned with multiple wolf heads near the handle.

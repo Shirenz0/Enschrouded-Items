@@ -11,6 +11,8 @@
 | Item ID | `2937561739` |
 | Internal name | `Armor_T1_Warrior_DPS_Chest` |
 
+One of 2 versions of this item: see [Rising Fighter Chest](../../objects/equipment/rising-fighter-chest.md) for all of them and how they differ.
+
 ## Description
 
 Light, polstered and ready to take a few hits - the perfect chest armor for a beginner.

@@ -11,6 +11,8 @@
 | Item ID | `935025760` |
 | Internal name | `Armor_T3_Ranger_FogProtection_Boots` |
 
+One of 5 versions of this item: see [Ranger Fog Protection Armor](../../objects/equipment/ranger-fog-protection-armor.md) for all of them and how they differ.
+
 ## Description
 
 Hastely put together from fell monster parts. Offers extended protection against the Shroud.

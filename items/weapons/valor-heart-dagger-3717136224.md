@@ -11,6 +11,8 @@
 | Item ID | `3717136224` |
 | Internal name | `Craft_Weapon_T4_2H_Lore_DaggersEpic_Parry_bard_Hint02` |
 
+One of 7 versions of this item: see [Valor Heart Dagger](../../objects/weapons/valor-heart-dagger.md) for all of them and how they differ.
+
 ## Description
 
 A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!

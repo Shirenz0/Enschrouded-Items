@@ -11,6 +11,8 @@
 | Item ID | `2413776919` |
 | Internal name | `Flower_Pot_Medium_Red` |
 
+One of 5 versions of this item: see [Red Flower Pot](../../objects/buildtools/red-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A medium potted plant to beautify your home.

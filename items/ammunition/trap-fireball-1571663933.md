@@ -11,6 +11,8 @@
 | Item ID | `1571663933` |
 | Internal name | `Ammo_Trap_Projectile_Electro` |
 
+One of 10 versions of this item: see [Trap Fireball](../../objects/ammunition/trap-fireball.md) for all of them and how they differ.
+
 ## Description
 
 Trap Fireball

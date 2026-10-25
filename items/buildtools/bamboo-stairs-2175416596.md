@@ -11,6 +11,8 @@
 | Item ID | `2175416596` |
 | Internal name | `Prop_Decoration_T6_Lizard_Stairs_4m_01_A` |
 
+One of 2 versions of this item: see [Bamboo Stairs](../../objects/buildtools/bamboo-stairs.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

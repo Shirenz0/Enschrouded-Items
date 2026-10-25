@@ -11,6 +11,8 @@
 | Item ID | `3019273830` |
 | Internal name | `_Prop_Decoration_Comfort_T2_Lantern_01_A_Wall` |
 
+One of 2 versions of this item: see [Wall Lantern](../../objects/buildtools/wall-lantern.md) for all of them and how they differ.
+
 ## Description
 
 An illumination item that can be placed in your home.

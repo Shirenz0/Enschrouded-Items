@@ -11,6 +11,8 @@
 | Item ID | `3472179568` |
 | Internal name | `Armor_T4_Mage_Healer_Helmet` |
 
+One of 2 versions of this item: see [T4 Healer Helmet](../../objects/equipment/t4-healer-helmet.md) for all of them and how they differ.
+
 ## Description
 
 You can't read sacred scrolls if you can't see, but true understanding comes from within, anyway.

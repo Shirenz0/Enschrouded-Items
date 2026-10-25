@@ -11,6 +11,8 @@
 | Item ID | `4258530417` |
 | Internal name | `Blueprint_Voxel_Roof_Top_Peak_4m` |
 
+One of 2 versions of this item: see [Roof Top Peak](../../objects/blueprints/roof-top-peak.md) for all of them and how they differ.
+
 ---
 
 [← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)

@@ -11,6 +11,8 @@
 | Item ID | `2140221206` |
 | Internal name | `Flower_Pot_Medium_White` |
 
+One of 5 versions of this item: see [White Flower Pot](../../objects/buildtools/white-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A medium potted plant to beautify your home.

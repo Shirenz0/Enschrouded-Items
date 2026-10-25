@@ -11,6 +11,8 @@
 | Item ID | `3087012652` |
 | Internal name | `T1_Seedling_Greenhillzone_Tree_02` |
 
+One of 3 versions of this item: see [Tree Seedling](../../objects/buildtools/tree-seedling.md) for all of them and how they differ.
+
 ## Description
 
 A seedling that will soon grow into a plant, should it be placed into the right ground.

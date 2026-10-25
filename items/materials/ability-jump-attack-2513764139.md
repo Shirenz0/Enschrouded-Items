@@ -11,6 +11,8 @@
 | Item ID | `2513764139` |
 | Internal name | `Ability_JumpAttack_CrashDown_1H_Axe_Mace` |
 
+One of 5 versions of this item: see [Ability Jump Attack](../../objects/materials/ability-jump-attack.md) for all of them and how they differ.
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

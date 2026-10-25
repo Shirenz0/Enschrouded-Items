@@ -11,6 +11,8 @@
 | Item ID | `703273030` |
 | Internal name | `Z_Prop_Decoration_T3_Fence_Wood_01_OLD_NORECIPE` |
 
+One of 3 versions of this item: see [Fine Wooden Fence](../../objects/buildtools/fine-wooden-fence.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

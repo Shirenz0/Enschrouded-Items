@@ -11,6 +11,8 @@
 | Item ID | `420053010` |
 | Internal name | `Armor_T4_Mage_BattleWand_Legs_Loot` |
 
+One of 2 versions of this item: see [T4 BattleMage Legs](../../objects/equipment/t4-battlemage-legs.md) for all of them and how they differ.
+
 ## Description
 
 Breathable and swift pants which allow magic wielders to engage further in combat.

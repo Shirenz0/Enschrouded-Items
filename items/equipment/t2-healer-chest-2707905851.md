@@ -11,6 +11,8 @@
 | Item ID | `2707905851` |
 | Internal name | `Armor_T2_Mage_Healer_Chest` |
 
+One of 2 versions of this item: see [T2 Healer Chest](../../objects/equipment/t2-healer-chest.md) for all of them and how they differ.
+
 ## Description
 
 A breathable tunic with ample space for storing bandages, herbs, and tissues.

@@ -11,6 +11,8 @@
 | Item ID | `4231879756` |
 | Internal name | `Backpack_T1` |
 
+One of 2 versions of this item: see [Small Backpack](../../objects/equipment/small-backpack.md) for all of them and how they differ.
+
 ## Description
 
 An extension to your backpack that enlarges your inventory a bit.

@@ -11,6 +11,8 @@
 | Item ID | `2659920887` |
 | Internal name | `Prop_Decoration_T5_Mirror_Large` |
 
+One of 2 versions of this item: see [T5 Prop Decoration Mirror Large](../../objects/buildtools/t5-prop-decoration-mirror-large.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

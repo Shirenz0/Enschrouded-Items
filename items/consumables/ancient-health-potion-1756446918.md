@@ -11,6 +11,8 @@
 | Item ID | `1756446918` |
 | Internal name | `Consumable_Potion_Mana_T7` |
 
+One of 2 versions of this item: see [Ancient Health Potion](../../objects/consumables/ancient-health-potion.md) for all of them and how they differ.
+
 ## Description
 
 t7 mana potion desc

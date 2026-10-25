@@ -11,6 +11,8 @@
 | Item ID | `1513594761` |
 | Internal name | `Armor_T1_Mage_Wizard_DPS_Boots` |
 
+One of 2 versions of this item: see [Alchemist Apprentice Boots](../../objects/equipment/alchemist-apprentice-boots.md) for all of them and how they differ.
+
 ## Description
 
 Simple leather boots - a perfect fit.

@@ -11,6 +11,8 @@
 | Item ID | `2164917554` |
 | Internal name | `Craft_Shield_T4_Lore_ShieldEpic_carpenter_hint06` |
 
+One of 8 versions of this item: see [Pikemead's Ward](../../objects/equipment/pikemead-s-ward.md) for all of them and how they differ.
+
 ## Description
 
 Even in death, the queen's shield unites those who seek protection behind it.

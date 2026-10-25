@@ -11,6 +11,8 @@
 | Item ID | `3584171520` |
 | Internal name | `Craft_Weapon_T7_1H_Lore_SwordEpic_ministory_29` |
 
+One of 6 versions of this item: see [Dragon Sword](../../objects/weapons/dragon-sword.md) for all of them and how they differ.
+
 ## Description
 
 Crafted in the year of the dragon

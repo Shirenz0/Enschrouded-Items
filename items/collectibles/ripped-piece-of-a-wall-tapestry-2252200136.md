@@ -11,6 +11,8 @@
 | Item ID | `2252200136` |
 | Internal name | `Collection_WallTapestry_Piece_02` |
 
+One of 2 versions of this item: see [Ripped piece of a Wall Tapestry](../../objects/collectibles/ripped-piece-of-a-wall-tapestry.md) for all of them and how they differ.
+
 ## Description
 
 Try to find the missing pieces to reassemble a Wall Tapestry.

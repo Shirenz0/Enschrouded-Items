@@ -11,6 +11,8 @@
 | Item ID | `4040241990` |
 | Internal name | `Armor_T2_Mage_Healer_Helmet` |
 
+One of 2 versions of this item: see [T2 Healer Helmet](../../objects/equipment/t2-healer-helmet.md) for all of them and how they differ.
+
 ## Description
 
 A headwrap which helps to protect from the inevidable. Only a little bit, though.

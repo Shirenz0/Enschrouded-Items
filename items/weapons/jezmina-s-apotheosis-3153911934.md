@@ -11,6 +11,8 @@
 | Item ID | `3153911934` |
 | Internal name | `Weapon_T3_1H_Lore_AxeEpic_Ministory_02` |
 
+One of 6 versions of this item: see [Jezmina's Apotheosis](../../objects/weapons/jezmina-s-apotheosis.md) for all of them and how they differ.
+
 ## Description
 
 An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.

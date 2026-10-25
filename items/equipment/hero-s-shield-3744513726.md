@@ -11,6 +11,8 @@
 | Item ID | `3744513726` |
 | Internal name | `Shield_T2_DPS_Loot` |
 
+One of 2 versions of this item: see [Hero's Shield](../../objects/equipment/hero-s-shield.md) for all of them and how they differ.
+
 ## Description
 
 This basic shield allows you to **block** physical attacks. Blocking drains Stamina.

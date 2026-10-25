@@ -11,6 +11,8 @@
 | Item ID | `3121223720` |
 | Internal name | `Prop_Decoration_T6_Fence_Bamboo_Pole_01` |
 
+One of 2 versions of this item: see [Bamboo Fence Pole](../../objects/buildtools/bamboo-fence-pole.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

@@ -11,6 +11,8 @@
 | Item ID | `3367211688` |
 | Internal name | `Flower_Pot_Tiny_White` |
 
+One of 5 versions of this item: see [White Flower Pot](../../objects/buildtools/white-flower-pot.md) for all of them and how they differ.
+
 ## Description
 
 A tiny potted plant to beautify your home.

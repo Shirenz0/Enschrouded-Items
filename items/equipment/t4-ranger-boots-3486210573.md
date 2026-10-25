@@ -11,6 +11,8 @@
 | Item ID | `3486210573` |
 | Internal name | `Armor_T4_Ranger_Archer_DPS_Boots` |
 
+One of 2 versions of this item: see [T4 Ranger Boots](../../objects/equipment/t4-ranger-boots.md) for all of them and how they differ.
+
 ## Description
 
 Stakking prey in these boots makes barely any sound.

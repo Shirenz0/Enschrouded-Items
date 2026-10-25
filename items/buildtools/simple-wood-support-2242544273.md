@@ -11,6 +11,8 @@
 | Item ID | `2242544273` |
 | Internal name | `Prop_Decoration_T6_Simple_Support_4m_02_A` |
 
+One of 4 versions of this item: see [Simple Wood Support](../../objects/buildtools/simple-wood-support.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

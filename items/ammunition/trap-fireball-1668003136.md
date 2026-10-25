@@ -11,6 +11,8 @@
 | Item ID | `1668003136` |
 | Internal name | `Ammo_Enemy_AncientConstruct_Modular_Flamethrower_Projectile` |
 
+One of 10 versions of this item: see [Trap Fireball](../../objects/ammunition/trap-fireball.md) for all of them and how they differ.
+
 ## Description
 
 Trap Fireball

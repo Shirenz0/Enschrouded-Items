@@ -11,6 +11,8 @@
 | Item ID | `2422827884` |
 | Internal name | `Armor_T2_Ranger_Sniper_Helmet_Loot` |
 
+One of 2 versions of this item: see [T2 Sniper Helmet](../../objects/equipment/t2-sniper-helmet.md) for all of them and how they differ.
+
 ## Description
 
 An archer's hood. The leather trim provides additional protection and camouflages the wearer between the trees.

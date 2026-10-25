@@ -11,6 +11,8 @@
 | Item ID | `2593704943` |
 | Internal name | `Ability_SpecialAbility_Tools` |
 
+One of 2 versions of this item: see [Weapon Skill](../../objects/materials/weapon-skill.md) for all of them and how they differ.
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

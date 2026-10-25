@@ -11,6 +11,8 @@
 | Item ID | `2331461341` |
 | Internal name | `Ward_T2` |
 
+One of 2 versions of this item: see [Ghostly Shield](../../objects/equipment/ghostly-shield.md) for all of them and how they differ.
+
 ## Description
 
 ward t2 desc

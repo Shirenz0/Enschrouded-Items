@@ -11,6 +11,8 @@
 | Item ID | `1464549788` |
 | Internal name | `Vanity_T2_springButterfly_Helmet` |
 
+One of 2 versions of this item: see [Jezmina's Yearwake Helmet](../../objects/equipment/jezmina-s-yearwake-helmet.md) for all of them and how they differ.
+
 ## Description
 
 Jezmina's Yearwake helmet desc

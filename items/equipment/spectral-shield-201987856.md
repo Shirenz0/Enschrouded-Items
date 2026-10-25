@@ -11,6 +11,8 @@
 | Item ID | `201987856` |
 | Internal name | `Ward_T1` |
 
+One of 2 versions of this item: see [Spectral Shield](../../objects/equipment/spectral-shield.md) for all of them and how they differ.
+
 ## Description
 
 This magic shield allows you to **block** physical attacks. Blocking drains Stamina.

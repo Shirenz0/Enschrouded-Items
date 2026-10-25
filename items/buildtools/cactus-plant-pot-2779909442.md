@@ -11,6 +11,8 @@
 | Item ID | `2779909442` |
 | Internal name | `Flower_Pot_Medium_Cactus` |
 
+One of 2 versions of this item: see [Cactus Plant Pot](../../objects/buildtools/cactus-plant-pot.md) for all of them and how they differ.
+
 ## Description
 
 A medium potted plant to beautify your home.

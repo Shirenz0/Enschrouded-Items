@@ -11,6 +11,8 @@
 | Item ID | `1454083076` |
 | Internal name | `Craft_Weapon_T5_2H_Lore_BowEpic_Ministory_15` |
 
+One of 7 versions of this item: see [Consumed fog soldier bow](../../objects/weapons/consumed-fog-soldier-bow.md) for all of them and how they differ.
+
 ## Description
 
 : A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.

@@ -11,6 +11,8 @@
 | Item ID | `1822528443` |
 | Internal name | `Armor_T3_Ranger_Assassin_Helmet` |
 
+One of 2 versions of this item: see [T3 Archer Helmet](../../objects/equipment/t3-archer-helmet.md) for all of them and how they differ.
+
 ## Description
 
 The metal adornment on this hood faintly resemmles a hawk.

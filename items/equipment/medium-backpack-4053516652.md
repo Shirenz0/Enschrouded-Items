@@ -11,6 +11,8 @@
 | Item ID | `4053516652` |
 | Internal name | `Backpack_T2` |
 
+One of 2 versions of this item: see [Medium Backpack](../../objects/equipment/medium-backpack.md) for all of them and how they differ.
+
 ## Description
 
 An extension to your backpack that increases your inventory by a measurable amount.

@@ -11,6 +11,8 @@
 | Item ID | `3049020197` |
 | Internal name | `VC_Body_UpperLegs_Male_04_elder` |
 
+One of 4 versions of this item: see [Male Upper Legs 01](../../objects/customization/male-upper-legs-01.md) for all of them and how they differ.
+
 ---
 
 [← Customization](../../categories/customization.md) · [All categories](../../README.md)

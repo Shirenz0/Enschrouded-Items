@@ -11,6 +11,8 @@
 | Item ID | `674281730` |
 | Internal name | `Prop_Decoration_T6_StoneTotem_01_A` |
 
+One of 2 versions of this item: see [Drak Stone Totem I](../../objects/buildtools/drak-stone-totem-i.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

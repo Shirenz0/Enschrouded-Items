@@ -11,6 +11,8 @@
 | Item ID | `2802395209` |
 | Internal name | `Armor_T4_Ranger_Assassin_Chest` |
 
+One of 2 versions of this item: see [T4 Assassin Chest](../../objects/equipment/t4-assassin-chest.md) for all of them and how they differ.
+
 ## Description
 
 A refined chest piece which lets you fade into the dark and strike from the shadows.

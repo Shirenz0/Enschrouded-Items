@@ -11,6 +11,8 @@
 | Item ID | `1856277122` |
 | Internal name | `Armor_T2_Ranger_Archer_DPS_Chest` |
 
+One of 2 versions of this item: see [T2 Ranger Chest](../../objects/equipment/t2-ranger-chest.md) for all of them and how they differ.
+
 ## Description
 
 Minor protection, but it hardly matters. Just hit them before they ever see you.

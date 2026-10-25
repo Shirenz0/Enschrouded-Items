@@ -11,6 +11,8 @@
 | Item ID | `2226962572` |
 | Internal name | `Weapon_T5_2H_Lore_Hammer_townsfolk_male_01_hint_01` |
 
+One of 4 versions of this item: see [Ancestral Star](../../objects/weapons/ancestral-star.md) for all of them and how they differ.
+
 ## Description
 
 An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: "If you want this weapon, you'll have to pry it from my cold, dead hands".

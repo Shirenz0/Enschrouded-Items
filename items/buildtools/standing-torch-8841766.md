@@ -11,6 +11,8 @@
 | Item ID | `8841766` |
 | Internal name | `Prop_Decoration_Comfort_T0_IlluminationFloor` |
 
+One of 2 versions of this item: see [Standing torch](../../objects/buildtools/standing-torch.md) for all of them and how they differ.
+
 ## Description
 
 An illumination item that can be placed in your home.

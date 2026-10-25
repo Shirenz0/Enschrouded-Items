@@ -11,6 +11,8 @@
 | Item ID | `1456389031` |
 | Internal name | `Building_Decay_Shape_Medium` |
 
+One of 2 versions of this item: see [Shape Medium](../../objects/blueprints/shape-medium.md) for all of them and how they differ.
+
 ---
 
 [← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)

@@ -11,6 +11,8 @@
 | Item ID | `1977989355` |
 | Internal name | `Armor_T3_Mage_Healer_Boots` |
 
+One of 2 versions of this item: see [T3 Healer Boots](../../objects/equipment/t3-healer-boots.md) for all of them and how they differ.
+
 ## Description
 
 Quickly dash to the rescue in these comfortable and snug boots!

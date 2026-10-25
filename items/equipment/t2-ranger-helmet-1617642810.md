@@ -11,6 +11,8 @@
 | Item ID | `1617642810` |
 | Internal name | `Armor_T2_Ranger_Archer_DPS_Helmet` |
 
+One of 2 versions of this item: see [T2 Ranger Helmet](../../objects/equipment/t2-ranger-helmet.md) for all of them and how they differ.
+
 ## Description
 
 A hood that provides additonal protcetion from the sun, allowing you to focus your gaze undisturbed.

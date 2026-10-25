@@ -11,6 +11,8 @@
 | Item ID | `1111695486` |
 | Internal name | `Prop_Decoration_T3_Fence_Graveyard_Pole` |
 
+One of 3 versions of this item: see [Graveyard Fence Pole](../../objects/buildtools/graveyard-fence-pole.md) for all of them and how they differ.
+
 ## Description
 
 A decorative object to design and beautify yout home.

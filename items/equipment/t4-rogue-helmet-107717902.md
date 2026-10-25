@@ -11,6 +11,8 @@
 | Item ID | `107717902` |
 | Internal name | `Armor_T4_Warrior_Rogue_Helmet` |
 
+One of 2 versions of this item: see [T4 Rogue Helmet](../../objects/equipment/t4-rogue-helmet.md) for all of them and how they differ.
+
 ## Description
 
 A sturdy helmet protects the wearer from slashes, cuts and scars.

@@ -11,6 +11,8 @@
 | Item ID | `473703809` |
 | Internal name | `Building_Overgrowth_Shape_Medium` |
 
+One of 2 versions of this item: see [Shape Medium](../../objects/blueprints/shape-medium.md) for all of them and how they differ.
+
 ---
 
 [← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)

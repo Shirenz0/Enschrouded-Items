@@ -11,6 +11,8 @@
 | Item ID | `2269127555` |
 | Internal name | `Ammo_Enemy_Projectile_Magical_Ice_Lightning` |
 
+One of 10 versions of this item: see [Trap Fireball](../../objects/ammunition/trap-fireball.md) for all of them and how they differ.
+
 ## Description
 
 Trap Fireball

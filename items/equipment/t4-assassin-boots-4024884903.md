@@ -11,6 +11,8 @@
 | Item ID | `4024884903` |
 | Internal name | `Armor_T4_Ranger_Assassin_Boots` |
 
+One of 2 versions of this item: see [T4 Assassin Boots](../../objects/equipment/t4-assassin-boots.md) for all of them and how they differ.
+
 ## Description
 
 Your steps will be quick and quiet with these supreme assassin boots.

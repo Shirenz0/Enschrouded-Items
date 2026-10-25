@@ -11,6 +11,8 @@
 | Item ID | `4089349181` |
 | Internal name | `Armor_T2_Mage_Healer_Boots` |
 
+One of 2 versions of this item: see [T2 Healer Boots](../../objects/equipment/t2-healer-boots.md) for all of them and how they differ.
+
 ## Description
 
 No need to keep them clean and neat. They will get bloody.

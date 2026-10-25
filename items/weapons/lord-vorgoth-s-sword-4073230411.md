@@ -11,6 +11,8 @@
 | Item ID | `4073230411` |
 | Internal name | `Craft_Weapon_T6_2H_Lore_GreatSwordEpic_Ministory_20` |
 
+One of 3 versions of this item: see [Lord Vorgoth's Sword](../../objects/weapons/lord-vorgoth-s-sword.md) for all of them and how they differ.
+
 ## Description
 
 Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.

@@ -11,6 +11,8 @@
 | Item ID | `2461700133` |
 | Internal name | `Armor_T4_Mage_BattleWand_Boots_Loot` |
 
+One of 2 versions of this item: see [T4 BattleMage boote](../../objects/equipment/t4-battlemage-boote.md) for all of them and how they differ.
+
 ## Description
 
 Traditional warlock boots which protect the feet under all circumstances.

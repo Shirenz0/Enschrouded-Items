@@ -11,6 +11,8 @@
 | Item ID | `1030886695` |
 | Internal name | `Weapon_T7_1H_Lore_Wand_protoVessels_blunt` |
 
+One of 2 versions of this item: see [Proto Bone-Bender](../../objects/weapons/proto-bone-bender.md) for all of them and how they differ.
+
 ## Description
 
 A traditional wand that helps to adjust the subject's bones after arrival.

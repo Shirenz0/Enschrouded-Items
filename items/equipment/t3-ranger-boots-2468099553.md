@@ -11,6 +11,8 @@
 | Item ID | `2468099553` |
 | Internal name | `Armor_T3_Ranger_Archer_DPS_Boots_Loot` |
 
+One of 2 versions of this item: see [T3 Ranger Boots](../../objects/equipment/t3-ranger-boots.md) for all of them and how they differ.
+
 ## Description
 
 Ideal for stalking prey.

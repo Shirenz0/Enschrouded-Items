@@ -11,6 +11,8 @@
 | Item ID | `2666667832` |
 | Internal name | `Armor_T4_Ranger_Archer_DPS_Helmet` |
 
+One of 2 versions of this item: see [T4 Ranger Helmet](../../objects/equipment/t4-ranger-helmet.md) for all of them and how they differ.
+
 ## Description
 
 The cloth straps attached to this mask glide softly in the wind, helping to discern wind direction and speed.
