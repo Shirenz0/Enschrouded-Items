@@ -1,6 +1,6 @@
 # Explosive Powderball Net
 
-<img src="../../images/categories/weapons.svg" alt="Explosive Powderball Net" width="160">
+<img src="../../images/icons/4233298973.png" alt="Explosive Powderball Net" width="160">
 
 | | |
 |---|---|

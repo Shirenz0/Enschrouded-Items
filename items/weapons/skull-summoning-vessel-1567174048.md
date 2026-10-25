@@ -1,6 +1,6 @@
 # Skull Summoning Vessel
 
-<img src="../../images/categories/weapons.svg" alt="Skull Summoning Vessel" width="160">
+<img src="../../images/icons/1567174048.png" alt="Skull Summoning Vessel" width="160">
 
 | | |
 |---|---|

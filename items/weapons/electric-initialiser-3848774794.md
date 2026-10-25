@@ -1,6 +1,6 @@
 # Electric Initialiser
 
-<img src="../../images/categories/weapons.svg" alt="Electric Initialiser" width="160">
+<img src="../../images/icons/3848774794.png" alt="Electric Initialiser" width="160">
 
 | | |
 |---|---|

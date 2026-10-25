@@ -1,6 +1,6 @@
 # Cryptic wand
 
-<img src="../../images/categories/weapons.svg" alt="Cryptic wand" width="160">
+<img src="../../images/icons/4048093059.png" alt="Cryptic wand" width="160">
 
 | | |
 |---|---|

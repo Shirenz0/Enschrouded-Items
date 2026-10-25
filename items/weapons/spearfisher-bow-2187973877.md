@@ -1,6 +1,6 @@
 # Spearfisher Bow
 
-<img src="../../images/categories/weapons.svg" alt="Spearfisher Bow" width="160">
+<img src="../../images/icons/2187973877.png" alt="Spearfisher Bow" width="160">
 
 | | |
 |---|---|

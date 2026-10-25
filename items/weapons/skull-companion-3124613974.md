@@ -1,6 +1,6 @@
 # Skull Companion
 
-<img src="../../images/categories/weapons.svg" alt="Skull Companion" width="160">
+<img src="../../images/icons/3124613974.png" alt="Skull Companion" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Explosive Powder Grenade
 
-<img src="../../images/categories/weapons.svg" alt="Explosive Powder Grenade" width="160">
+<img src="../../images/icons/1614998716.png" alt="Explosive Powder Grenade" width="160">
 
 | | |
 |---|---|

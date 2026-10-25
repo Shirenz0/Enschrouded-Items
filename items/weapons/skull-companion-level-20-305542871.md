@@ -1,6 +1,6 @@
 # Skull companion Level 20
 
-<img src="../../images/categories/weapons.svg" alt="Skull companion Level 20" width="160">
+<img src="../../images/icons/305542871.png" alt="Skull companion Level 20" width="160">
 
 | | |
 |---|---|

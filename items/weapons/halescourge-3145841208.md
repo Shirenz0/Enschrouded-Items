@@ -1,6 +1,6 @@
 # Halescourge
 
-<img src="../../images/categories/weapons.svg" alt="Halescourge" width="160">
+<img src="../../images/icons/3145841208.png" alt="Halescourge" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Jezmina's Apotheosis
 
-<img src="../../images/categories/weapons.svg" alt="Jezmina&#x27;s Apotheosis" width="160">
+<img src="../../images/icons/2509571957.png" alt="Jezmina&#x27;s Apotheosis" width="160">
 
 | | |
 |---|---|
