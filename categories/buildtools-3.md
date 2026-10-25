@@ -57,7 +57,7 @@
 | <img src="../images/categories/buildtools.svg" width="48"> | [Ground Lantern I](../items/buildtools/ground-lantern-i-1746429100.md) | ⚪ Common | - | 50 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Ground Lantern II](../items/buildtools/ground-lantern-ii-3828240641.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4054157889.png" width="48"> | [Ground Sign](../items/buildtools/ground-sign-4054157889.md) | ⚪ Common | - | 20 |
-| <img src="../images/icons/1607688361.png" width="48"> | [Gunther Galeforth](../items/buildtools/gunther-galeforth-1607688361.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Gunther Galeforth](../items/buildtools/gunther-galeforth-1607688361.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2646674848.png" width="48"> | [Half Wooden Barrel](../items/buildtools/half-wooden-barrel-2646674848.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2871749713.png" width="48"> | [Half-Timbered Block](../items/buildtools/half-timbered-block-2871749713.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/3615680929.png" width="48"> | [Halloween Banner](../items/buildtools/halloween-banner-3615680929.md) | ⚪ Common | - | 50 |
@@ -68,7 +68,7 @@
 | <img src="../images/icons/3590737619.png" width="48"> | [Hanfu Ponytail Wig Head](../items/buildtools/hanfu-ponytail-wig-head-3590737619.md) | 🔵 Rare | - | 5 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Hang-Drum](../items/buildtools/hang-drum-2038549065.md) | ⚪ Common | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Hanging Lantern](../items/buildtools/hanging-lantern-1383912137.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/841170834.png" width="48"> | [Hannah Reed](../items/buildtools/hannah-reed-841170834.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Hannah Reed](../items/buildtools/hannah-reed-841170834.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2570341954.png" width="48"> | [Hardwood Ash Tree](../items/buildtools/hardwood-ash-tree-2570341954.md) | ⚪ Common | - | 100 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Harp](../items/buildtools/harp-134682651.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/612622945.png" width="48"> | [Harrow](../items/buildtools/harrow-612622945.md) | ⚪ Common | - | 20 |
@@ -108,7 +108,7 @@
 | <img src="../images/icons/1624408583.png" width="48"> | [Huge Coffin Lid](../items/buildtools/huge-coffin-lid-1624408583.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2382841178.png" width="48"> | [Huge Hollow Halls Door](../items/buildtools/huge-hollow-halls-door-2382841178.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4157937420.png" width="48"> | [Huge Magic Chest](../items/buildtools/huge-magic-chest-4157937420.md) | ⚪ Common | - | 1 |
-| <img src="../images/icons/1689944669.png" width="48"> | [Hugo Vanderhall](../items/buildtools/hugo-vanderhall-1689944669.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Hugo Vanderhall](../items/buildtools/hugo-vanderhall-1689944669.md) | 🔵 Rare | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Hydrak'Dal Trophy](../items/buildtools/hydrak-dal-trophy-736400222.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/3484267274.png" width="48"> | [Ikko](../items/buildtools/ikko-3484267274.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1804479582.png" width="48"> | [Illumination T2 Bones Brazier](../items/buildtools/illumination-t2-bones-brazier-1804479582.md) | ⚪ Common | - | 50 |
@@ -164,14 +164,14 @@
 | <img src="../images/icons/3331017965.png" width="48"> | [Jezmina's Journey Begins](../items/buildtools/jezmina-s-journey-begins-3331017965.md) | 🟣 Epic | - | 20 |
 | <img src="../images/icons/2847426289.png" width="48"> | [Jump Pad High](../items/buildtools/jump-pad-high-2847426289.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1412155513.png" width="48"> | [Jump Pad Medium](../items/buildtools/jump-pad-medium-1412155513.md) | ⚪ Common | - | 20 |
-| <img src="../images/icons/3298879737.png" width="48"> | [Kaori Conway](../items/buildtools/kaori-conway-3298879737.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Kaori Conway](../items/buildtools/kaori-conway-3298879737.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3769824548.png" width="48"> | [Keen Games Banner](../items/buildtools/keen-games-banner-3769824548.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4218685557.png" width="48"> | [Kettle](../items/buildtools/kettle-4218685557.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/21592019.png" width="48"> | [Kiln](../items/buildtools/kiln-21592019.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2053490668.png" width="48"> | [Kingsize Bed](../items/buildtools/kingsize-bed-2053490668.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3587916203.png" width="48"> | [Kitchen](../items/buildtools/kitchen-3587916203.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1750422149.png" width="48"> | [Laboratory](../items/buildtools/laboratory-1750422149.md) | 🔵 Rare | - | 1 |
-| <img src="../images/icons/2202966376.png" width="48"> | [Lady Elovére](../items/buildtools/lady-elov-re-2202966376.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Lady Elovére](../items/buildtools/lady-elov-re-2202966376.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3936746657.png" width="48"> | [Lamp](../items/buildtools/lamp-3936746657.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1631158255.png" width="48"> | [Lantern](../items/buildtools/lantern-1631158255.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/896912556.png" width="48"> | [Lantern Garden Gnome](../items/buildtools/lantern-garden-gnome-896912556.md) | ⚪ Common | - | 50 |
@@ -229,7 +229,7 @@
 | <img src="../images/icons/3862593821.png" width="48"> | [Long Wall Banner](../items/buildtools/long-wall-banner-3862593821.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/48453107.png" width="48"> | [Loom](../items/buildtools/loom-48453107.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2847231429.png" width="48"> | [Loot Drop Station](../items/buildtools/loot-drop-station-2847231429.md) | ⚪ Common | - | 20 |
-| <img src="../images/icons/1710067644.png" width="48"> | [Loraine Crim](../items/buildtools/loraine-crim-1710067644.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Loraine Crim](../items/buildtools/loraine-crim-1710067644.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2585958107.png" width="48"> | [Low Crude Wooden Shelf](../items/buildtools/low-crude-wooden-shelf-2585958107.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1775964566.png" width="48"> | [Low Elegant Armchair](../items/buildtools/low-elegant-armchair-1775964566.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1054180206.png" width="48"> | [Low Paling Fence I](../items/buildtools/low-paling-fence-i-1054180206.md) | ⚪ Common | - | 50 |
@@ -249,7 +249,7 @@
 | <img src="../images/icons/320245652.png" width="48"> | [Mannequin "Look At Me"](../items/buildtools/mannequin-look-at-me-320245652.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3072123387.png" width="48"> | [Mannequin "Strike A Pose"](../items/buildtools/mannequin-strike-a-pose-3072123387.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1193821325.png" width="48"> | [Mannequin "Victory"](../items/buildtools/mannequin-victory-1193821325.md) | ⚪ Common | - | 20 |
-| <img src="../images/icons/1240116813.png" width="48"> | [Marianne Reed](../items/buildtools/marianne-reed-1240116813.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Marianne Reed](../items/buildtools/marianne-reed-1240116813.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/22428115.png" width="48"> | [Maritime Bathtub](../items/buildtools/maritime-bathtub-22428115.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2913802289.png" width="48"> | [Maritime Shower](../items/buildtools/maritime-shower-2913802289.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/101619585.png" width="48"> | [Maritime Sink](../items/buildtools/maritime-sink-101619585.md) | ⚪ Common | - | 50 |
@@ -268,8 +268,8 @@
 | <img src="../images/icons/2385353507.png" width="48"> | [Medium Hollow's Eve Pumpkin III](../items/buildtools/medium-hollow-s-eve-pumpkin-iii-2385353507.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1666087652.png" width="48"> | [Medium Monstera Plant Pot](../items/buildtools/medium-monstera-plant-pot-1666087652.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2604657464.png" width="48"> | [Medium Table T1](../items/buildtools/medium-table-t1-2604657464.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/2375735512.png" width="48"> | [Mei-Yin Chen](../items/buildtools/mei-yin-chen-2375735512.md) | 🔵 Rare | - | 1 |
-| <img src="../images/icons/2684532648.png" width="48"> | [Melville Fontane](../items/buildtools/melville-fontane-2684532648.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Mei-Yin Chen](../items/buildtools/mei-yin-chen-2375735512.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Melville Fontane](../items/buildtools/melville-fontane-2684532648.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/485052852.png" width="48"> | [Metal Block](../items/buildtools/metal-block-485052852.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/3561979363.png" width="48"> | [Metal Boss Trophy Cyclops](../items/buildtools/metal-boss-trophy-cyclops-3561979363.md) | 🟠 Legendary | - | 10 |
 | <img src="../images/icons/2422133492.png" width="48"> | [Metal Boss Trophy Cyclops Fell](../items/buildtools/metal-boss-trophy-cyclops-fell-2422133492.md) | 🟠 Legendary | - | 10 |
@@ -300,7 +300,7 @@
 | <img src="../images/icons/2601121082.png" width="48"> | [Mountaingoat](../items/buildtools/mountaingoat-2601121082.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1353762644.png" width="48"> | [Mycelium overgrowth](../items/buildtools/mycelium-overgrowth-1353762644.md) | ⚪ Common | 18 | 1000 |
 | <img src="../images/icons/2543947810.png" width="48"> | [Mycellium Overgrown Block](../items/buildtools/mycellium-overgrown-block-2543947810.md) | ⚪ Common | - | 5000 |
-| <img src="../images/icons/3954545655.png" width="48"> | [Nameless One](../items/buildtools/nameless-one-3954545655.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Nameless One](../items/buildtools/nameless-one-3954545655.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2298603989.png" width="48"> | [Nettle Seedling](../items/buildtools/nettle-seedling-2298603989.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/1543478105.png" width="48"> | [Notice Board](../items/buildtools/notice-board-1543478105.md) | ⚪ Common | - | 20 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Orange Decorative Box](../items/buildtools/orange-decorative-box-4123212614.md) | ⚪ Common | - | 50 |

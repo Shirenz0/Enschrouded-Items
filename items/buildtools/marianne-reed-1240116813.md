@@ -1,6 +1,6 @@
 # Marianne Reed
 
-<img src="../../images/icons/1240116813.png" alt="Marianne Reed" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Marianne Reed" width="160">
 
 | | |
 |---|---|

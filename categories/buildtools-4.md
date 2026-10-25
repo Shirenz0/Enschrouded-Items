@@ -28,8 +28,8 @@
 | <img src="../images/icons/437915741.png" width="48"> | [Ornate Iron Door](../items/buildtools/ornate-iron-door-437915741.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2544552928.png" width="48"> | [Ornate Iron Double Door](../items/buildtools/ornate-iron-double-door-2544552928.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1539285358.png" width="48"> | [Ornate Wall Banner](../items/buildtools/ornate-wall-banner-1539285358.md) | ⚪ Common | - | 20 |
-| <img src="../images/icons/2801667479.png" width="48"> | [Oscar Godwin](../items/buildtools/oscar-godwin-2801667479.md) | 🔵 Rare | - | 1 |
-| <img src="../images/icons/786532879.png" width="48"> | [Oswald](../items/buildtools/oswald-786532879.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Oscar Godwin](../items/buildtools/oscar-godwin-2801667479.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Oswald](../items/buildtools/oswald-786532879.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3397817290.png" width="48"> | [Oven](../items/buildtools/oven-3397817290.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3682420039.png" width="48"> | [Palanthir](../items/buildtools/palanthir-3682420039.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1108421963.png" width="48"> | [Palm Leaf Basket](../items/buildtools/palm-leaf-basket-1108421963.md) | ⚪ Common | - | 20 |
@@ -102,7 +102,7 @@
 | <img src="../images/icons/1335353289.png" width="48"> | [Purple Wall Light I](../items/buildtools/purple-wall-light-i-1335353289.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4278796376.png" width="48"> | [Purple Wall Light II](../items/buildtools/purple-wall-light-ii-4278796376.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2610640903.png" width="48"> | [Push button](../items/buildtools/push-button-2610640903.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/2159713419.png" width="48"> | [Ramone Jones](../items/buildtools/ramone-jones-2159713419.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Ramone Jones](../items/buildtools/ramone-jones-2159713419.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2503926869.png" width="48"> | [Ranged switch](../items/buildtools/ranged-switch-2503926869.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2776180521.png" width="48"> | [Rectangular Coaster](../items/buildtools/rectangular-coaster-2776180521.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3422704366.png" width="48"> | [Red Confetti Mortar](../items/buildtools/red-confetti-mortar-3422704366.md) | ⚪ Common | - | 20 |
@@ -131,8 +131,8 @@
 | <img src="../images/icons/1313835688.png" width="48"> | [Resource Bundle I](../items/buildtools/resource-bundle-i-1313835688.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2243725147.png" width="48"> | [Resource Bundle II](../items/buildtools/resource-bundle-ii-2243725147.md) | ⚪ Common | - | 20 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Rice Seedling](../items/buildtools/rice-seedling-3520367051.md) | ⚪ Common | - | 100 |
-| <img src="../images/icons/321292257.png" width="48"> | [Robert Gibson](../items/buildtools/robert-gibson-321292257.md) | 🔵 Rare | - | 1 |
-| <img src="../images/icons/387784553.png" width="48"> | [Rochelle Anders](../items/buildtools/rochelle-anders-387784553.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Robert Gibson](../items/buildtools/robert-gibson-321292257.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Rochelle Anders](../items/buildtools/rochelle-anders-387784553.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/196827131.png" width="48"> | [Roof Tiles Block](../items/buildtools/roof-tiles-block-196827131.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/3764454676.png" width="48"> | [Rooibos Seedling](../items/buildtools/rooibos-seedling-3764454676.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/1008591425.png" width="48"> | [Room Divider "Dragon"](../items/buildtools/room-divider-dragon-1008591425.md) | ⚪ Common | - | 50 |

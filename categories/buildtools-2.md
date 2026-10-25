@@ -49,7 +49,7 @@
 | <img src="../images/icons/367322414.png" width="48"> | [Charcoal Kiln](../items/buildtools/charcoal-kiln-367322414.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/461254565.png" width="48"> | [Chemistry Set 01](../items/buildtools/chemistry-set-01-461254565.md) | ⚪ Common | - | 500 |
 | <img src="../images/icons/3018429826.png" width="48"> | [Chemistry Set 02](../items/buildtools/chemistry-set-02-3018429826.md) | ⚪ Common | - | 1 |
-| <img src="../images/icons/279729468.png" width="48"> | [Chester Loft](../items/buildtools/chester-loft-279729468.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Chester Loft](../items/buildtools/chester-loft-279729468.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1956408861.png" width="48"> | [City Wall Stone Block](../items/buildtools/city-wall-stone-block-1956408861.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/3379333313.png" width="48"> | [City Wall Stone Block](../items/buildtools/city-wall-stone-block-3379333313.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/1787218857.png" width="48"> | [Clay Bowl](../items/buildtools/clay-bowl-1787218857.md) | ⚪ Common | - | 50 |
@@ -189,7 +189,7 @@
 | <img src="../images/icons/1916039100.png" width="48"> | [EarlyAccess Reward Items](../items/buildtools/earlyaccess-reward-items-1916039100.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1584621189.png" width="48"> | [Elevated Huge Coffin](../items/buildtools/elevated-huge-coffin-1584621189.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1764672566.png" width="48"> | [Embervale Miniature Showcase](../items/buildtools/embervale-miniature-showcase-1764672566.md) | ⚪ Common | - | 20 |
-| <img src="../images/icons/1004393385.png" width="48"> | [Emily](../items/buildtools/emily-1004393385.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Emily](../items/buildtools/emily-1004393385.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2125538426.png" width="48"> | [Empty Cymbidum Pot](../items/buildtools/empty-cymbidum-pot-2125538426.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4135259126.png" width="48"> | [Empty Cymbidum Pot](../items/buildtools/empty-cymbidum-pot-4135259126.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1392367211.png" width="48"> | [Empty Farmbed](../items/buildtools/empty-farmbed-1392367211.md) | 🔵 Rare | - | 10 |
@@ -235,7 +235,7 @@
 | <img src="../images/categories/buildtools.svg" width="48"> | [Fell Critter Queen Trophy](../items/buildtools/fell-critter-queen-trophy-421729762.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/3983205690.png" width="48"> | [Fence Hollow Halls](../items/buildtools/fence-hollow-halls-3983205690.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1799390834.png" width="48"> | [Fence Hollow Halls Big](../items/buildtools/fence-hollow-halls-big-1799390834.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/1209217157.png" width="48"> | [Fenrig Mills, Jr.](../items/buildtools/fenrig-mills-jr-1209217157.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Fenrig Mills, Jr.](../items/buildtools/fenrig-mills-jr-1209217157.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1228884892.png" width="48"> | [Fern Pot](../items/buildtools/fern-pot-1228884892.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1665119413.png" width="48"> | [Fern Pot](../items/buildtools/fern-pot-1665119413.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2019603203.png" width="48"> | [Fern Pot](../items/buildtools/fern-pot-2019603203.md) | ⚪ Common | - | 50 |
@@ -291,7 +291,7 @@
 | <img src="../images/icons/770717366.png" width="48"> | [Forge](../items/buildtools/forge-770717366.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3910511825.png" width="48"> | [Fur Rug](../items/buildtools/fur-rug-3910511825.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1318773899.png" width="48"> | [Furry straw mat](../items/buildtools/furry-straw-mat-1318773899.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/3991532476.png" width="48"> | [Galen Yager](../items/buildtools/galen-yager-3991532476.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Galen Yager](../items/buildtools/galen-yager-3991532476.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1622296983.png" width="48"> | [Garden Gnome](../items/buildtools/garden-gnome-1622296983.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/965243086.png" width="48"> | [Gentian Flower Pot](../items/buildtools/gentian-flower-pot-965243086.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3200238404.png" width="48"> | [Giant hollow Halls Banner](../items/buildtools/giant-hollow-halls-banner-3200238404.md) | ⚪ Common | - | 20 |

@@ -1,6 +1,6 @@
 # Oscar Godwin
 
-<img src="../../images/icons/2801667479.png" alt="Oscar Godwin" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Oscar Godwin" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # 2x2 Terrain Blocks
 
-<img src="../../images/icons/3014325591.png" alt="2x2 Terrain Blocks" width="160">
+<img src="../../images/categories/blueprints.svg" alt="2x2 Terrain Blocks" width="160">
 
 | | |
 |---|---|

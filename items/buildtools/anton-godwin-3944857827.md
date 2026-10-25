@@ -1,6 +1,6 @@
 # Anton Godwin
 
-<img src="../../images/icons/3944857827.png" alt="Anton Godwin" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Anton Godwin" width="160">
 
 | | |
 |---|---|

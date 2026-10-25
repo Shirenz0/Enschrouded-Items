@@ -1,6 +1,6 @@
 # Robert Gibson
 
-<img src="../../images/icons/321292257.png" alt="Robert Gibson" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Robert Gibson" width="160">
 
 | | |
 |---|---|

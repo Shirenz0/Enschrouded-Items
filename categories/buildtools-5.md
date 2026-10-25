@@ -215,7 +215,7 @@
 | <img src="../images/icons/4167058878.png" width="48"> | [Tyger](../items/buildtools/tyger-4167058878.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1521452298.png" width="48"> | [Underwater Overgrowth](../items/buildtools/underwater-overgrowth-1521452298.md) | ⚪ Common | 40 | 1000 |
 | <img src="../images/icons/3291221650.png" width="48"> | [Urn](../items/buildtools/urn-3291221650.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/1100674176.png" width="48"> | [Valory](../items/buildtools/valory-1100674176.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Valory](../items/buildtools/valory-1100674176.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2667326700.png" width="48"> | [Vase Of The Ancients I](../items/buildtools/vase-of-the-ancients-i-2667326700.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3127174137.png" width="48"> | [Vase Of The Ancients II](../items/buildtools/vase-of-the-ancients-ii-3127174137.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2057806208.png" width="48"> | [Vase Of The Ancients III](../items/buildtools/vase-of-the-ancients-iii-2057806208.md) | ⚪ Common | - | 50 |

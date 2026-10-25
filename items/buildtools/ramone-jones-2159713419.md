@@ -1,6 +1,6 @@
 # Ramone Jones
 
-<img src="../../images/icons/2159713419.png" alt="Ramone Jones" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Ramone Jones" width="160">
 
 | | |
 |---|---|

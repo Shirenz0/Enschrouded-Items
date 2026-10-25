@@ -1,6 +1,6 @@
 # Loraine Crim
 
-<img src="../../images/icons/1710067644.png" alt="Loraine Crim" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Loraine Crim" width="160">
 
 | | |
 |---|---|

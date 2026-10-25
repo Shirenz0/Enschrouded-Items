@@ -1,6 +1,6 @@
 # Chester Loft
 
-<img src="../../images/icons/279729468.png" alt="Chester Loft" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Chester Loft" width="160">
 
 | | |
 |---|---|

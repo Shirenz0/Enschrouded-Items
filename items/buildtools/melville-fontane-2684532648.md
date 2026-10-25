@@ -1,6 +1,6 @@
 # Melville Fontane
 
-<img src="../../images/icons/2684532648.png" alt="Melville Fontane" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Melville Fontane" width="160">
 
 | | |
 |---|---|

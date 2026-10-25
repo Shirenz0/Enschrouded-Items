@@ -1,6 +1,6 @@
 # Gunther Galeforth
 
-<img src="../../images/icons/1607688361.png" alt="Gunther Galeforth" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Gunther Galeforth" width="160">
 
 | | |
 |---|---|

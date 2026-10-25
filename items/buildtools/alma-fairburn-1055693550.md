@@ -1,6 +1,6 @@
 # Alma Fairburn
 
-<img src="../../images/icons/1055693550.png" alt="Alma Fairburn" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Alma Fairburn" width="160">
 
 | | |
 |---|---|

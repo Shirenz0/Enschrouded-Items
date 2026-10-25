@@ -1,6 +1,6 @@
 # Hugo Vanderhall
 
-<img src="../../images/icons/1689944669.png" alt="Hugo Vanderhall" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Hugo Vanderhall" width="160">
 
 | | |
 |---|---|

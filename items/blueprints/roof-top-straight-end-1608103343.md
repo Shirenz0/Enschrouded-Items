@@ -1,6 +1,6 @@
 # Roof Top Straight End
 
-<img src="../../images/icons/1608103343.png" alt="Roof Top Straight End" width="160">
+<img src="../../images/categories/blueprints.svg" alt="Roof Top Straight End" width="160">
 
 | | |
 |---|---|

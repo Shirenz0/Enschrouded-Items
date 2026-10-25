@@ -1,6 +1,6 @@
 # Roof Top Peak
 
-<img src="../../images/icons/3974598916.png" alt="Roof Top Peak" width="160">
+<img src="../../images/categories/blueprints.svg" alt="Roof Top Peak" width="160">
 
 | | |
 |---|---|

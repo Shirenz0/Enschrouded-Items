@@ -1,6 +1,6 @@
 # Roof Corner In
 
-<img src="../../images/icons/3722239847.png" alt="Roof Corner In" width="160">
+<img src="../../images/categories/blueprints.svg" alt="Roof Corner In" width="160">
 
 | | |
 |---|---|

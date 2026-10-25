@@ -12,16 +12,16 @@
 | <img src="../images/icons/1790893349.png" width="48"> | ["Temple Landscape"](../items/buildtools/temple-landscape-1790893349.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3847020528.png" width="48"> | ["Tower In The Night"](../items/buildtools/tower-in-the-night-3847020528.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1688806746.png" width="48"> | ["Wolf's Choir"](../items/buildtools/wolf-s-choir-1688806746.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/3721320872.png" width="48"> | [(Barber Name)](../items/buildtools/barber-name-3721320872.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [(Barber Name)](../items/buildtools/barber-name-3721320872.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1785286209.png" width="48"> | [(Butterfly Lover Bush) Seedling](../items/buildtools/butterfly-lover-bush-seedling-1785286209.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/48847428.png" width="48"> | [A Spiral Down, Down, Down](../items/buildtools/a-spiral-down-down-down-48847428.md) | 🟣 Epic | - | 20 |
 | <img src="../images/icons/3652154887.png" width="48"> | [Afro Wig Head](../items/buildtools/afro-wig-head-3652154887.md) | 🔵 Rare | - | 5 |
 | <img src="../images/icons/2450356375.png" width="48"> | [Agent Of Chaos](../items/buildtools/agent-of-chaos-2450356375.md) | 🟣 Epic | - | 20 |
 | <img src="../images/icons/3764911324.png" width="48"> | [Alchemical Station](../items/buildtools/alchemical-station-3764911324.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1902069142.png" width="48"> | [Alchemist Showcase](../items/buildtools/alchemist-showcase-1902069142.md) | ⚪ Common | - | 20 |
-| <img src="../images/icons/3764330463.png" width="48"> | [Alden Crowley](../items/buildtools/alden-crowley-3764330463.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Alden Crowley](../items/buildtools/alden-crowley-3764330463.md) | 🔵 Rare | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Algae Seedling](../items/buildtools/algae-seedling-2411338569.md) | ⚪ Common | - | 100 |
-| <img src="../images/icons/1055693550.png" width="48"> | [Alma Fairburn](../items/buildtools/alma-fairburn-1055693550.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Alma Fairburn](../items/buildtools/alma-fairburn-1055693550.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/305269419.png" width="48"> | [Aloe Plant Pot](../items/buildtools/aloe-plant-pot-305269419.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/526064074.png" width="48"> | [Aloe Seedling](../items/buildtools/aloe-seedling-526064074.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/889046505.png" width="48"> | [Alpine Rose Flower Pot](../items/buildtools/alpine-rose-flower-pot-889046505.md) | ⚪ Common | - | 50 |
@@ -76,7 +76,7 @@
 | <img src="../images/icons/3711901465.png" width="48"> | [Ancient Wall Lamp](../items/buildtools/ancient-wall-lamp-3711901465.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4020448547.png" width="48"> | [Ancient Wall Secret](../items/buildtools/ancient-wall-secret-4020448547.md) | 🔵 Rare | - | 50 |
 | <img src="../images/icons/2941673930.png" width="48"> | [Ancinet Workbench](../items/buildtools/ancinet-workbench-2941673930.md) | ⚪ Common | - | 1 |
-| <img src="../images/icons/3944857827.png" width="48"> | [Anton Godwin](../items/buildtools/anton-godwin-3944857827.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Anton Godwin](../items/buildtools/anton-godwin-3944857827.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2425590785.png" width="48"> | [Ashes Of Pikemead's Reach](../items/buildtools/ashes-of-pikemead-s-reach-2425590785.md) | 🟣 Epic | - | 20 |
 | <img src="../images/icons/2703911785.png" width="48"> | [Astronomy Ceiling Lamp](../items/buildtools/astronomy-ceiling-lamp-2703911785.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/606217020.png" width="48"> | [Astronomy Desk I](../items/buildtools/astronomy-desk-i-606217020.md) | ⚪ Common | - | 50 |
@@ -84,9 +84,9 @@
 | <img src="../images/icons/2863367984.png" width="48"> | [Astronomy Desk II Twitch Drop](../items/buildtools/astronomy-desk-ii-twitch-drop-2863367984.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3419379175.png" width="48"> | [Astronomy Standing Lamp](../items/buildtools/astronomy-standing-lamp-3419379175.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4055833197.png" width="48"> | [Astronomy Wall Lamp](../items/buildtools/astronomy-wall-lamp-4055833197.md) | ⚪ Common | - | 50 |
-| <img src="../images/icons/1340233313.png" width="48"> | [Athalan](../items/buildtools/athalan-1340233313.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Athalan](../items/buildtools/athalan-1340233313.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3002231083.png" width="48"> | [Athanor](../items/buildtools/athanor-3002231083.md) | 🔵 Rare | - | 1 |
-| <img src="../images/icons/2205178126.png" width="48"> | [Aunt Braelyn](../items/buildtools/aunt-braelyn-2205178126.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Aunt Braelyn](../items/buildtools/aunt-braelyn-2205178126.md) | 🔵 Rare | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Awning I](../items/buildtools/awning-i-1340326394.md) | ⚪ Common | - | 20 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Awning II](../items/buildtools/awning-ii-1959524109.md) | ⚪ Common | - | 20 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Awning III](../items/buildtools/awning-iii-4146957236.md) | ⚪ Common | - | 20 |
@@ -101,7 +101,7 @@
 | <img src="../images/icons/2817114805.png" width="48"> | [Baby Yak](../items/buildtools/baby-yak-2817114805.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1545825068.png" width="48"> | [Bait Goat](../items/buildtools/bait-goat-1545825068.md) | 🟢 Uncommon | - | 50 |
 | <img src="../images/icons/2154839974.png" width="48"> | [Bait Sand Digger](../items/buildtools/bait-sand-digger-2154839974.md) | 🟢 Uncommon | - | 50 |
-| <img src="../images/icons/4146744324.png" width="48"> | [Balthazar](../items/buildtools/balthazar-4146744324.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Balthazar](../items/buildtools/balthazar-4146744324.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3669060453.png" width="48"> | [Bamboo Bar Counter](../items/buildtools/bamboo-bar-counter-3669060453.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/86847811.png" width="48"> | [Bamboo Barricade I](../items/buildtools/bamboo-barricade-i-86847811.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1713080952.png" width="48"> | [Bamboo Barricade II](../items/buildtools/bamboo-barricade-ii-1713080952.md) | ⚪ Common | - | 50 |
@@ -286,7 +286,7 @@
 | <img src="../images/icons/274681682.png" width="48"> | [Cactus Plant Pot](../items/buildtools/cactus-plant-pot-274681682.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2779909442.png" width="48"> | [Cactus Plant Pot](../items/buildtools/cactus-plant-pot-2779909442.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3704150172.png" width="48"> | [Cactus Seedling](../items/buildtools/cactus-seedling-3704150172.md) | ⚪ Common | - | 100 |
-| <img src="../images/icons/1149463877.png" width="48"> | [Cade](../items/buildtools/cade-1149463877.md) | 🔵 Rare | - | 1 |
+| <img src="../images/categories/buildtools.svg" width="48"> | [Cade](../items/buildtools/cade-1149463877.md) | 🔵 Rare | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Calla Luna Flower Pot](../items/buildtools/calla-luna-flower-pot-2908822452.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1326647808.png" width="48"> | [Campfire](../items/buildtools/campfire-1326647808.md) | ⚪ Common | - | 5 |
 | <img src="../images/icons/2939168228.png" width="48"> | [Candle](../items/buildtools/candle-2939168228.md) | ⚪ Common | - | 50 |

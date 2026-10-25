@@ -1,6 +1,6 @@
 # Rochelle Anders
 
-<img src="../../images/icons/387784553.png" alt="Rochelle Anders" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Rochelle Anders" width="160">
 
 | | |
 |---|---|
