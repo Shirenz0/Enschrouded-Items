@@ -1,6 +1,6 @@
 # Ornated Wooden Bow
 
-<img src="../../images/categories/weapons.svg" alt="Ornated Wooden Bow" width="160">
+<img src="../../images/icons/476811263.png" alt="Ornated Wooden Bow" width="160">
 
 | | |
 |---|---|

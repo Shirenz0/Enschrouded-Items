@@ -1,6 +1,6 @@
 # Epic Wolf Sword
 
-<img src="../../images/categories/weapons.svg" alt="Epic Wolf Sword" width="160">
+<img src="../../images/icons/3238923785.png" alt="Epic Wolf Sword" width="160">
 
 | | |
 |---|---|

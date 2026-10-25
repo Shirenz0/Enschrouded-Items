@@ -1,6 +1,6 @@
 # Wand Of The Apprentice
 
-<img src="../../images/categories/weapons.svg" alt="Wand Of The Apprentice" width="160">
+<img src="../../images/icons/1111770772.png" alt="Wand Of The Apprentice" width="160">
 
 | | |
 |---|---|

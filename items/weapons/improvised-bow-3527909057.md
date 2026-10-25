@@ -1,6 +1,6 @@
 # Improvised Bow
 
-<img src="../../images/categories/weapons.svg" alt="Improvised Bow" width="160">
+<img src="../../images/icons/3527909057.png" alt="Improvised Bow" width="160">
 
 | | |
 |---|---|

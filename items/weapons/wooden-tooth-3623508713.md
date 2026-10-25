@@ -1,6 +1,6 @@
 # Wooden Tooth
 
-<img src="../../images/categories/weapons.svg" alt="Wooden Tooth" width="160">
+<img src="../../images/icons/3623508713.png" alt="Wooden Tooth" width="160">
 
 | | |
 |---|---|

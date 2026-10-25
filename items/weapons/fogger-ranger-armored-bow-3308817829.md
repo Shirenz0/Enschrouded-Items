@@ -1,6 +1,6 @@
 # Fogger Ranger Armored Bow
 
-<img src="../../images/categories/weapons.svg" alt="Fogger Ranger Armored Bow" width="160">
+<img src="../../images/icons/3308817829.png" alt="Fogger Ranger Armored Bow" width="160">
 
 | | |
 |---|---|

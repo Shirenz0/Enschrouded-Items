@@ -1,6 +1,6 @@
 # Sword of Ruin
 
-<img src="../../images/categories/weapons.svg" alt="Sword of Ruin" width="160">
+<img src="../../images/icons/4139475742.png" alt="Sword of Ruin" width="160">
 
 | | |
 |---|---|

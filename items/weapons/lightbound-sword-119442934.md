@@ -1,6 +1,6 @@
 # Lightbound Sword
 
-<img src="../../images/categories/weapons.svg" alt="Lightbound Sword" width="160">
+<img src="../../images/icons/119442934.png" alt="Lightbound Sword" width="160">
 
 | | |
 |---|---|

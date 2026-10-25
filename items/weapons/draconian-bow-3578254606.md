@@ -1,6 +1,6 @@
 # Draconian Bow
 
-<img src="../../images/categories/weapons.svg" alt="Draconian Bow" width="160">
+<img src="../../images/icons/3578254606.png" alt="Draconian Bow" width="160">
 
 | | |
 |---|---|

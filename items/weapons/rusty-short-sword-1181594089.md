@@ -1,6 +1,6 @@
 # Rusty Short Sword
 
-<img src="../../images/categories/weapons.svg" alt="Rusty Short Sword" width="160">
+<img src="../../images/icons/1181594089.png" alt="Rusty Short Sword" width="160">
 
 | | |
 |---|---|

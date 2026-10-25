@@ -1,6 +1,6 @@
 # Wolf's Hydra
 
-<img src="../../images/categories/weapons.svg" alt="Wolf&#x27;s Hydra" width="160">
+<img src="../../images/icons/544559006.png" alt="Wolf&#x27;s Hydra" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Vaporous Staff
 
-<img src="../../images/categories/weapons.svg" alt="Vaporous Staff" width="160">
+<img src="../../images/icons/2749653597.png" alt="Vaporous Staff" width="160">
 
 | | |
 |---|---|

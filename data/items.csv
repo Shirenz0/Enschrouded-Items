@@ -2698,117 +2698,117 @@ This collectible is found in Cinder's Cradle.",,,Collectibles,Rare,20,0,0,images
 248650235,Armor_T7_Ranger_Chest_Vorgoth,Vorgoth's Chest,,Squint and you might see a heart etched into the plate. More heart than Vorgoth himself has shown in years. His real one drowned in Elixir.,,,Equipment,Legendary,1,45,45,images/icons/248650235.png
 3057524028,Armor_T7_Mage_Legs_Vorgoth,Vorgoth's Pants,,Iron-clad from hip to heel.,,,Equipment,Legendary,1,45,45,images/icons/3057524028.png
 3667811355,_Weapon_Unarmed_Fists_Hand_lvl00,Unarmed Fists,,Everybody has a plan until they get punched in the face -Mike Thyson,,,Weapons,Legendary,1,1,1,images/icons/3667811355.png
-1985879197,Weapon_T1_1H_Mace_Craft,Spiked Club,,"A slightly improved version of the Wooden Club, reinforced with spikes.",,,Weapons,Common,1,5,5,
-3304320872,Weapon_T1_2H_GreatAxe_01,Hangman's Axe,,When there is no gallows around.,,,Weapons,Legendary,1,1,55,
+1985879197,Weapon_T1_1H_Mace_Craft,Spiked Club,,"A slightly improved version of the Wooden Club, reinforced with spikes.",,,Weapons,Common,1,5,5,images/icons/1985879197.png
+3304320872,Weapon_T1_2H_GreatAxe_01,Hangman's Axe,,When there is no gallows around.,,,Weapons,Legendary,1,1,55,images/icons/3304320872.png
 3536356032,Weapon_T1_2H_Staff_Craft,Spiritual Cane,,"A basic magical staff that allows the wearer to release spells at the cost of mana and magical ammunition.
 
-The spells need to be crafted or found.",,,Weapons,Common,1,5,5,
-3881967409,Weapon_T1_2H_Bow_01,Hunter's Bow,,"A finely handcrafted wooden bow, made by a true hunter of the forest.",,,Weapons,Common,1,1,55,
-729180175,Weapon_T1_1H_Sword_01,Rusty Sword,,"A rusted Simple Copper Sword, damaged over time. Its best times are far gone.",,,Weapons,Common,1,1,55,
-3205048904,Weapon_T1_1H_AxeEpic_01,Epic One Handed Axe,,A mighty one handed axe.,,,Weapons,Legendary,1,1,55,
-1111770772,Weapon_T1_1H_Wand_02_Ice,Wand Of The Apprentice,,"Modified to increase the Mana control, this wand shoots ice projectiles with a bit more force.",,,Weapons,Common,1,1,55,
-1125155603,Weapon_T1_1H_SwordEpic_01,Bronzen Sword,,A light and swift sword of beautiful color. It gets dull quickly though...,,,Weapons,Common,1,1,55,
-3419190942,Weapon_T1_1H_WandEpic_02_Ice,Epic T1 Wand,,Wand with really cool Ice Damage,,,Weapons,Common,1,1,55,
-476811263,Weapon_T1_2H_BowEpic_01,Ornated Wooden Bow,,A top-quality ornated wooden bow based on the antlers of a moose. It could almost be called an artwork.,,,Weapons,Common,1,1,55,
-1094447119,Weapon_T1_1H_Axe_01,Tomahawk,,"A one handed axe with many usecases, but mostly practiced to split the skulls of enemies.",,,Weapons,Legendary,1,1,55,
-1275936258,Weapon_T1_1H_Sword_Craft,Scrappy Sword,,"A blunt enlarged knife, designed to open up ways. Especially through lines of enemies.",,Blacksmith,Weapons,Common,1,5,5,
-3486546660,Weapon_T1_2H_GreatAxeEpic_01,Executioner's Axe,,"Called after it's most frequent user, it has seen many heads roll. It's gone shabby by now, but still fulfills its purpose.",,,Weapons,Rare,1,1,55,
-3371766557,Weapon_T1_2H_StaffEpic_01,Sheperd's Lighting,,A mighty relic. The previous owner might have been a retired hero. ,,,Weapons,Rare,1,1,55,
-3540633303,Weapon_T1_2H_Bow_03,Short Bow,,"This fast bow has a weaker tension, but will not deplete your stamina",,,Weapons,Common,1,1,55,
-327157552,Weapon_T1_2H_Bow_02,Long Bow,,"This bow is exhausting to use, but it packs a punch like no other. ",,,Weapons,Common,1,1,55,
-2242220014,Weapon_T1_2H_BowEpic_03,Epic Short Bow,,This fine bow has ahigh rate of fire and conserves your energy. It does not deal the mist damage though. ,,,Weapons,Common,1,1,55,
-692270451,Weapon_T1_2H_BowEpic_02,Epic Long Bow,,"This fine long bow is exhausting to use, but it packs a punch like no other. ",,,Weapons,Common,1,1,55,
-2515033100,Weapon_T1_2H_StaffEpic_02,Root Staff,,"Made from the roots of an ancient tree, this staff channels great power. ",,,Weapons,Common,1,1,55,
-3851016100,Weapon_T1_1H_WandEpic_01_Fire,Epic Fire Wand,,Kill it with fire. ,,,Weapons,Common,1,1,55,
-1693828837,Weapon_T1_1H_Wand_01_Fire,Simple Fire Wand,,Fire prooved to be an excellent weapon against creatures of the fog. ,,,Weapons,Common,1,1,55,
-1157288032,Weapon_T1_2H_Staff_01,Shepard's Staff,,A potent staff capable of protecting those who cannot protectsthemselfs.,,,Weapons,Common,1,1,55,
-3034847985,Weapon_T1_2H_Hammer_01,Heavy Club,,"Once in Motion, this Weapon will make a hard impact. ",,,Weapons,Legendary,1,1,55,
-210093577,Weapon_T1_2H_HammerEpic_01,Epic Heavy Club,,Heavy and merciless. ,,,Weapons,Rare,1,1,55,
-4110381914,Weapon_T1_1H_MaceEpic_01,Six Edged Mace,,A mace with a heavy head,,,Weapons,Common,1,1,55,
-979851343,Weapon_T0_1H_Mace_Club_Craft,Wooden Club,,"A club carved out of wood. At least something to defend with. Better than nothing, I guess?",,,Weapons,Common,1,3,3,
-3527909057,Weapon_T0_2H_Bow_Improvised_Craft,Improvised Bow,,"An improvised bow made out of basic materials. Unfortunately, the bow string is really loose. Shooting will be hard.",,,Weapons,Common,1,3,3,
-3748173823,Weapon_T0_1H_Wand_Bone_Ice_Craft,Bone Wand,,"A magical wand, carved out of the enemies' bones. Lifeless and cold, it shoots magical ice projectiles.",,,Weapons,Common,1,3,3,
-1210271138,Weapon_T0_2H_Staff_Craft,Simple Bone Staff,,A simple magical staff that is able to fire spell charges. The spell charges need to be crafted or found.,,,Weapons,Common,1,3,3,
-3974938802,Weapon_T0_2H_Daggers_DPS_Craft,Daggers T1 Cratable,,Daggers T1 Cratable Descritpion,,,Weapons,Common,1,3,3,
-409520008,Weapon_T2_1H_Mace_01,Enhanced Spiked Club,,"The most basic weaponry, enhanced to be more effective and durable. What more do you need to smack some enemies?",,,Weapons,Common,1,1,55,
-3467068456,Weapon_T2_2H_Bow_01,Fog Defier,,A bow designed to defy the shroud. It is especially strong against the fell.,,,Weapons,Legendary,1,1,55,
-1065913662,Weapon_T2_2H_Bow_02,Forest Bow,,"It was designed in admiration of moose antlers, the king of the forest, and one must say the craftsmen succeeded.",,,Weapons,Legendary,1,1,55,
-2698032927,Weapon_T2_2H_Hammer_01,Great Wolf Mace,,Easy to use and quiet deadly. The sharp blades on the side allow for easier penetration of the armour.,,,Weapons,Legendary,1,1,55,
-2770415595,Weapon_T2_1H_Sword_01,Wolf's Teeth,,As sharp as a wolfs tooth and just as deadly. This blade carved its name into countless bodies in battle.,,,Weapons,Common,1,1,55,
-3775746254,Weapon_T2_1H_Axe_01,Wolf's Claw,,Strikes with force and leaves devastating wounds. A weapon truly fitting its name.,,,Weapons,Legendary,1,1,55,
-3657818170,Weapon_T2_2H_Staff_01,Elder's Staff,,"A magical staff, brimming with power that was named after a famous elder who became famous for its usage. Legend has it that his soul is linked to it, sometimes humming at night.",,,Weapons,Legendary,1,1,55,
-3566462451,Weapon_T2_1H_Wand_01_Fire,Infernal Wand,,"Marked through hundreds of hours of endurance inside the fire, this wand has a connection to the element and is able to utilize it.",,,Weapons,Common,1,1,55,
-2109907931,Weapon_T2_2H_HammerEpic_01,Heavy Morningstar,,This club can take on hoardes of enemies.,,,Weapons,Legendary,1,1,55,
-2296172399,Weapon_T2_2H_BowEpic_01,Epic Fogbound Bow,,An infested Shroud bow.,,,Weapons,Legendary,1,1,55,
-1255239784,Weapon_T2_2H_StaffEpic_01,Epic Wood Staff,,This staff is brimming with energy.,,,Weapons,Legendary,1,1,55,
-944519165,Weapon_T2_2H_BowEpic_02,Wolf Bow,,A bow that strikes with the ferocity of a wolf,,,Weapons,Legendary,1,1,55,
-3238923785,Weapon_T2_1H_SwordEpic_01,Epic Wolf Sword,,Another wolf sword!,,,Weapons,Common,1,1,55,
-4075697507,Weapon_T2_1H_AxeEpic_01,Epic Wolf Axe,,This Axe is destined to smite down creatures of the wild.,,,Weapons,Legendary,1,1,55,
-213584320,Weapon_T2_1H_SwordEpic_02,Epic Sword,,Every swing is true and just.,,,Weapons,Common,1,1,55,
-1792316220,Weapon_T2_1H_WandEpic_01_Fire,T2 Epic Fire Wand,,This wand grants power over fire to however is brave enough to wield it.  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
-1676088364,Weapon_T2_1H_MaceEpic_01,Wolf Club,,"A perfectly balanced mace, where each front mirrors the opposite side.",,,Weapons,Legendary,1,1,55,
-3831314886,Weapon_T2_2H_HammerEpic_02,Epic Great Wolf Mace,,Epic Great Wolf Mace Desc,,,Weapons,Legendary,1,1,55,
-1595482967,Weapon_T2_1H_WandEpic_02_Ice,T2 Epic Ice Wand,,This wand is epic and does Ice damage.,,,Weapons,Common,1,1,55,
-2671932055,Weapon_T2_2H_GreatSwordEpic_02,T2 GreatswordEpic 02,,T2 Greatsword Epic 02 desc,,,Weapons,Legendary,1,1,55,
-2284373099,Weapon_T3_1H_Mace_01,Mace-like Club,,"Don't let the image deceive you. It might try to be a mace, but it is a primitive club after all.",,,Weapons,Common,1,1,55,
-3623508713,Weapon_T3_2H_Hammer_02,Wooden Tooth,,A traditional and excellently carved wooden hammer made by Vukah craftsmen. Caused by the hammerhead form it is also often referenced as the tooth. It is also very good at removing them.,,,Weapons,Legendary,1,1,55,
-2832157981,Weapon_T3_1H_Axe_02,Meat Chopper,,"A primitively crafted, but brutal weapon, awaiting its next prey to serve its purpose.",,,Weapons,Legendary,1,1,55,
-2901533456,Weapon_T3_2H_Bow_01,Antler Bow,,A bow crafted from Antlers ,,,Weapons,Legendary,1,1,55,
-4171383651,Weapon_T3_1H_Wand_01_Fire,T3 Fire Wand,,Weapon_T3_1H_Wand_01_Fire desc,,,Weapons,Common,1,1,55,
-2867801060,Weapon_T3_1H_Axe_01,Enshrouded Axe,,A mighty axe that spent so much time in the fog that it might've created a personality. It's lusting for blood!,,,Weapons,Legendary,1,1,55,
+The spells need to be crafted or found.",,,Weapons,Common,1,5,5,images/icons/3536356032.png
+3881967409,Weapon_T1_2H_Bow_01,Hunter's Bow,,"A finely handcrafted wooden bow, made by a true hunter of the forest.",,,Weapons,Common,1,1,55,images/icons/3881967409.png
+729180175,Weapon_T1_1H_Sword_01,Rusty Sword,,"A rusted Simple Copper Sword, damaged over time. Its best times are far gone.",,,Weapons,Common,1,1,55,images/icons/729180175.png
+3205048904,Weapon_T1_1H_AxeEpic_01,Epic One Handed Axe,,A mighty one handed axe.,,,Weapons,Legendary,1,1,55,images/icons/3205048904.png
+1111770772,Weapon_T1_1H_Wand_02_Ice,Wand Of The Apprentice,,"Modified to increase the Mana control, this wand shoots ice projectiles with a bit more force.",,,Weapons,Common,1,1,55,images/icons/1111770772.png
+1125155603,Weapon_T1_1H_SwordEpic_01,Bronzen Sword,,A light and swift sword of beautiful color. It gets dull quickly though...,,,Weapons,Common,1,1,55,images/icons/1125155603.png
+3419190942,Weapon_T1_1H_WandEpic_02_Ice,Epic T1 Wand,,Wand with really cool Ice Damage,,,Weapons,Common,1,1,55,images/icons/3419190942.png
+476811263,Weapon_T1_2H_BowEpic_01,Ornated Wooden Bow,,A top-quality ornated wooden bow based on the antlers of a moose. It could almost be called an artwork.,,,Weapons,Common,1,1,55,images/icons/476811263.png
+1094447119,Weapon_T1_1H_Axe_01,Tomahawk,,"A one handed axe with many usecases, but mostly practiced to split the skulls of enemies.",,,Weapons,Legendary,1,1,55,images/icons/1094447119.png
+1275936258,Weapon_T1_1H_Sword_Craft,Scrappy Sword,,"A blunt enlarged knife, designed to open up ways. Especially through lines of enemies.",,Blacksmith,Weapons,Common,1,5,5,images/icons/1275936258.png
+3486546660,Weapon_T1_2H_GreatAxeEpic_01,Executioner's Axe,,"Called after it's most frequent user, it has seen many heads roll. It's gone shabby by now, but still fulfills its purpose.",,,Weapons,Rare,1,1,55,images/icons/3486546660.png
+3371766557,Weapon_T1_2H_StaffEpic_01,Sheperd's Lighting,,A mighty relic. The previous owner might have been a retired hero. ,,,Weapons,Rare,1,1,55,images/icons/3371766557.png
+3540633303,Weapon_T1_2H_Bow_03,Short Bow,,"This fast bow has a weaker tension, but will not deplete your stamina",,,Weapons,Common,1,1,55,images/icons/3540633303.png
+327157552,Weapon_T1_2H_Bow_02,Long Bow,,"This bow is exhausting to use, but it packs a punch like no other. ",,,Weapons,Common,1,1,55,images/icons/327157552.png
+2242220014,Weapon_T1_2H_BowEpic_03,Epic Short Bow,,This fine bow has ahigh rate of fire and conserves your energy. It does not deal the mist damage though. ,,,Weapons,Common,1,1,55,images/icons/2242220014.png
+692270451,Weapon_T1_2H_BowEpic_02,Epic Long Bow,,"This fine long bow is exhausting to use, but it packs a punch like no other. ",,,Weapons,Common,1,1,55,images/icons/692270451.png
+2515033100,Weapon_T1_2H_StaffEpic_02,Root Staff,,"Made from the roots of an ancient tree, this staff channels great power. ",,,Weapons,Common,1,1,55,images/icons/2515033100.png
+3851016100,Weapon_T1_1H_WandEpic_01_Fire,Epic Fire Wand,,Kill it with fire. ,,,Weapons,Common,1,1,55,images/icons/3851016100.png
+1693828837,Weapon_T1_1H_Wand_01_Fire,Simple Fire Wand,,Fire prooved to be an excellent weapon against creatures of the fog. ,,,Weapons,Common,1,1,55,images/icons/1693828837.png
+1157288032,Weapon_T1_2H_Staff_01,Shepard's Staff,,A potent staff capable of protecting those who cannot protectsthemselfs.,,,Weapons,Common,1,1,55,images/icons/1157288032.png
+3034847985,Weapon_T1_2H_Hammer_01,Heavy Club,,"Once in Motion, this Weapon will make a hard impact. ",,,Weapons,Legendary,1,1,55,images/icons/3034847985.png
+210093577,Weapon_T1_2H_HammerEpic_01,Epic Heavy Club,,Heavy and merciless. ,,,Weapons,Rare,1,1,55,images/icons/210093577.png
+4110381914,Weapon_T1_1H_MaceEpic_01,Six Edged Mace,,A mace with a heavy head,,,Weapons,Common,1,1,55,images/icons/4110381914.png
+979851343,Weapon_T0_1H_Mace_Club_Craft,Wooden Club,,"A club carved out of wood. At least something to defend with. Better than nothing, I guess?",,,Weapons,Common,1,3,3,images/icons/979851343.png
+3527909057,Weapon_T0_2H_Bow_Improvised_Craft,Improvised Bow,,"An improvised bow made out of basic materials. Unfortunately, the bow string is really loose. Shooting will be hard.",,,Weapons,Common,1,3,3,images/icons/3527909057.png
+3748173823,Weapon_T0_1H_Wand_Bone_Ice_Craft,Bone Wand,,"A magical wand, carved out of the enemies' bones. Lifeless and cold, it shoots magical ice projectiles.",,,Weapons,Common,1,3,3,images/icons/3748173823.png
+1210271138,Weapon_T0_2H_Staff_Craft,Simple Bone Staff,,A simple magical staff that is able to fire spell charges. The spell charges need to be crafted or found.,,,Weapons,Common,1,3,3,images/icons/1210271138.png
+3974938802,Weapon_T0_2H_Daggers_DPS_Craft,Daggers T1 Cratable,,Daggers T1 Cratable Descritpion,,,Weapons,Common,1,3,3,images/icons/3974938802.png
+409520008,Weapon_T2_1H_Mace_01,Enhanced Spiked Club,,"The most basic weaponry, enhanced to be more effective and durable. What more do you need to smack some enemies?",,,Weapons,Common,1,1,55,images/icons/409520008.png
+3467068456,Weapon_T2_2H_Bow_01,Fog Defier,,A bow designed to defy the shroud. It is especially strong against the fell.,,,Weapons,Legendary,1,1,55,images/icons/3467068456.png
+1065913662,Weapon_T2_2H_Bow_02,Forest Bow,,"It was designed in admiration of moose antlers, the king of the forest, and one must say the craftsmen succeeded.",,,Weapons,Legendary,1,1,55,images/icons/1065913662.png
+2698032927,Weapon_T2_2H_Hammer_01,Great Wolf Mace,,Easy to use and quiet deadly. The sharp blades on the side allow for easier penetration of the armour.,,,Weapons,Legendary,1,1,55,images/icons/2698032927.png
+2770415595,Weapon_T2_1H_Sword_01,Wolf's Teeth,,As sharp as a wolfs tooth and just as deadly. This blade carved its name into countless bodies in battle.,,,Weapons,Common,1,1,55,images/icons/2770415595.png
+3775746254,Weapon_T2_1H_Axe_01,Wolf's Claw,,Strikes with force and leaves devastating wounds. A weapon truly fitting its name.,,,Weapons,Legendary,1,1,55,images/icons/3775746254.png
+3657818170,Weapon_T2_2H_Staff_01,Elder's Staff,,"A magical staff, brimming with power that was named after a famous elder who became famous for its usage. Legend has it that his soul is linked to it, sometimes humming at night.",,,Weapons,Legendary,1,1,55,images/icons/3657818170.png
+3566462451,Weapon_T2_1H_Wand_01_Fire,Infernal Wand,,"Marked through hundreds of hours of endurance inside the fire, this wand has a connection to the element and is able to utilize it.",,,Weapons,Common,1,1,55,images/icons/3566462451.png
+2109907931,Weapon_T2_2H_HammerEpic_01,Heavy Morningstar,,This club can take on hoardes of enemies.,,,Weapons,Legendary,1,1,55,images/icons/2109907931.png
+2296172399,Weapon_T2_2H_BowEpic_01,Epic Fogbound Bow,,An infested Shroud bow.,,,Weapons,Legendary,1,1,55,images/icons/2296172399.png
+1255239784,Weapon_T2_2H_StaffEpic_01,Epic Wood Staff,,This staff is brimming with energy.,,,Weapons,Legendary,1,1,55,images/icons/1255239784.png
+944519165,Weapon_T2_2H_BowEpic_02,Wolf Bow,,A bow that strikes with the ferocity of a wolf,,,Weapons,Legendary,1,1,55,images/icons/944519165.png
+3238923785,Weapon_T2_1H_SwordEpic_01,Epic Wolf Sword,,Another wolf sword!,,,Weapons,Common,1,1,55,images/icons/3238923785.png
+4075697507,Weapon_T2_1H_AxeEpic_01,Epic Wolf Axe,,This Axe is destined to smite down creatures of the wild.,,,Weapons,Legendary,1,1,55,images/icons/4075697507.png
+213584320,Weapon_T2_1H_SwordEpic_02,Epic Sword,,Every swing is true and just.,,,Weapons,Common,1,1,55,images/icons/213584320.png
+1792316220,Weapon_T2_1H_WandEpic_01_Fire,T2 Epic Fire Wand,,This wand grants power over fire to however is brave enough to wield it.  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,images/icons/1792316220.png
+1676088364,Weapon_T2_1H_MaceEpic_01,Wolf Club,,"A perfectly balanced mace, where each front mirrors the opposite side.",,,Weapons,Legendary,1,1,55,images/icons/1676088364.png
+3831314886,Weapon_T2_2H_HammerEpic_02,Epic Great Wolf Mace,,Epic Great Wolf Mace Desc,,,Weapons,Legendary,1,1,55,images/icons/3831314886.png
+1595482967,Weapon_T2_1H_WandEpic_02_Ice,T2 Epic Ice Wand,,This wand is epic and does Ice damage.,,,Weapons,Common,1,1,55,images/icons/1595482967.png
+2671932055,Weapon_T2_2H_GreatSwordEpic_02,T2 GreatswordEpic 02,,T2 Greatsword Epic 02 desc,,,Weapons,Legendary,1,1,55,images/icons/2671932055.png
+2284373099,Weapon_T3_1H_Mace_01,Mace-like Club,,"Don't let the image deceive you. It might try to be a mace, but it is a primitive club after all.",,,Weapons,Common,1,1,55,images/icons/2284373099.png
+3623508713,Weapon_T3_2H_Hammer_02,Wooden Tooth,,A traditional and excellently carved wooden hammer made by Vukah craftsmen. Caused by the hammerhead form it is also often referenced as the tooth. It is also very good at removing them.,,,Weapons,Legendary,1,1,55,images/icons/3623508713.png
+2832157981,Weapon_T3_1H_Axe_02,Meat Chopper,,"A primitively crafted, but brutal weapon, awaiting its next prey to serve its purpose.",,,Weapons,Legendary,1,1,55,images/icons/2832157981.png
+2901533456,Weapon_T3_2H_Bow_01,Antler Bow,,A bow crafted from Antlers ,,,Weapons,Legendary,1,1,55,images/icons/2901533456.png
+4171383651,Weapon_T3_1H_Wand_01_Fire,T3 Fire Wand,,Weapon_T3_1H_Wand_01_Fire desc,,,Weapons,Common,1,1,55,images/icons/4171383651.png
+2867801060,Weapon_T3_1H_Axe_01,Enshrouded Axe,,A mighty axe that spent so much time in the fog that it might've created a personality. It's lusting for blood!,,,Weapons,Legendary,1,1,55,images/icons/2867801060.png
 3168936309,Weapon_T3_2H_Staff_01,Enshrouded Staff,,"A magical staff, utilizing the power of the fog to create stronger magic spells. A mighty tool appreciated by every sorcerer.",,,Weapons,Legendary,1,1,55,images/icons/3168936309.png
-4290427358,Weapon_T3_1H_SwordEpic_02,Ice Blade,,"A magical blade, utilizing the power of ice, with edges so sharp they cut skin upon touch.",,,Weapons,Legendary,1,1,55,
-4120929581,Weapon_T3_1H_WandEpic_02_Ice,T3 Epic Ice Lightning Wand,,Ice lightning descr,,,Weapons,Common,1,1,55,
-1080812742,Weapon_T3_1H_MaceEpic_01,Epic spiked club,,It goes ouch ,,,Weapons,Legendary,1,1,55,
-1659424208,Weapon_T3_1H_Sword_02,Fang Blade,,The blade of this swords sucks up the warmth from its surrounding like a vampire. ,,,Weapons,Legendary,1,1,55,
-2237665335,Weapon_T3_2H_BowEpic_01,Composite bow,,A very sophisticated bow wiht a high tension. ,,,Weapons,Legendary,1,1,55,
-375831467,Weapon_T3_2H_Bow_02,Fog Bow,,Every true shot makes the blood pump faster.,,,Weapons,Legendary,1,1,55,
+4290427358,Weapon_T3_1H_SwordEpic_02,Ice Blade,,"A magical blade, utilizing the power of ice, with edges so sharp they cut skin upon touch.",,,Weapons,Legendary,1,1,55,images/icons/4290427358.png
+4120929581,Weapon_T3_1H_WandEpic_02_Ice,T3 Epic Ice Lightning Wand,,Ice lightning descr,,,Weapons,Common,1,1,55,images/icons/4120929581.png
+1080812742,Weapon_T3_1H_MaceEpic_01,Epic spiked club,,It goes ouch ,,,Weapons,Legendary,1,1,55,images/icons/1080812742.png
+1659424208,Weapon_T3_1H_Sword_02,Fang Blade,,The blade of this swords sucks up the warmth from its surrounding like a vampire. ,,,Weapons,Legendary,1,1,55,images/icons/1659424208.png
+2237665335,Weapon_T3_2H_BowEpic_01,Composite bow,,A very sophisticated bow wiht a high tension. ,,,Weapons,Legendary,1,1,55,images/icons/2237665335.png
+375831467,Weapon_T3_2H_Bow_02,Fog Bow,,Every true shot makes the blood pump faster.,,,Weapons,Legendary,1,1,55,images/icons/375831467.png
 3090479094,Weapon_T3_2H_StaffEpic_01,Fog Staff,,Infested Shroud staff,,,Weapons,Legendary,1,1,55,images/icons/3090479094.png
-1174019207,Weapon_T3_1H_AxeEpic_01,Epix Fog Axe,,Epix fog axe descr,,,Weapons,Legendary,1,1,55,
-3342004247,Weapon_T3_2H_HammerEpic_01,Ignited Eagle,,Inhereting the power of the flame. ,,,Weapons,Legendary,1,1,55,
-1940764111,Weapon_T3_2H_GreatAxeEpic_01,Epic Vukah Axe,,vukah axe descr,,,Weapons,Legendary,1,1,55,
-1785296023,Weapon_T3_2H_Hammer_01,Angry Eagle,,A heavy bird of prey. ,,,Weapons,Legendary,1,1,55,
-4203062243,Weapon_T3_2H_BowEpic_02,T3 Epic Bow,,T3 Epic Bow Desc,,,Weapons,Legendary,1,1,55,
-1552891650,Weapon_T3_1H_AxeEpic_02,Bone Chopper,,"A primitive, but well crafted brutal weapon. ",,,Weapons,Legendary,1,1,55,
-3533038097,Weapon_T3_1H_SwordEpic_01,Sword of restoration,,"A still mighty weapon, eminating power. ",,,Weapons,Legendary,1,1,55,
-4139475742,Weapon_T3_1H_Sword_01,Sword of Ruin,,A once mighty weapon. Now decayed but still deadly. ,,,Weapons,Rare,1,1,55,
-3873714456,Weapon_T3_2H_Daggers_DPS,Daggers T3 Type 1,,Daggers T3  Epic Type 1 desc,,,Weapons,Legendary,1,1,55,
-1851176688,Weapon_T3_2H_DaggersEpic_DPS,Daggers T3 Epic Type 1,,Daggers T3  Type 1 desc,,,Weapons,Legendary,1,1,55,
-3174763756,Weapon_T3_1H_WandEpic_01_Fog,T3 Epic Fog Wand,,Epic Fog Wand - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
+1174019207,Weapon_T3_1H_AxeEpic_01,Epix Fog Axe,,Epix fog axe descr,,,Weapons,Legendary,1,1,55,images/icons/1174019207.png
+3342004247,Weapon_T3_2H_HammerEpic_01,Ignited Eagle,,Inhereting the power of the flame. ,,,Weapons,Legendary,1,1,55,images/icons/3342004247.png
+1940764111,Weapon_T3_2H_GreatAxeEpic_01,Epic Vukah Axe,,vukah axe descr,,,Weapons,Legendary,1,1,55,images/icons/1940764111.png
+1785296023,Weapon_T3_2H_Hammer_01,Angry Eagle,,A heavy bird of prey. ,,,Weapons,Legendary,1,1,55,images/icons/1785296023.png
+4203062243,Weapon_T3_2H_BowEpic_02,T3 Epic Bow,,T3 Epic Bow Desc,,,Weapons,Legendary,1,1,55,images/icons/4203062243.png
+1552891650,Weapon_T3_1H_AxeEpic_02,Bone Chopper,,"A primitive, but well crafted brutal weapon. ",,,Weapons,Legendary,1,1,55,images/icons/1552891650.png
+3533038097,Weapon_T3_1H_SwordEpic_01,Sword of restoration,,"A still mighty weapon, eminating power. ",,,Weapons,Legendary,1,1,55,images/icons/3533038097.png
+4139475742,Weapon_T3_1H_Sword_01,Sword of Ruin,,A once mighty weapon. Now decayed but still deadly. ,,,Weapons,Rare,1,1,55,images/icons/4139475742.png
+3873714456,Weapon_T3_2H_Daggers_DPS,Daggers T3 Type 1,,Daggers T3  Epic Type 1 desc,,,Weapons,Legendary,1,1,55,images/icons/3873714456.png
+1851176688,Weapon_T3_2H_DaggersEpic_DPS,Daggers T3 Epic Type 1,,Daggers T3  Type 1 desc,,,Weapons,Legendary,1,1,55,images/icons/1851176688.png
+3174763756,Weapon_T3_1H_WandEpic_01_Fog,T3 Epic Fog Wand,,Epic Fog Wand - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,images/icons/3174763756.png
 3502536665,Weapon_T4_1H_Sword_01,Extiguished Sword,,Although no longer enflamed this former magical sword still has a sharp edge. ,,,Weapons,Common,1,1,55,images/icons/3502536665.png
-1640849157,Weapon_T4_2H_Bow_01,Vigor Fogbound Bow,,This bow fires easily against creatures of the Fog.,,,Weapons,Legendary,1,1,55,
-458314937,Weapon_T4_2H_Staff_02,Gleaming Staff,,A magical staff allows the wearer to release powerful Spells at the cost of Mana. The Spells need to be crafted or found.,,,Weapons,Legendary,1,1,55,
-1457307757,Weapon_T4_2H_BowEpic_02,Ignited Bow,,"Upon craft it was Ignited by the flame itself, pulsing with the power of fire.",,,Weapons,Legendary,1,1,55,
+1640849157,Weapon_T4_2H_Bow_01,Vigor Fogbound Bow,,This bow fires easily against creatures of the Fog.,,,Weapons,Legendary,1,1,55,images/icons/1640849157.png
+458314937,Weapon_T4_2H_Staff_02,Gleaming Staff,,A magical staff allows the wearer to release powerful Spells at the cost of Mana. The Spells need to be crafted or found.,,,Weapons,Legendary,1,1,55,images/icons/458314937.png
+1457307757,Weapon_T4_2H_BowEpic_02,Ignited Bow,,"Upon craft it was Ignited by the flame itself, pulsing with the power of fire.",,,Weapons,Legendary,1,1,55,images/icons/1457307757.png
 102274580,Weapon_T4_1H_Mace_01,Iron club,,A nice mace. ,,,Weapons,Common,1,1,55,images/icons/102274580.png
-2524297201,Weapon_T4_1H_Wand_02_Fire,T4 Sun Wand,,Wand with fire damage,,,Weapons,Common,1,1,55,
-3729741852,Weapon_T4_2H_Hammer_01,Shroud Corrupted Hammer,,"A mighty hammer, corrupted to the core. The power of the shroud is channeled in this weapon.",,,Weapons,Legendary,1,1,55,
+2524297201,Weapon_T4_1H_Wand_02_Fire,T4 Sun Wand,,Wand with fire damage,,,Weapons,Common,1,1,55,images/icons/2524297201.png
+3729741852,Weapon_T4_2H_Hammer_01,Shroud Corrupted Hammer,,"A mighty hammer, corrupted to the core. The power of the shroud is channeled in this weapon.",,,Weapons,Legendary,1,1,55,images/icons/3729741852.png
 3534558679,Weapon_T4_1H_MaceEpic_01,Righteous Club,,This club strikes fear into the hearts of your foes with every swing.,,,Weapons,Common,1,1,55,images/icons/3534558679.png
 2667317119,Weapon_T4_1H_Sword_02,Sunbeam,,The blade of this former epic weapon still emits warmth. ,,,Weapons,Legendary,1,1,55,images/icons/2667317119.png
 2568349283,Weapon_T4_1H_Wand_01_Fog,T4 Goat Wand,,"Fires a projectile that deals fog damage.
 
-<b>Ethereal Duplication</b>: The wand's unique magic grants it a 50% chance to spontaneously create an additional fog projectile.",,,Weapons,Common,1,1,55,
+<b>Ethereal Duplication</b>: The wand's unique magic grants it a 50% chance to spontaneously create an additional fog projectile.",,,Weapons,Common,1,1,55,images/icons/2568349283.png
 225230490,Weapon_T4_1H_SwordEpic_03,Major Arcana,,"Archaic power sleeps within this blade. It resonates, whispers and sings to those who dare to listen.",,,Weapons,Legendary,1,1,55,images/icons/225230490.png
-3025766089,Weapon_T4_2H_GreatAxeEpic_01,Ornamented Battle Axe,,T4 2h Battle Axe Desc,,,Weapons,Legendary,1,1,55,
-2490862466,Weapon_T4_2H_Bow_02,Sun Bow,,Sun Bow descr,,,Weapons,Legendary,1,1,55,
+3025766089,Weapon_T4_2H_GreatAxeEpic_01,Ornamented Battle Axe,,T4 2h Battle Axe Desc,,,Weapons,Legendary,1,1,55,images/icons/3025766089.png
+2490862466,Weapon_T4_2H_Bow_02,Sun Bow,,Sun Bow descr,,,Weapons,Legendary,1,1,55,images/icons/2490862466.png
 2130769495,Weapon_T4_1H_AxeEpic_01,Epic t4 goat axe,,Epic goat axe desc,,,Weapons,Legendary,1,1,55,images/icons/2130769495.png
 771316050,Weapon_T4_1H_MaceEpic_02,Epic goat club,,Epic goat club descr,,,Weapons,Common,1,1,55,images/icons/771316050.png
 2305089639,Weapon_T4_1H_WandEpic_01_Fog,T4 Goat Wand epic,,"Fires a projectile that deals fog damage.
 
-<b>Ethereal Duplication</b>: The wand's unique magic grants it a 50% chance to spontaneously create an additional fog projectile.",,,Weapons,Common,1,1,55,
+<b>Ethereal Duplication</b>: The wand's unique magic grants it a 50% chance to spontaneously create an additional fog projectile.",,,Weapons,Common,1,1,55,images/icons/2305089639.png
 2427081154,Weapon_T4_1H_AxeEpic_02,Lightforged Axe,,Lightforged axe desc,,,Weapons,Legendary,1,1,55,images/icons/2427081154.png
-4104616591,Weapon_T4_1H_WandEpic_02_Lightning,Epic Shock Wand,,This wand can bring the lighting down on your enemies. - Multishot: Fires multiple projectiles but at reduced damage.  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
-457119037,Weapon_T4_2H_BowEpic_01,Epic Goat Bow,,Epic goat bow descr,,,Weapons,Legendary,1,1,55,
+4104616591,Weapon_T4_1H_WandEpic_02_Lightning,Epic Shock Wand,,This wand can bring the lighting down on your enemies. - Multishot: Fires multiple projectiles but at reduced damage.  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,images/icons/4104616591.png
+457119037,Weapon_T4_2H_BowEpic_01,Epic Goat Bow,,Epic goat bow descr,,,Weapons,Legendary,1,1,55,images/icons/457119037.png
 3405497023,Weapon_T4_1H_SwordEpic_02,Epic Vigor Lightbound Sword,,Epic Vigor Lightbound Sword descr,,,Weapons,Legendary,1,1,55,images/icons/3405497023.png
 518418528,Weapon_T4_1H_SwordEpic_01,Enflamed Sword,,"A burning sword, glowing of power. It burns hot enough to reduce the mana of its prey with every hit.",,,Weapons,Legendary,1,1,55,images/icons/518418528.png
-3936779840,Weapon_T4_2H_Hammer_02,Sun Hammer,,Sun hammer  descr,,,Weapons,Legendary,1,1,55,
-3521922296,Weapon_T4_2H_HammerEpic_01,Epic goat hammer,,Epic goat hammer descr,,,Weapons,Legendary,1,1,55,
-119442934,Weapon_T4_1H_Sword_03,Lightbound Sword,,Sword T4 sun (No glow) desc,,,Weapons,Rare,1,1,55,
+3936779840,Weapon_T4_2H_Hammer_02,Sun Hammer,,Sun hammer  descr,,,Weapons,Legendary,1,1,55,images/icons/3936779840.png
+3521922296,Weapon_T4_2H_HammerEpic_01,Epic goat hammer,,Epic goat hammer descr,,,Weapons,Legendary,1,1,55,images/icons/3521922296.png
+119442934,Weapon_T4_1H_Sword_03,Lightbound Sword,,Sword T4 sun (No glow) desc,,,Weapons,Rare,1,1,55,images/icons/119442934.png
 940748477,Weapon_T4_1H_AxeEpic_03,Ornamented Axe,,This one handes Axe cracles with lighning.,,,Weapons,Legendary,1,1,55,images/icons/940748477.png
-69105879,Weapon_T4_2H_GreatSwordEpic_02,T4 Greatsword Epic 02,,T4 Greatsword Epic 01 desc,,,Weapons,Legendary,1,1,55,
-1602331229,Weapon_T5_1H_Axe_01,Axe T5 common 01,,Axe  T5 common  01  desc,,,Weapons,Legendary,1,1,55,
-3270175842,Weapon_T5_1H_WandEpic_01_Ice,Wand T5 epic 01,,Wand  T5 epic  01 desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
+69105879,Weapon_T4_2H_GreatSwordEpic_02,T4 Greatsword Epic 02,,T4 Greatsword Epic 01 desc,,,Weapons,Legendary,1,1,55,images/icons/69105879.png
+1602331229,Weapon_T5_1H_Axe_01,Axe T5 common 01,,Axe  T5 common  01  desc,,,Weapons,Legendary,1,1,55,images/icons/1602331229.png
+3270175842,Weapon_T5_1H_WandEpic_01_Ice,Wand T5 epic 01,,Wand  T5 epic  01 desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,images/icons/3270175842.png
 1064940291,Weapon_T5_2H_Hammer_01,Hammer 2H T5 common 01,,Hammer  2H  T5 common  01 desc,,,Weapons,Legendary,1,1,55,images/icons/1064940291.png
-2198697693,Weapon_T5_1H_WandEpic_03_Fire,Wand T5 epic 03,,Wand  T5 epic  03 desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,
+2198697693,Weapon_T5_1H_WandEpic_03_Fire,Wand T5 epic 03,,Wand  T5 epic  03 desc  - Multishot: Fires multiple projectiles but at reduced damage,,,Weapons,Common,1,1,55,images/icons/2198697693.png
 40007242,Shield_T2_DPS,Hero's Shield,,This basic shield allows you to <b>block</b> physical attacks. Blocking drains Stamina.,,,Equipment,Rare,1,10,10,images/icons/40007242.png
 3744513726,Shield_T2_DPS_Loot,Hero's Shield,,This basic shield allows you to <b>block</b> physical attacks. Blocking drains Stamina.,,,Equipment,Rare,1,10,10,images/icons/3744513726.png
 2584194594,Shield_T4_Tank,Shield of Light,,"This sacred shield consecrated by the Flame allows you to <b>block</b> physical attacks. Blocking drains Stamina.
@@ -2842,44 +2842,44 @@ Flame Power allows you to stay in the Fog longer.",,,Equipment,Rare,1,20,20,imag
 1499977347,Ward_T7_Loot,Incredible Ward,,ward t7 desc,,,Equipment,Rare,1,45,45,images/icons/1499977347.png
 2108531401,Shield_T3_Rogue,Stormshield,,A metal plate shield that was twisted and shaped in a Shroudstorm. It seems to be almost indestructible. ,,,Equipment,Rare,1,15,15,images/icons/2108531401.png
 1974697806,Shield_T3_Rogue_Loot,Stormshield,,A metal plate shield that was twisted and shaped in a Shroudstorm. It seems to be almost indestructible. ,,,Equipment,Rare,1,15,15,images/icons/1974697806.png
-3153911934,Weapon_T3_1H_Lore_AxeEpic_Ministory_02,Jezmina's Apotheosis,,04_01 item description: An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.,,,Weapons,Legendary,1,1,55,
-2528480161,Weapon_T3_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Legendary,1,1,55,
+3153911934,Weapon_T3_1H_Lore_AxeEpic_Ministory_02,Jezmina's Apotheosis,,04_01 item description: An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.,,,Weapons,Legendary,1,1,55,images/icons/3153911934.png
+2528480161,Weapon_T3_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Legendary,1,1,55,images/icons/2528480161.png
 4004201468,Shield_T2_Lore_ShieldEpic_Ministory_17,Riptide,,01_01 Shield Item description dummy: A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.,,,Equipment,Legendary,1,1,55,images/icons/4004201468.png
-3739626235,Weapon_T2_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Epic,1,1,55,
-1919278140,Weapon_T1_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Legendary,1,1,55,
-3192770947,Weapon_T4_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Legendary,1,1,55,
-2664238131,Weapon_T2_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Legendary,1,1,55,
-2396593895,Weapon_T1_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Epic,1,1,55,
-544559006,Weapon_T3_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Epic,1,1,55,
-1054611658,Weapon_T4_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Epic,1,1,55,
-558617602,Weapon_T2_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Epic,1,1,55,
-3548335929,Weapon_T3_1H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Legendary,1,1,55,
-1276754499,Weapon_T1_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Epic,1,1,55,
+3739626235,Weapon_T2_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Epic,1,1,55,images/icons/3739626235.png
+1919278140,Weapon_T1_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Legendary,1,1,55,images/icons/1919278140.png
+3192770947,Weapon_T4_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Legendary,1,1,55,images/icons/3192770947.png
+2664238131,Weapon_T2_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Legendary,1,1,55,images/icons/2664238131.png
+2396593895,Weapon_T1_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Epic,1,1,55,images/icons/2396593895.png
+544559006,Weapon_T3_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Epic,1,1,55,images/icons/544559006.png
+1054611658,Weapon_T4_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Epic,1,1,55,images/icons/1054611658.png
+558617602,Weapon_T2_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Epic,1,1,55,images/icons/558617602.png
+3548335929,Weapon_T3_1H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Legendary,1,1,55,images/icons/3548335929.png
+1276754499,Weapon_T1_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Epic,1,1,55,images/icons/1276754499.png
 1828068654,Shield_T1_Lore_ShieldEpic_carpenter_hint06,Pikemead's Ward,,"Even in death, the queen's shield unites those who seek protection behind it.",,,Equipment,Legendary,1,1,55,images/icons/1828068654.png
-3670734309,Weapon_T3_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Legendary,1,1,55,
-2700871988,Weapon_T2_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Legendary,1,1,55,
-2860747780,Weapon_T1_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Epic,1,1,55,
+3670734309,Weapon_T3_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Legendary,1,1,55,images/icons/3670734309.png
+2700871988,Weapon_T2_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Legendary,1,1,55,images/icons/2700871988.png
+2860747780,Weapon_T1_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Epic,1,1,55,images/icons/2860747780.png
 2226962572,Weapon_T5_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Legendary,1,1,55,images/icons/2226962572.png
 913533703,Weapon_T5_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Epic,1,1,55,images/icons/913533703.png
-3323951069,Weapon_T5_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Legendary,1,1,55,
-4189016694,Weapon_T5_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,1,55,
+3323951069,Weapon_T5_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Legendary,1,1,55,images/icons/3323951069.png
+4189016694,Weapon_T5_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,1,55,images/icons/4189016694.png
 2269196323,Weapon_T6_2H_Lore_GreatAxeLeg_forge,Golden War Veteran Axe,,"Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.",,,Weapons,Legendary,1,1,55,images/icons/2269196323.png
 1464929321,Weapon_T6_2H_Lore_GreatAxeEpic_outpost,Golden Recruit Axe,,"The most successful and newly decorated recruits are sometimes gifted weapons dipped in gold. They aren't anymore hardy, but serve as a status symbol among the group.",,,Weapons,Epic,1,1,55,images/icons/1464929321.png
-729789776,Weapon_T5_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Legendary,1,1,55,
-2331017633,Weapon_T5_1H_Lore_Wand_ministory_29_Fog,Darya's Wand,,"A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",,,Weapons,Epic,1,1,55,
+729789776,Weapon_T5_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Legendary,1,1,55,images/icons/729789776.png
+2331017633,Weapon_T5_1H_Lore_Wand_ministory_29_Fog,Darya's Wand,,"A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",,,Weapons,Epic,1,1,55,images/icons/2331017633.png
 3791962857,Weapon_T5_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Legendary,1,1,55,images/icons/3791962857.png
 4294860398,Craft_Weapon_T3_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,16,16,
 4048093059,Craft_Weapon_T2_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,11,11,
 2385920638,Craft_Weapon_T4_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,21,21,
-4000975642,Craft_Weapon_T5_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Rare,1,26,26,
+4000975642,Craft_Weapon_T5_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Rare,1,26,26,images/icons/4000975642.png
 1729196030,Craft_Weapon_T2_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,11,11,
 2628423562,Craft_Weapon_T3_1H_Lore_AxeEpic_Ministory_02,Jezmina's Apotheosis,,04_01 item description: An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.,,,Weapons,Rare,1,16,16,
 463074629,Craft_Weapon_T4_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Rare,1,21,21,
 3717136224,Craft_Weapon_T4_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,21,21,
 2837156111,Craft_Weapon_T3_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,16,16,
-2671987501,Craft_Weapon_T5_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,26,26,
-902475103,Craft_Weapon_T5_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Rare,1,26,26,
-1972844940,Craft_Weapon_T5_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,26,26,
+2671987501,Craft_Weapon_T5_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,26,26,images/icons/2671987501.png
+902475103,Craft_Weapon_T5_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Rare,1,26,26,images/icons/902475103.png
+1972844940,Craft_Weapon_T5_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,26,26,images/icons/1972844940.png
 4192516670,Craft_Weapon_T4_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,21,21,
 1716859550,Craft_Weapon_T3_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,16,16,
 2908736852,Craft_Weapon_T5_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,26,26,
@@ -2890,67 +2890,67 @@ Flame Power allows you to stay in the Fog longer.",,,Equipment,Rare,1,20,20,imag
 3530269879,Craft_Weapon_T3_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Rare,1,16,16,
 1853225094,Craft_Weapon_T4_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Rare,1,21,21,
 65433484,Craft_Weapon_T5_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Rare,1,26,26,
-1735564804,Craft_Weapon_T6_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Rare,1,36,36,
-4287106432,Craft_Weapon_T6_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Rare,1,36,36,
-2260780998,Craft_Weapon_T6_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,36,36,
-1873675161,Craft_Weapon_T6_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,36,36,
-2563601506,Craft_Weapon_T6_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,36,36,
-3578254606,Craft_Weapon_T6_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Rare,1,36,36,
-649877474,Craft_Weapon_T6_1H_Lore_AxeEpic_Ministory_02,Jezmina's Apotheosis,,04_01 item description: An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.,,,Weapons,Rare,1,36,36,
+1735564804,Craft_Weapon_T6_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Rare,1,36,36,images/icons/1735564804.png
+4287106432,Craft_Weapon_T6_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Rare,1,36,36,images/icons/4287106432.png
+2260780998,Craft_Weapon_T6_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,36,36,images/icons/2260780998.png
+1873675161,Craft_Weapon_T6_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,36,36,images/icons/1873675161.png
+2563601506,Craft_Weapon_T6_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,36,36,images/icons/2563601506.png
+3578254606,Craft_Weapon_T6_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Rare,1,36,36,images/icons/3578254606.png
+649877474,Craft_Weapon_T6_1H_Lore_AxeEpic_Ministory_02,Jezmina's Apotheosis,,04_01 item description: An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.,,,Weapons,Rare,1,36,36,images/icons/649877474.png
 3265226455,Craft_Weapon_T1_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,6,6,
 197300979,Craft_Weapon_T2_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,11,11,
 4253086109,Craft_Weapon_T3_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,16,16,
 246702506,Craft_Weapon_T4_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,21,21,
 456631486,Craft_Weapon_T5_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,26,26,
-105288636,Craft_Weapon_T6_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,36,36,
+105288636,Craft_Weapon_T6_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,36,36,images/icons/105288636.png
 2195022120,Craft_Weapon_T1_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,6,6,
 3701660969,Craft_Weapon_T2_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,11,11,
 381008328,Craft_Weapon_T3_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,16,16,
 3070173423,Craft_Weapon_T4_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,21,21,
 14483003,Craft_Weapon_T5_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,26,26,
-9995480,Craft_Weapon_T6_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,36,36,
+9995480,Craft_Weapon_T6_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,36,36,images/icons/9995480.png
 876348272,Craft_Weapon_T1_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,6,6,
 3108868150,Craft_Weapon_T2_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,11,11,
 1072446832,Craft_Weapon_T3_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,16,16,
 1155686002,Craft_Weapon_T4_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,21,21,
-3231907188,Craft_Weapon_T5_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,26,26,
-1916010187,Craft_Weapon_T6_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,36,36,
+3231907188,Craft_Weapon_T5_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,26,26,images/icons/3231907188.png
+1916010187,Craft_Weapon_T6_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,36,36,images/icons/1916010187.png
 907435246,Craft_Weapon_T2_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,11,11,
 602591868,Craft_Weapon_T3_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,16,16,
 3145841208,Craft_Weapon_T4_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,21,21,
 1092596290,Craft_Weapon_T5_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,26,26,
-2409952376,Craft_Weapon_T6_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,36,36,
+2409952376,Craft_Weapon_T6_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,36,36,images/icons/2409952376.png
 3886257993,Craft_Weapon_T2_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,11,11,
 2517864696,Craft_Weapon_T3_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,16,16,
 4016669731,Craft_Weapon_T4_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,21,21,
-1454083076,Craft_Weapon_T5_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,26,26,
-852156015,Craft_Weapon_T6_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,36,36,
+1454083076,Craft_Weapon_T5_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,26,26,images/icons/1454083076.png
+852156015,Craft_Weapon_T6_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,36,36,images/icons/852156015.png
 4103969369,Craft_Weapon_T3_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Rare,1,16,16,
 2264411387,Craft_Weapon_T4_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Rare,1,21,21,
 2829010645,Craft_Weapon_T5_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Rare,1,26,26,
-2875621972,Craft_Weapon_T6_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Rare,1,36,36,
+2875621972,Craft_Weapon_T6_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Rare,1,36,36,images/icons/2875621972.png
 2387592374,Craft_Weapon_T3_2H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Rare,1,16,16,
 1019461234,Craft_Weapon_T4_2H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Rare,1,21,21,
-552284259,Craft_Weapon_T5_2H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Rare,1,26,26,
-2432243778,Craft_Weapon_T6_2H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Rare,1,36,36,
+552284259,Craft_Weapon_T5_2H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Rare,1,26,26,images/icons/552284259.png
+2432243778,Craft_Weapon_T6_2H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Rare,1,36,36,images/icons/2432243778.png
 3907468980,Craft_Weapon_T3_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Rare,1,16,16,
 3434497058,Craft_Weapon_T4_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Rare,1,21,21,
 3566731447,Craft_Weapon_T5_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Rare,1,26,26,
-2352034665,Craft_Weapon_T6_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Rare,1,36,36,
+2352034665,Craft_Weapon_T6_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Rare,1,36,36,images/icons/2352034665.png
 1343375854,Craft_Weapon_T4_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Rare,1,21,21,
-3570989791,Craft_Weapon_T5_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Rare,1,26,26,
-1621727293,Craft_Weapon_T6_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Rare,1,36,36,
+3570989791,Craft_Weapon_T5_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Rare,1,26,26,images/icons/3570989791.png
+1621727293,Craft_Weapon_T6_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Rare,1,36,36,images/icons/1621727293.png
 1608083210,Craft_Weapon_T5_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Rare,1,26,26,
-2688480639,Craft_Weapon_T6_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Rare,1,36,36,
+2688480639,Craft_Weapon_T6_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Rare,1,36,36,images/icons/2688480639.png
 2773595146,Craft_Weapon_T5_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,26,26,
-1786607643,Craft_Weapon_T6_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,36,36,
+1786607643,Craft_Weapon_T6_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,36,36,images/icons/1786607643.png
 2924638789,Craft_Weapon_T5_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Rare,1,26,26,
-3671319442,Craft_Weapon_T6_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Rare,1,36,36,
-4131716794,Craft_Weapon_T6_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Rare,1,36,36,
-890590294,Craft_Weapon_T5_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Rare,1,26,26,
-3843821992,Craft_Weapon_T5_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Rare,1,26,26,
-1912269209,Craft_Weapon_T6_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Rare,1,36,36,
-1561187159,Craft_Weapon_T6_1H_Lore_Wand_ministory_29_Fog,Darya's Wand,,"A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",,,Weapons,Rare,1,36,36,
+3671319442,Craft_Weapon_T6_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Rare,1,36,36,images/icons/3671319442.png
+4131716794,Craft_Weapon_T6_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Rare,1,36,36,images/icons/4131716794.png
+890590294,Craft_Weapon_T5_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Rare,1,26,26,images/icons/890590294.png
+3843821992,Craft_Weapon_T5_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Rare,1,26,26,images/icons/3843821992.png
+1912269209,Craft_Weapon_T6_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Rare,1,36,36,images/icons/1912269209.png
+1561187159,Craft_Weapon_T6_1H_Lore_Wand_ministory_29_Fog,Darya's Wand,,"A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",,,Weapons,Rare,1,36,36,images/icons/1561187159.png
 2104873327,Craft_Weapon_T5_1H_Lore_Wand_ministory_29_Fog,Darya's Wand,,"A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",,,Weapons,Rare,1,26,26,
 454512717,Craft_Shield_T1_Lore_ShieldEpic_carpenter_hint06,Pikemead's Ward,,"Even in death, the queen's shield unites those who seek protection behind it.",,,Equipment,Rare,1,6,6,images/icons/454512717.png
 3738285842,Craft_Shield_T2_Lore_ShieldEpic_carpenter_hint06,Pikemead's Ward,,"Even in death, the queen's shield unites those who seek protection behind it.",,,Equipment,Rare,1,11,11,images/icons/3738285842.png
@@ -2963,36 +2963,36 @@ Flame Power allows you to stay in the Fog longer.",,,Equipment,Rare,1,20,20,imag
 2644725310,Craft_Shield_T4_Lore_ShieldEpic_Ministory_17,Riptide,,01_01 Shield Item description dummy: A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.,,,Equipment,Rare,1,21,21,images/icons/2644725310.png
 2903659724,Craft_Shield_T5_Lore_ShieldEpic_Ministory_17,Riptide,,01_01 Shield Item description dummy: A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.,,,Equipment,Rare,1,26,26,images/icons/2903659724.png
 1474807415,Craft_Shield_T6_Lore_ShieldEpic_Ministory_17,Riptide,,01_01 Shield Item description dummy: A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.,,,Equipment,Rare,1,36,36,images/icons/1474807415.png
-4073230411,Craft_Weapon_T6_2H_Lore_GreatSwordEpic_Ministory_20,Lord Vorgoth's Sword,,"Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",,,Weapons,Rare,1,36,36,
-1877646424,Craft_Weapon_T6_2H_Lore_GreatAxeLeg_forge,Golden War Veteran Axe,,"Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.",,,Weapons,Rare,1,36,36,
-2176171412,Craft_Weapon_T6_2H_Lore_GreatAxeEpic_outpost,Golden Recruit Axe,,"The most successful and newly decorated recruits are sometimes gifted weapons dipped in gold. They aren't anymore hardy, but serve as a status symbol among the group.",,,Weapons,Rare,1,36,36,
-431218523,Craft_Weapon_T7_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Rare,1,46,46,
+4073230411,Craft_Weapon_T6_2H_Lore_GreatSwordEpic_Ministory_20,Lord Vorgoth's Sword,,"Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",,,Weapons,Rare,1,36,36,images/icons/4073230411.png
+1877646424,Craft_Weapon_T6_2H_Lore_GreatAxeLeg_forge,Golden War Veteran Axe,,"Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.",,,Weapons,Rare,1,36,36,images/icons/1877646424.png
+2176171412,Craft_Weapon_T6_2H_Lore_GreatAxeEpic_outpost,Golden Recruit Axe,,"The most successful and newly decorated recruits are sometimes gifted weapons dipped in gold. They aren't anymore hardy, but serve as a status symbol among the group.",,,Weapons,Rare,1,36,36,images/icons/2176171412.png
+431218523,Craft_Weapon_T7_1H_Lore_Axe_Ministory_10,Fenrig's Axe,,"02_01 item description dummy: An axe, effective when cutting down trees. Slightly less effective for fighting off wolves.",,,Weapons,Rare,1,46,46,images/icons/431218523.png
 863684883,Craft_Weapon_T7_2H_Lore_DaggersEpic_DPS_hunter_hint04,Lupa's scalper,," ""A Shadow over Umber Hollow -Lupa"" is etched on the side.",,,Weapons,Rare,1,46,46,
 255353296,Craft_Shield_T7_Lore_ShieldEpic_carpenter_hint06,Pikemead's Ward,,"Even in death, the queen's shield unites those who seek protection behind it.",,,Equipment,Rare,1,36,36,images/icons/255353296.png
 349263893,Craft_Shield_T7_Lore_ShieldEpic_Ministory_17,Riptide,,01_01 Shield Item description dummy: A shield that was washed into a grotto by the river. Must have belonged to a valiant hero.,,,Equipment,Rare,1,36,36,images/icons/349263893.png
-1323450933,Craft_Weapon_T7_1H_Lore_AxeEpic_Ministory_02,Jezmina's Apotheosis,,04_01 item description: An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.,,,Weapons,Rare,1,46,46,
-2894102737,Craft_Weapon_T7_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Rare,1,46,46,
-2487547952,Craft_Weapon_T7_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,46,46,
-3983015116,Craft_Weapon_T7_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,46,46,
-905080090,Craft_Weapon_T7_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,46,46,
-751194917,Craft_Weapon_T7_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Rare,1,46,46,
-3584171520,Craft_Weapon_T7_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Rare,1,46,46,
-397149581,Craft_Weapon_T7_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,46,46,
+1323450933,Craft_Weapon_T7_1H_Lore_AxeEpic_Ministory_02,Jezmina's Apotheosis,,04_01 item description: An axe  which carves a path through enemies no matter what. Swinging it fearlessly makes it feel light as a feather.,,,Weapons,Rare,1,46,46,images/icons/1323450933.png
+2894102737,Craft_Weapon_T7_1H_Lore_Mace_ministory_04,Wolf's Hydra,,02_01 weapon description dummy: A heavy club adorned with multiple wolf heads near the handle.,,,Weapons,Rare,1,46,46,images/icons/2894102737.png
+2487547952,Craft_Weapon_T7_1H_Lore_Sword_ministory_28,Lesser Twinflame Sword,,"A weapon that was rumored to have fallen from the stars. It crashed down to Embervale, where it pierced a stone as it landed. Stuck there, it waited for years to be freed. ",,,Weapons,Rare,1,46,46,images/icons/2487547952.png
+3983015116,Craft_Weapon_T7_1H_Lore_SwordEpic_Ministory_04,Halescourge,,03_01 item description dummy:A blade that's cold tot he touch. It weighs heavily on the mind.,,,Weapons,Rare,1,46,46,images/icons/3983015116.png
+905080090,Craft_Weapon_T7_1H_Lore_SwordEpic_Ministory_09,Wailing Blade,,"03_05 weapon description dummy: An expertly crafter blade, balanced and sharp. Cuts through foes like a wail through the night. It bears the mark of a famous blacksmith from the former capital.",,,Weapons,Rare,1,46,46,images/icons/905080090.png
+751194917,Craft_Weapon_T7_1H_Lore_SwordEpic_ministory_28,Greater Twinflame Sword,,"An elaborate sword, decorated in gold filligre. It came from the skies years ago, and fell into the gaping maw of the Howling Peak.",,,Weapons,Rare,1,46,46,images/icons/751194917.png
+3584171520,Craft_Weapon_T7_1H_Lore_SwordEpic_ministory_29,Dragon Sword,,Crafted in the year of the dragon ,,,Weapons,Rare,1,46,46,images/icons/3584171520.png
+397149581,Craft_Weapon_T7_1H_Lore_Wand_Ministory_02_Lightning,T1 lore wand,,T1 lore wand,,,Weapons,Rare,1,46,46,images/icons/397149581.png
 1142953776,Craft_Weapon_T7_1H_Lore_Wand_ministory_29_Fog,Darya's Wand,,"A wand that harnesses the power of the eclipse. It functions best when the sun is fully submerged in darkness, and only a faint rim of light shines through.",,,Weapons,Rare,1,46,46,
-2053280664,Craft_Weapon_T7_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,46,46,
+2053280664,Craft_Weapon_T7_1H_Lore_WandEpic_Ministory_09_Lightning,Cryptic wand,,"02_01 item wand description dummy: A strange wand which was covered by ashes. Its body bends and twists, but never breaks.  - Multishot: Fires multiple projectiles but at reduced damage",,,Weapons,Rare,1,46,46,images/icons/2053280664.png
 2676513257,Craft_Weapon_T7_2H_Lore_BowEpic_Ministory_15,Consumed fog soldier bow,,"06_01 weapon description dummy:: A bow used by the northern guard. A violent and blind dedications flows through, increasing the user's pulse and quickening their shots.",,,Weapons,Rare,1,46,46,
 3626685627,Craft_Weapon_T7_2H_Lore_BowEpic_ministory_19,Draconian Bow,,"02_01 item bow description dummy: Designed after the wings of the most infamous Kindlewastes dwellers, the Draconian Vulture.",,,Weapons,Rare,1,46,46,
 3618171376,Craft_Weapon_T7_2H_Lore_Daggers_DPS_ministory_02,Throwing Knives,,Throwing knives that can do a lot of damage if left in untrained hands! Better watch out!,,,Weapons,Rare,1,46,46,
-764137977,Craft_Weapon_T7_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,46,46,
+764137977,Craft_Weapon_T7_2H_Lore_Daggers_townsfolk_female_02_hint_01,Sacrificial Vukah Dagger,,"A crude dagger, previously used by a Vukah.",,,Weapons,Rare,1,46,46,images/icons/764137977.png
 3096148752,Craft_Weapon_T7_2H_Lore_DaggersEpic_Parry_bard_Hint02,Valor Heart Dagger,,A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!,,,Weapons,Rare,1,46,46,
-500747971,Craft_Weapon_T7_2H_Lore_GreatAxeEpic_outpost,Golden Recruit Axe,,"The most successful and newly decorated recruits are sometimes gifted weapons dipped in gold. They aren't anymore hardy, but serve as a status symbol among the group.",,,Weapons,Rare,1,46,46,
-2347176360,Craft_Weapon_T7_2H_Lore_GreatAxeLeg_forge,Golden War Veteran Axe,,"Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.",,,Weapons,Rare,1,46,46,
-1367103932,Craft_Weapon_T7_2H_Lore_GreatSwordEpic_Ministory_20,Lord Vorgoth's Sword,,"Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",,,Weapons,Rare,1,46,46,
-430276931,Craft_Weapon_T7_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Rare,1,46,46,
-1166996760,Craft_Weapon_T7_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,46,46,
-1271805655,Craft_Weapon_T7_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Rare,1,46,46,
-1069361064,Craft_Weapon_T7_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Rare,1,46,46,
-2594618935,Craft_Weapon_T7_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Rare,1,46,46,
+500747971,Craft_Weapon_T7_2H_Lore_GreatAxeEpic_outpost,Golden Recruit Axe,,"The most successful and newly decorated recruits are sometimes gifted weapons dipped in gold. They aren't anymore hardy, but serve as a status symbol among the group.",,,Weapons,Rare,1,46,46,images/icons/500747971.png
+2347176360,Craft_Weapon_T7_2H_Lore_GreatAxeLeg_forge,Golden War Veteran Axe,,"Once upon a time, there was a heroic veteran eager to free his people from a corrupted dragon they awoke. He took his axe, his boots and warmest coat to set out, promising to return with the head of the beast. That was the last time he was ever seen.",,,Weapons,Rare,1,46,46,images/icons/2347176360.png
+1367103932,Craft_Weapon_T7_2H_Lore_GreatSwordEpic_Ministory_20,Lord Vorgoth's Sword,,"Lord Vorgoth's trusty blade. It was discarded before the war, and replaced by a weapon more befitting of vile acts.",,,Weapons,Rare,1,46,46,images/icons/1367103932.png
+430276931,Craft_Weapon_T7_2H_Lore_Hammer_townsfolk_male_01_hint_01,Ancestral Star,,"An ancestral weapon from the proud family line of the Galeforths, last held by Virgil Galeforth who famously said: ""If you want this weapon, you'll have to pry it from my cold, dead hands"".",,,Weapons,Rare,1,46,46,images/icons/430276931.png
+1166996760,Craft_Weapon_T7_2H_Lore_HammerEpic_ministory_19,Soothsayer,,03_01 weapon description dummy: A hammer adorned with an ancient petrified tusk. Tusks and teeth were used by the Vukah for mystical purposes.,,,Weapons,Rare,1,46,46,images/icons/1166996760.png
+1271805655,Craft_Weapon_T7_2H_Lore_Staff_ministory_29,Darya's Staff,,A staff that harnesses the power of the eclipsed sun. It functions best when only a crescent of light is left.,,,Weapons,Rare,1,46,46,images/icons/1271805655.png
+1069361064,Craft_Weapon_T7_2H_Lore_StaffEpic_ministory_17,Shroud Weaver,,02_01 item description dummy: A malicious staff that effortlessly intertwines the strings of fate with the Shroud.,,,Weapons,Rare,1,46,46,images/icons/1069361064.png
+2594618935,Craft_Weapon_T7_1H_Lore_AxeEpic_ministory_30,Dragonsbane,,An axe found inside the skullcap of a giant dragon skeleton.,,,Weapons,Rare,1,46,46,images/icons/2594618935.png
 3233786830,Craft_Weapon_T7_1H_Lore_Wand_ministory_06_fog,Darya's Remorse,,"A heavy wand that's bright as the sun, decorated by a flower that wraps around the handle, blooming near the hilt. Despite it's radiance, you feel that it carried a dark energy - is it remorse, or the curse of the Shroud?",,,Weapons,Rare,1,46,46,
 62683222,Craft_Weapon_T7_1H_Lore_Wand_protoVessels_blunt,Proto Bone-Bender,,A traditional wand that helps to adjust the subject's bones after arrival.,,,Weapons,Rare,1,46,46,
 3848774794,Craft_Weapon_T7_1H_Lore_Wand_ministory_25_lightning,Electric Initialiser,,An electrifying wand that was previously used to start engines and machinery in an instant.,,,Weapons,Rare,1,46,46,
@@ -3019,19 +3019,19 @@ Flame Power allows you to stay in the Fog longer.",,,Equipment,Rare,1,20,20,imag
 1404050036,Weapon_TX_2H_Staff_FogNest,Shroud Lair Staff,,An omnipotent Staff infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,images/icons/1404050036.png
 2796408306,Weapon_TX_2H_Daggers_DPS_FogNest,Shroud Lair Daggers,,A pair of Daggers infused by the Shroud. Hidden in the deepest depths of Shroud Lairs.,,,Weapons,Legendary,1,1,55,images/icons/2796408306.png
 2151380048,Weapon_TX_2H_Greatsword_FogNest,Shroud Lair Greatsword,,This Greatsword  radiates darkness for it is infused by the Shroud. Hidden in the deepest depths of Shroud Lairs. ,,,Weapons,Legendary,1,1,55,images/icons/2151380048.png
-1181594089,Weapon_T0-TX_1H_Sword_Enemy_DepletedFogger,Rusty Short Sword,,"A weapon often used in ancient times, due to the lack of higher quality ressources in their struggle to save themselves. Now, mostly used by the fell, who picked them up.",,,Weapons,Common,1,1,55,
-3847678429,Weapon_T1-TX_1H_Sword_Enemy_Fogger_Soldier,Sharpened Broadsword,,A broadsword almost too big to be comfortable. The original user must have been a giant of a man.,,,Weapons,Common,1,1,55,
-2757862595,Weapon_T1-TX_1H_Sword_Enemy_Vukah,Short Sword,,"A basic short sword, designed for fights in narrow areas. Especially agile and sharp at the tip!",,,Weapons,Common,1,1,55,
-3026017602,Weapon_T1-TX_1H_Axe_Enemy_Scavenger,Provisional Scythe,,"A provisional tool, focused on dealing fast and ugly cuts.",,,Weapons,Common,1,1,55,
+1181594089,Weapon_T0-TX_1H_Sword_Enemy_DepletedFogger,Rusty Short Sword,,"A weapon often used in ancient times, due to the lack of higher quality ressources in their struggle to save themselves. Now, mostly used by the fell, who picked them up.",,,Weapons,Common,1,1,55,images/icons/1181594089.png
+3847678429,Weapon_T1-TX_1H_Sword_Enemy_Fogger_Soldier,Sharpened Broadsword,,A broadsword almost too big to be comfortable. The original user must have been a giant of a man.,,,Weapons,Common,1,1,55,images/icons/3847678429.png
+2757862595,Weapon_T1-TX_1H_Sword_Enemy_Vukah,Short Sword,,"A basic short sword, designed for fights in narrow areas. Especially agile and sharp at the tip!",,,Weapons,Common,1,1,55,images/icons/2757862595.png
+3026017602,Weapon_T1-TX_1H_Axe_Enemy_Scavenger,Provisional Scythe,,"A provisional tool, focused on dealing fast and ugly cuts.",,,Weapons,Common,1,1,55,images/icons/3026017602.png
 2749653597,Weapon_T1-TX_2H_Staff_Enemy_Vukah,Vaporous Staff,,"A basic magical staff that allows the wearer to release Spells at the cost of Mana and Magical Ammunition.
 
-The Spells need to be crafted or found.",,,Weapons,Common,1,1,55,
+The Spells need to be crafted or found.",,,Weapons,Common,1,1,55,images/icons/2749653597.png
 4148367690,Weapon_T6-TX_1H_Axe_Enemy_Drak_Elite,Drak Elite Axe,,Drak Elite Axe Desc,,,Weapons,Common,1,1,55,images/icons/4148367690.png
-2386596106,Weapon_T5-TX_1H_Axe_Enemy_Scavenger_Miner,Scavenger Miner Axe,,Scavenger Miner Axer desc,,,Weapons,Common,1,1,55,
-3308817829,Weapon_T2-TX_2H_Bow_Enemy_Fogger_Ranger_Armored,Fogger Ranger Armored Bow,,Fogger Ranger Armored Bow desc,,,Weapons,Common,1,1,55,
-1474722178,Weapon_T1-TX_1H_Mace_Enemy_Fogger_Soldier,Feathered Mace,,"Designed after the fletching of an arrow, this is a brutal weapon whose only purpose is bashing friend or foe.",,,Weapons,Common,1,1,55,
-53318001,Weapon_T2-TX_1H_Sword_Enemy_Scavenger_Elite_AcidCleaver,Acid Cleaver,,A heavy cleaver coated with the scavengers poison,,,Weapons,Common,1,1,55,
-662464113,Weapon_T2-TX_1H_Sword_Enemy_FoggerBroadsword,Fogger Broad Sword,,A heavy sword fileded by armored Foggers,,,Weapons,Common,1,1,55,
+2386596106,Weapon_T5-TX_1H_Axe_Enemy_Scavenger_Miner,Scavenger Miner Axe,,Scavenger Miner Axer desc,,,Weapons,Common,1,1,55,images/icons/2386596106.png
+3308817829,Weapon_T2-TX_2H_Bow_Enemy_Fogger_Ranger_Armored,Fogger Ranger Armored Bow,,Fogger Ranger Armored Bow desc,,,Weapons,Common,1,1,55,images/icons/3308817829.png
+1474722178,Weapon_T1-TX_1H_Mace_Enemy_Fogger_Soldier,Feathered Mace,,"Designed after the fletching of an arrow, this is a brutal weapon whose only purpose is bashing friend or foe.",,,Weapons,Common,1,1,55,images/icons/1474722178.png
+53318001,Weapon_T2-TX_1H_Sword_Enemy_Scavenger_Elite_AcidCleaver,Acid Cleaver,,A heavy cleaver coated with the scavengers poison,,,Weapons,Common,1,1,55,images/icons/53318001.png
+662464113,Weapon_T2-TX_1H_Sword_Enemy_FoggerBroadsword,Fogger Broad Sword,,A heavy sword fileded by armored Foggers,,,Weapons,Common,1,1,55,images/icons/662464113.png
 4213879490,Shield_T0-TX_Enemy_Fogger_Depleted,Shield,,This makeshift shield allows you to <b>block</b> physical attacks. Blocking drains Stamina.,,,Equipment,Common,1,1,55,images/icons/4213879490.png
 3981836644,Shield_TX_Enemy_Fogger,Fogger Shield,,A big shield found on Foggers,,,Equipment,Common,1,1,55,images/icons/3981836644.png
 1541977934,Weapon_T6_1H_Axe_01,Axe T6 common 01,,Axe  T6 common  01  desc,,,Weapons,Legendary,1,1,55,images/icons/1541977934.png
@@ -3578,8 +3578,8 @@ The Workbench can only be placed inside the area of an altar.
 
 This Ancient Workbench is only a visual varaition of the normal workbench.",Furniture,,BuildTools,Common,1,0,0,images/icons/2941673930.png
 625549676,Craftingstation_Logic_System_Workbench,Logic System Workbench,,The Logic System Workbench allows you to craft multiple logic tools like levers or light switches that can be editied with the screwdriver item.,Furniture,,BuildTools,Rare,1,0,0,images/icons/625549676.png
-1036114942,Philipp_Throwable_Ball,Incendiary Ball,,"This ball contains a highly flamable liquid, which will cover an area in fire. ",,,Weapons,Rare,20,35,35,
-3247058638,Philipp_Buoyancy_Platform,Philipp Buoyancy Platform,,Philipp_Buoyancy_Platform,,,Weapons,Rare,20,35,35,
+1036114942,Philipp_Throwable_Ball,Incendiary Ball,,"This ball contains a highly flamable liquid, which will cover an area in fire. ",,,Weapons,Rare,20,35,35,images/icons/1036114942.png
+3247058638,Philipp_Buoyancy_Platform,Philipp Buoyancy Platform,,Philipp_Buoyancy_Platform,,,Weapons,Rare,20,35,35,images/icons/3247058638.png
 1892437103,Instrument_Lute,Lute,,A lute. Can be used to play beautiful melodies with friends or alone.,Instruments,,Instrument,Common,1,0,0,images/icons/1892437103.png
 2971345775,Instrument_Flute,Flute,,A flute carved from cherry wood. You can use it to make music.,Instruments,,Instrument,Common,1,0,0,images/icons/2971345775.png
 2247014936,Instrument_Drum,Drum,,A simple percussion instrument used to play music.,Instruments,,Instrument,Common,1,0,0,images/icons/2247014936.png

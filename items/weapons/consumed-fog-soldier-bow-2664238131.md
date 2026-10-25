@@ -1,6 +1,6 @@
 # Consumed fog soldier bow
 
-<img src="../../images/categories/weapons.svg" alt="Consumed fog soldier bow" width="160">
+<img src="../../images/icons/2664238131.png" alt="Consumed fog soldier bow" width="160">
 
 | | |
 |---|---|

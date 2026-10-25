@@ -1,6 +1,6 @@
 # Great Wolf Mace
 
-<img src="../../images/categories/weapons.svg" alt="Great Wolf Mace" width="160">
+<img src="../../images/icons/2698032927.png" alt="Great Wolf Mace" width="160">
 
 | | |
 |---|---|

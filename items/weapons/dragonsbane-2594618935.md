@@ -1,6 +1,6 @@
 # Dragonsbane
 
-<img src="../../images/categories/weapons.svg" alt="Dragonsbane" width="160">
+<img src="../../images/icons/2594618935.png" alt="Dragonsbane" width="160">
 
 | | |
 |---|---|

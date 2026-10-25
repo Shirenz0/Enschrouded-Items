@@ -1,6 +1,6 @@
 # Wailing Blade
 
-<img src="../../images/categories/weapons.svg" alt="Wailing Blade" width="160">
+<img src="../../images/icons/105288636.png" alt="Wailing Blade" width="160">
 
 | | |
 |---|---|

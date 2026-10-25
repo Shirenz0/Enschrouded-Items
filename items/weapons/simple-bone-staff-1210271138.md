@@ -1,6 +1,6 @@
 # Simple Bone Staff
 
-<img src="../../images/categories/weapons.svg" alt="Simple Bone Staff" width="160">
+<img src="../../images/icons/1210271138.png" alt="Simple Bone Staff" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Epic spiked club
 
-<img src="../../images/categories/weapons.svg" alt="Epic spiked club" width="160">
+<img src="../../images/icons/1080812742.png" alt="Epic spiked club" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Epic goat hammer
 
-<img src="../../images/categories/weapons.svg" alt="Epic goat hammer" width="160">
+<img src="../../images/icons/3521922296.png" alt="Epic goat hammer" width="160">
 
 | | |
 |---|---|

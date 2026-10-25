@@ -1,6 +1,6 @@
 # Shroud Corrupted Hammer
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Corrupted Hammer" width="160">
+<img src="../../images/icons/3729741852.png" alt="Shroud Corrupted Hammer" width="160">
 
 | | |
 |---|---|

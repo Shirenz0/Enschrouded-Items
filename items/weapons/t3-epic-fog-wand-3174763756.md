@@ -1,6 +1,6 @@
 # T3 Epic Fog Wand
 
-<img src="../../images/categories/weapons.svg" alt="T3 Epic Fog Wand" width="160">
+<img src="../../images/icons/3174763756.png" alt="T3 Epic Fog Wand" width="160">
 
 | | |
 |---|---|

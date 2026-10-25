@@ -1,6 +1,6 @@
 # Meat Chopper
 
-<img src="../../images/categories/weapons.svg" alt="Meat Chopper" width="160">
+<img src="../../images/icons/2832157981.png" alt="Meat Chopper" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Epic Heavy Club
 
-<img src="../../images/categories/weapons.svg" alt="Epic Heavy Club" width="160">
+<img src="../../images/icons/210093577.png" alt="Epic Heavy Club" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Ignited Eagle
 
-<img src="../../images/categories/weapons.svg" alt="Ignited Eagle" width="160">
+<img src="../../images/icons/3342004247.png" alt="Ignited Eagle" width="160">
 
 | | |
 |---|---|

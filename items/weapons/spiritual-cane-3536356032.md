@@ -1,6 +1,6 @@
 # Spiritual Cane
 
-<img src="../../images/categories/weapons.svg" alt="Spiritual Cane" width="160">
+<img src="../../images/icons/3536356032.png" alt="Spiritual Cane" width="160">
 
 | | |
 |---|---|

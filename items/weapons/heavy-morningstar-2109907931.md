@@ -1,6 +1,6 @@
 # Heavy Morningstar
 
-<img src="../../images/categories/weapons.svg" alt="Heavy Morningstar" width="160">
+<img src="../../images/icons/2109907931.png" alt="Heavy Morningstar" width="160">
 
 | | |
 |---|---|

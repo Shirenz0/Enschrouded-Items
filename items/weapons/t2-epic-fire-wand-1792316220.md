@@ -1,6 +1,6 @@
 # T2 Epic Fire Wand
 
-<img src="../../images/categories/weapons.svg" alt="T2 Epic Fire Wand" width="160">
+<img src="../../images/icons/1792316220.png" alt="T2 Epic Fire Wand" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Simple Fire Wand
 
-<img src="../../images/categories/weapons.svg" alt="Simple Fire Wand" width="160">
+<img src="../../images/icons/1693828837.png" alt="Simple Fire Wand" width="160">
 
 | | |
 |---|---|

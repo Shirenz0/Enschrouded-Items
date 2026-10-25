@@ -1,6 +1,6 @@
 # Shroud Weaver
 
-<img src="../../images/categories/weapons.svg" alt="Shroud Weaver" width="160">
+<img src="../../images/icons/3570989791.png" alt="Shroud Weaver" width="160">
 
 | | |
 |---|---|

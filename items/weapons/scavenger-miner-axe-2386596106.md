@@ -1,6 +1,6 @@
 # Scavenger Miner Axe
 
-<img src="../../images/categories/weapons.svg" alt="Scavenger Miner Axe" width="160">
+<img src="../../images/icons/2386596106.png" alt="Scavenger Miner Axe" width="160">
 
 | | |
 |---|---|

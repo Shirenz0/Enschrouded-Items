@@ -1,6 +1,6 @@
 # Epic Long Bow
 
-<img src="../../images/categories/weapons.svg" alt="Epic Long Bow" width="160">
+<img src="../../images/icons/692270451.png" alt="Epic Long Bow" width="160">
 
 | | |
 |---|---|

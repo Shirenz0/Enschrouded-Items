@@ -1,6 +1,6 @@
 # Valor Heart Dagger
 
-<img src="../../images/categories/weapons.svg" alt="Valor Heart Dagger" width="160">
+<img src="../../images/icons/1873675161.png" alt="Valor Heart Dagger" width="160">
 
 | | |
 |---|---|

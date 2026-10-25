@@ -1,6 +1,6 @@
 # Epic One Handed Axe
 
-<img src="../../images/categories/weapons.svg" alt="Epic One Handed Axe" width="160">
+<img src="../../images/icons/3205048904.png" alt="Epic One Handed Axe" width="160">
 
 | | |
 |---|---|

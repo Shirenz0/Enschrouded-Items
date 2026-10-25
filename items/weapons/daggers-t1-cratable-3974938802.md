@@ -1,6 +1,6 @@
 # Daggers T1 Cratable
 
-<img src="../../images/categories/weapons.svg" alt="Daggers T1 Cratable" width="160">
+<img src="../../images/icons/3974938802.png" alt="Daggers T1 Cratable" width="160">
 
 | | |
 |---|---|

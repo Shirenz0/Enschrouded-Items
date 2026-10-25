@@ -1,6 +1,6 @@
 # Wooden Club
 
-<img src="../../images/categories/weapons.svg" alt="Wooden Club" width="160">
+<img src="../../images/icons/979851343.png" alt="Wooden Club" width="160">
 
 | | |
 |---|---|

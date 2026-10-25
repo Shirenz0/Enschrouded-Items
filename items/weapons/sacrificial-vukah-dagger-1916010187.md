@@ -1,6 +1,6 @@
 # Sacrificial Vukah Dagger
 
-<img src="../../images/categories/weapons.svg" alt="Sacrificial Vukah Dagger" width="160">
+<img src="../../images/icons/1916010187.png" alt="Sacrificial Vukah Dagger" width="160">
 
 | | |
 |---|---|

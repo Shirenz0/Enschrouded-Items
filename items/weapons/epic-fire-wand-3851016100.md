@@ -1,6 +1,6 @@
 # Epic Fire Wand
 
-<img src="../../images/categories/weapons.svg" alt="Epic Fire Wand" width="160">
+<img src="../../images/icons/3851016100.png" alt="Epic Fire Wand" width="160">
 
 | | |
 |---|---|

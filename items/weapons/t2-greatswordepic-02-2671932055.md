@@ -1,6 +1,6 @@
 # T2 GreatswordEpic 02
 
-<img src="../../images/categories/weapons.svg" alt="T2 GreatswordEpic 02" width="160">
+<img src="../../images/icons/2671932055.png" alt="T2 GreatswordEpic 02" width="160">
 
 | | |
 |---|---|

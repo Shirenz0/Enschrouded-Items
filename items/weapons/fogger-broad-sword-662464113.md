@@ -1,6 +1,6 @@
 # Fogger Broad Sword
 
-<img src="../../images/categories/weapons.svg" alt="Fogger Broad Sword" width="160">
+<img src="../../images/icons/662464113.png" alt="Fogger Broad Sword" width="160">
 
 | | |
 |---|---|

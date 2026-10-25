@@ -1,6 +1,6 @@
 # Epic Short Bow
 
-<img src="../../images/categories/weapons.svg" alt="Epic Short Bow" width="160">
+<img src="../../images/icons/2242220014.png" alt="Epic Short Bow" width="160">
 
 | | |
 |---|---|

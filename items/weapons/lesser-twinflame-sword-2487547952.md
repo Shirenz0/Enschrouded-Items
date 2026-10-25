@@ -1,6 +1,6 @@
 # Lesser Twinflame Sword
 
-<img src="../../images/categories/weapons.svg" alt="Lesser Twinflame Sword" width="160">
+<img src="../../images/icons/2487547952.png" alt="Lesser Twinflame Sword" width="160">
 
 | | |
 |---|---|

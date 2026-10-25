@@ -1,6 +1,6 @@
 # Throwing Knives
 
-<img src="../../images/categories/weapons.svg" alt="Throwing Knives" width="160">
+<img src="../../images/icons/890590294.png" alt="Throwing Knives" width="160">
 
 | | |
 |---|---|

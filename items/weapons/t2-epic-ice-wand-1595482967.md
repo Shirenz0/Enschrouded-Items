@@ -1,6 +1,6 @@
 # T2 Epic Ice Wand
 
-<img src="../../images/categories/weapons.svg" alt="T2 Epic Ice Wand" width="160">
+<img src="../../images/icons/1595482967.png" alt="T2 Epic Ice Wand" width="160">
 
 | | |
 |---|---|

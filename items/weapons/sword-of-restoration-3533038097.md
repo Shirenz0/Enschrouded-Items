@@ -1,6 +1,6 @@
 # Sword of restoration
 
-<img src="../../images/categories/weapons.svg" alt="Sword of restoration" width="160">
+<img src="../../images/icons/3533038097.png" alt="Sword of restoration" width="160">
 
 | | |
 |---|---|

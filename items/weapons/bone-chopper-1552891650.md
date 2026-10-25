@@ -1,6 +1,6 @@
 # Bone Chopper
 
-<img src="../../images/categories/weapons.svg" alt="Bone Chopper" width="160">
+<img src="../../images/icons/1552891650.png" alt="Bone Chopper" width="160">
 
 | | |
 |---|---|

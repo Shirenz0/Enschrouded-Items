@@ -1,6 +1,6 @@
 # Ancestral Star
 
-<img src="../../images/categories/weapons.svg" alt="Ancestral Star" width="160">
+<img src="../../images/icons/3843821992.png" alt="Ancestral Star" width="160">
 
 | | |
 |---|---|

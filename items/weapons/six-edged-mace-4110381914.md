@@ -1,6 +1,6 @@
 # Six Edged Mace
 
-<img src="../../images/categories/weapons.svg" alt="Six Edged Mace" width="160">
+<img src="../../images/icons/4110381914.png" alt="Six Edged Mace" width="160">
 
 | | |
 |---|---|

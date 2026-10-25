@@ -1,6 +1,6 @@
 # Epic Vukah Axe
 
-<img src="../../images/categories/weapons.svg" alt="Epic Vukah Axe" width="160">
+<img src="../../images/icons/1940764111.png" alt="Epic Vukah Axe" width="160">
 
 | | |
 |---|---|

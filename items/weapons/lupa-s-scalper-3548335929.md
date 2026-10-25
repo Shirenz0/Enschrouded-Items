@@ -1,6 +1,6 @@
 # Lupa's scalper
 
-<img src="../../images/categories/weapons.svg" alt="Lupa&#x27;s scalper" width="160">
+<img src="../../images/icons/3548335929.png" alt="Lupa&#x27;s scalper" width="160">
 
 | | |
 |---|---|

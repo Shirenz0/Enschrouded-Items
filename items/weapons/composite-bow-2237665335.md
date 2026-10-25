@@ -1,6 +1,6 @@
 # Composite bow
 
-<img src="../../images/categories/weapons.svg" alt="Composite bow" width="160">
+<img src="../../images/icons/2237665335.png" alt="Composite bow" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Epic Goat Bow
 
-<img src="../../images/categories/weapons.svg" alt="Epic Goat Bow" width="160">
+<img src="../../images/icons/457119037.png" alt="Epic Goat Bow" width="160">
 
 | | |
 |---|---|

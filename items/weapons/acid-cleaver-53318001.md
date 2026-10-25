@@ -1,6 +1,6 @@
 # Acid Cleaver
 
-<img src="../../images/categories/weapons.svg" alt="Acid Cleaver" width="160">
+<img src="../../images/icons/53318001.png" alt="Acid Cleaver" width="160">
 
 | | |
 |---|---|

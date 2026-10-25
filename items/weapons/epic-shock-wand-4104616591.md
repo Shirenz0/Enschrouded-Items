@@ -1,6 +1,6 @@
 # Epic Shock Wand
 
-<img src="../../images/categories/weapons.svg" alt="Epic Shock Wand" width="160">
+<img src="../../images/icons/4104616591.png" alt="Epic Shock Wand" width="160">
 
 | | |
 |---|---|

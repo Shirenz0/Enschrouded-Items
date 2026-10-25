@@ -1,6 +1,6 @@
 # Mace-like Club
 
-<img src="../../images/categories/weapons.svg" alt="Mace-like Club" width="160">
+<img src="../../images/icons/2284373099.png" alt="Mace-like Club" width="160">
 
 | | |
 |---|---|

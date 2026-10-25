@@ -1,6 +1,6 @@
 # Sharpened Broadsword
 
-<img src="../../images/categories/weapons.svg" alt="Sharpened Broadsword" width="160">
+<img src="../../images/icons/3847678429.png" alt="Sharpened Broadsword" width="160">
 
 | | |
 |---|---|

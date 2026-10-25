@@ -1,6 +1,6 @@
 # Lord Vorgoth's Sword
 
-<img src="../../images/categories/weapons.svg" alt="Lord Vorgoth&#x27;s Sword" width="160">
+<img src="../../images/icons/4073230411.png" alt="Lord Vorgoth&#x27;s Sword" width="160">
 
 | | |
 |---|---|

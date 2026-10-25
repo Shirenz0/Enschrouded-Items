@@ -1,6 +1,6 @@
 # Bronzen Sword
 
-<img src="../../images/categories/weapons.svg" alt="Bronzen Sword" width="160">
+<img src="../../images/icons/1125155603.png" alt="Bronzen Sword" width="160">
 
 | | |
 |---|---|

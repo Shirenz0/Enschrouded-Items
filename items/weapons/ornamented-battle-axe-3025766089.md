@@ -1,6 +1,6 @@
 # Ornamented Battle Axe
 
-<img src="../../images/categories/weapons.svg" alt="Ornamented Battle Axe" width="160">
+<img src="../../images/icons/3025766089.png" alt="Ornamented Battle Axe" width="160">
 
 | | |
 |---|---|

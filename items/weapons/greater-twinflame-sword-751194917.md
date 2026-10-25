@@ -1,6 +1,6 @@
 # Greater Twinflame Sword
 
-<img src="../../images/categories/weapons.svg" alt="Greater Twinflame Sword" width="160">
+<img src="../../images/icons/751194917.png" alt="Greater Twinflame Sword" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Darya's Staff
 
-<img src="../../images/categories/weapons.svg" alt="Darya&#x27;s Staff" width="160">
+<img src="../../images/icons/1271805655.png" alt="Darya&#x27;s Staff" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Epic Fogbound Bow
 
-<img src="../../images/categories/weapons.svg" alt="Epic Fogbound Bow" width="160">
+<img src="../../images/icons/2296172399.png" alt="Epic Fogbound Bow" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Enshrouded Axe
 
-<img src="../../images/categories/weapons.svg" alt="Enshrouded Axe" width="160">
+<img src="../../images/icons/2867801060.png" alt="Enshrouded Axe" width="160">
 
 | | |
 |---|---|

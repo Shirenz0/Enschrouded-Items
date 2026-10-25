@@ -1,6 +1,6 @@
 # Elder's Staff
 
-<img src="../../images/categories/weapons.svg" alt="Elder&#x27;s Staff" width="160">
+<img src="../../images/icons/3657818170.png" alt="Elder&#x27;s Staff" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Philipp Buoyancy Platform
 
-<img src="../../images/categories/weapons.svg" alt="Philipp Buoyancy Platform" width="160">
+<img src="../../images/icons/3247058638.png" alt="Philipp Buoyancy Platform" width="160">
 
 | | |
 |---|---|

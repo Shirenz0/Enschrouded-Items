@@ -1,6 +1,6 @@
 # Enhanced Spiked Club
 
-<img src="../../images/categories/weapons.svg" alt="Enhanced Spiked Club" width="160">
+<img src="../../images/icons/409520008.png" alt="Enhanced Spiked Club" width="160">
 
 | | |
 |---|---|

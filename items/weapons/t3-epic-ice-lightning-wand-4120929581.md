@@ -1,6 +1,6 @@
 # T3 Epic Ice Lightning Wand
 
-<img src="../../images/categories/weapons.svg" alt="T3 Epic Ice Lightning Wand" width="160">
+<img src="../../images/icons/4120929581.png" alt="T3 Epic Ice Lightning Wand" width="160">
 
 | | |
 |---|---|

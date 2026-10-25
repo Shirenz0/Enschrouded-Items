@@ -1,6 +1,6 @@
 # Golden Recruit Axe
 
-<img src="../../images/categories/weapons.svg" alt="Golden Recruit Axe" width="160">
+<img src="../../images/icons/2176171412.png" alt="Golden Recruit Axe" width="160">
 
 | | |
 |---|---|

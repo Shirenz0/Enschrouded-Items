@@ -1,6 +1,6 @@
 # Golden War Veteran Axe
 
-<img src="../../images/categories/weapons.svg" alt="Golden War Veteran Axe" width="160">
+<img src="../../images/icons/1877646424.png" alt="Golden War Veteran Axe" width="160">
 
 | | |
 |---|---|

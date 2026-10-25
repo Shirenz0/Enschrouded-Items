@@ -1,6 +1,6 @@
 # Scrappy Sword
 
-<img src="../../images/categories/weapons.svg" alt="Scrappy Sword" width="160">
+<img src="../../images/icons/1275936258.png" alt="Scrappy Sword" width="160">
 
 | | |
 |---|---|

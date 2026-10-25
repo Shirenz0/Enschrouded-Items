@@ -1,6 +1,6 @@
 # Daggers T3 Epic Type 1
 
-<img src="../../images/categories/weapons.svg" alt="Daggers T3 Epic Type 1" width="160">
+<img src="../../images/icons/1851176688.png" alt="Daggers T3 Epic Type 1" width="160">
 
 | | |
 |---|---|

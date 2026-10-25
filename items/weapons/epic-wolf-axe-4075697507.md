@@ -1,6 +1,6 @@
 # Epic Wolf Axe
 
-<img src="../../images/categories/weapons.svg" alt="Epic Wolf Axe" width="160">
+<img src="../../images/icons/4075697507.png" alt="Epic Wolf Axe" width="160">
 
 | | |
 |---|---|

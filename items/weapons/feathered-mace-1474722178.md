@@ -1,6 +1,6 @@
 # Feathered Mace
 
-<img src="../../images/categories/weapons.svg" alt="Feathered Mace" width="160">
+<img src="../../images/icons/1474722178.png" alt="Feathered Mace" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Epic Wood Staff
 
-<img src="../../images/categories/weapons.svg" alt="Epic Wood Staff" width="160">
+<img src="../../images/icons/1255239784.png" alt="Epic Wood Staff" width="160">
 
 | | |
 |---|---|

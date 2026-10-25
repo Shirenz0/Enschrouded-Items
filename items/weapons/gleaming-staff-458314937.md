@@ -1,6 +1,6 @@
 # Gleaming Staff
 
-<img src="../../images/categories/weapons.svg" alt="Gleaming Staff" width="160">
+<img src="../../images/icons/458314937.png" alt="Gleaming Staff" width="160">
 
 | | |
 |---|---|

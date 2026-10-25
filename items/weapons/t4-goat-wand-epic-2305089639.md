@@ -1,6 +1,6 @@
 # T4 Goat Wand epic
 
-<img src="../../images/categories/weapons.svg" alt="T4 Goat Wand epic" width="160">
+<img src="../../images/icons/2305089639.png" alt="T4 Goat Wand epic" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Incendiary Ball
 
-<img src="../../images/categories/weapons.svg" alt="Incendiary Ball" width="160">
+<img src="../../images/icons/1036114942.png" alt="Incendiary Ball" width="160">
 
 | | |
 |---|---|

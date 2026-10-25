@@ -1,6 +1,6 @@
 # Provisional Scythe
 
-<img src="../../images/categories/weapons.svg" alt="Provisional Scythe" width="160">
+<img src="../../images/icons/3026017602.png" alt="Provisional Scythe" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Infernal Wand
 
-<img src="../../images/categories/weapons.svg" alt="Infernal Wand" width="160">
+<img src="../../images/icons/3566462451.png" alt="Infernal Wand" width="160">
 
 | | |
 |---|---|

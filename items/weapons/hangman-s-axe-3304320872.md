@@ -1,6 +1,6 @@
 # Hangman's Axe
 
-<img src="../../images/categories/weapons.svg" alt="Hangman&#x27;s Axe" width="160">
+<img src="../../images/icons/3304320872.png" alt="Hangman&#x27;s Axe" width="160">
 
 | | |
 |---|---|

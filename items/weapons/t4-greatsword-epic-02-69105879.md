@@ -1,6 +1,6 @@
 # T4 Greatsword Epic 02
 
-<img src="../../images/categories/weapons.svg" alt="T4 Greatsword Epic 02" width="160">
+<img src="../../images/icons/69105879.png" alt="T4 Greatsword Epic 02" width="160">
 
 | | |
 |---|---|

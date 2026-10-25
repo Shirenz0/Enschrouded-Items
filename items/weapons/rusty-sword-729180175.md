@@ -1,6 +1,6 @@
 # Rusty Sword
 
-<img src="../../images/categories/weapons.svg" alt="Rusty Sword" width="160">
+<img src="../../images/icons/729180175.png" alt="Rusty Sword" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Dragon Sword
 
-<img src="../../images/categories/weapons.svg" alt="Dragon Sword" width="160">
+<img src="../../images/icons/3670734309.png" alt="Dragon Sword" width="160">
 
 | | |
 |---|---|
