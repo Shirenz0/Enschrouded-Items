@@ -1,6 +1,6 @@
 # Diamond Dust
 
-<img src="../../images/categories/materials.svg" alt="Diamond Dust" width="160">
+<img src="../../images/icons/1725874983.png" alt="Diamond Dust" width="160">
 
 | | |
 |---|---|

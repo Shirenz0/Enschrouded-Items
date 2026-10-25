@@ -1,6 +1,6 @@
 # Black Powder
 
-<img src="../../images/categories/materials.svg" alt="Black Powder" width="160">
+<img src="../../images/icons/1828629573.png" alt="Black Powder" width="160">
 
 | | |
 |---|---|

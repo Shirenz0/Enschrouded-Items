@@ -1,6 +1,6 @@
 # Exceptional Ectoplasm
 
-<img src="../../images/categories/materials.svg" alt="Exceptional Ectoplasm" width="160">
+<img src="../../images/icons/148404293.png" alt="Exceptional Ectoplasm" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Night Desert Flower
 
-<img src="../../images/categories/materials.svg" alt="Night Desert Flower" width="160">
+<img src="../../images/icons/267668454.png" alt="Night Desert Flower" width="160">
 
 | | |
 |---|---|

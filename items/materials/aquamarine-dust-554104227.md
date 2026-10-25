@@ -1,6 +1,6 @@
 # Aquamarine Dust
 
-<img src="../../images/categories/materials.svg" alt="Aquamarine Dust" width="160">
+<img src="../../images/icons/554104227.png" alt="Aquamarine Dust" width="160">
 
 | | |
 |---|---|

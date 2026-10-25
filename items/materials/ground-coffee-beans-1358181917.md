@@ -1,6 +1,6 @@
 # Ground Coffee Beans
 
-<img src="../../images/categories/materials.svg" alt="Ground Coffee Beans" width="160">
+<img src="../../images/icons/1358181917.png" alt="Ground Coffee Beans" width="160">
 
 | | |
 |---|---|

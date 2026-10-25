@@ -1,6 +1,6 @@
 # Sanddigger Scales
 
-<img src="../../images/categories/materials.svg" alt="Sanddigger Scales" width="160">
+<img src="../../images/icons/4079068070.png" alt="Sanddigger Scales" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Fish Poison Gland
 
-<img src="../../images/categories/materials.svg" alt="Fish Poison Gland" width="160">
+<img src="../../images/icons/3610183331.png" alt="Fish Poison Gland" width="160">
 
 | | |
 |---|---|

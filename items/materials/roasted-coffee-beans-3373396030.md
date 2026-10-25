@@ -1,6 +1,6 @@
 # Roasted Coffee Beans
 
-<img src="../../images/categories/materials.svg" alt="Roasted Coffee Beans" width="160">
+<img src="../../images/icons/3373396030.png" alt="Roasted Coffee Beans" width="160">
 
 | | |
 |---|---|

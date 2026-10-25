@@ -1,6 +1,6 @@
 # Raw Meat and Tomato Skewer
 
-<img src="../../images/categories/materials.svg" alt="Raw Meat and Tomato Skewer" width="160">
+<img src="../../images/icons/3984646053.png" alt="Raw Meat and Tomato Skewer" width="160">
 
 | | |
 |---|---|

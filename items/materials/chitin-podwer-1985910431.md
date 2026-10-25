@@ -1,6 +1,6 @@
 # Chitin Podwer
 
-<img src="../../images/categories/materials.svg" alt="Chitin Podwer" width="160">
+<img src="../../images/icons/1985910431.png" alt="Chitin Podwer" width="160">
 
 | | |
 |---|---|

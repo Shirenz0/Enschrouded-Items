@@ -1,6 +1,6 @@
 # Celesthium Ore
 
-<img src="../../images/categories/materials.svg" alt="Celesthium Ore" width="160">
+<img src="../../images/icons/2035945146.png" alt="Celesthium Ore" width="160">
 
 | | |
 |---|---|

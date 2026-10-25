@@ -1,6 +1,6 @@
 # Drak Scales
 
-<img src="../../images/categories/materials.svg" alt="Drak Scales" width="160">
+<img src="../../images/icons/866649871.png" alt="Drak Scales" width="160">
 
 | | |
 |---|---|

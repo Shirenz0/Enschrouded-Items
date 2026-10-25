@@ -1,6 +1,6 @@
 # Shroud Jelly
 
-<img src="../../images/categories/materials.svg" alt="Shroud Jelly" width="160">
+<img src="../../images/icons/342099111.png" alt="Shroud Jelly" width="160">
 
 | | |
 |---|---|

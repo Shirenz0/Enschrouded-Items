@@ -1,6 +1,6 @@
 # Raw Meat and Azure Russula Skewer
 
-<img src="../../images/categories/materials.svg" alt="Raw Meat and Azure Russula Skewer" width="160">
+<img src="../../images/icons/1178468623.png" alt="Raw Meat and Azure Russula Skewer" width="160">
 
 | | |
 |---|---|

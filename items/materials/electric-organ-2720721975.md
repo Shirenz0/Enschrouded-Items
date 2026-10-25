@@ -1,6 +1,6 @@
 # Electric organ
 
-<img src="../../images/categories/materials.svg" alt="Electric organ" width="160">
+<img src="../../images/icons/2720721975.png" alt="Electric organ" width="160">
 
 | | |
 |---|---|

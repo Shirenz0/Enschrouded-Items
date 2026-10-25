@@ -1,6 +1,6 @@
 # Piscine Ivory Dust
 
-<img src="../../images/categories/materials.svg" alt="Piscine Ivory Dust" width="160">
+<img src="../../images/icons/545888475.png" alt="Piscine Ivory Dust" width="160">
 
 | | |
 |---|---|

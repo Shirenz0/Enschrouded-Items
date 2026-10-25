@@ -1,6 +1,6 @@
 # Green Fabric
 
-<img src="../../images/categories/materials.svg" alt="Green Fabric" width="160">
+<img src="../../images/icons/2287874170.png" alt="Green Fabric" width="160">
 
 | | |
 |---|---|

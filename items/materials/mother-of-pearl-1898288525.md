@@ -1,6 +1,6 @@
 # Mother-Of-Pearl
 
-<img src="../../images/categories/materials.svg" alt="Mother-Of-Pearl" width="160">
+<img src="../../images/icons/1898288525.png" alt="Mother-Of-Pearl" width="160">
 
 | | |
 |---|---|

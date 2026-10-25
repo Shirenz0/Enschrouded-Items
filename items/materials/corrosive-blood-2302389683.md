@@ -1,6 +1,6 @@
 # Corrosive Blood
 
-<img src="../../images/categories/materials.svg" alt="Corrosive Blood" width="160">
+<img src="../../images/icons/2302389683.png" alt="Corrosive Blood" width="160">
 
 | | |
 |---|---|

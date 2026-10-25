@@ -1,6 +1,6 @@
 # Shroud Sludge
 
-<img src="../../images/categories/materials.svg" alt="Shroud Sludge" width="160">
+<img src="../../images/icons/1887186828.png" alt="Shroud Sludge" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Tropical Wood
 
-<img src="../../images/categories/materials.svg" alt="Tropical Wood" width="160">
+<img src="../../images/icons/1283252179.png" alt="Tropical Wood" width="160">
 
 | | |
 |---|---|

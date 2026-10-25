@@ -1,6 +1,6 @@
 # Green Vitriol Dust
 
-<img src="../../images/categories/materials.svg" alt="Green Vitriol Dust" width="160">
+<img src="../../images/icons/3702590848.png" alt="Green Vitriol Dust" width="160">
 
 | | |
 |---|---|

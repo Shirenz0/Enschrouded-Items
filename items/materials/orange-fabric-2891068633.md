@@ -1,6 +1,6 @@
 # Orange Fabric
 
-<img src="../../images/categories/materials.svg" alt="Orange Fabric" width="160">
+<img src="../../images/icons/2891068633.png" alt="Orange Fabric" width="160">
 
 | | |
 |---|---|

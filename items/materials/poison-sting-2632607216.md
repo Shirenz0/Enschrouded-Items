@@ -1,6 +1,6 @@
 # Poison Sting
 
-<img src="../../images/categories/materials.svg" alt="Poison Sting" width="160">
+<img src="../../images/icons/2632607216.png" alt="Poison Sting" width="160">
 
 | | |
 |---|---|

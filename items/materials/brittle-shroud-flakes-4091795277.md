@@ -1,6 +1,6 @@
 # Brittle Shroud Flakes
 
-<img src="../../images/categories/materials.svg" alt="Brittle Shroud Flakes" width="160">
+<img src="../../images/icons/4091795277.png" alt="Brittle Shroud Flakes" width="160">
 
 | | |
 |---|---|

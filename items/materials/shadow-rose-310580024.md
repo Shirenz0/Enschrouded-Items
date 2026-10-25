@@ -1,6 +1,6 @@
 # Shadow Rose
 
-<img src="../../images/categories/materials.svg" alt="Shadow Rose" width="160">
+<img src="../../images/icons/310580024.png" alt="Shadow Rose" width="160">
 
 | | |
 |---|---|

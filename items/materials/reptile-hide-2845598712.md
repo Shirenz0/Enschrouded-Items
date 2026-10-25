@@ -1,6 +1,6 @@
 # Reptile Hide
 
-<img src="../../images/categories/materials.svg" alt="Reptile Hide" width="160">
+<img src="../../images/icons/2845598712.png" alt="Reptile Hide" width="160">
 
 | | |
 |---|---|

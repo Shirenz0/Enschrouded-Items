@@ -1,6 +1,6 @@
 # Wheat Grains
 
-<img src="../../images/categories/materials.svg" alt="Wheat Grains" width="160">
+<img src="../../images/icons/2435149273.png" alt="Wheat Grains" width="160">
 
 | | |
 |---|---|

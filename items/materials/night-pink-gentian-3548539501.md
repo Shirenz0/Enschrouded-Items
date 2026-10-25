@@ -1,6 +1,6 @@
 # Night pink gentian
 
-<img src="../../images/categories/materials.svg" alt="Night pink gentian" width="160">
+<img src="../../images/icons/3548539501.png" alt="Night pink gentian" width="160">
 
 | | |
 |---|---|

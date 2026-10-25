@@ -1,6 +1,6 @@
 # Shroud Vapor
 
-<img src="../../images/categories/materials.svg" alt="Shroud Vapor" width="160">
+<img src="../../images/icons/579568751.png" alt="Shroud Vapor" width="160">
 
 | | |
 |---|---|

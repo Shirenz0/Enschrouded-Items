@@ -1,6 +1,6 @@
 # Critter Carapace
 
-<img src="../../images/categories/materials.svg" alt="Critter Carapace" width="160">
+<img src="../../images/icons/1611805749.png" alt="Critter Carapace" width="160">
 
 | | |
 |---|---|

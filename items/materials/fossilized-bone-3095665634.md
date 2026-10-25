@@ -1,6 +1,6 @@
 # Fossilized Bone
 
-<img src="../../images/categories/materials.svg" alt="Fossilized Bone" width="160">
+<img src="../../images/icons/3095665634.png" alt="Fossilized Bone" width="160">
 
 | | |
 |---|---|

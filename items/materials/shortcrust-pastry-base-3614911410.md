@@ -1,6 +1,6 @@
 # Shortcrust Pastry Base
 
-<img src="../../images/categories/materials.svg" alt="Shortcrust Pastry Base" width="160">
+<img src="../../images/icons/3614911410.png" alt="Shortcrust Pastry Base" width="160">
 
 | | |
 |---|---|

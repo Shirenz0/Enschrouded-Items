@@ -1,6 +1,6 @@
 # Indigo Plant
 
-<img src="../../images/categories/materials.svg" alt="Indigo Plant" width="160">
+<img src="../../images/icons/4276529065.png" alt="Indigo Plant" width="160">
 
 | | |
 |---|---|

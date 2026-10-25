@@ -1,6 +1,6 @@
 # Raw Meat and Corncob Skewer
 
-<img src="../../images/categories/materials.svg" alt="Raw Meat and Corncob Skewer" width="160">
+<img src="../../images/icons/3975408930.png" alt="Raw Meat and Corncob Skewer" width="160">
 
 | | |
 |---|---|

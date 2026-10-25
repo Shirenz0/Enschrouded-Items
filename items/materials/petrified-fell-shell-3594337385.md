@@ -1,6 +1,6 @@
 # Petrified Fell Shell
 
-<img src="../../images/categories/materials.svg" alt="Petrified Fell Shell" width="160">
+<img src="../../images/icons/3594337385.png" alt="Petrified Fell Shell" width="160">
 
 | | |
 |---|---|

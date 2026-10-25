@@ -1,6 +1,6 @@
 # Raw Meat and Hazelnut Skewer
 
-<img src="../../images/categories/materials.svg" alt="Raw Meat and Hazelnut Skewer" width="160">
+<img src="../../images/icons/2630618097.png" alt="Raw Meat and Hazelnut Skewer" width="160">
 
 | | |
 |---|---|

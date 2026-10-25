@@ -1,6 +1,6 @@
 # Water Reptile Hide
 
-<img src="../../images/categories/materials.svg" alt="Water Reptile Hide" width="160">
+<img src="../../images/icons/2821339070.png" alt="Water Reptile Hide" width="160">
 
 | | |
 |---|---|

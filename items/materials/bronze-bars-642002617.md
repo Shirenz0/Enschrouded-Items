@@ -1,6 +1,6 @@
 # Bronze Bars
 
-<img src="../../images/categories/materials.svg" alt="Bronze Bars" width="160">
+<img src="../../images/icons/642002617.png" alt="Bronze Bars" width="160">
 
 | | |
 |---|---|

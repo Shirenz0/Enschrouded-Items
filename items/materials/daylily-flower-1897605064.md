@@ -1,6 +1,6 @@
 # Daylily Flower
 
-<img src="../../images/categories/materials.svg" alt="Daylily Flower" width="160">
+<img src="../../images/icons/1897605064.png" alt="Daylily Flower" width="160">
 
 | | |
 |---|---|

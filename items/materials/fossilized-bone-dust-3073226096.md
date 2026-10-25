@@ -1,6 +1,6 @@
 # Fossilized Bone Dust
 
-<img src="../../images/categories/materials.svg" alt="Fossilized Bone Dust" width="160">
+<img src="../../images/icons/3073226096.png" alt="Fossilized Bone Dust" width="160">
 
 | | |
 |---|---|

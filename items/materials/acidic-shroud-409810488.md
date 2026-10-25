@@ -1,6 +1,6 @@
 # Acidic Shroud
 
-<img src="../../images/categories/materials.svg" alt="Acidic Shroud" width="160">
+<img src="../../images/icons/409810488.png" alt="Acidic Shroud" width="160">
 
 | | |
 |---|---|

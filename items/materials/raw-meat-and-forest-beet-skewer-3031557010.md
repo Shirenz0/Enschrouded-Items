@@ -1,6 +1,6 @@
 # Raw Meat and Forest Beet Skewer
 
-<img src="../../images/categories/materials.svg" alt="Raw Meat and Forest Beet Skewer" width="160">
+<img src="../../images/icons/3031557010.png" alt="Raw Meat and Forest Beet Skewer" width="160">
 
 | | |
 |---|---|

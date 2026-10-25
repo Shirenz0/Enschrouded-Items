@@ -1,6 +1,6 @@
 # Shroud Adhesive
 
-<img src="../../images/categories/materials.svg" alt="Shroud Adhesive" width="160">
+<img src="../../images/icons/1047122195.png" alt="Shroud Adhesive" width="160">
 
 | | |
 |---|---|

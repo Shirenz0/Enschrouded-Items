@@ -1,6 +1,6 @@
 # Giant Critter Scales
 
-<img src="../../images/categories/materials.svg" alt="Giant Critter Scales" width="160">
+<img src="../../images/icons/3571891401.png" alt="Giant Critter Scales" width="160">
 
 | | |
 |---|---|

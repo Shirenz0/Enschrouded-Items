@@ -1,6 +1,6 @@
 # Brittle Shroud Petals
 
-<img src="../../images/categories/materials.svg" alt="Brittle Shroud Petals" width="160">
+<img src="../../images/icons/1284326318.png" alt="Brittle Shroud Petals" width="160">
 
 | | |
 |---|---|

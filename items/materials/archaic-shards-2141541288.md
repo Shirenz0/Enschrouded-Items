@@ -1,6 +1,6 @@
 # Archaic Shards
 
-<img src="../../images/categories/materials.svg" alt="Archaic Shards" width="160">
+<img src="../../images/icons/2141541288.png" alt="Archaic Shards" width="160">
 
 | | |
 |---|---|

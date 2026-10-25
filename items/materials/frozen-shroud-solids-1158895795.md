@@ -1,6 +1,6 @@
 # Frozen Shroud Solids
 
-<img src="../../images/categories/materials.svg" alt="Frozen Shroud Solids" width="160">
+<img src="../../images/icons/1158895795.png" alt="Frozen Shroud Solids" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Reptile Leather
 
-<img src="../../images/categories/materials.svg" alt="Reptile Leather" width="160">
+<img src="../../images/icons/291752398.png" alt="Reptile Leather" width="160">
 
 | | |
 |---|---|

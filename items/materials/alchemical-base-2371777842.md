@@ -1,6 +1,6 @@
 # Alchemical Base
 
-<img src="../../images/categories/materials.svg" alt="Alchemical Base" width="160">
+<img src="../../images/icons/2371777842.png" alt="Alchemical Base" width="160">
 
 | | |
 |---|---|

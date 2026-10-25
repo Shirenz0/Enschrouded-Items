@@ -1,6 +1,6 @@
 # Desert Flower
 
-<img src="../../images/categories/materials.svg" alt="Desert Flower" width="160">
+<img src="../../images/icons/1024666423.png" alt="Desert Flower" width="160">
 
 | | |
 |---|---|

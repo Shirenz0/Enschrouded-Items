@@ -1,6 +1,6 @@
 # Lapislazuli
 
-<img src="../../images/categories/materials.svg" alt="Lapislazuli" width="160">
+<img src="../../images/icons/3044860358.png" alt="Lapislazuli" width="160">
 
 | | |
 |---|---|

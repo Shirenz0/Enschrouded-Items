@@ -1,6 +1,6 @@
 # Critter Glands
 
-<img src="../../images/categories/materials.svg" alt="Critter Glands" width="160">
+<img src="../../images/icons/1693311429.png" alt="Critter Glands" width="160">
 
 | | |
 |---|---|

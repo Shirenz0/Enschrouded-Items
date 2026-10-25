@@ -1,6 +1,6 @@
 # Corrupted Boar Tusk
 
-<img src="../../images/categories/materials.svg" alt="Corrupted Boar Tusk" width="160">
+<img src="../../images/icons/3405461465.png" alt="Corrupted Boar Tusk" width="160">
 
 | | |
 |---|---|

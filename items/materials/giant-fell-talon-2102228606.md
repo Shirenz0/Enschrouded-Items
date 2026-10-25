@@ -1,6 +1,6 @@
 # Giant Fell Talon
 
-<img src="../../images/categories/materials.svg" alt="Giant Fell Talon" width="160">
+<img src="../../images/icons/2102228606.png" alt="Giant Fell Talon" width="160">
 
 | | |
 |---|---|

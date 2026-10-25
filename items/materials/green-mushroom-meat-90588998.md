@@ -1,6 +1,6 @@
 # Green Mushroom Meat
 
-<img src="../../images/categories/materials.svg" alt="Green Mushroom Meat" width="160">
+<img src="../../images/icons/90588998.png" alt="Green Mushroom Meat" width="160">
 
 | | |
 |---|---|

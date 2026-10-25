@@ -1,6 +1,6 @@
 # Antiseptic
 
-<img src="../../images/categories/materials.svg" alt="Antiseptic" width="160">
+<img src="../../images/icons/649108902.png" alt="Antiseptic" width="160">
 
 | | |
 |---|---|

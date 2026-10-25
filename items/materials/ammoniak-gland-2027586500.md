@@ -1,6 +1,6 @@
 # Ammoniak Gland
 
-<img src="../../images/categories/materials.svg" alt="Ammoniak Gland" width="160">
+<img src="../../images/icons/2027586500.png" alt="Ammoniak Gland" width="160">
 
 | | |
 |---|---|

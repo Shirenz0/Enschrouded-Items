@@ -1,6 +1,6 @@
 # Capybara Bristles
 
-<img src="../../images/categories/materials.svg" alt="Capybara Bristles" width="160">
+<img src="../../images/icons/4230368891.png" alt="Capybara Bristles" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Passionflower
 
-<img src="../../images/categories/materials.svg" alt="Passionflower" width="160">
+<img src="../../images/icons/4148439656.png" alt="Passionflower" width="160">
 
 | | |
 |---|---|

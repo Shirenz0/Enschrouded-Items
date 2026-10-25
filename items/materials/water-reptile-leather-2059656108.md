@@ -1,6 +1,6 @@
 # Water Reptile Leather
 
-<img src="../../images/categories/materials.svg" alt="Water Reptile Leather" width="160">
+<img src="../../images/icons/2059656108.png" alt="Water Reptile Leather" width="160">
 
 | | |
 |---|---|

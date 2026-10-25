@@ -1,6 +1,6 @@
 # Palmwood Logs
 
-<img src="../../images/categories/materials.svg" alt="Palmwood Logs" width="160">
+<img src="../../images/icons/2955233340.png" alt="Palmwood Logs" width="160">
 
 | | |
 |---|---|

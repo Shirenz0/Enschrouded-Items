@@ -1,6 +1,6 @@
 # Blue Fabric
 
-<img src="../../images/categories/materials.svg" alt="Blue Fabric" width="160">
+<img src="../../images/icons/398142464.png" alt="Blue Fabric" width="160">
 
 | | |
 |---|---|

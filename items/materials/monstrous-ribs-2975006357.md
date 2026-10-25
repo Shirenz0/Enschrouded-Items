@@ -1,6 +1,6 @@
 # Monstrous Ribs
 
-<img src="../../images/categories/materials.svg" alt="Monstrous Ribs" width="160">
+<img src="../../images/icons/2975006357.png" alt="Monstrous Ribs" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Glass Shards
 
-<img src="../../images/categories/materials.svg" alt="Glass Shards" width="160">
+<img src="../../images/icons/2640854911.png" alt="Glass Shards" width="160">
 
 | | |
 |---|---|

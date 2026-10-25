@@ -1,6 +1,6 @@
 # Conifer Logs
 
-<img src="../../images/categories/materials.svg" alt="Conifer Logs" width="160">
+<img src="../../images/icons/1475408789.png" alt="Conifer Logs" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Glow Dirt Green
 
-<img src="../../images/categories/materials.svg" alt="Glow Dirt Green" width="160">
+<img src="../../images/icons/2149011961.png" alt="Glow Dirt Green" width="160">
 
 | | |
 |---|---|

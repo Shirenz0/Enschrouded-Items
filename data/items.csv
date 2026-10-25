@@ -80,39 +80,39 @@ Extends the fog survivability after consumption by 4 Minutes. This effect will l
 1567174048,Consumable_Necromancer_Grenade_T5,Skull Summoning Vessel,,Throw to summon a skull companion. ,,"Crafting, Collector",Weapons,Epic,20,30,30,
 1596935538,Consumable_Necromancer_Grenade_T6,Skull Summoning Vessel,,Throw to summon a skull companion. ,,"Crafting, Collector",Weapons,Legendary,20,40,40,
 2105748910,Consumable_Bandage_T7,T7 Bandage,,T7 Bandage Desc,Bandage,"Crafting, Huntress",Consumables,Epic,20,0,0,images/icons/2105748910.png
-1626290897,Material_T2_Wood_Planks,Wood Planks,,Planks created by cutting the Wood Logs in a desired shape. A stylistic and useful natural element that has yet to reach the desired end of production.,,"Crafting, Table Saw",Materials,Common,250,13,13,
-722268629,Material_T1_Wood_Logs,Wood Logs,,The byproducts of felling a tree. Just be careful that it doesn't fall on the head!,,,Materials,Common,250,1,1,
+1626290897,Material_T2_Wood_Planks,Wood Planks,,Planks created by cutting the Wood Logs in a desired shape. A stylistic and useful natural element that has yet to reach the desired end of production.,,"Crafting, Table Saw",Materials,Common,250,13,13,images/icons/1626290897.png
+722268629,Material_T1_Wood_Logs,Wood Logs,,The byproducts of felling a tree. Just be careful that it doesn't fall on the head!,,,Materials,Common,250,1,1,images/icons/722268629.png
 1496290527,Material_T1_Torn_Cloth,Torn Cloth,,Torn and ripped rests of clothing that were left behind and now serve the shroud as clothing.,,,Materials,Common,250,5,5,images/icons/1496290527.png
 419344916,Material_T1_String,String,,"Used to bind things together, the String is a highly required item.",,Manual Crafting,Materials,Common,250,5,5,images/icons/419344916.png
 4109728689,Material_T1_Resin,Resin,,"The protecting juice of trees has many functions. First and foremost, serving the cause of the trees!",,"Trees, mainly stumps and red-leaved trees",Materials,Common,250,5,5,images/icons/4109728689.png
 3316218728,Material_T1_Plant_Fibre,Plant Fibre,,Maybe they can be used as strings? They seem pretty robust.,,,Materials,Common,250,1,1,images/icons/3316218728.png
 2743545700,Material_T1_Nails,Nails,,Nails made from Metal Scraps. Sharp objects that can be used as a tool or as a weapon.,,Blacksmith,Materials,Common,250,5,5,images/icons/2743545700.png
-159114158,Material_T4_Iron_Bar,Iron Bars,,A glistening silver metal that has a wide range of applications.,,Smelter,Materials,Common,250,25,25,
+159114158,Material_T4_Iron_Bar,Iron Bars,,A glistening silver metal that has a wide range of applications.,,Smelter,Materials,Common,250,25,25,images/icons/159114158.png
 132545371,Material_T1_Metal_Scraps,Metal Scraps,,"Rests of metal, stories of the war, that were behind as humanity lost. They might turn out to be useful.",,,Materials,Common,250,5,5,images/icons/132545371.png
-4135223598,Material_T3_Leather,Leather,,"A versatile and durable material, that is smooth to the touch. It has also the advantage of being waterproof.",,"Crafting, Tanning Station",Materials,Common,250,18,18,
-455684957,Material_T4_Ore_Iron,Iron Ore,,"The natural ressource needed to create Iron Bars, an important material for every adventurer on the way to the top.",,find in Kindlewastes  Shroud,Materials,Common,250,25,25,
-1350606537,Material_T4_Fog_Oil,Fog Oil,,"Its uses are unknown even to the creator itself, but it definitely didn't help the skin of the fell!",,"Crafting, Laboratory",Materials,Common,250,25,25,
+4135223598,Material_T3_Leather,Leather,,"A versatile and durable material, that is smooth to the touch. It has also the advantage of being waterproof.",,"Crafting, Tanning Station",Materials,Common,250,18,18,images/icons/4135223598.png
+455684957,Material_T4_Ore_Iron,Iron Ore,,"The natural ressource needed to create Iron Bars, an important material for every adventurer on the way to the top.",,find in Kindlewastes  Shroud,Materials,Common,250,25,25,images/icons/455684957.png
+1350606537,Material_T4_Fog_Oil,Fog Oil,,"Its uses are unknown even to the creator itself, but it definitely didn't help the skin of the fell!",,"Crafting, Laboratory",Materials,Common,250,25,25,images/icons/1350606537.png
 2559861108,Material_T1_Fog_Essence01_ShroudSpores,Fog Essence,,"A strange kind of energy. It appears unstable for now, but perhaps it can be refined.",,"Fell Enemies, Springlands Shroud and Revelwood Shroud",Materials,Common,250,5,5,images/icons/2559861108.png
 1528590138,Material_T1_Fog_Core01_ShroudCore,Fog Core,,A stable form of energy. Burning it at the Flame Altar may protect against the Fog.,,Alchemist or Fell Bosses,Materials,Rare,250,5,5,images/icons/1528590138.png
-1925006089,Material_T2_Clay,Lump of Clay,,A malleable material that is especially useful for construction purposes.,,Revelwood,Materials,Common,250,13,13,
-1862351329,Material_T2_Amber,Amber,,"Created over years and years of petrification of Resin in the depths of the earth, it has become a beautiful material used for production.",,find in Revelwood Shroud,Materials,Common,250,13,13,
-1024666423,Material_T4_Desert_Flower,Desert Flower,,An ingredient used in crafting recipes.,,,Materials,Common,250,25,25,
-731732847,Material_T2_Ore_Copper,Copper Ore,,The basic ore needed to create a Copper Bar that can be used for many things.,,Revelwood,Materials,Common,250,13,13,
-170689373,Material_T2_Copper_Bar,Copper Bar,,A rare metal and valuable metal thanks to its thermal conductivity. Its often used to create things that require a lot of heat.,,Smelter,Materials,Common,250,13,13,
+1925006089,Material_T2_Clay,Lump of Clay,,A malleable material that is especially useful for construction purposes.,,Revelwood,Materials,Common,250,13,13,images/icons/1925006089.png
+1862351329,Material_T2_Amber,Amber,,"Created over years and years of petrification of Resin in the depths of the earth, it has become a beautiful material used for production.",,find in Revelwood Shroud,Materials,Common,250,13,13,images/icons/1862351329.png
+1024666423,Material_T4_Desert_Flower,Desert Flower,,An ingredient used in crafting recipes.,,,Materials,Common,250,25,25,images/icons/1024666423.png
+731732847,Material_T2_Ore_Copper,Copper Ore,,The basic ore needed to create a Copper Bar that can be used for many things.,,Revelwood,Materials,Common,250,13,13,images/icons/731732847.png
+170689373,Material_T2_Copper_Bar,Copper Bar,,A rare metal and valuable metal thanks to its thermal conductivity. Its often used to create things that require a lot of heat.,,Smelter,Materials,Common,250,13,13,images/icons/170689373.png
 1798662696,Material_T1_Twigs,Twig,,"A twig, as insignificant as it might seem, has a lot of potential. Everything starts somewhere...",,,Materials,Common,250,1,1,images/icons/1798662696.png
-2435149273,Material_T3_Wheat_Grains,Wheat Grains,,Both a cooking ingredient and a seed for the fields.,,Nomad Highlands,Materials,Common,250,18,18,
-3921293392,Material_T3_Straw,Straw,,"A natural plant, rests of the agriculture left behind, that grows in the world. It serves as food for the animals in the world and can protect the head in wet nights.",,Nomad Highlands,Materials,Common,250,18,18,
-169532188,Material_T3_Flour,Flour,,Flour that can be created by grinding Wheat Grains to a pulver.,,"Crafting, Hand Grinder",Materials,Common,250,18,18,
+2435149273,Material_T3_Wheat_Grains,Wheat Grains,,Both a cooking ingredient and a seed for the fields.,,Nomad Highlands,Materials,Common,250,18,18,images/icons/2435149273.png
+3921293392,Material_T3_Straw,Straw,,"A natural plant, rests of the agriculture left behind, that grows in the world. It serves as food for the animals in the world and can protect the head in wet nights.",,Nomad Highlands,Materials,Common,250,18,18,images/icons/3921293392.png
+169532188,Material_T3_Flour,Flour,,Flour that can be created by grinding Wheat Grains to a pulver.,,"Crafting, Hand Grinder",Materials,Common,250,18,18,images/icons/169532188.png
 984234407,Material_T1_Animal_Fur,Animal Fur,,"Warm in the winter, comfortbale in the summer. A flexible ressource that is very common and can be used for many things.",,,Materials,Common,250,5,5,images/icons/984234407.png
-3838906683,Material_T3_Feather,Feather,,"A feather of a bird or creatures of some kind. Almost as light as air, it has to be useful for something.",,Nomad Highlands and Kindlewastes,Materials,Common,250,18,18,
+3838906683,Material_T3_Feather,Feather,,"A feather of a bird or creatures of some kind. Almost as light as air, it has to be useful for something.",,Nomad Highlands and Kindlewastes,Materials,Common,250,18,18,images/icons/3838906683.png
 1536371128,Material_T1_Flame_Essence_Spark,Flame Essence,,A small amount of essence from the flame! By feeding it back to the <b>flame altar</b> maybe it could become stronger and burn even brighter.,,Flame Shrine or Sanctum,Materials,Epic,250,5,5,images/icons/1536371128.png
 1451410091,Material_T1_Wax,Wax,,An eyesight in the day that can provide a light in the dark.,,Beehive,Materials,Common,250,5,5,images/icons/1451410091.png
 1714627847,Material_T1_Tar,Tar,,"Not very pretty, but useful when it comes to creating protection from the weather.",,"Crafting, Charcoal Kiln",Materials,Common,250,5,5,images/icons/1714627847.png
-1635234852,Material_T1_Wood_Acid,Wood Acid,,"This byproduct of the Charcoal Kiln has many useful properties, which can be used in medicine and alchemy. ",,"Crafting, Charcoal Kiln",Materials,Common,250,5,5,
+1635234852,Material_T1_Wood_Acid,Wood Acid,,"This byproduct of the Charcoal Kiln has many useful properties, which can be used in medicine and alchemy. ",,"Crafting, Charcoal Kiln",Materials,Common,250,5,5,images/icons/1635234852.png
 1586398842,Material_T1_Stone_Flint,Flintstone,,A soft small rock that became famous for its ability to release sparks. It has been associated with the flame ever since.,,Springlands,Materials,Common,1000,5,5,images/icons/1586398842.png
 3264892278,Material_T1_CritterParts,Critter Parts,,Remains of the pests that dwell below the fog. These parts should be rich with fog substances. ,,Springlands and Revelwood Fell Enemies,Materials,Common,250,5,5,images/icons/3264892278.png
 1564406835,Material_T1_Salt,Salt,,Crystaline powder that can be found in the lower regions of the world. The taste of food can improved by bounds if only a little is applied.,,Springlands Shroud,Materials,Common,250,5,5,images/icons/1564406835.png
-1320899587,Material_T1_Wood_Logs_Dead,Fog Wood,,The shroud drenched  wood of the trees that survived below the shroud. Its structure and properties changed forever.,,"Dead Trees, Shroud",Materials,Common,250,5,5,
+1320899587,Material_T1_Wood_Logs_Dead,Fog Wood,,The shroud drenched  wood of the trees that survived below the shroud. Its structure and properties changed forever.,,"Dead Trees, Shroud",Materials,Common,250,5,5,images/icons/1320899587.png
 3509012331,Material_T1_FogTerrain_Mycelium,Mycelium,,"Mycelium of fog mushrooms, absorbing the magical properties of the fog in the air. Could this be used for alchemical purposes?",,"Mining, Shroud",Materials,Common,250,5,5,images/icons/3509012331.png
 372029138,Material_T1_Charcoal,Charcoal,,"Created in a <b>kiln</b> under high temperatures.
 
@@ -120,46 +120,46 @@ Burned wood mixed with oxygen creates a flammable material, highly convenient an
 4271896226,Material_T1_Metal_Sheets,Metal Sheets,,Sheets melted out of Metal Scraps to make them more workable and open up options for the further processing.,,Forge,Materials,Common,250,5,5,images/icons/4271896226.png
 3420500473,Material_T1_Dried_Fur,Dried Fur,,"After drying the Animal Fur on theDrying Rack, it becames sturdier and durable for a longer period of time.",,"Crafting, Drying Rack",Materials,Common,250,5,5,images/icons/3420500473.png
 2982735558,Material_T1_Bonemeal,Bonemeal,,Pounded bones - useful for alchemical and magical purposes.,,"Crafting, Hand Grinder",Materials,Common,250,5,5,images/icons/2982735558.png
-3478847834,Material_T2_Chamomile,Chamomile,,"A wondrous flower known for its many usecases, but mostly for its healing purposes.",,Revelwood,Materials,Common,250,13,13,
-4276529065,Material_T2_Indigo_Plant,Indigo Plant,,A plant known for its flowers and the deep blue organic pigment that can be won by processing it.,,Revelwood,Materials,Common,250,13,13,
-3898847112,Material_T2_Flax,Flax,,A popular plant due to its strong fibers. It can be used to make linnen.,,Revelwood,Materials,Common,250,13,13,
-90588998,Material_T3_MushroomDrop_GreenMushroomMeat,Green Mushroom Meat,,Mushroom Meat that can be used to dye all sorts of fabrics in a green color.,,find in Nomad Highlands Shroud,Materials,Common,250,18,18,
-1503622318,Material_T2_Poison_Sack,Poison Sack,,"Stuffed with poisonous things, it considered one of the most dangerous things in the world! Maybe touching isn't a good idea...",,First: Revelwood,Materials,Common,250,13,13,
-1728169696,Material_T2_Fog_Sack,Fog Sack,,An organic bag containing highly concentrated fog.,,"Fell Enemies, First: Revelwood Shroud",Materials,Common,250,13,13,
-3095665634,Material_T3_Fossilized_Bone,Fossilized Bone,,"Over the years, untouched by anyone, the bones of all kind of magical creatures have hardened and turned to stone. A rare material due to its limited availibility and high magical capacity.",,Giant Skeletons,Materials,Common,250,18,18,
-2027586500,Material_T3_Ammoniak_Gland,Ammoniak Gland,,"This gland contains a concentrated substance, which can be used to tan furs. ",,"Fell Mushroom Crabs, Nomad Highlands Shroud and Kindlewastes Shroud",Materials,Common,250,16,16,
+3478847834,Material_T2_Chamomile,Chamomile,,"A wondrous flower known for its many usecases, but mostly for its healing purposes.",,Revelwood,Materials,Common,250,13,13,images/icons/3478847834.png
+4276529065,Material_T2_Indigo_Plant,Indigo Plant,,A plant known for its flowers and the deep blue organic pigment that can be won by processing it.,,Revelwood,Materials,Common,250,13,13,images/icons/4276529065.png
+3898847112,Material_T2_Flax,Flax,,A popular plant due to its strong fibers. It can be used to make linnen.,,Revelwood,Materials,Common,250,13,13,images/icons/3898847112.png
+90588998,Material_T3_MushroomDrop_GreenMushroomMeat,Green Mushroom Meat,,Mushroom Meat that can be used to dye all sorts of fabrics in a green color.,,find in Nomad Highlands Shroud,Materials,Common,250,18,18,images/icons/90588998.png
+1503622318,Material_T2_Poison_Sack,Poison Sack,,"Stuffed with poisonous things, it considered one of the most dangerous things in the world! Maybe touching isn't a good idea...",,First: Revelwood,Materials,Common,250,13,13,images/icons/1503622318.png
+1728169696,Material_T2_Fog_Sack,Fog Sack,,An organic bag containing highly concentrated fog.,,"Fell Enemies, First: Revelwood Shroud",Materials,Common,250,13,13,images/icons/1728169696.png
+3095665634,Material_T3_Fossilized_Bone,Fossilized Bone,,"Over the years, untouched by anyone, the bones of all kind of magical creatures have hardened and turned to stone. A rare material due to its limited availibility and high magical capacity.",,Giant Skeletons,Materials,Common,250,18,18,images/icons/3095665634.png
+2027586500,Material_T3_Ammoniak_Gland,Ammoniak Gland,,"This gland contains a concentrated substance, which can be used to tan furs. ",,"Fell Mushroom Crabs, Nomad Highlands Shroud and Kindlewastes Shroud",Materials,Common,250,16,16,images/icons/2027586500.png
 2053375978,Material_T1_Bones,Bones,,"Containing the magic of the world, bones of living creatures have a lot of applications.",,,Materials,Common,250,5,5,images/icons/2053375978.png
-957162158,Material_T2_Bug_Dust,Bug Dust,,A protein rich ingredient created from pounded critter shells.,,"Crafting, Alchemist",Materials,Common,250,13,13,
-3403995938,Material_T2_Goo,Goo,,A sticky paste used to bind chemical substances.,,"Crafting, Alchemist",Materials,Common,250,13,13,
-1830151622,Material_T2_Glow_Dust,Glow Dust,,"A magical dust that can glow in the dark, consisting of the crushed remains of a Fire Fly.",,"Crafting, Alchemist",Materials,Common,250,13,13,
-1815424180,Material_T2_Linen,Linnen,,The natural fibre won from the processing of Flax. The first step of cloth creation.,,"Crafting, Handspindle",Materials,Common,250,13,13,
-1261933427,Material_T2_Fired_Brick,Fired Brick,,A shiny red brick that is crafted by hardening Lump of Clay under a heat even a flameborn has issues with.,,"Crafting, Kiln",Materials,Common,250,13,13,
-642002617,Material_T3_Bronze_Bar,Bronze Bars,,"A beautiful material known for its warm and bright colour. Artisans around the world have turned towards it for centuries, due to its workable characteristics.",,Smelter,Materials,Common,250,18,18,
-3073226096,Material_T3_Fossilized_Bone_Dust,Fossilized Bone Dust,,Grinding the Fossilized Bone into dust frees its inherent magical attributes and makes it more handy for further production steps.,,"Crafting, Hand Grinder",Materials,Common,250,18,18,
-2371777842,Material_T3_Alchemical_Base,Alchemical Base,,"A clear liquid with a sharp smell. Usually, it's is used to enhance alchemical reactions. ",,"Crafting, Alchemy Station",Materials,Common,250,16,16,
-1072522988,Material_T3_Tin_Bars,Tin Bars,,A metal used to create bronze which can be found in the steppes.,,Smelter,Materials,Common,250,18,18,
-3749540900,Material_T3_Ore_Tin,Tin Ore,,An ore which contains traces of Tin. Needed to create Tin Bars.,,find in Nomad Highlands Shroud,Materials,Common,250,18,18,
-2819734894,Material_T4_Sulfur,Sulfur,,"A really important material, as Sulfur is one of the basic chemical ingredients for nature.",,Kindlewastes,Materials,Common,250,25,25,
+957162158,Material_T2_Bug_Dust,Bug Dust,,A protein rich ingredient created from pounded critter shells.,,"Crafting, Alchemist",Materials,Common,250,13,13,images/icons/957162158.png
+3403995938,Material_T2_Goo,Goo,,A sticky paste used to bind chemical substances.,,"Crafting, Alchemist",Materials,Common,250,13,13,images/icons/3403995938.png
+1830151622,Material_T2_Glow_Dust,Glow Dust,,"A magical dust that can glow in the dark, consisting of the crushed remains of a Fire Fly.",,"Crafting, Alchemist",Materials,Common,250,13,13,images/icons/1830151622.png
+1815424180,Material_T2_Linen,Linnen,,The natural fibre won from the processing of Flax. The first step of cloth creation.,,"Crafting, Handspindle",Materials,Common,250,13,13,images/icons/1815424180.png
+1261933427,Material_T2_Fired_Brick,Fired Brick,,A shiny red brick that is crafted by hardening Lump of Clay under a heat even a flameborn has issues with.,,"Crafting, Kiln",Materials,Common,250,13,13,images/icons/1261933427.png
+642002617,Material_T3_Bronze_Bar,Bronze Bars,,"A beautiful material known for its warm and bright colour. Artisans around the world have turned towards it for centuries, due to its workable characteristics.",,Smelter,Materials,Common,250,18,18,images/icons/642002617.png
+3073226096,Material_T3_Fossilized_Bone_Dust,Fossilized Bone Dust,,Grinding the Fossilized Bone into dust frees its inherent magical attributes and makes it more handy for further production steps.,,"Crafting, Hand Grinder",Materials,Common,250,18,18,images/icons/3073226096.png
+2371777842,Material_T3_Alchemical_Base,Alchemical Base,,"A clear liquid with a sharp smell. Usually, it's is used to enhance alchemical reactions. ",,"Crafting, Alchemy Station",Materials,Common,250,16,16,images/icons/2371777842.png
+1072522988,Material_T3_Tin_Bars,Tin Bars,,A metal used to create bronze which can be found in the steppes.,,Smelter,Materials,Common,250,18,18,images/icons/1072522988.png
+3749540900,Material_T3_Ore_Tin,Tin Ore,,An ore which contains traces of Tin. Needed to create Tin Bars.,,find in Nomad Highlands Shroud,Materials,Common,250,18,18,images/icons/3749540900.png
+2819734894,Material_T4_Sulfur,Sulfur,,"A really important material, as Sulfur is one of the basic chemical ingredients for nature.",,Kindlewastes,Materials,Common,250,25,25,images/icons/2819734894.png
 4230023681,Material_T1_Coal_Powder,Coal Powder,,"Grinded coals, creating a highly flammable powder.",,"Crafting, Hand Grinder",Materials,Common,250,5,5,images/icons/4230023681.png
-2246309017,Material_T4_Glass,Glass,,"A wondrous material. It is transparent and offers many usecases, especially in building and crafting!",,Smelter,Materials,Common,250,25,25,
-764289975,Material_T4_Aloe,Aloe,,"This desert plant contains a slimy liquid, which is know to have medical applications. Maybe it has some use with the help of some alchemy...",,Kindlewastes,Materials,Common,250,25,25,
-3044860358,Material_T4_Lapislazuli,Lapislazuli,,A rare gem famous for its magical properties as a catalyst. It's great for channeling and shielding!,,Kindlewastes,Materials,Common,250,25,25,
-2640854911,Material_T4_Glass_Shards,Glass Shards,,Glass broken into pieces offers many sharp edges used to increase the threat of a weapon.,,Kindlewastes,Materials,Common,250,25,25,
-287018928,Material_T4_Paper,Paper,,A traditional but mighty tool of communication used for the preservation of knowledge and communication over large distances.,,"Crafting, Laboratory",Materials,Common,250,25,25,
+2246309017,Material_T4_Glass,Glass,,"A wondrous material. It is transparent and offers many usecases, especially in building and crafting!",,Smelter,Materials,Common,250,25,25,images/icons/2246309017.png
+764289975,Material_T4_Aloe,Aloe,,"This desert plant contains a slimy liquid, which is know to have medical applications. Maybe it has some use with the help of some alchemy...",,Kindlewastes,Materials,Common,250,25,25,images/icons/764289975.png
+3044860358,Material_T4_Lapislazuli,Lapislazuli,,A rare gem famous for its magical properties as a catalyst. It's great for channeling and shielding!,,Kindlewastes,Materials,Common,250,25,25,images/icons/3044860358.png
+2640854911,Material_T4_Glass_Shards,Glass Shards,,Glass broken into pieces offers many sharp edges used to increase the threat of a weapon.,,Kindlewastes,Materials,Common,250,25,25,images/icons/2640854911.png
+287018928,Material_T4_Paper,Paper,,A traditional but mighty tool of communication used for the preservation of knowledge and communication over large distances.,,"Crafting, Laboratory",Materials,Common,250,25,25,images/icons/287018928.png
 860644516,Material_T1_MushroomDrop_ShroudLiquid,Fog Liquid,,The liquified essence of the Shroud. The brown fluid emits a violet vapour and is used for many powerful alchemical purposes. It can be harvasted from various growths in the shroud. ,No ammo equipped,Springlands Shroud,Materials,Common,250,5,5,images/icons/860644516.png
-1628543982,Material_T3_Rooibos,Rooibos,,"An interesting plant, stimulating every persons taste buds. The use in tea has established itself as a custom.",,Nomad Highlands,Materials,Common,250,18,18,
-3696168941,Material_T4_Saffron,Saffron,,A rare herbal plant that can be found in hot areas of the world.,,Kindlewastes,Materials,Common,250,25,25,
-1126086984,Material_T4_magic_Spice,Spice,,"Nobody really knows what it is. They just call it the ""Spice"". It makes food much more delicious though, so it is highly sought after!",,"Crafting, Laboratory",Materials,Common,250,25,25,
-2128518559,Material_T4_Fabric,Fabric,,A sturdy material that was woven out of linnen. It revolutionized the clothing industry due to its flexibility and durability. It looks better as well.,,"Crafting, Loom",Materials,Common,250,25,25,
-3436629486,Material_T4_Fabric_Yellow,Yellow Fabric,,Yellow dyed fabric used for clothing.,,"Crafting, Huntress",Materials,Common,250,25,25,
-2287874170,Material_T4_Fabric_Green,Green Fabric,,The color of life - a wonderful color for clothes.,,"Crafting, Huntress",Materials,Common,250,25,25,
-398142464,Material_T4_Blue_Fabric,Blue Fabric,,Blue dyed fabric used for clothing.,,"Crafting, Huntress",Materials,Common,250,25,25,
-3960097842,Material_T4_Fabric_Red,Red Fabric,,Red - the color of the flame fitting for a flameborn!,,"Crafting, Huntress",Materials,Common,250,25,25,
-1711247619,Material_T4_Padding_Kit,Padding,,A basic ingredient for all advanced armors. The padding worked in below the hard shell can create comfort and soften impacts.,,"Crafting, Huntress",Materials,Common,250,25,25,
-2955233340,Material_T4_Wood_Logs_Palm,Palmwood Logs,,"Logs of a freshly cut palm, ready to be processed to an item of choosing.",,Kindlewastes,Materials,Common,250,25,25,
-4079068070,Material_T4_Scales,Sanddigger Scales,,Hardened scales of the Sanddigger. Some say they are as hard as stone.,,Kindlewastes,Materials,Common,250,25,25,
-2206878080,Material_T4_Nitrate,Nitrate,,An alchemical acid used to create explosive substances.,,"Crafting, Laboratory",Materials,Common,250,25,25,
-1828629573,Material_T4_Black_Powder,Black Powder,,A dangerous alchemical substance used to produce explosives. Better watch out! It goes Boom. ,,"Crafting, Laboratory",Materials,Common,250,25,25,
+1628543982,Material_T3_Rooibos,Rooibos,,"An interesting plant, stimulating every persons taste buds. The use in tea has established itself as a custom.",,Nomad Highlands,Materials,Common,250,18,18,images/icons/1628543982.png
+3696168941,Material_T4_Saffron,Saffron,,A rare herbal plant that can be found in hot areas of the world.,,Kindlewastes,Materials,Common,250,25,25,images/icons/3696168941.png
+1126086984,Material_T4_magic_Spice,Spice,,"Nobody really knows what it is. They just call it the ""Spice"". It makes food much more delicious though, so it is highly sought after!",,"Crafting, Laboratory",Materials,Common,250,25,25,images/icons/1126086984.png
+2128518559,Material_T4_Fabric,Fabric,,A sturdy material that was woven out of linnen. It revolutionized the clothing industry due to its flexibility and durability. It looks better as well.,,"Crafting, Loom",Materials,Common,250,25,25,images/icons/2128518559.png
+3436629486,Material_T4_Fabric_Yellow,Yellow Fabric,,Yellow dyed fabric used for clothing.,,"Crafting, Huntress",Materials,Common,250,25,25,images/icons/3436629486.png
+2287874170,Material_T4_Fabric_Green,Green Fabric,,The color of life - a wonderful color for clothes.,,"Crafting, Huntress",Materials,Common,250,25,25,images/icons/2287874170.png
+398142464,Material_T4_Blue_Fabric,Blue Fabric,,Blue dyed fabric used for clothing.,,"Crafting, Huntress",Materials,Common,250,25,25,images/icons/398142464.png
+3960097842,Material_T4_Fabric_Red,Red Fabric,,Red - the color of the flame fitting for a flameborn!,,"Crafting, Huntress",Materials,Common,250,25,25,images/icons/3960097842.png
+1711247619,Material_T4_Padding_Kit,Padding,,A basic ingredient for all advanced armors. The padding worked in below the hard shell can create comfort and soften impacts.,,"Crafting, Huntress",Materials,Common,250,25,25,images/icons/1711247619.png
+2955233340,Material_T4_Wood_Logs_Palm,Palmwood Logs,,"Logs of a freshly cut palm, ready to be processed to an item of choosing.",,Kindlewastes,Materials,Common,250,25,25,images/icons/2955233340.png
+4079068070,Material_T4_Scales,Sanddigger Scales,,Hardened scales of the Sanddigger. Some say they are as hard as stone.,,Kindlewastes,Materials,Common,250,25,25,images/icons/4079068070.png
+2206878080,Material_T4_Nitrate,Nitrate,,An alchemical acid used to create explosive substances.,,"Crafting, Laboratory",Materials,Common,250,25,25,images/icons/2206878080.png
+1828629573,Material_T4_Black_Powder,Black Powder,,A dangerous alchemical substance used to produce explosives. Better watch out! It goes Boom. ,,"Crafting, Laboratory",Materials,Common,250,25,25,images/icons/1828629573.png
 1138733565,Material_TX_Trophy_Fell_Monstrosity_head,Monstrosity Head,,"It grasps at anything. Hope, despair, loneliness... anything to fill the void.",,,Materials,Epic,50,0,0,
 707511507,Material_TX_Trophy_Fell_LizardBoss_head,Dragon Head,,"It used to skim the waters near pikemeads reach with its brood, but soon became enshrouded as the land became corrupted.",,,Materials,Epic,50,0,0,
 2339068671,Material_TX_Trophy_Vukah_head,Small Boss Trophy Vukah,,The tusks are still quite dangerous as they don't dull after death. Never stumble!,,,Materials,Epic,50,0,0,
@@ -168,22 +168,22 @@ Burned wood mixed with oxygen creates a flammable material, highly convenient an
 2710616938,Material_TX_Trophy_Fell_Heavy_head,Heavy Head,,Even the head alone is heavy.,,,Materials,Rare,50,0,0,
 661026568,Material_T1_Animal_Fur_Patch,Fur Patch,,A small shred of animal fur. ,,,Materials,Common,250,5,5,images/icons/661026568.png
 2610555646,Material_T1_OldBooks,Old Books,,A stack of old parchments. Worn and Torn by the ravages of time. Maybe a wise man will be able to salvage something from the remnants. ,,,Materials,Common,250,5,5,images/icons/2610555646.png
-1765656585,Material_T2_Wood_Hardwood,Hardwood,,The byproducts of felling a tree. Just be careful that it doesn't fall on the head!,,Revelwood,Materials,Common,250,13,13,
-1453689781,Material_T3_Green_Essence,T3 Green essence,,T3 Green Essence desc,,"Nomad Highlands, Hollow Halls",Materials,Common,500,18,18,
-2956062198,Material_T2_Giant_Bones,Giant bones,,The eartly remains of a big Skelleton. ,,"Hollow Cyclops, First: Revelwood Hollow Halls",Materials,Uncommon,250,13,13,
+1765656585,Material_T2_Wood_Hardwood,Hardwood,,The byproducts of felling a tree. Just be careful that it doesn't fall on the head!,,Revelwood,Materials,Common,250,13,13,images/icons/1765656585.png
+1453689781,Material_T3_Green_Essence,T3 Green essence,,T3 Green Essence desc,,"Nomad Highlands, Hollow Halls",Materials,Common,500,18,18,images/icons/1453689781.png
+2956062198,Material_T2_Giant_Bones,Giant bones,,The eartly remains of a big Skelleton. ,,"Hollow Cyclops, First: Revelwood Hollow Halls",Materials,Uncommon,250,13,13,images/icons/2956062198.png
 1368893472,Material_TX_Trophy_Skeleton_Heavy_head,Skeleton Heavy head,,Why does it only have one eye???,,,Materials,Epic,50,0,0,
 2530601241,Material_T1_Red_Marble_Fragment,Red Marble fragment,,"This might look simple, but if processed can turn into something beautiful. ",,Hollow Halls and Albaneve Summits,Materials,Common,500,5,5,images/icons/2530601241.png
 3953523416,Material_T1_KryptCrystal,Krypt Krystal,,A green crystal glowing with magic. ,,"Crafting, Collector",Materials,Common,250,5,5,images/icons/3953523416.png
-2149011961,Material_T2_GlowDirt_Green,Glow Dirt Green,,A green glwoing dirt ,,"Crafting, Ectoplasm Press",Materials,Common,250,18,18,
+2149011961,Material_T2_GlowDirt_Green,Glow Dirt Green,,A green glwoing dirt ,,"Crafting, Ectoplasm Press",Materials,Common,250,18,18,images/icons/2149011961.png
 1549788273,Material_T1_Toxic_Goo,Toxic Goo,,Mined from the deadly waste found in hollow halls. Do not ingest! ,,"Mining, Hollow Halls",Materials,Common,250,5,5,images/icons/1549788273.png
 3962501836,Material_T1_GlowDirt_WarmWhite,Glow Dirt WarmWhite,,A dirt glowing in a warm white light,,"Crafting, Alchemist",Materials,Common,250,5,5,images/icons/3962501836.png
-2845598712,Material_T2_Reptile_Hide,Reptile Hide,,The usable parts of fallen Swamp Dweller,,Blackmire,Materials,Common,250,13,13,
-291752398,Material_T2_Reptile_Leather,Reptile Leather,,"A sturdy material, which can be used in tailoring. ",,"Crafting, Drying Rack",Materials,Common,250,13,13,
-2837376937,Material_T5_Wool,Wool,,Wool Desc,,Spinning Machine,Materials,Common,250,33,33,
-1475408789,Material_T5_Wood_Logs_Pine,Conifer Logs,,Conifer Logs Desc,,Albaneve Summits,Materials,Common,250,33,33,
+2845598712,Material_T2_Reptile_Hide,Reptile Hide,,The usable parts of fallen Swamp Dweller,,Blackmire,Materials,Common,250,13,13,images/icons/2845598712.png
+291752398,Material_T2_Reptile_Leather,Reptile Leather,,"A sturdy material, which can be used in tailoring. ",,"Crafting, Drying Rack",Materials,Common,250,13,13,images/icons/291752398.png
+2837376937,Material_T5_Wool,Wool,,Wool Desc,,Spinning Machine,Materials,Common,250,33,33,images/icons/2837376937.png
+1475408789,Material_T5_Wood_Logs_Pine,Conifer Logs,,Conifer Logs Desc,,Albaneve Summits,Materials,Common,250,33,33,images/icons/1475408789.png
 2310197711,Material_TX_Trophy_Cyclops_head,Trophy Cyclops,,trophy cyclpos desc,,,Materials,Epic,50,0,0,
-887761434,Material_T5_FlammableGoo,Flammable Goo,,A sticky and highly flamable substance. Handle with care!,,"Crafting, Laboratory",Materials,Common,250,33,33,
-649108902,Material_T3_Antiseptic,Antiseptic,,A medical solution that can clean wounds curing all active <b>poison</b> status effects.,,"Crafting, Alchemy Station",Materials,Uncommon,250,16,16,
+887761434,Material_T5_FlammableGoo,Flammable Goo,,A sticky and highly flamable substance. Handle with care!,,"Crafting, Laboratory",Materials,Common,250,33,33,images/icons/887761434.png
+649108902,Material_T3_Antiseptic,Antiseptic,,A medical solution that can clean wounds curing all active <b>poison</b> status effects.,,"Crafting, Alchemy Station",Materials,Uncommon,250,16,16,images/icons/649108902.png
 1782638906,Material_T1_Fognest_Ressource,Fog Goo 01,,"A radiant whirl of energy that is needed to insert gems into weaponry. 
 
 While initially used by the Ancients, it was claimed by the Fell to fuel their brood until you freed it from its newly organic prison. ",,"Springlands, Shroud Lairs",Materials,Common,500,5,5,images/icons/1782638906.png
@@ -203,109 +203,109 @@ While initially used by the Ancients, it was claimed by the Fell to fuel their b
 2835143812,Material_T2_Token_WeaponUpgrade_Rune02,Ancient Rune,,Used to upgrade legendary weapons.,,Blacksmith,Materials,Legendary,5000,13,13,images/icons/2835143812.png
 3622683972,Material_T3_Fog_Essence02_ShroudFragment,Shroud Fragments,,A higher concentration of shroud compared to shroud spores.,,"Fell Enemies, Nomad Highlands Shroud, Kindlewastes Shroud and Albaneve Summits Shroud",Materials,Uncommon,250,18,18,images/icons/3622683972.png
 634473105,Material_T3_Fog_Core02_ShroudNexus,Shroud Nexus,,The highest concentration of shroud energy.,,Alchemist or Fell Monstrosity and Fell Sicklescythe,Materials,Epic,250,18,18,images/icons/634473105.png
-4229884102,Material_T2_MushroomDrop_ShroudMush,Shroud Mush,,Bäh!,,find in Revelwood Shroud,Materials,Common,250,13,13,
-4091795277,Material_T4_MushroomDrop_BrittleShroudFlakes,Brittle Shroud Flakes,,flakey!,,find in Kindlewastes  Shroud,Materials,Common,250,25,25,
-1158895795,Material_T5_MushroomDrop_FrozenShroudSolids,Frozen Shroud Solids,,Cold to the touch,,find in Albaneve Summits Shroud,Materials,Common,250,33,33,
-409810488,Material_T3_FogTerrain_AcidicShroud,Acidic Shroud,,Mined from acidic terrain,,find in Nomad Highlands Shroud,Materials,Common,250,18,18,
-579568751,Material_T5_Base_ShroudVapor,Shroud Vapor,,A potent base for crafting potions of various kind.,,"Crafting, Laboratory",Materials,Rare,250,33,33,
-1693311429,Material_T3_CritterParts_CritterGlands,Critter Glands,,Slippery,,Nomad Highlands and Kindlewastes Fell Enemies,Materials,Common,250,18,18,
-1611805749,Material_T5_CritterParts_CritterCarapace,Critter Carapace,,I dont really like sea food...,,Albaneve Summits and Veilwater Basin Fell Enemies,Materials,Common,250,33,33,
-1985910431,Material_T5_ChitinPowder,Chitin Podwer,,Made from Critter Carapace,,"Crafting, Hand Grinder",Materials,Uncommon,250,33,33,
+4229884102,Material_T2_MushroomDrop_ShroudMush,Shroud Mush,,Bäh!,,find in Revelwood Shroud,Materials,Common,250,13,13,images/icons/4229884102.png
+4091795277,Material_T4_MushroomDrop_BrittleShroudFlakes,Brittle Shroud Flakes,,flakey!,,find in Kindlewastes  Shroud,Materials,Common,250,25,25,images/icons/4091795277.png
+1158895795,Material_T5_MushroomDrop_FrozenShroudSolids,Frozen Shroud Solids,,Cold to the touch,,find in Albaneve Summits Shroud,Materials,Common,250,33,33,images/icons/1158895795.png
+409810488,Material_T3_FogTerrain_AcidicShroud,Acidic Shroud,,Mined from acidic terrain,,find in Nomad Highlands Shroud,Materials,Common,250,18,18,images/icons/409810488.png
+579568751,Material_T5_Base_ShroudVapor,Shroud Vapor,,A potent base for crafting potions of various kind.,,"Crafting, Laboratory",Materials,Rare,250,33,33,images/icons/579568751.png
+1693311429,Material_T3_CritterParts_CritterGlands,Critter Glands,,Slippery,,Nomad Highlands and Kindlewastes Fell Enemies,Materials,Common,250,18,18,images/icons/1693311429.png
+1611805749,Material_T5_CritterParts_CritterCarapace,Critter Carapace,,I dont really like sea food...,,Albaneve Summits and Veilwater Basin Fell Enemies,Materials,Common,250,33,33,images/icons/1611805749.png
+1985910431,Material_T5_ChitinPowder,Chitin Podwer,,Made from Critter Carapace,,"Crafting, Hand Grinder",Materials,Uncommon,250,33,33,images/icons/1985910431.png
 1212327967,Material_T1_SpiderGland,Spider Gland,,They are still dripping with poison,,,Materials,Common,250,5,5,images/icons/1212327967.png
-3405461465,Material_T2_CorruptedBoarTusk,Corrupted Boar Tusk,,"A jagged tusk blackened by Shroud corruption. Pulsing with faint traces of toxic energy, it carries the raw aggression of the Shroud Boar it came from. A prized material for crafting brutal weapons or armor enhancements",,"Fell Boars, Revelwood Shroud",Materials,Uncommon,250,13,13,
-342099111,Material_T3_ShroudJelly,Shroud Jelly,,"A translucent, gelatinous substance extracted from Shroud-dwelling jellies. It shimmers with an eerie glow, infused with restorative and protective properties. Essential for crafting healing spells and magical wards.",,"Depthdweller, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,
-1284326318,Material_T2_BrittleShroudPetals,Brittle Shroud Petals,,"Delicate petals tainted by the Shroud, their surface crackling with a faint, toxic residue. Though fragile on their own, they are surprisingly resilient when woven into armor, offering light protection.",,"Enemies, Revelwood Shroud",Materials,Uncommon,250,13,13,
-2102228606,Material_T4_GiantFellTalon,Giant Fell Talon,,"A massive, razor-sharp talon torn from the deadly Shroud infested Vultures. Hardened by the corruption of the Shroud, it possesses both strength and flexibility, making it a key component in crafting advanced armor for high-tier protection.",,"Fell Draconian Vulture, Kindlewastes Shroud And Albaneve Summits Shroud",Materials,Rare,250,25,25,
-2302389683,Material_T3_CorrosiveBlood,Corrosive Blood,,"A volatile, acidic fluid harvested from weak Fell Foes. Its corrosive properties make it a valuable ingredient in crafting repair kits, where its unique chemistry is harnessed to restore the durability of worn-out items.",,"Fell Enemies, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,
+3405461465,Material_T2_CorruptedBoarTusk,Corrupted Boar Tusk,,"A jagged tusk blackened by Shroud corruption. Pulsing with faint traces of toxic energy, it carries the raw aggression of the Shroud Boar it came from. A prized material for crafting brutal weapons or armor enhancements",,"Fell Boars, Revelwood Shroud",Materials,Uncommon,250,13,13,images/icons/3405461465.png
+342099111,Material_T3_ShroudJelly,Shroud Jelly,,"A translucent, gelatinous substance extracted from Shroud-dwelling jellies. It shimmers with an eerie glow, infused with restorative and protective properties. Essential for crafting healing spells and magical wards.",,"Depthdweller, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,images/icons/342099111.png
+1284326318,Material_T2_BrittleShroudPetals,Brittle Shroud Petals,,"Delicate petals tainted by the Shroud, their surface crackling with a faint, toxic residue. Though fragile on their own, they are surprisingly resilient when woven into armor, offering light protection.",,"Enemies, Revelwood Shroud",Materials,Uncommon,250,13,13,images/icons/1284326318.png
+2102228606,Material_T4_GiantFellTalon,Giant Fell Talon,,"A massive, razor-sharp talon torn from the deadly Shroud infested Vultures. Hardened by the corruption of the Shroud, it possesses both strength and flexibility, making it a key component in crafting advanced armor for high-tier protection.",,"Fell Draconian Vulture, Kindlewastes Shroud And Albaneve Summits Shroud",Materials,Rare,250,25,25,images/icons/2102228606.png
+2302389683,Material_T3_CorrosiveBlood,Corrosive Blood,,"A volatile, acidic fluid harvested from weak Fell Foes. Its corrosive properties make it a valuable ingredient in crafting repair kits, where its unique chemistry is harnessed to restore the durability of worn-out items.",,"Fell Enemies, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,images/icons/2302389683.png
 2832562682,Material_T1_AeratedShroudGel,Aerated Shroud Gel,,"A lightweight, buoyant gel. Has properties of fell magic.
 
 <b>Crafting Ingredient</b>: Primarily used for crafting armor.
 <b>Source</b>: Dropped by Fell Banshees, first found in the Springlands biome.",,"Fell Banshees, Shroud",Materials,Uncommon,250,5,5,images/icons/2832562682.png
 2698923038,Material_T4_FellMist,Fell Mist,,"A dense, swirling vapor extracted from fell casters, imbued with concentrated Shroud magic. Its ethereal nature makes it invaluable for crafting magical armor and powering devastating spells.",,"Fell Sycklescythe, First: Kindlewastes Shroud",Materials,Rare,250,25,25,images/icons/2698923038.png
-2861211892,Material_T5_EvilCyclopsEye,Evil Cyclops Eye,,"A massive, unblinking eye brimming with ancient Shroud power, torn from the monstrous Fell Cyclops. Its overwhelming energy is a critical element in crafting the most resilient and powerful high-level armor.",,"Fell Cyclops, Albaneve Summits Shroud",Materials,Epic,250,33,33,
-1047122195,Material_T3_ShroudAdhesive,Shroud Adhesive,,"A thick, viscous substance harvested from Shroud Tentacles. Its tenacious bonding properties make it essential for crafting armor and for securely sticking materials together in various crafting recipes.",,"Shroud Flayer, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,
+2861211892,Material_T5_EvilCyclopsEye,Evil Cyclops Eye,,"A massive, unblinking eye brimming with ancient Shroud power, torn from the monstrous Fell Cyclops. Its overwhelming energy is a critical element in crafting the most resilient and powerful high-level armor.",,"Fell Cyclops, Albaneve Summits Shroud",Materials,Epic,250,33,33,images/icons/2861211892.png
+1047122195,Material_T3_ShroudAdhesive,Shroud Adhesive,,"A thick, viscous substance harvested from Shroud Tentacles. Its tenacious bonding properties make it essential for crafting armor and for securely sticking materials together in various crafting recipes.",,"Shroud Flayer, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,images/icons/1047122195.png
 3148270344,Material_T1_Overgrowth_Ivy,Ivy overgrowth plant,,Use this material to decorate any voxel material using the ??? tool,Plants,Farmer,BuildTools,Common,1000,5,5,images/icons/3148270344.png
 779558916,Material_T2_Overgrowth_ClimbingRose,Climbing Rose overgrowth plant,,Use this material to decorate any voxel material using the ??? tool,Plants,Farmer,BuildTools,Common,1000,13,13,images/icons/779558916.png
-2975006357,Material_T3_MonstrousRibs,Monstrous Ribs,,Large Ribs that could serve as protection.,,"Fell Monstrosity, First: Nomad Highlands Shroud",Materials,Epic,250,18,18,
+2975006357,Material_T3_MonstrousRibs,Monstrous Ribs,,Large Ribs that could serve as protection.,,"Fell Monstrosity, First: Nomad Highlands Shroud",Materials,Epic,250,18,18,images/icons/2975006357.png
 1353762644,Material_T3_Overgrowth_Mycelium,Mycelium overgrowth,,Use this material to decorate any voxel material using the ??? tool,Plants,Farmer,BuildTools,Common,1000,18,18,images/icons/1353762644.png
 2179075323,Material_T1_FogTerrain_ActiveMycelium,ActiveMycelium,,"Active Mycelium of fog mushrooms, absorbing the magical properties of the fog in the air. Could this be used for alchemical purposes?",,Springlands Shroud,Materials,Common,250,5,5,images/icons/2179075323.png
-536984995,Material_T4_ShroudHeart,Fell Heart,,"A pulsating core harvested from the Spore Head, still radiating with lingering Shroud magic. Its potent essence is a key ingredient in crafting resilient armor and powerful healing spells.",,"Fell Sporehead, First: Kindlewastes Shroud",Materials,Uncommon,250,25,25,
-3571891401,Material_T2_GiantCritterScales,Giant Critter Scales,,"Massive, hardened scales shed by a giant fell critter. Lightweight yet incredibly tough, they serve as a prime material for crafting durable and flexible armor.",,"Fell Critter Queen, First: Revelwood Shroud",Materials,Uncommon,250,13,13,
-3594337385,Material_T3_PetrifiedFellShell,Petrified Fell Shell,,"A dense, stone-like carapace torn from the Predator, a ruthless assassin of the Fell. Its near-unbreakable structure makes it a crucial material for forging exceptionally hard and resilient armor.",,"Shroud Stalker, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,
+536984995,Material_T4_ShroudHeart,Fell Heart,,"A pulsating core harvested from the Spore Head, still radiating with lingering Shroud magic. Its potent essence is a key ingredient in crafting resilient armor and powerful healing spells.",,"Fell Sporehead, First: Kindlewastes Shroud",Materials,Uncommon,250,25,25,images/icons/536984995.png
+3571891401,Material_T2_GiantCritterScales,Giant Critter Scales,,"Massive, hardened scales shed by a giant fell critter. Lightweight yet incredibly tough, they serve as a prime material for crafting durable and flexible armor.",,"Fell Critter Queen, First: Revelwood Shroud",Materials,Uncommon,250,13,13,images/icons/3571891401.png
+3594337385,Material_T3_PetrifiedFellShell,Petrified Fell Shell,,"A dense, stone-like carapace torn from the Predator, a ruthless assassin of the Fell. Its near-unbreakable structure makes it a crucial material for forging exceptionally hard and resilient armor.",,"Shroud Stalker, First: Nomad Highlands Shroud",Materials,Uncommon,250,18,18,images/icons/3594337385.png
 4090772336,Material_T1_Shroud_Medicine,Fresh Shroud Spore,,Fresh shroud spores are used to craft medicine that can cure shroud infection.,,night,Materials,Uncommon,250,5,5,images/icons/4090772336.png
-2341333485,Material_T3_Night_AurumLily,Aurum Lily,,Aurum  Lily - has a strong healing effect if processed correctly.,,"Nomad Highlands, night",Materials,Uncommon,250,18,18,
-267668454,Material_T4_Night_DesertFlower,Night Desert Flower,,Night deser flower - used to produce bright yellow color,,"Kindlewastes, night",Materials,Uncommon,250,25,25,
-3548539501,Material_T5_Night_PinkGentian,Night pink gentian,,night pink gentian,,"Albaneve Summits, night",Materials,Uncommon,250,33,33,
-310580024,Material_T5_Night_Blackflower,Shadow Rose,,shadow rose - used to produce dark black color,,"Albaneve Summits, night",Materials,Uncommon,250,33,33,
+2341333485,Material_T3_Night_AurumLily,Aurum Lily,,Aurum  Lily - has a strong healing effect if processed correctly.,,"Nomad Highlands, night",Materials,Uncommon,250,18,18,images/icons/2341333485.png
+267668454,Material_T4_Night_DesertFlower,Night Desert Flower,,Night deser flower - used to produce bright yellow color,,"Kindlewastes, night",Materials,Uncommon,250,25,25,images/icons/267668454.png
+3548539501,Material_T5_Night_PinkGentian,Night pink gentian,,night pink gentian,,"Albaneve Summits, night",Materials,Uncommon,250,33,33,images/icons/3548539501.png
+310580024,Material_T5_Night_Blackflower,Shadow Rose,,shadow rose - used to produce dark black color,,"Albaneve Summits, night",Materials,Uncommon,250,33,33,images/icons/310580024.png
 1172450293,Material_T4_FogTerrain_ShroudSand,Shroud Sand,,Soo fine...,,find in Kindlewastes  Shroud,Materials,Common,250,25,25,images/icons/1172450293.png
-2374813707,Material_T6_raw_Rice,Raw Rice,,t6 raw rice desc,,Veilwater Basin,Materials,Common,250,40,40,
-397030700,Material_T6_raw_CoffeeBeans,Coffee Beans,,"Raw Coffee Beans, have to be roasted and ground for further use",,Veilwater Basin,Materials,Common,250,40,40,
-3373396030,Material_T6_roasted_CoffeeBeans,Roasted Coffee Beans,,"Roasted Coffee Beans, they smell very good but still need to be ground",,CoffeeDrumRoaster,Materials,Common,250,40,40,
-1358181917,Material_T6_ground_CoffeeBeans,Ground Coffee Beans,,Ready to be brewed into your energizing coffee!,,"Crafting, Improved Grinder",Materials,Common,250,40,40,
-554104227,Material_T6_Aquamarine_Dust,Aquamarine Dust,,t6 Aquamarine dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,
-3702590848,Material_T6_Green_Vitriol_Dust,Green Vitriol Dust,,t6 green vitriol dust desc,,"Crafting, Laboratory",Materials,Common,250,40,40,
-1604789280,Material_T6_Pearl,Pearl,,a gorgeous pearl,,find in T6 underwater,Materials,Common,250,40,40,
-1898288525,Material_T6_MotherOfPearl,Mother-Of-Pearl,,beautiful mother-of-pearl extracted from shells,,find in T6 underwater,Materials,Common,250,40,40,
-2145533653,Material_T6_Night_GleamRoot_under_water,Gleam Root,,t6 gleam root desc,,find in T6 underwater,Materials,Common,250,40,40,
-3507051762,Material_T6_GleamRoot_Dust,Gleam Root Dust,,t6 gleam root dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,
-4230368891,Material_T6_CapybaraBristles,Capybara Bristles,,t6 Capybara Bristles desc,,Veilwater Basin,Materials,Common,250,40,40,
-1060230019,Material_T6_Gold_Dust,Gold Dust,,t6 gold dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,
-514509650,Material_T6_Gold_Bar,Gold Bars,,t6 Gold Bar desc,,Blast Furnace,Materials,Common,250,40,40,
-2715107589,Material_T6_Gold_Ore,Gold Ore,,t6 Gold Ore desc,,find in T6 underwater,Materials,Common,250,40,40,
-2821339070,Material_T6_Water_Reptile_Hide,Water Reptile Hide,,"The usable parts of fallen ""Water Croco""",,Veilwater Basin,Materials,Common,250,40,40,
-2059656108,Material_T6_Water_Reptile_Leather,Water Reptile Leather,,A shiny material with an interesting texture. Any garment fashioned with this will appear very fashionable.,,"Crafting, Drying Rack",Materials,Common,250,40,40,
-2244383765,Material_T6_Fish_Bones,Fish Bones,,t6 fish bones desc,,Fisher,Materials,Common,250,40,40,
-4148439656,Material_T6_Night_Passion_Flower_above_water,Passionflower,,t6 Passionflower desc (it's pink),,"Found in the Wetlands, at night",Materials,Common,250,40,40,
-1026141130,Material_T6_PaperReed,Paper Reed,,t6 paper reed mat desc,,Near Lakes,Materials,Common,250,1,1,
-521230189,Material_T6_PalmLeaves,Palm Leaves,,t6 palm leaves mat desc,,Veilwater Basin,Materials,Common,250,40,40,
-1381084162,Material_T6_Wood_Logs_Bamboo,Bamboo Logs,,"t6 bamboo desc, use it for crafting",,Veilwater Basin,Materials,Common,250,40,40,
+2374813707,Material_T6_raw_Rice,Raw Rice,,t6 raw rice desc,,Veilwater Basin,Materials,Common,250,40,40,images/icons/2374813707.png
+397030700,Material_T6_raw_CoffeeBeans,Coffee Beans,,"Raw Coffee Beans, have to be roasted and ground for further use",,Veilwater Basin,Materials,Common,250,40,40,images/icons/397030700.png
+3373396030,Material_T6_roasted_CoffeeBeans,Roasted Coffee Beans,,"Roasted Coffee Beans, they smell very good but still need to be ground",,CoffeeDrumRoaster,Materials,Common,250,40,40,images/icons/3373396030.png
+1358181917,Material_T6_ground_CoffeeBeans,Ground Coffee Beans,,Ready to be brewed into your energizing coffee!,,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/1358181917.png
+554104227,Material_T6_Aquamarine_Dust,Aquamarine Dust,,t6 Aquamarine dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/554104227.png
+3702590848,Material_T6_Green_Vitriol_Dust,Green Vitriol Dust,,t6 green vitriol dust desc,,"Crafting, Laboratory",Materials,Common,250,40,40,images/icons/3702590848.png
+1604789280,Material_T6_Pearl,Pearl,,a gorgeous pearl,,find in T6 underwater,Materials,Common,250,40,40,images/icons/1604789280.png
+1898288525,Material_T6_MotherOfPearl,Mother-Of-Pearl,,beautiful mother-of-pearl extracted from shells,,find in T6 underwater,Materials,Common,250,40,40,images/icons/1898288525.png
+2145533653,Material_T6_Night_GleamRoot_under_water,Gleam Root,,t6 gleam root desc,,find in T6 underwater,Materials,Common,250,40,40,images/icons/2145533653.png
+3507051762,Material_T6_GleamRoot_Dust,Gleam Root Dust,,t6 gleam root dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/3507051762.png
+4230368891,Material_T6_CapybaraBristles,Capybara Bristles,,t6 Capybara Bristles desc,,Veilwater Basin,Materials,Common,250,40,40,images/icons/4230368891.png
+1060230019,Material_T6_Gold_Dust,Gold Dust,,t6 gold dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/1060230019.png
+514509650,Material_T6_Gold_Bar,Gold Bars,,t6 Gold Bar desc,,Blast Furnace,Materials,Common,250,40,40,images/icons/514509650.png
+2715107589,Material_T6_Gold_Ore,Gold Ore,,t6 Gold Ore desc,,find in T6 underwater,Materials,Common,250,40,40,images/icons/2715107589.png
+2821339070,Material_T6_Water_Reptile_Hide,Water Reptile Hide,,"The usable parts of fallen ""Water Croco""",,Veilwater Basin,Materials,Common,250,40,40,images/icons/2821339070.png
+2059656108,Material_T6_Water_Reptile_Leather,Water Reptile Leather,,A shiny material with an interesting texture. Any garment fashioned with this will appear very fashionable.,,"Crafting, Drying Rack",Materials,Common,250,40,40,images/icons/2059656108.png
+2244383765,Material_T6_Fish_Bones,Fish Bones,,t6 fish bones desc,,Fisher,Materials,Common,250,40,40,images/icons/2244383765.png
+4148439656,Material_T6_Night_Passion_Flower_above_water,Passionflower,,t6 Passionflower desc (it's pink),,"Found in the Wetlands, at night",Materials,Common,250,40,40,images/icons/4148439656.png
+1026141130,Material_T6_PaperReed,Paper Reed,,t6 paper reed mat desc,,Near Lakes,Materials,Common,250,1,1,images/icons/1026141130.png
+521230189,Material_T6_PalmLeaves,Palm Leaves,,t6 palm leaves mat desc,,Veilwater Basin,Materials,Common,250,40,40,images/icons/521230189.png
+1381084162,Material_T6_Wood_Logs_Bamboo,Bamboo Logs,,"t6 bamboo desc, use it for crafting",,Veilwater Basin,Materials,Common,250,40,40,images/icons/1381084162.png
 1803037496,Material_T6_FogTerrain_ShroudSlime,Shroud Slime,,soo slimy,,Veilwater Basin Shroud,Materials,Common,250,40,40,images/icons/1803037496.png
-2891068633,Material_T6_Fabric_Orange,Orange Fabric,,Orange dyed fabric used for clothing.,,"Crafting, Huntress",Materials,Common,250,40,40,
-1897605064,Material_T6_Daylily_Flower,Daylily Flower,,"t6 daylily flower. pretty orange flower, used for dyes",,Veilwater Basin,Materials,Common,250,40,40,
+2891068633,Material_T6_Fabric_Orange,Orange Fabric,,Orange dyed fabric used for clothing.,,"Crafting, Huntress",Materials,Common,250,40,40,images/icons/2891068633.png
+1897605064,Material_T6_Daylily_Flower,Daylily Flower,,"t6 daylily flower. pretty orange flower, used for dyes",,Veilwater Basin,Materials,Common,250,40,40,images/icons/1897605064.png
 3581489769,Material_T6_Fog_Essence03_ShroudRelic,Shroud Relic,,A higher concentration of shroud compared to shroud particles.,,"Fell Enemies, First: Veilwater Basin Shroud",Materials,Uncommon,250,40,40,images/icons/3581489769.png
 853884133,Material_T6_Fog_Core03_ShroudEminence,Shroud Eminence,,"The highest concentration of shroud energy, even higher than shroud nexus..",,"Crafting, Alchemist",Materials,Epic,250,40,40,images/icons/853884133.png
-2352305513,Material_T6_Fish_Teeth,Fish Teeth,,Fish Teeth,,Fisher,Materials,Common,250,40,40,
+2352305513,Material_T6_Fish_Teeth,Fish Teeth,,Fish Teeth,,Fisher,Materials,Common,250,40,40,images/icons/2352305513.png
 594839802,Material_T6_Overgrowth_Wisteria,Wisteria (Overgrowth Plant),,Use this material to decorate any voxel material using the ??? tool,Plants,Farmer,BuildTools,Common,1000,40,40,images/icons/594839802.png
 1521452298,Material_TX_Overgrowth_Underwater,Underwater Overgrowth,,Use this material to decorate any voxel material using the ??? tool,Plants,Farmer,BuildTools,Common,1000,40,40,images/icons/1521452298.png
 417655603,Material_T6_Fognest_Ressource,Fog Goo 06,,"A radiant whirl of energy that is needed to insert gems into weaponry. 
 
 While initially used by the Ancients, it was claimed by the Fell to fuel their brood until you freed it from its newly organic prison. ",,"Wetland Shroud, Shroud Lairs",Materials,Common,500,40,40,images/icons/417655603.png
-866649871,Material_T6_LizardScales,Drak Scales,,Drak Scales t6 desc,,"Enemies, Wetland",Materials,Common,250,40,40,
+866649871,Material_T6_LizardScales,Drak Scales,,Drak Scales t6 desc,,"Enemies, Wetland",Materials,Common,250,40,40,images/icons/866649871.png
 345631469,Material_TX_Trophy_Drak_Heavy_head,Hydrak'Dal Head,,"The severed head of a leader from the Drak'Dal tribe. You've severed this one, but in it's place two new ones will form. 
 
 Collect multiple Cyclops Heads to craft the Trophy.",,,Materials,Epic,50,0,0,
-4114143627,Material_T6_Iron_Dust,Iron Dust,,t6 Iron dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,
-4248468545,Material_T6_LizardBlood,Drak Blood,,Drak Blood t6 desc. (will be more purple-ish),,"Enemies, Wetland",Materials,Common,250,40,40,
-1887186828,Material_T6_Shroud_Sludge,Shroud Sludge,,"A very sludgy substance, but what else would you expect when mixing slime (t6 shroud slime) and jelly(t3 shroud jelly)?",,"Crafting, Alchemist",Materials,Common,250,40,40,
+4114143627,Material_T6_Iron_Dust,Iron Dust,,t6 Iron dust desc,,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/4114143627.png
+4248468545,Material_T6_LizardBlood,Drak Blood,,Drak Blood t6 desc. (will be more purple-ish),,"Enemies, Wetland",Materials,Common,250,40,40,images/icons/4248468545.png
+1887186828,Material_T6_Shroud_Sludge,Shroud Sludge,,"A very sludgy substance, but what else would you expect when mixing slime (t6 shroud slime) and jelly(t3 shroud jelly)?",,"Crafting, Alchemist",Materials,Common,250,40,40,images/icons/1887186828.png
 3895216255,Material_T5_Giant_Bones,Giant Ice Bones,,These things are bone-chilling.,,"Enemies, Albaneve Summits Hollow Halls",Materials,Uncommon,250,33,33,images/icons/3895216255.png
-2632607216,Material_T6_Poison_Sting,Poison Sting,,A poisonous sting t6 desc,,Veilwater Basin Enemies and Cinder's Cradle Crops,Materials,Common,250,40,40,
-1283252179,Material_T6_Wood_Logs_Tropical,Tropical Wood,,"Tropical wood, resource from very large/tall trees, sturdy material",,Veilwater Basin,Materials,Common,250,40,40,
+2632607216,Material_T6_Poison_Sting,Poison Sting,,A poisonous sting t6 desc,,Veilwater Basin Enemies and Cinder's Cradle Crops,Materials,Common,250,40,40,images/icons/2632607216.png
+1283252179,Material_T6_Wood_Logs_Tropical,Tropical Wood,,"Tropical wood, resource from very large/tall trees, sturdy material",,Veilwater Basin,Materials,Common,250,40,40,images/icons/1283252179.png
 3411381312,_Material_TX_Trophy_Skeleton_Heavy_Hero_head,Hollow Heavy Hero Head,,Hollow Heavy Hero head desc,,,Materials,Epic,50,0,0,
-2720721975,Material_T6_Fish_ElectricOrgan,Electric organ,,t6 electric organ description - can be used to craft some spells,,Fisher,Materials,Common,250,40,40,
+2720721975,Material_T6_Fish_ElectricOrgan,Electric organ,,t6 electric organ description - can be used to craft some spells,,Fisher,Materials,Common,250,40,40,images/icons/2720721975.png
 166917849,_Material_TX_Damaged_FurBoot_Fishing,Damaged Fur Boot,,damged fur boot - looks like a fur patch.,,Fishing,Materials,Common,500,1,1,
-545888475,Material_T6_Fish_Bone_Teeth_Dust,Piscine Ivory Dust,,"Piscine Ivory, often called the ivory of the sea, ground into a bright powder. Renowned for its strength and resilience, it can even serve as a component in metal alloys, lending them exceptional robustness.",,"Crafting, Improved Grinder",Materials,Common,250,40,40,
-148404293,Material_T5_SlurpBroth,Exceptional Ectoplasm,,t5 slurp broth desc,,"Crafting, Ectoplasm Press",Materials,Uncommon,250,35,35,
-1506592036,Material_T6_SlurpBroth,Extraordinary Ectoplasm,,t6 slurp broth desc,,"Crafting, Ectoplasm Press",Materials,Uncommon,250,40,40,
+545888475,Material_T6_Fish_Bone_Teeth_Dust,Piscine Ivory Dust,,"Piscine Ivory, often called the ivory of the sea, ground into a bright powder. Renowned for its strength and resilience, it can even serve as a component in metal alloys, lending them exceptional robustness.",,"Crafting, Improved Grinder",Materials,Common,250,40,40,images/icons/545888475.png
+148404293,Material_T5_SlurpBroth,Exceptional Ectoplasm,,t5 slurp broth desc,,"Crafting, Ectoplasm Press",Materials,Uncommon,250,35,35,images/icons/148404293.png
+1506592036,Material_T6_SlurpBroth,Extraordinary Ectoplasm,,t6 slurp broth desc,,"Crafting, Ectoplasm Press",Materials,Uncommon,250,40,40,images/icons/1506592036.png
 4005698976,Material_T6_Green_Essence,T6 Green Essence (Ectoplasm Aggregate??),,t6 green essence desc,,"Veilwater Basin, Hollow Halls",Materials,Common,500,40,40,images/icons/4005698976.png
-284304129,Material_T7_Basalt_Dust,Basalt Dust,,"Basalt dust desc, can be mixed into your farmsoil as an fertilizer",,"Crafting, Improved Grinder",Materials,Common,250,45,45,
-2035945146,Material_T7_Celesthium_Ore,Celesthium Ore,,celesthium ore desc,,Ancient Land,Materials,Common,250,45,45,
-2893592883,Material_T7_Celesthium_Bar,Celesthium Bars,,t7 Celesthium Bars desc,,Blast Furnace,Materials,Common,250,45,45,
-1725874983,Material_T7_Diamond_Dust,Diamond Dust,,diamond dust desc,,"Crafting, Improved Grinder",Materials,Common,250,45,45,
+284304129,Material_T7_Basalt_Dust,Basalt Dust,,"Basalt dust desc, can be mixed into your farmsoil as an fertilizer",,"Crafting, Improved Grinder",Materials,Common,250,45,45,images/icons/284304129.png
+2035945146,Material_T7_Celesthium_Ore,Celesthium Ore,,celesthium ore desc,,Ancient Land,Materials,Common,250,45,45,images/icons/2035945146.png
+2893592883,Material_T7_Celesthium_Bar,Celesthium Bars,,t7 Celesthium Bars desc,,Blast Furnace,Materials,Common,250,45,45,images/icons/2893592883.png
+1725874983,Material_T7_Diamond_Dust,Diamond Dust,,diamond dust desc,,"Crafting, Improved Grinder",Materials,Common,250,45,45,images/icons/1725874983.png
 4078086541,Material_T7_Moonstone_Dust,Moonstone Dust,,Moonstone Dust,,"Crafting, Improved Grinder",Materials,Common,250,45,45,
 844454296,Material_T7_Sparkling_Dust,Sparkling Dust,,Sparkling Dust,,"Crafting, Improved Grinder",Materials,Common,250,45,45,
 2135602472,Material_T7_Fognest_Ressource,Fog Goo 07 Archaic Essence VII,,"A radiant whirl of energy that is needed to insert gems into weaponry. 
 
 While initially used by the Ancients, it was claimed by the Fell to fuel their brood until you freed it from its newly organic prison. ",,"Ancient Land Shroud, Shroud Lairs",Materials,Common,500,45,45,images/icons/2135602472.png
-2141541288,Material_T7_Archaic_Shards,Archaic Shards,,"archaic shards desc, metal fragments of ancient constructs",,"Ancient Land, Ancient Guardians",Materials,Common,250,45,45,
+2141541288,Material_T7_Archaic_Shards,Archaic Shards,,"archaic shards desc, metal fragments of ancient constructs",,"Ancient Land, Ancient Guardians",Materials,Common,250,45,45,images/icons/2141541288.png
 3084703100,Material_T7_Archaic_Core,Archaic Core,,"archaic core, the thing that can be found inside of ancient guardians, what powers them",,"Ancient Land, Elite Ancient Guardians",Materials,Legendary,250,45,45,images/icons/3084703100.png
-3614911410,Material_T3_ShortcrustPastryBase,Shortcrust Pastry Base,,Perfectly crisp and buttery —a golden foundation for your sweetest baking experiments.,,Oven,Materials,Common,250,18,18,
-3975408930,Material_T1_raw_dish_GrainSkewer,Raw Meat and Corncob Skewer,,"A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will increase your <b>melee damage, boost your maximum health and accelerate your health regeneration.</b>",,Manual Crafting,Materials,Common,250,5,5,
-2335785241,Material_T1_raw_dish_MushroomSkewer,Raw Meat and Mushroom Skewer,,"This mushroom skewer will not only strength your flesh, but ylso your mind. Grilled over a fire, it will raise your <b>maximum health, maximum mana and accelerates your mana regeneration.</b>",,Manual Crafting,Materials,Common,250,5,5,
-3984646053,Material_T1_raw_dish_VegetableSkewer,Raw Meat and Tomato Skewer,,"A hunter's favorite ration, crafted for precision. After you've grilled it over a fire, it will grant you <b>more maximum health, increase your ranged and dagger damage and expand your maximum stamina.</b>",,Manual Crafting,Materials,Common,250,5,5,
+3614911410,Material_T3_ShortcrustPastryBase,Shortcrust Pastry Base,,Perfectly crisp and buttery —a golden foundation for your sweetest baking experiments.,,Oven,Materials,Common,250,18,18,images/icons/3614911410.png
+3975408930,Material_T1_raw_dish_GrainSkewer,Raw Meat and Corncob Skewer,,"A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will increase your <b>melee damage, boost your maximum health and accelerate your health regeneration.</b>",,Manual Crafting,Materials,Common,250,5,5,images/icons/3975408930.png
+2335785241,Material_T1_raw_dish_MushroomSkewer,Raw Meat and Mushroom Skewer,,"This mushroom skewer will not only strength your flesh, but ylso your mind. Grilled over a fire, it will raise your <b>maximum health, maximum mana and accelerates your mana regeneration.</b>",,Manual Crafting,Materials,Common,250,5,5,images/icons/2335785241.png
+3984646053,Material_T1_raw_dish_VegetableSkewer,Raw Meat and Tomato Skewer,,"A hunter's favorite ration, crafted for precision. After you've grilled it over a fire, it will grant you <b>more maximum health, increase your ranged and dagger damage and expand your maximum stamina.</b>",,Manual Crafting,Materials,Common,250,5,5,images/icons/3984646053.png
 1285378490,_Material_TX_Trophy_Wolf_Heavy_head,Wolf Heavy Head,,The head of the wolf heavy enemy.,,,Materials,Epic,50,0,0,
 800792662,_Material_TX_Trophy_Fell_Heavy_Berserker_head,Fell Well Heavy Head,,The head of the fell well heavy enemy,,,Materials,Epic,50,0,0,
 2573714663,Material_TX_Trophy_Skeleton_Lizard_Boss_head,Skeleton T7 Boss Head,,Skeleton T7 Boss Head des,,,Materials,Epic,50,0,0,
-234899173,Material_T7_LavaPlant_Magma_Gel,Magma Gel,,"This gel cures to an incredibly hard consistency and can therefore be used as a coating. In addition, this gel appears to be capable of generating heat internally. (wip)",,Ancient Land,Materials,Common,250,45,45,
+234899173,Material_T7_LavaPlant_Magma_Gel,Magma Gel,,"This gel cures to an incredibly hard consistency and can therefore be used as a coating. In addition, this gel appears to be capable of generating heat internally. (wip)",,Ancient Land,Materials,Common,250,45,45,images/icons/234899173.png
 2670118573,Material_T7_Ancient_Infusion,Ancient/Archaic Infusion,,this ancient infusion is created from exclusive ancient materials and holds extraterrestrial abilities(?) the ancient researcher npc can use it and create magical things with it for you.,,Magic Infusion Station,Materials,Common,250,45,45,images/icons/2670118573.png
 3553538325,Material_T7_WildBeast_Scales,Wildbeast Scales (Scorpion and maybe SandDigger),,"Wildbeast scales, ver strudy and robust, can even withstand lava",,"Enemies, Ancientland",Materials,Common,250,40,40,
 4036190833,_Material_TX_Trophy_Vorgoth_Eye_head,Vorgoth Eye,,crazy huge vorgoth corrupted eye,,,Materials,Epic,50,0,0,
@@ -313,11 +313,11 @@ While initially used by the Ancients, it was claimed by the Fell to fuel their b
 1725685196,_Material_TX_Trophy_Fell_Red_Critter_Queen_head,Red Fell Critter Queen Head,,Red Fell Critter Queen head desc,,,Materials,Epic,50,0,0,
 1353828797,_Material_TX_Trophy_Fell_Critter_Queen_head,Fell Critter Queen Head,,the head of a Fell Critter Queen description,,,Materials,Epic,50,0,0,
 1940778781,Material_T7_Vorgoth_Blood,Vorgoth Blood,,"the essence of lord vorgoth, it can be used to craft his armor",,,Materials,Common,250,45,45,
-4040557403,Material_T7_Fish_Scales,Fish Scales,,The scales are still warm when removed from the fish. They never fully cool and are popular under fire mages for obvious reasons.,,Fisher,Materials,Common,250,45,45,
-3610183331,Material_T7_Fish_Poison_Gland,Fish Poison Gland,,Potent in small doses. A staple ingredient for poison-based concoctions.,,Fisher,Materials,Common,250,45,45,
-1178468623,Material_T2_raw_dish_MushroomSkewer,Raw Meat and Azure Russula Skewer,,"This mushroom skewer will not only strength your flesh, but ylso your mind. Grilled over a fire, it will raise your <b>maximum health, maximum mana and accelerates your mana regeneration.</b>",,Manual Crafting,Materials,Common,250,10,10,
-3031557010,Material_T2_raw_dish_VegetableSkewer,Raw Meat and Forest Beet Skewer,,"A hunter's favorite ration, crafted for precision. After you've grilled it over a fire, it will grant you <b>more maximum health, increase your ranged and dagger damage and expand your maximum stamina.</b>",,Manual Crafting,Materials,Common,250,10,10,
-2630618097,Material_T2_raw_dish_GrainSkewer,Raw Meat and Hazelnut Skewer,,"A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will increase your <b>melee damage, boost your maximum health and accelerate your health regeneration.</b>",,Manual Crafting,Materials,Common,250,10,10,
+4040557403,Material_T7_Fish_Scales,Fish Scales,,The scales are still warm when removed from the fish. They never fully cool and are popular under fire mages for obvious reasons.,,Fisher,Materials,Common,250,45,45,images/icons/4040557403.png
+3610183331,Material_T7_Fish_Poison_Gland,Fish Poison Gland,,Potent in small doses. A staple ingredient for poison-based concoctions.,,Fisher,Materials,Common,250,45,45,images/icons/3610183331.png
+1178468623,Material_T2_raw_dish_MushroomSkewer,Raw Meat and Azure Russula Skewer,,"This mushroom skewer will not only strength your flesh, but ylso your mind. Grilled over a fire, it will raise your <b>maximum health, maximum mana and accelerates your mana regeneration.</b>",,Manual Crafting,Materials,Common,250,10,10,images/icons/1178468623.png
+3031557010,Material_T2_raw_dish_VegetableSkewer,Raw Meat and Forest Beet Skewer,,"A hunter's favorite ration, crafted for precision. After you've grilled it over a fire, it will grant you <b>more maximum health, increase your ranged and dagger damage and expand your maximum stamina.</b>",,Manual Crafting,Materials,Common,250,10,10,images/icons/3031557010.png
+2630618097,Material_T2_raw_dish_GrainSkewer,Raw Meat and Hazelnut Skewer,,"A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will increase your <b>melee damage, boost your maximum health and accelerate your health regeneration.</b>",,Manual Crafting,Materials,Common,250,10,10,images/icons/2630618097.png
 1182285312,NpcSummoner_Intro,Summoning Scepter,,Summons rescued souls into your bases around an Altar.,Tools,,BuildTools,Common,1,0,0,images/icons/1182285312.png
 2159713419,NPC_Townsfolk_Male_Villager_02_RamoneJones,Ramone Jones,,A helpful townsfolk that will work and live in your base.,Villager,,BuildTools,Rare,1,0,0,
 1607688361,NPC_Townsfolk_Male_Villager_01_GuntherGaleforth,Gunther Galeforth,,A helpful townsfolk that will work and live in your base.,Villager,,BuildTools,Rare,1,0,0,

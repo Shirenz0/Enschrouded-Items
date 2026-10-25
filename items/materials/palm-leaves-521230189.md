@@ -1,6 +1,6 @@
 # Palm Leaves
 
-<img src="../../images/categories/materials.svg" alt="Palm Leaves" width="160">
+<img src="../../images/icons/521230189.png" alt="Palm Leaves" width="160">
 
 | | |
 |---|---|

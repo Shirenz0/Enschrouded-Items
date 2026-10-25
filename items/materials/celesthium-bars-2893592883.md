@@ -1,6 +1,6 @@
 # Celesthium Bars
 
-<img src="../../images/categories/materials.svg" alt="Celesthium Bars" width="160">
+<img src="../../images/icons/2893592883.png" alt="Celesthium Bars" width="160">
 
 | | |
 |---|---|

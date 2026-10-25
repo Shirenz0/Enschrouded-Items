@@ -1,6 +1,6 @@
 # Gleam Root Dust
 
-<img src="../../images/categories/materials.svg" alt="Gleam Root Dust" width="160">
+<img src="../../images/icons/3507051762.png" alt="Gleam Root Dust" width="160">
 
 | | |
 |---|---|

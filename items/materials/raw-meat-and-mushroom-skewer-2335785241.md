@@ -1,6 +1,6 @@
 # Raw Meat and Mushroom Skewer
 
-<img src="../../images/categories/materials.svg" alt="Raw Meat and Mushroom Skewer" width="160">
+<img src="../../images/icons/2335785241.png" alt="Raw Meat and Mushroom Skewer" width="160">
 
 | | |
 |---|---|

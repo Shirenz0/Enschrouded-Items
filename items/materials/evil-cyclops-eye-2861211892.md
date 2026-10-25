@@ -1,6 +1,6 @@
 # Evil Cyclops Eye
 
-<img src="../../images/categories/materials.svg" alt="Evil Cyclops Eye" width="160">
+<img src="../../images/icons/2861211892.png" alt="Evil Cyclops Eye" width="160">
 
 | | |
 |---|---|

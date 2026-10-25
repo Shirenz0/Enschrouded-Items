@@ -1,6 +1,6 @@
 # Yellow Fabric
 
-<img src="../../images/categories/materials.svg" alt="Yellow Fabric" width="160">
+<img src="../../images/icons/3436629486.png" alt="Yellow Fabric" width="160">
 
 | | |
 |---|---|

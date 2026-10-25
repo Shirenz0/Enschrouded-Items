@@ -1,6 +1,6 @@
 # T3 Green essence
 
-<img src="../../images/categories/materials.svg" alt="T3 Green essence" width="160">
+<img src="../../images/icons/1453689781.png" alt="T3 Green essence" width="160">
 
 | | |
 |---|---|

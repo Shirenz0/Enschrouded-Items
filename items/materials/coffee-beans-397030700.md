@@ -1,6 +1,6 @@
 # Coffee Beans
 
-<img src="../../images/categories/materials.svg" alt="Coffee Beans" width="160">
+<img src="../../images/icons/397030700.png" alt="Coffee Beans" width="160">
 
 | | |
 |---|---|

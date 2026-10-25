@@ -1,6 +1,6 @@
 # Basalt Dust
 
-<img src="../../images/categories/materials.svg" alt="Basalt Dust" width="160">
+<img src="../../images/icons/284304129.png" alt="Basalt Dust" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Flammable Goo
 
-<img src="../../images/categories/materials.svg" alt="Flammable Goo" width="160">
+<img src="../../images/icons/887761434.png" alt="Flammable Goo" width="160">
 
 | | |
 |---|---|
