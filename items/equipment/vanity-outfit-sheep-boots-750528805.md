@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Vanity Outfit Sheep boots](../../objects/eq
 
 Vanity  Outfit Sheep  boots  Desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Feet |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

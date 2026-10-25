@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Table | 6 |
+
+## How to get it
+
+- **Carpenter**: 6 × [Bamboo Logs](../../items/materials/bamboo-logs-1381084162.md), 1 × [Nails](../../items/materials/nails-2743545700.md), 2 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

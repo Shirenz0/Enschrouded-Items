@@ -21,6 +21,10 @@ While initially used by the Ancients, it was claimed by the Fell to fuel their b
 
 Ancient Land Shroud, Shroud Lairs
 
+## Used to make
+
+[Ancient/Archaic Infusion](../../items/materials/ancient-archaic-infusion-2670118573.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

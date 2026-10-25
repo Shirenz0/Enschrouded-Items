@@ -19,6 +19,16 @@ A severed Ancient Construct: Heavy Head. Collect multiple to craft the bronze tr
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 3 |
+
+## How to get it
+
+- **Hunter**: 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Ancient Construct: Heavy Head](../../items/materials/ancient-construct-heavy-head-2477070271.md), 2 × [Nails](../../items/materials/nails-2743545700.md), 1 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

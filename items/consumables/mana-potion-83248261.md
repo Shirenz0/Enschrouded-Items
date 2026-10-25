@@ -19,6 +19,16 @@ Created with mana potent ingredient, the Mana Potion restores a good amount of M
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Mana | 80 |
+
+## How to get it
+
+- **Alchemist**: 2 × [Azure Russula](../../items/consumables/azure-russula-1304815894.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Possibly a duplicate?
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 7 × [Lime Stone](../../items/materials/lime-stone-3445636557.md), 3 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

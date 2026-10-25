@@ -17,6 +17,10 @@ A magical tool, capable of **adding and removing various types of overgrowth** t
 
 Requires to be **within the range of a Flame Altar** to work.
 
+## How to get it
+
+- **Farmer**: 2 × [Grilled Penny Bun](../../items/consumables/grilled-penny-bun-1511796527.md), 3 × [Goo](../../items/materials/goo-3403995938.md) → 1 ×
+
 ---
 
 [← Blueprints](../../categories/blueprints.md) · [All categories](../../README.md)

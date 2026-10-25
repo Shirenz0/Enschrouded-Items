@@ -19,6 +19,10 @@ T6 Lizard Temple Roof description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × T6 material limestone from shells → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

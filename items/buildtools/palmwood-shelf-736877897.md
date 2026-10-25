@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 2 × [Palmwood Logs](../../items/materials/palmwood-logs-2955233340.md), 2 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

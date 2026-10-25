@@ -19,6 +19,10 @@ It's scales glow faintly with residual heat. Better to handle with thick gloves 
 
 It can be eaten raw, but will be even more beneficial when processed further.
 
+## Used to make
+
+[Grilled Cinderscale](../../items/consumables/grilled-cinderscale-2597418482.md), [Fish Poison Gland](../../items/materials/fish-poison-gland-3610183331.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

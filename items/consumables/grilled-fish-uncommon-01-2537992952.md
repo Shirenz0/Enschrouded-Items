@@ -15,6 +15,22 @@
 
 delicious grilled fish - increases health and diving time
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 20:00 min |
+| Health | 30 |
+| Maximum Oxygen | 12 |
+
+## How to get it
+
+- **Medieval Grill**: 1 × Fish uncommon 01 name → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

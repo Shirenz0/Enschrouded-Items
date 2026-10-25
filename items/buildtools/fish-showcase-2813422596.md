@@ -19,6 +19,10 @@ Show your fishing achievements
 
 > Furniture
 
+## How to get it
+
+- **Fish Trader**: 2 × [Nails](../../items/materials/nails-2743545700.md), 2 × [Tropical Wood](../../items/materials/tropical-wood-1283252179.md), 2 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

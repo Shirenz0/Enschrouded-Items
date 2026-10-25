@@ -21,6 +21,17 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Hearth | 5 |
+| Cold Resistance | 4 |
+
+## How to get it
+
+- **Carpenter**: 3 × T5 Silver Bar, 3 × T5 Material Coal Name, 2 × T5 Steel Bar Desc → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

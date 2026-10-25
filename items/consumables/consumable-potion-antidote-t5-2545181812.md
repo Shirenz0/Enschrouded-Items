@@ -19,6 +19,10 @@ Removes all Poison effects and prevents next poisoning for an hour
 
 Crafting, Alchemist
 
+## How to get it
+
+- **Alchemist**: 1 × [Poison Sack](../../items/materials/poison-sack-1503622318.md), 3 × [Shroud Vapor](../../items/materials/shroud-vapor-579568751.md), 1 × T5 Wolfsbane, 1 × [Coal Powder](../../items/materials/coal-powder-4230023681.md) → 3 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

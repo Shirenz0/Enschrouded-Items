@@ -19,6 +19,20 @@ t5 mana potion desc
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Mana | 250 |
+
+## How to get it
+
+- **Alchemist**: 4 × [T5 Food Raw Herb Gentian](../../items/consumables/t5-food-raw-herb-gentian-3779366146.md), 1 × [Shroud Vapor](../../items/materials/shroud-vapor-579568751.md), 1 × [Moss](../../items/materials/moss-3585782303.md) → 1 ×
+
+## Used to make
+
+[Huge Mana Potion improved](../../items/consumables/huge-mana-potion-improved-3182673008.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

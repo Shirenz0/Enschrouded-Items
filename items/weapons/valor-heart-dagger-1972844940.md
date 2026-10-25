@@ -17,6 +17,31 @@ One of 7 versions of this item: see [Valor Heart Dagger](../../objects/weapons/v
 
 A dagger that can easily be hidden underneath lavish sleeves or dressy skirts. It's quick and easy to unsheath in times of need!
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Piercing |
+| Parry Power | 1 |
+| Attack Speed | 0.4 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Precise | +8 Precise |
+| 2 | Merciless | +20 Merciless |
+| 3 | Heavy | - |
+| 4 | Merciless | +20 Merciless |
+| 5 | Retaliation | A percentage of incoming damage is dealt back to the attacker |
+
+## How to get it
+
+- **Hunter**: 2 × T5 Steel Bar Desc, 5 × [Tin Bars](../../items/materials/tin-bars-1072522988.md), 5 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

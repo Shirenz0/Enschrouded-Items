@@ -19,6 +19,18 @@ a juice or nectar pressed from ancient fruits and other ingredients
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 60:00 min |
+| Stamina | 70 |
+| Health Regeneration | 12 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Ancient "Artichoke"](../../items/consumables/ancient-artichoke-426586658.md), 5 × [Ancient "Pomegranate"](../../items/consumables/ancient-pomegranate-1321928315.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

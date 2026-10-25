@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Jezmina's Yearwake Helmet](../../objects/eq
 
 Jezmina's Yearwake helmet desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

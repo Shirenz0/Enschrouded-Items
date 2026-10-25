@@ -19,6 +19,16 @@ A decorative object to design and beautify yout home.
 
 > Flooring
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Carpet | 3 |
+
+## How to get it
+
+- **Hunter**: 1 × [Dried Fur](../../items/materials/dried-fur-3420500473.md), 1 × [Leather](../../items/materials/leather-4135223598.md), 5 × [Straw](../../items/materials/straw-3921293392.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

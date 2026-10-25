@@ -19,6 +19,10 @@ Removes Hemotoxication Sickness.
 
 Manual Crafting
 
+## How to get it
+
+- **an unnamed station**: 2 × [Spider Gland](../../items/materials/spider-gland-1212327967.md), 1 × [Moth](../../items/ammunition/moth-2201448182.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

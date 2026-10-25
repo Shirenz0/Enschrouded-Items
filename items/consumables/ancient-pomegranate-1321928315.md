@@ -19,6 +19,17 @@ an ancient fruit crossbreed, reminds you of a pomegranate, but the "whsikers" ti
 
 Ancient Land
 
+## Stats
+
+| | |
+|---|---|
+| Health Regeneration | 24 |
+| Duration | 3:30 min |
+
+## Used to make
+
+[Fancy Fruit Juice](../../items/consumables/fancy-fruit-juice-1603269825.md), [Ancient Pomegranate Tarte](../../items/consumables/ancient-pomegranate-tarte-2202063914.md), [Fruit Salad](../../items/consumables/fruit-salad-270916101.md), [Ancient "Pomegranate" Seedling](../../items/buildtools/ancient-pomegranate-seedling-3166342350.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

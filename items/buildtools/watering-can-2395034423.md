@@ -23,6 +23,10 @@ It's called watering can, not watering-cannot.
 
 refill at lakes and wells
 
+## How to get it
+
+- **Blacksmith**: 4 × [Charcoal](../../items/materials/charcoal-372029138.md), 6 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 1 × [Coal Powder](../../items/materials/coal-powder-4230023681.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

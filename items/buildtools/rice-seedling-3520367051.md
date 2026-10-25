@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. This plant n
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Raw Rice](../../items/materials/raw-rice-2374813707.md), 1 × [Fertilised Farm Soil](../../items/materials/fertilised-farm-soil-260133819.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Use this to add water to your base
 
 > Tools
 
+## How to get it
+
+- **Blacksmith**: 2 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 1 × [Leather](../../items/materials/leather-4135223598.md), 4 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

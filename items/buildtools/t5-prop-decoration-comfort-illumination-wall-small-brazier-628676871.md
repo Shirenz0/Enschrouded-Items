@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 5 |
+
+## How to get it
+
+- **Carpenter**: 1 × T5 Steel Bar Desc, 2 × T5 Material Coal Name, 2 × [Flammable Goo](../../items/materials/flammable-goo-887761434.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

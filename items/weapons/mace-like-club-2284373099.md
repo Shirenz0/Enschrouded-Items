@@ -15,6 +15,26 @@
 
 Don't let the image deceive you. It might try to be a mace, but it is a primitive club after all.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Blunt |
+| Attack Speed | 0.6 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Merciless | +16 Merciless |
+| 3 | Heavy | - |
+| 4 | Merciless | +16 Merciless |
+| 5 | Merciless | +16 Merciless |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

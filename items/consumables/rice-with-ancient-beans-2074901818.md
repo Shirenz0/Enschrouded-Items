@@ -19,6 +19,18 @@ a coloful dish made of rice, beans and other vegetables
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 60:00 min |
+| Melee Damage | 24 |
+| Mana Regeneration | 12 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Cooked Rice](../../items/consumables/cooked-rice-3688068238.md), 5 × [Ancient "Beans"](../../items/consumables/ancient-beans-3317538148.md), 3 × [Bell Pepper](../../items/consumables/bell-pepper-4094316095.md), 3 × [Tomatos](../../items/consumables/tomatos-1036540037.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

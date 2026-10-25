@@ -15,6 +15,20 @@
 
 Magical ammunition that ignites a single fireball, errupting upon impact, dealing damage in a small area.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Fire |
+| Mana Cost | 157 |
+| Cast Time | 2.5 s |
+| Radius | 440 |
+
+## How to get it
+
+- **Alchemist**: 4 × T5 Material Amethyst, 5 × T5 Obsidian, 10 × [Resin](../../items/materials/resin-4109728689.md) → 20 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -19,6 +19,14 @@ T6 Shelllime Wall Block Pirate Bay description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × T6 material limestone from shells → 100 ×
+
+## Used to make
+
+[Secret Shell Limestone Door](../../items/buildtools/secret-shell-limestone-door-2541182637.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

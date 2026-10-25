@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 2 |
+
+## How to get it
+
+- **Collector**: 1 × [Krypt Krystal](../../items/materials/krypt-krystal-3953523416.md), 5 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 5 × [Resin](../../items/materials/resin-4109728689.md), 3 × [Charcoal](../../items/materials/charcoal-372029138.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

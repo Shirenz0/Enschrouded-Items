@@ -19,6 +19,18 @@ Magical Beam that leeches Mana from enemies without dealing damage to them.
 
 Manual Crafting
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Mana per second | 10 |
+| Cast Time | 0.5 s |
+
+## How to get it
+
+- **an unnamed station**: 2 × [Salt](../../items/materials/salt-1564406835.md), 2 × [Night Lily](../../items/consumables/night-lily-2433487720.md) → 1 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

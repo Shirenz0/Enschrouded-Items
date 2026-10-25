@@ -19,6 +19,10 @@ t6 shellime clay shingles description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 5 × T6 material limestone from shells → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

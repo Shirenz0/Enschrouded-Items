@@ -19,6 +19,17 @@ Restores some Health instantly and provides an additional healing over time effe
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Healing per second | 70 |
+| Health | 900 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Ancient Health Potion](../../items/consumables/ancient-health-potion-609216940.md), 1 × [Moonstone Dust](../../items/materials/moonstone-dust-4078086541.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

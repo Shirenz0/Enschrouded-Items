@@ -21,6 +21,12 @@ A cosy pillow with a Hophare design on it.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 5 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

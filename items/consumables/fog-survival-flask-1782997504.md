@@ -24,6 +24,16 @@ Extends the fog survivability after consumption by 2 Minutes. This effect will l
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Max Shroud Survivability | 120,000 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Fresh Shroud Spore](../../items/materials/fresh-shroud-spore-4090772336.md), 20 × [ActiveMycelium](../../items/materials/activemycelium-2179075323.md), 1 × [Wood Acid](../../items/materials/wood-acid-1635234852.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

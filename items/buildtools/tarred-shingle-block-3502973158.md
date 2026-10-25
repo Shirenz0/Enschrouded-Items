@@ -19,6 +19,10 @@ Tarring the Wood Logs makes them more weather resistant and perfect for roof top
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 5 × [Tar](../../items/materials/tar-1714627847.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

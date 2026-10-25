@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Skeleton armor twitch drop helmet](../../ob
 
 Skeleton armor twitch drop desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

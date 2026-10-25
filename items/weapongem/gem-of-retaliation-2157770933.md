@@ -15,6 +15,13 @@
 
 Blocking damage has a %k chance to add %k bonus blunt damage to the next attack and increases the pushback.
 
+## Stats
+
+| | |
+|---|---|
+| Trigger Chance on Blocked Hit | 33 (scales with level) |
+| Additional Weapon Blunt Damage | 15 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

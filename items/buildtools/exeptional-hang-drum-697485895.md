@@ -19,6 +19,13 @@ An epic hang drum is a hand-played steel instrument whose gentle tones spread li
 
 > Instruments
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Tool |
+| Comfort | +3 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

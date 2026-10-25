@@ -15,6 +15,13 @@
 
 Killing an enemy has a %k chance to spawn an allied level %k elite skeleton. You can only have 1 active elite skeleton from this gem at a time. Spawning more deletes the exsiting one. Elite Skeletons decay when too long out of combat.
 
+## Stats
+
+| | |
+|---|---|
+| Trigger Chance on Kill | 10 (scales with level) |
+| Skeleton Soldier Level | 1 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

@@ -15,6 +15,13 @@
 
 When your Shroudmeter is in a below %k, defeated enemies drop Fogpower Orbs that replenish %k.
 
+## Stats
+
+| | |
+|---|---|
+| Replenished Time | 20 s (scales with level) |
+| Remaining Shroud time threshold | 120,000 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

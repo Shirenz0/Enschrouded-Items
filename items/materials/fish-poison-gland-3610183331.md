@@ -19,6 +19,14 @@ Potent in small doses. A staple ingredient for poison-based concoctions.
 
 Fisher
 
+## How to get it
+
+- **Fish Trader**: 1 × [Cinderscale](../../items/consumables/cinderscale-1692397990.md), 2 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 1 ×
+
+## Used to make
+
+[T7 Eternal Acid Cone II](../../items/ammunition/t7-eternal-acid-cone-ii-1674086102.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

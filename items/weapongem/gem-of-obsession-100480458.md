@@ -15,6 +15,16 @@
 
 While the Elixir Buff is active, dealing damage grants %k health regeneration, %k stamina regeneration and %k mana regeneration for %k. After the increased regeneration runs out, regeneration of health, stamina and mana are disabled for %k.
 
+## Stats
+
+| | |
+|---|---|
+| Health Regeneration | 25 (scales with level) |
+| Mana Regeneration | 15 (scales with level) |
+| Stamina Regeneration | 10 (scales with level) |
+| Buff Duration | 3 s |
+| Debuff Duration | 10 s |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

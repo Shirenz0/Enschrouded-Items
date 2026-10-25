@@ -15,6 +15,27 @@
 
 T4 Greatsword Epic 01 desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting |
+| Parry Power | 1 |
+| Attack Speed | 0.774 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Merciless | +18 Merciless |
+| 2 |  | - |
+| 3 | Brutal | +18 Brutal |
+| 4 |  | - |
+| 5 |  | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

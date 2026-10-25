@@ -19,6 +19,10 @@ Place this Drain on the Floor and it will suck in all water, that is placed abov
 
 > Furniture
 
+## How to get it
+
+- **an unnamed station**: 1 × [Stone](../../items/materials/stone-631520303.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

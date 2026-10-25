@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Table | 3 |
+
+## How to get it
+
+- **Collector**: 8 × [Fog Wood](../../items/materials/fog-wood-1320899587.md), 4 × [Bones](../../items/materials/bones-2053375978.md), 4 × [Nails](../../items/materials/nails-2743545700.md), 1 × [Red Marble fragment](../../items/materials/red-marble-fragment-2530601241.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

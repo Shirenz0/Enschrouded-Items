@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 2 × [Nails](../../items/materials/nails-2743545700.md), 2 × T5 Steel Bar Desc, 2 × T5 Material Coal Name → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

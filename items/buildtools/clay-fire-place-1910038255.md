@@ -19,6 +19,17 @@ A fire place that can be placed in your home to provide warmth to receive the Re
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Hearth | 3 |
+| Cold Resistance | 3 |
+
+## How to get it
+
+- **Carpenter**: 4 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 4 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 10 × [Fired Brick](../../items/materials/fired-brick-1261933427.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

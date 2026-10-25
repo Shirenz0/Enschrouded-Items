@@ -19,6 +19,10 @@ Summons rescued souls into your bases around an Altar.
 
 > Tools
 
+## How to get it
+
+- **an unnamed station**: 1 × [Twig](../../items/materials/twig-1798662696.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ soo slimy
 
 Veilwater Basin Shroud
 
+## Used to make
+
+[Enormous Magic Chest](../../items/buildtools/enormous-magic-chest-30818586.md), [T6 Eternal Heal Beam Channel I](../../items/ammunition/t6-eternal-heal-beam-channel-i-1625866381.md), [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

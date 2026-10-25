@@ -19,6 +19,10 @@ Up to 3 ancient plant pots can be placed in this decorative cultivation rack.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 20 × T7 material stone, 10 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

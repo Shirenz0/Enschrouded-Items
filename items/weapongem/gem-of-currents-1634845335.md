@@ -15,6 +15,14 @@
 
 While Wet or Soaked, damaging enemies will apply Soaked to them for %k Sec. Damaging soaked enemies has a chance of %k to deal %k bonus shock damage.
 
+## Stats
+
+| | |
+|---|---|
+| Additional Weapon Shock Damage | 8 (scales with level) |
+| Debuff Duration | 6 s (scales with level) |
+| Trigger Chance on Hitting a Soaked Enemy | 33 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

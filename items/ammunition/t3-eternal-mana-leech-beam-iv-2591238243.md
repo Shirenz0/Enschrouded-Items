@@ -19,6 +19,18 @@ Magical Beam that leeches Mana from enemies without dealing damage to them.
 
 Manual Crafting
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Mana per second | 16 |
+| Cast Time | 0.5 s |
+
+## How to get it
+
+- **an unnamed station**: 4 × [Aurum Lily](../../items/materials/aurum-lily-2341333485.md), 4 × [Fossilized Bone Dust](../../items/materials/fossilized-bone-dust-3073226096.md) → 1 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -19,6 +19,18 @@ chopped cabbage leaves, mushrooms and tomatos fried in a pan
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 60:00 min |
+| Mana | 140 |
+| Magic Damage Multiplier | 24 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Shiitake Mushroom](../../items/consumables/shiitake-mushroom-3354704185.md), 5 × [Cooked Rice](../../items/consumables/cooked-rice-3688068238.md), 5 × [Ancient "Cabbage" Leaves](../../items/consumables/ancient-cabbage-leaves-1682430863.md), 3 × [Thyme](../../items/consumables/thyme-3466985705.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

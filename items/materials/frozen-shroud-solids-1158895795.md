@@ -19,6 +19,10 @@ Cold to the touch
 
 find in Albaneve Summits Shroud
 
+## Used to make
+
+[T5 Ice Bolt III](../../items/ammunition/t5-ice-bolt-iii-1533278840.md), [T5 Eternal Blizzard I](../../items/ammunition/t5-eternal-blizzard-i-4195393452.md), [Shroud Arrow II](../../items/ammunition/shroud-arrow-ii-4214162606.md), [Chanterelle Seedling](../../items/buildtools/chanterelle-seedling-1783208373.md), [Shroud Vapor](../../items/materials/shroud-vapor-579568751.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

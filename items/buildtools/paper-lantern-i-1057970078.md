@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 1 |
+
+## How to get it
+
+- **Lunar New Year Trader**: 1 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 1 × [Charcoal](../../items/materials/charcoal-372029138.md), 2 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md), 1 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md), 1 × [Candle](../../items/buildtools/candle-2939168228.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

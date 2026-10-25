@@ -15,6 +15,10 @@
 
 mix of materials, mainly stones and dirt
 
+## How to get it
+
+- **Grinding Stones**: 1 × [Rubble](../../items/materials/rubble-1257792166.md), 4 × [T2 tall trees dirt](../../items/materials/t2-tall-trees-dirt-2385754716.md), 5 × [T2 Talltree Stone](../../items/materials/t2-talltree-stone-760251531.md) → 10 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

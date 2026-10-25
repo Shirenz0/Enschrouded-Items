@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Date](../../items/consumables/date-4231900495.md), 1 × [Fine Sand](../../items/materials/fine-sand-3489782185.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

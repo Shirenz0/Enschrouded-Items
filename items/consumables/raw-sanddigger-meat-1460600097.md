@@ -19,6 +19,17 @@ Who knows what's in there... Better not eat it like this.
 
 Kindlewastes
 
+## Stats
+
+| | |
+|---|---|
+| Stamina | -50 |
+| Health | -60 |
+
+## Used to make
+
+[Meat Wrap](../../items/consumables/meat-wrap-3744591176.md), [Grilled Sanddigger](../../items/consumables/grilled-sanddigger-643297880.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

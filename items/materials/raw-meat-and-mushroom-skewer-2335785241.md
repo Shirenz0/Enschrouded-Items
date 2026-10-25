@@ -19,6 +19,14 @@ This mushroom skewer will not only strength your flesh, but ylso your mind. Gril
 
 Manual Crafting
 
+## How to get it
+
+- **an unnamed station**: 1 × [Penny Bun](../../items/consumables/penny-bun-600862405.md), 1 × [Raw Lean Meat](../../items/consumables/raw-lean-meat-1492892444.md) → 1 ×
+
+## Used to make
+
+[Meat skewer with Mushroom](../../items/consumables/meat-skewer-with-mushroom-3286272712.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

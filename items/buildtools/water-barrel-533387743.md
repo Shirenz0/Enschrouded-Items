@@ -19,6 +19,10 @@ A Barrel to store some water
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 4 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Copper Bar](../../items/materials/copper-bar-170689373.md), 1 × [Charcoal](../../items/materials/charcoal-372029138.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

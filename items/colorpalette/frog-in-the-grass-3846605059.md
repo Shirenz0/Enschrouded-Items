@@ -19,6 +19,10 @@ Toned done hues of green make you almost invisible when  you chase little frogs 
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md), 1 × T5 Material Granite, 2 × [Green Vitriol Dust](../../items/materials/green-vitriol-dust-3702590848.md), 1 × [Gleam Root Dust](../../items/materials/gleam-root-dust-3507051762.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort (Category Bed) | 2 |
+
+## How to get it
+
+- **Workbench**: 4 × [Animal Fur](../../items/materials/animal-fur-984234407.md), 4 × [String](../../items/materials/string-419344916.md), 4 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 1 × [Crude Matress](../../items/buildtools/crude-matress-3158197356.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

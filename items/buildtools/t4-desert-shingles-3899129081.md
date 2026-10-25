@@ -19,6 +19,10 @@ T4 Desert Shingles made from Copper
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 1 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 1 × [Lapislazuli](../../items/materials/lapislazuli-3044860358.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

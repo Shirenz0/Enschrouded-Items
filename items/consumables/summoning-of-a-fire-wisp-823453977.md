@@ -17,6 +17,14 @@ In the old times a popular tool to expand ones power.
 
 The Scroll summons a Fire Wisp that follows, assists you in battle and spends light.
 
+## Stats
+
+| | |
+|---|---|
+| Damage type | Fire |
+| Mana Cost | 80 |
+| Duration | 1:00 min |
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

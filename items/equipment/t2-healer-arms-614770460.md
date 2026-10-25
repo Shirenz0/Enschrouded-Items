@@ -17,6 +17,30 @@ One of 2 versions of this item: see [T2 Healer Arms](../../objects/equipment/t2-
 
 These gloves allow nimble fingers to patch up wounds when in a pinch.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Hands |
+| Armor | Physical and Magical |
+| Healing | 12 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Blunt Armor | - |
+| 2 | Cutting Armor | - |
+| 3 | +1 Healer | Increases the skill level of Healer by +1 |
+| 4 | Mana | +15 Mana |
+| 5 | +1 Quick Charge | Increases the skill level of Quick Charge by +1 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Glow Dust](../../items/materials/glow-dust-1830151622.md), 2 × [Linnen](../../items/materials/linnen-1815424180.md), 2 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md), 2 × [Fog Sack](../../items/materials/fog-sack-1728169696.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

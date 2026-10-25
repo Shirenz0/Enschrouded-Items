@@ -19,6 +19,17 @@ A big burning pile or archaic coziness.
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Hearth | 2 |
+| Cold Resistance | 4 |
+
+## How to get it
+
+- **Workbench**: 20 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 2 × [Nails](../../items/materials/nails-2743545700.md), 5 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 10 × [Charcoal](../../items/materials/charcoal-372029138.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

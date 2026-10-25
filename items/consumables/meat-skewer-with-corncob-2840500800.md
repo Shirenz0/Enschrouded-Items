@@ -19,6 +19,23 @@ With just some meat, a corncob, and a small fire, you can make this nutritious s
 
 Campfire
 
+## Stats
+
+| | |
+|---|---|
+| Health Regeneration | 3 |
+| Duration | 30:00 min |
+| Health | 30 |
+| Melee Damage | 9 |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Raw Meat and Corncob Skewer](../../items/materials/raw-meat-and-corncob-skewer-3975408930.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

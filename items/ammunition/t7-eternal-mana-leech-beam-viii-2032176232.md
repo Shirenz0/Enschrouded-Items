@@ -19,6 +19,18 @@ Magical Beam that leeches Mana from enemies without dealing damage to them.
 
 Manual Crafting
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Mana per second | 28 |
+| Cast Time | 0.5 s |
+
+## How to get it
+
+- **an unnamed station**: 8 × Moonstone, 4 × [Sparkling Dust](../../items/materials/sparkling-dust-844454296.md) → 1 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

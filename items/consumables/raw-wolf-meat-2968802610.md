@@ -19,6 +19,17 @@ Who knows what the wolf ate? Maybe cooking it could help...
 
 Springlands
 
+## Stats
+
+| | |
+|---|---|
+| Stamina | -20 |
+| Health | -30 |
+
+## Used to make
+
+[Grilled Wolf Meat](../../items/consumables/grilled-wolf-meat-3373898672.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

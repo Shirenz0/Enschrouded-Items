@@ -17,6 +17,26 @@ One of 2 versions of this item: see [Breaching Bow](../../objects/weapons/breach
 
 Breaches all - flesh, scales, borders.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ranged weapon |
+| Draw Speed | 0.6 s |
+| Arrow Speed | 20 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Brutal | +24 Brutal |
+| 3 | Heavy | - |
+| 4 | Precise | +7 Precise |
+| 5 | Heavy | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

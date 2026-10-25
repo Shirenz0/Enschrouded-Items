@@ -19,6 +19,10 @@ Place this anchor to your buildings. Requires a Grappling Hook to navigate.
 
 > Furniture
 
+## How to get it
+
+- **Blacksmith**: 3 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md), 1 × [Copper Bar](../../items/materials/copper-bar-170689373.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

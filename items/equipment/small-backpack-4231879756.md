@@ -17,6 +17,13 @@ One of 2 versions of this item: see [Small Backpack](../../objects/equipment/sma
 
 An extension to your backpack that enlarges your inventory a bit.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Backpack |
+| Slots | 8 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

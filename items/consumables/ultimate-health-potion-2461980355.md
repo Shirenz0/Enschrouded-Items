@@ -19,6 +19,17 @@ Restores some Health instantly and provides an additional healing over time effe
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Healing per second | 60 |
+| Health | 750 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Ultimate Health Potion](../../items/consumables/ultimate-health-potion-491393994.md), 1 × [Passionflower](../../items/materials/passionflower-4148439656.md), 1 × [Electric organ](../../items/materials/electric-organ-2720721975.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

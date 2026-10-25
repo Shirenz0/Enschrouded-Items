@@ -19,6 +19,18 @@ Filled with the power of life, this wrap will increase the Health of the consume
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Health | 160 |
+| Fog Survivability Extension | 150,000 |
+| Duration | 45:00 min |
+
+## How to get it
+
+- **Kitchen**: 2 × [Yucca Fruit](../../items/consumables/yucca-fruit-2008478235.md), 3 × [Night Desert Flower](../../items/materials/night-desert-flower-267668454.md), 5 × [Flat Bread](../../items/consumables/flat-bread-2160078991.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

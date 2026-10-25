@@ -23,6 +23,17 @@ Restores some Health instantly and provides an additional healing over time effe
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Health | 480 |
+| Healing per second | 40 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Revitalizing Health Potion](../../items/consumables/revitalizing-health-potion-3702644205.md), 1 × [Night Desert Flower](../../items/materials/night-desert-flower-267668454.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

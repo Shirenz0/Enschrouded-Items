@@ -19,6 +19,10 @@ The usable parts of fallen Swamp Dweller
 
 Blackmire
 
+## Used to make
+
+[Reptile Leather](../../items/materials/reptile-leather-291752398.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

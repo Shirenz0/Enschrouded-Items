@@ -15,6 +15,13 @@
 
 t6 cashew apple desc (the fruity fleshy part of the cashew fruit, can be eaten raw)
 
+## Stats
+
+| | |
+|---|---|
+| Health Regeneration | 21 |
+| Duration | 3:00 min |
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

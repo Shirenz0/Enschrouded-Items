@@ -19,6 +19,13 @@ A rare hang drum is a hand-played steel instrument whose gentle tones spread lik
 
 > Instruments
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Tool |
+| Comfort | +2 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

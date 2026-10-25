@@ -19,6 +19,19 @@ t6 slurp desc
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Health | -250 |
+| Duration | 55:00 min |
+| Life Leech Chance Against Hollow | 12 |
+| Damage against Skeletons | 21 |
+
+## How to get it
+
+- **Collector**: 5 × [Algae](../../items/consumables/algae-806123624.md), 5 × [Extraordinary Ectoplasm](../../items/materials/extraordinary-ectoplasm-1506592036.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

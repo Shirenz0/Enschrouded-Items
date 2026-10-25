@@ -19,6 +19,10 @@ reassemble lost notes to unlock recipes
 
 > Furniture
 
+## How to get it
+
+- **Alchemist**: 4 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

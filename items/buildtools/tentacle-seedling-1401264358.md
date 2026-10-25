@@ -23,6 +23,10 @@ A seedling that will soon grow into a tentacle, should it be placed into Shroud 
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Acidic Shroud](../../items/materials/acidic-shroud-409810488.md), 1 × [Shroud Adhesive](../../items/materials/shroud-adhesive-1047122195.md), 1 × [Shroud Infused Farm Soil](../../items/materials/shroud-infused-farm-soil-3234886486.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

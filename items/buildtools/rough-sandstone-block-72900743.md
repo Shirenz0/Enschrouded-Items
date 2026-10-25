@@ -19,6 +19,10 @@ A rougher version of the Refined Sandstone Block, mainly produced for quantity. 
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Sandstone](../../items/materials/sandstone-1401630464.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

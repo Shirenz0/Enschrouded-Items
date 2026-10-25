@@ -21,6 +21,16 @@ A decorative cylindrical pillow.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 5 |
+
+## How to get it
+
+- **Bard**: 1 × [Green Fabric](../../items/materials/green-fabric-2287874170.md), 5 × [Feather](../../items/materials/feather-3838906683.md), 2 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md), 1 × [String](../../items/materials/string-419344916.md), 2 × [Red Fabric](../../items/materials/red-fabric-3960097842.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

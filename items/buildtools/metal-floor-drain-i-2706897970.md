@@ -19,6 +19,10 @@ Place this Drain on the Floor and it will suck in all water, that is placed abov
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 2 × [Iron Bars](../../items/materials/iron-bars-159114158.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Glass broken into pieces offers many sharp edges used to increase the threat of 
 
 Kindlewastes
 
+## Used to make
+
+[Glass](../../items/materials/glass-2246309017.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

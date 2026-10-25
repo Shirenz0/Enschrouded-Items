@@ -21,6 +21,10 @@ A lovely pot of flowers to beautify your world.
 
 > Potted Plant
 
+## How to get it
+
+- **Farmer**: 4 × [Empty Flower Pot I](../../items/buildtools/empty-flower-pot-i-1515343684.md), 1 × [Flower Soil](../../items/materials/flower-soil-3604850591.md), 1 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 1 × [Charcoal](../../items/materials/charcoal-372029138.md) → 4 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

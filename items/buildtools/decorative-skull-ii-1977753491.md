@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Collector**: 1 × [Giant bones](../../items/materials/giant-bones-2956062198.md), 3 × [Bones](../../items/materials/bones-2053375978.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

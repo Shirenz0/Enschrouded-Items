@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Tomatos](../../items/consumables/tomatos-1036540037.md), 1 × [Farm Soil](../../items/materials/farm-soil-1823674426.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

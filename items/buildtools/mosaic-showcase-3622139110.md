@@ -19,6 +19,10 @@ Using this showcase you can reassemble a nice mosaic.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 20 × T5 Material Granite → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

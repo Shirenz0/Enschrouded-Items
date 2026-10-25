@@ -19,6 +19,16 @@ defeat boss multiple times to craft golden trophy
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 10 |
+
+## How to get it
+
+- **Hunter**: 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 4 × [Dragon Head](../../items/materials/dragon-head-707511507.md), 2 × [Nails](../../items/materials/nails-2743545700.md), 1 × [Gold Bars](../../items/materials/gold-bars-514509650.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

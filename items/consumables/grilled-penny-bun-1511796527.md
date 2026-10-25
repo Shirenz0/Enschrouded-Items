@@ -21,6 +21,21 @@ Increases the intelligence of the user upon consumption greatly.
 
 Campfire
 
+## Stats
+
+| | |
+|---|---|
+| Magic Damage Multiplier | 6 |
+| Duration | 20:00 min |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Penny Bun](../../items/consumables/penny-bun-600862405.md) → 1 ×
+
+## Used to make
+
+[Overgrowth Tool](../../items/blueprints/overgrowth-tool-3196782416.md), [Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

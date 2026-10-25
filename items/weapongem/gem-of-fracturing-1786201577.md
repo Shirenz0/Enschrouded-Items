@@ -15,6 +15,14 @@
 
 Killing an enemy with blunt damage has a  %k chance to create homing bone shards that deal %k blunt damage, with a chance of spawning up to 4 projectiles.
 
+## Stats
+
+| | |
+|---|---|
+| Trigger Chance on Kill | 33 (scales with level) |
+| Blunt Projectile Damage | 8 (scales with level) |
+| Chance for additional projectiles | 50 |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

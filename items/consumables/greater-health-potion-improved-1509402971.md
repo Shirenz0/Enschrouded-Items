@@ -23,6 +23,17 @@ Restores some Health instantly and provides an additional healing over time effe
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Healing per second | 20 |
+| Health | 240 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Greater Health Potion](../../items/consumables/greater-health-potion-3102924359.md), 1 × [Night Berry](../../items/consumables/night-berry-3173308572.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

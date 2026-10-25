@@ -19,6 +19,10 @@ celesthium ore desc
 
 Ancient Land
 
+## Used to make
+
+[Ancient Enegry Block](../../items/buildtools/ancient-enegry-block-2130648477.md), [Sparkling Dust](../../items/materials/sparkling-dust-844454296.md), [Celesthium Bars](../../items/materials/celesthium-bars-2893592883.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

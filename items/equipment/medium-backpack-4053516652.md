@@ -17,6 +17,13 @@ One of 2 versions of this item: see [Medium Backpack](../../objects/equipment/me
 
 An extension to your backpack that increases your inventory by a measurable amount.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Backpack |
+| Slots | 16 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

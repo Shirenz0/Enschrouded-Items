@@ -19,6 +19,14 @@ A dangerous alchemical substance used to produce explosives. Better watch out! I
 
 Crafting, Laboratory
 
+## How to get it
+
+- **Laboratory**: 7 × [Nitrate](../../items/materials/nitrate-2206878080.md), 1 × [Sulfur](../../items/materials/sulfur-2819734894.md), 2 × [Coal Powder](../../items/materials/coal-powder-4230023681.md) → 1 ×
+
+## Used to make
+
+[Exploding Arrow IV](../../items/ammunition/exploding-arrow-iv-4160116201.md), [Exploding Arrow III](../../items/ammunition/exploding-arrow-iii-3342011345.md), [Exploding Arrow II](../../items/ammunition/exploding-arrow-ii-1038927419.md), [Explosive Powder Grenade](../../items/weapons/explosive-powder-grenade-1614998716.md), [Explosive Barrel](../../items/buildtools/explosive-barrel-3462191401.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

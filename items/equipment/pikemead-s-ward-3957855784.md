@@ -17,6 +17,30 @@ One of 8 versions of this item: see [Pikemead's Ward](../../objects/equipment/pi
 
 Even in death, the queen's shield unites those who seek protection behind it.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Shield |
+| Parry Power | 1 |
+| Fog Resistance | 5 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | +1 Purification | Increases the skill level of Purification by +1 |
+| 2 | +1 Shroud Filter | Increases the skill level of Shroud Filter by +1 |
+| 3 | +1 Survival Instinct | Increases the skill level of Survival Instinct |
+| 4 | Cut Resistance | +5 Cut Resistance |
+| 5 | Fog Resistance | +5 Fog Resistance |
+
+## How to get it
+
+- **Blacksmith**: 3 × [Shroud Eminence](../../items/materials/shroud-eminence-853884133.md), 3 × T5 Steel Bar Desc, 7 × [Aquamarine Dust](../../items/materials/aquamarine-dust-554104227.md), 1 × [Gold Bars](../../items/materials/gold-bars-514509650.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

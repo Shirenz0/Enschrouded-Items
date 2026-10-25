@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Throne | 8 |
+
+## How to get it
+
+- **Carpenter**: 10 × T5 Material Granite, 2 × T5 Silver Bar, 1 × [Charcoal](../../items/materials/charcoal-372029138.md), 4 × T5 Obsidian, 4 × T5 Material Amethyst, 1 × [Padding](../../items/materials/padding-1711247619.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

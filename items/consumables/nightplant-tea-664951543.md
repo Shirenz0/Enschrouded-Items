@@ -19,6 +19,18 @@ A strong, herbal tea. It increases your endurance and dexterity. The added genti
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Damage against Fogger | 15 |
+| Duration | 50:00 min |
+| Fog Survivability Extension | 180,000 |
+
+## How to get it
+
+- **Kitchen**: 3 × [Night pink gentian](../../items/materials/night-pink-gentian-3548539501.md), 3 × [Shadow Rose](../../items/materials/shadow-rose-310580024.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Drak Scales t6 desc
 
 Enemies, Wetland
 
+## Used to make
+
+[Amphibian Blood Flask](../../items/consumables/amphibian-blood-flask-2342880136.md), [Riptide](../../items/equipment/riptide-1474807415.md), [Drak Stone Totem I](../../items/buildtools/drak-stone-totem-i-674281730.md), [Drak Stone Totem II](../../items/buildtools/drak-stone-totem-ii-1734846827.md), [Drak Stone Totem III](../../items/buildtools/drak-stone-totem-iii-174600513.md), [Drak Stone Totem IV](../../items/buildtools/drak-stone-totem-iv-3045071835.md), [Drak Stone Totem V](../../items/buildtools/drak-stone-totem-v-778201792.md), [Drak Wood Totem I](../../items/buildtools/drak-wood-totem-i-3456819812.md), [Drak Wood Totem II](../../items/buildtools/drak-wood-totem-ii-2892618521.md), [Drak Wood Totem III](../../items/buildtools/drak-wood-totem-iii-1874208947.md), [Drak Wood Totem IV](../../items/buildtools/drak-wood-totem-iv-2468542740.md), [Drak Wood Totem V](../../items/buildtools/drak-wood-totem-v-1898842260.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

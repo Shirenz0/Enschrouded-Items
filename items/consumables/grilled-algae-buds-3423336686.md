@@ -19,6 +19,21 @@ These grilled  algae buds can be sprinkeld upon your food to make it taste even 
 
 Seafood Grill
 
+## Stats
+
+| | |
+|---|---|
+| Mana | 140 |
+| Duration | 50:00 min |
+
+## How to get it
+
+- **Medieval Grill**: 1 × [Algae Buds](../../items/consumables/algae-buds-2448218322.md) → 1 ×
+
+## Used to make
+
+[Grilled Fish with Coconut Rice](../../items/consumables/grilled-fish-with-coconut-rice-4166256477.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -23,6 +23,10 @@ Tools and an absolute must have for every craftsman working with stone.
 
 Blacksmith
 
+## How to get it
+
+- **Blacksmith**: 6 × [Charcoal](../../items/materials/charcoal-372029138.md), 6 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

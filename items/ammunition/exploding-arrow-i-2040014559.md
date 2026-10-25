@@ -19,6 +19,17 @@ An arrow that delivers an explosive surprise.
 
 Crafting, Huntress
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Fire |
+
+## How to get it
+
+- **Hunter**: 25 × [Flint Arrow](../../items/ammunition/flint-arrow-1422216404.md), 10 × [Tar](../../items/materials/tar-1714627847.md), 5 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md) → 25 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

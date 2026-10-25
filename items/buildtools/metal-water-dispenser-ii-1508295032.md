@@ -19,6 +19,10 @@ This item allows you to create water. Place it wherever you like, and it will sp
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 8 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

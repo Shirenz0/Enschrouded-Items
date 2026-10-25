@@ -15,6 +15,10 @@
 
 Used to add and edit logic graphs.
 
+## How to get it
+
+- **Logic System Workbench**: 1 × [Copper Bar](../../items/materials/copper-bar-170689373.md), 1 × one of: [Fog Goo 01](../../items/materials/fog-goo-01-1782638906.md) / [Fog Goo 02](../../items/materials/fog-goo-02-1323406480.md) / [Fog Goo 03](../../items/materials/fog-goo-03-3928746815.md) / [Fog Goo 04](../../items/materials/fog-goo-04-3561488499.md) / … (7 options) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,14 @@ A block made out of rocks extracted from the ground, roughly cut to the right si
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 8 × [Stone](../../items/materials/stone-631520303.md), 2 × [Rubble](../../items/materials/rubble-1257792166.md) → 100 ×
+
+## Used to make
+
+[Basement Wall Secret](../../items/buildtools/basement-wall-secret-2310562016.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

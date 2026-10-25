@@ -23,6 +23,10 @@ A seedling that will soon grow into a plant, should it be placed into the right 
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Fine Sand](../../items/materials/fine-sand-3489782185.md), 1 × [Twig](../../items/materials/twig-1798662696.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

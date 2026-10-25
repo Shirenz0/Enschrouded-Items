@@ -15,6 +15,10 @@
 
 This trap door might open unexpectedly beneath your feet. Watch your step!
 
+## How to get it
+
+- **Logic System Workbench**: 4 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

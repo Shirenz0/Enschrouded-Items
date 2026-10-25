@@ -17,6 +17,14 @@ One of 2 versions of this item: see [Incendiary Ball](../../objects/weapons/ince
 
 This ball contains a highly flamable liquid, which will cover an area in fire.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Fire |
+| Throw Interval | 1,000 |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

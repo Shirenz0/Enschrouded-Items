@@ -15,6 +15,12 @@
 
 Warrior Supporter helmet description
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

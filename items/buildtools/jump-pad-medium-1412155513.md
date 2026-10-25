@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 10 × [Hardwood](../../items/materials/hardwood-1765656585.md), 10 × [Linnen](../../items/materials/linnen-1815424180.md), 3 × [Leather](../../items/materials/leather-4135223598.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

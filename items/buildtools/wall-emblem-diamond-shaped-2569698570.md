@@ -19,6 +19,12 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 4 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

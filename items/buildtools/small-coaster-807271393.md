@@ -19,6 +19,10 @@ A wooden plate to display foods and drinks on a table.
 
 > Furniture
 
+## How to get it
+
+- **Farmer**: 1 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

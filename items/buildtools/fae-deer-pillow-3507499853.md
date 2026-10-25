@@ -21,6 +21,12 @@ A decorative pillow that's been adorned with a Fae Deer motiv. It seems to be ru
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 5 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Farmer**: 3 × [Fog Wood](../../items/materials/fog-wood-1320899587.md), 3 × [Fire Fly](../../items/ammunition/fire-fly-1014899877.md), 3 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

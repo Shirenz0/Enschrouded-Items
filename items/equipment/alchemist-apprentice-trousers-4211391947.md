@@ -17,6 +17,26 @@ One of 2 versions of this item: see [Alchemist Apprentice Trousers](../../object
 
 Comfortable trousers for long walks.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+| Armor | Physical and Magical |
+| Mana | 9 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Piercing Armor | - |
+| 2 | Piercing Armor | - |
+| 3 | +1 Blood Letting | Increases the skill level of Blood Letting by +1 |
+| 4 | Mana | +10 Mana |
+| 5 | +1 Terror | Increases the skill level of Terror by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 2 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md), 1 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -15,6 +15,14 @@
 
 Philipp_Buoyancy_Platform
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Fire |
+| Throw Interval | 1,000 |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

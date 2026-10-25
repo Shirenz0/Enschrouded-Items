@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Jezmina's Yearwake Gloves](../../objects/eq
 
 Jezmina's Yearwake gloves desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Hands |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

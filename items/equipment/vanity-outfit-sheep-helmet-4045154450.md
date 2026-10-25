@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Vanity Outfit Sheep helmet](../../objects/e
 
 Vanity  Outfit Sheep  helmet   Desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

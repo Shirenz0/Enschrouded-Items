@@ -21,6 +21,10 @@ A reconstructed map, consisting of 4 former map pieces. There's writing on the b
 
 > Treasure Map
 
+## How to get it
+
+- **an unnamed station**: 1 × [Mae's Memoir](../../items/collectibles/mae-s-memoir-4205594126.md), 1 × [Polaris' Memoir](../../items/collectibles/polaris-memoir-2984997237.md), 1 × [Orpheus' Memoir](../../items/collectibles/orpheus-memoir-4027517982.md), 1 × [Ony's Memoir](../../items/collectibles/ony-s-memoir-1852126112.md) → 1 ×
+
 ---
 
 [← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)

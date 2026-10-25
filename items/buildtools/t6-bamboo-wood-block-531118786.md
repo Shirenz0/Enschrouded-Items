@@ -19,6 +19,10 @@ T6 Bamboo Wood Block description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Bamboo Logs](../../items/materials/bamboo-logs-1381084162.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

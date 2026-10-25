@@ -21,6 +21,12 @@ A comfortable pillow with a bird motiv. The bird may not fly, but it looks styli
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 5 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

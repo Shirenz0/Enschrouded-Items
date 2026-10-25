@@ -15,6 +15,10 @@
 
 An ingredient used in crafting recipes.
 
+## Used to make
+
+[Desert Flower Seedling](../../items/buildtools/desert-flower-seedling-2024314426.md), [Spice](../../items/materials/spice-1126086984.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

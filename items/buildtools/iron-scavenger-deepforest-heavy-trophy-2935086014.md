@@ -19,6 +19,12 @@ A severed Scavenger Deepforest Heavy Head. Collect multiple to craft the iron tr
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 5 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

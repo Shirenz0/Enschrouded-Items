@@ -15,6 +15,10 @@
 
 Red Fell Critter Queen head desc
 
+## Used to make
+
+[Gold Red Fell Critter Queen Trophy](../../items/buildtools/gold-red-fell-critter-queen-trophy-3854402069.md), [Iron Red Fell Critter Queen Trophy](../../items/buildtools/iron-red-fell-critter-queen-trophy-1790649468.md), [Bronze Red Fell Critter Queen Trophy](../../items/buildtools/bronze-red-fell-critter-queen-trophy-332453501.md), [Red Fell Critter Queen Head](../../items/buildtools/red-fell-critter-queen-head-3199036832.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

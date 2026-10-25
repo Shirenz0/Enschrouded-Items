@@ -21,6 +21,20 @@ t7 health potion desc
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Health | 1,500 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Honey](../../items/consumables/honey-227143323.md), 1 × [Thyme](../../items/consumables/thyme-3466985705.md), 1 × [Chamomile](../../items/materials/chamomile-3478847834.md), 1 × [Diamond Dust](../../items/materials/diamond-dust-1725874983.md) → 1 ×
+
+## Used to make
+
+[Ancient Health Potion +](../../items/consumables/ancient-health-potion-677177092.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

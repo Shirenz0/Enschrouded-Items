@@ -19,6 +19,10 @@ A richly decorated festive looking tree
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 1 × [Tree Seedling](../../items/buildtools/tree-seedling-688553119.md), 3 × [Candle](../../items/buildtools/candle-2939168228.md), 3 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Ancient Dungeon Rubble Block description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [T7 material Ancient Land granite stone](../../items/materials/t7-material-ancient-land-granite-stone-2851443310.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

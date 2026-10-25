@@ -15,6 +15,19 @@
 
 Magical ammunition that releases a healing wave, which jumps to nearby allies.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Healing |
+| Mana Cost | 58 |
+| Cast Time | 1 s |
+
+## How to get it
+
+- **Alchemist**: 4 × [Fossilized Bone Dust](../../items/materials/fossilized-bone-dust-3073226096.md), 5 × [T5 Food Raw Herb Gentian](../../items/consumables/t5-food-raw-herb-gentian-3779366146.md), 1 × [Chamomile](../../items/materials/chamomile-3478847834.md) → 20 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -23,6 +23,11 @@ Offers a great amount of storage space to store items. The items stored here can
 
 Carpenter
 
+## How to get it
+
+- **Carpenter**: 24 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 1 × [Shroud Eminence](../../items/materials/shroud-eminence-853884133.md), 15 × [Shroud Slime](../../items/materials/shroud-slime-1803037496.md), 2 × [Gold Bars](../../items/materials/gold-bars-514509650.md) → 1 ×
+- **an unnamed station**: 12 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 7 × [Shroud Slime](../../items/materials/shroud-slime-1803037496.md), 1 × [Gold Bars](../../items/materials/gold-bars-514509650.md), 1 × [Shroud Eminence](../../items/materials/shroud-eminence-853884133.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

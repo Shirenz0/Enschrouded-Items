@@ -19,6 +19,23 @@ freshly brewed thyme tea
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 60:00 min |
+| Mana Regeneration | 16 |
+| Stamina | 70 |
+| Cold Resistance | 4 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Thyme](../../items/consumables/thyme-3466985705.md), 3 × [Honey](../../items/consumables/honey-227143323.md) → 5 ×
+
+## Used to make
+
+[T7 Heal Channel II](../../items/ammunition/t7-heal-channel-ii-1958601376.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

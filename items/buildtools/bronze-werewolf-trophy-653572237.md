@@ -19,6 +19,16 @@ A severed Werewolf Head. Collect multiple to craft the bronze trophy
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 3 |
+
+## How to get it
+
+- **Hunter**: 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Wolf Heavy Head](../../items/materials/wolf-heavy-head-1285378490.md), 2 × [Nails](../../items/materials/nails-2743545700.md), 1 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

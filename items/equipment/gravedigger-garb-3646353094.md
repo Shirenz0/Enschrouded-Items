@@ -15,6 +15,16 @@
 
 These clothes smell of decay.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+
+## How to get it
+
+- **Lunar New Year Trader**: 5 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ collect all pieces relief pieces to complete this showcase. it resembles the ori
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 20 × T6 material limestone from shells, 10 × [Gold Ore](../../items/materials/gold-ore-2715107589.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

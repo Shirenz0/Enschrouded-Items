@@ -23,6 +23,10 @@ A heap of wood covered with soil, able to produce Charcoal over time.
 
 Blacksmith
 
+## How to get it
+
+- **Blacksmith**: 20 × [Stone](../../items/materials/stone-631520303.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

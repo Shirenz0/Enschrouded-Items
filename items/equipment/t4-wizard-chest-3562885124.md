@@ -15,6 +15,27 @@
 
 The inner lining of this coat follows the direction of the body's veins, allowing for easier magic channeling.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+| Armor | Physical and Magical |
+| Health | 240 |
+| One-Handed Melee | 6 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Cutting Armor | - |
+| 2 | Fog Armor | - |
+| 3 | +1 Heavy Plates | Increases the skill level of Heavy Plates by +1 |
+| 4 | Health | +80 Health |
+| 5 | +1 Veteran | Increases the skill level of Veteran by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

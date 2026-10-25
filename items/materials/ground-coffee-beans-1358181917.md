@@ -19,6 +19,14 @@ Ready to be brewed into your energizing coffee!
 
 Crafting, Improved Grinder
 
+## How to get it
+
+- **improved grinder; water wheel grinder)**: 5 × [Roasted Coffee Beans](../../items/materials/roasted-coffee-beans-3373396030.md), 3 × [T6 Wetlands Sand](../../items/materials/t6-wetlands-sand-2181045178.md) → 5 ×
+
+## Used to make
+
+[Black Coffee](../../items/consumables/black-coffee-4208954912.md), [Latte/Milk coffee](../../items/consumables/latte-milk-coffee-2652246715.md), [Mokka](../../items/consumables/mokka-623430551.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

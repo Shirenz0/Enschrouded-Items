@@ -23,6 +23,16 @@ A potion that allows you to read drak lore. Also it does some other stuff, but c
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Damage against Drak | 10 |
+
+## How to get it
+
+- **Alchemist**: 10 × [Drak Scales](../../items/materials/drak-scales-866649871.md), 10 × Drak Teeth, 10 × Drak Claws, 10 × [Drak Blood](../../items/materials/drak-blood-4248468545.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

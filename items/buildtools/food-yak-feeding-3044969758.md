@@ -19,6 +19,10 @@ food yak feeding description
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 1 × [Yucca Fruit](../../items/consumables/yucca-fruit-2008478235.md), 3 × [Corncob](../../items/consumables/corncob-3118804138.md), 1 × [Dried Red Berry](../../items/consumables/dried-red-berry-2824141465.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

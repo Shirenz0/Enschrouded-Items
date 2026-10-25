@@ -15,6 +15,10 @@
 
 Use this material to build roads in the mountains.
 
+## How to get it
+
+- **Workbench**: 10 × T5 Material Granite → 10 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

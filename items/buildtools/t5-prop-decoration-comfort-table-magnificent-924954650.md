@@ -19,6 +19,16 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Table | 7 |
+
+## How to get it
+
+- **Carpenter**: 15 × T5 Material Granite, 1 × T5 Silver Bar, 1 × [Charcoal](../../items/materials/charcoal-372029138.md), 5 × T5 Material Amethyst, 5 × T5 Obsidian, 5 × [Lapislazuli](../../items/materials/lapislazuli-3044860358.md), 5 × [Amber](../../items/materials/amber-1862351329.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Vanity Outfit Sheep chest](../../objects/eq
 
 Vanity  Outfit Sheep  chest  Desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

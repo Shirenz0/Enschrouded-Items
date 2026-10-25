@@ -19,6 +19,10 @@ A nice figure made from snow
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 4 × T5 Snow, 1 × [Forest Beet](../../items/consumables/forest-beet-3542827745.md), 3 × T5 Material Coal Name → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

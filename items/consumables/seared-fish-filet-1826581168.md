@@ -19,6 +19,22 @@ seared on the grill to perfection, enjoy this exquisite piece of fish filet
 
 Seafood Grill
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 55:00 min |
+| Maximum Oxygen | 20 |
+| Health | 70 |
+
+## How to get it
+
+- **Medieval Grill**: 1 × [Fish Filet](../../items/consumables/fish-filet-576061222.md) → 1 ×
+
+## Used to make
+
+[Grilled Fish with Coconut Rice](../../items/consumables/grilled-fish-with-coconut-rice-4166256477.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

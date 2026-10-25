@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 9 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 2 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -23,6 +23,18 @@ A throwable explosive with astounding power!
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Fire |
+| Throw Interval | 1,000 |
+
+## How to get it
+
+- **Alchemist**: 3 × [Linnen](../../items/materials/linnen-1815424180.md), 3 × [Explosive Powder Ball](../../items/weapons/explosive-powder-ball-2283229289.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

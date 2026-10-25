@@ -19,6 +19,23 @@ With just some meat, a hazelnut, and a small fire, you can make this nutritious 
 
 Campfire
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 35:00 min |
+| Health Regeneration | 6 |
+| Health | 40 |
+| Melee Damage | 12 |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Raw Meat and Hazelnut Skewer](../../items/materials/raw-meat-and-hazelnut-skewer-2630618097.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

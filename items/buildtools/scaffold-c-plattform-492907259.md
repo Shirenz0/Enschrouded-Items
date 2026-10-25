@@ -19,6 +19,10 @@ A Scaffold that helps you to reach higher points while building your Base.
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 1 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

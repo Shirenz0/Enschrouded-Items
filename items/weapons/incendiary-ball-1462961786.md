@@ -21,6 +21,18 @@ This ball contains a highly flamable liquid, which will cover an area in fire.
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Fire |
+| Throw Interval | 1,000 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Flammable Goo](../../items/materials/flammable-goo-887761434.md), 1 × [Glass](../../items/materials/glass-2246309017.md), 1 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

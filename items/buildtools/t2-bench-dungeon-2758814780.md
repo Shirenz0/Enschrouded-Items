@@ -21,6 +21,12 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Bench | 3 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

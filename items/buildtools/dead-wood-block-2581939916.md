@@ -19,6 +19,10 @@ A wood block made from trees that died a long time ago. They are extremely commo
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 2 × [Fog Wood](../../items/materials/fog-wood-1320899587.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

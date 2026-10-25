@@ -19,6 +19,12 @@ Changes the sound ambience around it
 
 > Ambience Attractor
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 2 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

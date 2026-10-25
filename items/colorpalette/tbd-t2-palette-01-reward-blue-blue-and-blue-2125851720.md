@@ -19,6 +19,10 @@ tbd Different shades of Blue
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Goo](../../items/materials/goo-3403995938.md), 2 × [Fog Essence](../../items/materials/fog-essence-2559861108.md), 2 × [Mycelium](../../items/materials/mycelium-3509012331.md), 1 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

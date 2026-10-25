@@ -21,6 +21,10 @@ A classic building block used in the Kindlewastes. It was refined by mixing in s
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Sandstone](../../items/materials/sandstone-1401630464.md), 5 × [Lime Stone](../../items/materials/lime-stone-3445636557.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

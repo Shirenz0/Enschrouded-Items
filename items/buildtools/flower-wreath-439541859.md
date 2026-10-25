@@ -21,6 +21,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Farmer**: 1 × [Straw](../../items/materials/straw-3921293392.md), 1 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md), 1 × [St. John's Wort](../../items/consumables/st-john-s-wort-4180130855.md), 1 × [Chamomile](../../items/materials/chamomile-3478847834.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

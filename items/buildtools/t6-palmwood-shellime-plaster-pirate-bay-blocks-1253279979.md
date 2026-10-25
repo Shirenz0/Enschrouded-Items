@@ -19,6 +19,10 @@ T6 Palmwood and shellime plaster Pirate Bay Blocks description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Tropical Wood](../../items/materials/tropical-wood-1283252179.md), 5 × T6 material limestone from shells → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

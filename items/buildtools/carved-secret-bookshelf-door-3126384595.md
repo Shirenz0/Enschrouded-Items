@@ -21,6 +21,10 @@ A secret you can install in your base.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 5 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md), 1 × [Carved Wooden Cabinet](../../items/buildtools/carved-wooden-cabinet-3843129052.md), 10 × [String](../../items/materials/string-419344916.md), 50 × [Paper](../../items/materials/paper-287018928.md), 15 × [Leather](../../items/materials/leather-4135223598.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -17,6 +17,26 @@ One of 2 versions of this item: see [Alchemist Apprentice Gloves](../../objects/
 
 Starting out on the path of being an alchemist apprentice, these gloves will make your life a little more comfortable.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Hands |
+| Armor | Physical and Magical |
+| Magic Damage Multiplier | 2 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Blunt Armor | - |
+| 2 | Cutting Armor | - |
+| 3 | +1 Quick Charge | Increases the skill level of Quick Charge by +1 |
+| 4 | Mana | +10 Mana |
+| 5 | +1 Arsonist | Increases the skill level of Arsonist by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -17,6 +17,27 @@ One of 2 versions of this item: see [T4 Sniper Chest](../../objects/equipment/t4
 
 You won't leave yourself open to damage with this piece of chest armor.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+| Armor | Physical and Magical |
+| Stamina | 48 |
+| Skillshot Damage | 9 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Blunt Armor | - |
+| 2 | Piercing Armor | - |
+| 3 | +1 Ranger | Increases the skill level of Ranger by +1 |
+| 4 | Stamina | +20 Stamina |
+| 5 | +1 Fatal Precision | Increases the skill level of Fatal Precision by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -19,6 +19,17 @@ A wonderfully inviting fireplace made from red bricks.
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Hearth | 4 |
+| Cold Resistance | 3 |
+
+## How to get it
+
+- **Carpenter**: 5 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 20 × [Fired Brick](../../items/materials/fired-brick-1261933427.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

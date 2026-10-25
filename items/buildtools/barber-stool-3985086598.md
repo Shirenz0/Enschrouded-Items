@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Stool | 2 |
+
+## How to get it
+
+- **Carpenter**: 3 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md), 1 × [Dried Fur](../../items/materials/dried-fur-3420500473.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

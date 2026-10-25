@@ -23,6 +23,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 4 |
+
+## How to get it
+
+- **Carpenter**: 1 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 2 × [Charcoal](../../items/materials/charcoal-372029138.md), 3 × [Candle](../../items/buildtools/candle-2939168228.md) → 3 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

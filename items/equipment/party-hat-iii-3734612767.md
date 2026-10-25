@@ -15,6 +15,16 @@
 
 Party Hat Desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+
+## How to get it
+
+- **Bard**: 1 × [String](../../items/materials/string-419344916.md), 1 × [Red Fabric](../../items/materials/red-fabric-3960097842.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

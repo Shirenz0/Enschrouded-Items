@@ -19,6 +19,14 @@ Roasted Coffee Beans, they smell very good but still need to be ground
 
 CoffeeDrumRoaster
 
+## How to get it
+
+- **Roaster**: 10 × [Coffee Beans](../../items/materials/coffee-beans-397030700.md), 2 × [Palmwood Logs](../../items/materials/palmwood-logs-2955233340.md) → 10 ×
+
+## Used to make
+
+[Ground Coffee Beans](../../items/materials/ground-coffee-beans-1358181917.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Made from polished Marble
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 9 × [Red Marble fragment](../../items/materials/red-marble-fragment-2530601241.md), 1 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

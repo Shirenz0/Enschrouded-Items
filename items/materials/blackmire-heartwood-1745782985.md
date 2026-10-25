@@ -15,6 +15,10 @@
 
 The century old wood found beyond the bark of the Blackmire trees.
 
+## Used to make
+
+[Talltree Table Large](../../items/buildtools/talltree-table-large-3646522155.md), [Talltree Table Medium](../../items/buildtools/talltree-table-medium-646677194.md), [Talltree Table Small](../../items/buildtools/talltree-table-small-366247640.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

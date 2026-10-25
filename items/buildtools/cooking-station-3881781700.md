@@ -23,6 +23,10 @@ The advanced setup for a cook to do culinary magic.
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 4 × [Flintstone](../../items/materials/flintstone-1586398842.md), 1 × [Kettle](../../items/buildtools/kettle-4218685557.md), 10 × [Deepforest Stone](../../items/materials/deepforest-stone-1181280513.md), 2 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

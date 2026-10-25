@@ -23,6 +23,16 @@ Your stamina depletes slower thanks to this flask
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Stamina Depletion Swim Sprinting | -20 |
+
+## How to get it
+
+- **Alchemist**: 10 × [Algae](../../items/consumables/algae-806123624.md), 10 × [Algae Buds](../../items/consumables/algae-buds-2448218322.md), 10 × [Mother-Of-Pearl](../../items/materials/mother-of-pearl-1898288525.md), 1 × [Pearl](../../items/materials/pearl-1604789280.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

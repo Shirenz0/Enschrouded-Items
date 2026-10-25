@@ -15,6 +15,31 @@
 
 A spellstone imbued with the power of the T3 Light Burst spell. Are you in need of a flashlight? Without the use of ammunition, the user is able to infintely flash his surrounding with a bright burst of light, pushing back enemies.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Fire |
+| Mana Cost | 18 |
+| Cast Time | 0.5 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Mana_Cost_Mod | +-4 Mana_Cost_Mod |
+| 2 | Charge_Duration_Mod | +-4 Charge_Duration_Mod |
+| 3 | Mana_Cost_Mod | +-5 Mana_Cost_Mod |
+| 4 | Charge_Duration_Mod | +-5 Charge_Duration_Mod |
+| 5 | Mana_Cost_Mod | +-5 Mana_Cost_Mod |
+
+## How to get it
+
+- **Alchemist**: 5 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 10 × [Charcoal](../../items/materials/charcoal-372029138.md), 30 × [Sulfur](../../items/materials/sulfur-2819734894.md), 20 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 1 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -19,6 +19,21 @@ An arrow amplified with a tip made out of copper.
 
 Crafting, Huntress
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Piercing |
+
+## How to get it
+
+- **Hunter**: 10 × [Twig](../../items/materials/twig-1798662696.md), 2 × [Copper Bar](../../items/materials/copper-bar-170689373.md) → 50 ×
+
+## Used to make
+
+[Copper Poison Arrow](../../items/ammunition/copper-poison-arrow-2919301642.md)
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

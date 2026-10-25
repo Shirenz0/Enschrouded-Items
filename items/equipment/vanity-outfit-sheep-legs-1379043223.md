@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Vanity Outfit Sheep legs](../../objects/equ
 
 Vanity  Outfit Sheep  legs  Desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -19,6 +19,19 @@ Hold to summon bone projectiles that seek out enemies.
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Blunt |
+| Mana Cost | 31 |
+| Cast Time | 0.5 s |
+
+## How to get it
+
+- **Collector**: 20 × [T3 Green essence](../../items/materials/t3-green-essence-1453689781.md), 1 × [Giant bones](../../items/materials/giant-bones-2956062198.md) → 100 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

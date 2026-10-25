@@ -19,6 +19,14 @@ Weathered stones, either built or reclaimed by the Vukah faction in the Blackmir
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 8 × [T2 Talltree Stone](../../items/materials/t2-talltree-stone-760251531.md), 2 × [T2 tall trees dirt](../../items/materials/t2-tall-trees-dirt-2385754716.md) → 100 ×
+
+## Used to make
+
+[Stone Wall Secret TallTree](../../items/buildtools/stone-wall-secret-talltree-2849381153.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

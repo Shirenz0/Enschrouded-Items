@@ -17,6 +17,13 @@ One of 2 versions of this item: see [Large Backpack](../../objects/equipment/lar
 
 An extension to your backpack that increases your inventory by a lot.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Backpack |
+| Slots | 24 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

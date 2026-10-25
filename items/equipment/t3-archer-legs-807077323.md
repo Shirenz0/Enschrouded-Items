@@ -17,6 +17,27 @@ One of 2 versions of this item: see [T3 Archer Legs](../../objects/equipment/t3-
 
 The pants were made from a set of different materials and protect all the most important areas adequately.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+| Armor | Physical and Magical |
+| Mana | 27 |
+| Sneak  Speed | 30 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Blunt Armor | - |
+| 2 | Stamina | +12 Stamina |
+| 3 | +1 Cutthroat | Increases the skill level of Cutthroat by +1 |
+| 4 | Shock Armor | - |
+| 5 | +1 Veiled Vigor | Increases the skill level of Veiled Vigor |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

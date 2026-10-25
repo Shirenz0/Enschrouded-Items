@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 15 × [Charcoal](../../items/materials/charcoal-372029138.md), 15 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 50 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md), 4 × [Green Mushroom Meat](../../items/materials/green-mushroom-meat-90588998.md), 2 × [Saffron](../../items/materials/saffron-3696168941.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

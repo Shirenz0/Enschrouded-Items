@@ -19,6 +19,19 @@ A very healthy soup made by boiling chicken over a period of time. An old house 
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 40:00 min |
+| Health | 160 |
+| % Dagger Damage | 6 |
+| Ranged Damage | 6 |
+
+## How to get it
+
+- **Kitchen**: 3 × [Forest Beet](../../items/consumables/forest-beet-3542827745.md), 1 × [Salt](../../items/materials/salt-1564406835.md), 3 × [Raw Bird Meat](../../items/consumables/raw-bird-meat-385885887.md), 3 × [Bell Pepper](../../items/consumables/bell-pepper-4094316095.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

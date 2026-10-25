@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 4 × [Paper Reed](../../items/materials/paper-reed-1026141130.md), 4 × [String](../../items/materials/string-419344916.md), 4 × [Palm Leaves](../../items/materials/palm-leaves-521230189.md), 6 × [Bamboo Logs](../../items/materials/bamboo-logs-1381084162.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

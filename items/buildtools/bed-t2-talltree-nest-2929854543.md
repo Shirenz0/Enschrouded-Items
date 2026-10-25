@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort (Category Bed) | 4 |
+
+## How to get it
+
+- **Carpenter**: 20 × [Twig](../../items/materials/twig-1798662696.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

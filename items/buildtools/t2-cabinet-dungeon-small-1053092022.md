@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Collector**: 10 × [Fog Wood](../../items/materials/fog-wood-1320899587.md), 2 × [Krypt Krystal](../../items/materials/krypt-krystal-3953523416.md), 2 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,19 @@ t6 banana coconut cashew fruit smoothie
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 55:00 min |
+| Health Regeneration | 9 |
+| Stamina Regeneration | 30 |
+| Stamina | 30 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Banana](../../items/consumables/banana-2626897582.md), 5 × [Coconut Milk](../../items/consumables/coconut-milk-3130551475.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

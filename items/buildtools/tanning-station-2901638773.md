@@ -23,6 +23,10 @@ A station designed to enable the mass production of Leather.
 
 Crafting, Huntress
 
+## How to get it
+
+- **Hunter**: 10 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 4 × [Nails](../../items/materials/nails-2743545700.md), 10 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 10 × [Tar](../../items/materials/tar-1714627847.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

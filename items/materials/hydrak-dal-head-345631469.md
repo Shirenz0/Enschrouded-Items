@@ -17,6 +17,10 @@ The severed head of a leader from the Drak'Dal tribe. You've severed this one, b
 
 Collect multiple Cyclops Heads to craft the Trophy.
 
+## Used to make
+
+[Gold Hydrak'Dal Trophy](../../items/buildtools/gold-hydrak-dal-trophy-973320971.md), [Iron Hydrak'Dal Trophy](../../items/buildtools/iron-hydrak-dal-trophy-3531113233.md), [Bronze Hydrak'Dal Trophy](../../items/buildtools/bronze-hydrak-dal-trophy-645413968.md), [Hydrak'Dal Trophy](../../items/buildtools/hydrak-dal-trophy-736400222.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Irrigation Gate description
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 8 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 8 × [Tropical Wood](../../items/materials/tropical-wood-1283252179.md), 12 × [Nails](../../items/materials/nails-2743545700.md), 12 × [Paper Reed](../../items/materials/paper-reed-1026141130.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

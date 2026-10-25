@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Frozen Shroud Solids](../../items/materials/frozen-shroud-solids-1158895795.md), 1 × [Yellow Shroud Mushroom](../../items/consumables/yellow-shroud-mushroom-1683685602.md), 1 × [Fossilized Bone Dust](../../items/materials/fossilized-bone-dust-3073226096.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

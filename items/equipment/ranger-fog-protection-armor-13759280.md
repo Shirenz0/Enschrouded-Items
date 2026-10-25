@@ -17,6 +17,29 @@ One of 5 versions of this item: see [Ranger Fog Protection Armor](../../objects/
 
 Hastely put together from fell monster parts. Offers extended protection against the Shroud.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+| Armor | Physical and Magical |
+| Stamina | 36 |
+| Flame Power | 30,000 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Blunt Armor | - |
+| 2 | +1 Vitality Surge | Increases the skill level of Vitality Surge by +1 |
+| 3 | +1 Ranger | Increases the skill level of Ranger by +1 |
+
+## How to get it
+
+- **Hunter**: 1 × [Fossilized Bone Dust](../../items/materials/fossilized-bone-dust-3073226096.md), 2 × [Feather](../../items/materials/feather-3838906683.md), 2 × [Monstrous Ribs](../../items/materials/monstrous-ribs-2975006357.md), 4 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 4 × [Corrosive Blood](../../items/materials/corrosive-blood-2302389683.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

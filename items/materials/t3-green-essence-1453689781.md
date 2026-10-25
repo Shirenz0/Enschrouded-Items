@@ -19,6 +19,10 @@ T3 Green Essence desc
 
 Nomad Highlands, Hollow Halls
 
+## Used to make
+
+[Green Glow Block](../../items/buildtools/green-glow-block-3877300758.md), [T4 Giant Bone Arrow II](../../items/ammunition/t4-giant-bone-arrow-ii-3270347800.md), [T4 Bone Channel III](../../items/ammunition/t4-bone-channel-iii-3014702000.md), [Skull companion Level 20](../../items/weapons/skull-companion-level-20-305542871.md), [T3 Palette 01 reward Green, green, green](../../items/colorpalette/t3-palette-01-reward-green-green-green-3841845306.md), [T3 Palette 04 Brown Green Grey](../../items/colorpalette/t3-palette-04-brown-green-grey-2821660974.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

@@ -17,6 +17,29 @@ Fires a projectile that deals fog damage.
 
 **Ethereal Duplication**: The wand's unique magic grants it a 50% chance to spontaneously create an additional fog projectile.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Shroud |
+| Overcharge | 21 |
+| Attack Speed | 0.6 s |
+| Mana Regeneration | 10 |
+| Ethereal Duplication | 30 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Mana Leech | On Hit Leech %Percentage% Damage as Mana |
+| 3 | Heavy | - |
+| 4 | +1 Mana Currents | Increases the skill level of Mana Currents by +1 |
+| 5 | Heavy | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

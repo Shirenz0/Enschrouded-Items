@@ -15,6 +15,24 @@
 
 A potent staff capable of protecting those who cannot protectsthemselfs.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ranged weapon |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Mana Leech | +3 Mana Leech |
+| 3 | Heavy | - |
+| 4 | +1 Mana Currents | Increases the skill level of Mana Currents by +1 |
+| 5 | Precise | +4 Precise |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

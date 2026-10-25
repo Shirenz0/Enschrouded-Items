@@ -19,6 +19,10 @@ A block of stone infested by mycellium. Does it still carry the Shroud infestati
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 2 × [Stone](../../items/materials/stone-631520303.md), 2 × [Mycelium](../../items/materials/mycelium-3509012331.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

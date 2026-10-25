@@ -19,6 +19,10 @@ Used to build thatched roofs. A basic and reliable solution to keeping your head
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

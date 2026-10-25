@@ -19,6 +19,23 @@ With just some meat, a mushroom, and a small fire, you can make this nutritious 
 
 Campfire
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 30:00 min |
+| Health | 30 |
+| Mana Regeneration | 4 |
+| Magic Damage Multiplier | 9 |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Raw Meat and Mushroom Skewer](../../items/materials/raw-meat-and-mushroom-skewer-2335785241.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -19,6 +19,17 @@ If you can't beat them, join them. This arrow uses the power of the Shroud and d
 
 Crafting, Huntress
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Shroud |
+
+## How to get it
+
+- **Hunter**: 5 × [Twig](../../items/materials/twig-1798662696.md), 15 × [ActiveMycelium](../../items/materials/activemycelium-2179075323.md), 5 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md) → 25 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

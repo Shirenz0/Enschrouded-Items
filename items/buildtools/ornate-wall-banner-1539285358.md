@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 4 × [Charcoal](../../items/materials/charcoal-372029138.md), 4 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 3 × [Blue Fabric](../../items/materials/blue-fabric-398142464.md), 1 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

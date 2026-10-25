@@ -19,6 +19,16 @@ Catch regulat epic fish with ease thanks to this speical bait.
 
 Fisher
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Fishing bait |
+
+## How to get it
+
+- **Fish Trader**: 1 × [Frog](../../items/ammunition/frog-3599394660.md), 20 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md), 2 × [Capybara Bristles](../../items/materials/capybara-bristles-4230368891.md), 1 × [Fish Teeth](../../items/materials/fish-teeth-2352305513.md) → 10 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -15,6 +15,11 @@
 
 Opens a lock. (Hopefully)
 
+## How to get it
+
+- **an unnamed station**: 2 × one of: T5 Obsidian / [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 1 ×
+- **Blacksmith**: 1 × one of: T5 Obsidian / [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 1 ×
+
 ---
 
 [← Tools](../../categories/tools.md) · [All categories](../../README.md)

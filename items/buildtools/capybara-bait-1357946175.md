@@ -19,6 +19,10 @@ t6 capybara bait desc
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 1 × [Sugar Cane](../../items/consumables/sugar-cane-2456844314.md), 2 × [Paper Reed](../../items/materials/paper-reed-1026141130.md), 2 × [Algae](../../items/consumables/algae-806123624.md) → 10 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

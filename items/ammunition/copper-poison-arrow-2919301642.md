@@ -21,6 +21,17 @@ A Copper Arrow lanced in poison, making it even deadlier.
 
 Crafting, Huntress
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Piercing 50%, Poison 50% |
+
+## How to get it
+
+- **Hunter**: 25 × [Copper Arrow](../../items/ammunition/copper-arrow-4046432840.md), 1 × [Poison Sack](../../items/materials/poison-sack-1503622318.md) → 25 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

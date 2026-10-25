@@ -15,6 +15,12 @@
 
 A very basic set of garments.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

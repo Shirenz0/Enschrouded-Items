@@ -19,6 +19,16 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Table | 2 |
+
+## How to get it
+
+- **Carpenter**: 2 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 1 × [Resin](../../items/materials/resin-4109728689.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

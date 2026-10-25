@@ -19,6 +19,10 @@ This is a showcase for Collection Items you find in the Hollow Halls.
 
 > Furniture
 
+## How to get it
+
+- **Collector**: 6 × [Hardwood](../../items/materials/hardwood-1765656585.md), 3 × [Nails](../../items/materials/nails-2743545700.md), 2 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md), 1 × [Glow Dirt Green](../../items/materials/glow-dirt-green-2149011961.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

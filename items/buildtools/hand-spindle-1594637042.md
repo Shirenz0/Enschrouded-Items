@@ -23,6 +23,10 @@ A spindel used by the huntress to crate better strings.
 
 Crafting, Huntress
 
+## How to get it
+
+- **Hunter**: 3 × [Fossilized Bone](../../items/materials/fossilized-bone-3095665634.md), 4 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

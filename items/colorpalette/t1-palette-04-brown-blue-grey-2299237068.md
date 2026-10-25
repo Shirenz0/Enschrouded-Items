@@ -19,6 +19,10 @@ Shades of brown and blue
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Fog Liquid](../../items/materials/fog-liquid-860644516.md), 1 × [Night Lily](../../items/consumables/night-lily-2433487720.md), 2 × [Dirt](../../items/materials/dirt-1558115984.md), 2 × [Penny Bun](../../items/consumables/penny-bun-600862405.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

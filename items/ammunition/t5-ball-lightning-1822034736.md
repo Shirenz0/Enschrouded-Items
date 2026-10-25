@@ -15,6 +15,20 @@
 
 A slow moving ball of lightning that shocks nearby enemies.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Lightning |
+| Mana Cost | 179 |
+| Cast Time | 3 s |
+| Duration | 7 s |
+
+## How to get it
+
+- **Alchemist**: 1 × [Flammable Goo](../../items/materials/flammable-goo-887761434.md), 2 × T5 Silver Dust → 20 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

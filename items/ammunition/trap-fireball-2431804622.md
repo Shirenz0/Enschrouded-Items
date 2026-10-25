@@ -17,6 +17,12 @@ One of 10 versions of this item: see [Trap Fireball](../../objects/ammunition/tr
 
 Trap Fireball
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

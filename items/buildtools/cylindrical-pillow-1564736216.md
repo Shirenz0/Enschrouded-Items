@@ -21,6 +21,12 @@ A decorative cylindrical pillow.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 5 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

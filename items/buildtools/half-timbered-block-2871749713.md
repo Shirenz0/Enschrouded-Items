@@ -19,6 +19,10 @@ Timbering was an ancient building technique, that was once very popular for its 
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

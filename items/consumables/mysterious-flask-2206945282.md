@@ -19,6 +19,13 @@ A strange flask exuding a feeling of power.
 
 > Flask
 
+## Stats
+
+| | |
+|---|---|
+| % Damage Multiplier | 10 |
+| Max Shroud Survivability | -120,000 |
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

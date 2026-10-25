@@ -15,6 +15,12 @@
 
 Dealing damage removes the enemies fog damage resistance for %k
 
+## Stats
+
+| | |
+|---|---|
+| Debuff Duration | 3 s (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

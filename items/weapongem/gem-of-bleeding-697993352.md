@@ -15,6 +15,13 @@
 
 Critical hits with cut damage applies  bleeding on the enemy, that deals %k per second for %k
 
+## Stats
+
+| | |
+|---|---|
+| Cutting damage per second | 8 (scales with level) |
+| Debuff Duration | 6 s (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

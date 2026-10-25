@@ -15,6 +15,26 @@
 
 Some farmers believed that wizards stored their magical energy in their brimmed hats. These rumours were widespread, but completely false.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+| Armor | Physical and Magical |
+| Critical Strike Damage | 19 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Blunt Armor | - |
+| 2 | Piercing Armor | - |
+| 3 | +1 Radiant Aura | Increases the skill level of Radiant Aura by +1 |
+| 4 | Spiritual | +8 Spiritual |
+| 5 | +1 Mage Apprenticeship | Increases the skill level of Mage Apprenticeship by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

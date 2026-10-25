@@ -19,6 +19,24 @@ With just some meat, a forest beet, and a small fire, you can make this nutritio
 
 Campfire
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 35:00 min |
+| Health | 40 |
+| Ranged Damage | 12 |
+| % Dagger Damage | 12 |
+| Stamina Regeneration | 6 |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Raw Meat and Forest Beet Skewer](../../items/materials/raw-meat-and-forest-beet-skewer-3031557010.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

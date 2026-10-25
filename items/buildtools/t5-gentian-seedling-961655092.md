@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [T5 Food Raw Herb Gentian](../../items/consumables/t5-food-raw-herb-gentian-3779366146.md), 1 × [Fertilised Farm Soil](../../items/materials/fertilised-farm-soil-260133819.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

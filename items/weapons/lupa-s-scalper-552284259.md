@@ -17,6 +17,30 @@ One of 6 versions of this item: see [Lupa's scalper](../../objects/weapons/lupa-
 
 "A Shadow over Umber Hollow -Lupa" is etched on the side.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Piercing |
+| Attack Speed | 0.4 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Precise | +8 Precise |
+| 3 | Heavy | - |
+| 4 | Vicious | +20 Vicious |
+| 5 | Heavy | - |
+
+## How to get it
+
+- **Blacksmith**: 5 × T5 Steel Bar Desc, 1 × T5 Hardened Leather, 2 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

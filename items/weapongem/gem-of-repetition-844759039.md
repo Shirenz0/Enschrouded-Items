@@ -15,6 +15,13 @@
 
 Dealing pierce damage applies  puncturing to enemies.  Punctured enemies receive %k bonus pierce damage from ANY pierce damage source for %k
 
+## Stats
+
+| | |
+|---|---|
+| Additional Weapon Damage | 3 (scales with level) |
+| Debuff Duration | 3 s (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

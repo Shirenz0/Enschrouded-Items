@@ -15,6 +15,29 @@
 
 t6 adventurer legs desc - unique
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+| Armor | Physical and Magical |
+| Sprint  Speed | 12 |
+| Stamina Depletion Climbing | -20 |
+| Stamina Depletion Climbing | -30 |
+| Wet Duration Reduction | 2:00 min |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Stamina | +24 Stamina |
+| 2 | Enduring | +18 Enduring |
+| 3 | +1 Runner | Increases the skill level of Runner by +1 |
+| 4 | +1 Airborne | Increases the skill level of Airborne by +1 |
+| 5 | +1 Rebound | Increases the skill level of Rebound by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

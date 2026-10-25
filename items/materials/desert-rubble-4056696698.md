@@ -15,6 +15,10 @@
 
 mix of materials, mainly stones and dirt
 
+## How to get it
+
+- **Grinding Stones**: 1 × [Rubble](../../items/materials/rubble-1257792166.md), 5 × [Sandstone](../../items/materials/sandstone-1401630464.md), 4 × one of: [Sand](../../items/materials/sand-2493843175.md) / [Fine Sand](../../items/materials/fine-sand-3489782185.md) / [T6 Wetlands Sand](../../items/materials/t6-wetlands-sand-2181045178.md) / [T7 AncientLand Sand](../../items/materials/t7-ancientland-sand-3899759098.md) → 10 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

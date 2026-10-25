@@ -15,6 +15,14 @@
 
 Dealing fire damage applies  burning for %k which deals %k per second. After a succesful trigger, it has a cooldown of %k
 
+## Stats
+
+| | |
+|---|---|
+| Debuff Duration | 3 s (scales with level) |
+| Fire Damage per Second | 6 (scales with level) |
+| Cooldown Duration | 5 s |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

@@ -19,6 +19,19 @@ A basic mining tool, made of the simplest materials. Its not very durable or eff
 
 > Tools
 
+## Stats
+
+| | |
+|---|---|
+| Damage type | Piercing |
+| Stamina Cost | 3 |
+| Attack Speed | 0.774 s |
+| Radius | 110 |
+
+## How to get it
+
+- **an unnamed station**: 1 × [Stone](../../items/materials/stone-631520303.md), 4 × [Twig](../../items/materials/twig-1798662696.md), 1 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

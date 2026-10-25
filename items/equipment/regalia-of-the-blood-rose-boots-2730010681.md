@@ -17,6 +17,16 @@ One of 2 versions of this item: see [Regalia of the Blood Rose Boots](../../obje
 
 Regalia of the Blood Rose Boots descs
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Feet |
+
+## How to get it
+
+- **Lunar New Year Trader**: 5 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

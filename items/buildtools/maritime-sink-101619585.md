@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Sink | 8 |
+
+## How to get it
+
+- **Carpenter**: 6 × T6 material limestone from shells, 1 × [Gold Bars](../../items/materials/gold-bars-514509650.md), 1 × [Gold Dust](../../items/materials/gold-dust-1060230019.md), 10 × [Mother-Of-Pearl](../../items/materials/mother-of-pearl-1898288525.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

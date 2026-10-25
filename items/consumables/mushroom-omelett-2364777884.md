@@ -19,6 +19,18 @@ A delicious meal, containing the knowledge of the earth.
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Magic Damage Multiplier | 12 |
+| Duration | 40:00 min |
+| Health Regeneration | 9 |
+
+## How to get it
+
+- **Kitchen**: 10 × [Penny Bun](../../items/consumables/penny-bun-600862405.md), 5 × [Eggs](../../items/consumables/eggs-1896276940.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

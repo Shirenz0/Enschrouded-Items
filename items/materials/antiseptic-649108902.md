@@ -19,6 +19,14 @@ A medical solution that can clean wounds curing all active **poison** status eff
 
 Crafting, Alchemy Station
 
+## How to get it
+
+- **Alchemy Station**: 1 × [Wood Acid](../../items/materials/wood-acid-1635234852.md), 1 × [Sage Leaves](../../items/consumables/sage-leaves-3562500384.md) → 1 ×
+
+## Used to make
+
+[Cleaned Bandage](../../items/consumables/cleaned-bandage-3244772462.md), [T3 Eternal Chain Heal I](../../items/ammunition/t3-eternal-chain-heal-i-1203301438.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

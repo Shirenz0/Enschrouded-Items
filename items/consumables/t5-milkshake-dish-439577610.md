@@ -19,6 +19,18 @@ A delightful milkshake. Be careful with the sugar rush! It will increase your st
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Health Regeneration | 18 |
+| Stamina Regeneration | 12 |
+| Duration | 50:00 min |
+
+## How to get it
+
+- **Kitchen**: 5 × [Strawberry](../../items/consumables/strawberry-3479563223.md), 5 × [Mountaingoat Milk](../../items/consumables/mountaingoat-milk-443792978.md), 5 × T5 Snow, 5 × [Sugar](../../items/consumables/sugar-1800945978.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

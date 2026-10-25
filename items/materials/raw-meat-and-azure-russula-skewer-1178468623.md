@@ -19,6 +19,14 @@ This mushroom skewer will not only strength your flesh, but ylso your mind. Gril
 
 Manual Crafting
 
+## How to get it
+
+- **an unnamed station**: 1 × [Azure Russula](../../items/consumables/azure-russula-1304815894.md), 1 × [Raw Game](../../items/consumables/raw-game-2512460235.md) → 1 ×
+
+## Used to make
+
+[Meat Skewer with Azure Russula](../../items/consumables/meat-skewer-with-azure-russula-3656080316.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

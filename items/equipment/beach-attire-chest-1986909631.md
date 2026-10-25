@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Beach Attire chest](../../objects/equipment
 
 BeachAttire chest desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ food goat feeding description
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 4 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md), 1 × [Corncob](../../items/consumables/corncob-3118804138.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

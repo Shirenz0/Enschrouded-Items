@@ -23,6 +23,20 @@ After finetuning the Health Potion, the ingredients were adjusted, instantly res
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Health | 400 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Honey](../../items/consumables/honey-227143323.md), 1 × [Red Berries](../../items/consumables/red-berries-3707271437.md), 1 × [Chamomile](../../items/materials/chamomile-3478847834.md) → 1 ×
+
+## Used to make
+
+[Greater Health Potion improved](../../items/consumables/greater-health-potion-improved-1509402971.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Used to build thatched roofs. A basic and reliable solution to keeping your head
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Straw](../../items/materials/straw-3921293392.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

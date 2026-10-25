@@ -23,6 +23,10 @@ Use this material to decorate any voxel material using the ??? tool
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 2 × [Fossilized Bone](../../items/materials/fossilized-bone-3095665634.md), 3 × [Mycelium](../../items/materials/mycelium-3509012331.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

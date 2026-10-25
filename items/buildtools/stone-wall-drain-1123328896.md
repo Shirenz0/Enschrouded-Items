@@ -19,6 +19,10 @@ Place this Drain on the Wall, all Water that is above it will be sucked in.
 
 > Furniture
 
+## How to get it
+
+- **an unnamed station**: 1 × [Stone](../../items/materials/stone-631520303.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

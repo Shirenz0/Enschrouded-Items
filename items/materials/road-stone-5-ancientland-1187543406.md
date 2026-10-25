@@ -15,6 +15,10 @@
 
 A road made from Ancient Land Stones
 
+## How to get it
+
+- **Workbench**: 7 × T7 material stone, 3 × [T7 AncientLand Rubble](../../items/materials/t7-ancientland-rubble-2780052662.md) → 10 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

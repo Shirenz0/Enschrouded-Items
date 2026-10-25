@@ -21,6 +21,17 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Cold Resistance | 5 |
+| Comfort - Hearth | 5 |
+
+## How to get it
+
+- **Carpenter**: 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 15 × T5 Steel Bar Desc, 15 × T5 Material Coal Name → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -17,6 +17,17 @@ One of 2 versions of this item: see [Medium Backpack](../../objects/equipment/me
 
 Backpack t2  NEW Copy from old one
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Backpack |
+| Slots | 24 |
+
+## How to get it
+
+- **Bard**: 6 × [Reptile Leather](../../items/materials/reptile-leather-291752398.md), 6 × [Linnen](../../items/materials/linnen-1815424180.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

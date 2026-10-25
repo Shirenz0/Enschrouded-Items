@@ -15,6 +15,13 @@
 
 Killing an enemy has a %k chance to spawn an allied level %k skeleton weakling. You can only have 4 active skeletons weaklings from this gem at a time. Spawning more deletes the oldest one. Skeleton weaklings decay when too long out of combat.
 
+## Stats
+
+| | |
+|---|---|
+| Trigger Chance on Kill | 10 (scales with level) |
+| Skeleton Level | 1 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

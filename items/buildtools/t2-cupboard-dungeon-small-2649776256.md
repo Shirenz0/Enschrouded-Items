@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Collector**: 1 × [Red Marble fragment](../../items/materials/red-marble-fragment-2530601241.md), 15 × [Fog Wood](../../items/materials/fog-wood-1320899587.md), 2 × [Krypt Krystal](../../items/materials/krypt-krystal-3953523416.md), 3 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

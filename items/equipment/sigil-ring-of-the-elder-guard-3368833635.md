@@ -15,6 +15,23 @@
 
 "Captain Arkwright" is engraved in the metal. Given to the most loyal commanders.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ring |
+| Health | 25 |
+| Health Regeneration | 2 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Cutting Armor | - |
+| 2 | Enduring | +3 Enduring |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Table | 3 |
+
+## How to get it
+
+- **Carpenter**: 10 × [Blackmire Heartwood](../../items/materials/blackmire-heartwood-1745782985.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

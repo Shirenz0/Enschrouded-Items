@@ -15,6 +15,17 @@
 
 Lights your path, even under water. Not as strong as regular torches
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Throw Interval | 1,000 |
+
+## How to get it
+
+- **an unnamed station**: 4 × [Gleam Root Dust](../../items/materials/gleam-root-dust-3507051762.md) → 1 ×
+
 ---
 
 [← Tools](../../categories/tools.md) · [All categories](../../README.md)

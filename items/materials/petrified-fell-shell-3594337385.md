@@ -19,6 +19,10 @@ A dense, stone-like carapace torn from the Predator, a ruthless assassin of the 
 
 Shroud Stalker, First: Nomad Highlands Shroud
 
+## Used to make
+
+[T3 Eternal Fireball I](../../items/ammunition/t3-eternal-fireball-i-1912744772.md), [T3 DPS Chest](../../items/equipment/t3-dps-chest-3800404508.md), [T3 Healer Helmet](../../items/equipment/t3-healer-helmet-1240317845.md), [T3 Mage Helmet](../../items/equipment/t3-mage-helmet-4289077760.md), [Mage Fog Protection Armor](../../items/equipment/mage-fog-protection-armor-2746111440.md), [T3 Ranger Legs](../../items/equipment/t3-ranger-legs-1236068115.md), [T3 Archer Legs](../../items/equipment/t3-archer-legs-3281783103.md), [T3 Tank Chest](../../items/equipment/t3-tank-chest-2173083844.md), [Warrior Fog Protection Armor](../../items/equipment/warrior-fog-protection-armor-3354677077.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

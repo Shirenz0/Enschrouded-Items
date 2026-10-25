@@ -19,6 +19,14 @@ A hunter's favorite ration, crafted for precision. After you've grilled it over 
 
 Manual Crafting
 
+## How to get it
+
+- **an unnamed station**: 1 × [Forest Beet](../../items/consumables/forest-beet-3542827745.md), 1 × [Raw Game](../../items/consumables/raw-game-2512460235.md) → 1 ×
+
+## Used to make
+
+[Meat Skewer with Forest Beet](../../items/consumables/meat-skewer-with-forest-beet-16567466.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

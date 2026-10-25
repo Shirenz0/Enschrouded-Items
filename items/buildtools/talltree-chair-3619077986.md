@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Stool | 3 |
+
+## How to get it
+
+- **Carpenter**: 3 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

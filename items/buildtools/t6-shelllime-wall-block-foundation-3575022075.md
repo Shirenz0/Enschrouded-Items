@@ -19,6 +19,10 @@ T6 Shelllime Wall Block Foundation description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × T6 material limestone from shells, 5 × T5 Material Granite → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

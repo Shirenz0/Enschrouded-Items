@@ -19,6 +19,16 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Chair | 6 |
+
+## How to get it
+
+- **Carpenter**: 1 × T5 Silver Bar, 1 × T5 Obsidian, 1 × T5 Material Violet Fabric, 4 × T5 Material Granite → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

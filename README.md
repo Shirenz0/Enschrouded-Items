@@ -463,6 +463,7 @@ Many items exist in several versions with the same name and picture, for example
 
 - [`data/items.json`](data/items.json) and [`data/items.csv`](data/items.csv): every item with all fields, for use in tools, sites and mods.
 - Item IDs are the game's own `ItemId` values, the same ones used in save files and in memory.
+- Item pages also show the stats from the game data (slot, damage type, armor type and the tooltip values such as attack speed or stamina), the enhancements an item unlocks when it is upgraded, the recipes that make it (crafter or station and ingredients) and what it is used to make. Damage and armor numbers depend on the item level and are calculated by the game, so they are not listed.
 
 ## Notes
 

@@ -19,6 +19,10 @@ Whant to look like a gold nugget laying on the ground of a lake? With this color
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md), 2 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md), 1 × [Shroud Relic](../../items/materials/shroud-relic-3581489769.md), 1 × [Daylily Flower](../../items/materials/daylily-flower-1897605064.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

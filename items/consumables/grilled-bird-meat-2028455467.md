@@ -19,6 +19,21 @@ A healthy protein rich snack. The color looks just perfect...
 
 Cooking Station
 
+## Stats
+
+| | |
+|---|---|
+| Health | 120 |
+| Duration | 30:00 min |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Raw Bird Meat](../../items/consumables/raw-bird-meat-385885887.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

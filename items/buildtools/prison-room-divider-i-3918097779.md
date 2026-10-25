@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 2 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 4 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 2 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

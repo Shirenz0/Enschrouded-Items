@@ -19,6 +19,17 @@ A fire place that can be placed in your home to provide warmth. It's basic but d
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Cold Resistance | 3 |
+| Comfort - Hearth | 1 |
+
+## How to get it
+
+- **Workbench**: 6 × [Stone](../../items/materials/stone-631520303.md), 2 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

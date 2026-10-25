@@ -19,6 +19,10 @@ This is a showcase for Fossile Collection Items you find in close to quarries an
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 6 × [Nails](../../items/materials/nails-2743545700.md), 10 × [Hardwood](../../items/materials/hardwood-1765656585.md), 1 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md), 8 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

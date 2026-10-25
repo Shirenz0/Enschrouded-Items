@@ -19,6 +19,17 @@ It looks like an Artichoke but its a fruit! Filled with much fruit juice and a s
 
 Ancient Land
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 3:30 min |
+| Health Regeneration | 24 |
+
+## Used to make
+
+[Fancy Fruit Juice](../../items/consumables/fancy-fruit-juice-1603269825.md), [Fruit Salad](../../items/consumables/fruit-salad-270916101.md), [Ancient "Artichoke" Seedling](../../items/buildtools/ancient-artichoke-seedling-3397770029.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

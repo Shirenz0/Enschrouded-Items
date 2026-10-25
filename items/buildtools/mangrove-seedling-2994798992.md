@@ -23,6 +23,10 @@ A seedling that will soon grow into a plant, should it be placed into the right 
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Tropical Wood](../../items/materials/tropical-wood-1283252179.md), 1 × [Fertilised Farm Soil](../../items/materials/fertilised-farm-soil-260133819.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,17 @@ It's not even properly cooked. Who would eat that?
 
 Nomad Highlands
 
+## Stats
+
+| | |
+|---|---|
+| Health | -50 |
+| Stamina | -40 |
+
+## Used to make
+
+[Chicken Soup](../../items/consumables/chicken-soup-1730813213.md), [Grilled Bird Meat](../../items/consumables/grilled-bird-meat-2028455467.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

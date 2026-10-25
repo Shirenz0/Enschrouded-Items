@@ -19,6 +19,10 @@ A massive, razor-sharp talon torn from the deadly Shroud infested Vultures. Hard
 
 Fell Draconian Vulture, Kindlewastes Shroud And Albaneve Summits Shroud
 
+## Used to make
+
+[T4 Assassin Arms](../../items/equipment/t4-assassin-arms-853658470.md), [T4 BattleMage Arms](../../items/equipment/t4-battlemage-arms-3648209951.md), [T4 DPS Arms](../../items/equipment/t4-dps-arms-1478658636.md), [T4 Healer Arms](../../items/equipment/t4-healer-arms-1791031659.md), [T4 Mage Arms](../../items/equipment/t4-mage-arms-398094556.md), [T4 Ranger Arms](../../items/equipment/t4-ranger-arms-2309078212.md), [T4 Sniper Arms](../../items/equipment/t4-sniper-arms-3073964148.md), [T4 Tank Arms](../../items/equipment/t4-tank-arms-1838950390.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

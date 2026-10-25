@@ -19,6 +19,10 @@ Different shades of blue and grey
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Goo](../../items/materials/goo-3403995938.md), 2 × [Moth](../../items/ammunition/moth-2201448182.md), 2 × [Mycelium](../../items/materials/mycelium-3509012331.md), 1 × [Bug Dust](../../items/materials/bug-dust-957162158.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

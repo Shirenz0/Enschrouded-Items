@@ -19,6 +19,10 @@ tbd T2 Palette 03 reward description
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Goo](../../items/materials/goo-3403995938.md), 2 × [Mycelium](../../items/materials/mycelium-3509012331.md), 2 × [Moth](../../items/ammunition/moth-2201448182.md), 1 × T2 Green Essence → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

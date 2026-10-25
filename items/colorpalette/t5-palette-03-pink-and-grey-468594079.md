@@ -19,6 +19,10 @@ Different shades of light Grey and white
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Vapor](../../items/materials/shroud-vapor-579568751.md), 2 × [Brittle Shroud Flakes](../../items/materials/brittle-shroud-flakes-4091795277.md), 2 × T5 Silver Dust, 1 × [Bonemeal](../../items/materials/bonemeal-2982735558.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

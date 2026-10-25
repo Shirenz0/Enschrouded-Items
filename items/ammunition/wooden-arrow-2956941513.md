@@ -15,6 +15,17 @@
 
 A Wooden Arrow made of the most basic ingredients.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Piercing |
+
+## How to get it
+
+- **an unnamed station**: 2 × [Twig](../../items/materials/twig-1798662696.md) → 10 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

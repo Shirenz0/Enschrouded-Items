@@ -23,6 +23,17 @@ Restores some Health instantly and provides an additional healing over time effe
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Healing per second | 50 |
+| Health | 600 |
+
+## How to get it
+
+- **Alchemist**: 1 × [T5 Health potion](../../items/consumables/t5-health-potion-2405125031.md), 1 × [Night pink gentian](../../items/materials/night-pink-gentian-3548539501.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

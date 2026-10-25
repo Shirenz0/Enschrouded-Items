@@ -19,6 +19,14 @@ A hearty feast, that fortifies your body. Grilled over a Fire, this Skewer will 
 
 Manual Crafting
 
+## How to get it
+
+- **an unnamed station**: 1 × [Hazelnut](../../items/consumables/hazelnut-3360608010.md), 1 × [Raw Game](../../items/consumables/raw-game-2512460235.md) → 1 ×
+
+## Used to make
+
+[Meat Skewer with Hazelnut](../../items/consumables/meat-skewer-with-hazelnut-3366430041.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

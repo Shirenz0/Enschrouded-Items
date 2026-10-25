@@ -15,6 +15,15 @@
 
 Grants a %k base chance to spawn a health orb when defeating an enemy. Collecting a health orb grants %k additional cut damage to your attacks and increases the chance for health orbs by %k for %k
 
+## Stats
+
+| | |
+|---|---|
+| Chance to spawn a health orb while buffed | 10 (scales with level) |
+| Chance to spawn a health orb | 5 |
+| Buff Duration | 10 s |
+| Additional Weapon Cut Damage | 4 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

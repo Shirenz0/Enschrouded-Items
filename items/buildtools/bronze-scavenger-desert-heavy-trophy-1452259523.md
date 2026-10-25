@@ -19,6 +19,12 @@ A severed Scavenger Desert Heavy Head. Collect multiple to craft the bronze trop
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 3 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

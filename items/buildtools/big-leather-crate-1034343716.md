@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 6 × [Leather](../../items/materials/leather-4135223598.md), 2 × [Linnen](../../items/materials/linnen-1815424180.md), 1 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

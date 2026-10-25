@@ -15,6 +15,16 @@
 
 People don't make eye contact with gravediggers because it brings bad luck. Some choose to wear a cap that covers their eyes.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+
+## How to get it
+
+- **Lunar New Year Trader**: 5 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

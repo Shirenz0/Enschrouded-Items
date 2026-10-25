@@ -15,6 +15,26 @@
 
 An infested Shroud bow.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ranged weapon |
+| Draw Speed | 0.6 s |
+| Arrow Speed | 20 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Brutal | +14 Brutal |
+| 2 | Heavy | - |
+| 3 | Headseeker | Skillshots restore 10 Stamina |
+| 4 | Heavy | - |
+| 5 | Mana Leech | +4 Mana Leech |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

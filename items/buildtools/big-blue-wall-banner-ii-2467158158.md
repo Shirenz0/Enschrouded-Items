@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 3 × [Wool](../../items/materials/wool-2837376937.md), 3 × [Blue Fabric](../../items/materials/blue-fabric-398142464.md), 1 × T5 Steel Bar Desc → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -15,6 +15,10 @@
 
 A pressure plate that can be used in a logic system. Walking onto it activates it.
 
+## How to get it
+
+- **Logic System Workbench**: 2 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

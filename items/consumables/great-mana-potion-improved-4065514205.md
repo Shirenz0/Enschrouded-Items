@@ -19,6 +19,17 @@ Restores some mana instantly and provides an additional Mana over time effect fo
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Mana per second | 8 |
+| Mana | 90 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Aurum Lily](../../items/materials/aurum-lily-2341333485.md), 1 × [Great Mana Potion](../../items/consumables/great-mana-potion-2085710950.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

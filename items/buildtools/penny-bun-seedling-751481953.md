@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Bonemeal](../../items/materials/bonemeal-2982735558.md), 1 × [Penny Bun](../../items/consumables/penny-bun-600862405.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

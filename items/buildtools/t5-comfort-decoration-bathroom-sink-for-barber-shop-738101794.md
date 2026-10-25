@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Sink | 7 |
+
+## How to get it
+
+- **Carpenter**: 3 × [Hardwood](../../items/materials/hardwood-1765656585.md), 1 × T5 Silver Bar, 1 × T5 Obsidian Dust, 1 × T5 Material Amethyst, 1 × [Chitin Podwer](../../items/materials/chitin-podwer-1985910431.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

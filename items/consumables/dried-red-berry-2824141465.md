@@ -19,6 +19,21 @@ Conserved the Dried Red Berry is not stimulating the regeneration as much as the
 
 Crafting, Drying Rack
 
+## Stats
+
+| | |
+|---|---|
+| Health Regeneration | 3 |
+| Duration | 8:00 min |
+
+## How to get it
+
+- **Drying Rack**: 1 × [Red Berries](../../items/consumables/red-berries-3707271437.md) → 1 ×
+
+## Used to make
+
+[Blueberry Cake](../../items/consumables/blueberry-cake-65287689.md), [Food Yak Feeding](../../items/buildtools/food-yak-feeding-3044969758.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -23,6 +23,16 @@ Combined with antiseptics, this item provides a fast Health regeneration, if app
 
 Crafting, Huntress
 
+## Stats
+
+| | |
+|---|---|
+| Healing per second | 6 |
+
+## How to get it
+
+- **Hunter**: 1 × [String](../../items/materials/string-419344916.md), 1 × [Antiseptic](../../items/materials/antiseptic-649108902.md), 1 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

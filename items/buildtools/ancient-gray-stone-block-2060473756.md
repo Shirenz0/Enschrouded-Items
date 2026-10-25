@@ -19,6 +19,14 @@ basic gray stone from the ancients
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × Moonstone, 10 × [T7 material Ancient Land granite stone](../../items/materials/t7-material-ancient-land-granite-stone-2851443310.md) → 100 ×
+
+## Used to make
+
+[Ancient Sunken City Block](../../items/buildtools/ancient-sunken-city-block-168200942.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

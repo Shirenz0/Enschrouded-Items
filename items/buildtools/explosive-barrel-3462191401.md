@@ -23,6 +23,10 @@ A decorative element that creates an explosive atmosphere, indeed.
 
 Crafting, Alchemist
 
+## How to get it
+
+- **Alchemist**: 2 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md), 4 × [Black Powder](../../items/materials/black-powder-1828629573.md), 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 1 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

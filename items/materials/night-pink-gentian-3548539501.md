@@ -19,6 +19,10 @@ night pink gentian
 
 Albaneve Summits, night
 
+## Used to make
+
+[Nightplant tea](../../items/consumables/nightplant-tea-664951543.md), [T5 Health Potion improved](../../items/consumables/t5-health-potion-improved-844956750.md), [Darya's Staff](../../items/weapons/darya-s-staff-4287106432.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

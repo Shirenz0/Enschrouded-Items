@@ -19,6 +19,10 @@ Decorative Winter Bells
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 1 × [Copper Bar](../../items/materials/copper-bar-170689373.md), 2 × [Twig](../../items/materials/twig-1798662696.md), 1 × [Linnen](../../items/materials/linnen-1815424180.md), 1 × [Red Fabric](../../items/materials/red-fabric-3960097842.md) → 2 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -17,6 +17,30 @@ One of 7 versions of this item: see [Halescourge](../../objects/weapons/halescou
 
 A blade that's cold tot he touch. It weighs heavily on the mind.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting 50%, Ice 50% |
+| Attack Speed | 0.6 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Heavy | - |
+| 3 | Heavy | - |
+| 4 | Precise | +6 Precise |
+| 5 | Heavy | - |
+
+## How to get it
+
+- **Blacksmith**: 3 × [Gold Bars](../../items/materials/gold-bars-514509650.md), 6 × [Glow Dust](../../items/materials/glow-dust-1830151622.md), 5 × [Brittle Shroud Petals](../../items/materials/brittle-shroud-petals-1284326318.md), 3 × [Tropical Wood](../../items/materials/tropical-wood-1283252179.md), 2 × T5 Steel Bar Desc → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

@@ -15,6 +15,26 @@
 
 A once mighty weapon. Now decayed but still deadly.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting |
+| Attack Speed | 0.6 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Brutal | +16 Brutal |
+| 2 | Heavy | - |
+| 3 | Brutal | +16 Brutal |
+| 4 | Heavy | - |
+| 5 | Brutal | +16 Brutal |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

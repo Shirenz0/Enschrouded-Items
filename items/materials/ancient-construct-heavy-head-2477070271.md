@@ -15,6 +15,10 @@
 
 head or eye from the ancient construct heavy desc
 
+## Used to make
+
+[Gold Ancient Construct: Heavy Trophy](../../items/buildtools/gold-ancient-construct-heavy-trophy-962609600.md), [Iron Ancient Construct: Heavy Trophy](../../items/buildtools/iron-ancient-construct-heavy-trophy-1753788725.md), [Bronze Ancient Construct: Heavy Trophy](../../items/buildtools/bronze-ancient-construct-heavy-trophy-1715982707.md), [Ancient Construct: Heavy Trophy](../../items/buildtools/ancient-construct-heavy-trophy-825905286.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

@@ -19,6 +19,19 @@ A soup made from various vegetables full of vitamins and energy.
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 40:00 min |
+| Ranged Damage | 12 |
+| % Dagger Damage | 12 |
+| Mana Regeneration | 12 |
+
+## How to get it
+
+- **Kitchen**: 3 × [Forest Beet](../../items/consumables/forest-beet-3542827745.md), 1 × [Salt](../../items/materials/salt-1564406835.md), 3 × [Bell Pepper](../../items/consumables/bell-pepper-4094316095.md), 3 × [Tomatos](../../items/consumables/tomatos-1036540037.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

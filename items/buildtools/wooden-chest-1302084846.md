@@ -23,6 +23,10 @@ Offers a some  amount of storage space to store items.
 
 Carpenter
 
+## How to get it
+
+- **Carpenter**: 5 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 3 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md), 3 × [Charcoal](../../items/materials/charcoal-372029138.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

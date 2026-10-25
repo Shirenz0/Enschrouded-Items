@@ -19,6 +19,10 @@ food bunny feeding description
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 1 × [Hazelnut](../../items/consumables/hazelnut-3360608010.md), 1 × [Strawberry](../../items/consumables/strawberry-3479563223.md), 3 × [Corncob](../../items/consumables/corncob-3118804138.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

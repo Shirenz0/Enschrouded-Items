@@ -19,6 +19,21 @@ t6 grilled crab meat desc
 
 Seafood Grill
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 50:00 min |
+| Health | 240 |
+
+## How to get it
+
+- **Medieval Grill**: 1 × [Crab Meat](../../items/consumables/crab-meat-3869409947.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

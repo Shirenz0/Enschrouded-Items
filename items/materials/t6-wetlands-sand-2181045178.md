@@ -19,6 +19,10 @@ A bright Sand from shells
 
 Veilwater Basin
 
+## Used to make
+
+[Ground Coffee Beans](../../items/materials/ground-coffee-beans-1358181917.md), [Fertile Wetlands T6 Dirt](../../items/materials/fertile-wetlands-t6-dirt-1422307195.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

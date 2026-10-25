@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in **basalt farm soil**. Once f
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Ancient "Cabbage" Leaves](../../items/consumables/ancient-cabbage-leaves-1682430863.md), 1 × [Basalt Farm Soil](../../items/materials/basalt-farm-soil-1930450533.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

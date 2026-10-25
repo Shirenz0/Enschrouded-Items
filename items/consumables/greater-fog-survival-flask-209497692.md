@@ -26,6 +26,16 @@ Extends the fog survivability after consumption by 4 Minutes. This effect will l
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Max Shroud Survivability | 240,000 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Alchemical Base](../../items/materials/alchemical-base-2371777842.md), 15 × [Green Mushroom Meat](../../items/materials/green-mushroom-meat-90588998.md), 1 × [Critter Glands](../../items/materials/critter-glands-1693311429.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

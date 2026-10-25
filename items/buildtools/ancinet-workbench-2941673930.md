@@ -23,6 +23,10 @@ This Ancient Workbench is only a visual varaition of the normal workbench.
 
 > Furniture
 
+## How to get it
+
+- **Archeologist**: 2 × [Celesthium Bars](../../items/materials/celesthium-bars-2893592883.md), 10 × [T7 material Ancient Land granite stone](../../items/materials/t7-material-ancient-land-granite-stone-2851443310.md), 6 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

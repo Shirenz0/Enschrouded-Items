@@ -19,6 +19,10 @@ T6 Lizard Temple Block description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 9 × T6 material limestone from shells, 1 × [Gold Bars](../../items/materials/gold-bars-514509650.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

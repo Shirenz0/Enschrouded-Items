@@ -19,6 +19,10 @@ Use Bronze Blocks to add decorative elements to your buildings.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 1 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 5 × one of: [Wood Logs](../../items/materials/wood-logs-722268629.md) / [Hardwood](../../items/materials/hardwood-1765656585.md) / [Palmwood Logs](../../items/materials/palmwood-logs-2955233340.md) / [Conifer Logs](../../items/materials/conifer-logs-1475408789.md) / … (6 options) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

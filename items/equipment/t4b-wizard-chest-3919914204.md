@@ -15,6 +15,29 @@
 
 This armor was conceived in order to contain the smoldering magical energy within. If worn by a mere apprentice rather than an elder, it could make their heart stop.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+| Armor | Physical and Magical |
+| Health | 150 |
+| Mana | 120 |
+| Cold Resistance | 4 |
+| Wet Duration Reduction | 3:00 min |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Cutting Armor | - |
+| 2 | Mana | +30 Mana |
+| 3 | +1 Wizard | Increases the skill level of Wizard by +1 |
+| 4 | Fog Armor | - |
+| 5 | +1 Dark Arts | Increases the skill level of Dark Arts by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -17,6 +17,28 @@ One of 5 versions of this item: see [Shroud Weaver](../../objects/weapons/shroud
 
 A malicious staff that effortlessly intertwines the strings of fate with the Shroud.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ranged weapon |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Brutal | +18 Brutal |
+| 3 | +1 Mana Currents | Increases the skill level of Mana Currents by +1 |
+| 4 | Heavy | - |
+| 5 | Nebulous | +10 Nebulous |
+
+## How to get it
+
+- **Alchemist**: 2 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 2 × [Glass](../../items/materials/glass-2246309017.md), 2 × [Tin Bars](../../items/materials/tin-bars-1072522988.md), 2 × [Shroud Adhesive](../../items/materials/shroud-adhesive-1047122195.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

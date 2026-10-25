@@ -19,6 +19,10 @@ Place this Drain on the Wall, all Water that is above it will be sucked in.
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 2 × [Iron Bars](../../items/materials/iron-bars-159114158.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

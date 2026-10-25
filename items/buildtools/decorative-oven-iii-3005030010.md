@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 4 × [Fired Brick](../../items/materials/fired-brick-1261933427.md), 2 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 2 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 1 × [Copper Bar](../../items/materials/copper-bar-170689373.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

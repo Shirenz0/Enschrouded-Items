@@ -19,6 +19,14 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 2 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 4 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
+## Used to make
+
+[Carved Wooden Double Door](../../items/buildtools/carved-wooden-double-door-3966046547.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

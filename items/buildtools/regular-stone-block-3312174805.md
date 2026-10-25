@@ -19,6 +19,10 @@ A Regular Stone Block used for everyday construction.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Stone](../../items/materials/stone-631520303.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

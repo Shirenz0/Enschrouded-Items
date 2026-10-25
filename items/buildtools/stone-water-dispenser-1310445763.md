@@ -19,6 +19,10 @@ This item allows you to create water. Place it wherever you like, and it will sp
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 40 × T6 material limestone from shells, 4 × T5 Steel Bar Desc, 8 × [Iron Dust](../../items/materials/iron-dust-4114143627.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

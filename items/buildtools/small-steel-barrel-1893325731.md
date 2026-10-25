@@ -23,6 +23,14 @@ A decorative object to design and beautify yout home.
 
 Blacksmith
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 4 × T5 Steel Bar Desc, 4 × T5 Material Coal Name → 1 ×
+
+## Used to make
+
+[Coffee Roastery](../../items/buildtools/coffee-roastery-2068629527.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

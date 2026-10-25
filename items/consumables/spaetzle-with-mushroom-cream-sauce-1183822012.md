@@ -19,6 +19,20 @@ spatzle with mushroom cream sauce desc
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Stamina | 20 |
+| Melee Damage | 18 |
+| Cold Resistance | 2 |
+| Stamina Regeneration | 9 |
+| Duration | 50:00 min |
+
+## How to get it
+
+- **Kitchen**: 2 × [Flour](../../items/materials/flour-169532188.md), 5 × [Eggs](../../items/consumables/eggs-1896276940.md), 3 × [Mountaingoat Milk](../../items/consumables/mountaingoat-milk-443792978.md), 5 × [Penny Bun](../../items/consumables/penny-bun-600862405.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

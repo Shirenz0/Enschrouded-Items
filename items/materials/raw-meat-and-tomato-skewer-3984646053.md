@@ -19,6 +19,14 @@ A hunter's favorite ration, crafted for precision. After you've grilled it over 
 
 Manual Crafting
 
+## How to get it
+
+- **an unnamed station**: 1 × [Tomatos](../../items/consumables/tomatos-1036540037.md), 1 × [Raw Lean Meat](../../items/consumables/raw-lean-meat-1492892444.md) → 1 ×
+
+## Used to make
+
+[Meat Skewer with Tomato](../../items/consumables/meat-skewer-with-tomato-1767022245.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

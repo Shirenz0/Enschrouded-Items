@@ -19,6 +19,10 @@ A star high up in the sky, lost in a sea of only darkness around.
 
 > Map
 
+## Used to make
+
+[The Dragon's Map](../../items/collectibles/the-dragon-s-map-3491672504.md)
+
 ---
 
 [← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)

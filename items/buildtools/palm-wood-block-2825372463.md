@@ -19,6 +19,10 @@ Perfect to build a provisional house in hot areas. Palm wood is a great alternat
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 7 × [Palmwood Logs](../../items/materials/palmwood-logs-2955233340.md), 3 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

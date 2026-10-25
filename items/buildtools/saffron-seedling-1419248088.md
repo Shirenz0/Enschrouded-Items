@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Saffron](../../items/materials/saffron-3696168941.md), 1 × [Fertilised Farm Soil](../../items/materials/fertilised-farm-soil-260133819.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

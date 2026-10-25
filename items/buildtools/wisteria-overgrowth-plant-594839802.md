@@ -23,6 +23,10 @@ Use this material to decorate any voxel material using the ??? tool
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 2 × [T6 Wetlands Dirt](../../items/materials/t6-wetlands-dirt-4095370049.md), 3 × [Passionflower](../../items/materials/passionflower-4148439656.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

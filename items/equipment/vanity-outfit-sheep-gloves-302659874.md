@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Vanity Outfit Sheep gloves](../../objects/e
 
 Vanity  Outfit Sheep  gloves  Desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Hands |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

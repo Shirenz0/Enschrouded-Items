@@ -23,6 +23,14 @@ A decorative object to design and beautify yout home.
 
 Carpenter
 
+## How to get it
+
+- **Carpenter**: 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 10 × [String](../../items/materials/string-419344916.md) → 1 ×
+
+## Used to make
+
+[Secret Crude Wooden Bookshelf Door](../../items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

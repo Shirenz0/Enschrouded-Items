@@ -19,6 +19,17 @@ Restores some mana instantly and provides an additional Mana over time effect fo
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Mana per second | 12 |
+| Mana | 160 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Shadow Rose](../../items/materials/shadow-rose-310580024.md), 1 × [Consumable Potion Mana T5](../../items/consumables/consumable-potion-mana-t5-3087876.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

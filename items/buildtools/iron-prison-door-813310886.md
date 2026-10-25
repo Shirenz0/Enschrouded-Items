@@ -19,6 +19,14 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 5 × [Charcoal](../../items/materials/charcoal-372029138.md), 5 × [Iron Bars](../../items/materials/iron-bars-159114158.md) → 1 ×
+
+## Used to make
+
+[Iron Prison Double Door](../../items/buildtools/iron-prison-double-door-1641389400.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

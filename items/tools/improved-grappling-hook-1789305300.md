@@ -19,6 +19,21 @@ Use fewer Stamina. Activate at larger ranges.
 
 Carpenter
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Grappling hook |
+| Stamina Cost | 30 |
+
+## How to get it
+
+- **Carpenter**: 1 × [Fog Core](../../items/materials/fog-core-1528590138.md), 2 × [Fog Liquid](../../items/materials/fog-liquid-860644516.md), 3 × [Fog Essence](../../items/materials/fog-essence-2559861108.md), 1 × [Grappling Hook](../../items/tools/grappling-hook-1438617272.md) → 1 ×
+
+## Used to make
+
+[Underwater Grappling Hook](../../items/tools/underwater-grappling-hook-3326121147.md)
+
 ---
 
 [← Tools](../../categories/tools.md) · [All categories](../../README.md)

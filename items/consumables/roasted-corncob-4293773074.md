@@ -19,6 +19,17 @@ Roasted with a smoky aroma it’s a real pleasure for the taste buds, able to se
 
 Campfire
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 20:00 min |
+| Melee Damage | 6 |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Corncob](../../items/consumables/corncob-3118804138.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

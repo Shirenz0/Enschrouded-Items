@@ -19,6 +19,17 @@ A poisoned Celesthium steel tipped arrow embellished with gold.
 
 Crafting, Huntress
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Piercing 50%, Poison 50% |
+
+## How to get it
+
+- **Hunter**: 25 × [Celesthium Steel Arrow](../../items/ammunition/celesthium-steel-arrow-2519697782.md), 1 × [Sulfur](../../items/materials/sulfur-2819734894.md), 2 × one of: [Poison Sting](../../items/materials/poison-sting-2632607216.md) / [Fish Poison Gland](../../items/materials/fish-poison-gland-3610183331.md) → 25 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -19,6 +19,17 @@ A poisoned steel tipped arrow embellished with gold.
 
 Crafting, Huntress
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Piercing 50%, Poison 50% |
+
+## How to get it
+
+- **Hunter**: 25 × [Golden Steel Arrow](../../items/ammunition/golden-steel-arrow-3634108976.md), 1 × Placeholder: Improved Variant Of Poison Sack, 2 × [Daylily Flower](../../items/materials/daylily-flower-1897605064.md), 5 × [Poison Sting](../../items/materials/poison-sting-2632607216.md) → 25 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

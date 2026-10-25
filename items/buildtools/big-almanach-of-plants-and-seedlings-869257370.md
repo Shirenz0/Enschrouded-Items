@@ -23,6 +23,10 @@ Explains how to grow all sorts of seedlings.
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 25 × [Paper](../../items/materials/paper-287018928.md), 5 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

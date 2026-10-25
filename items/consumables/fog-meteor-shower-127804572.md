@@ -15,6 +15,14 @@
 
 This scroll is enchanted with the power of the T4 Shroud Meteor. It releases a shower of T4 Shroud Meteor on up to five enemies around the caster. But be careful with its usage, as it drains your fog survivability upon usage.
 
+## Stats
+
+| | |
+|---|---|
+| Damage type | Shroud |
+| Mana Cost | 80 |
+| Max Shroud Survivability | -240,000 |
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

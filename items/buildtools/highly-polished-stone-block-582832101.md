@@ -19,6 +19,10 @@ A stone block refined with the highest level of craftsmanship, rarely seen even 
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 15 × [Stone](../../items/materials/stone-631520303.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ This Loot Drop Station can be used to drop items from your backpack to matching 
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 1 × [Fog Core](../../items/materials/fog-core-1528590138.md), 2 × [Goo](../../items/materials/goo-3403995938.md), 5 × [Deepforest Stone](../../items/materials/deepforest-stone-1181280513.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

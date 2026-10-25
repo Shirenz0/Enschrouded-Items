@@ -15,6 +15,14 @@
 
 mix of materials, mainly stones and dirt
 
+## How to get it
+
+- **Grinding Stones**: 1 × [Rubble](../../items/materials/rubble-1257792166.md), 5 × T7 material stone, 1 × [T7 AncientLand Dirt](../../items/materials/t7-ancientland-dirt-2421105715.md) → 10 ×
+
+## Used to make
+
+[Road Stone 5 Ancientland](../../items/materials/road-stone-5-ancientland-1187543406.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

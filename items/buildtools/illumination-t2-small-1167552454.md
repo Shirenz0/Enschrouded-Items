@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 2 |
+
+## How to get it
+
+- **Collector**: 1 × [Candle](../../items/buildtools/candle-2939168228.md), 2 × [Bones](../../items/materials/bones-2053375978.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

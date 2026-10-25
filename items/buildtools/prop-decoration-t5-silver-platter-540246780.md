@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 1 × T5 Silver Bar, 1 × [Charcoal](../../items/materials/charcoal-372029138.md) → 3 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

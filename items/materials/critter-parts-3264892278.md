@@ -19,6 +19,10 @@ Remains of the pests that dwell below the fog. These parts should be rich with f
 
 Springlands and Revelwood Fell Enemies
 
+## Used to make
+
+[Simple Fishing Bait](../../items/ammunition/simple-fishing-bait-3151503945.md), [T1 Entangle I](../../items/ammunition/t1-entangle-i-1843940779.md), [Bug Dust](../../items/materials/bug-dust-957162158.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

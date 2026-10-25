@@ -23,6 +23,10 @@ A medieval grill that can be used to prepare advanced fish dishes. your fish fil
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 10 × T5 Steel Bar Desc, 5 × [Fired Brick](../../items/materials/fired-brick-1261933427.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

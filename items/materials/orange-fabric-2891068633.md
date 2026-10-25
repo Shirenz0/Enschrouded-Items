@@ -19,6 +19,10 @@ Orange dyed fabric used for clothing.
 
 Crafting, Huntress
 
+## How to get it
+
+- **Hunter**: 1 × [Fabric](../../items/materials/fabric-2128518559.md), 1 × [Daylily Flower](../../items/materials/daylily-flower-1897605064.md) → 1 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

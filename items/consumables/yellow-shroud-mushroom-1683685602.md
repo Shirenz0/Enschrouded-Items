@@ -19,6 +19,17 @@ Tastes very bitter. Maybe palatable  when cooked.
 
 find in Albaneve Summits Shroud
 
+## Stats
+
+| | |
+|---|---|
+| Stamina | -60 |
+| Health | -70 |
+
+## Used to make
+
+[Yellow Glow Soup](../../items/consumables/yellow-glow-soup-305385380.md), [Chanterelle Seedling](../../items/buildtools/chanterelle-seedling-1783208373.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

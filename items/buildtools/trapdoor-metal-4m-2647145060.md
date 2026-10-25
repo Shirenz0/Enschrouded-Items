@@ -15,6 +15,10 @@
 
 This trap door might open unexpectedly beneath your feet. Watch your step!
 
+## How to get it
+
+- **Logic System Workbench**: 2 × [Tin Bars](../../items/materials/tin-bars-1072522988.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

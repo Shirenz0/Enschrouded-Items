@@ -17,6 +17,26 @@ One of 2 versions of this item: see [T2 Ranger Chest](../../objects/equipment/t2
 
 Minor protection, but it hardly matters. Just hit them before they ever see you.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+| Armor | Physical and Magical |
+| Stamina | 24 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Blunt Armor | - |
+| 2 | Piercing Armor | - |
+| 3 | +1 Vitality Surge | Increases the skill level of Vitality Surge by +1 |
+| 4 | Stamina | +8 Stamina |
+| 5 | +1 Ranger | Increases the skill level of Ranger by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

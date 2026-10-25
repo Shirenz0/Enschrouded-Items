@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Collector**: 2 × [Pumpkin](../../items/consumables/pumpkin-4234426543.md), 1 × [Fire Fly](../../items/ammunition/fire-fly-1014899877.md), 1 × [Glow Dirt Green](../../items/materials/glow-dirt-green-2149011961.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

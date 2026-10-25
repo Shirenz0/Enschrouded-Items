@@ -19,6 +19,19 @@ Magical ammunition that ignites a single firebolt, dealing damage to a single ta
 
 Manual Crafting
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Fire |
+| Mana Cost | 29 |
+| Cast Time | 0.75 s |
+
+## How to get it
+
+- **an unnamed station**: 4 × [Resin](../../items/materials/resin-4109728689.md) → 20 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -17,6 +17,17 @@ One of 2 versions of this item: see [Small Backpack](../../objects/equipment/sma
 
 Backpack t1  NEW Copy from old one
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Backpack |
+| Slots | 16 |
+
+## How to get it
+
+- **Workbench**: 1 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md), 4 × [Dried Fur](../../items/materials/dried-fur-3420500473.md), 1 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

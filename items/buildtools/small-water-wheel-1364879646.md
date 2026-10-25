@@ -23,6 +23,10 @@ Small power wheel but still enough for running a grinder
 
 Crafting, Alchemist
 
+## How to get it
+
+- **Alchemist**: 4 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 7 × [Tropical Wood](../../items/materials/tropical-wood-1283252179.md), 2 × [Iron Bars](../../items/materials/iron-bars-159114158.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

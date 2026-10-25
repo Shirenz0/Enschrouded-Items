@@ -19,6 +19,10 @@ This color palette is energetic and festive, evoking lush foliage and joyful cel
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md), 2 × T5 Silver Dust, 2 × [Green Vitriol Dust](../../items/materials/green-vitriol-dust-3702590848.md), 1 × [Sulfur](../../items/materials/sulfur-2819734894.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

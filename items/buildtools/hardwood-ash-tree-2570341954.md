@@ -23,6 +23,10 @@ A seedling that will soon grow into a plant, should it be placed into the right 
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Farm Soil](../../items/materials/farm-soil-1823674426.md), 1 × [Hardwood](../../items/materials/hardwood-1765656585.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

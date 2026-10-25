@@ -19,6 +19,10 @@ A mannequin which cn be dressed in Armor or vanity Items to tell tales of an adv
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 3 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

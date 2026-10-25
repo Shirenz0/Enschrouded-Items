@@ -21,6 +21,10 @@ A medium potted plant to beautify your home.
 
 > Potted Plant
 
+## How to get it
+
+- **Farmer**: 4 × [Empty Flower Pot II](../../items/buildtools/empty-flower-pot-ii-624884086.md), 1 × [Flower Soil](../../items/materials/flower-soil-3604850591.md) → 4 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ The natural way to decorate a roof.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Stone](../../items/materials/stone-631520303.md), 5 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

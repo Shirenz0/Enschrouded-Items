@@ -19,6 +19,19 @@ Coffee with a splash of milk
 
 Coffee Brewery
 
+## Stats
+
+| | |
+|---|---|
+| Stamina | 30 |
+| Duration | 55:00 min |
+| Magic Damage Multiplier | 6 |
+| Stamina Regeneration | 30 |
+
+## How to get it
+
+- **Roaster**: 5 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md), 5 × [Ground Coffee Beans](../../items/materials/ground-coffee-beans-1358181917.md), 3 × one of: [Milk](../../items/consumables/milk-2873455991.md) / [Mountaingoat Milk](../../items/consumables/mountaingoat-milk-443792978.md) / [Uncoocked Catdeer Milk](../../items/consumables/uncoocked-catdeer-milk-2012645754.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

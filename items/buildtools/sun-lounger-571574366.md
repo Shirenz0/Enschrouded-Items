@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort (Category Bed) | 1 |
+
+## How to get it
+
+- **Carpenter**: 4 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 2 × [String](../../items/materials/string-419344916.md), 2 × [Dried Fur](../../items/materials/dried-fur-3420500473.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

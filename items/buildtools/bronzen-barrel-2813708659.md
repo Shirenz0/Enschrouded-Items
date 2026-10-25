@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 4 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 4 × [Charcoal](../../items/materials/charcoal-372029138.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

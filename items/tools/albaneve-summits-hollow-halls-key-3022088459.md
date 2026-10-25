@@ -15,6 +15,10 @@
 
 Key for the Albaneve Summits Hollow Halls
 
+## How to get it
+
+- **Collector**: 20 × [Krypt Krystal](../../items/materials/krypt-krystal-3953523416.md), 1 × [Giant bones](../../items/materials/giant-bones-2956062198.md), 1 × T5 Silver Bar → 1 ×
+
 ---
 
 [← Tools](../../categories/tools.md) · [All categories](../../README.md)

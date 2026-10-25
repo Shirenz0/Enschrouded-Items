@@ -19,6 +19,10 @@ A massive, unblinking eye brimming with ancient Shroud power, torn from the mons
 
 Fell Cyclops, Albaneve Summits Shroud
 
+## Used to make
+
+[Eternal Frost Arrow II](../../items/ammunition/eternal-frost-arrow-ii-945340556.md), [Ward T5](../../items/equipment/ward-t5-2394759659.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

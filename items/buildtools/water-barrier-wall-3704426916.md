@@ -19,6 +19,10 @@ A water barrier that uses some magic
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 10 × T6 material limestone from shells, 2 × [Gold Bars](../../items/materials/gold-bars-514509650.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

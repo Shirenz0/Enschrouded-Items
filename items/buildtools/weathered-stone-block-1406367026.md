@@ -19,6 +19,10 @@ In ancient times, these blocks were used to build dungeons and catacombs. Nowada
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Stone](../../items/materials/stone-631520303.md), 5 × [Deepforest Stone](../../items/materials/deepforest-stone-1181280513.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

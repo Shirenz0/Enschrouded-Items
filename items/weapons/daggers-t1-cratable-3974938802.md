@@ -15,6 +15,19 @@
 
 Daggers T1 Cratable Descritpion
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Piercing |
+| Attack Speed | 0.4 s |
+| Parry Power | 1 |
+
+## How to get it
+
+- **an unnamed station**: 4 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ darker Shades of Brown and Green
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Ammoniak Gland](../../items/materials/ammoniak-gland-2027586500.md), 2 × [Steppes Dirt](../../items/materials/steppes-dirt-2732808327.md), 2 × [Fossilized Bone Dust](../../items/materials/fossilized-bone-dust-3073226096.md), 1 × [Shroud Adhesive](../../items/materials/shroud-adhesive-1047122195.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

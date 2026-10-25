@@ -19,6 +19,21 @@ Tastes like freedom and smells like chicken... It has a rejuvenating effect.
 
 Cooking Station
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 25:00 min |
+| Health | 80 |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Raw Game](../../items/consumables/raw-game-2512460235.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -26,6 +26,12 @@ Extends the fog survivability after consumption by 4 Minutes. This effect will l
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Max Shroud Survivability | 360,000 |
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

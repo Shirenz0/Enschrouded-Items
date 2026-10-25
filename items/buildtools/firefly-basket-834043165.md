@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 1 |
+
+## How to get it
+
+- **Workbench**: 5 × [Fire Fly](../../items/ammunition/fire-fly-1014899877.md), 3 × one of: [Plant Fibre](../../items/materials/plant-fibre-3316218728.md) / [Paper Reed](../../items/materials/paper-reed-1026141130.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

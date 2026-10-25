@@ -19,6 +19,10 @@ A lovely pot of flowers to beautify your world.
 
 > Potted Plant
 
+## How to get it
+
+- **Lunar New Year Trader**: 2 × [Stone](../../items/materials/stone-631520303.md), 1 × [Flower Soil](../../items/materials/flower-soil-3604850591.md) → 2 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

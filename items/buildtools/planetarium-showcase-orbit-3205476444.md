@@ -19,6 +19,10 @@ A pillar which can hold planets and orbits.
 
 > Furniture
 
+## How to get it
+
+- **Alchemist**: 5 × [T7 material Ancient Land granite stone](../../items/materials/t7-material-ancient-land-granite-stone-2851443310.md), 10 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

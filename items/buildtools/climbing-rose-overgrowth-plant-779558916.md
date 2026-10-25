@@ -23,6 +23,10 @@ Use this material to decorate any voxel material using the ??? tool
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 4 × [Deep Forest Dirt](../../items/materials/deep-forest-dirt-3937186197.md), 1 × [Flax](../../items/materials/flax-3898847112.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

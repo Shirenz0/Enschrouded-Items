@@ -19,6 +19,14 @@ An aged stone that outlasted for centuries. Leaves one wonder what kind of thing
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 6 × [Lime Stone](../../items/materials/lime-stone-3445636557.md), 4 × [Dirt](../../items/materials/dirt-1558115984.md) → 100 ×
+
+## Used to make
+
+[Secret Limestone Door](../../items/buildtools/secret-limestone-door-964619626.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

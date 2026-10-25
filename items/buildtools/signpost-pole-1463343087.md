@@ -19,6 +19,10 @@ A signpost that can be used to attach direction signs.
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 1 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

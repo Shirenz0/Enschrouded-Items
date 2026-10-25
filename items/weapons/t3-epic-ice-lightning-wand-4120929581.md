@@ -15,6 +15,29 @@
 
 Ice lightning descr
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Ice |
+| Overcharge | 18 |
+| Attack Speed | 0.6 s |
+| Mana Regeneration | 8 |
+| Multishot | 1 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Precise | +5 Precise |
+| 3 | Heavy | - |
+| 4 | Brutal | +16 Brutal |
+| 5 | Heavy | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

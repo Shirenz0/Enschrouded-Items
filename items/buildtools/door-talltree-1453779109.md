@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 8 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 4 × [Twig](../../items/materials/twig-1798662696.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 1 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 2 × [Charcoal](../../items/materials/charcoal-372029138.md), 1 × [Glass](../../items/materials/glass-2246309017.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

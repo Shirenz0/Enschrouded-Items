@@ -19,6 +19,10 @@ Ancoent Moon Stone Block description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × Moonstone, 4 × [Sparkling Dust](../../items/materials/sparkling-dust-844454296.md), 3 × [T7 material Ancient Land granite stone](../../items/materials/t7-material-ancient-land-granite-stone-2851443310.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

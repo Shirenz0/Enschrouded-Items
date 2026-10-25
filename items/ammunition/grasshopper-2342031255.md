@@ -19,6 +19,16 @@ Grasshopper desc, can be used as fish bait
 
 Nomad Highlands
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Fishing bait |
+
+## Used to make
+
+[Uncommon Bait](../../items/ammunition/uncommon-bait-2520666169.md), [Food Turkey Feeding](../../items/buildtools/food-turkey-feeding-2553328095.md)
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

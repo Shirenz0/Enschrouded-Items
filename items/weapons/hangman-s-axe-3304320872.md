@@ -15,6 +15,27 @@
 
 When there is no gallows around.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting |
+| Parry Power | 1 |
+| Attack Speed | 0.774 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 |  | - |
+| 2 | Precise | +4 Precise |
+| 3 | Brutal | +12 Brutal |
+| 4 | Precise | +4 Precise |
+| 5 | Brutal | +12 Brutal |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

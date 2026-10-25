@@ -19,6 +19,10 @@ Highly qualitative wood that was manufactured with an eye for detail.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 8 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

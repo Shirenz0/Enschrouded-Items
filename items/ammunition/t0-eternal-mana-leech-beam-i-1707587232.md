@@ -19,6 +19,18 @@ Magical Beam that leeches Mana from enemies without dealing damage to them.
 
 Manual Crafting
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Mana per second | 7 |
+| Cast Time | 0.5 s |
+
+## How to get it
+
+- **an unnamed station**: 5 × [Bones](../../items/materials/bones-2053375978.md) → 1 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

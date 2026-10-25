@@ -19,6 +19,14 @@ Basic tools needed for a laboratory and scientific experiments.
 
 > Furniture
 
+## How to get it
+
+- **Alchemist**: 10 × [Glass](../../items/materials/glass-2246309017.md), 10 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 5 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 20 × [Charcoal](../../items/materials/charcoal-372029138.md) → 1 ×
+
+## Used to make
+
+[Laboratory](../../items/buildtools/laboratory-1750422149.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

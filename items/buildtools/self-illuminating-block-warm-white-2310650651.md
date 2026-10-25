@@ -19,6 +19,10 @@ Block Crafted from Warm White  glowdirt . Luminates in a warm white light.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Stone](../../items/materials/stone-631520303.md), 5 × [Glow Dirt WarmWhite](../../items/materials/glow-dirt-warmwhite-3962501836.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

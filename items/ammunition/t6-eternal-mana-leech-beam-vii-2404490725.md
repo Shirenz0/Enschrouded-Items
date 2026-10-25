@@ -19,6 +19,18 @@ Magical Beam that leeches Mana from enemies without dealing damage to them.
 
 Manual Crafting
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Mana per second | 25 |
+| Cast Time | 0.5 s |
+
+## How to get it
+
+- **an unnamed station**: 4 × [Aquamarine Dust](../../items/materials/aquamarine-dust-554104227.md), 8 × [Passionflower](../../items/materials/passionflower-4148439656.md) → 1 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

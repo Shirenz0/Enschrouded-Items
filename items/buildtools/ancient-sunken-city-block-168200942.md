@@ -19,6 +19,10 @@ This block has an aesthetic which is exclusive to the Blackmire. Only in the Sun
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 100 × [Ancient Gray Stone Block](../../items/buildtools/ancient-gray-stone-block-2060473756.md), 5 × [T2 Talltree Stone](../../items/materials/t2-talltree-stone-760251531.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

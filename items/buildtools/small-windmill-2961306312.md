@@ -23,6 +23,10 @@ Small Windmill but still enough for running a grinder
 
 Crafting, Alchemist
 
+## How to get it
+
+- **Alchemist**: 8 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 16 × [Tropical Wood](../../items/materials/tropical-wood-1283252179.md), 2 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 8 × [Fabric](../../items/materials/fabric-2128518559.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

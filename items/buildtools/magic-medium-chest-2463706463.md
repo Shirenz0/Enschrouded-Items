@@ -23,6 +23,12 @@ Offers a medium amount of storage space to store items. The items stored here ca
 
 Carpenter
 
+## How to get it
+
+- **Carpenter**: 1 × [Medium Chest](../../items/buildtools/medium-chest-3642338342.md), 1 × [Fog Core](../../items/materials/fog-core-1528590138.md), 2 × [Goo](../../items/materials/goo-3403995938.md) → 1 ×
+- **an unnamed station**: 8 × [Nails](../../items/materials/nails-2743545700.md), 2 × [Goo](../../items/materials/goo-3403995938.md), 1 × [Fog Core](../../items/materials/fog-core-1528590138.md), 10 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md) → 1 ×
+- **an unnamed station**: 1 × [Fog Core](../../items/materials/fog-core-1528590138.md), 2 × [Goo](../../items/materials/goo-3403995938.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

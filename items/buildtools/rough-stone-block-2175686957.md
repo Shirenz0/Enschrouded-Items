@@ -19,6 +19,14 @@ A Rough Stone Block built in the most basic manner of craftsmanship.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 2 × [Stone](../../items/materials/stone-631520303.md) → 100 ×
+
+## Used to make
+
+[Stone Floor Secret](../../items/buildtools/stone-floor-secret-1818315440.md), [Stone Wall Secret](../../items/buildtools/stone-wall-secret-3109447286.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

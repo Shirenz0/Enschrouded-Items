@@ -21,6 +21,17 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Cold Resistance | 2 |
+| Comfort - Hearth | 5 |
+
+## How to get it
+
+- **Carpenter**: 3 × [Resin](../../items/materials/resin-4109728689.md), 4 × T5 Material Granite, 2 × T5 Steel Bar Desc, 3 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md), 2 × T5 Material Coal Name → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

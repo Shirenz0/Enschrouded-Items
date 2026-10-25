@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 1 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md), 1 × [Charcoal](../../items/materials/charcoal-372029138.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ This item allows you to create water. Place it wherever you like, and it will sp
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 1 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 3 × [Tin Bars](../../items/materials/tin-bars-1072522988.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

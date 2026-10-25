@@ -19,6 +19,10 @@ A statue of the late queen Pikemead. An Ingraving reads: Gather 'round, we're dr
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 15 × [Deepforest Stone](../../items/materials/deepforest-stone-1181280513.md), 15 × [Flintstone](../../items/materials/flintstone-1586398842.md), 30 × [Hardwood](../../items/materials/hardwood-1765656585.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

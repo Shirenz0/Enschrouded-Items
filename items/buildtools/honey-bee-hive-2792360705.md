@@ -23,6 +23,10 @@ With patience anything can be domesticated. You can use it to produce Honey and 
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 4 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 20 × [Straw](../../items/materials/straw-3921293392.md), 4 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -23,6 +23,10 @@ Feed tamed turkeys on your farm
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 7 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 1 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

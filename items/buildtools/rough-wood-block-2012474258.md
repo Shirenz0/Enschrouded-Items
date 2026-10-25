@@ -21,6 +21,14 @@ A basic material for construction designated to survival. It's not pretty, but d
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 2 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 100 ×
+
+## Used to make
+
+[Wooden Floor Secret](../../items/buildtools/wooden-floor-secret-296290399.md), [Wood Wall Secret](../../items/buildtools/wood-wall-secret-1917066440.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

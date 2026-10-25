@@ -19,6 +19,10 @@ Bathed in waterproofing liquids, this stone block is mostly used for water stora
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 8 × [Stone](../../items/materials/stone-631520303.md), 2 × [Fog Liquid](../../items/materials/fog-liquid-860644516.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -20,6 +20,20 @@ Maximum limit of summoned Skeletons is 1 by default which can be increased via s
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Cutting 50%, Ice 50% |
+| Mana Cost | 102 |
+| Cast Time | 2 s |
+| Duration | 1:00 min |
+
+## How to get it
+
+- **Collector**: 20 × T2 Green Essence, 50 × [Bones](../../items/materials/bones-2053375978.md) → 100 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

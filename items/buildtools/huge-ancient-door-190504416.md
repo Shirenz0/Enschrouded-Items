@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 20 × [Ancient Circles Block](../../items/buildtools/ancient-circles-block-57557573.md), 10 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

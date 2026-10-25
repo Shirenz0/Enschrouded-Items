@@ -19,6 +19,10 @@ Fresh shroud spores are used to craft medicine that can cure shroud infection.
 
 night
 
+## Used to make
+
+[Shroud Curse Cleanser](../../items/consumables/shroud-curse-cleanser-1518794687.md), [Fog Survival Flask](../../items/consumables/fog-survival-flask-1782997504.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

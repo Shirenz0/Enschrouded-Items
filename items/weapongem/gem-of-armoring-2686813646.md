@@ -15,6 +15,12 @@
 
 Killing an enemy spawns an orb at the enemies location. Collecting the orb allows you to resist all damage for  %k.
 
+## Stats
+
+| | |
+|---|---|
+| Buff Duration | 1 s (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

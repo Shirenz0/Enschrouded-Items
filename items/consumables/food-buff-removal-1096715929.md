@@ -15,6 +15,10 @@
 
 Removes all food buffs.
 
+## How to get it
+
+- **an unnamed station**: 1 × [Poison Sack](../../items/materials/poison-sack-1503622318.md), 2 × [Stinging Nettle](../../items/consumables/stinging-nettle-2290894589.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

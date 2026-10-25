@@ -15,6 +15,26 @@
 
 Helmet of an elixir infused armor set
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+| Armor | Physical and Magical |
+| Critical Strike Chance | 6 |
+| Backstab Damage | 7 |
+| Max Shroud Survivability | -60,000 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | +1 Brute | Increases the skill level of Brute by +1 |
+| 2 | +1 Thunder | Increases the skill level of Thunder by +1 |
+| 3 | +1 Fatal Precision | Increases the skill level of Fatal Precision by +1 |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

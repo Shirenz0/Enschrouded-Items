@@ -19,6 +19,19 @@ Throw to attract the fell.
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Mana Cost | 56 |
+| Duration | 40 s |
+| Throw Interval | 1,000 |
+
+## How to get it
+
+- **Alchemist**: 10 × [Critter Glands](../../items/materials/critter-glands-1693311429.md), 1 × [Fog Sack](../../items/materials/fog-sack-1728169696.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

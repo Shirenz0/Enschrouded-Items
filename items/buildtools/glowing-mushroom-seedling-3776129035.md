@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Shroud Mush](../../items/materials/shroud-mush-4229884102.md), 1 × [Azure Russula](../../items/consumables/azure-russula-1304815894.md), 1 × [Goo](../../items/materials/goo-3403995938.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

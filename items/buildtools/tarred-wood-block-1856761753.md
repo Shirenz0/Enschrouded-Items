@@ -19,6 +19,10 @@ A Tarred Wood Block. Now only the shindles are missing. Or are they?
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 2 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 2 × [Tar](../../items/materials/tar-1714627847.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -21,6 +21,10 @@ Slightly improved to reach more ground water more quickly.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 20 × [Linnen](../../items/materials/linnen-1815424180.md), 100 × [Lime Stone](../../items/materials/lime-stone-3445636557.md), 1 × [Wood Bucket](../../items/buildtools/wood-bucket-3107844914.md), 2 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

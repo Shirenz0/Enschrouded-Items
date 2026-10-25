@@ -19,6 +19,23 @@ Hold to summon bone projectiles that seek out enemies.
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Blunt |
+| Mana Cost | 55 |
+| Cast Time | 0.5 s |
+
+## How to get it
+
+- **Collector**: 20 × T5 Green Essence, 1 × [Giant Ice Bones](../../items/materials/giant-ice-bones-3895216255.md) → 100 ×
+
+## Used to make
+
+[T6 Eternal Bone Channel I](../../items/ammunition/t6-eternal-bone-channel-i-1887970091.md)
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Both a cooking ingredient and a seed for the fields.
 
 Nomad Highlands
 
+## Used to make
+
+[Wheat Seedling](../../items/buildtools/wheat-seedling-1811689543.md), [Flour](../../items/materials/flour-169532188.md), [Food Turkey Feeding](../../items/buildtools/food-turkey-feeding-2553328095.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

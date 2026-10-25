@@ -23,6 +23,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 2 |
+
+## How to get it
+
+- **Carpenter**: 2 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 4 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 2 × [Resin](../../items/materials/resin-4109728689.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,14 @@ A washed version of the Rough Stone Block. Exposed to the weather, the stones ha
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Stone](../../items/materials/stone-631520303.md), 5 × [Steppes Dirt](../../items/materials/steppes-dirt-2732808327.md) → 100 ×
+
+## Used to make
+
+[Castle Wall Secret](../../items/buildtools/castle-wall-secret-22389632.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

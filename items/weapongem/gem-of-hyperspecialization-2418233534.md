@@ -15,6 +15,13 @@
 
 After triggering the weapons Special Ability, any kill within %k will return %k Special Ability Energy.
 
+## Stats
+
+| | |
+|---|---|
+| Buff Duration | 3 s |
+| Special Ability Energy On Kill | 10 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

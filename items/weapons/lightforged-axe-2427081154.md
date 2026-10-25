@@ -15,6 +15,26 @@
 
 Lightforged axe desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting 50%, Fire 50% |
+| Attack Speed | 0.6 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 |  | - |
+| 2 | Merciless | +18 Merciless |
+| 3 | Heavy | - |
+| 4 | Precise | +5 Precise |
+| 5 | Heavy | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

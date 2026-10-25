@@ -15,6 +15,12 @@
 
 Attacking a blocking enemy deals %k additional Stamina Damage and increased pushback.
 
+## Stats
+
+| | |
+|---|---|
+| Stamina Damage | 10 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

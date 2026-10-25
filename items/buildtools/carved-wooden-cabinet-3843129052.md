@@ -19,6 +19,14 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 3 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 1 × [Nails](../../items/materials/nails-2743545700.md) → 1 ×
+
+## Used to make
+
+[Carved Secret Bookshelf Door](../../items/buildtools/carved-secret-bookshelf-door-3126384595.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

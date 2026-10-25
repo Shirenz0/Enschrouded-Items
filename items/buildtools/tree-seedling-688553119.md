@@ -25,6 +25,14 @@ A seedling that will soon grow into a plant, should it be placed into the right 
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Farm Soil](../../items/materials/farm-soil-1823674426.md), 1 × [Twig](../../items/materials/twig-1798662696.md) → 5 ×
+
+## Used to make
+
+[Big Decorative Tree](../../items/buildtools/big-decorative-tree-2615961605.md), [Small Decorative Tree](../../items/buildtools/small-decorative-tree-2244944221.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

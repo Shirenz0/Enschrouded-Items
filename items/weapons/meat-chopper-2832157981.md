@@ -15,6 +15,26 @@
 
 A primitively crafted, but brutal weapon, awaiting its next prey to serve its purpose.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting |
+| Attack Speed | 0.6 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 |  | - |
+| 2 | Brutal | +16 Brutal |
+| 3 |  | - |
+| 4 | Merciless | +16 Merciless |
+| 5 | Brutal | +16 Brutal |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

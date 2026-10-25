@@ -19,6 +19,18 @@ An even better version of the grilled fish cutlet. it's got all the flavors
 
 Seafood Grill
 
+## Stats
+
+| | |
+|---|---|
+| Health | 40 |
+| Duration | 25:00 min |
+| Maximum Oxygen | 10 |
+
+## How to get it
+
+- **Medieval Grill**: 1 × [Fish Cutlet](../../items/consumables/fish-cutlet-663961575.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

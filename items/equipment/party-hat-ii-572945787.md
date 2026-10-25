@@ -15,6 +15,16 @@
 
 Party Hat Desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Head |
+
+## How to get it
+
+- **Bard**: 1 × [Linnen](../../items/materials/linnen-1815424180.md), 1 × T5 Material Violet Fabric → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

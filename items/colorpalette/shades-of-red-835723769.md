@@ -19,6 +19,10 @@ Dark and muted hues of red create the perfect color combination for a night walk
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md), 1 × T5 Material Granite, 2 × [Sulfur](../../items/materials/sulfur-2819734894.md), 1 × [Passionflower](../../items/materials/passionflower-4148439656.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

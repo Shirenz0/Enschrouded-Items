@@ -19,6 +19,19 @@ A soup made from various vegetables full of vitamins and energy. It glows in the
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Mana | 40 |
+| Fog Survivability Extension | 120,000 |
+| Duration | 40:00 min |
+| Mana Regeneration | 6 |
+
+## How to get it
+
+- **Kitchen**: 1 × [Salt](../../items/materials/salt-1564406835.md), 3 × [Aurum Lily](../../items/materials/aurum-lily-2341333485.md), 5 × [Sage Leaves](../../items/consumables/sage-leaves-3562500384.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

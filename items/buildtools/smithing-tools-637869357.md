@@ -19,6 +19,10 @@ A hammer collection - the heart of every smithy. Not only useful, but heartwarmi
 
 > Furniture
 
+## How to get it
+
+- **Blacksmith**: 5 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 5 × [Iron Bars](../../items/materials/iron-bars-159114158.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

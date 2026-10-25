@@ -19,6 +19,21 @@ A specialty of the desert - the customers dig it, especially so because of its h
 
 Cooking Station
 
+## Stats
+
+| | |
+|---|---|
+| Health | 160 |
+| Duration | 35:00 min |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Raw Sanddigger Meat](../../items/consumables/raw-sanddigger-meat-1460600097.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

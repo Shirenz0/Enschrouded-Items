@@ -19,6 +19,16 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 4 |
+
+## How to get it
+
+- **Bard**: 3 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 3 × [Charcoal](../../items/materials/charcoal-372029138.md), 3 × [Nails](../../items/materials/nails-2743545700.md), 4 × [Scrappy Sword](../../items/weapons/scrappy-sword-1275936258.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

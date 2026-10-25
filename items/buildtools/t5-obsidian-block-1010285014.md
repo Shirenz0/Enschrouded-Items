@@ -19,6 +19,10 @@ T5 Obsidian Block Desc
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 9 × T5 Obsidian, 1 × T5 Silver Bar → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

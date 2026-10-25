@@ -19,6 +19,10 @@ t5 slurp broth desc
 
 Crafting, Ectoplasm Press
 
+## How to get it
+
+- **skullCrockPot**: 10 × T5 Green Essence, 10 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md), 1 × [Fabric](../../items/materials/fabric-2128518559.md), 15 × T5 Ice → 10 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

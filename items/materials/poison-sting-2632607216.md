@@ -19,6 +19,10 @@ A poisonous sting t6 desc
 
 Veilwater Basin Enemies and Cinder's Cradle Crops
 
+## Used to make
+
+[T7 Eternal Acid Cone II](../../items/ammunition/t7-eternal-acid-cone-ii-1674086102.md), [Poisoned Golden Steel Arrow](../../items/ammunition/poisoned-golden-steel-arrow-1050570715.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

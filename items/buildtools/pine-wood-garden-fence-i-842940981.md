@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 5 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md), 1 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

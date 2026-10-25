@@ -19,6 +19,10 @@ I dont really like sea food...
 
 Albaneve Summits and Veilwater Basin Fell Enemies
 
+## Used to make
+
+[Critter Crawler Bomb](../../items/weapons/critter-crawler-bomb-3870359442.md), [Riptide](../../items/equipment/riptide-2903659724.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

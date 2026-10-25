@@ -19,6 +19,16 @@ A decorative object to design and beautify yout home.
 
 > Flooring
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Carpet | 1 |
+
+## How to get it
+
+- **Hunter**: 20 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

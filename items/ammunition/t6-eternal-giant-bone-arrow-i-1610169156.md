@@ -19,6 +19,30 @@ Eternal version of Bone Arrow that costs mana to shoot.
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Blunt |
+| Mana Cost | 35 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Mana_Cost_Mod | +-5 Mana_Cost_Mod |
+| 2 | Mana_Cost_Mod | +-5 Mana_Cost_Mod |
+| 3 | Critical Strike Chance Ranged | +3 Precise |
+| 4 | All Physical Blunt Damage | +5 All Physical Blunt Damage |
+| 5 | Critical Strike Chance Ranged | +3 Precise |
+
+## How to get it
+
+- **Collector**: 100 × [T6 Giant Bone Arrow IV](../../items/ammunition/t6-giant-bone-arrow-iv-3600953136.md), 10 × T5 Green Essence, 1 × [Giant Ice Bones](../../items/materials/giant-ice-bones-3895216255.md) → 1 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

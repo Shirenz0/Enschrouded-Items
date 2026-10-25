@@ -19,6 +19,14 @@ t6 electric organ description - can be used to craft some spells
 
 Fisher
 
+## How to get it
+
+- **Fish Trader**: 1 × Fish epic 03 name, 2 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 1 ×
+
+## Used to make
+
+[Ultimate Health Potion +](../../items/consumables/ultimate-health-potion-2461980355.md), [T7 Eternal Shock Wisp](../../items/ammunition/t7-eternal-shock-wisp-1209734633.md), [T6 Shock Wisp III](../../items/ammunition/t6-shock-wisp-iii-396873784.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

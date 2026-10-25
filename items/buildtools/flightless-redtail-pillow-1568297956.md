@@ -21,6 +21,16 @@ A comfortable pillow with a bird motiv. The bird may not fly, but it looks styli
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 5 |
+
+## How to get it
+
+- **Bard**: 3 × [Green Fabric](../../items/materials/green-fabric-2287874170.md), 5 × [Feather](../../items/materials/feather-3838906683.md), 2 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md), 1 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

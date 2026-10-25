@@ -19,6 +19,10 @@ t6 palm leaf roof description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Palm Leaves](../../items/materials/palm-leaves-521230189.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

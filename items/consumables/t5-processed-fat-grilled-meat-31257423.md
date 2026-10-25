@@ -19,6 +19,22 @@ t5 processed fat grilled meat desc. constitution and freezing resistance
 
 Cooking Station
 
+## Stats
+
+| | |
+|---|---|
+| Health | 200 |
+| Duration | 40:00 min |
+| Cold Resistance | 1 |
+
+## How to get it
+
+- **Cooking Station**: 1 × [T5 Raw Fat Meat](../../items/consumables/t5-raw-fat-meat-2306767560.md) → 1 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

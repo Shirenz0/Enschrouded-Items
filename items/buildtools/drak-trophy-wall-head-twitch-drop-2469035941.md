@@ -19,6 +19,12 @@ Drak Trophy Wall Head description - Twitch Drop
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 3 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

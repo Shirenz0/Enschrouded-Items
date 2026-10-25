@@ -19,6 +19,10 @@ Removes the Shroud Curse.
 
 Manual Crafting
 
+## How to get it
+
+- **an unnamed station**: 2 × [Fresh Shroud Spore](../../items/materials/fresh-shroud-spore-4090772336.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

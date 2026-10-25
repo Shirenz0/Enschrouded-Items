@@ -19,6 +19,17 @@ These rainbow-colored bean-like structures grow from the blossom. Both the color
 
 Ancient Land
 
+## Stats
+
+| | |
+|---|---|
+| Stamina | -70 |
+| Health | -80 |
+
+## Used to make
+
+[Plantain Salad with ancient beans](../../items/consumables/plantain-salad-with-ancient-beans-3497094022.md), [Fish Tacos](../../items/consumables/fish-tacos-71610791.md), [Rice with ancient "beans"](../../items/consumables/rice-with-ancient-beans-2074901818.md), [Ancient "Bean" Seedling](../../items/buildtools/ancient-bean-seedling-2816539508.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

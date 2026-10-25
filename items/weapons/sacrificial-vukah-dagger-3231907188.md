@@ -17,6 +17,31 @@ One of 8 versions of this item: see [Sacrificial Vukah Dagger](../../objects/wea
 
 A crude dagger, previously used by a Vukah.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Piercing 50%, Poison 50% |
+| Attack Speed | 0.4 s |
+| Parry Power | 1 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Heavy | - |
+| 2 | Health Leech | +7 Health Leech |
+| 3 | Poisonous | 5% chance to poison the target |
+| 4 | Heavy | - |
+| 5 | Heavy | - |
+
+## How to get it
+
+- **Hunter**: 3 × T5 Steel Bar Desc, 15 × [String](../../items/materials/string-419344916.md), 15 × [Bones](../../items/materials/bones-2053375978.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

@@ -17,6 +17,31 @@ One of 2 versions of this item: see [T3 Healer Legs](../../objects/equipment/t3-
 
 Some plain herbalist pants. They smell of rosemary and thyme.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+| Armor | Physical and Magical |
+| Mana | 27 |
+| Revive Duration | 0.011 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Piercing Armor | - |
+| 2 | Piercing Armor | - |
+| 3 | +1 Healing Revive | Increases the skill level of Healing Revive by +1 |
+| 4 | Health | +60 Health |
+| 5 | +1 Healing Revive | Increases the skill level of Healing Revive by +1 |
+
+## How to get it
+
+- **Alchemist**: 2 × [Rooibos](../../items/materials/rooibos-1628543982.md), 1 × [Linnen](../../items/materials/linnen-1815424180.md), 1 × [Monstrous Ribs](../../items/materials/monstrous-ribs-2975006357.md), 2 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md), 7 × [Green Mushroom Meat](../../items/materials/green-mushroom-meat-90588998.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

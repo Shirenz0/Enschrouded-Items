@@ -19,6 +19,14 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 10 × [Sandstone](../../items/materials/sandstone-1401630464.md), 5 × [Iron Bars](../../items/materials/iron-bars-159114158.md) → 1 ×
+
+## Used to make
+
+[Ornate Iron Double Door](../../items/buildtools/ornate-iron-double-door-2544552928.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

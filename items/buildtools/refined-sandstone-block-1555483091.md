@@ -19,6 +19,10 @@ A building material made from Sandstone, fitting the colors of the desert. It wa
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Sandstone](../../items/materials/sandstone-1401630464.md), 2 × [Sand](../../items/materials/sand-2493843175.md), 2 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 1 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

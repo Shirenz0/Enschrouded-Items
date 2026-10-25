@@ -19,6 +19,10 @@ Block Crafted from Green glowdirt . Luminates ia ghostly green glow.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Stone](../../items/materials/stone-631520303.md), 5 × [Glow Dirt Green](../../items/materials/glow-dirt-green-2149011961.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

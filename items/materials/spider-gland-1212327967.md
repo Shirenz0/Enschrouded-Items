@@ -15,6 +15,10 @@
 
 They are still dripping with poison
 
+## Used to make
+
+[Hemotoxication Antidode](../../items/consumables/hemotoxication-antidode-1410921691.md), [Antidote T2](../../items/consumables/antidote-t2-3441701492.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

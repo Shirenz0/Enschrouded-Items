@@ -19,6 +19,20 @@ Throw to send of an explosive critter crawler
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Fire 50%, Shroud 50% |
+| Mana Cost | 95 |
+| Duration | 12 s |
+| Throw Interval | 1,000 |
+
+## How to get it
+
+- **Alchemist**: 10 × [Critter Carapace](../../items/materials/critter-carapace-1611805749.md), 1 × [Bones](../../items/materials/bones-2053375978.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

@@ -23,6 +23,10 @@ A simple setup for basic grinding work. Especially good for hard ingredients.
 
 Crafting, Alchemist
 
+## How to get it
+
+- **Alchemist**: 10 × [Flintstone](../../items/materials/flintstone-1586398842.md), 15 × [Stone](../../items/materials/stone-631520303.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

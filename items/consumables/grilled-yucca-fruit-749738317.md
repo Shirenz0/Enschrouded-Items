@@ -19,6 +19,21 @@ When cooked, the Yucca Fruit becomes very sweet. A real mouth candy, good to rec
 
 Cooking Station
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 5:00 min |
+| Stamina Regeneration | 55 |
+
+## How to get it
+
+- **Cooking Station**: 5 × [Yucca Fruit](../../items/consumables/yucca-fruit-2008478235.md) → 5 ×
+
+## Used to make
+
+[Tar](../../items/materials/tar-1714627847.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

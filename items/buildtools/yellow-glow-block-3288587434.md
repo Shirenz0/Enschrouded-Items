@@ -19,6 +19,10 @@ Yellow Glow Block description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 3 × [Glass](../../items/materials/glass-2246309017.md), 3 × [Saffron](../../items/materials/saffron-3696168941.md), 4 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

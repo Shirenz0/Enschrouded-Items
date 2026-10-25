@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Jezmina's Yearwake Pants](../../objects/equ
 
 Jezmina's Yearwake pants desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ A Regular Sandstone Block. It's very cost-efficient.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 8 × [Sandstone](../../items/materials/sandstone-1401630464.md), 2 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

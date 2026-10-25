@@ -19,6 +19,10 @@ Reassemble a valuable wall tapestry using this showcase.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 4 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

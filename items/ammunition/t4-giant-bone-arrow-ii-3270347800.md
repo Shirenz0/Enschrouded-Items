@@ -21,6 +21,17 @@ The force of this arrow allows it to penetrate hit targets.
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Blunt |
+
+## How to get it
+
+- **Collector**: 10 × [T3 Green essence](../../items/materials/t3-green-essence-1453689781.md), 1 × [Giant bones](../../items/materials/giant-bones-2956062198.md) → 50 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

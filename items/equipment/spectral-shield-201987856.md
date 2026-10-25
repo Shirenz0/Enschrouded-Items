@@ -17,6 +17,31 @@ One of 2 versions of this item: see [Spectral Shield](../../objects/equipment/sp
 
 This magic shield allows you to **block** physical attacks. Blocking drains Stamina.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Shield |
+| Mana Regeneration | 2 |
+| Poison Resistance | 5 |
+| Parry Power | 1 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | +1 Eternal Spark | Increases the skill level of Eternal Spark by +1 |
+| 2 | +1 Snake Eater | Increases the skill level of Snake Eater by +1 |
+| 3 | +1 Arcane Deflection | Increases the skill level of Arcane Deflection by +1 |
+| 4 | +1 Unity | Increases the skill level of Unity by +1 |
+| 5 | +1 Wand Mastery | Increases the skill level of Wand Mastery by +1 |
+
+## How to get it
+
+- **Alchemist**: 4 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md), 6 × [Bonemeal](../../items/materials/bonemeal-2982735558.md), 1 × [Aerated Shroud Gel](../../items/materials/aerated-shroud-gel-2832562682.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

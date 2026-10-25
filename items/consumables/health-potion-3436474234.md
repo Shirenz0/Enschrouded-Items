@@ -23,6 +23,20 @@ Filled with vitalizing ingredients, it instantly restores a good amount of Healt
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Health | 200 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Penny Bun](../../items/consumables/penny-bun-600862405.md), 1 × [Red Berries](../../items/consumables/red-berries-3707271437.md) → 1 ×
+
+## Used to make
+
+[Health Potion improved](../../items/consumables/health-potion-improved-2949322768.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

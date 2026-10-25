@@ -15,6 +15,27 @@
 
 Called after it's most frequent user, it has seen many heads roll. It's gone shabby by now, but still fulfills its purpose.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting |
+| Attack Speed | 0.774 s |
+| Parry Power | 1 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 |  | - |
+| 2 | Precise | +4 Precise |
+| 3 |  | - |
+| 4 | Precise | +4 Precise |
+| 5 |  | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

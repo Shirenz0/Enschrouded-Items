@@ -19,6 +19,10 @@ A vivid palette of bright blue, blazing red, and pure white — crisp, bold, and
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md), 2 × T5 Silver Dust, 2 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md), 1 × [Sulfur](../../items/materials/sulfur-2819734894.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

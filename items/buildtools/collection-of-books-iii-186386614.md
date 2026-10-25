@@ -21,6 +21,10 @@ What is better than one  book?
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 5 × one of: [Old Books](../../items/materials/old-books-2610555646.md) / [Paper](../../items/materials/paper-287018928.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

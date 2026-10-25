@@ -19,6 +19,10 @@ Raw Coffee Beans, have to be roasted and ground for further use
 
 Veilwater Basin
 
+## Used to make
+
+[Coffee Seedling](../../items/buildtools/coffee-seedling-3358339224.md), [Roasted Coffee Beans](../../items/materials/roasted-coffee-beans-3373396030.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

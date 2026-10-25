@@ -19,6 +19,13 @@ Epic Drum Desc
 
 > Instruments
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Tool |
+| Comfort | +3 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

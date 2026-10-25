@@ -19,6 +19,10 @@ darker Shades of Brown and Green
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Ammoniak Gland](../../items/materials/ammoniak-gland-2027586500.md), 2 × [Tin Ore](../../items/materials/tin-ore-3749540900.md), 2 × [Fossilized Bone Dust](../../items/materials/fossilized-bone-dust-3073226096.md), 1 × [Green Mushroom Meat](../../items/materials/green-mushroom-meat-90588998.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

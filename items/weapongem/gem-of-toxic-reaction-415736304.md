@@ -15,6 +15,13 @@
 
 Landing a Backstab on an enemy applies  poison for %k that deals %k poison damage per second.
 
+## Stats
+
+| | |
+|---|---|
+| Poison damage over time | 3 (scales with level) |
+| Poison Duration | 6 s (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

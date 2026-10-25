@@ -15,6 +15,22 @@
 
 This  ancient ring will  give you stamina and increase your recovery.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ring |
+| Stamina | 6 |
+| Stamina Regeneration | 4 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Stamina | +4 Stamina |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

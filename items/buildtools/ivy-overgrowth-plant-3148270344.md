@@ -23,6 +23,10 @@ Use this material to decorate any voxel material using the ??? tool
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 4 × [Farm Soil](../../items/materials/farm-soil-1823674426.md), 1 × [Honey](../../items/consumables/honey-227143323.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

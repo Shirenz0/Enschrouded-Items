@@ -23,6 +23,17 @@ Restores some Health instantly and provides an additional healing over time effe
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Health | 120 |
+| Healing per second | 10 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Health Potion](../../items/consumables/health-potion-3436474234.md), 1 × [Night Lily](../../items/consumables/night-lily-2433487720.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

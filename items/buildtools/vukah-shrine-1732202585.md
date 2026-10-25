@@ -19,6 +19,10 @@ Interacting with this shrine will grant you the **Vuk'ahrrrrr** buff. It grants 
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 4 × [Lime Stone](../../items/materials/lime-stone-3445636557.md), 1 × [Small Boss Trophy Vukah](../../items/materials/small-boss-trophy-vukah-2339068671.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

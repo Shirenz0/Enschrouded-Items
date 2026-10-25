@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Illumination
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Illumination | 6 |
+
+## How to get it
+
+- **Carpenter**: 2 × [Glass](../../items/materials/glass-2246309017.md), 4 × T5 Steel Bar Desc, 5 × [Gold Dust](../../items/materials/gold-dust-1060230019.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

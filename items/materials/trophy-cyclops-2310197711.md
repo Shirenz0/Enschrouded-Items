@@ -15,6 +15,10 @@
 
 trophy cyclpos desc
 
+## Used to make
+
+[Gold Cyclops Trophy](../../items/buildtools/gold-cyclops-trophy-2288002943.md), [Metal Boss Trophy Cyclops](../../items/buildtools/metal-boss-trophy-cyclops-3561979363.md), [Big Boss Trophy Cyclops](../../items/buildtools/big-boss-trophy-cyclops-2412815222.md), [Boss Trophy Cyclops](../../items/buildtools/boss-trophy-cyclops-2846600790.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

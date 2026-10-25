@@ -19,6 +19,14 @@ A block made of Fired Brick. Legend says, it became so red after staying in the 
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Fired Brick](../../items/materials/fired-brick-1261933427.md) → 100 ×
+
+## Used to make
+
+[Brick-Timbered Block](../../items/buildtools/brick-timbered-block-627477408.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

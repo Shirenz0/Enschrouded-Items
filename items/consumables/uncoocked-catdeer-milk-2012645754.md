@@ -19,6 +19,17 @@ Smells disgusting. Maybe if it's cooked...
 
 Revelwood, Tamed Fae Deer
 
+## Stats
+
+| | |
+|---|---|
+| Health | -40 |
+| Stamina | -30 |
+
+## Used to make
+
+[Catdeer milk](../../items/consumables/catdeer-milk-3774403584.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

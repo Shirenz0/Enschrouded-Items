@@ -19,6 +19,10 @@ A solid block used inside Vukah buildings.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Twig](../../items/materials/twig-1798662696.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

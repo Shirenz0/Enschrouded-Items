@@ -15,6 +15,12 @@
 
 Warrior Supporter legs description
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

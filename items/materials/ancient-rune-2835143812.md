@@ -19,6 +19,10 @@ Used to upgrade legendary weapons.
 
 Blacksmith
 
+## How to get it
+
+- **Blacksmith**: 25 × [Runes](../../items/materials/runes-1101501148.md) → 1 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

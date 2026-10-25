@@ -15,6 +15,10 @@
 
 Key for the Wetland Hollow Halls
 
+## How to get it
+
+- **Collector**: 25 × [Krypt Krystal](../../items/materials/krypt-krystal-3953523416.md), 1 × [Giant Ice Bones](../../items/materials/giant-ice-bones-3895216255.md), 1 × [Gold Bars](../../items/materials/gold-bars-514509650.md) → 1 ×
+
 ---
 
 [← Tools](../../categories/tools.md) · [All categories](../../README.md)

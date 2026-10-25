@@ -15,6 +15,12 @@
 
 Warrior Supporter chest description
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Chest |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

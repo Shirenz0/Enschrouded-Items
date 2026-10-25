@@ -19,6 +19,14 @@ A sandblock of an ancient style, representing the architectural elements of the 
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 8 × [Sandstone](../../items/materials/sandstone-1401630464.md), 2 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md) → 100 ×
+
+## Used to make
+
+[Secret Sandstone Door](../../items/buildtools/secret-sandstone-door-3649373448.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

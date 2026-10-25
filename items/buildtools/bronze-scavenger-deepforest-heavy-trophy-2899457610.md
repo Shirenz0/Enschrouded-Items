@@ -19,6 +19,12 @@ A severed Scavenger Deepforest HeavyHead. Collect multiple to craft the bronze t
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 3 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

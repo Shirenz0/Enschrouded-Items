@@ -19,6 +19,10 @@ A secret you can install in your base.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 5 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md), 100 × [Rough Flintstone Block](../../items/buildtools/rough-flintstone-block-1405390032.md), 10 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

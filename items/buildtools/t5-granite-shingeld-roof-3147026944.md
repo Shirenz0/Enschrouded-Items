@@ -19,6 +19,10 @@ T5 Granite Shingled  Roof desc
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × T5 Material Granite → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

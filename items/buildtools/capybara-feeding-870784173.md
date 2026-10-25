@@ -19,6 +19,10 @@ Capybara feeding desc
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 2 × [Paper Reed](../../items/materials/paper-reed-1026141130.md), 3 × [Algae](../../items/consumables/algae-806123624.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

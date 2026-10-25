@@ -19,6 +19,10 @@ An ancient potted plant. This one can be displayed in the Cultivation Rack
 
 > Potted Plant
 
+## How to get it
+
+- **Archeologist**: 4 × T7 material stone, 1 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md), 1 × [Basalt Farm Soil](../../items/materials/basalt-farm-soil-1930450533.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -20,6 +20,14 @@ Offers a small prayer to the flame, that increases your characters Spell Damage 
 > A tiny flame, a tiny light
 > banishes the darkness and all it's blight
 
+## Stats
+
+| | |
+|---|---|
+| Fog Survivability | 120,000 |
+| Mana Cost | 55 |
+| Increased Fire Damage | 20 |
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

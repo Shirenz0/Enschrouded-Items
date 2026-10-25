@@ -19,6 +19,17 @@ When conserved, the Banana Chips do not regenerate as much Health as the Banana.
 
 Crafting, Drying Rack
 
+## Stats
+
+| | |
+|---|---|
+| Health Regeneration | 8 |
+| Duration | 18:00 min |
+
+## How to get it
+
+- **Drying Rack**: 1 × [Banana](../../items/consumables/banana-2626897582.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

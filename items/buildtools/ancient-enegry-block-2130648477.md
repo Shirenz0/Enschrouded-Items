@@ -19,6 +19,10 @@ Anciet Energy Description (the ancients use this glowing block as navigation hel
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 3 × [Celesthium Ore](../../items/materials/celesthium-ore-2035945146.md), 3 × [Magma Gel](../../items/materials/magma-gel-234899173.md), 4 × T7 material stone → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

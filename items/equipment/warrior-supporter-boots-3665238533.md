@@ -15,6 +15,12 @@
 
 Warrior Supporter Boots description
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Feet |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

@@ -21,6 +21,12 @@ Heart Pillow description
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Wellness | 6 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

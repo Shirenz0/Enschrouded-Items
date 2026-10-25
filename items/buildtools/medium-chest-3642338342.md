@@ -23,6 +23,15 @@ Offers a medium amount of storage space to store items.
 
 Carpenter
 
+## How to get it
+
+- **Carpenter**: 8 × [Nails](../../items/materials/nails-2743545700.md), 10 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md) → 1 ×
+- **an unnamed station**: 2 × [Nails](../../items/materials/nails-2743545700.md), 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 1 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md) → 1 ×
+
+## Used to make
+
+[Magic Medium Chest](../../items/buildtools/magic-medium-chest-2463706463.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

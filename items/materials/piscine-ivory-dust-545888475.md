@@ -19,6 +19,14 @@ Piscine Ivory, often called the ivory of the sea, ground into a bright powder. R
 
 Crafting, Improved Grinder
 
+## How to get it
+
+- **improved grinder; water wheel grinder)**: 1 × one of: [Fish Teeth](../../items/materials/fish-teeth-2352305513.md) / [Fish Bones](../../items/materials/fish-bones-2244383765.md) → 1 ×
+
+## Used to make
+
+[T6 Shield Tank](../../items/equipment/t6-shield-tank-1777113935.md), [T6 Shield DPS](../../items/equipment/t6-shield-dps-2863750697.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

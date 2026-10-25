@@ -17,6 +17,17 @@ One of 2 versions of this item: see [Large Backpack](../../objects/equipment/lar
 
 Backpack t3  NEW Copy from old one
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Backpack |
+| Slots | 32 |
+
+## How to get it
+
+- **Bard**: 5 × [Leather](../../items/materials/leather-4135223598.md), 5 × [Linnen](../../items/materials/linnen-1815424180.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

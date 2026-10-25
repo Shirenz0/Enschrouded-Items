@@ -19,6 +19,14 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 5 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md), 3 × T5 Silver Bar → 1 ×
+
+## Used to make
+
+[Pinewood Double Door with silver ornaments](../../items/buildtools/pinewood-double-door-with-silver-ornaments-1652824178.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

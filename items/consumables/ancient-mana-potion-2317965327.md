@@ -19,6 +19,17 @@ Restores some mana instantly and provides an additional Mana over time effect fo
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Mana per second | 20 |
+| Mana | 300 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Moonstone Dust](../../items/materials/moonstone-dust-4078086541.md), 1 × [Ancient Health Potion](../../items/consumables/ancient-health-potion-1756446918.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

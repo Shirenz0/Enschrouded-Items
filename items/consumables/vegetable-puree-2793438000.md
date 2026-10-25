@@ -19,6 +19,20 @@ Cooking is a delicate artform. This basic puree will aid any person on their way
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| % Dagger Damage | 9 |
+| Stamina Regeneration | 9 |
+| Duration | 35:00 min |
+| Ranged Damage | 9 |
+| Stamina | 10 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Forest Beet](../../items/consumables/forest-beet-3542827745.md), 1 × [Salt](../../items/materials/salt-1564406835.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

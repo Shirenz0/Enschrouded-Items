@@ -19,6 +19,20 @@ Throw to summon a skull companion.
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Fire |
+| Mana Cost | 60 |
+| Duration | 1:30 min |
+| Throw Interval | 1,000 |
+
+## How to get it
+
+- **Collector**: 5 × [Bonemeal](../../items/materials/bonemeal-2982735558.md), 2 × [Metal Scraps](../../items/materials/metal-scraps-132545371.md), 6 × T2 Green Essence → 3 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

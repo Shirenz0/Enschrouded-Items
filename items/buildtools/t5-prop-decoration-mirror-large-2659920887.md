@@ -21,6 +21,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 2 × [Conifer Logs](../../items/materials/conifer-logs-1475408789.md), 5 × [Nails](../../items/materials/nails-2743545700.md), 1 × T5 Silver Bar, 2 × T5 Obsidian → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

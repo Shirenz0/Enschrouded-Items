@@ -15,6 +15,18 @@
 
 A club carved out of wood. At least something to defend with. Better than nothing, I guess?
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Blunt |
+| Attack Speed | 0.6 s |
+
+## How to get it
+
+- **an unnamed station**: 6 × [Wood Logs](../../items/materials/wood-logs-722268629.md), 1 × [Stone](../../items/materials/stone-631520303.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

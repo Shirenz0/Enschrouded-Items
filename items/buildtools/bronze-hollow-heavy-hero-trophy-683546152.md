@@ -19,6 +19,16 @@ A severed Hollow Heavy Hero Head. Collect multiple to craft the bronze trophy
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 3 |
+
+## How to get it
+
+- **Hunter**: 2 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Hollow Heavy Hero Head](../../items/materials/hollow-heavy-hero-head-3411381312.md), 2 × [Nails](../../items/materials/nails-2743545700.md), 1 × [Bronze Bars](../../items/materials/bronze-bars-642002617.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -21,6 +21,17 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Hearth | 3 |
+| Cold Resistance | 3 |
+
+## How to get it
+
+- **Carpenter**: 5 × [Resin](../../items/materials/resin-4109728689.md), 6 × [Lime Stone](../../items/materials/lime-stone-3445636557.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

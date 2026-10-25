@@ -25,6 +25,16 @@ Increases  stamina  by 20.
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Stamina | 20 |
+
+## How to get it
+
+- **Alchemist**: 10 × [ActiveMycelium](../../items/materials/activemycelium-2179075323.md), 1 × [Strawberry](../../items/consumables/strawberry-3479563223.md), 10 × [Shroud Mush](../../items/materials/shroud-mush-4229884102.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ A grand banner with the keen games logo on it.
 
 > Furniture
 
+## How to get it
+
+- **Bard**: 1 × T5 Silver Bar, 3 × [Blue Fabric](../../items/materials/blue-fabric-398142464.md), 1 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

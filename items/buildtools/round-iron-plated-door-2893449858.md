@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 4 × [Charcoal](../../items/materials/charcoal-372029138.md), 4 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 5 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 4 × [Nails](../../items/materials/nails-2743545700.md), 1 × [Green Mushroom Meat](../../items/materials/green-mushroom-meat-90588998.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

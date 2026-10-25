@@ -16,6 +16,20 @@
 Summons a totem that launches shocking projectiles. 
 Maximum amount of summoned totems is 1 by default which can be increased via skills.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Spell |
+| Damage type | Lightning |
+| Mana Cost | 19 |
+| Cast Time | 0.699 s |
+| Duration | 8 s |
+
+## How to get it
+
+- **Alchemist**: 4 × [Bonemeal](../../items/materials/bonemeal-2982735558.md), 1 × [Tin Bars](../../items/materials/tin-bars-1072522988.md), 2 × [Aurum Lily](../../items/materials/aurum-lily-2341333485.md) → 20 ×
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

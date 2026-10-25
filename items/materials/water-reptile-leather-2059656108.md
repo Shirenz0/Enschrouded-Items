@@ -19,6 +19,14 @@ A shiny material with an interesting texture. Any garment fashioned with this wi
 
 Crafting, Drying Rack
 
+## How to get it
+
+- **Drying Rack**: 1 × [Water Reptile Hide](../../items/materials/water-reptile-hide-2821339070.md), 3 × [Salt](../../items/materials/salt-1564406835.md) → 3 ×
+
+## Used to make
+
+[T6 Assassin Legs](../../items/equipment/t6-assassin-legs-2230173783.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

@@ -15,6 +15,15 @@
 
 Mark one random enemy within %km as Marked by Destiny for %k. Defeating the marked enemy spawns an orb that grants either %k health, %k mana or %k stamina, depending on what you need most in the moment.
 
+## Stats
+
+| | |
+|---|---|
+| Debuff Duration | 20 s |
+| Health on Orb Pickup | 10 (scales with level) |
+| Mana on Orb Pickup | 10 (scales with level) |
+| Stamina on Orb Pickup | 15 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

@@ -19,6 +19,14 @@ Green Glow Block description
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Flintstone](../../items/materials/flintstone-1586398842.md), 5 × [T3 Green essence](../../items/materials/t3-green-essence-1453689781.md) → 100 ×
+
+## Used to make
+
+[Skeleton Showkase](../../items/buildtools/skeleton-showkase-883401509.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

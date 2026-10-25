@@ -19,6 +19,10 @@ food turkey feeding description
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 1 × [Bell Pepper](../../items/consumables/bell-pepper-4094316095.md), 2 × [Wheat Grains](../../items/materials/wheat-grains-2435149273.md), 2 × [Grasshopper](../../items/ammunition/grasshopper-2342031255.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

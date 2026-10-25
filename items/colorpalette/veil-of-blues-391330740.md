@@ -19,6 +19,10 @@ The Veilwater Basin is rich in vibrant colors. The blue sky reflecting in the cl
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md), 2 × [Gleam Root Dust](../../items/materials/gleam-root-dust-3507051762.md), 2 × [Aquamarine Dust](../../items/materials/aquamarine-dust-554104227.md), 1 × T5 Material Granite → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

@@ -17,6 +17,12 @@ One of 2 versions of this item: see [Regalia of the Blood Rose Boots](../../obje
 
 Regalia of the Blood Rose Boots descs
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Feet |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

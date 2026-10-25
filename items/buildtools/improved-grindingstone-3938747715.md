@@ -19,6 +19,10 @@ A centerpiece for the improved water grinder.
 
 > Furniture
 
+## How to get it
+
+- **Alchemist**: 30 × T6 material limestone from shells, 15 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

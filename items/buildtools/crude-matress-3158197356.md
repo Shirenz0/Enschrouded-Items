@@ -21,6 +21,20 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort (Category Bed) | 1 |
+
+## How to get it
+
+- **Workbench**: 3 × [String](../../items/materials/string-419344916.md), 4 × [Torn Cloth](../../items/materials/torn-cloth-1496290527.md), 4 × one of: [Plant Fibre](../../items/materials/plant-fibre-3316218728.md) / [Paper Reed](../../items/materials/paper-reed-1026141130.md) → 1 ×
+
+## Used to make
+
+[Bed (Makeshift)](../../items/buildtools/bed-makeshift-1449954814.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -23,6 +23,12 @@ Offers a great amount of storage space to store items. The items stored here can
 
 Carpenter
 
+## How to get it
+
+- **Carpenter**: 1 × [Huge Chest](../../items/buildtools/huge-chest-2834235854.md), 1 × [Shroud Nexus](../../items/materials/shroud-nexus-634473105.md), 3 × [Fog Oil](../../items/materials/fog-oil-1350606537.md) → 1 ×
+- **an unnamed station**: 1 × [Shroud Nexus](../../items/materials/shroud-nexus-634473105.md), 3 × [Fog Oil](../../items/materials/fog-oil-1350606537.md), 16 × [Nails](../../items/materials/nails-2743545700.md), 20 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 2 × [Iron Bars](../../items/materials/iron-bars-159114158.md) → 1 ×
+- **an unnamed station**: 1 × [Shroud Nexus](../../items/materials/shroud-nexus-634473105.md), 3 × [Fog Oil](../../items/materials/fog-oil-1350606537.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

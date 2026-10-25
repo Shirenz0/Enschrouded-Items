@@ -19,6 +19,10 @@ Alchemy!
 
 > Consumables
 
+## How to get it
+
+- **Lunar New Year Trader**: 10 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 10 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

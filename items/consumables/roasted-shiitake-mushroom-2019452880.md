@@ -19,6 +19,17 @@ roasted shiitake mushroom t6 desc
 
 Cooking Station
 
+## Stats
+
+| | |
+|---|---|
+| Magic Damage Multiplier | 21 |
+| Duration | 50:00 min |
+
+## How to get it
+
+- **Cooking Station**: 1 × [Shiitake Mushroom](../../items/consumables/shiitake-mushroom-3354704185.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

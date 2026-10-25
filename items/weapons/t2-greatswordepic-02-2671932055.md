@@ -15,6 +15,27 @@
 
 T2 Greatsword Epic 02 desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting |
+| Attack Speed | 0.774 s |
+| Parry Power | 1 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Brutal | +14 Brutal |
+| 2 |  | - |
+| 3 |  | - |
+| 4 | Retaliation | A percentage of incoming damage is dealt back to the attacker |
+| 5 |  | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

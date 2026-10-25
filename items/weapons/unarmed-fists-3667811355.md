@@ -15,6 +15,13 @@
 
 Everybody has a plan until they get punched in the face -Mike Thyson
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Blunt |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

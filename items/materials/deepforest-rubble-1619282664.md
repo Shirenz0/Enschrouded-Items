@@ -15,6 +15,10 @@
 
 mix of materials, mainly stones and dirt
 
+## How to get it
+
+- **Grinding Stones**: 1 × [Rubble](../../items/materials/rubble-1257792166.md), 4 × [Deep Forest Dirt](../../items/materials/deep-forest-dirt-3937186197.md), 5 × [Deepforest Stone](../../items/materials/deepforest-stone-1181280513.md) → 10 ×
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

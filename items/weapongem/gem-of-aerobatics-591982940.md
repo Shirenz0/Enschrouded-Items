@@ -15,6 +15,12 @@
 
 Attacking while in the air spawns %k projectiles that home towards your target and deal %k piercing damage
 
+## Stats
+
+| | |
+|---|---|
+| Pierce Projectile Damage | 2 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

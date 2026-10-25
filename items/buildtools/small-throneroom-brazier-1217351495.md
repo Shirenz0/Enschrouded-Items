@@ -21,6 +21,17 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Cold Resistance | 2 |
+| Comfort - Hearth | 6 |
+
+## How to get it
+
+- **Carpenter**: 2 × [Gold Dust](../../items/materials/gold-dust-1060230019.md), 10 × T5 Steel Bar Desc, 10 × T5 Material Coal Name → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

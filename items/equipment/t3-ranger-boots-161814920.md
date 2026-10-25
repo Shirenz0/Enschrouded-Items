@@ -17,6 +17,31 @@ One of 2 versions of this item: see [T3 Ranger Boots](../../objects/equipment/t3
 
 Ideal for stalking prey.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Feet |
+| Armor | Physical and Magical |
+| Stamina Regeneration | 9 |
+| Stamina Timeout Reduction | -0.3 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Cutting Armor | - |
+| 2 | Piercing Armor | - |
+| 3 | +1 Runner | Increases the skill level of Runner by +1 |
+| 4 | Enduring | +9 Enduring |
+| 5 | +1 Runner | Increases the skill level of Runner by +1 |
+
+## How to get it
+
+- **Hunter**: 4 × [Shroud Adhesive](../../items/materials/shroud-adhesive-1047122195.md), 4 × [Leather](../../items/materials/leather-4135223598.md), 20 × [Acidic Shroud](../../items/materials/acidic-shroud-409810488.md), 3 × [Fossilized Bone](../../items/materials/fossilized-bone-3095665634.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

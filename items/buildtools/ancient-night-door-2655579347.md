@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 100 × [Moonshine and Stars Block](../../items/buildtools/moonshine-and-stars-block-688801496.md), 5 × [Ancient/Archaic Infusion](../../items/materials/ancient-archaic-infusion-2670118573.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

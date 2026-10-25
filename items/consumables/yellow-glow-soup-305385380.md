@@ -19,6 +19,20 @@ It tastes a bit bitter, but is known to increase mana, mana regeneration and mag
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Cold Resistance | 2 |
+| Duration | 50:00 min |
+| Mana Regeneration | 10 |
+| Mana | 100 |
+| Magic Damage Multiplier | 18 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Yellow Shroud Mushroom](../../items/consumables/yellow-shroud-mushroom-1683685602.md), 5 × [T5 Food Raw Herb Gentian](../../items/consumables/t5-food-raw-herb-gentian-3779366146.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

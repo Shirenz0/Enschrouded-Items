@@ -19,6 +19,10 @@ The usable parts of fallen "Water Croco"
 
 Veilwater Basin
 
+## Used to make
+
+[Water Reptile Leather](../../items/materials/water-reptile-leather-2059656108.md)
+
 ---
 
 [← Materials](../../categories/materials.md) · [All categories](../../README.md)

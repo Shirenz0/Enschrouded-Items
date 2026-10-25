@@ -19,6 +19,14 @@ These rough stones with a sligh shimmer can create a rustic building style.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 100 ×
+
+## Used to make
+
+[Secret Flintstone Door](../../items/buildtools/secret-flintstone-door-2612266571.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Made from Straw and enhanced with Tar. This is an enhanced version of the Plant 
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 4 × [Straw](../../items/materials/straw-3921293392.md), 1 × [Tar](../../items/materials/tar-1714627847.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

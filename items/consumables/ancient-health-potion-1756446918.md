@@ -21,6 +21,20 @@ t7 mana potion desc
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Mana | 450 |
+
+## How to get it
+
+- **Alchemist**: 4 × [Thyme](../../items/consumables/thyme-3466985705.md), 5 × [ActiveMycelium](../../items/materials/activemycelium-2179075323.md), 1 × [Diamond Dust](../../items/materials/diamond-dust-1725874983.md) → 1 ×
+
+## Used to make
+
+[Ancient Mana Potion +](../../items/consumables/ancient-mana-potion-2317965327.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

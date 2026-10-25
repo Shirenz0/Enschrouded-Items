@@ -15,6 +15,13 @@
 
 Killing a enemy with a visceral attack has a %k chance to spawn a friendly level %k flying skull
 
+## Stats
+
+| | |
+|---|---|
+| Skull Companion Level | 1 (scales with level) |
+| Trigger Chance on Kill | 30 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

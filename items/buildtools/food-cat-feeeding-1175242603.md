@@ -19,6 +19,10 @@ food cat feeding description
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 1 × [Raw Lean Meat](../../items/consumables/raw-lean-meat-1492892444.md), 1 × one of: Fish common 02 name / Fish common 03 name / Fish common 01 name → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

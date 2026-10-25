@@ -23,6 +23,10 @@ Use this material to decorate any voxel material using the ??? tool
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 2 × [Underwater Mud](../../items/materials/underwater-mud-890360552.md), 3 × [Paper Reed](../../items/materials/paper-reed-1026141130.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

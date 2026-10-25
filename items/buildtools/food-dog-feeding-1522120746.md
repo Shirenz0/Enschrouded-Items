@@ -19,6 +19,10 @@ food dog feeding description
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 1 × [Raw Game](../../items/consumables/raw-game-2512460235.md), 4 × [Red Berries](../../items/consumables/red-berries-3707271437.md) → 50 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

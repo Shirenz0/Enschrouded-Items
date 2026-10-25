@@ -21,6 +21,10 @@ Neglected, it protects the outer walls of the city with its friends, the plants.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 8 × [Deepforest Stone](../../items/materials/deepforest-stone-1181280513.md), 2 × [Deep Forest Dirt](../../items/materials/deep-forest-dirt-3937186197.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

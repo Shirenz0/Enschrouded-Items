@@ -19,6 +19,18 @@ t6 banana curry
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 55:00 min |
+| Stamina Regeneration | 9 |
+| Health Regeneration | 21 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Cooked Rice](../../items/consumables/cooked-rice-3688068238.md), 5 × [Plantain](../../items/consumables/plantain-2349456895.md), 5 × [Coconut Milk](../../items/consumables/coconut-milk-3130551475.md), 2 × [Spice](../../items/materials/spice-1126086984.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Dark shades of Purple and Grey
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Vapor](../../items/materials/shroud-vapor-579568751.md), 2 × T5 Material Amethyst, 2 × T5 Obsidian Dust, 1 × T5 Material Granite → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

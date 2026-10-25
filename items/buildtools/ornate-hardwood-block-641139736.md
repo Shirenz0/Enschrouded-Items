@@ -19,6 +19,10 @@ An ornate hardwood building block with intricate details.
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Wood Planks](../../items/materials/wood-planks-1626290897.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

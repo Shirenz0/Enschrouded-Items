@@ -19,6 +19,18 @@ The sugar rush powers your energy regenration for a short amount of time.
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 6:00 min |
+| Stamina Regeneration | 55 |
+| Health Regeneration | 6 |
+
+## How to get it
+
+- **Kitchen**: 5 × [Shortcrust Pastry Base](../../items/materials/shortcrust-pastry-base-3614911410.md), 10 × [Dried Red Berry](../../items/consumables/dried-red-berry-2824141465.md), 5 × [Night Berry](../../items/consumables/night-berry-3173308572.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

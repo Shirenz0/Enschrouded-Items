@@ -15,6 +15,16 @@
 
 There's some extra space in the pockets perfect for storing crypt keys, "borrowed" rings and lost fingerbones.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Legs |
+
+## How to get it
+
+- **Lunar New Year Trader**: 5 × [T6 Material Gold Coins](../../items/materials/t6-material-gold-coins-2572858337.md) → 1 ×
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

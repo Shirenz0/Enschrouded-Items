@@ -19,6 +19,10 @@ Different shades of brown and grey
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Goo](../../items/materials/goo-3403995938.md), 2 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 2 × [Deep Forest Dirt](../../items/materials/deep-forest-dirt-3937186197.md), 1 × [Mycelium](../../items/materials/mycelium-3509012331.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

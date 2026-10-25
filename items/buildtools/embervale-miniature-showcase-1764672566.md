@@ -19,6 +19,10 @@ A showcase for displaying the embervale miniature.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 20 × one of: [Wood Logs](../../items/materials/wood-logs-722268629.md) / [Hardwood](../../items/materials/hardwood-1765656585.md) / [Palmwood Logs](../../items/materials/palmwood-logs-2955233340.md) / [Conifer Logs](../../items/materials/conifer-logs-1475408789.md) / … (6 options) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

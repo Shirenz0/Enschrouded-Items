@@ -15,6 +15,26 @@
 
 This Axe is destined to smite down creatures of the wild.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Cutting |
+| Attack Speed | 0.6 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 |  | - |
+| 2 | Precise | +4 Precise |
+| 3 |  | - |
+| 4 |  | - |
+| 5 | Brutal | +14 Brutal |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

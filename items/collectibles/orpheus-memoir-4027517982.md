@@ -19,6 +19,10 @@ All consuming nothingness, a forever whirling obsidian void.
 
 > Map
 
+## Used to make
+
+[The Dragon's Map](../../items/collectibles/the-dragon-s-map-3491672504.md)
+
 ---
 
 [← Collectibles](../../categories/collectibles.md) · [All categories](../../README.md)

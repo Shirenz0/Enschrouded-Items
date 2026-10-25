@@ -20,6 +20,14 @@ Offers a prayer to the ancient Vukahs. If answered, the user receives their bles
 > A tiny flame, a tiny light
 > banishes the darkness and all it's blight
 
+## Stats
+
+| | |
+|---|---|
+| Mana Cost | 55 |
+| Poison Resistance | 10 |
+| Damage against Scavenger | 20 |
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

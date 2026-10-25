@@ -15,6 +15,26 @@
 
 This fine bow has ahigh rate of fire and conserves your energy. It does not deal the mist damage though.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ranged weapon |
+| Draw Speed | 0.6 s |
+| Arrow Speed | 7 |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Chargeback | Defeat an enemy to restore Durability |
+| 2 | Headseeker | Skillshots restore 10 Stamina |
+| 3 | Heavy | - |
+| 4 | Heavy | - |
+| 5 | Stamina Leech | +2 Stamina Leech |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Lunar New Year Trader**: 8 × [Hardwood](../../items/materials/hardwood-1765656585.md), 10 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md) → 2 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -15,6 +15,17 @@
 
 An improvised bow made out of basic materials. Unfortunately, the bow string is really loose. Shooting will be hard.
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ranged weapon |
+| Draw Speed | 1 s |
+
+## How to get it
+
+- **an unnamed station**: 5 × [Twig](../../items/materials/twig-1798662696.md), 1 × [String](../../items/materials/string-419344916.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

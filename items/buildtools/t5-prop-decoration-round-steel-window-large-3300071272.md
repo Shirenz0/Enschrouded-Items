@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter**: 2 × T5 Steel Bar Desc, 2 × T5 Material Coal Name, 2 × [Glass](../../items/materials/glass-2246309017.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,14 @@ Made from polished Marble
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 10 × [Red Marble fragment](../../items/materials/red-marble-fragment-2530601241.md) → 100 ×
+
+## Used to make
+
+[Red Marble Secret](../../items/buildtools/red-marble-secret-1293427697.md)
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

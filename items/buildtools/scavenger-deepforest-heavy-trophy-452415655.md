@@ -19,6 +19,12 @@ A severed Scavenger Deepforest Heavy Head. Collect multiple to craft the trophy
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 1 |
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

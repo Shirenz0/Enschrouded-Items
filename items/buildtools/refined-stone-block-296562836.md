@@ -19,6 +19,10 @@ A Refined Stone Block, that plastered countless aristocrat buildings back in the
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 5 × [Lime Stone](../../items/materials/lime-stone-3445636557.md), 5 × [Flintstone](../../items/materials/flintstone-1586398842.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

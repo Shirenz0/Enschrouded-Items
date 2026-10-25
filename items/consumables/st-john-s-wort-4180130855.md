@@ -19,6 +19,17 @@ A beautfiul yellow flower with magical properties that increases the users mana.
 
 Springlands
 
+## Stats
+
+| | |
+|---|---|
+| Mana | 20 |
+| Duration | 10:00 min |
+
+## Used to make
+
+[T1 Heal Channel I](../../items/ammunition/t1-heal-channel-i-1899806950.md), [St Johns Worth Seedling](../../items/buildtools/st-johns-worth-seedling-2762446918.md), [Bait Sand Digger](../../items/buildtools/bait-sand-digger-2154839974.md), [Flower Wreath](../../items/buildtools/flower-wreath-439541859.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

@@ -15,6 +15,13 @@
 
 After sprinting for a short time your attacks deal %k bonus cut damage for %k. The duration refreshes everytime you deal damage.
 
+## Stats
+
+| | |
+|---|---|
+| Additional Weapon Cut Damage | 4 (scales with level) |
+| Buff Duration | 5 s |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

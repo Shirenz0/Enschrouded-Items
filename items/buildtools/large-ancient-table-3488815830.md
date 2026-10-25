@@ -21,6 +21,16 @@ Provides **comfort** which increases the duration of the Rested Bonus.
 
 > Furniture
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Table | 9 |
+
+## How to get it
+
+- **Carpenter**: 10 × [T7 material Ancient Land granite stone](../../items/materials/t7-material-ancient-land-granite-stone-2851443310.md), 3 × [Gold Bars](../../items/materials/gold-bars-514509650.md), 3 × [Celesthium Bars](../../items/materials/celesthium-bars-2893592883.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

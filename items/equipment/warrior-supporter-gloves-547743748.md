@@ -15,6 +15,12 @@
 
 Warrior Supporter gloves description
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Hands |
+
 ---
 
 [← Armor & Equipment](../../categories/equipment.md) · [All categories](../../README.md)

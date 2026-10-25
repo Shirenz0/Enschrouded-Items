@@ -15,6 +15,13 @@
 
 After performing a Dodge, your next hit deals %k additional cut damage and replenishes %k
 
+## Stats
+
+| | |
+|---|---|
+| Additional Weapon Cut Damage | 3 (scales with level) |
+| Stamina On Hit | 15 (scales with level) |
+
 ---
 
 [← Weapon Gems](../../categories/weapongem.md) · [All categories](../../README.md)

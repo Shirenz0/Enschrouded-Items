@@ -19,6 +19,10 @@ A decorative object to design and beautify yout home.
 
 > Furniture
 
+## How to get it
+
+- **Carpenter Decoration Workbench**: 1 × [Lapislazuli](../../items/materials/lapislazuli-3044860358.md), 4 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

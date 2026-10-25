@@ -23,6 +23,10 @@ A seedling that will grow into a plant when sown in the right soil. Once fully g
 
 Seedbed
 
+## How to get it
+
+- **Seedbed**: 1 × [Raw Taro](../../items/consumables/raw-taro-2417552370.md), 1 × [Fertilised Farm Soil](../../items/materials/fertilised-farm-soil-260133819.md) → 5 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

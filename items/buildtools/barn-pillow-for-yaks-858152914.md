@@ -23,6 +23,10 @@ A cosy bed  for tamed Yaky.
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 8 × [Twig](../../items/materials/twig-1798662696.md), 5 × [Straw](../../items/materials/straw-3921293392.md), 2 × [Palmwood Logs](../../items/materials/palmwood-logs-2955233340.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

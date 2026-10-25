@@ -23,6 +23,18 @@ A throwable explosive with astounding power!
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Magic weapon |
+| Damage type | Fire |
+| Throw Interval | 1,000 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Plant Fibre](../../items/materials/plant-fibre-3316218728.md), 1 × [Iron Bars](../../items/materials/iron-bars-159114158.md), 2 × [Black Powder](../../items/materials/black-powder-1828629573.md), 1 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md) → 1 ×
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

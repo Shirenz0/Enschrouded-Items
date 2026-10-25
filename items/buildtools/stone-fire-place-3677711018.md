@@ -19,6 +19,17 @@ A fire place that can be placed in your home to provide warmthto receive the Res
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Cold Resistance | 3 |
+| Comfort - Hearth | 2 |
+
+## How to get it
+
+- **Carpenter**: 10 × [Stone](../../items/materials/stone-631520303.md), 4 × [Wood Logs](../../items/materials/wood-logs-722268629.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -15,6 +15,27 @@
 
 Daggers T3  Type 1 desc
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Melee weapon |
+| Damage type | Piercing 50%, Ice 50% |
+| Parry Power | 1 |
+| Attack Speed | 0.4 s |
+
+## Enhancements
+
+Unlocked one after another as the item is upgraded, in this order. Armor and damage bonuses grow with the item level, so their numbers are shown in game only.
+
+| | Enhancement | Effect |
+|:---:|---|---|
+| 1 | Precise | +7 Precise |
+| 2 | Heavy | - |
+| 3 | Vicious | +16 Vicious |
+| 4 | Precise | +7 Precise |
+| 5 | Heavy | - |
+
 ---
 
 [← Weapons](../../categories/weapons.md) · [All categories](../../README.md)

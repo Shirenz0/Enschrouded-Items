@@ -19,6 +19,10 @@ A part of the deserted city wall in the Kindlewastes. Sturdy, it still stands af
 
 Workbench
 
+## How to get it
+
+- **Workbench**: 15 × [Sandstone](../../items/materials/sandstone-1401630464.md) → 100 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

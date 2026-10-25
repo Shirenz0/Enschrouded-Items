@@ -19,6 +19,16 @@ mountains insect desc, can be used as bait
 
 Albaneve Summits
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Fishing bait |
+
+## Used to make
+
+[Rare Bait](../../items/ammunition/rare-bait-1313427371.md)
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

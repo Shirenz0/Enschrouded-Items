@@ -23,6 +23,10 @@ a butter churn to make your own butter and butter milk at home
 
 Farmer
 
+## How to get it
+
+- **Farmer**: 10 × [Wood Planks](../../items/materials/wood-planks-1626290897.md), 5 × [Lump of Clay](../../items/materials/lump-of-clay-1925006089.md), 5 × [Metal Sheets](../../items/materials/metal-sheets-4271896226.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

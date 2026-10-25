@@ -19,6 +19,16 @@ Drak Trophy Wall Head description
 
 > Comfort - Trophy
 
+## Stats
+
+| | |
+|---|---|
+| Comfort - Trophy | 3 |
+
+## How to get it
+
+- **Bard**: 2 × Drak Teeth, 2 × Drak Claws, 2 × [String](../../items/materials/string-419344916.md), 1 × [Daylily Flower](../../items/materials/daylily-flower-1897605064.md), 2 × [Feather](../../items/materials/feather-3838906683.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

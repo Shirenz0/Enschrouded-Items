@@ -19,6 +19,17 @@ Restores some mana instantly and provides an additional Mana over time effect fo
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Mana | 240 |
+| Mana per second | 16 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Gleam Root](../../items/materials/gleam-root-2145533653.md), 1 × [Ultimate Mana Potion](../../items/consumables/ultimate-mana-potion-2916308043.md) → 1 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

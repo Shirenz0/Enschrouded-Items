@@ -19,6 +19,17 @@ A fire place that can be placed in your home to provide warmth. It's basic but d
 
 > Hearth
 
+## Stats
+
+| | |
+|---|---|
+| Cold Resistance | 4 |
+| Comfort - Hearth | 6 |
+
+## How to get it
+
+- **Carpenter**: 2 × T5 Material Coal Name, 20 × T5 Material Granite, 2 × T5 Steel Bar Desc → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

@@ -19,6 +19,10 @@ Place this Drain on the Floor and it will suck in all water, that is placed abov
 
 > Furniture
 
+## How to get it
+
+- **Workbench**: 10 × [Archaic Shards](../../items/materials/archaic-shards-2141541288.md) → 1 ×
+
 ---
 
 [← Building](../../categories/buildtools.md) · [All categories](../../README.md)

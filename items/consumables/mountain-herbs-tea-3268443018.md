@@ -19,6 +19,19 @@ A strong, herbal tea. It increases your mana and stamina.
 
 Kitchen
 
+## Stats
+
+| | |
+|---|---|
+| Duration | 50:00 min |
+| Stamina | 50 |
+| Mana | 100 |
+| Stamina Regeneration | 24 |
+
+## How to get it
+
+- **Kitchen**: 5 × [T5 Food Raw Herb Gentian](../../items/consumables/t5-food-raw-herb-gentian-3779366146.md) → 5 ×
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)

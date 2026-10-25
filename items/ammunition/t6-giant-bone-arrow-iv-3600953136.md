@@ -21,6 +21,21 @@ The force of this arrow allows it to penetrate hit targets.
 
 Crafting, Collector
 
+## Stats
+
+| | |
+|---|---|
+| Slot | Ammunition |
+| Damage type | Blunt |
+
+## How to get it
+
+- **Collector**: 10 × T5 Green Essence, 1 × [Giant Ice Bones](../../items/materials/giant-ice-bones-3895216255.md) → 50 ×
+
+## Used to make
+
+[T6 Eternal Giant Bone Arrow I](../../items/ammunition/t6-eternal-giant-bone-arrow-i-1610169156.md)
+
 ---
 
 [← Ammunition & Spells](../../categories/ammunition.md) · [All categories](../../README.md)

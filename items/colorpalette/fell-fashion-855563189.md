@@ -19,6 +19,10 @@ Look like a fell foe but make it fashion. this blue color palette resembles the 
 
 Coloring Station
 
+## How to get it
+
+- **Coloring Station**: 1 × [Shroud Sludge](../../items/materials/shroud-sludge-1887186828.md), 2 × [Aquamarine Dust](../../items/materials/aquamarine-dust-554104227.md), 1 × [Shroud Relic](../../items/materials/shroud-relic-3581489769.md), 1 × [Indigo Plant](../../items/materials/indigo-plant-4276529065.md) → 5 ×
+
 ---
 
 [← Color Palettes](../../categories/colorpalette.md) · [All categories](../../README.md)

@@ -21,6 +21,20 @@ Instantly restores an unbelievable amount of Health.
 
 Crafting, Alchemist
 
+## Stats
+
+| | |
+|---|---|
+| Health | 800 |
+
+## How to get it
+
+- **Alchemist**: 1 × [Honey](../../items/consumables/honey-227143323.md), 1 × [Aloe](../../items/materials/aloe-764289975.md), 1 × [Chamomile](../../items/materials/chamomile-3478847834.md), 1 × [Alchemical Base](../../items/materials/alchemical-base-2371777842.md) → 1 ×
+
+## Used to make
+
+[Revilalizing Health Potion improved](../../items/consumables/revilalizing-health-potion-improved-1196255924.md)
+
 ---
 
 [← Consumables](../../categories/consumables.md) · [All categories](../../README.md)
