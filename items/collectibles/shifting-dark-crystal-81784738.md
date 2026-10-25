@@ -1,6 +1,6 @@
 # Shifting Dark Crystal
 
-<img src="../../images/categories/collectibles.svg" alt="Shifting Dark Crystal" width="160">
+<img src="../../images/icons/81784738.png" alt="Shifting Dark Crystal" width="160">
 
 | | |
 |---|---|

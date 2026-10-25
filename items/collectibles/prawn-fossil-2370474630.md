@@ -1,6 +1,6 @@
 # Prawn Fossil
 
-<img src="../../images/categories/collectibles.svg" alt="Prawn Fossil" width="160">
+<img src="../../images/icons/2370474630.png" alt="Prawn Fossil" width="160">
 
 | | |
 |---|---|

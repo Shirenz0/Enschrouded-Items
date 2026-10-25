@@ -1,6 +1,6 @@
 # Fur Trousers
 
-<img src="../../images/categories/equipment.svg" alt="Fur Trousers" width="160">
+<img src="../../images/icons/1081861051.png" alt="Fur Trousers" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Yellow Glow Soup
 
-<img src="../../images/categories/consumables.svg" alt="Yellow Glow Soup" width="160">
+<img src="../../images/icons/305385380.png" alt="Yellow Glow Soup" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Cinderscale
 
-<img src="../../images/categories/consumables.svg" alt="Cinderscale" width="160">
+<img src="../../images/icons/1692397990.png" alt="Cinderscale" width="160">
 
 | | |
 |---|---|

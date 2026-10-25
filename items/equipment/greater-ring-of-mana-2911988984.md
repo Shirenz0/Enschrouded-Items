@@ -1,6 +1,6 @@
 # Greater Ring of Mana
 
-<img src="../../images/categories/equipment.svg" alt="Greater Ring of Mana" width="160">
+<img src="../../images/icons/2911988984.png" alt="Greater Ring of Mana" width="160">
 
 | | |
 |---|---|

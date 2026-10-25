@@ -1,6 +1,6 @@
 # Flame Mosaic Piece V
 
-<img src="../../images/categories/collectibles.svg" alt="Flame Mosaic Piece V" width="160">
+<img src="../../images/icons/1171016429.png" alt="Flame Mosaic Piece V" width="160">
 
 | | |
 |---|---|

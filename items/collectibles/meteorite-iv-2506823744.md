@@ -1,6 +1,6 @@
 # Meteorite IV
 
-<img src="../../images/categories/collectibles.svg" alt="Meteorite IV" width="160">
+<img src="../../images/icons/2506823744.png" alt="Meteorite IV" width="160">
 
 | | |
 |---|---|

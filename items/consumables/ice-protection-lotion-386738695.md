@@ -1,6 +1,6 @@
 # Ice Protection Lotion
 
-<img src="../../images/categories/consumables.svg" alt="Ice Protection Lotion" width="160">
+<img src="../../images/icons/386738695.png" alt="Ice Protection Lotion" width="160">
 
 | | |
 |---|---|

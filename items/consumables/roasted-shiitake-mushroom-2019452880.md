@@ -1,6 +1,6 @@
 # Roasted Shiitake Mushroom
 
-<img src="../../images/categories/consumables.svg" alt="Roasted Shiitake Mushroom" width="160">
+<img src="../../images/icons/2019452880.png" alt="Roasted Shiitake Mushroom" width="160">
 
 | | |
 |---|---|

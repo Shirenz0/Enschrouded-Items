@@ -1,6 +1,6 @@
 # Blacksmith Hat
 
-<img src="../../images/categories/equipment.svg" alt="Blacksmith Hat" width="160">
+<img src="../../images/icons/3308197043.png" alt="Blacksmith Hat" width="160">
 
 | | |
 |---|---|

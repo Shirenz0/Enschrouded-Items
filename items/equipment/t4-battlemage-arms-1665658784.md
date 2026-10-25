@@ -1,6 +1,6 @@
 # T4 BattleMage Arms
 
-<img src="../../images/categories/equipment.svg" alt="T4 BattleMage Arms" width="160">
+<img src="../../images/icons/1665658784.png" alt="T4 BattleMage Arms" width="160">
 
 | | |
 |---|---|

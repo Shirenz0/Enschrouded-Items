@@ -1,6 +1,6 @@
 # Steppes Dirt
 
-<img src="../../images/categories/materials.svg" alt="Steppes Dirt" width="160">
+<img src="../../images/icons/2732808327.png" alt="Steppes Dirt" width="160">
 
 | | |
 |---|---|

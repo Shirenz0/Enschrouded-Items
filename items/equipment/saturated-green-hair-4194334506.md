@@ -1,6 +1,6 @@
 # Saturated Green Hair
 
-<img src="../../images/categories/equipment.svg" alt="Saturated Green Hair" width="160">
+<img src="../../images/icons/4194334506.png" alt="Saturated Green Hair" width="160">
 
 | | |
 |---|---|

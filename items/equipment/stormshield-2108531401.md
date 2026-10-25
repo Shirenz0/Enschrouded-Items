@@ -1,6 +1,6 @@
 # Stormshield
 
-<img src="../../images/categories/equipment.svg" alt="Stormshield" width="160">
+<img src="../../images/icons/2108531401.png" alt="Stormshield" width="160">
 
 | | |
 |---|---|

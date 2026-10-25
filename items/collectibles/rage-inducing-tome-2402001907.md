@@ -1,6 +1,6 @@
 # Rage Inducing Tome
 
-<img src="../../images/categories/collectibles.svg" alt="Rage Inducing Tome" width="160">
+<img src="../../images/icons/2402001907.png" alt="Rage Inducing Tome" width="160">
 
 | | |
 |---|---|

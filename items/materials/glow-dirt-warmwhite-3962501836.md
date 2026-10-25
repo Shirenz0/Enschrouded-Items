@@ -1,6 +1,6 @@
 # Glow Dirt WarmWhite
 
-<img src="../../images/categories/materials.svg" alt="Glow Dirt WarmWhite" width="160">
+<img src="../../images/icons/3962501836.png" alt="Glow Dirt WarmWhite" width="160">
 
 | | |
 |---|---|

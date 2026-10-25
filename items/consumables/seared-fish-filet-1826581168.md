@@ -1,6 +1,6 @@
 # Seared Fish Filet
 
-<img src="../../images/categories/consumables.svg" alt="Seared Fish Filet" width="160">
+<img src="../../images/icons/1826581168.png" alt="Seared Fish Filet" width="160">
 
 | | |
 |---|---|

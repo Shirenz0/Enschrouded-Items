@@ -1,6 +1,6 @@
 # Banana Curry
 
-<img src="../../images/categories/consumables.svg" alt="Banana Curry" width="160">
+<img src="../../images/icons/2884389562.png" alt="Banana Curry" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Sideboard T5 small
 
-<img src="../../images/categories/buildtools.svg" alt="Sideboard T5 small" width="160">
+<img src="../../images/icons/3160686793.png" alt="Sideboard T5 small" width="160">
 
 | | |
 |---|---|

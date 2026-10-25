@@ -1,6 +1,6 @@
 # T4 Ranger Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4 Ranger Helmet" width="160">
+<img src="../../images/icons/3527833310.png" alt="T4 Ranger Helmet" width="160">
 
 | | |
 |---|---|

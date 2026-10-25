@@ -1,6 +1,6 @@
 # Vanity Outfit Sheep boots
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Outfit Sheep boots" width="160">
+<img src="../../images/icons/750528805.png" alt="Vanity Outfit Sheep boots" width="160">
 
 | | |
 |---|---|

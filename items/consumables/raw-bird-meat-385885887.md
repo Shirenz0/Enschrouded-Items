@@ -1,6 +1,6 @@
 # Raw Bird Meat
 
-<img src="../../images/categories/consumables.svg" alt="Raw Bird Meat" width="160">
+<img src="../../images/icons/385885887.png" alt="Raw Bird Meat" width="160">
 
 | | |
 |---|---|

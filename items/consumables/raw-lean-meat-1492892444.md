@@ -1,6 +1,6 @@
 # Raw Lean Meat
 
-<img src="../../images/categories/consumables.svg" alt="Raw Lean Meat" width="160">
+<img src="../../images/icons/1492892444.png" alt="Raw Lean Meat" width="160">
 
 | | |
 |---|---|

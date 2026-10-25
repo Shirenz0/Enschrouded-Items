@@ -1,6 +1,6 @@
 # T4 Warrior Legs
 
-<img src="../../images/categories/equipment.svg" alt="T4 Warrior Legs" width="160">
+<img src="../../images/icons/48989544.png" alt="T4 Warrior Legs" width="160">
 
 | | |
 |---|---|

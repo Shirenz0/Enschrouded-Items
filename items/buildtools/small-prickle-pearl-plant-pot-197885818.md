@@ -1,6 +1,6 @@
 # Small Prickle Pearl Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Small Prickle Pearl Plant Pot" width="160">
+<img src="../../images/icons/197885818.png" alt="Small Prickle Pearl Plant Pot" width="160">
 
 | | |
 |---|---|

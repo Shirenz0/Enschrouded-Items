@@ -1,6 +1,6 @@
 # T4 Healer Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4 Healer Helmet" width="160">
+<img src="../../images/icons/3472179568.png" alt="T4 Healer Helmet" width="160">
 
 | | |
 |---|---|

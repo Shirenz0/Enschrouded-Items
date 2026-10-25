@@ -1,6 +1,6 @@
 # Flame Mosaic Piece VIII
 
-<img src="../../images/categories/collectibles.svg" alt="Flame Mosaic Piece VIII" width="160">
+<img src="../../images/icons/1915219235.png" alt="Flame Mosaic Piece VIII" width="160">
 
 | | |
 |---|---|

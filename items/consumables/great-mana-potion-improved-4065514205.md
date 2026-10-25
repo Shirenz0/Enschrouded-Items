@@ -1,6 +1,6 @@
 # Great Mana Potion improved
 
-<img src="../../images/categories/consumables.svg" alt="Great Mana Potion improved" width="160">
+<img src="../../images/icons/4065514205.png" alt="Great Mana Potion improved" width="160">
 
 | | |
 |---|---|

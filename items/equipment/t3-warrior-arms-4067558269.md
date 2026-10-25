@@ -1,6 +1,6 @@
 # T3 Warrior Arms
 
-<img src="../../images/categories/equipment.svg" alt="T3 Warrior Arms" width="160">
+<img src="../../images/icons/4067558269.png" alt="T3 Warrior Arms" width="160">
 
 | | |
 |---|---|

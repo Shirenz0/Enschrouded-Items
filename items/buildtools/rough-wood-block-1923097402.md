@@ -1,6 +1,6 @@
 # Rough Wood Block
 
-<img src="../../images/categories/buildtools.svg" alt="Rough Wood Block" width="160">
+<img src="../../images/icons/1923097402.png" alt="Rough Wood Block" width="160">
 
 | | |
 |---|---|

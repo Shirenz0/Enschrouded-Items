@@ -1,6 +1,6 @@
 # Pikemead's Ward
 
-<img src="../../images/categories/equipment.svg" alt="Pikemead&#x27;s Ward" width="160">
+<img src="../../images/icons/255353296.png" alt="Pikemead&#x27;s Ward" width="160">
 
 | | |
 |---|---|

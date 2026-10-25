@@ -1,6 +1,6 @@
 # Weapon Stand Wall Daggers
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Wall Daggers" width="160">
+<img src="../../images/icons/3309720680.png" alt="Weapon Stand Wall Daggers" width="160">
 
 | | |
 |---|---|

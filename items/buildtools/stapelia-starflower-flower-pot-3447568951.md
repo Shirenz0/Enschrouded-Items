@@ -1,6 +1,6 @@
 # Stapelia Starflower Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Stapelia Starflower Flower Pot" width="160">
+<img src="../../images/icons/3447568951.png" alt="Stapelia Starflower Flower Pot" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gold Vorgoth Eye Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Vorgoth Eye Trophy" width="160">
+<img src="../../images/icons/2903890683.png" alt="Gold Vorgoth Eye Trophy" width="160">
 
 | | |
 |---|---|

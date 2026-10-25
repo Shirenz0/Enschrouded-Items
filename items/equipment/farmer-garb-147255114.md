@@ -1,6 +1,6 @@
 # Farmer Garb
 
-<img src="../../images/categories/equipment.svg" alt="Farmer Garb" width="160">
+<img src="../../images/icons/147255114.png" alt="Farmer Garb" width="160">
 
 | | |
 |---|---|

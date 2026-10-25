@@ -1,6 +1,6 @@
 # Revitalizing Health Potion
 
-<img src="../../images/categories/consumables.svg" alt="Revitalizing Health Potion" width="160">
+<img src="../../images/icons/3702644205.png" alt="Revitalizing Health Potion" width="160">
 
 | | |
 |---|---|

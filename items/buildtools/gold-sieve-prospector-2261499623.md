@@ -1,6 +1,6 @@
 # Gold Sieve Prospector
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Sieve Prospector" width="160">
+<img src="../../images/icons/2261499623.png" alt="Gold Sieve Prospector" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Angular Golden Urn
 
-<img src="../../images/categories/collectibles.svg" alt="Angular Golden Urn" width="160">
+<img src="../../images/icons/2966872976.png" alt="Angular Golden Urn" width="160">
 
 | | |
 |---|---|

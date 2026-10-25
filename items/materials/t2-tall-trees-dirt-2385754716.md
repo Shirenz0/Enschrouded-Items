@@ -1,6 +1,6 @@
 # T2 tall trees dirt
 
-<img src="../../images/categories/materials.svg" alt="T2 tall trees dirt" width="160">
+<img src="../../images/icons/2385754716.png" alt="T2 tall trees dirt" width="160">
 
 | | |
 |---|---|

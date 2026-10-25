@@ -1,6 +1,6 @@
 # Prayer of the Flame Scroll
 
-<img src="../../images/categories/consumables.svg" alt="Prayer of the Flame Scroll" width="160">
+<img src="../../images/icons/2058567631.png" alt="Prayer of the Flame Scroll" width="160">
 
 | | |
 |---|---|

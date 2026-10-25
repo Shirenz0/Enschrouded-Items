@@ -1,6 +1,6 @@
 # Exeptional Hang-Drum
 
-<img src="../../images/categories/buildtools.svg" alt="Exeptional Hang-Drum" width="160">
+<img src="../../images/icons/697485895.png" alt="Exeptional Hang-Drum" width="160">
 
 | | |
 |---|---|

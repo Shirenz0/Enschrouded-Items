@@ -1,6 +1,6 @@
 # Ring of the Frost
 
-<img src="../../images/categories/equipment.svg" alt="Ring of the Frost" width="160">
+<img src="../../images/icons/1590295047.png" alt="Ring of the Frost" width="160">
 
 | | |
 |---|---|

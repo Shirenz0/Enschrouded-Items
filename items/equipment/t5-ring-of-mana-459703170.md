@@ -1,6 +1,6 @@
 # T5 Ring of mana
 
-<img src="../../images/categories/equipment.svg" alt="T5 Ring of mana" width="160">
+<img src="../../images/icons/459703170.png" alt="T5 Ring of mana" width="160">
 
 | | |
 |---|---|

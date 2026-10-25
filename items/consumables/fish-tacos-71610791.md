@@ -1,6 +1,6 @@
 # Fish Tacos
 
-<img src="../../images/categories/consumables.svg" alt="Fish Tacos" width="160">
+<img src="../../images/icons/71610791.png" alt="Fish Tacos" width="160">
 
 | | |
 |---|---|

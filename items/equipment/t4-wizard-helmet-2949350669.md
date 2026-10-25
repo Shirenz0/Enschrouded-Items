@@ -1,6 +1,6 @@
 # T4 Wizard Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4 Wizard Helmet" width="160">
+<img src="../../images/icons/2949350669.png" alt="T4 Wizard Helmet" width="160">
 
 | | |
 |---|---|

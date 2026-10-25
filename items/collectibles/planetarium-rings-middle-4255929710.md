@@ -1,6 +1,6 @@
 # Planetarium Rings (middle)
 
-<img src="../../images/categories/collectibles.svg" alt="Planetarium Rings (middle)" width="160">
+<img src="../../images/icons/4255929710.png" alt="Planetarium Rings (middle)" width="160">
 
 | | |
 |---|---|

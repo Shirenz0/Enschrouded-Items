@@ -1,6 +1,6 @@
 # Ceiling Lantern
 
-<img src="../../images/categories/buildtools.svg" alt="Ceiling Lantern" width="160">
+<img src="../../images/icons/2231847922.png" alt="Ceiling Lantern" width="160">
 
 | | |
 |---|---|

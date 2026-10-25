@@ -1,6 +1,6 @@
 # T2 explorer boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 explorer boots" width="160">
+<img src="../../images/icons/4140714720.png" alt="T2 explorer boots" width="160">
 
 | | |
 |---|---|

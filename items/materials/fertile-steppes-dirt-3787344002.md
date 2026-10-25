@@ -1,6 +1,6 @@
 # Fertile Steppes Dirt
 
-<img src="../../images/categories/materials.svg" alt="Fertile Steppes Dirt" width="160">
+<img src="../../images/icons/3787344002.png" alt="Fertile Steppes Dirt" width="160">
 
 | | |
 |---|---|

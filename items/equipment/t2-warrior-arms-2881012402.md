@@ -1,6 +1,6 @@
 # T2 Warrior Arms
 
-<img src="../../images/categories/equipment.svg" alt="T2 Warrior Arms" width="160">
+<img src="../../images/icons/2881012402.png" alt="T2 Warrior Arms" width="160">
 
 | | |
 |---|---|

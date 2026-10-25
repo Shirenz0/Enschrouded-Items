@@ -1,6 +1,6 @@
 # T3 Ranger Boots
 
-<img src="../../images/categories/equipment.svg" alt="T3 Ranger Boots" width="160">
+<img src="../../images/icons/161814920.png" alt="T3 Ranger Boots" width="160">
 
 | | |
 |---|---|

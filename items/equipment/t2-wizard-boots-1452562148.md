@@ -1,6 +1,6 @@
 # T2 Wizard Boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 Wizard Boots" width="160">
+<img src="../../images/icons/1452562148.png" alt="T2 Wizard Boots" width="160">
 
 | | |
 |---|---|

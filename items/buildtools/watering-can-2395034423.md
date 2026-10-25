@@ -1,6 +1,6 @@
 # Watering Can
 
-<img src="../../images/categories/buildtools.svg" alt="Watering Can" width="160">
+<img src="../../images/icons/2395034423.png" alt="Watering Can" width="160">
 
 | | |
 |---|---|

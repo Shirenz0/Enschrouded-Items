@@ -1,6 +1,6 @@
 # Lumberer Pants
 
-<img src="../../images/categories/equipment.svg" alt="Lumberer Pants" width="160">
+<img src="../../images/icons/3588454306.png" alt="Lumberer Pants" width="160">
 
 | | |
 |---|---|

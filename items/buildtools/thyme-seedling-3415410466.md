@@ -1,6 +1,6 @@
 # Thyme Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Thyme Seedling" width="160">
+<img src="../../images/icons/3415410466.png" alt="Thyme Seedling" width="160">
 
 | | |
 |---|---|

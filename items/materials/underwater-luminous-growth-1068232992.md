@@ -1,6 +1,6 @@
 # Underwater Luminous Growth
 
-<img src="../../images/categories/materials.svg" alt="Underwater Luminous Growth" width="160">
+<img src="../../images/icons/1068232992.png" alt="Underwater Luminous Growth" width="160">
 
 | | |
 |---|---|

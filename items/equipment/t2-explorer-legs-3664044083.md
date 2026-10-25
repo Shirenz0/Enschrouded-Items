@@ -1,6 +1,6 @@
 # T2 explorer legs
 
-<img src="../../images/categories/equipment.svg" alt="T2 explorer legs" width="160">
+<img src="../../images/icons/3664044083.png" alt="T2 explorer legs" width="160">
 
 | | |
 |---|---|

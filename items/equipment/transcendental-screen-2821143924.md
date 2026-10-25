@@ -1,6 +1,6 @@
 # Transcendental Screen
 
-<img src="../../images/categories/equipment.svg" alt="Transcendental Screen" width="160">
+<img src="../../images/icons/2821143924.png" alt="Transcendental Screen" width="160">
 
 | | |
 |---|---|

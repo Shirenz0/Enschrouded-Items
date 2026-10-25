@@ -1,6 +1,6 @@
 # Ring of the Flame
 
-<img src="../../images/categories/equipment.svg" alt="Ring of the Flame" width="160">
+<img src="../../images/icons/4275592172.png" alt="Ring of the Flame" width="160">
 
 | | |
 |---|---|

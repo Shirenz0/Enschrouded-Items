@@ -1,6 +1,6 @@
 # Loraine's Top
 
-<img src="../../images/categories/equipment.svg" alt="Loraine&#x27;s Top" width="160">
+<img src="../../images/icons/1539502869.png" alt="Loraine&#x27;s Top" width="160">
 
 | | |
 |---|---|

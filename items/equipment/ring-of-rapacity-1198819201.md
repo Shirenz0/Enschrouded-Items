@@ -1,6 +1,6 @@
 # Ring of Rapacity
 
-<img src="../../images/categories/equipment.svg" alt="Ring of Rapacity" width="160">
+<img src="../../images/icons/1198819201.png" alt="Ring of Rapacity" width="160">
 
 | | |
 |---|---|

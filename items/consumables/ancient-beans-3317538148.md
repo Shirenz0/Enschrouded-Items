@@ -1,6 +1,6 @@
 # Ancient "Beans"
 
-<img src="../../images/categories/consumables.svg" alt="Ancient &quot;Beans&quot;" width="160">
+<img src="../../images/icons/3317538148.png" alt="Ancient &quot;Beans&quot;" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Vorgoth's Boots
 
-<img src="../../images/categories/equipment.svg" alt="Vorgoth&#x27;s Boots" width="160">
+<img src="../../images/icons/3057743376.png" alt="Vorgoth&#x27;s Boots" width="160">
 
 | | |
 |---|---|

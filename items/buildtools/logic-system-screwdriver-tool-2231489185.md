@@ -1,6 +1,6 @@
 # Logic System Screwdriver Tool
 
-<img src="../../images/categories/buildtools.svg" alt="Logic System Screwdriver Tool" width="160">
+<img src="../../images/icons/2231489185.png" alt="Logic System Screwdriver Tool" width="160">
 
 | | |
 |---|---|

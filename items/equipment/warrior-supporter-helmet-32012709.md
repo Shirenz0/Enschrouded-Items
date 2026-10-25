@@ -1,6 +1,6 @@
 # Warrior Supporter helmet
 
-<img src="../../images/categories/equipment.svg" alt="Warrior Supporter helmet" width="160">
+<img src="../../images/icons/32012709.png" alt="Warrior Supporter helmet" width="160">
 
 | | |
 |---|---|

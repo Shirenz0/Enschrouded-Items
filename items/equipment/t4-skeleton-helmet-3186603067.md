@@ -1,6 +1,6 @@
 # T4 Skeleton helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4 Skeleton helmet" width="160">
+<img src="../../images/icons/3186603067.png" alt="T4 Skeleton helmet" width="160">
 
 | | |
 |---|---|

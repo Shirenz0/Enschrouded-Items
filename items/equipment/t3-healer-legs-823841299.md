@@ -1,6 +1,6 @@
 # T3 Healer Legs
 
-<img src="../../images/categories/equipment.svg" alt="T3 Healer Legs" width="160">
+<img src="../../images/icons/823841299.png" alt="T3 Healer Legs" width="160">
 
 | | |
 |---|---|

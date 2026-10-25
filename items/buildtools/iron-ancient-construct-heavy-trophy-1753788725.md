@@ -1,6 +1,6 @@
 # Iron Ancient Construct: Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Ancient Construct: Heavy Trophy" width="160">
+<img src="../../images/icons/1753788725.png" alt="Iron Ancient Construct: Heavy Trophy" width="160">
 
 | | |
 |---|---|

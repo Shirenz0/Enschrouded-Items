@@ -1,6 +1,6 @@
 # T5 Palette 04 Pink and Grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T5 Palette 04 Pink and Grey" width="160">
+<img src="../../images/icons/1123597225.png" alt="T5 Palette 04 Pink and Grey" width="160">
 
 | | |
 |---|---|

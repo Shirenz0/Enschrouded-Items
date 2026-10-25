@@ -1,6 +1,6 @@
 # Warrior Supporter chest
 
-<img src="../../images/categories/equipment.svg" alt="Warrior Supporter chest" width="160">
+<img src="../../images/icons/1295700630.png" alt="Warrior Supporter chest" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T2 Palette 02 shades of grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T2 Palette 02 shades of grey" width="160">
+<img src="../../images/icons/556297753.png" alt="T2 Palette 02 shades of grey" width="160">
 
 | | |
 |---|---|

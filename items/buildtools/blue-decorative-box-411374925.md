@@ -1,6 +1,6 @@
 # Blue Decorative Box
 
-<img src="../../images/categories/buildtools.svg" alt="Blue Decorative Box" width="160">
+<img src="../../images/icons/411374925.png" alt="Blue Decorative Box" width="160">
 
 | | |
 |---|---|

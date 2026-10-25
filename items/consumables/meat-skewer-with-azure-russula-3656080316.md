@@ -1,6 +1,6 @@
 # Meat Skewer with Azure Russula
 
-<img src="../../images/categories/consumables.svg" alt="Meat Skewer with Azure Russula" width="160">
+<img src="../../images/icons/3656080316.png" alt="Meat Skewer with Azure Russula" width="160">
 
 | | |
 |---|---|

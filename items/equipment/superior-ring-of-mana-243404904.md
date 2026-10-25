@@ -1,6 +1,6 @@
 # Superior Ring of Mana
 
-<img src="../../images/categories/equipment.svg" alt="Superior Ring of Mana" width="160">
+<img src="../../images/icons/243404904.png" alt="Superior Ring of Mana" width="160">
 
 | | |
 |---|---|

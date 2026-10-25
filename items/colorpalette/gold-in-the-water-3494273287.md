@@ -1,6 +1,6 @@
 # Gold In The Water
 
-<img src="../../images/categories/colorpalette.svg" alt="Gold In The Water" width="160">
+<img src="../../images/icons/3494273287.png" alt="Gold In The Water" width="160">
 
 | | |
 |---|---|

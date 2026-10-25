@@ -1,6 +1,6 @@
 # T3 Palette 03 Brown Green Grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T3 Palette 03 Brown Green Grey" width="160">
+<img src="../../images/icons/2653935294.png" alt="T3 Palette 03 Brown Green Grey" width="160">
 
 | | |
 |---|---|

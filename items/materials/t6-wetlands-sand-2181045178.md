@@ -1,6 +1,6 @@
 # T6 Wetlands Sand
 
-<img src="../../images/categories/materials.svg" alt="T6 Wetlands Sand" width="160">
+<img src="../../images/icons/2181045178.png" alt="T6 Wetlands Sand" width="160">
 
 | | |
 |---|---|

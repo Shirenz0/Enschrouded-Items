@@ -1,6 +1,6 @@
 # T2 Healer Arms
 
-<img src="../../images/categories/equipment.svg" alt="T2 Healer Arms" width="160">
+<img src="../../images/icons/614770460.png" alt="T2 Healer Arms" width="160">
 
 | | |
 |---|---|

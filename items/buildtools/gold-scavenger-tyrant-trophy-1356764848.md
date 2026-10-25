@@ -1,6 +1,6 @@
 # Gold Scavenger Tyrant Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Scavenger Tyrant Trophy" width="160">
+<img src="../../images/icons/1356764848.png" alt="Gold Scavenger Tyrant Trophy" width="160">
 
 | | |
 |---|---|

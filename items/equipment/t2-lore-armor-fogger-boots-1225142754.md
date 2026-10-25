@@ -1,6 +1,6 @@
 # T2 Lore Armor Fogger Boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 Lore Armor Fogger Boots" width="160">
+<img src="../../images/icons/1225142754.png" alt="T2 Lore Armor Fogger Boots" width="160">
 
 | | |
 |---|---|

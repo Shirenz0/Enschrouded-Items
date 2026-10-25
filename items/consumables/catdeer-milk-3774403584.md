@@ -1,6 +1,6 @@
 # Catdeer milk
 
-<img src="../../images/categories/consumables.svg" alt="Catdeer milk" width="160">
+<img src="../../images/icons/3774403584.png" alt="Catdeer milk" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Iron Scavenger Tyrant Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Scavenger Tyrant Trophy" width="160">
+<img src="../../images/icons/644718122.png" alt="Iron Scavenger Tyrant Trophy" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Simple Fishing Rod
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Fishing Rod" width="160">
+<img src="../../images/icons/425570534.png" alt="Simple Fishing Rod" width="160">
 
 | | |
 |---|---|

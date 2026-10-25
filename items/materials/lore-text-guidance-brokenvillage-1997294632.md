@@ -1,6 +1,6 @@
 # Lore Text Guidance BrokenVillage
 
-<img src="../../images/categories/materials.svg" alt="Lore Text Guidance BrokenVillage" width="160">
+<img src="../../images/icons/1997294632.png" alt="Lore Text Guidance BrokenVillage" width="160">
 
 | | |
 |---|---|

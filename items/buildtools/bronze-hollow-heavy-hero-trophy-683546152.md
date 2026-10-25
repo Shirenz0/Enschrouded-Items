@@ -1,6 +1,6 @@
 # Bronze Hollow Heavy Hero Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Hollow Heavy Hero Trophy" width="160">
+<img src="../../images/icons/683546152.png" alt="Bronze Hollow Heavy Hero Trophy" width="160">
 
 | | |
 |---|---|

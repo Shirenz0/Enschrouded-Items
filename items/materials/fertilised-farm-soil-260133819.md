@@ -1,6 +1,6 @@
 # Fertilised Farm Soil
 
-<img src="../../images/categories/materials.svg" alt="Fertilised Farm Soil" width="160">
+<img src="../../images/icons/260133819.png" alt="Fertilised Farm Soil" width="160">
 
 | | |
 |---|---|

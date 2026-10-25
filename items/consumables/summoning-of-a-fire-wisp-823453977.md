@@ -1,6 +1,6 @@
 # Summoning Of A Fire Wisp
 
-<img src="../../images/categories/consumables.svg" alt="Summoning Of A Fire Wisp" width="160">
+<img src="../../images/icons/823453977.png" alt="Summoning Of A Fire Wisp" width="160">
 
 | | |
 |---|---|

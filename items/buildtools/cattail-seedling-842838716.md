@@ -1,6 +1,6 @@
 # Cattail Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Cattail Seedling" width="160">
+<img src="../../images/icons/842838716.png" alt="Cattail Seedling" width="160">
 
 | | |
 |---|---|

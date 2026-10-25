@@ -1,6 +1,6 @@
 # Blacksmith Boots
 
-<img src="../../images/categories/equipment.svg" alt="Blacksmith Boots" width="160">
+<img src="../../images/icons/2248886360.png" alt="Blacksmith Boots" width="160">
 
 | | |
 |---|---|

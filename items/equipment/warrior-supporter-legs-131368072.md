@@ -1,6 +1,6 @@
 # Warrior Supporter legs
 
-<img src="../../images/categories/equipment.svg" alt="Warrior Supporter legs" width="160">
+<img src="../../images/icons/131368072.png" alt="Warrior Supporter legs" width="160">
 
 | | |
 |---|---|

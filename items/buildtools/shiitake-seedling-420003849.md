@@ -1,6 +1,6 @@
 # Shiitake Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Shiitake Seedling" width="160">
+<img src="../../images/icons/420003849.png" alt="Shiitake Seedling" width="160">
 
 | | |
 |---|---|

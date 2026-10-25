@@ -1,6 +1,6 @@
 # Rising Fighter Boots
 
-<img src="../../images/categories/equipment.svg" alt="Rising Fighter Boots" width="160">
+<img src="../../images/icons/1694671169.png" alt="Rising Fighter Boots" width="160">
 
 | | |
 |---|---|

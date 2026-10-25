@@ -1,6 +1,6 @@
 # Kindlewastes Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Kindlewastes Miniature Piece" width="160">
+<img src="../../images/icons/101085309.png" alt="Kindlewastes Miniature Piece" width="160">
 
 | | |
 |---|---|

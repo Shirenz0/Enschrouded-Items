@@ -1,6 +1,6 @@
 # T2 Sniper Chest
 
-<img src="../../images/categories/equipment.svg" alt="T2 Sniper Chest" width="160">
+<img src="../../images/icons/1206899711.png" alt="T2 Sniper Chest" width="160">
 
 | | |
 |---|---|

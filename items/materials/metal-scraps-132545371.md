@@ -1,6 +1,6 @@
 # Metal Scraps
 
-<img src="../../images/categories/materials.svg" alt="Metal Scraps" width="160">
+<img src="../../images/icons/132545371.png" alt="Metal Scraps" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Vanity Helmet 04 Name Bandana
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Helmet 04 Name Bandana" width="160">
+<img src="../../images/icons/2342616229.png" alt="Vanity Helmet 04 Name Bandana" width="160">
 
 | | |
 |---|---|

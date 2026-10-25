@@ -1,6 +1,6 @@
 # T6 Magic Ice Arms - Unique
 
-<img src="../../images/categories/equipment.svg" alt="T6 Magic Ice Arms - Unique" width="160">
+<img src="../../images/icons/2809656046.png" alt="T6 Magic Ice Arms - Unique" width="160">
 
 | | |
 |---|---|

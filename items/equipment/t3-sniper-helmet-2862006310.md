@@ -1,6 +1,6 @@
 # T3 Sniper Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T3 Sniper Helmet" width="160">
+<img src="../../images/icons/2862006310.png" alt="T3 Sniper Helmet" width="160">
 
 | | |
 |---|---|

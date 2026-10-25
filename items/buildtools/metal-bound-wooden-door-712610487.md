@@ -1,6 +1,6 @@
 # Metal Bound Wooden Door
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Bound Wooden Door" width="160">
+<img src="../../images/icons/712610487.png" alt="Metal Bound Wooden Door" width="160">
 
 | | |
 |---|---|

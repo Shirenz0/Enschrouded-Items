@@ -1,6 +1,6 @@
 # Dark Crystal Cluster
 
-<img src="../../images/categories/collectibles.svg" alt="Dark Crystal Cluster" width="160">
+<img src="../../images/icons/1323837855.png" alt="Dark Crystal Cluster" width="160">
 
 | | |
 |---|---|

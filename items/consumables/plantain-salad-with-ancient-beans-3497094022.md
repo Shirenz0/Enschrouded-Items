@@ -1,6 +1,6 @@
 # Plantain Salad with ancient beans
 
-<img src="../../images/categories/consumables.svg" alt="Plantain Salad with ancient beans" width="160">
+<img src="../../images/icons/3497094022.png" alt="Plantain Salad with ancient beans" width="160">
 
 | | |
 |---|---|

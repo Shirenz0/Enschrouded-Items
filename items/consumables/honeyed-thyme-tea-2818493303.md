@@ -1,6 +1,6 @@
 # (honeyed) Thyme Tea
 
-<img src="../../images/categories/consumables.svg" alt="(honeyed) Thyme Tea" width="160">
+<img src="../../images/icons/2818493303.png" alt="(honeyed) Thyme Tea" width="160">
 
 | | |
 |---|---|

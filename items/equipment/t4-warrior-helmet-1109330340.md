@@ -1,6 +1,6 @@
 # T4 Warrior Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4 Warrior Helmet" width="160">
+<img src="../../images/icons/1109330340.png" alt="T4 Warrior Helmet" width="160">
 
 | | |
 |---|---|

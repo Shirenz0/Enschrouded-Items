@@ -1,6 +1,6 @@
 # Seared Fish Cutlet
 
-<img src="../../images/categories/consumables.svg" alt="Seared Fish Cutlet" width="160">
+<img src="../../images/icons/109152806.png" alt="Seared Fish Cutlet" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gold Hollow Heavy Hero Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Hollow Heavy Hero Trophy" width="160">
+<img src="../../images/icons/4203731022.png" alt="Gold Hollow Heavy Hero Trophy" width="160">
 
 | | |
 |---|---|

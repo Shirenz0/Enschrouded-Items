@@ -1,6 +1,6 @@
 # Turquoise Hair
 
-<img src="../../images/categories/equipment.svg" alt="Turquoise Hair" width="160">
+<img src="../../images/icons/1583140967.png" alt="Turquoise Hair" width="160">
 
 | | |
 |---|---|

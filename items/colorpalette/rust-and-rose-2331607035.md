@@ -1,6 +1,6 @@
 # Rust And Rose
 
-<img src="../../images/categories/colorpalette.svg" alt="Rust And Rose" width="160">
+<img src="../../images/icons/2331607035.png" alt="Rust And Rose" width="160">
 
 | | |
 |---|---|

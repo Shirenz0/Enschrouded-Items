@@ -1,6 +1,6 @@
 # T6 Magic Fire Arms - Unique
 
-<img src="../../images/categories/equipment.svg" alt="T6 Magic Fire Arms - Unique" width="160">
+<img src="../../images/icons/3214336819.png" alt="T6 Magic Fire Arms - Unique" width="160">
 
 | | |
 |---|---|

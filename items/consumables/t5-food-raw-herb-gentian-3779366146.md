@@ -1,6 +1,6 @@
 # T5 Food Raw Herb Gentian
 
-<img src="../../images/categories/consumables.svg" alt="T5 Food Raw Herb Gentian" width="160">
+<img src="../../images/icons/3779366146.png" alt="T5 Food Raw Herb Gentian" width="160">
 
 | | |
 |---|---|

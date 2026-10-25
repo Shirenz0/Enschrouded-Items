@@ -1,6 +1,6 @@
 # Lumberer Hat
 
-<img src="../../images/categories/equipment.svg" alt="Lumberer Hat" width="160">
+<img src="../../images/icons/3216732270.png" alt="Lumberer Hat" width="160">
 
 | | |
 |---|---|

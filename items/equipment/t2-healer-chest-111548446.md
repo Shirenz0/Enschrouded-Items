@@ -1,6 +1,6 @@
 # T2 Healer Chest
 
-<img src="../../images/categories/equipment.svg" alt="T2 Healer Chest" width="160">
+<img src="../../images/icons/111548446.png" alt="T2 Healer Chest" width="160">
 
 | | |
 |---|---|

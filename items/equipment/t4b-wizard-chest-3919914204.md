@@ -1,6 +1,6 @@
 # T4b Wizard Chest
 
-<img src="../../images/categories/equipment.svg" alt="T4b Wizard Chest" width="160">
+<img src="../../images/icons/3919914204.png" alt="T4b Wizard Chest" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T6 Adventurer Legs - Unique
 
-<img src="../../images/categories/equipment.svg" alt="T6 Adventurer Legs - Unique" width="160">
+<img src="../../images/icons/2264547367.png" alt="T6 Adventurer Legs - Unique" width="160">
 
 | | |
 |---|---|

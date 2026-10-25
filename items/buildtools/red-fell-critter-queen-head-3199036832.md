@@ -1,6 +1,6 @@
 # Red Fell Critter Queen Head
 
-<img src="../../images/categories/buildtools.svg" alt="Red Fell Critter Queen Head" width="160">
+<img src="../../images/icons/3199036832.png" alt="Red Fell Critter Queen Head" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T1 noble dress chest
 
-<img src="../../images/categories/equipment.svg" alt="T1 noble dress chest" width="160">
+<img src="../../images/icons/3179795171.png" alt="T1 noble dress chest" width="160">
 
 | | |
 |---|---|

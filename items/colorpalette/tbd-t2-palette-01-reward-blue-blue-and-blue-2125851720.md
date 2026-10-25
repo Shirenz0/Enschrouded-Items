@@ -1,6 +1,6 @@
 # Tbd T2 Palette 01 Reward Blue, Blue And Blue
 
-<img src="../../images/categories/colorpalette.svg" alt="Tbd T2 Palette 01 Reward Blue, Blue And Blue" width="160">
+<img src="../../images/icons/2125851720.png" alt="Tbd T2 Palette 01 Reward Blue, Blue And Blue" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Miner Helmet
 
-<img src="../../images/categories/equipment.svg" alt="Miner Helmet" width="160">
+<img src="../../images/icons/1392674456.png" alt="Miner Helmet" width="160">
 
 | | |
 |---|---|

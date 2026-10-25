@@ -1,6 +1,6 @@
 # Maid Farmer Hat
 
-<img src="../../images/categories/equipment.svg" alt="Maid Farmer Hat" width="160">
+<img src="../../images/icons/3232881227.png" alt="Maid Farmer Hat" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Extraordinary Ectoplasm Soup
 
-<img src="../../images/categories/consumables.svg" alt="Extraordinary Ectoplasm Soup" width="160">
+<img src="../../images/icons/3329610289.png" alt="Extraordinary Ectoplasm Soup" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T7 Ring of Stamina
 
-<img src="../../images/categories/equipment.svg" alt="T7 Ring of Stamina" width="160">
+<img src="../../images/icons/3265619282.png" alt="T7 Ring of Stamina" width="160">
 
 | | |
 |---|---|

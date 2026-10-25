@@ -1,6 +1,6 @@
 # T4 Archer Chest
 
-<img src="../../images/categories/equipment.svg" alt="T4 Archer Chest" width="160">
+<img src="../../images/icons/4061156246.png" alt="T4 Archer Chest" width="160">
 
 | | |
 |---|---|

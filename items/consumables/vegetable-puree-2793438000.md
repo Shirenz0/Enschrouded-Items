@@ -1,6 +1,6 @@
 # Vegetable Puree
 
-<img src="../../images/categories/consumables.svg" alt="Vegetable Puree" width="160">
+<img src="../../images/icons/2793438000.png" alt="Vegetable Puree" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Mysterious Flask
 
-<img src="../../images/categories/consumables.svg" alt="Mysterious Flask" width="160">
+<img src="../../images/icons/2206945282.png" alt="Mysterious Flask" width="160">
 
 | | |
 |---|---|

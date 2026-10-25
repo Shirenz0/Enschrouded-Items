@@ -1,6 +1,6 @@
 # Mountain herbs tea
 
-<img src="../../images/categories/consumables.svg" alt="Mountain herbs tea" width="160">
+<img src="../../images/icons/3268443018.png" alt="Mountain herbs tea" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T5 Palette 02 Pink and Grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T5 Palette 02 Pink and Grey" width="160">
+<img src="../../images/icons/3980109078.png" alt="T5 Palette 02 Pink and Grey" width="160">
 
 | | |
 |---|---|

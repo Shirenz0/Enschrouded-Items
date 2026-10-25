@@ -1,6 +1,6 @@
 # Fertile Grassland Dirt
 
-<img src="../../images/categories/materials.svg" alt="Fertile Grassland Dirt" width="160">
+<img src="../../images/icons/2517406505.png" alt="Fertile Grassland Dirt" width="160">
 
 | | |
 |---|---|

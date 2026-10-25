@@ -1,6 +1,6 @@
 # Veil Of Blues
 
-<img src="../../images/categories/colorpalette.svg" alt="Veil Of Blues" width="160">
+<img src="../../images/icons/391330740.png" alt="Veil Of Blues" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Iron Vorgoth Eye Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Vorgoth Eye Trophy" width="160">
+<img src="../../images/icons/3043171452.png" alt="Iron Vorgoth Eye Trophy" width="160">
 
 | | |
 |---|---|

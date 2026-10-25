@@ -1,6 +1,6 @@
 # Scavenger Desert Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Scavenger Desert Heavy Trophy" width="160">
+<img src="../../images/icons/785918372.png" alt="Scavenger Desert Heavy Trophy" width="160">
 
 | | |
 |---|---|

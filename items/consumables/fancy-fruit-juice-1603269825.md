@@ -1,6 +1,6 @@
 # Fancy Fruit Juice
 
-<img src="../../images/categories/consumables.svg" alt="Fancy Fruit Juice" width="160">
+<img src="../../images/icons/1603269825.png" alt="Fancy Fruit Juice" width="160">
 
 | | |
 |---|---|

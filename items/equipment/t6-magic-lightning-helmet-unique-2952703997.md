@@ -1,6 +1,6 @@
 # T6 Magic Lightning Helmet - Unique
 
-<img src="../../images/categories/equipment.svg" alt="T6 Magic Lightning Helmet - Unique" width="160">
+<img src="../../images/icons/2952703997.png" alt="T6 Magic Lightning Helmet - Unique" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Fresh Shroud Spore
 
-<img src="../../images/categories/materials.svg" alt="Fresh Shroud Spore" width="160">
+<img src="../../images/icons/4090772336.png" alt="Fresh Shroud Spore" width="160">
 
 | | |
 |---|---|

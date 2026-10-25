@@ -1,6 +1,6 @@
 # Shroud Infused Farm Soil
 
-<img src="../../images/categories/materials.svg" alt="Shroud Infused Farm Soil" width="160">
+<img src="../../images/icons/3234886486.png" alt="Shroud Infused Farm Soil" width="160">
 
 | | |
 |---|---|

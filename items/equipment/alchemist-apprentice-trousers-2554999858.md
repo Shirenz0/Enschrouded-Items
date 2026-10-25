@@ -1,6 +1,6 @@
 # Alchemist Apprentice Trousers
 
-<img src="../../images/categories/equipment.svg" alt="Alchemist Apprentice Trousers" width="160">
+<img src="../../images/icons/2554999858.png" alt="Alchemist Apprentice Trousers" width="160">
 
 | | |
 |---|---|

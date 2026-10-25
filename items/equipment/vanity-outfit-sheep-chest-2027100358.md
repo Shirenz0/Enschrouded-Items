@@ -1,6 +1,6 @@
 # Vanity Outfit Sheep chest
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Outfit Sheep chest" width="160">
+<img src="../../images/icons/2027100358.png" alt="Vanity Outfit Sheep chest" width="160">
 
 | | |
 |---|---|

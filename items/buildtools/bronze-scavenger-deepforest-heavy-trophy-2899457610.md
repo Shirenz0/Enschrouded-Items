@@ -1,6 +1,6 @@
 # Bronze Scavenger Deepforest Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Scavenger Deepforest Heavy Trophy" width="160">
+<img src="../../images/icons/2899457610.png" alt="Bronze Scavenger Deepforest Heavy Trophy" width="160">
 
 | | |
 |---|---|

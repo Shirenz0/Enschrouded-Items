@@ -1,6 +1,6 @@
 # T6 Wetlands Dirt
 
-<img src="../../images/categories/materials.svg" alt="T6 Wetlands Dirt" width="160">
+<img src="../../images/icons/4095370049.png" alt="T6 Wetlands Dirt" width="160">
 
 | | |
 |---|---|

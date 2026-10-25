@@ -1,6 +1,6 @@
 # Gold Scavenger Deepforest Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Scavenger Deepforest Heavy Trophy" width="160">
+<img src="../../images/icons/43040013.png" alt="Gold Scavenger Deepforest Heavy Trophy" width="160">
 
 | | |
 |---|---|

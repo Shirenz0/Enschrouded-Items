@@ -1,6 +1,6 @@
 # Tomato Fish Soup
 
-<img src="../../images/categories/consumables.svg" alt="Tomato Fish Soup" width="160">
+<img src="../../images/icons/2575926249.png" alt="Tomato Fish Soup" width="160">
 
 | | |
 |---|---|

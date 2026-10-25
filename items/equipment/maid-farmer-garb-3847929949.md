@@ -1,6 +1,6 @@
 # Maid/Farmer Garb
 
-<img src="../../images/categories/equipment.svg" alt="Maid/Farmer Garb" width="160">
+<img src="../../images/icons/3847929949.png" alt="Maid/Farmer Garb" width="160">
 
 | | |
 |---|---|

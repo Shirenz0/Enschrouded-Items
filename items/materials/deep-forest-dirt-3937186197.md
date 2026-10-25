@@ -1,6 +1,6 @@
 # Deep Forest Dirt
 
-<img src="../../images/categories/materials.svg" alt="Deep Forest Dirt" width="160">
+<img src="../../images/icons/3937186197.png" alt="Deep Forest Dirt" width="160">
 
 | | |
 |---|---|

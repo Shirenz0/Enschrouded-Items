@@ -1,6 +1,6 @@
 # T4b Wizard Legs
 
-<img src="../../images/categories/equipment.svg" alt="T4b Wizard Legs" width="160">
+<img src="../../images/icons/4280437315.png" alt="T4b Wizard Legs" width="160">
 
 | | |
 |---|---|

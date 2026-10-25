@@ -1,6 +1,6 @@
 # Shadowbloom Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Shadowbloom Flower Pot" width="160">
+<img src="../../images/icons/440235364.png" alt="Shadowbloom Flower Pot" width="160">
 
 | | |
 |---|---|

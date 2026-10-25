@@ -1,6 +1,6 @@
 # Ancient Health Potion
 
-<img src="../../images/categories/consumables.svg" alt="Ancient Health Potion" width="160">
+<img src="../../images/icons/1756446918.png" alt="Ancient Health Potion" width="160">
 
 | | |
 |---|---|

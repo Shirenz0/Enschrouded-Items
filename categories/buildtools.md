@@ -20,16 +20,16 @@
 | <img src="../images/icons/3764911324.png" width="48"> | [Alchemical Station](../items/buildtools/alchemical-station-3764911324.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1902069142.png" width="48"> | [Alchemist Showcase](../items/buildtools/alchemist-showcase-1902069142.md) | ⚪ Common | - | 20 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Alden Crowley](../items/buildtools/alden-crowley-3764330463.md) | 🔵 Rare | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Algae Seedling](../items/buildtools/algae-seedling-2411338569.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/2411338569.png" width="48"> | [Algae Seedling](../items/buildtools/algae-seedling-2411338569.md) | ⚪ Common | - | 100 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Alma Fairburn](../items/buildtools/alma-fairburn-1055693550.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/305269419.png" width="48"> | [Aloe Plant Pot](../items/buildtools/aloe-plant-pot-305269419.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/526064074.png" width="48"> | [Aloe Seedling](../items/buildtools/aloe-seedling-526064074.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/889046505.png" width="48"> | [Alpine Rose Flower Pot](../items/buildtools/alpine-rose-flower-pot-889046505.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1975355853.png" width="48"> | [Ambience Attractor](../items/buildtools/ambience-attractor-1975355853.md) | ⚪ Common | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ancient "Artichoke" Seedling](../items/buildtools/ancient-artichoke-seedling-3397770029.md) | ⚪ Common | - | 100 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ancient "Bean" Seedling](../items/buildtools/ancient-bean-seedling-2816539508.md) | ⚪ Common | - | 100 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ancient "Cabbage" Seedling](../items/buildtools/ancient-cabbage-seedling-954995911.md) | ⚪ Common | - | 100 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ancient "Pomegranate" Seedling](../items/buildtools/ancient-pomegranate-seedling-3166342350.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/3397770029.png" width="48"> | [Ancient "Artichoke" Seedling](../items/buildtools/ancient-artichoke-seedling-3397770029.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/2816539508.png" width="48"> | [Ancient "Bean" Seedling](../items/buildtools/ancient-bean-seedling-2816539508.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/954995911.png" width="48"> | [Ancient "Cabbage" Seedling](../items/buildtools/ancient-cabbage-seedling-954995911.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/3166342350.png" width="48"> | [Ancient "Pomegranate" Seedling](../items/buildtools/ancient-pomegranate-seedling-3166342350.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/3354262298.png" width="48"> | [Ancient Bed](../items/buildtools/ancient-bed-3354262298.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1352479860.png" width="48"> | [Ancient Bench](../items/buildtools/ancient-bench-1352479860.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/124010475.png" width="48"> | [Ancient Ceiling Lamp](../items/buildtools/ancient-ceiling-lamp-124010475.md) | ⚪ Common | - | 50 |
@@ -43,7 +43,7 @@
 | <img src="../images/icons/2401198841.png" width="48"> | [Ancient Colum Base II](../items/buildtools/ancient-colum-base-ii-2401198841.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4116932387.png" width="48"> | [Ancient Column](../items/buildtools/ancient-column-4116932387.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3398557236.png" width="48"> | [Ancient Column Block](../items/buildtools/ancient-column-block-3398557236.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ancient Construct: Heavy Trophy](../items/buildtools/ancient-construct-heavy-trophy-825905286.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/825905286.png" width="48"> | [Ancient Construct: Heavy Trophy](../items/buildtools/ancient-construct-heavy-trophy-825905286.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/2702448213.png" width="48"> | [Ancient Cooling Unit](../items/buildtools/ancient-cooling-unit-2702448213.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/54733896.png" width="48"> | [Ancient Dungeon Rubble Block](../items/buildtools/ancient-dungeon-rubble-block-54733896.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/2130648477.png" width="48"> | [Ancient Enegry Block](../items/buildtools/ancient-enegry-block-2130648477.md) | ⚪ Common | - | 5000 |
@@ -56,7 +56,7 @@
 | <img src="../images/icons/758912437.png" width="48"> | [Ancient Microscope II](../items/buildtools/ancient-microscope-ii-758912437.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/873559594.png" width="48"> | [Ancient Microscope III](../items/buildtools/ancient-microscope-iii-873559594.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/454345705.png" width="48"> | [Ancient Moon Stone Block](../items/buildtools/ancient-moon-stone-block-454345705.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ancient Night Door](../items/buildtools/ancient-night-door-2655579347.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2655579347.png" width="48"> | [Ancient Night Door](../items/buildtools/ancient-night-door-2655579347.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1422320714.png" width="48"> | [Ancient Pipette](../items/buildtools/ancient-pipette-1422320714.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1581972653.png" width="48"> | [Ancient Pracer Beacon Large](../items/buildtools/ancient-pracer-beacon-large-1581972653.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2527029391.png" width="48"> | [Ancient Pracer Beacon Medium](../items/buildtools/ancient-pracer-beacon-medium-2527029391.md) | ⚪ Common | - | 50 |
@@ -87,9 +87,9 @@
 | <img src="../images/categories/buildtools.svg" width="48"> | [Athalan](../items/buildtools/athalan-1340233313.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3002231083.png" width="48"> | [Athanor](../items/buildtools/athanor-3002231083.md) | 🔵 Rare | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Aunt Braelyn](../items/buildtools/aunt-braelyn-2205178126.md) | 🔵 Rare | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Awning I](../items/buildtools/awning-i-1340326394.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Awning II](../items/buildtools/awning-ii-1959524109.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Awning III](../items/buildtools/awning-iii-4146957236.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/1340326394.png" width="48"> | [Awning I](../items/buildtools/awning-i-1340326394.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/1959524109.png" width="48"> | [Awning II](../items/buildtools/awning-ii-1959524109.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/4146957236.png" width="48"> | [Awning III](../items/buildtools/awning-iii-4146957236.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4286241624.png" width="48"> | [Baby Bird](../items/buildtools/baby-bird-4286241624.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/142039184.png" width="48"> | [Baby Bunny](../items/buildtools/baby-bunny-142039184.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1920604645.png" width="48"> | [Baby Capybara](../items/buildtools/baby-capybara-1920604645.md) | ⚪ Common | - | 1 |
@@ -220,7 +220,7 @@
 | <img src="../images/icons/1014427834.png" width="48"> | [Block Dismantle](../items/buildtools/block-dismantle-1014427834.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/3189586762.png" width="48"> | [Block Dismantle 4x4](../items/buildtools/block-dismantle-4x4-3189586762.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/4245730713.png" width="48"> | [Blue Confetti Mortar](../items/buildtools/blue-confetti-mortar-4245730713.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Blue Decorative Box](../items/buildtools/blue-decorative-box-411374925.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/411374925.png" width="48"> | [Blue Decorative Box](../items/buildtools/blue-decorative-box-411374925.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1747355696.png" width="48"> | [Blue Floor Light I](../items/buildtools/blue-floor-light-i-1747355696.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2925532764.png" width="48"> | [Blue Floor Light II](../items/buildtools/blue-floor-light-ii-2925532764.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2977882835.png" width="48"> | [Blue Globe](../items/buildtools/blue-globe-2977882835.md) | ⚪ Common | - | 50 |
@@ -262,23 +262,23 @@
 | <img src="../images/icons/627477408.png" width="48"> | [Brick-Timbered Block](../items/buildtools/brick-timbered-block-627477408.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/711377171.png" width="48"> | [Brittlebush Flower Pot](../items/buildtools/brittlebush-flower-pot-711377171.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3639737989.png" width="48"> | [Broken hollow Halls Banner](../items/buildtools/broken-hollow-halls-banner-3639737989.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Ancient Construct: Heavy Trophy](../items/buildtools/bronze-ancient-construct-heavy-trophy-1715982707.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/1715982707.png" width="48"> | [Bronze Ancient Construct: Heavy Trophy](../items/buildtools/bronze-ancient-construct-heavy-trophy-1715982707.md) | 🟣 Epic | - | 10 |
 | <img src="../images/icons/53541119.png" width="48"> | [Bronze Block](../items/buildtools/bronze-block-53541119.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/1775891612.png" width="48"> | [Bronze Bowl](../items/buildtools/bronze-bowl-1775891612.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/382655677.png" width="48"> | [Bronze Cup](../items/buildtools/bronze-cup-382655677.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Fell Critter Queen Trophy](../items/buildtools/bronze-fell-critter-queen-trophy-1318672109.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Hollow Heavy Hero Trophy](../items/buildtools/bronze-hollow-heavy-hero-trophy-683546152.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Hollow Wispwyvern Trophy](../items/buildtools/bronze-hollow-wispwyvern-trophy-530618702.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Hydrak'Dal Trophy](../items/buildtools/bronze-hydrak-dal-trophy-645413968.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/1318672109.png" width="48"> | [Bronze Fell Critter Queen Trophy](../items/buildtools/bronze-fell-critter-queen-trophy-1318672109.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/683546152.png" width="48"> | [Bronze Hollow Heavy Hero Trophy](../items/buildtools/bronze-hollow-heavy-hero-trophy-683546152.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/530618702.png" width="48"> | [Bronze Hollow Wispwyvern Trophy](../items/buildtools/bronze-hollow-wispwyvern-trophy-530618702.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/645413968.png" width="48"> | [Bronze Hydrak'Dal Trophy](../items/buildtools/bronze-hydrak-dal-trophy-645413968.md) | 🟣 Epic | - | 10 |
 | <img src="../images/icons/1351534348.png" width="48"> | [Bronze Jug](../items/buildtools/bronze-jug-1351534348.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Pickaxe](../items/buildtools/bronze-pickaxe-2410457699.md) | 🔵 Rare | 15 | 1 |
+| <img src="../images/icons/2410457699.png" width="48"> | [Bronze Pickaxe](../items/buildtools/bronze-pickaxe-2410457699.md) | 🔵 Rare | 15 | 1 |
 | <img src="../images/icons/3308565609.png" width="48"> | [Bronze Platter](../items/buildtools/bronze-platter-3308565609.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Red Fell Critter Queen Trophy](../items/buildtools/bronze-red-fell-critter-queen-trophy-332453501.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Scavenger Deepforest Heavy Trophy](../items/buildtools/bronze-scavenger-deepforest-heavy-trophy-2899457610.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Scavenger Desert Heavy Trophy](../items/buildtools/bronze-scavenger-desert-heavy-trophy-1452259523.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Scavenger Tyrant Trophy](../items/buildtools/bronze-scavenger-tyrant-trophy-4278983138.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Vorgoth Eye Trophy](../items/buildtools/bronze-vorgoth-eye-trophy-3943343867.md) | 🟣 Epic | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Bronze Werewolf Trophy](../items/buildtools/bronze-werewolf-trophy-653572237.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/332453501.png" width="48"> | [Bronze Red Fell Critter Queen Trophy](../items/buildtools/bronze-red-fell-critter-queen-trophy-332453501.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/2899457610.png" width="48"> | [Bronze Scavenger Deepforest Heavy Trophy](../items/buildtools/bronze-scavenger-deepforest-heavy-trophy-2899457610.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/1452259523.png" width="48"> | [Bronze Scavenger Desert Heavy Trophy](../items/buildtools/bronze-scavenger-desert-heavy-trophy-1452259523.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/4278983138.png" width="48"> | [Bronze Scavenger Tyrant Trophy](../items/buildtools/bronze-scavenger-tyrant-trophy-4278983138.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/3943343867.png" width="48"> | [Bronze Vorgoth Eye Trophy](../items/buildtools/bronze-vorgoth-eye-trophy-3943343867.md) | 🟣 Epic | - | 10 |
+| <img src="../images/icons/653572237.png" width="48"> | [Bronze Werewolf Trophy](../items/buildtools/bronze-werewolf-trophy-653572237.md) | 🟣 Epic | - | 10 |
 | <img src="../images/icons/2813708659.png" width="48"> | [Bronzen Barrel](../items/buildtools/bronzen-barrel-2813708659.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3391827453.png" width="48"> | [Bunny](../items/buildtools/bunny-3391827453.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/2428335074.png" width="48"> | [Bunny Feeder](../items/buildtools/bunny-feeder-2428335074.md) | ⚪ Common | - | 50 |
@@ -287,7 +287,7 @@
 | <img src="../images/icons/2779909442.png" width="48"> | [Cactus Plant Pot](../items/buildtools/cactus-plant-pot-2779909442.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3704150172.png" width="48"> | [Cactus Seedling](../items/buildtools/cactus-seedling-3704150172.md) | ⚪ Common | - | 100 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Cade](../items/buildtools/cade-1149463877.md) | 🔵 Rare | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Calla Luna Flower Pot](../items/buildtools/calla-luna-flower-pot-2908822452.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2908822452.png" width="48"> | [Calla Luna Flower Pot](../items/buildtools/calla-luna-flower-pot-2908822452.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1326647808.png" width="48"> | [Campfire](../items/buildtools/campfire-1326647808.md) | ⚪ Common | - | 5 |
 | <img src="../images/icons/2939168228.png" width="48"> | [Candle](../items/buildtools/candle-2939168228.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1493687266.png" width="48"> | [Candle 01 A](../items/buildtools/candle-01-a-1493687266.md) | ⚪ Common | - | 500 |

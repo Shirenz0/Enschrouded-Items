@@ -1,6 +1,6 @@
 # Pendant Ceiling Lantern
 
-<img src="../../images/categories/buildtools.svg" alt="Pendant Ceiling Lantern" width="160">
+<img src="../../images/icons/2100892316.png" alt="Pendant Ceiling Lantern" width="160">
 
 | | |
 |---|---|

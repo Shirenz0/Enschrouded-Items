@@ -1,6 +1,6 @@
 # T3 Archer Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T3 Archer Helmet" width="160">
+<img src="../../images/icons/1822528443.png" alt="T3 Archer Helmet" width="160">
 
 | | |
 |---|---|

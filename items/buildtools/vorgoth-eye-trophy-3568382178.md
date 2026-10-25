@@ -1,6 +1,6 @@
 # Vorgoth Eye Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Vorgoth Eye Trophy" width="160">
+<img src="../../images/icons/3568382178.png" alt="Vorgoth Eye Trophy" width="160">
 
 | | |
 |---|---|

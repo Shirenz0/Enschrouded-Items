@@ -1,6 +1,6 @@
 # T3 Archer Chest
 
-<img src="../../images/categories/equipment.svg" alt="T3 Archer Chest" width="160">
+<img src="../../images/icons/2301277967.png" alt="T3 Archer Chest" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Cinder's Cradle Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Cinder&#x27;s Cradle Miniature Piece" width="160">
+<img src="../../images/icons/2995833654.png" alt="Cinder&#x27;s Cradle Miniature Piece" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Vanity Helmet 05 Name Tricorn
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Helmet 05 Name Tricorn" width="160">
+<img src="../../images/icons/999268147.png" alt="Vanity Helmet 05 Name Tricorn" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T2 fertile Talltree Dirt
 
-<img src="../../images/categories/materials.svg" alt="T2 fertile Talltree Dirt" width="160">
+<img src="../../images/icons/4219078478.png" alt="T2 fertile Talltree Dirt" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Fell Critter Queen Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Fell Critter Queen Trophy" width="160">
+<img src="../../images/icons/421729762.png" alt="Fell Critter Queen Trophy" width="160">
 
 | | |
 |---|---|

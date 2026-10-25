@@ -1,6 +1,6 @@
 # Greater Ring of Stamina
 
-<img src="../../images/categories/equipment.svg" alt="Greater Ring of Stamina" width="160">
+<img src="../../images/icons/1652235601.png" alt="Greater Ring of Stamina" width="160">
 
 | | |
 |---|---|

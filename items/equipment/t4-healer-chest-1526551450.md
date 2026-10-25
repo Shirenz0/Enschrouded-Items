@@ -1,6 +1,6 @@
 # T4 Healer Chest
 
-<img src="../../images/categories/equipment.svg" alt="T4 Healer Chest" width="160">
+<img src="../../images/icons/1526551450.png" alt="T4 Healer Chest" width="160">
 
 | | |
 |---|---|

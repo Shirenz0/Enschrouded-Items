@@ -1,6 +1,6 @@
 # Instruments stand
 
-<img src="../../images/categories/buildtools.svg" alt="Instruments stand" width="160">
+<img src="../../images/icons/3892261645.png" alt="Instruments stand" width="160">
 
 | | |
 |---|---|

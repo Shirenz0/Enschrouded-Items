@@ -1,6 +1,6 @@
 # Ethereal Plane
 
-<img src="../../images/categories/equipment.svg" alt="Ethereal Plane" width="160">
+<img src="../../images/icons/2418290854.png" alt="Ethereal Plane" width="160">
 
 | | |
 |---|---|

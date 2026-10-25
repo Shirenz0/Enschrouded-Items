@@ -1,6 +1,6 @@
 # T2 royal boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 royal boots" width="160">
+<img src="../../images/icons/284131825.png" alt="T2 royal boots" width="160">
 
 | | |
 |---|---|

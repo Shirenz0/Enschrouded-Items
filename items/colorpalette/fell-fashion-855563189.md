@@ -1,6 +1,6 @@
 # Fell Fashion
 
-<img src="../../images/categories/colorpalette.svg" alt="Fell Fashion" width="160">
+<img src="../../images/icons/855563189.png" alt="Fell Fashion" width="160">
 
 | | |
 |---|---|

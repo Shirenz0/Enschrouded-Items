@@ -1,6 +1,6 @@
 # Iron Werewolf Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Werewolf Trophy" width="160">
+<img src="../../images/icons/4057512959.png" alt="Iron Werewolf Trophy" width="160">
 
 | | |
 |---|---|

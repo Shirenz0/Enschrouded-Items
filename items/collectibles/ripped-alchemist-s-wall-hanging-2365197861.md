@@ -1,6 +1,6 @@
 # Ripped Alchemist's Wall Hanging
 
-<img src="../../images/categories/collectibles.svg" alt="Ripped Alchemist&#x27;s Wall Hanging" width="160">
+<img src="../../images/icons/2365197861.png" alt="Ripped Alchemist&#x27;s Wall Hanging" width="160">
 
 | | |
 |---|---|

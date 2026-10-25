@@ -1,6 +1,6 @@
 # T5 Milkshake Dish
 
-<img src="../../images/categories/consumables.svg" alt="T5 Milkshake Dish" width="160">
+<img src="../../images/icons/439577610.png" alt="T5 Milkshake Dish" width="160">
 
 | | |
 |---|---|

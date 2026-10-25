@@ -1,6 +1,6 @@
 # T3 Archer Boots
 
-<img src="../../images/categories/equipment.svg" alt="T3 Archer Boots" width="160">
+<img src="../../images/icons/905258707.png" alt="T3 Archer Boots" width="160">
 
 | | |
 |---|---|

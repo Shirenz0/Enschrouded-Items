@@ -1,6 +1,6 @@
 # T2 Healer Legs
 
-<img src="../../images/categories/equipment.svg" alt="T2 Healer Legs" width="160">
+<img src="../../images/icons/722422442.png" alt="T2 Healer Legs" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T5 Ring of health
 
-<img src="../../images/categories/equipment.svg" alt="T5 Ring of health" width="160">
+<img src="../../images/icons/1947761873.png" alt="T5 Ring of health" width="160">
 
 | | |
 |---|---|

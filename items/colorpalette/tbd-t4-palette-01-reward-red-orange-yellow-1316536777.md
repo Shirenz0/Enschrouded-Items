@@ -1,6 +1,6 @@
 # Tbd T4 Palette 01 Reward Red,Orange, Yellow
 
-<img src="../../images/categories/colorpalette.svg" alt="Tbd T4 Palette 01 Reward Red,Orange, Yellow" width="160">
+<img src="../../images/icons/1316536777.png" alt="Tbd T4 Palette 01 Reward Red,Orange, Yellow" width="160">
 
 | | |
 |---|---|

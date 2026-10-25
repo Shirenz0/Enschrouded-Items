@@ -1,6 +1,6 @@
 # T4 BattleMage Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4 BattleMage Helmet" width="160">
+<img src="../../images/icons/2397258068.png" alt="T4 BattleMage Helmet" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Large Sea Lily Fossil
 
-<img src="../../images/categories/collectibles.svg" alt="Large Sea Lily Fossil" width="160">
+<img src="../../images/icons/4032968739.png" alt="Large Sea Lily Fossil" width="160">
 
 | | |
 |---|---|

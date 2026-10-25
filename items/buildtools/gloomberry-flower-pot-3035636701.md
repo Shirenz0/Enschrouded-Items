@@ -1,6 +1,6 @@
 # Gloomberry Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Gloomberry Flower Pot" width="160">
+<img src="../../images/icons/3035636701.png" alt="Gloomberry Flower Pot" width="160">
 
 | | |
 |---|---|

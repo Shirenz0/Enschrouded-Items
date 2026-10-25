@@ -1,6 +1,6 @@
 # Ancient Mana Potion +
 
-<img src="../../images/categories/consumables.svg" alt="Ancient Mana Potion +" width="160">
+<img src="../../images/icons/2317965327.png" alt="Ancient Mana Potion +" width="160">
 
 | | |
 |---|---|

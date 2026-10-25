@@ -1,6 +1,6 @@
 # T3 Warrior Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T3 Warrior Helmet" width="160">
+<img src="../../images/icons/2987600300.png" alt="T3 Warrior Helmet" width="160">
 
 | | |
 |---|---|

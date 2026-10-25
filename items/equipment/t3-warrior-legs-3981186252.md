@@ -1,6 +1,6 @@
 # T3 Warrior Legs
 
-<img src="../../images/categories/equipment.svg" alt="T3 Warrior Legs" width="160">
+<img src="../../images/icons/3981186252.png" alt="T3 Warrior Legs" width="160">
 
 | | |
 |---|---|

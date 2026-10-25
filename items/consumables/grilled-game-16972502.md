@@ -1,6 +1,6 @@
 # Grilled Game
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Game" width="160">
+<img src="../../images/icons/16972502.png" alt="Grilled Game" width="160">
 
 | | |
 |---|---|

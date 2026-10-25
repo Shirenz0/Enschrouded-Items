@@ -1,6 +1,6 @@
 # Lumberer Chest
 
-<img src="../../images/categories/equipment.svg" alt="Lumberer Chest" width="160">
+<img src="../../images/icons/851178402.png" alt="Lumberer Chest" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Mangrove Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Mangrove Seedling" width="160">
+<img src="../../images/icons/2994798992.png" alt="Mangrove Seedling" width="160">
 
 | | |
 |---|---|

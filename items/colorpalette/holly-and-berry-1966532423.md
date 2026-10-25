@@ -1,6 +1,6 @@
 # Holly and Berry
 
-<img src="../../images/categories/colorpalette.svg" alt="Holly and Berry" width="160">
+<img src="../../images/icons/1966532423.png" alt="Holly and Berry" width="160">
 
 | | |
 |---|---|

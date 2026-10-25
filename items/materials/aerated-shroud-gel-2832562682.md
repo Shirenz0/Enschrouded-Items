@@ -1,6 +1,6 @@
 # Aerated Shroud Gel
 
-<img src="../../images/categories/materials.svg" alt="Aerated Shroud Gel" width="160">
+<img src="../../images/icons/2832562682.png" alt="Aerated Shroud Gel" width="160">
 
 | | |
 |---|---|

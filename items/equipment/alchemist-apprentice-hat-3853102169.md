@@ -1,6 +1,6 @@
 # Alchemist Apprentice Hat
 
-<img src="../../images/categories/equipment.svg" alt="Alchemist Apprentice Hat" width="160">
+<img src="../../images/icons/3853102169.png" alt="Alchemist Apprentice Hat" width="160">
 
 | | |
 |---|---|

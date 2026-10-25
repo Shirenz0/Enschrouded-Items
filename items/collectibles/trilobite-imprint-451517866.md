@@ -1,6 +1,6 @@
 # Trilobite Imprint
 
-<img src="../../images/categories/collectibles.svg" alt="Trilobite Imprint" width="160">
+<img src="../../images/icons/451517866.png" alt="Trilobite Imprint" width="160">
 
 | | |
 |---|---|

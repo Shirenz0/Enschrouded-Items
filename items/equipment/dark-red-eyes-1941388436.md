@@ -1,6 +1,6 @@
 # Dark Red Eyes
 
-<img src="../../images/categories/equipment.svg" alt="Dark Red Eyes" width="160">
+<img src="../../images/icons/1941388436.png" alt="Dark Red Eyes" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Bronze Werewolf Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Werewolf Trophy" width="160">
+<img src="../../images/icons/653572237.png" alt="Bronze Werewolf Trophy" width="160">
 
 | | |
 |---|---|

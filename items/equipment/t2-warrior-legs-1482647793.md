@@ -1,6 +1,6 @@
 # T2 Warrior Legs
 
-<img src="../../images/categories/equipment.svg" alt="T2 Warrior Legs" width="160">
+<img src="../../images/icons/1482647793.png" alt="T2 Warrior Legs" width="160">
 
 | | |
 |---|---|

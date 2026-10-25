@@ -1,6 +1,6 @@
 # T1 noble dress arms
 
-<img src="../../images/categories/equipment.svg" alt="T1 noble dress arms" width="160">
+<img src="../../images/icons/357631245.png" alt="T1 noble dress arms" width="160">
 
 | | |
 |---|---|

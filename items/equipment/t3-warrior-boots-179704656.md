@@ -1,6 +1,6 @@
 # T3 Warrior Boots
 
-<img src="../../images/categories/equipment.svg" alt="T3 Warrior Boots" width="160">
+<img src="../../images/icons/179704656.png" alt="T3 Warrior Boots" width="160">
 
 | | |
 |---|---|

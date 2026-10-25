@@ -1,6 +1,6 @@
 # T4b Archer Torso
 
-<img src="../../images/categories/equipment.svg" alt="T4b Archer Torso" width="160">
+<img src="../../images/icons/3459129225.png" alt="T4b Archer Torso" width="160">
 
 | | |
 |---|---|

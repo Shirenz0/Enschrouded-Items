@@ -1,6 +1,6 @@
 # Commander's Ring
 
-<img src="../../images/categories/equipment.svg" alt="Commander&#x27;s Ring" width="160">
+<img src="../../images/icons/1993216032.png" alt="Commander&#x27;s Ring" width="160">
 
 | | |
 |---|---|

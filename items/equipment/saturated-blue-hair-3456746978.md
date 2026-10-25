@@ -1,6 +1,6 @@
 # Saturated Blue Hair
 
-<img src="../../images/categories/equipment.svg" alt="Saturated Blue Hair" width="160">
+<img src="../../images/icons/3456746978.png" alt="Saturated Blue Hair" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Cyan Decorative Box
 
-<img src="../../images/categories/buildtools.svg" alt="Cyan Decorative Box" width="160">
+<img src="../../images/icons/874980262.png" alt="Cyan Decorative Box" width="160">
 
 | | |
 |---|---|

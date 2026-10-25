@@ -1,6 +1,6 @@
 # Vanity Helmet 03 Name Jester
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Helmet 03 Name Jester" width="160">
+<img src="../../images/icons/3087335855.png" alt="Vanity Helmet 03 Name Jester" width="160">
 
 | | |
 |---|---|

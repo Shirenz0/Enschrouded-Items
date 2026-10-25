@@ -1,6 +1,6 @@
 # Small Sea Lily Fossil
 
-<img src="../../images/categories/collectibles.svg" alt="Small Sea Lily Fossil" width="160">
+<img src="../../images/icons/219208191.png" alt="Small Sea Lily Fossil" width="160">
 
 | | |
 |---|---|

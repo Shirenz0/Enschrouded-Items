@@ -1,6 +1,6 @@
 # Single Gastropod
 
-<img src="../../images/categories/collectibles.svg" alt="Single Gastropod" width="160">
+<img src="../../images/icons/1434339102.png" alt="Single Gastropod" width="160">
 
 | | |
 |---|---|

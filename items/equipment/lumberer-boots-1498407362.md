@@ -1,6 +1,6 @@
 # Lumberer Boots
 
-<img src="../../images/categories/equipment.svg" alt="Lumberer Boots" width="160">
+<img src="../../images/icons/1498407362.png" alt="Lumberer Boots" width="160">
 
 | | |
 |---|---|

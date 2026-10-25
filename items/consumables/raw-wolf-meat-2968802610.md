@@ -1,6 +1,6 @@
 # Raw Wolf Meat
 
-<img src="../../images/categories/consumables.svg" alt="Raw Wolf Meat" width="160">
+<img src="../../images/icons/2968802610.png" alt="Raw Wolf Meat" width="160">
 
 | | |
 |---|---|

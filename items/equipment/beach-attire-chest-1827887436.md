@@ -1,6 +1,6 @@
 # Beach Attire chest
 
-<img src="../../images/categories/equipment.svg" alt="Beach Attire chest" width="160">
+<img src="../../images/icons/1827887436.png" alt="Beach Attire chest" width="160">
 
 | | |
 |---|---|

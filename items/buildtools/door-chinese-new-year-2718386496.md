@@ -1,6 +1,6 @@
 # Door chinese New Year
 
-<img src="../../images/categories/buildtools.svg" alt="Door chinese New Year" width="160">
+<img src="../../images/icons/2718386496.png" alt="Door chinese New Year" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T4b Archer Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4b Archer Helmet" width="160">
+<img src="../../images/icons/382265240.png" alt="T4b Archer Helmet" width="160">
 
 | | |
 |---|---|

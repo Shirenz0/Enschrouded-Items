@@ -1,6 +1,6 @@
 # Large Meteorite III
 
-<img src="../../images/categories/collectibles.svg" alt="Large Meteorite III" width="160">
+<img src="../../images/icons/2576220661.png" alt="Large Meteorite III" width="160">
 
 | | |
 |---|---|

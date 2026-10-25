@@ -1,6 +1,6 @@
 # Farmer Boots
 
-<img src="../../images/categories/equipment.svg" alt="Farmer Boots" width="160">
+<img src="../../images/icons/3771575140.png" alt="Farmer Boots" width="160">
 
 | | |
 |---|---|

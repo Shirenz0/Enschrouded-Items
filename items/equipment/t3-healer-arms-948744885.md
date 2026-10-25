@@ -1,6 +1,6 @@
 # T3 Healer Arms
 
-<img src="../../images/categories/equipment.svg" alt="T3 Healer Arms" width="160">
+<img src="../../images/icons/948744885.png" alt="T3 Healer Arms" width="160">
 
 | | |
 |---|---|

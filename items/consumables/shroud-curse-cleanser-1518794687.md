@@ -1,6 +1,6 @@
 # Shroud Curse Cleanser
 
-<img src="../../images/categories/consumables.svg" alt="Shroud Curse Cleanser" width="160">
+<img src="../../images/icons/1518794687.png" alt="Shroud Curse Cleanser" width="160">
 
 | | |
 |---|---|

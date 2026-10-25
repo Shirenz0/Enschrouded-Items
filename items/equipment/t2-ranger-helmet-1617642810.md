@@ -1,6 +1,6 @@
 # T2 Ranger Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T2 Ranger Helmet" width="160">
+<img src="../../images/icons/1617642810.png" alt="T2 Ranger Helmet" width="160">
 
 | | |
 |---|---|

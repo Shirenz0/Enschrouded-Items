@@ -1,6 +1,6 @@
 # Grilled Yucca Fruit
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Yucca Fruit" width="160">
+<img src="../../images/icons/749738317.png" alt="Grilled Yucca Fruit" width="160">
 
 | | |
 |---|---|

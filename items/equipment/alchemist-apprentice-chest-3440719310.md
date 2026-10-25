@@ -1,6 +1,6 @@
 # Alchemist Apprentice Chest
 
-<img src="../../images/categories/equipment.svg" alt="Alchemist Apprentice Chest" width="160">
+<img src="../../images/icons/3440719310.png" alt="Alchemist Apprentice Chest" width="160">
 
 | | |
 |---|---|

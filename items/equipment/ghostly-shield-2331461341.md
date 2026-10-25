@@ -1,6 +1,6 @@
 # Ghostly Shield
 
-<img src="../../images/categories/equipment.svg" alt="Ghostly Shield" width="160">
+<img src="../../images/icons/2331461341.png" alt="Ghostly Shield" width="160">
 
 | | |
 |---|---|

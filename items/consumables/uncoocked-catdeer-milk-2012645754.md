@@ -1,6 +1,6 @@
 # Uncoocked Catdeer Milk
 
-<img src="../../images/categories/consumables.svg" alt="Uncoocked Catdeer Milk" width="160">
+<img src="../../images/icons/2012645754.png" alt="Uncoocked Catdeer Milk" width="160">
 
 | | |
 |---|---|

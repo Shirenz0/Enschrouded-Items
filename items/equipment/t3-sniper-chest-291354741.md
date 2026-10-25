@@ -1,6 +1,6 @@
 # T3 Sniper Chest
 
-<img src="../../images/categories/equipment.svg" alt="T3 Sniper Chest" width="160">
+<img src="../../images/icons/291354741.png" alt="T3 Sniper Chest" width="160">
 
 | | |
 |---|---|

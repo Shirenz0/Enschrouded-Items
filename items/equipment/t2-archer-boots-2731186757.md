@@ -1,6 +1,6 @@
 # T2 Archer Boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 Archer Boots" width="160">
+<img src="../../images/icons/2731186757.png" alt="T2 Archer Boots" width="160">
 
 | | |
 |---|---|

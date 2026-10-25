@@ -1,6 +1,6 @@
 # T1 noble dress legs
 
-<img src="../../images/categories/equipment.svg" alt="T1 noble dress legs" width="160">
+<img src="../../images/icons/3224594917.png" alt="T1 noble dress legs" width="160">
 
 | | |
 |---|---|

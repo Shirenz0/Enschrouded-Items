@@ -1,6 +1,6 @@
 # Scrappy Pickaxe
 
-<img src="../../images/categories/buildtools.svg" alt="Scrappy Pickaxe" width="160">
+<img src="../../images/icons/256634933.png" alt="Scrappy Pickaxe" width="160">
 
 | | |
 |---|---|

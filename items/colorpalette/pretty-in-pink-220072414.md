@@ -1,6 +1,6 @@
 # Pretty In Pink
 
-<img src="../../images/categories/colorpalette.svg" alt="Pretty In Pink" width="160">
+<img src="../../images/icons/220072414.png" alt="Pretty In Pink" width="160">
 
 | | |
 |---|---|

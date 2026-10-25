@@ -1,6 +1,6 @@
 # Vanity Outfit Sheep legs
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Outfit Sheep legs" width="160">
+<img src="../../images/icons/1379043223.png" alt="Vanity Outfit Sheep legs" width="160">
 
 | | |
 |---|---|

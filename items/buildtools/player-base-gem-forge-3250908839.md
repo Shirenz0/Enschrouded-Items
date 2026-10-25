@@ -1,6 +1,6 @@
 # Player Base Gem Forge
 
-<img src="../../images/categories/buildtools.svg" alt="Player Base Gem Forge" width="160">
+<img src="../../images/icons/3250908839.png" alt="Player Base Gem Forge" width="160">
 
 | | |
 |---|---|

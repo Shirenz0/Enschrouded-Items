@@ -1,6 +1,6 @@
 # Dull Shark Tooth
 
-<img src="../../images/categories/collectibles.svg" alt="Dull Shark Tooth" width="160">
+<img src="../../images/icons/3320435774.png" alt="Dull Shark Tooth" width="160">
 
 | | |
 |---|---|

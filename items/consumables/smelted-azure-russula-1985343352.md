@@ -1,6 +1,6 @@
 # Smelted Azure Russula
 
-<img src="../../images/categories/consumables.svg" alt="Smelted Azure Russula" width="160">
+<img src="../../images/icons/1985343352.png" alt="Smelted Azure Russula" width="160">
 
 | | |
 |---|---|

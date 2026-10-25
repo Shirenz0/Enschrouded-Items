@@ -1,6 +1,6 @@
 # Small Aurora Beans Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Small Aurora Beans Plant Pot" width="160">
+<img src="../../images/icons/2001581152.png" alt="Small Aurora Beans Plant Pot" width="160">
 
 | | |
 |---|---|

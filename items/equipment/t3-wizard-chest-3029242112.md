@@ -1,6 +1,6 @@
 # T3 Wizard Chest
 
-<img src="../../images/categories/equipment.svg" alt="T3 Wizard Chest" width="160">
+<img src="../../images/icons/3029242112.png" alt="T3 Wizard Chest" width="160">
 
 | | |
 |---|---|

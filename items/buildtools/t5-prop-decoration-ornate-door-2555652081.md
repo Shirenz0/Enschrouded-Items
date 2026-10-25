@@ -1,6 +1,6 @@
 # T5 Prop Decoration Ornate Door
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Ornate Door" width="160">
+<img src="../../images/icons/2555652081.png" alt="T5 Prop Decoration Ornate Door" width="160">
 
 | | |
 |---|---|

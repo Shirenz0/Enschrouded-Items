@@ -1,6 +1,6 @@
 # T4 Skeleton legs
 
-<img src="../../images/categories/equipment.svg" alt="T4 Skeleton legs" width="160">
+<img src="../../images/icons/3474978920.png" alt="T4 Skeleton legs" width="160">
 
 | | |
 |---|---|

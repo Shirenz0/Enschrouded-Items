@@ -1,6 +1,6 @@
 # Frog In The Grass
 
-<img src="../../images/categories/colorpalette.svg" alt="Frog In The Grass" width="160">
+<img src="../../images/icons/3846605059.png" alt="Frog In The Grass" width="160">
 
 | | |
 |---|---|

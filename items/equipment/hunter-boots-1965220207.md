@@ -1,6 +1,6 @@
 # Hunter Boots
 
-<img src="../../images/categories/equipment.svg" alt="Hunter Boots" width="160">
+<img src="../../images/icons/1965220207.png" alt="Hunter Boots" width="160">
 
 | | |
 |---|---|

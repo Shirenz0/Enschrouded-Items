@@ -1,6 +1,6 @@
 # Iron Scavenger Desert Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Scavenger Desert Heavy Trophy" width="160">
+<img src="../../images/icons/3203632506.png" alt="Iron Scavenger Desert Heavy Trophy" width="160">
 
 | | |
 |---|---|

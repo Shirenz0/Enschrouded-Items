@@ -1,6 +1,6 @@
 # T2 Ranger Boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 Ranger Boots" width="160">
+<img src="../../images/icons/265162097.png" alt="T2 Ranger Boots" width="160">
 
 | | |
 |---|---|

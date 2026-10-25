@@ -1,6 +1,6 @@
 # Nightplant Soup
 
-<img src="../../images/categories/consumables.svg" alt="Nightplant Soup" width="160">
+<img src="../../images/icons/587195934.png" alt="Nightplant Soup" width="160">
 
 | | |
 |---|---|

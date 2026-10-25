@@ -1,6 +1,6 @@
 # Grilled Sanddigger
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Sanddigger" width="160">
+<img src="../../images/icons/643297880.png" alt="Grilled Sanddigger" width="160">
 
 | | |
 |---|---|

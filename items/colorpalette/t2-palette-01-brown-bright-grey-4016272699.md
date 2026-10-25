@@ -1,6 +1,6 @@
 # T2 Palette 01 Brown bright Grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T2 Palette 01 Brown bright Grey" width="160">
+<img src="../../images/icons/4016272699.png" alt="T2 Palette 01 Brown bright Grey" width="160">
 
 | | |
 |---|---|

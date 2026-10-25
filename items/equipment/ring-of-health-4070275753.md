@@ -1,6 +1,6 @@
 # Ring of Health
 
-<img src="../../images/categories/equipment.svg" alt="Ring of Health" width="160">
+<img src="../../images/icons/4070275753.png" alt="Ring of Health" width="160">
 
 | | |
 |---|---|

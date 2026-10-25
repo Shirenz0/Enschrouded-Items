@@ -1,6 +1,6 @@
 # Boxwood Material
 
-<img src="../../images/categories/materials.svg" alt="Boxwood Material" width="160">
+<img src="../../images/icons/2297010177.png" alt="Boxwood Material" width="160">
 
 | | |
 |---|---|

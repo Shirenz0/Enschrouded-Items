@@ -1,6 +1,6 @@
 # Blacksmith Garb
 
-<img src="../../images/categories/equipment.svg" alt="Blacksmith Garb" width="160">
+<img src="../../images/icons/1760668826.png" alt="Blacksmith Garb" width="160">
 
 | | |
 |---|---|

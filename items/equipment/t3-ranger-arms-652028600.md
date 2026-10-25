@@ -1,6 +1,6 @@
 # T3 Ranger Arms
 
-<img src="../../images/categories/equipment.svg" alt="T3 Ranger Arms" width="160">
+<img src="../../images/icons/652028600.png" alt="T3 Ranger Arms" width="160">
 
 | | |
 |---|---|

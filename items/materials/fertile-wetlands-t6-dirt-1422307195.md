@@ -1,6 +1,6 @@
 # Fertile Wetlands T6 Dirt
 
-<img src="../../images/categories/materials.svg" alt="Fertile Wetlands T6 Dirt" width="160">
+<img src="../../images/icons/1422307195.png" alt="Fertile Wetlands T6 Dirt" width="160">
 
 | | |
 |---|---|

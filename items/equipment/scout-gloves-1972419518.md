@@ -1,6 +1,6 @@
 # Scout Gloves
 
-<img src="../../images/categories/equipment.svg" alt="Scout Gloves" width="160">
+<img src="../../images/icons/1972419518.png" alt="Scout Gloves" width="160">
 
 | | |
 |---|---|

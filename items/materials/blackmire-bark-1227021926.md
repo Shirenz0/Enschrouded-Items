@@ -1,6 +1,6 @@
 # Blackmire Bark
 
-<img src="../../images/categories/materials.svg" alt="Blackmire Bark" width="160">
+<img src="../../images/icons/1227021926.png" alt="Blackmire Bark" width="160">
 
 | | |
 |---|---|

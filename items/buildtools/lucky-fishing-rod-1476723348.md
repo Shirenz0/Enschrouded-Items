@@ -1,6 +1,6 @@
 # Lucky Fishing Rod
 
-<img src="../../images/categories/buildtools.svg" alt="Lucky Fishing Rod" width="160">
+<img src="../../images/icons/1476723348.png" alt="Lucky Fishing Rod" width="160">
 
 | | |
 |---|---|

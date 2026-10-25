@@ -1,6 +1,6 @@
 # Greater Fog Survival Flask
 
-<img src="../../images/categories/consumables.svg" alt="Greater Fog Survival Flask" width="160">
+<img src="../../images/icons/1843136640.png" alt="Greater Fog Survival Flask" width="160">
 
 | | |
 |---|---|

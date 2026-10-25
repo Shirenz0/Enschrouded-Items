@@ -1,6 +1,6 @@
 # Chicken Soup
 
-<img src="../../images/categories/consumables.svg" alt="Chicken Soup" width="160">
+<img src="../../images/icons/1730813213.png" alt="Chicken Soup" width="160">
 
 | | |
 |---|---|

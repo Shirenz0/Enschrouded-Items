@@ -1,6 +1,6 @@
 # Revelwood Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Revelwood Miniature Piece" width="160">
+<img src="../../images/icons/113945565.png" alt="Revelwood Miniature Piece" width="160">
 
 | | |
 |---|---|

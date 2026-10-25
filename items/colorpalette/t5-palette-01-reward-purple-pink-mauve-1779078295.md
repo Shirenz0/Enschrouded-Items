@@ -1,6 +1,6 @@
 # T5 Palette 01 reward Purple, Pink, Mauve
 
-<img src="../../images/categories/colorpalette.svg" alt="T5 Palette 01 reward Purple, Pink, Mauve" width="160">
+<img src="../../images/icons/1779078295.png" alt="T5 Palette 01 reward Purple, Pink, Mauve" width="160">
 
 | | |
 |---|---|

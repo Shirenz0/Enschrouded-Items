@@ -1,6 +1,6 @@
 # T4 Assassin Chest
 
-<img src="../../images/categories/equipment.svg" alt="T4 Assassin Chest" width="160">
+<img src="../../images/icons/1124346105.png" alt="T4 Assassin Chest" width="160">
 
 | | |
 |---|---|

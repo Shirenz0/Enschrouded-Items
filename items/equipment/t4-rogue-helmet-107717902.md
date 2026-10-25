@@ -1,6 +1,6 @@
 # T4 Rogue Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4 Rogue Helmet" width="160">
+<img src="../../images/icons/107717902.png" alt="T4 Rogue Helmet" width="160">
 
 | | |
 |---|---|

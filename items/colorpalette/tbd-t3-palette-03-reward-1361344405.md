@@ -1,6 +1,6 @@
 # Tbd T3 Palette 03 Reward
 
-<img src="../../images/categories/colorpalette.svg" alt="Tbd T3 Palette 03 Reward" width="160">
+<img src="../../images/icons/1361344405.png" alt="Tbd T3 Palette 03 Reward" width="160">
 
 | | |
 |---|---|

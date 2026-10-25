@@ -1,6 +1,6 @@
 # Tbd T1 Palette 01 Reward A Fancy Outlook
 
-<img src="../../images/categories/colorpalette.svg" alt="Tbd T1 Palette 01 Reward A Fancy Outlook" width="160">
+<img src="../../images/icons/968828649.png" alt="Tbd T1 Palette 01 Reward A Fancy Outlook" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Grilled Cinderscale
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Cinderscale" width="160">
+<img src="../../images/icons/2597418482.png" alt="Grilled Cinderscale" width="160">
 
 | | |
 |---|---|

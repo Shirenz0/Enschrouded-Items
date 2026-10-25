@@ -1,6 +1,6 @@
 # Alchemist Apprentice Boots
 
-<img src="../../images/categories/equipment.svg" alt="Alchemist Apprentice Boots" width="160">
+<img src="../../images/icons/1513594761.png" alt="Alchemist Apprentice Boots" width="160">
 
 | | |
 |---|---|

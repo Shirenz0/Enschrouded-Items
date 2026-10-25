@@ -1,6 +1,6 @@
 # Spaetzle with Mushroom Cream Sauce
 
-<img src="../../images/categories/consumables.svg" alt="Spaetzle with Mushroom Cream Sauce" width="160">
+<img src="../../images/icons/1183822012.png" alt="Spaetzle with Mushroom Cream Sauce" width="160">
 
 | | |
 |---|---|

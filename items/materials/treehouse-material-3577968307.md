@@ -1,6 +1,6 @@
 # Treehouse Material
 
-<img src="../../images/categories/materials.svg" alt="Treehouse Material" width="160">
+<img src="../../images/icons/3577968307.png" alt="Treehouse Material" width="160">
 
 | | |
 |---|---|

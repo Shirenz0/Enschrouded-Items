@@ -1,6 +1,6 @@
 # Glimmer Gentian Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Glimmer Gentian Flower Pot" width="160">
+<img src="../../images/icons/3758178692.png" alt="Glimmer Gentian Flower Pot" width="160">
 
 | | |
 |---|---|

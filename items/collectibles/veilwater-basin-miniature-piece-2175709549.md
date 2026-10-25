@@ -1,6 +1,6 @@
 # Veilwater Basin Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Veilwater Basin Miniature Piece" width="160">
+<img src="../../images/icons/2175709549.png" alt="Veilwater Basin Miniature Piece" width="160">
 
 | | |
 |---|---|

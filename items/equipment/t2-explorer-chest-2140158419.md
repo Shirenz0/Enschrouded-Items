@@ -1,6 +1,6 @@
 # T2 explorer chest
 
-<img src="../../images/categories/equipment.svg" alt="T2 explorer chest" width="160">
+<img src="../../images/icons/2140158419.png" alt="T2 explorer chest" width="160">
 
 | | |
 |---|---|

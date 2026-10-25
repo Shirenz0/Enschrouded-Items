@@ -1,6 +1,6 @@
 # T4 Warrior Chest
 
-<img src="../../images/categories/equipment.svg" alt="T4 Warrior Chest" width="160">
+<img src="../../images/icons/407703039.png" alt="T4 Warrior Chest" width="160">
 
 | | |
 |---|---|

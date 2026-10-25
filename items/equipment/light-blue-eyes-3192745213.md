@@ -1,6 +1,6 @@
 # Light Blue Eyes
 
-<img src="../../images/categories/equipment.svg" alt="Light Blue Eyes" width="160">
+<img src="../../images/icons/3192745213.png" alt="Light Blue Eyes" width="160">
 
 | | |
 |---|---|

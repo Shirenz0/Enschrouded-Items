@@ -1,6 +1,6 @@
 # Light Blonde Hair
 
-<img src="../../images/categories/equipment.svg" alt="Light Blonde Hair" width="160">
+<img src="../../images/icons/878081534.png" alt="Light Blonde Hair" width="160">
 
 | | |
 |---|---|

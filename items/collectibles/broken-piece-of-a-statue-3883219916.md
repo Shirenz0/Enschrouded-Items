@@ -1,6 +1,6 @@
 # Broken Piece of a Statue
 
-<img src="../../images/categories/collectibles.svg" alt="Broken Piece of a Statue" width="160">
+<img src="../../images/icons/3883219916.png" alt="Broken Piece of a Statue" width="160">
 
 | | |
 |---|---|

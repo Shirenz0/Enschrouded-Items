@@ -1,6 +1,6 @@
 # Latte/Milk coffee
 
-<img src="../../images/categories/consumables.svg" alt="Latte/Milk coffee" width="160">
+<img src="../../images/icons/2652246715.png" alt="Latte/Milk coffee" width="160">
 
 | | |
 |---|---|

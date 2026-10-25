@@ -1,6 +1,6 @@
 # Large Grandleaf Cabbage Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Large Grandleaf Cabbage Plant Pot" width="160">
+<img src="../../images/icons/3415299643.png" alt="Large Grandleaf Cabbage Plant Pot" width="160">
 
 | | |
 |---|---|

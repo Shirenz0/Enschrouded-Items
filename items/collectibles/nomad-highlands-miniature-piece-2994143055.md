@@ -1,6 +1,6 @@
 # Nomad Highlands Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Nomad Highlands Miniature Piece" width="160">
+<img src="../../images/icons/2994143055.png" alt="Nomad Highlands Miniature Piece" width="160">
 
 | | |
 |---|---|

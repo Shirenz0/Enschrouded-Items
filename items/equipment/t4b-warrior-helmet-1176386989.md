@@ -1,6 +1,6 @@
 # T4b Warrior Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T4b Warrior Helmet" width="160">
+<img src="../../images/icons/1176386989.png" alt="T4b Warrior Helmet" width="160">
 
 | | |
 |---|---|

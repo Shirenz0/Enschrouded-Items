@@ -1,6 +1,6 @@
 # T4b Warrior Boots
 
-<img src="../../images/categories/equipment.svg" alt="T4b Warrior Boots" width="160">
+<img src="../../images/icons/3841156584.png" alt="T4b Warrior Boots" width="160">
 
 | | |
 |---|---|

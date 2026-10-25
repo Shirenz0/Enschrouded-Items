@@ -1,6 +1,6 @@
 # Ranger Fog Protection Armor
 
-<img src="../../images/categories/equipment.svg" alt="Ranger Fog Protection Armor" width="160">
+<img src="../../images/icons/935025760.png" alt="Ranger Fog Protection Armor" width="160">
 
 | | |
 |---|---|

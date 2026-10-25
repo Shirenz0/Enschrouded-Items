@@ -1,6 +1,6 @@
 # Cabbage Mushroom Rice
 
-<img src="../../images/categories/consumables.svg" alt="Cabbage Mushroom Rice" width="160">
+<img src="../../images/icons/2848753277.png" alt="Cabbage Mushroom Rice" width="160">
 
 | | |
 |---|---|

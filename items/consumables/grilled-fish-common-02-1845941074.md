@@ -1,6 +1,6 @@
 # Grilled Fish Common 02
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Fish Common 02" width="160">
+<img src="../../images/icons/1845941074.png" alt="Grilled Fish Common 02" width="160">
 
 | | |
 |---|---|

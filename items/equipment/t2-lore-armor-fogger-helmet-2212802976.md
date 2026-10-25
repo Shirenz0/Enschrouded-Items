@@ -1,6 +1,6 @@
 # T2 Lore Armor Fogger Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T2 Lore Armor Fogger Helmet" width="160">
+<img src="../../images/icons/2212802976.png" alt="T2 Lore Armor Fogger Helmet" width="160">
 
 | | |
 |---|---|

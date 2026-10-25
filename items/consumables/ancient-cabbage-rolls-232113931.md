@@ -1,6 +1,6 @@
 # Ancient Cabbage Rolls
 
-<img src="../../images/categories/consumables.svg" alt="Ancient Cabbage Rolls" width="160">
+<img src="../../images/icons/232113931.png" alt="Ancient Cabbage Rolls" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Chamomile Tea
 
-<img src="../../images/categories/consumables.svg" alt="Chamomile Tea" width="160">
+<img src="../../images/icons/2337909498.png" alt="Chamomile Tea" width="160">
 
 | | |
 |---|---|

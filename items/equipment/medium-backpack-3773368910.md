@@ -1,6 +1,6 @@
 # Medium Backpack
 
-<img src="../../images/categories/equipment.svg" alt="Medium Backpack" width="160">
+<img src="../../images/icons/3773368910.png" alt="Medium Backpack" width="160">
 
 | | |
 |---|---|

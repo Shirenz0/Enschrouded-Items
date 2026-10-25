@@ -1,6 +1,6 @@
 # Lesser Ring of Health
 
-<img src="../../images/categories/equipment.svg" alt="Lesser Ring of Health" width="160">
+<img src="../../images/icons/965966202.png" alt="Lesser Ring of Health" width="160">
 
 | | |
 |---|---|

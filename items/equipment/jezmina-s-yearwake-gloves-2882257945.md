@@ -1,6 +1,6 @@
 # Jezmina's Yearwake Gloves
 
-<img src="../../images/categories/equipment.svg" alt="Jezmina&#x27;s Yearwake Gloves" width="160">
+<img src="../../images/icons/2882257945.png" alt="Jezmina&#x27;s Yearwake Gloves" width="160">
 
 | | |
 |---|---|

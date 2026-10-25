@@ -1,6 +1,6 @@
 # T7 AncientLand Dirt
 
-<img src="../../images/categories/materials.svg" alt="T7 AncientLand Dirt" width="160">
+<img src="../../images/icons/2421105715.png" alt="T7 AncientLand Dirt" width="160">
 
 | | |
 |---|---|

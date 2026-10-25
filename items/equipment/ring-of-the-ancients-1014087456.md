@@ -1,6 +1,6 @@
 # Ring of the Ancients
 
-<img src="../../images/categories/equipment.svg" alt="Ring of the Ancients" width="160">
+<img src="../../images/icons/1014087456.png" alt="Ring of the Ancients" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Dark Brown Eyes
 
-<img src="../../images/categories/equipment.svg" alt="Dark Brown Eyes" width="160">
+<img src="../../images/icons/2349092660.png" alt="Dark Brown Eyes" width="160">
 
 | | |
 |---|---|

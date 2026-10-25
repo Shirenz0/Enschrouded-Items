@@ -1,6 +1,6 @@
 # Mage Fog Protection Armor
 
-<img src="../../images/categories/equipment.svg" alt="Mage Fog Protection Armor" width="160">
+<img src="../../images/icons/4045860943.png" alt="Mage Fog Protection Armor" width="160">
 
 | | |
 |---|---|

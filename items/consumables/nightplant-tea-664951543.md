@@ -1,6 +1,6 @@
 # Nightplant tea
 
-<img src="../../images/categories/consumables.svg" alt="Nightplant tea" width="160">
+<img src="../../images/icons/664951543.png" alt="Nightplant tea" width="160">
 
 | | |
 |---|---|

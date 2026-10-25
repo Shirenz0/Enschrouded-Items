@@ -1,6 +1,6 @@
 # Prayer To The Vukahs
 
-<img src="../../images/categories/consumables.svg" alt="Prayer To The Vukahs" width="160">
+<img src="../../images/icons/2687604137.png" alt="Prayer To The Vukahs" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Yellow Shroud Mushroom
 
-<img src="../../images/categories/consumables.svg" alt="Yellow Shroud Mushroom" width="160">
+<img src="../../images/icons/1683685602.png" alt="Yellow Shroud Mushroom" width="160">
 
 | | |
 |---|---|

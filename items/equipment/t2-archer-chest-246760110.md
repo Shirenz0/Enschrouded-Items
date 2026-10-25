@@ -1,6 +1,6 @@
 # T2 Archer Chest
 
-<img src="../../images/categories/equipment.svg" alt="T2 Archer Chest" width="160">
+<img src="../../images/icons/246760110.png" alt="T2 Archer Chest" width="160">
 
 | | |
 |---|---|

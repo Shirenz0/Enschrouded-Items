@@ -1,6 +1,6 @@
 # T4 Palette 03 maroon
 
-<img src="../../images/categories/colorpalette.svg" alt="T4 Palette 03 maroon" width="160">
+<img src="../../images/icons/3687407983.png" alt="T4 Palette 03 maroon" width="160">
 
 | | |
 |---|---|

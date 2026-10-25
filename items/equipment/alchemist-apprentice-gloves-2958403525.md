@@ -1,6 +1,6 @@
 # Alchemist Apprentice Gloves
 
-<img src="../../images/categories/equipment.svg" alt="Alchemist Apprentice Gloves" width="160">
+<img src="../../images/icons/2958403525.png" alt="Alchemist Apprentice Gloves" width="160">
 
 | | |
 |---|---|

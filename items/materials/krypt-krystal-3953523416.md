@@ -1,6 +1,6 @@
 # Krypt Krystal
 
-<img src="../../images/categories/materials.svg" alt="Krypt Krystal" width="160">
+<img src="../../images/icons/3953523416.png" alt="Krypt Krystal" width="160">
 
 | | |
 |---|---|

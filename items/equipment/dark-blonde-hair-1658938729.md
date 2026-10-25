@@ -1,6 +1,6 @@
 # Dark Blonde Hair
 
-<img src="../../images/categories/equipment.svg" alt="Dark Blonde Hair" width="160">
+<img src="../../images/icons/1658938729.png" alt="Dark Blonde Hair" width="160">
 
 | | |
 |---|---|

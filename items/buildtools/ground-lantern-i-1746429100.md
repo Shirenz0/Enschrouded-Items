@@ -1,6 +1,6 @@
 # Ground Lantern I
 
-<img src="../../images/categories/buildtools.svg" alt="Ground Lantern I" width="160">
+<img src="../../images/icons/1746429100.png" alt="Ground Lantern I" width="160">
 
 | | |
 |---|---|

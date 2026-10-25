@@ -1,6 +1,6 @@
 # Greater Ring of Health
 
-<img src="../../images/categories/equipment.svg" alt="Greater Ring of Health" width="160">
+<img src="../../images/icons/425702640.png" alt="Greater Ring of Health" width="160">
 
 | | |
 |---|---|

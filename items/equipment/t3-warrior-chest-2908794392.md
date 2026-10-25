@@ -1,6 +1,6 @@
 # T3 Warrior Chest
 
-<img src="../../images/categories/equipment.svg" alt="T3 Warrior Chest" width="160">
+<img src="../../images/icons/2908794392.png" alt="T3 Warrior Chest" width="160">
 
 | | |
 |---|---|

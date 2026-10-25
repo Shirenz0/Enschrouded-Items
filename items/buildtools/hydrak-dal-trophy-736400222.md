@@ -1,6 +1,6 @@
 # Hydrak'Dal Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Hydrak&#x27;Dal Trophy" width="160">
+<img src="../../images/icons/736400222.png" alt="Hydrak&#x27;Dal Trophy" width="160">
 
 | | |
 |---|---|

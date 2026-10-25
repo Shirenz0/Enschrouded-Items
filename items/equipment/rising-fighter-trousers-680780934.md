@@ -1,6 +1,6 @@
 # Rising Fighter Trousers
 
-<img src="../../images/categories/equipment.svg" alt="Rising Fighter Trousers" width="160">
+<img src="../../images/icons/680780934.png" alt="Rising Fighter Trousers" width="160">
 
 | | |
 |---|---|

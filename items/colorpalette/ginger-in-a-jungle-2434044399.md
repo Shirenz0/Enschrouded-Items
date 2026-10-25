@@ -1,6 +1,6 @@
 # Ginger In A Jungle
 
-<img src="../../images/categories/colorpalette.svg" alt="Ginger In A Jungle" width="160">
+<img src="../../images/icons/2434044399.png" alt="Ginger In A Jungle" width="160">
 
 | | |
 |---|---|

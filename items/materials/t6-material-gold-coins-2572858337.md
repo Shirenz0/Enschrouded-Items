@@ -1,6 +1,6 @@
 # T6 Material Gold Coins
 
-<img src="../../images/categories/materials.svg" alt="T6 Material Gold Coins" width="160">
+<img src="../../images/icons/2572858337.png" alt="T6 Material Gold Coins" width="160">
 
 | | |
 |---|---|

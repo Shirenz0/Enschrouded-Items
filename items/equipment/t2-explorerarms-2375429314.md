@@ -1,6 +1,6 @@
 # T2 explorerArms
 
-<img src="../../images/categories/equipment.svg" alt="T2 explorerArms" width="160">
+<img src="../../images/icons/2375429314.png" alt="T2 explorerArms" width="160">
 
 | | |
 |---|---|

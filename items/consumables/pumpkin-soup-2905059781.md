@@ -1,6 +1,6 @@
 # Pumpkin Soup
 
-<img src="../../images/categories/consumables.svg" alt="Pumpkin Soup" width="160">
+<img src="../../images/icons/2905059781.png" alt="Pumpkin Soup" width="160">
 
 | | |
 |---|---|

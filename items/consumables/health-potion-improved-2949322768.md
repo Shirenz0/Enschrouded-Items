@@ -1,6 +1,6 @@
 # Health Potion improved
 
-<img src="../../images/categories/consumables.svg" alt="Health Potion improved" width="160">
+<img src="../../images/icons/2949322768.png" alt="Health Potion improved" width="160">
 
 | | |
 |---|---|

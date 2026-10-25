@@ -1,6 +1,6 @@
 # Party Hat II
 
-<img src="../../images/categories/equipment.svg" alt="Party Hat II" width="160">
+<img src="../../images/icons/572945787.png" alt="Party Hat II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Banana Coconut Smoothie
 
-<img src="../../images/categories/consumables.svg" alt="Banana Coconut Smoothie" width="160">
+<img src="../../images/icons/1444162950.png" alt="Banana Coconut Smoothie" width="160">
 
 | | |
 |---|---|

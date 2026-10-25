@@ -1,6 +1,6 @@
 # T4 Palette 02 Brown yellow red
 
-<img src="../../images/categories/colorpalette.svg" alt="T4 Palette 02 Brown yellow red" width="160">
+<img src="../../images/icons/2607932810.png" alt="T4 Palette 02 Brown yellow red" width="160">
 
 | | |
 |---|---|

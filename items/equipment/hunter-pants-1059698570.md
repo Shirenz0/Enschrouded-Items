@@ -1,6 +1,6 @@
 # Hunter Pants
 
-<img src="../../images/categories/equipment.svg" alt="Hunter Pants" width="160">
+<img src="../../images/icons/1059698570.png" alt="Hunter Pants" width="160">
 
 | | |
 |---|---|

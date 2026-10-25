@@ -1,6 +1,6 @@
 # Gold Werewolf Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Werewolf Trophy" width="160">
+<img src="../../images/icons/559604701.png" alt="Gold Werewolf Trophy" width="160">
 
 | | |
 |---|---|

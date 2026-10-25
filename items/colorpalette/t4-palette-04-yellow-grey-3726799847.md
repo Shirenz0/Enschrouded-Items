@@ -1,6 +1,6 @@
 # T4 Palette 04 yellow Grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T4 Palette 04 yellow Grey" width="160">
+<img src="../../images/icons/3726799847.png" alt="T4 Palette 04 yellow Grey" width="160">
 
 | | |
 |---|---|

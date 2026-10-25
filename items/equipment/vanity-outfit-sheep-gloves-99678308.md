@@ -1,6 +1,6 @@
 # Vanity Outfit Sheep gloves
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Outfit Sheep gloves" width="160">
+<img src="../../images/icons/99678308.png" alt="Vanity Outfit Sheep gloves" width="160">
 
 | | |
 |---|---|

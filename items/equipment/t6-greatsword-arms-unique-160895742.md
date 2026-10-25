@@ -1,6 +1,6 @@
 # T6 Greatsword Arms - Unique
 
-<img src="../../images/categories/equipment.svg" alt="T6 Greatsword Arms - Unique" width="160">
+<img src="../../images/icons/160895742.png" alt="T6 Greatsword Arms - Unique" width="160">
 
 | | |
 |---|---|

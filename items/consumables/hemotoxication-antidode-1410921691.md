@@ -1,6 +1,6 @@
 # Hemotoxication Antidode
 
-<img src="../../images/categories/consumables.svg" alt="Hemotoxication Antidode" width="160">
+<img src="../../images/icons/1410921691.png" alt="Hemotoxication Antidode" width="160">
 
 | | |
 |---|---|

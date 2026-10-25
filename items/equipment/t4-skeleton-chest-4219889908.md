@@ -1,6 +1,6 @@
 # T4 Skeleton chest
 
-<img src="../../images/categories/equipment.svg" alt="T4 Skeleton chest" width="160">
+<img src="../../images/icons/4219889908.png" alt="T4 Skeleton chest" width="160">
 
 | | |
 |---|---|

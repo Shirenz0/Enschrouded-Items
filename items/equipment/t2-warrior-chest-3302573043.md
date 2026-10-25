@@ -1,6 +1,6 @@
 # T2 Warrior Chest
 
-<img src="../../images/categories/equipment.svg" alt="T2 Warrior Chest" width="160">
+<img src="../../images/icons/3302573043.png" alt="T2 Warrior Chest" width="160">
 
 | | |
 |---|---|

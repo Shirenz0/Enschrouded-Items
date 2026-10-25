@@ -1,6 +1,6 @@
 # Ultimate Mana Potion
 
-<img src="../../images/categories/consumables.svg" alt="Ultimate Mana Potion" width="160">
+<img src="../../images/icons/2916308043.png" alt="Ultimate Mana Potion" width="160">
 
 | | |
 |---|---|

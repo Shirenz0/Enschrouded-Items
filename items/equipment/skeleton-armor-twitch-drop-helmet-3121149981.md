@@ -1,6 +1,6 @@
 # Skeleton armor twitch drop helmet
 
-<img src="../../images/categories/equipment.svg" alt="Skeleton armor twitch drop helmet" width="160">
+<img src="../../images/icons/3121149981.png" alt="Skeleton armor twitch drop helmet" width="160">
 
 | | |
 |---|---|

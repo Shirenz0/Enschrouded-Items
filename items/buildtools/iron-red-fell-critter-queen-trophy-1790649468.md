@@ -1,6 +1,6 @@
 # Iron Red Fell Critter Queen Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Red Fell Critter Queen Trophy" width="160">
+<img src="../../images/icons/1790649468.png" alt="Iron Red Fell Critter Queen Trophy" width="160">
 
 | | |
 |---|---|

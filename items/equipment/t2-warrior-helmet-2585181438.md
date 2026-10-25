@@ -1,6 +1,6 @@
 # T2 Warrior Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T2 Warrior Helmet" width="160">
+<img src="../../images/icons/2585181438.png" alt="T2 Warrior Helmet" width="160">
 
 | | |
 |---|---|

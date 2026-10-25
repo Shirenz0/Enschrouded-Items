@@ -1,6 +1,6 @@
 # Stir-Fried Vegetables
 
-<img src="../../images/categories/consumables.svg" alt="Stir-Fried Vegetables" width="160">
+<img src="../../images/icons/1105965780.png" alt="Stir-Fried Vegetables" width="160">
 
 | | |
 |---|---|

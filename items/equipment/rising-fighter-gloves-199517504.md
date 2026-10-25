@@ -1,6 +1,6 @@
 # Rising Fighter Gloves
 
-<img src="../../images/categories/equipment.svg" alt="Rising Fighter Gloves" width="160">
+<img src="../../images/icons/199517504.png" alt="Rising Fighter Gloves" width="160">
 
 | | |
 |---|---|

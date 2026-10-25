@@ -1,6 +1,6 @@
 # Exceptional Drum
 
-<img src="../../images/categories/buildtools.svg" alt="Exceptional Drum" width="160">
+<img src="../../images/icons/1325385401.png" alt="Exceptional Drum" width="160">
 
 | | |
 |---|---|

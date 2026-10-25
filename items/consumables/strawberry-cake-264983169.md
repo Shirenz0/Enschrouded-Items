@@ -1,6 +1,6 @@
 # Strawberry Cake
 
-<img src="../../images/categories/consumables.svg" alt="Strawberry Cake" width="160">
+<img src="../../images/icons/264983169.png" alt="Strawberry Cake" width="160">
 
 | | |
 |---|---|

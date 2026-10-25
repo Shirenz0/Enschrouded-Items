@@ -1,6 +1,6 @@
 # T4 BattleMage boote
 
-<img src="../../images/categories/equipment.svg" alt="T4 BattleMage boote" width="160">
+<img src="../../images/icons/219898735.png" alt="T4 BattleMage boote" width="160">
 
 | | |
 |---|---|

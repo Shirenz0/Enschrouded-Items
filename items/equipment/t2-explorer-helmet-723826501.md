@@ -1,6 +1,6 @@
 # T2 explorer helmet
 
-<img src="../../images/categories/equipment.svg" alt="T2 explorer helmet" width="160">
+<img src="../../images/icons/723826501.png" alt="T2 explorer helmet" width="160">
 
 | | |
 |---|---|

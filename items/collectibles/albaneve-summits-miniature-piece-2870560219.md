@@ -1,6 +1,6 @@
 # Albaneve Summits Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Albaneve Summits Miniature Piece" width="160">
+<img src="../../images/icons/2870560219.png" alt="Albaneve Summits Miniature Piece" width="160">
 
 | | |
 |---|---|

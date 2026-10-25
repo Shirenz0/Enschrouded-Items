@@ -1,6 +1,6 @@
 # Fertile Deepforest Dirt
 
-<img src="../../images/categories/materials.svg" alt="Fertile Deepforest Dirt" width="160">
+<img src="../../images/icons/459345780.png" alt="Fertile Deepforest Dirt" width="160">
 
 | | |
 |---|---|

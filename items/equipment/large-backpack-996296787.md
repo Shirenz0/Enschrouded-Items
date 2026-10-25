@@ -1,6 +1,6 @@
 # Large Backpack
 
-<img src="../../images/categories/equipment.svg" alt="Large Backpack" width="160">
+<img src="../../images/icons/996296787.png" alt="Large Backpack" width="160">
 
 | | |
 |---|---|

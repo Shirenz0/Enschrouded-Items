@@ -1,6 +1,6 @@
 # Fine Hang-Drum
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Hang-Drum" width="160">
+<img src="../../images/icons/23035970.png" alt="Fine Hang-Drum" width="160">
 
 | | |
 |---|---|

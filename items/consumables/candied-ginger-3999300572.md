@@ -1,6 +1,6 @@
 # Candied Ginger
 
-<img src="../../images/categories/consumables.svg" alt="Candied Ginger" width="160">
+<img src="../../images/icons/3999300572.png" alt="Candied Ginger" width="160">
 
 | | |
 |---|---|

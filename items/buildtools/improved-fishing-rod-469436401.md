@@ -1,6 +1,6 @@
 # Improved Fishing Rod
 
-<img src="../../images/categories/buildtools.svg" alt="Improved Fishing Rod" width="160">
+<img src="../../images/icons/469436401.png" alt="Improved Fishing Rod" width="160">
 
 | | |
 |---|---|

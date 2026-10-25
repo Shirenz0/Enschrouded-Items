@@ -1,6 +1,6 @@
 # Fertile Desert Sand
 
-<img src="../../images/categories/materials.svg" alt="Fertile Desert Sand" width="160">
+<img src="../../images/icons/2925726773.png" alt="Fertile Desert Sand" width="160">
 
 | | |
 |---|---|

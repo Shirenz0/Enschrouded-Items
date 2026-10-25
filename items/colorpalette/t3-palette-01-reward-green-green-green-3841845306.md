@@ -1,6 +1,6 @@
 # T3 Palette 01 reward Green, green, green
 
-<img src="../../images/categories/colorpalette.svg" alt="T3 Palette 01 reward Green, green, green" width="160">
+<img src="../../images/icons/3841845306.png" alt="T3 Palette 01 reward Green, green, green" width="160">
 
 | | |
 |---|---|

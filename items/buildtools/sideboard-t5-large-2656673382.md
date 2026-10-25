@@ -1,6 +1,6 @@
 # Sideboard T5 large
 
-<img src="../../images/categories/buildtools.svg" alt="Sideboard T5 large" width="160">
+<img src="../../images/icons/2656673382.png" alt="Sideboard T5 large" width="160">
 
 | | |
 |---|---|

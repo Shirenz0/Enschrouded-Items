@@ -1,6 +1,6 @@
 # T2 Lore Armor Fogger Arms
 
-<img src="../../images/categories/equipment.svg" alt="T2 Lore Armor Fogger Arms" width="160">
+<img src="../../images/icons/3012114062.png" alt="T2 Lore Armor Fogger Arms" width="160">
 
 | | |
 |---|---|

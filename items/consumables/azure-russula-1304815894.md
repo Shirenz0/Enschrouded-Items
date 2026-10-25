@@ -1,6 +1,6 @@
 # Azure Russula
 
-<img src="../../images/categories/consumables.svg" alt="Azure Russula" width="160">
+<img src="../../images/icons/1304815894.png" alt="Azure Russula" width="160">
 
 | | |
 |---|---|

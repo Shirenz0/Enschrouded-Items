@@ -1,6 +1,6 @@
 # Rising Fighter Helmet
 
-<img src="../../images/categories/equipment.svg" alt="Rising Fighter Helmet" width="160">
+<img src="../../images/icons/2070050318.png" alt="Rising Fighter Helmet" width="160">
 
 | | |
 |---|---|

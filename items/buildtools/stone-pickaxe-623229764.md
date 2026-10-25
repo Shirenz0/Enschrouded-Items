@@ -1,6 +1,6 @@
 # Stone Pickaxe
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Pickaxe" width="160">
+<img src="../../images/icons/623229764.png" alt="Stone Pickaxe" width="160">
 
 | | |
 |---|---|

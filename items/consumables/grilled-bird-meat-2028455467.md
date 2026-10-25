@@ -1,6 +1,6 @@
 # Grilled Bird Meat
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Bird Meat" width="160">
+<img src="../../images/icons/2028455467.png" alt="Grilled Bird Meat" width="160">
 
 | | |
 |---|---|

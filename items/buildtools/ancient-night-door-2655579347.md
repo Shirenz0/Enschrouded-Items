@@ -1,6 +1,6 @@
 # Ancient Night Door
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Night Door" width="160">
+<img src="../../images/icons/2655579347.png" alt="Ancient Night Door" width="160">
 
 | | |
 |---|---|

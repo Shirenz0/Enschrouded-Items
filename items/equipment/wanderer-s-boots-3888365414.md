@@ -1,6 +1,6 @@
 # Wanderer's Boots
 
-<img src="../../images/categories/equipment.svg" alt="Wanderer&#x27;s Boots" width="160">
+<img src="../../images/icons/3888365414.png" alt="Wanderer&#x27;s Boots" width="160">
 
 | | |
 |---|---|

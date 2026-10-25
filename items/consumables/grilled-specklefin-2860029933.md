@@ -1,6 +1,6 @@
 # Grilled Specklefin
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Specklefin" width="160">
+<img src="../../images/icons/2860029933.png" alt="Grilled Specklefin" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Warrior Supporter gloves
 
-<img src="../../images/categories/equipment.svg" alt="Warrior Supporter gloves" width="160">
+<img src="../../images/icons/547743748.png" alt="Warrior Supporter gloves" width="160">
 
 | | |
 |---|---|

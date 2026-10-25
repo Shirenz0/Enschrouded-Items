@@ -1,6 +1,6 @@
 # Inscribed Golden Urn
 
-<img src="../../images/categories/collectibles.svg" alt="Inscribed Golden Urn" width="160">
+<img src="../../images/icons/347801797.png" alt="Inscribed Golden Urn" width="160">
 
 | | |
 |---|---|

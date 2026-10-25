@@ -1,6 +1,6 @@
 # Excellent Fishing Rod
 
-<img src="../../images/categories/buildtools.svg" alt="Excellent Fishing Rod" width="160">
+<img src="../../images/icons/2943277884.png" alt="Excellent Fishing Rod" width="160">
 
 | | |
 |---|---|

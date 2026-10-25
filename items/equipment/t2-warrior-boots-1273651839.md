@@ -1,6 +1,6 @@
 # T2 Warrior Boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 Warrior Boots" width="160">
+<img src="../../images/icons/1273651839.png" alt="T2 Warrior Boots" width="160">
 
 | | |
 |---|---|

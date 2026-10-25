@@ -1,6 +1,6 @@
 # T7 AncientLand Sand
 
-<img src="../../images/categories/materials.svg" alt="T7 AncientLand Sand" width="160">
+<img src="../../images/icons/3899759098.png" alt="T7 AncientLand Sand" width="160">
 
 | | |
 |---|---|

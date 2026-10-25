@@ -1,6 +1,6 @@
 # Bronze Ancient Construct: Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Ancient Construct: Heavy Trophy" width="160">
+<img src="../../images/icons/1715982707.png" alt="Bronze Ancient Construct: Heavy Trophy" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Meat Skewer with Forest Beet
 
-<img src="../../images/categories/consumables.svg" alt="Meat Skewer with Forest Beet" width="160">
+<img src="../../images/icons/16567466.png" alt="Meat Skewer with Forest Beet" width="160">
 
 | | |
 |---|---|

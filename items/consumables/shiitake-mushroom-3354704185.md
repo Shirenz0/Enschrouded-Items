@@ -1,6 +1,6 @@
 # Shiitake Mushroom
 
-<img src="../../images/categories/consumables.svg" alt="Shiitake Mushroom" width="160">
+<img src="../../images/icons/3354704185.png" alt="Shiitake Mushroom" width="160">
 
 | | |
 |---|---|

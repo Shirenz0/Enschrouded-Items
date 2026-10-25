@@ -1,6 +1,6 @@
 # Coloring Station
 
-<img src="../../images/categories/buildtools.svg" alt="Coloring Station" width="160">
+<img src="../../images/icons/3229096192.png" alt="Coloring Station" width="160">
 
 | | |
 |---|---|

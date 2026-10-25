@@ -1,6 +1,6 @@
 # Experience Scroll
 
-<img src="../../images/categories/consumables.svg" alt="Experience Scroll" width="160">
+<img src="../../images/icons/1212732429.png" alt="Experience Scroll" width="160">
 
 | | |
 |---|---|

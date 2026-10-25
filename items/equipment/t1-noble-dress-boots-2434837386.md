@@ -1,6 +1,6 @@
 # T1 noble dress boots
 
-<img src="../../images/categories/equipment.svg" alt="T1 noble dress boots" width="160">
+<img src="../../images/icons/2434837386.png" alt="T1 noble dress boots" width="160">
 
 | | |
 |---|---|

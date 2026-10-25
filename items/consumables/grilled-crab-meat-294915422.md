@@ -1,6 +1,6 @@
 # Grilled Crab Meat
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Crab Meat" width="160">
+<img src="../../images/icons/294915422.png" alt="Grilled Crab Meat" width="160">
 
 | | |
 |---|---|

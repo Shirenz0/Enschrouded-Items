@@ -1,6 +1,6 @@
 # Sea Urchin Cluster
 
-<img src="../../images/categories/collectibles.svg" alt="Sea Urchin Cluster" width="160">
+<img src="../../images/icons/3773857537.png" alt="Sea Urchin Cluster" width="160">
 
 | | |
 |---|---|

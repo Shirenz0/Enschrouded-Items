@@ -1,6 +1,6 @@
 # T6 Taro Root Curry
 
-<img src="../../images/categories/consumables.svg" alt="T6 Taro Root Curry" width="160">
+<img src="../../images/icons/4124427746.png" alt="T6 Taro Root Curry" width="160">
 
 | | |
 |---|---|

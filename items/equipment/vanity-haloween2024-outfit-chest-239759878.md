@@ -1,6 +1,6 @@
 # Vanity Haloween2024 Outfit chest
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Haloween2024 Outfit chest" width="160">
+<img src="../../images/icons/239759878.png" alt="Vanity Haloween2024 Outfit chest" width="160">
 
 | | |
 |---|---|

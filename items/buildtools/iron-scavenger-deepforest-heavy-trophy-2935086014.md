@@ -1,6 +1,6 @@
 # Iron Scavenger Deepforest Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Scavenger Deepforest Heavy Trophy" width="160">
+<img src="../../images/icons/2935086014.png" alt="Iron Scavenger Deepforest Heavy Trophy" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Licuala Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Licuala Seedling" width="160">
+<img src="../../images/icons/2883918272.png" alt="Licuala Seedling" width="160">
 
 | | |
 |---|---|

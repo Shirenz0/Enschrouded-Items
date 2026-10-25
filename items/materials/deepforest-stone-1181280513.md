@@ -1,6 +1,6 @@
 # Deepforest Stone
 
-<img src="../../images/categories/materials.svg" alt="Deepforest Stone" width="160">
+<img src="../../images/icons/1181280513.png" alt="Deepforest Stone" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Lesser Ring of Stamina
 
-<img src="../../images/categories/equipment.svg" alt="Lesser Ring of Stamina" width="160">
+<img src="../../images/icons/1260813781.png" alt="Lesser Ring of Stamina" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T4 Assassin Arms
 
-<img src="../../images/categories/equipment.svg" alt="T4 Assassin Arms" width="160">
+<img src="../../images/icons/3347772032.png" alt="T4 Assassin Arms" width="160">
 
 | | |
 |---|---|

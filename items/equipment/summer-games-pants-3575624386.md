@@ -1,6 +1,6 @@
 # Summer Games Pants
 
-<img src="../../images/categories/equipment.svg" alt="Summer Games Pants" width="160">
+<img src="../../images/icons/3575624386.png" alt="Summer Games Pants" width="160">
 
 | | |
 |---|---|

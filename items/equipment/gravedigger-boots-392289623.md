@@ -1,6 +1,6 @@
 # Gravedigger Boots
 
-<img src="../../images/categories/equipment.svg" alt="Gravedigger Boots" width="160">
+<img src="../../images/icons/392289623.png" alt="Gravedigger Boots" width="160">
 
 | | |
 |---|---|

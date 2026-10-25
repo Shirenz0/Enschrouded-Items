@@ -1,6 +1,6 @@
 # ActiveMycelium
 
-<img src="../../images/categories/materials.svg" alt="ActiveMycelium" width="160">
+<img src="../../images/icons/2179075323.png" alt="ActiveMycelium" width="160">
 
 | | |
 |---|---|

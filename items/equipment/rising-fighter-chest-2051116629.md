@@ -1,6 +1,6 @@
 # Rising Fighter Chest
 
-<img src="../../images/categories/equipment.svg" alt="Rising Fighter Chest" width="160">
+<img src="../../images/icons/2051116629.png" alt="Rising Fighter Chest" width="160">
 
 | | |
 |---|---|

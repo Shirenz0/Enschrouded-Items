@@ -1,6 +1,6 @@
 # Gravedigger Hat
 
-<img src="../../images/categories/equipment.svg" alt="Gravedigger Hat" width="160">
+<img src="../../images/icons/1467780184.png" alt="Gravedigger Hat" width="160">
 
 | | |
 |---|---|

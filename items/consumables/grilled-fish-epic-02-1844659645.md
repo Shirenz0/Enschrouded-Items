@@ -1,6 +1,6 @@
 # Grilled Fish Epic 02
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Fish Epic 02" width="160">
+<img src="../../images/icons/1844659645.png" alt="Grilled Fish Epic 02" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Orange Decorative Box
 
-<img src="../../images/categories/buildtools.svg" alt="Orange Decorative Box" width="160">
+<img src="../../images/icons/4123212614.png" alt="Orange Decorative Box" width="160">
 
 | | |
 |---|---|

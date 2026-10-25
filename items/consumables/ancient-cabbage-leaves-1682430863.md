@@ -1,6 +1,6 @@
 # Ancient "Cabbage" Leaves
 
-<img src="../../images/categories/consumables.svg" alt="Ancient &quot;Cabbage&quot; Leaves" width="160">
+<img src="../../images/icons/1682430863.png" alt="Ancient &quot;Cabbage&quot; Leaves" width="160">
 
 | | |
 |---|---|

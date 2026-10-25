@@ -1,6 +1,6 @@
 # Fogger Shield
 
-<img src="../../images/categories/equipment.svg" alt="Fogger Shield" width="160">
+<img src="../../images/icons/3981836644.png" alt="Fogger Shield" width="160">
 
 | | |
 |---|---|

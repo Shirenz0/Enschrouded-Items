@@ -39,9 +39,9 @@
 | <img src="../images/icons/736877897.png" width="48"> | [Palmwood Shelf](../items/buildtools/palmwood-shelf-736877897.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1057970078.png" width="48"> | [Paper Lantern I](../items/buildtools/paper-lantern-i-1057970078.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1987268311.png" width="48"> | [Paper Lantern II](../items/buildtools/paper-lantern-ii-1987268311.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Papyrus Seedling](../items/buildtools/papyrus-seedling-506636559.md) | ⚪ Common | - | 100 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Passionflower Flower Pot](../items/buildtools/passionflower-flower-pot-3127704929.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Pendant Ceiling Lantern](../items/buildtools/pendant-ceiling-lantern-2100892316.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/506636559.png" width="48"> | [Papyrus Seedling](../items/buildtools/papyrus-seedling-506636559.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/3127704929.png" width="48"> | [Passionflower Flower Pot](../items/buildtools/passionflower-flower-pot-3127704929.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2100892316.png" width="48"> | [Pendant Ceiling Lantern](../items/buildtools/pendant-ceiling-lantern-2100892316.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/751481953.png" width="48"> | [Penny Bun Seedling](../items/buildtools/penny-bun-seedling-751481953.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/2330783516.png" width="48"> | [Pepper Seedling](../items/buildtools/pepper-seedling-2330783516.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/171960142.png" width="48"> | [PikeMeadStatue Showcase](../items/buildtools/pikemeadstatue-showcase-171960142.md) | ⚪ Common | - | 20 |
@@ -52,7 +52,7 @@
 | <img src="../images/icons/3343616857.png" width="48"> | [Pine Wood Garden Fence II](../items/buildtools/pine-wood-garden-fence-ii-3343616857.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1248457047.png" width="48"> | [Pine Wood Garden Fence Pole](../items/buildtools/pine-wood-garden-fence-pole-1248457047.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4176703426.png" width="48"> | [Pinewood Door with silver ornaments](../items/buildtools/pinewood-door-with-silver-ornaments-4176703426.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Pinewood Double Door with silver ornaments](../items/buildtools/pinewood-double-door-with-silver-ornaments-1652824178.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/1652824178.png" width="48"> | [Pinewood Double Door with silver ornaments](../items/buildtools/pinewood-double-door-with-silver-ornaments-1652824178.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/432372158.png" width="48"> | [Pinewood Fence Gate I](../items/buildtools/pinewood-fence-gate-i-432372158.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3886008573.png" width="48"> | [Pinewood Fence Gate II](../items/buildtools/pinewood-fence-gate-ii-3886008573.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1596758429.png" width="48"> | [Pinewood Fence I](../items/buildtools/pinewood-fence-i-1596758429.md) | ⚪ Common | - | 50 |
@@ -74,7 +74,7 @@
 | <img src="../images/icons/724156552.png" width="48"> | [Planetarium](../items/buildtools/planetarium-724156552.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3205476444.png" width="48"> | [Planetarium Showcase/ Orbit](../items/buildtools/planetarium-showcase-orbit-3205476444.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4077117519.png" width="48"> | [Plant Fibre Roof Block](../items/buildtools/plant-fibre-roof-block-4077117519.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Player Base Gem Forge](../items/buildtools/player-base-gem-forge-3250908839.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/3250908839.png" width="48"> | [Player Base Gem Forge](../items/buildtools/player-base-gem-forge-3250908839.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/1485009287.png" width="48"> | [Plough](../items/buildtools/plough-1485009287.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3457345820.png" width="48"> | [Polished Scrap Brazier](../items/buildtools/polished-scrap-brazier-3457345820.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/536528154.png" width="48"> | [Pom Pom Jr.](../items/buildtools/pom-pom-jr-536528154.md) | ⚪ Common | - | 1 |
@@ -106,7 +106,7 @@
 | <img src="../images/icons/2503926869.png" width="48"> | [Ranged switch](../items/buildtools/ranged-switch-2503926869.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2776180521.png" width="48"> | [Rectangular Coaster](../items/buildtools/rectangular-coaster-2776180521.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3422704366.png" width="48"> | [Red Confetti Mortar](../items/buildtools/red-confetti-mortar-3422704366.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Red Fell Critter Queen Head](../items/buildtools/red-fell-critter-queen-head-3199036832.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/3199036832.png" width="48"> | [Red Fell Critter Queen Head](../items/buildtools/red-fell-critter-queen-head-3199036832.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/157147909.png" width="48"> | [Red Flower Pot](../items/buildtools/red-flower-pot-157147909.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2373764287.png" width="48"> | [Red Flower Pot](../items/buildtools/red-flower-pot-2373764287.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2413776919.png" width="48"> | [Red Flower Pot](../items/buildtools/red-flower-pot-2413776919.md) | ⚪ Common | - | 50 |
@@ -122,7 +122,7 @@
 | <img src="../images/icons/2717313341.png" width="48"> | [Red Wall Banner](../items/buildtools/red-wall-banner-2717313341.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1699546726.png" width="48"> | [Red Wall Pot](../items/buildtools/red-wall-pot-1699546726.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2029375274.png" width="48"> | [Red Wall Pot](../items/buildtools/red-wall-pot-2029375274.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Reed Seedling](../items/buildtools/reed-seedling-2229826461.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/2229826461.png" width="48"> | [Reed Seedling](../items/buildtools/reed-seedling-2229826461.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/1555483091.png" width="48"> | [Refined Sandstone Block](../items/buildtools/refined-sandstone-block-1555483091.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/296562836.png" width="48"> | [Refined Stone Block](../items/buildtools/refined-stone-block-296562836.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/1358536105.png" width="48"> | [Refined Wood Block](../items/buildtools/refined-wood-block-1358536105.md) | ⚪ Common | - | 5000 |
@@ -130,7 +130,7 @@
 | <img src="../images/icons/3312174805.png" width="48"> | [Regular Stone Block](../items/buildtools/regular-stone-block-3312174805.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/1313835688.png" width="48"> | [Resource Bundle I](../items/buildtools/resource-bundle-i-1313835688.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2243725147.png" width="48"> | [Resource Bundle II](../items/buildtools/resource-bundle-ii-2243725147.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Rice Seedling](../items/buildtools/rice-seedling-3520367051.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/3520367051.png" width="48"> | [Rice Seedling](../items/buildtools/rice-seedling-3520367051.md) | ⚪ Common | - | 100 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Robert Gibson](../items/buildtools/robert-gibson-321292257.md) | 🔵 Rare | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Rochelle Anders](../items/buildtools/rochelle-anders-387784553.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/196827131.png" width="48"> | [Roof Tiles Block](../items/buildtools/roof-tiles-block-196827131.md) | ⚪ Common | - | 5000 |
@@ -145,11 +145,11 @@
 | <img src="../images/icons/1405390032.png" width="48"> | [Rough Flintstone Block](../items/buildtools/rough-flintstone-block-1405390032.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/72900743.png" width="48"> | [Rough Sandstone Block](../items/buildtools/rough-sandstone-block-72900743.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/2175686957.png" width="48"> | [Rough Stone Block](../items/buildtools/rough-stone-block-2175686957.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-1441646853.md) | ⚪ Common | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-1923097402.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/1441646853.png" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-1441646853.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/1923097402.png" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-1923097402.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/2012474258.png" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-2012474258.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-2243637327.md) | ⚪ Common | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-444874319.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/2243637327.png" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-2243637327.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/444874319.png" width="48"> | [Rough Wood Block](../items/buildtools/rough-wood-block-444874319.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/619068123.png" width="48"> | [Rough Wooden Cabinet](../items/buildtools/rough-wooden-cabinet-619068123.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1976103965.png" width="48"> | [Rough Wooden Closet](../items/buildtools/rough-wooden-closet-1976103965.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3337807364.png" width="48"> | [Roughly Cut Stone Block](../items/buildtools/roughly-cut-stone-block-3337807364.md) | ⚪ Common | - | 5000 |
@@ -178,9 +178,9 @@
 | <img src="../images/icons/2938349424.png" width="48"> | [Scarecrow](../items/buildtools/scarecrow-2938349424.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/106014299.png" width="48"> | [Scavanger Bonfire](../items/buildtools/scavanger-bonfire-106014299.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2829385261.png" width="48"> | [Scavanger Gong](../items/buildtools/scavanger-gong-2829385261.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Scavenger Deepforest Heavy Trophy](../items/buildtools/scavenger-deepforest-heavy-trophy-452415655.md) | 🔵 Rare | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Scavenger Desert Heavy Trophy](../items/buildtools/scavenger-desert-heavy-trophy-785918372.md) | 🔵 Rare | - | 10 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Scavenger Tyrant Trophy](../items/buildtools/scavenger-tyrant-trophy-418495712.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/452415655.png" width="48"> | [Scavenger Deepforest Heavy Trophy](../items/buildtools/scavenger-deepforest-heavy-trophy-452415655.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/785918372.png" width="48"> | [Scavenger Desert Heavy Trophy](../items/buildtools/scavenger-desert-heavy-trophy-785918372.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/418495712.png" width="48"> | [Scavenger Tyrant Trophy](../items/buildtools/scavenger-tyrant-trophy-418495712.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/895710916.png" width="48"> | [Scientific Instruments](../items/buildtools/scientific-instruments-895710916.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1999901681.png" width="48"> | [Scrap Bowl](../items/buildtools/scrap-bowl-1999901681.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3761076482.png" width="48"> | [Scrap Bucket](../items/buildtools/scrap-bucket-3761076482.md) | ⚪ Common | - | 20 |
@@ -199,8 +199,8 @@
 | <img src="../images/icons/3104389949.png" width="48"> | [Scrap Vat I](../items/buildtools/scrap-vat-i-3104389949.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4129664761.png" width="48"> | [Scrap Vat II](../items/buildtools/scrap-vat-ii-4129664761.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3407492288.png" width="48"> | [Scrappy Crate](../items/buildtools/scrappy-crate-3407492288.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Scrappy Pickaxe](../items/buildtools/scrappy-pickaxe-256634933.md) | ⚪ Common | 5 | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Scrappy Rake](../items/buildtools/scrappy-rake-2176546463.md) | ⚪ Common | 5 | 1 |
+| <img src="../images/icons/256634933.png" width="48"> | [Scrappy Pickaxe](../items/buildtools/scrappy-pickaxe-256634933.md) | ⚪ Common | 5 | 1 |
+| <img src="../images/icons/2176546463.png" width="48"> | [Scrappy Rake](../items/buildtools/scrappy-rake-2176546463.md) | ⚪ Common | 5 | 1 |
 | <img src="../images/icons/3194809909.png" width="48"> | [Secret Bookshelf Door](../items/buildtools/secret-bookshelf-door-3194809909.md) | 🔵 Rare | - | 50 |
 | <img src="../images/icons/2191154793.png" width="48"> | [Secret Crude Wooden Bookshelf Door](../items/buildtools/secret-crude-wooden-bookshelf-door-2191154793.md) | 🔵 Rare | - | 50 |
 | <img src="../images/icons/2612266571.png" width="48"> | [Secret Flintstone Door](../items/buildtools/secret-flintstone-door-2612266571.md) | 🔵 Rare | - | 50 |
@@ -215,10 +215,10 @@
 | <img src="../images/icons/3402080269.png" width="48"> | [Self Illuminating Block Green](../items/buildtools/self-illuminating-block-green-3402080269.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/2310650651.png" width="48"> | [Self Illuminating Block Warm white](../items/buildtools/self-illuminating-block-warm-white-2310650651.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/192912459.png" width="48"> | [Self Illumination Block](../items/buildtools/self-illumination-block-192912459.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Shadowbloom Flower Pot](../items/buildtools/shadowbloom-flower-pot-440235364.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/440235364.png" width="48"> | [Shadowbloom Flower Pot](../items/buildtools/shadowbloom-flower-pot-440235364.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2187829385.png" width="48"> | [Shield Wall Emblem I](../items/buildtools/shield-wall-emblem-i-2187829385.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/220736750.png" width="48"> | [Shield Wall Emblem II](../items/buildtools/shield-wall-emblem-ii-220736750.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Shiitake Seedling](../items/buildtools/shiitake-seedling-420003849.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/420003849.png" width="48"> | [Shiitake Seedling](../items/buildtools/shiitake-seedling-420003849.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/333200327.png" width="48"> | [Shovel Garden Gnome](../items/buildtools/shovel-garden-gnome-333200327.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2952678297.png" width="48"> | [Showcase Fossiles 2 medium slots](../items/buildtools/showcase-fossiles-2-medium-slots-2952678297.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2214332309.png" width="48"> | [Showcase Fossiles 2 small slots](../items/buildtools/showcase-fossiles-2-small-slots-2214332309.md) | ⚪ Common | - | 20 |
@@ -230,8 +230,8 @@
 | <img src="../images/icons/2564145075.png" width="48"> | [Showcase Skeletons 3 small and 2 medium slots](../items/buildtools/showcase-skeletons-3-small-and-2-medium-slots-2564145075.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3034421283.png" width="48"> | [Showcase Skeletons 3 small slots](../items/buildtools/showcase-skeletons-3-small-slots-3034421283.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4047385314.png" width="48"> | [Shrub Seedling](../items/buildtools/shrub-seedling-4047385314.md) | ⚪ Common | - | 100 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Sideboard T5 large](../items/buildtools/sideboard-t5-large-2656673382.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Sideboard T5 small](../items/buildtools/sideboard-t5-small-3160686793.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2656673382.png" width="48"> | [Sideboard T5 large](../items/buildtools/sideboard-t5-large-2656673382.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/3160686793.png" width="48"> | [Sideboard T5 small](../items/buildtools/sideboard-t5-small-3160686793.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1463343087.png" width="48"> | [Signpost Pole](../items/buildtools/signpost-pole-1463343087.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3103489139.png" width="48"> | [Silver Candleholder](../items/buildtools/silver-candleholder-3103489139.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2222512957.png" width="48"> | [Silver Ceiling Illumination](../items/buildtools/silver-ceiling-illumination-2222512957.md) | ⚪ Common | - | 50 |
@@ -243,7 +243,7 @@
 | <img src="../images/icons/4043051492.png" width="48"> | [Simple Baordwalk](../items/buildtools/simple-baordwalk-4043051492.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2729052185.png" width="48"> | [Simple Coffin](../items/buildtools/simple-coffin-2729052185.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/160834168.png" width="48"> | [Simple Coffing Lid](../items/buildtools/simple-coffing-lid-160834168.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Simple Fishing Rod](../items/buildtools/simple-fishing-rod-425570534.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/425570534.png" width="48"> | [Simple Fishing Rod](../items/buildtools/simple-fishing-rod-425570534.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/156080606.png" width="48"> | [Simple Tropical Wood Fence with Ropes I](../items/buildtools/simple-tropical-wood-fence-with-ropes-i-156080606.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2103140295.png" width="48"> | [Simple Tropical Wood Fence with Ropes II](../items/buildtools/simple-tropical-wood-fence-with-ropes-ii-2103140295.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2242544273.png" width="48"> | [Simple Wood Support](../items/buildtools/simple-wood-support-2242544273.md) | ⚪ Common | - | 20 |
@@ -256,7 +256,7 @@
 | <img src="../images/icons/1948096195.png" width="48"> | [Sink T1](../items/buildtools/sink-t1-1948096195.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/821307402.png" width="48"> | [Sink T2](../items/buildtools/sink-t2-821307402.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/883401509.png" width="48"> | [Skeleton Showkase](../items/buildtools/skeleton-showkase-883401509.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Skill Point](../items/buildtools/skill-point-4071457557.md) | 🔵 Rare | - | 1000 |
+| <img src="../images/icons/4071457557.png" width="48"> | [Skill Point](../items/buildtools/skill-point-4071457557.md) | 🔵 Rare | - | 1000 |
 | <img src="../images/icons/2407454540.png" width="48"> | [Skull Press](../items/buildtools/skull-press-2407454540.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/970794453.png" width="48"> | [Skull Trophy I](../items/buildtools/skull-trophy-i-970794453.md) | 🟠 Legendary | - | 10 |
 | <img src="../images/icons/4107716547.png" width="48"> | [Skull Trophy II](../items/buildtools/skull-trophy-ii-4107716547.md) | 🟠 Legendary | - | 10 |
@@ -270,7 +270,7 @@
 | <img src="../images/icons/443349913.png" width="48"> | [Small Ancient Plant Pot](../items/buildtools/small-ancient-plant-pot-443349913.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2848789791.png" width="48"> | [Small Ancient Sideboard](../items/buildtools/small-ancient-sideboard-2848789791.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/647745472.png" width="48"> | [Small Ancient Table](../items/buildtools/small-ancient-table-647745472.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Small Aurora Beans Plant Pot](../items/buildtools/small-aurora-beans-plant-pot-2001581152.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2001581152.png" width="48"> | [Small Aurora Beans Plant Pot](../items/buildtools/small-aurora-beans-plant-pot-2001581152.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2055264620.png" width="48"> | [Small Bamboo Baordwalk](../items/buildtools/small-bamboo-baordwalk-2055264620.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/694698355.png" width="48"> | [Small Bamboo Window I](../items/buildtools/small-bamboo-window-i-694698355.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/357984322.png" width="48"> | [Small Bamboo Window II](../items/buildtools/small-bamboo-window-ii-357984322.md) | ⚪ Common | - | 50 |
@@ -298,7 +298,7 @@
 | <img src="../images/icons/1242662609.png" width="48"> | [Small Ornamented Wooden Window Frame](../items/buildtools/small-ornamented-wooden-window-frame-1242662609.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1127311970.png" width="48"> | [Small Ornate Palmwood Cabinet](../items/buildtools/small-ornate-palmwood-cabinet-1127311970.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/601260094.png" width="48"> | [Small Ornate Palmwood Cupboard](../items/buildtools/small-ornate-palmwood-cupboard-601260094.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Small Prickle Pearl Plant Pot](../items/buildtools/small-prickle-pearl-plant-pot-197885818.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/197885818.png" width="48"> | [Small Prickle Pearl Plant Pot](../items/buildtools/small-prickle-pearl-plant-pot-197885818.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1432860573.png" width="48"> | [Small Red Marble Arc](../items/buildtools/small-red-marble-arc-1432860573.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1893325731.png" width="48"> | [Small Steel Barrel](../items/buildtools/small-steel-barrel-1893325731.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/34316523.png" width="48"> | [Small Stone Arc](../items/buildtools/small-stone-arc-34316523.md) | ⚪ Common | - | 50 |

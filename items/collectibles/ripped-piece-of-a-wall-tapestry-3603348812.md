@@ -1,6 +1,6 @@
 # Ripped piece of a Wall Tapestry
 
-<img src="../../images/categories/collectibles.svg" alt="Ripped piece of a Wall Tapestry" width="160">
+<img src="../../images/icons/3603348812.png" alt="Ripped piece of a Wall Tapestry" width="160">
 
 | | |
 |---|---|

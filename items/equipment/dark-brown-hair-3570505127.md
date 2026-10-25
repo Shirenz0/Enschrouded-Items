@@ -1,6 +1,6 @@
 # Dark Brown Hair
 
-<img src="../../images/categories/equipment.svg" alt="Dark Brown Hair" width="160">
+<img src="../../images/icons/3570505127.png" alt="Dark Brown Hair" width="160">
 
 | | |
 |---|---|

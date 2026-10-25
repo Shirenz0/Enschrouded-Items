@@ -1,6 +1,6 @@
 # Superior Ring of Health
 
-<img src="../../images/categories/equipment.svg" alt="Superior Ring of Health" width="160">
+<img src="../../images/icons/2015512989.png" alt="Superior Ring of Health" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Grilled Algae Buds
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Algae Buds" width="160">
+<img src="../../images/icons/3423336686.png" alt="Grilled Algae Buds" width="160">
 
 | | |
 |---|---|

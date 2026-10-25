@@ -1,6 +1,6 @@
 # Exceptional Flute
 
-<img src="../../images/categories/buildtools.svg" alt="Exceptional Flute" width="160">
+<img src="../../images/icons/4077419426.png" alt="Exceptional Flute" width="160">
 
 | | |
 |---|---|

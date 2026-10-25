@@ -1,6 +1,6 @@
 # Blackmire Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Blackmire Miniature Piece" width="160">
+<img src="../../images/icons/132383618.png" alt="Blackmire Miniature Piece" width="160">
 
 | | |
 |---|---|

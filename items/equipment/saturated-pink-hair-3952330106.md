@@ -1,6 +1,6 @@
 # Saturated Pink Hair
 
-<img src="../../images/categories/equipment.svg" alt="Saturated Pink Hair" width="160">
+<img src="../../images/icons/3952330106.png" alt="Saturated Pink Hair" width="160">
 
 | | |
 |---|---|

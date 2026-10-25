@@ -1,6 +1,6 @@
 # Modest Golden Urn
 
-<img src="../../images/categories/collectibles.svg" alt="Modest Golden Urn" width="160">
+<img src="../../images/icons/3901413869.png" alt="Modest Golden Urn" width="160">
 
 | | |
 |---|---|

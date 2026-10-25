@@ -1,6 +1,6 @@
 # Planetarium Rings (Inner)
 
-<img src="../../images/categories/collectibles.svg" alt="Planetarium Rings (Inner)" width="160">
+<img src="../../images/icons/2369213215.png" alt="Planetarium Rings (Inner)" width="160">
 
 | | |
 |---|---|

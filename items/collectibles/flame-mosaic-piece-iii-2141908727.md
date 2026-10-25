@@ -1,6 +1,6 @@
 # Flame Mosaic Piece III
 
-<img src="../../images/categories/collectibles.svg" alt="Flame Mosaic Piece III" width="160">
+<img src="../../images/icons/2141908727.png" alt="Flame Mosaic Piece III" width="160">
 
 | | |
 |---|---|

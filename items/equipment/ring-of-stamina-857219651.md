@@ -1,6 +1,6 @@
 # Ring of Stamina
 
-<img src="../../images/categories/equipment.svg" alt="Ring of Stamina" width="160">
+<img src="../../images/icons/857219651.png" alt="Ring of Stamina" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Werewolf Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Werewolf Trophy" width="160">
+<img src="../../images/icons/3646011305.png" alt="Werewolf Trophy" width="160">
 
 | | |
 |---|---|

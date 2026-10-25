@@ -1,6 +1,6 @@
 # Vegetable Soup
 
-<img src="../../images/categories/consumables.svg" alt="Vegetable Soup" width="160">
+<img src="../../images/icons/3049932278.png" alt="Vegetable Soup" width="160">
 
 | | |
 |---|---|

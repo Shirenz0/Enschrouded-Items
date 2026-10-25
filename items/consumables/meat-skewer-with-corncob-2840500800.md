@@ -1,6 +1,6 @@
 # Meat Skewer with Corncob
 
-<img src="../../images/categories/consumables.svg" alt="Meat Skewer with Corncob" width="160">
+<img src="../../images/icons/2840500800.png" alt="Meat Skewer with Corncob" width="160">
 
 | | |
 |---|---|

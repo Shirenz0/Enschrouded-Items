@@ -1,6 +1,6 @@
 # Mysterious Tome
 
-<img src="../../images/categories/collectibles.svg" alt="Mysterious Tome" width="160">
+<img src="../../images/icons/3312538887.png" alt="Mysterious Tome" width="160">
 
 | | |
 |---|---|

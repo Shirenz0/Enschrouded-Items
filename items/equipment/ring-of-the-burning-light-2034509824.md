@@ -1,6 +1,6 @@
 # Ring Of The Burning Light
 
-<img src="../../images/categories/equipment.svg" alt="Ring Of The Burning Light" width="160">
+<img src="../../images/icons/2034509824.png" alt="Ring Of The Burning Light" width="160">
 
 | | |
 |---|---|

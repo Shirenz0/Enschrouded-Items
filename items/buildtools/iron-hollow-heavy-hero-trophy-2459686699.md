@@ -1,6 +1,6 @@
 # Iron Hollow Heavy Hero Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Hollow Heavy Hero Trophy" width="160">
+<img src="../../images/icons/2459686699.png" alt="Iron Hollow Heavy Hero Trophy" width="160">
 
 | | |
 |---|---|

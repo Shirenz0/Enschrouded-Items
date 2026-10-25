@@ -1,6 +1,6 @@
 # Cleaned Bandage
 
-<img src="../../images/categories/consumables.svg" alt="Cleaned Bandage" width="160">
+<img src="../../images/icons/3244772462.png" alt="Cleaned Bandage" width="160">
 
 | | |
 |---|---|

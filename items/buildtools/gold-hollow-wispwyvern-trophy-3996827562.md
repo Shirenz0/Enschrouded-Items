@@ -1,6 +1,6 @@
 # Gold Hollow Wispwyvern Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Hollow Wispwyvern Trophy" width="160">
+<img src="../../images/icons/3996827562.png" alt="Gold Hollow Wispwyvern Trophy" width="160">
 
 | | |
 |---|---|

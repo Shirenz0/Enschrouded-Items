@@ -1,6 +1,6 @@
 # Algae Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Algae Seedling" width="160">
+<img src="../../images/icons/2411338569.png" alt="Algae Seedling" width="160">
 
 | | |
 |---|---|

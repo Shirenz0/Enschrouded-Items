@@ -1,6 +1,6 @@
 # Spider Gland
 
-<img src="../../images/categories/materials.svg" alt="Spider Gland" width="160">
+<img src="../../images/icons/1212327967.png" alt="Spider Gland" width="160">
 
 | | |
 |---|---|

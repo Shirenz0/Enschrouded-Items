@@ -1,6 +1,6 @@
 # Ancient Pomegranate Tarte
 
-<img src="../../images/categories/consumables.svg" alt="Ancient Pomegranate Tarte" width="160">
+<img src="../../images/icons/2202063914.png" alt="Ancient Pomegranate Tarte" width="160">
 
 | | |
 |---|---|

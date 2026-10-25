@@ -1,6 +1,6 @@
 # Gold Red Fell Critter Queen Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Red Fell Critter Queen Trophy" width="160">
+<img src="../../images/icons/3854402069.png" alt="Gold Red Fell Critter Queen Trophy" width="160">
 
 | | |
 |---|---|

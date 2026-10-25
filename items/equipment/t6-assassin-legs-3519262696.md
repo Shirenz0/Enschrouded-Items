@@ -1,6 +1,6 @@
 # T6 Assassin Legs
 
-<img src="../../images/categories/equipment.svg" alt="T6 Assassin Legs" width="160">
+<img src="../../images/icons/3519262696.png" alt="T6 Assassin Legs" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T4 sniper boots
 
-<img src="../../images/categories/equipment.svg" alt="T4 sniper boots" width="160">
+<img src="../../images/icons/345073573.png" alt="T4 sniper boots" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Bronze Scavenger Desert Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Scavenger Desert Heavy Trophy" width="160">
+<img src="../../images/icons/1452259523.png" alt="Bronze Scavenger Desert Heavy Trophy" width="160">
 
 | | |
 |---|---|

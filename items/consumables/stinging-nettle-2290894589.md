@@ -1,6 +1,6 @@
 # Stinging Nettle
 
-<img src="../../images/categories/consumables.svg" alt="Stinging Nettle" width="160">
+<img src="../../images/icons/2290894589.png" alt="Stinging Nettle" width="160">
 
 | | |
 |---|---|

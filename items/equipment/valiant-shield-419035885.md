@@ -1,6 +1,6 @@
 # Valiant Shield
 
-<img src="../../images/categories/equipment.svg" alt="Valiant Shield" width="160">
+<img src="../../images/icons/419035885.png" alt="Valiant Shield" width="160">
 
 | | |
 |---|---|

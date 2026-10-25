@@ -1,6 +1,6 @@
 # Bronze Pickaxe
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Pickaxe" width="160">
+<img src="../../images/icons/2410457699.png" alt="Bronze Pickaxe" width="160">
 
 | | |
 |---|---|

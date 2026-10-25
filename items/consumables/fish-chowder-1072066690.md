@@ -1,6 +1,6 @@
 # Fish Chowder
 
-<img src="../../images/categories/consumables.svg" alt="Fish Chowder" width="160">
+<img src="../../images/icons/1072066690.png" alt="Fish Chowder" width="160">
 
 | | |
 |---|---|

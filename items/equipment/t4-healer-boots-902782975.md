@@ -1,6 +1,6 @@
 # T4 Healer Boots
 
-<img src="../../images/categories/equipment.svg" alt="T4 Healer Boots" width="160">
+<img src="../../images/icons/902782975.png" alt="T4 Healer Boots" width="160">
 
 | | |
 |---|---|

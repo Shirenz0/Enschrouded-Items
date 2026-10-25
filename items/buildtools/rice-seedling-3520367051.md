@@ -1,6 +1,6 @@
 # Rice Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Rice Seedling" width="160">
+<img src="../../images/icons/3520367051.png" alt="Rice Seedling" width="160">
 
 | | |
 |---|---|

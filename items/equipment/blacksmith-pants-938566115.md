@@ -1,6 +1,6 @@
 # Blacksmith Pants
 
-<img src="../../images/categories/equipment.svg" alt="Blacksmith Pants" width="160">
+<img src="../../images/icons/938566115.png" alt="Blacksmith Pants" width="160">
 
 | | |
 |---|---|

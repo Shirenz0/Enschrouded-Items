@@ -1,6 +1,6 @@
 # Summer Games Gloves / arm bands
 
-<img src="../../images/categories/equipment.svg" alt="Summer Games Gloves / arm bands" width="160">
+<img src="../../images/icons/1064138195.png" alt="Summer Games Gloves / arm bands" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T5 Processed Fat Grilled Meat
 
-<img src="../../images/categories/consumables.svg" alt="T5 Processed Fat Grilled Meat" width="160">
+<img src="../../images/icons/31257423.png" alt="T5 Processed Fat Grilled Meat" width="160">
 
 | | |
 |---|---|

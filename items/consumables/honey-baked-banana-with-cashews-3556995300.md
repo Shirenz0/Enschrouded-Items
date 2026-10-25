@@ -1,6 +1,6 @@
 # Honey Baked Banana with Cashews
 
-<img src="../../images/categories/consumables.svg" alt="Honey Baked Banana with Cashews" width="160">
+<img src="../../images/icons/3556995300.png" alt="Honey Baked Banana with Cashews" width="160">
 
 | | |
 |---|---|

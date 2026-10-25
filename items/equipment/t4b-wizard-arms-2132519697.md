@@ -1,6 +1,6 @@
 # T4b Wizard Arms
 
-<img src="../../images/categories/equipment.svg" alt="T4b Wizard Arms" width="160">
+<img src="../../images/icons/2132519697.png" alt="T4b Wizard Arms" width="160">
 
 | | |
 |---|---|

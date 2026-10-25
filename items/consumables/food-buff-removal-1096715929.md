@@ -1,6 +1,6 @@
 # Food Buff Removal
 
-<img src="../../images/categories/consumables.svg" alt="Food Buff Removal" width="160">
+<img src="../../images/icons/1096715929.png" alt="Food Buff Removal" width="160">
 
 | | |
 |---|---|

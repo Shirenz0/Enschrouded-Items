@@ -1,6 +1,6 @@
 # Red Marble fragment
 
-<img src="../../images/categories/materials.svg" alt="Red Marble fragment" width="160">
+<img src="../../images/icons/2530601241.png" alt="Red Marble fragment" width="160">
 
 | | |
 |---|---|

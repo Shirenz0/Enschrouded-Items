@@ -1,6 +1,6 @@
 # T1 Palette 03 Brown dark grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T1 Palette 03 Brown dark grey" width="160">
+<img src="../../images/icons/103217131.png" alt="T1 Palette 03 Brown dark grey" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Large Fallgate made from steel
 
-<img src="../../images/categories/buildtools.svg" alt="Large Fallgate made from steel" width="160">
+<img src="../../images/icons/220941918.png" alt="Large Fallgate made from steel" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Roasted Corncob
 
-<img src="../../images/categories/consumables.svg" alt="Roasted Corncob" width="160">
+<img src="../../images/icons/4293773074.png" alt="Roasted Corncob" width="160">
 
 | | |
 |---|---|

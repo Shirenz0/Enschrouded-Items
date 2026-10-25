@@ -1,6 +1,6 @@
 # Channelled Water Tool
 
-<img src="../../images/categories/buildtools.svg" alt="Channelled Water Tool" width="160">
+<img src="../../images/icons/1053852637.png" alt="Channelled Water Tool" width="160">
 
 | | |
 |---|---|

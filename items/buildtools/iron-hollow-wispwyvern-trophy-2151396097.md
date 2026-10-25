@@ -1,6 +1,6 @@
 # Iron Hollow Wispwyvern Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Hollow Wispwyvern Trophy" width="160">
+<img src="../../images/icons/2151396097.png" alt="Iron Hollow Wispwyvern Trophy" width="160">
 
 | | |
 |---|---|

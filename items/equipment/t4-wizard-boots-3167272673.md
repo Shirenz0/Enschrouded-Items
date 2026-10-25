@@ -1,6 +1,6 @@
 # T4 Wizard Boots
 
-<img src="../../images/categories/equipment.svg" alt="T4 Wizard Boots" width="160">
+<img src="../../images/icons/3167272673.png" alt="T4 Wizard Boots" width="160">
 
 | | |
 |---|---|

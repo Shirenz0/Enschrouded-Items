@@ -1,6 +1,6 @@
 # Hero's Shield
 
-<img src="../../images/categories/equipment.svg" alt="Hero&#x27;s Shield" width="160">
+<img src="../../images/icons/3744513726.png" alt="Hero&#x27;s Shield" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Planetarium rings (outer)
 
-<img src="../../images/categories/collectibles.svg" alt="Planetarium rings (outer)" width="160">
+<img src="../../images/icons/2240876130.png" alt="Planetarium rings (outer)" width="160">
 
 | | |
 |---|---|

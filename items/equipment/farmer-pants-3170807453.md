@@ -1,6 +1,6 @@
 # Farmer Pants
 
-<img src="../../images/categories/equipment.svg" alt="Farmer Pants" width="160">
+<img src="../../images/icons/3170807453.png" alt="Farmer Pants" width="160">
 
 | | |
 |---|---|

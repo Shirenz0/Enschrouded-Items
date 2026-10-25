@@ -1,6 +1,6 @@
 # Greater Health Potion
 
-<img src="../../images/categories/consumables.svg" alt="Greater Health Potion" width="160">
+<img src="../../images/icons/3102924359.png" alt="Greater Health Potion" width="160">
 
 | | |
 |---|---|

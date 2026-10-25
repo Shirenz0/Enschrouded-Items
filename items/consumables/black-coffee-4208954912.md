@@ -1,6 +1,6 @@
 # Black Coffee
 
-<img src="../../images/categories/consumables.svg" alt="Black Coffee" width="160">
+<img src="../../images/icons/4208954912.png" alt="Black Coffee" width="160">
 
 | | |
 |---|---|

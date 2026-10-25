@@ -1,6 +1,6 @@
 # Alchemist Ring
 
-<img src="../../images/categories/equipment.svg" alt="Alchemist Ring" width="160">
+<img src="../../images/icons/93904474.png" alt="Alchemist Ring" width="160">
 
 | | |
 |---|---|

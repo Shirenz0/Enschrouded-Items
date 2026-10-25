@@ -1,6 +1,6 @@
 # Waves Of Valor
 
-<img src="../../images/categories/colorpalette.svg" alt="Waves Of Valor" width="160">
+<img src="../../images/icons/1365809698.png" alt="Waves Of Valor" width="160">
 
 | | |
 |---|---|

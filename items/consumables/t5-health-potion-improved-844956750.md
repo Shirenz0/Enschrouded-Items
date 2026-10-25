@@ -1,6 +1,6 @@
 # T5 Health Potion improved
 
-<img src="../../images/categories/consumables.svg" alt="T5 Health Potion improved" width="160">
+<img src="../../images/icons/844956750.png" alt="T5 Health Potion improved" width="160">
 
 | | |
 |---|---|

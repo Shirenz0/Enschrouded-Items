@@ -1,6 +1,6 @@
 # Underwater Mud
 
-<img src="../../images/categories/materials.svg" alt="Underwater Mud" width="160">
+<img src="../../images/icons/890360552.png" alt="Underwater Mud" width="160">
 
 | | |
 |---|---|

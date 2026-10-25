@@ -1,6 +1,6 @@
 # Cursed Fishing Rod
 
-<img src="../../images/categories/buildtools.svg" alt="Cursed Fishing Rod" width="160">
+<img src="../../images/icons/1815671523.png" alt="Cursed Fishing Rod" width="160">
 
 | | |
 |---|---|

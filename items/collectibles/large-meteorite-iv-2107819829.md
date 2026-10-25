@@ -1,6 +1,6 @@
 # Large Meteorite IV
 
-<img src="../../images/categories/collectibles.svg" alt="Large Meteorite IV" width="160">
+<img src="../../images/icons/2107819829.png" alt="Large Meteorite IV" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Scrappy Rake
 
-<img src="../../images/categories/buildtools.svg" alt="Scrappy Rake" width="160">
+<img src="../../images/icons/2176546463.png" alt="Scrappy Rake" width="160">
 
 | | |
 |---|---|

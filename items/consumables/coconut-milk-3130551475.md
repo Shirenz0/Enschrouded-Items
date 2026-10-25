@@ -1,6 +1,6 @@
 # Coconut Milk
 
-<img src="../../images/categories/consumables.svg" alt="Coconut Milk" width="160">
+<img src="../../images/icons/3130551475.png" alt="Coconut Milk" width="160">
 
 | | |
 |---|---|

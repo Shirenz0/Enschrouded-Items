@@ -1,6 +1,6 @@
 # Metal Sheets
 
-<img src="../../images/categories/materials.svg" alt="Metal Sheets" width="160">
+<img src="../../images/icons/4271896226.png" alt="Metal Sheets" width="160">
 
 | | |
 |---|---|

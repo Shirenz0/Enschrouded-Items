@@ -1,6 +1,6 @@
 # From Dusk Till Dawn
 
-<img src="../../images/categories/colorpalette.svg" alt="From Dusk Till Dawn" width="160">
+<img src="../../images/icons/1860080518.png" alt="From Dusk Till Dawn" width="160">
 
 | | |
 |---|---|

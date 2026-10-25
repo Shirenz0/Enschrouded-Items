@@ -1,6 +1,6 @@
 # Starter Shorts
 
-<img src="../../images/categories/equipment.svg" alt="Starter Shorts" width="160">
+<img src="../../images/icons/3972122124.png" alt="Starter Shorts" width="160">
 
 | | |
 |---|---|

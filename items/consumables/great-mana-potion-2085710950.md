@@ -1,6 +1,6 @@
 # Great Mana Potion
 
-<img src="../../images/categories/consumables.svg" alt="Great Mana Potion" width="160">
+<img src="../../images/icons/2085710950.png" alt="Great Mana Potion" width="160">
 
 | | |
 |---|---|

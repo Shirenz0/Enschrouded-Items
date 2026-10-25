@@ -1,6 +1,6 @@
 # Fog Survival Flask
 
-<img src="../../images/categories/consumables.svg" alt="Fog Survival Flask" width="160">
+<img src="../../images/icons/1782997504.png" alt="Fog Survival Flask" width="160">
 
 | | |
 |---|---|

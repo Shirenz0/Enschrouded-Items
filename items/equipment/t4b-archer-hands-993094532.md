@@ -1,6 +1,6 @@
 # T4b Archer Hands
 
-<img src="../../images/categories/equipment.svg" alt="T4b Archer Hands" width="160">
+<img src="../../images/icons/993094532.png" alt="T4b Archer Hands" width="160">
 
 | | |
 |---|---|

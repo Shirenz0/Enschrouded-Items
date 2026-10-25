@@ -1,6 +1,6 @@
 # T3 Archer Legs
 
-<img src="../../images/categories/equipment.svg" alt="T3 Archer Legs" width="160">
+<img src="../../images/icons/807077323.png" alt="T3 Archer Legs" width="160">
 
 | | |
 |---|---|

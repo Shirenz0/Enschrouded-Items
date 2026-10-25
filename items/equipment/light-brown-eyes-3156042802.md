@@ -1,6 +1,6 @@
 # Light Brown Eyes
 
-<img src="../../images/categories/equipment.svg" alt="Light Brown Eyes" width="160">
+<img src="../../images/icons/3156042802.png" alt="Light Brown Eyes" width="160">
 
 | | |
 |---|---|

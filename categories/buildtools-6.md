@@ -13,7 +13,7 @@
 | <img src="../images/icons/1541931029.png" width="48"> | [Wood Banister III](../items/buildtools/wood-banister-iii-1541931029.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2348338388.png" width="48"> | [Wood Banister VI](../items/buildtools/wood-banister-vi-2348338388.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3107844914.png" width="48"> | [Wood Bucket](../items/buildtools/wood-bucket-3107844914.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Wood Foundation](../items/buildtools/wood-foundation-591631065.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/591631065.png" width="48"> | [Wood Foundation](../items/buildtools/wood-foundation-591631065.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/2663529018.png" width="48"> | [Wood Wall I](../items/buildtools/wood-wall-i-2663529018.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1486741459.png" width="48"> | [Wood Wall II](../items/buildtools/wood-wall-ii-1486741459.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3671680423.png" width="48"> | [Wood Wall III](../items/buildtools/wood-wall-iii-3671680423.md) | ⚪ Common | - | 20 |
@@ -40,7 +40,7 @@
 | <img src="../images/icons/1714689703.png" width="48"> | [Wooden Palisade VII](../items/buildtools/wooden-palisade-vii-1714689703.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1753033300.png" width="48"> | [Wooden Palisade VIII](../items/buildtools/wooden-palisade-viii-1753033300.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3204610026.png" width="48"> | [Wooden Platter](../items/buildtools/wooden-platter-3204610026.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Wooden Rake](../items/buildtools/wooden-rake-2574733718.md) | ⚪ Common | 1 | 1 |
+| <img src="../images/icons/2574733718.png" width="48"> | [Wooden Rake](../items/buildtools/wooden-rake-2574733718.md) | ⚪ Common | 1 | 1 |
 | <img src="../images/icons/1030664241.png" width="48"> | [Wooden Window Frame](../items/buildtools/wooden-window-frame-1030664241.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1349537387.png" width="48"> | [Wooden Window Frame](../items/buildtools/wooden-window-frame-1349537387.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1998277725.png" width="48"> | [Workbench](../items/buildtools/workbench-1998277725.md) | ⚪ Common | - | 1 |
@@ -48,7 +48,7 @@
 | <img src="../images/icons/3583405641.png" width="48"> | [Yak Feeder](../items/buildtools/yak-feeder-3583405641.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2553641502.png" width="48"> | [Yellow Confetti Mortar](../items/buildtools/yellow-confetti-mortar-2553641502.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3125832694.png" width="48"> | [Yellow Cymbidum Flower Pot](../items/buildtools/yellow-cymbidum-flower-pot-3125832694.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Yellow Decorative Box](../items/buildtools/yellow-decorative-box-3931595905.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/3931595905.png" width="48"> | [Yellow Decorative Box](../items/buildtools/yellow-decorative-box-3931595905.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1212068557.png" width="48"> | [Yellow Flower Pot](../items/buildtools/yellow-flower-pot-1212068557.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1526921804.png" width="48"> | [Yellow Flower Pot](../items/buildtools/yellow-flower-pot-1526921804.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1594649719.png" width="48"> | [Yellow Flower Pot](../items/buildtools/yellow-flower-pot-1594649719.md) | ⚪ Common | - | 50 |

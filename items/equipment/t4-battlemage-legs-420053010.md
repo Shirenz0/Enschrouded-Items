@@ -1,6 +1,6 @@
 # T4 BattleMage Legs
 
-<img src="../../images/categories/equipment.svg" alt="T4 BattleMage Legs" width="160">
+<img src="../../images/icons/420053010.png" alt="T4 BattleMage Legs" width="160">
 
 | | |
 |---|---|

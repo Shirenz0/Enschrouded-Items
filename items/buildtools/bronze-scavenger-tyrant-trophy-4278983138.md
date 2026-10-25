@@ -1,6 +1,6 @@
 # Bronze Scavenger Tyrant Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Scavenger Tyrant Trophy" width="160">
+<img src="../../images/icons/4278983138.png" alt="Bronze Scavenger Tyrant Trophy" width="160">
 
 | | |
 |---|---|

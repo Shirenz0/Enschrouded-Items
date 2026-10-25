@@ -1,6 +1,6 @@
 # Shield of Light
 
-<img src="../../images/categories/equipment.svg" alt="Shield of Light" width="160">
+<img src="../../images/icons/3056575447.png" alt="Shield of Light" width="160">
 
 | | |
 |---|---|

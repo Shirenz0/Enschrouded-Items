@@ -1,6 +1,6 @@
 # T2 Lore Armor Fogger Chest
 
-<img src="../../images/categories/equipment.svg" alt="T2 Lore Armor Fogger Chest" width="160">
+<img src="../../images/icons/3266681262.png" alt="T2 Lore Armor Fogger Chest" width="160">
 
 | | |
 |---|---|

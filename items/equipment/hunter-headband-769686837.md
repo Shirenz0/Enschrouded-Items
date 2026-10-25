@@ -1,6 +1,6 @@
 # Hunter Headband
 
-<img src="../../images/categories/equipment.svg" alt="Hunter Headband" width="160">
+<img src="../../images/icons/769686837.png" alt="Hunter Headband" width="160">
 
 | | |
 |---|---|

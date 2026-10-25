@@ -1,6 +1,6 @@
 # Reed Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Reed Seedling" width="160">
+<img src="../../images/icons/2229826461.png" alt="Reed Seedling" width="160">
 
 | | |
 |---|---|

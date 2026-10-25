@@ -1,6 +1,6 @@
 # Blueberry Cake
 
-<img src="../../images/categories/consumables.svg" alt="Blueberry Cake" width="160">
+<img src="../../images/icons/65287689.png" alt="Blueberry Cake" width="160">
 
 | | |
 |---|---|

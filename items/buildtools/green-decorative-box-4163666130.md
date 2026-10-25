@@ -1,6 +1,6 @@
 # Green Decorative Box
 
-<img src="../../images/categories/buildtools.svg" alt="Green Decorative Box" width="160">
+<img src="../../images/icons/4163666130.png" alt="Green Decorative Box" width="160">
 
 | | |
 |---|---|

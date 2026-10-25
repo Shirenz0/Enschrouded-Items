@@ -1,6 +1,6 @@
 # Lumberer Gloves
 
-<img src="../../images/categories/equipment.svg" alt="Lumberer Gloves" width="160">
+<img src="../../images/icons/1443602914.png" alt="Lumberer Gloves" width="160">
 
 | | |
 |---|---|

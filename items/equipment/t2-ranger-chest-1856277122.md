@@ -1,6 +1,6 @@
 # T2 Ranger Chest
 
-<img src="../../images/categories/equipment.svg" alt="T2 Ranger Chest" width="160">
+<img src="../../images/icons/1856277122.png" alt="T2 Ranger Chest" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Light Brown Hair
 
-<img src="../../images/categories/equipment.svg" alt="Light Brown Hair" width="160">
+<img src="../../images/icons/3501502293.png" alt="Light Brown Hair" width="160">
 
 | | |
 |---|---|

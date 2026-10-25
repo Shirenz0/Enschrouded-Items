@@ -1,6 +1,6 @@
 # T4 Skeleton boots
 
-<img src="../../images/categories/equipment.svg" alt="T4 Skeleton boots" width="160">
+<img src="../../images/icons/407080337.png" alt="T4 Skeleton boots" width="160">
 
 | | |
 |---|---|

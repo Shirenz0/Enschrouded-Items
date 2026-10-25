@@ -1,6 +1,6 @@
 # T1 noble dress crown
 
-<img src="../../images/categories/equipment.svg" alt="T1 noble dress crown" width="160">
+<img src="../../images/icons/3948210071.png" alt="T1 noble dress crown" width="160">
 
 | | |
 |---|---|

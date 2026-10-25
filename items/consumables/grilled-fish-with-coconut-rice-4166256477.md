@@ -1,6 +1,6 @@
 # Grilled Fish with Coconut Rice
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Fish with Coconut Rice" width="160">
+<img src="../../images/icons/4166256477.png" alt="Grilled Fish with Coconut Rice" width="160">
 
 | | |
 |---|---|

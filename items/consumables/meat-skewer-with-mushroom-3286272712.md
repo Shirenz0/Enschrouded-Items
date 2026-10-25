@@ -1,6 +1,6 @@
 # Meat skewer with Mushroom
 
-<img src="../../images/categories/consumables.svg" alt="Meat skewer with Mushroom" width="160">
+<img src="../../images/icons/3286272712.png" alt="Meat skewer with Mushroom" width="160">
 
 | | |
 |---|---|

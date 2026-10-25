@@ -1,6 +1,6 @@
 # Hollow Heavy Hero Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Hollow Heavy Hero Trophy" width="160">
+<img src="../../images/icons/321715549.png" alt="Hollow Heavy Hero Trophy" width="160">
 
 | | |
 |---|---|

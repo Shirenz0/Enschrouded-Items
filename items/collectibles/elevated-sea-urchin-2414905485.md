@@ -1,6 +1,6 @@
 # Elevated Sea Urchin
 
-<img src="../../images/categories/collectibles.svg" alt="Elevated Sea Urchin" width="160">
+<img src="../../images/icons/2414905485.png" alt="Elevated Sea Urchin" width="160">
 
 | | |
 |---|---|

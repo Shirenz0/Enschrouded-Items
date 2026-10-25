@@ -1,6 +1,6 @@
 # Taro Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Taro Seedling" width="160">
+<img src="../../images/icons/3196395822.png" alt="Taro Seedling" width="160">
 
 | | |
 |---|---|

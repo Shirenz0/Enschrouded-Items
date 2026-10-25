@@ -1,6 +1,6 @@
 # Passionflower Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Passionflower Flower Pot" width="160">
+<img src="../../images/icons/3127704929.png" alt="Passionflower Flower Pot" width="160">
 
 | | |
 |---|---|

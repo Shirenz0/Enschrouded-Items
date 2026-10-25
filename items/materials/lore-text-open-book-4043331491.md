@@ -1,6 +1,6 @@
 # Lore Text Open Book
 
-<img src="../../images/categories/materials.svg" alt="Lore Text Open Book" width="160">
+<img src="../../images/icons/4043331491.png" alt="Lore Text Open Book" width="160">
 
 | | |
 |---|---|

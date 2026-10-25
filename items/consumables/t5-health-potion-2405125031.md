@@ -1,6 +1,6 @@
 # T5 Health potion
 
-<img src="../../images/categories/consumables.svg" alt="T5 Health potion" width="160">
+<img src="../../images/icons/2405125031.png" alt="T5 Health potion" width="160">
 
 | | |
 |---|---|

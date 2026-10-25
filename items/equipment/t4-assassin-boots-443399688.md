@@ -1,6 +1,6 @@
 # T4 Assassin Boots
 
-<img src="../../images/categories/equipment.svg" alt="T4 Assassin Boots" width="160">
+<img src="../../images/icons/443399688.png" alt="T4 Assassin Boots" width="160">
 
 | | |
 |---|---|

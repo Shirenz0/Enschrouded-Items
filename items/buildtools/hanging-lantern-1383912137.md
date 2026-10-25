@@ -1,6 +1,6 @@
 # Hanging Lantern
 
-<img src="../../images/categories/buildtools.svg" alt="Hanging Lantern" width="160">
+<img src="../../images/icons/1383912137.png" alt="Hanging Lantern" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Sigil Ring of the Elder Guard
 
-<img src="../../images/categories/equipment.svg" alt="Sigil Ring of the Elder Guard" width="160">
+<img src="../../images/icons/3368833635.png" alt="Sigil Ring of the Elder Guard" width="160">
 
 | | |
 |---|---|

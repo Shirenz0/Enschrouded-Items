@@ -1,6 +1,6 @@
 # Dried Banana Chips
 
-<img src="../../images/categories/consumables.svg" alt="Dried Banana Chips" width="160">
+<img src="../../images/icons/1717387680.png" alt="Dried Banana Chips" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Grilled Fish Rare 02
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Fish Rare 02" width="160">
+<img src="../../images/icons/2799925853.png" alt="Grilled Fish Rare 02" width="160">
 
 | | |
 |---|---|

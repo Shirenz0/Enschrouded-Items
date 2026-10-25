@@ -1,6 +1,6 @@
 # Tarpaulin Corner
 
-<img src="../../images/categories/buildtools.svg" alt="Tarpaulin Corner" width="160">
+<img src="../../images/icons/3580780628.png" alt="Tarpaulin Corner" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Ancient Construct: Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Construct: Heavy Trophy" width="160">
+<img src="../../images/icons/825905286.png" alt="Ancient Construct: Heavy Trophy" width="160">
 
 | | |
 |---|---|

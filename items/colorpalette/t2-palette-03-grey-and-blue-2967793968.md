@@ -1,6 +1,6 @@
 # T2 Palette 03 Grey and Blue
 
-<img src="../../images/categories/colorpalette.svg" alt="T2 Palette 03 Grey and Blue" width="160">
+<img src="../../images/icons/2967793968.png" alt="T2 Palette 03 Grey and Blue" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Jezmina's Yearwake Helmet
 
-<img src="../../images/categories/equipment.svg" alt="Jezmina&#x27;s Yearwake Helmet" width="160">
+<img src="../../images/icons/2848403787.png" alt="Jezmina&#x27;s Yearwake Helmet" width="160">
 
 | | |
 |---|---|

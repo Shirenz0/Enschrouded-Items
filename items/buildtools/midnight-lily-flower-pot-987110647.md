@@ -1,6 +1,6 @@
 # Midnight Lily Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Midnight Lily Flower Pot" width="160">
+<img src="../../images/icons/987110647.png" alt="Midnight Lily Flower Pot" width="160">
 
 | | |
 |---|---|

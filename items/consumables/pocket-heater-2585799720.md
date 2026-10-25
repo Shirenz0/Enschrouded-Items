@@ -1,6 +1,6 @@
 # Pocket Heater
 
-<img src="../../images/categories/consumables.svg" alt="Pocket Heater" width="160">
+<img src="../../images/icons/2585799720.png" alt="Pocket Heater" width="160">
 
 | | |
 |---|---|

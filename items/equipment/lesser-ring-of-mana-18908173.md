@@ -1,6 +1,6 @@
 # Lesser Ring of Mana
 
-<img src="../../images/categories/equipment.svg" alt="Lesser Ring of Mana" width="160">
+<img src="../../images/icons/18908173.png" alt="Lesser Ring of Mana" width="160">
 
 | | |
 |---|---|

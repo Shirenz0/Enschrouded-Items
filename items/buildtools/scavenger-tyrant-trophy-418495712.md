@@ -1,6 +1,6 @@
 # Scavenger Tyrant Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Scavenger Tyrant Trophy" width="160">
+<img src="../../images/icons/418495712.png" alt="Scavenger Tyrant Trophy" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Raw Sanddigger Meat
 
-<img src="../../images/categories/consumables.svg" alt="Raw Sanddigger Meat" width="160">
+<img src="../../images/icons/1460600097.png" alt="Raw Sanddigger Meat" width="160">
 
 | | |
 |---|---|

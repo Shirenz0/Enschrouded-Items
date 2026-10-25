@@ -1,6 +1,6 @@
 # Vanity Haloween2024 Outfit boots
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Haloween2024 Outfit boots" width="160">
+<img src="../../images/icons/4274321037.png" alt="Vanity Haloween2024 Outfit boots" width="160">
 
 | | |
 |---|---|

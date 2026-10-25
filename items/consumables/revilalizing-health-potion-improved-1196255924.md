@@ -1,6 +1,6 @@
 # Revilalizing Health Potion improved
 
-<img src="../../images/categories/consumables.svg" alt="Revilalizing Health Potion improved" width="160">
+<img src="../../images/icons/1196255924.png" alt="Revilalizing Health Potion improved" width="160">
 
 | | |
 |---|---|

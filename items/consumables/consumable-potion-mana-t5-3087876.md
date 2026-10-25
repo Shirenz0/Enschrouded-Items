@@ -1,6 +1,6 @@
 # Consumable Potion Mana T5
 
-<img src="../../images/categories/consumables.svg" alt="Consumable Potion Mana T5" width="160">
+<img src="../../images/icons/3087876.png" alt="Consumable Potion Mana T5" width="160">
 
 | | |
 |---|---|

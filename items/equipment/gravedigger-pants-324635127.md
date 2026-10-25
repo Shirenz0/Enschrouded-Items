@@ -1,6 +1,6 @@
 # Gravedigger Pants
 
-<img src="../../images/categories/equipment.svg" alt="Gravedigger Pants" width="160">
+<img src="../../images/icons/324635127.png" alt="Gravedigger Pants" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Turquoise Eyes
 
-<img src="../../images/categories/equipment.svg" alt="Turquoise Eyes" width="160">
+<img src="../../images/icons/3211638619.png" alt="Turquoise Eyes" width="160">
 
 | | |
 |---|---|

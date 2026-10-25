@@ -1,6 +1,6 @@
 # Ammonite Imprint
 
-<img src="../../images/categories/collectibles.svg" alt="Ammonite Imprint" width="160">
+<img src="../../images/icons/3891940532.png" alt="Ammonite Imprint" width="160">
 
 | | |
 |---|---|

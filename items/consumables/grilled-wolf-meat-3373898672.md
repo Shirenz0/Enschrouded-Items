@@ -1,6 +1,6 @@
 # Grilled Wolf Meat
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Wolf Meat" width="160">
+<img src="../../images/icons/3373898672.png" alt="Grilled Wolf Meat" width="160">
 
 | | |
 |---|---|

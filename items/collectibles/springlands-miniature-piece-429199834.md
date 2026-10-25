@@ -1,6 +1,6 @@
 # Springlands Miniature Piece
 
-<img src="../../images/categories/collectibles.svg" alt="Springlands Miniature Piece" width="160">
+<img src="../../images/icons/429199834.png" alt="Springlands Miniature Piece" width="160">
 
 | | |
 |---|---|

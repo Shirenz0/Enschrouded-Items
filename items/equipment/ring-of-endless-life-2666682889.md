@@ -1,6 +1,6 @@
 # Ring Of Endless Life
 
-<img src="../../images/categories/equipment.svg" alt="Ring Of Endless Life" width="160">
+<img src="../../images/icons/2666682889.png" alt="Ring Of Endless Life" width="160">
 
 | | |
 |---|---|

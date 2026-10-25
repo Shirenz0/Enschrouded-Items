@@ -1,6 +1,6 @@
 # Big Ammonite
 
-<img src="../../images/categories/collectibles.svg" alt="Big Ammonite" width="160">
+<img src="../../images/icons/3585387192.png" alt="Big Ammonite" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T4 Ranger Chest
 
-<img src="../../images/categories/equipment.svg" alt="T4 Ranger Chest" width="160">
+<img src="../../images/icons/1712284640.png" alt="T4 Ranger Chest" width="160">
 
 | | |
 |---|---|

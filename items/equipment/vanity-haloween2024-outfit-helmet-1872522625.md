@@ -1,6 +1,6 @@
 # Vanity Haloween2024 Outfit Helmet
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Haloween2024 Outfit Helmet" width="160">
+<img src="../../images/icons/1872522625.png" alt="Vanity Haloween2024 Outfit Helmet" width="160">
 
 | | |
 |---|---|

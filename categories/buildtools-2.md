@@ -28,10 +28,10 @@
 | <img src="../images/icons/654842831.png" width="48"> | [Cat Pillow](../items/buildtools/cat-pillow-654842831.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1195343032.png" width="48"> | [Catdeer](../items/buildtools/catdeer-1195343032.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/3555557294.png" width="48"> | [Catdeer Feeder](../items/buildtools/catdeer-feeder-3555557294.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Cattail Seedling](../items/buildtools/cattail-seedling-842838716.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/842838716.png" width="48"> | [Cattail Seedling](../items/buildtools/cattail-seedling-842838716.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/311508484.png" width="48"> | [Cauldron](../items/buildtools/cauldron-311508484.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/3119388545.png" width="48"> | [Cauldron](../items/buildtools/cauldron-3119388545.md) | ⚪ Common | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ceiling Lantern](../items/buildtools/ceiling-lantern-2231847922.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2231847922.png" width="48"> | [Ceiling Lantern](../items/buildtools/ceiling-lantern-2231847922.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/824995482.png" width="48"> | [Celestium Bowl](../items/buildtools/celestium-bowl-824995482.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/629640210.png" width="48"> | [Celestium Cup](../items/buildtools/celestium-cup-629640210.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3204624954.png" width="48"> | [Celestium Jug](../items/buildtools/celestium-jug-3204624954.md) | ⚪ Common | - | 50 |
@@ -44,7 +44,7 @@
 | <img src="../images/icons/1464322006.png" width="48"> | [Chandelier](../items/buildtools/chandelier-1464322006.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3129268711.png" width="48"> | [Chandelier](../items/buildtools/chandelier-3129268711.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4178847220.png" width="48"> | [Chandelier](../items/buildtools/chandelier-4178847220.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Channelled Water Tool](../items/buildtools/channelled-water-tool-1053852637.md) | 🟣 Epic | 40 | 1 |
+| <img src="../images/icons/1053852637.png" width="48"> | [Channelled Water Tool](../items/buildtools/channelled-water-tool-1053852637.md) | 🟣 Epic | 40 | 1 |
 | <img src="../images/icons/1783208373.png" width="48"> | [Chanterelle Seedling](../items/buildtools/chanterelle-seedling-1783208373.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/367322414.png" width="48"> | [Charcoal Kiln](../items/buildtools/charcoal-kiln-367322414.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/461254565.png" width="48"> | [Chemistry Set 01](../items/buildtools/chemistry-set-01-461254565.md) | ⚪ Common | - | 500 |
@@ -61,7 +61,7 @@
 | <img src="../images/icons/2130276313.png" width="48"> | [Clay Pot II](../items/buildtools/clay-pot-ii-2130276313.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/257051972.png" width="48"> | [Clay Pot III](../items/buildtools/clay-pot-iii-257051972.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/991797562.png" width="48"> | [Clay Pot IV](../items/buildtools/clay-pot-iv-991797562.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Clay tea Cup](../items/buildtools/clay-tea-cup-2487385039.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2487385039.png" width="48"> | [Clay tea Cup](../items/buildtools/clay-tea-cup-2487385039.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3982875414.png" width="48"> | [Clay Vase I](../items/buildtools/clay-vase-i-3982875414.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/781671616.png" width="48"> | [Clay Vase II](../items/buildtools/clay-vase-ii-781671616.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1447953213.png" width="48"> | [Clay Vase III](../items/buildtools/clay-vase-iii-1447953213.md) | ⚪ Common | - | 50 |
@@ -81,7 +81,7 @@
 | <img src="../images/icons/1732682352.png" width="48"> | [Collection Of Books II](../items/buildtools/collection-of-books-ii-1732682352.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/186386614.png" width="48"> | [Collection Of Books III](../items/buildtools/collection-of-books-iii-186386614.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/523691097.png" width="48"> | [Collection Of Books III](../items/buildtools/collection-of-books-iii-523691097.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Coloring Station](../items/buildtools/coloring-station-3229096192.md) | 🔵 Rare | - | 1 |
+| <img src="../images/icons/3229096192.png" width="48"> | [Coloring Station](../items/buildtools/coloring-station-3229096192.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2537359689.png" width="48"> | [Conifer Crate](../items/buildtools/conifer-crate-2537359689.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3904030989.png" width="48"> | [Conifer Crate](../items/buildtools/conifer-crate-3904030989.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/553841242.png" width="48"> | [Conifer Crate](../items/buildtools/conifer-crate-553841242.md) | ⚪ Common | - | 20 |
@@ -92,7 +92,7 @@
 | <img src="../images/icons/3608731525.png" width="48"> | [Copper Door](../items/buildtools/copper-door-3608731525.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1055652774.png" width="48"> | [Copper Fence](../items/buildtools/copper-fence-1055652774.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3860676568.png" width="48"> | [Copper Jug](../items/buildtools/copper-jug-3860676568.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Copper Pickaxe](../items/buildtools/copper-pickaxe-2671192505.md) | 🟢 Uncommon | 10 | 1 |
+| <img src="../images/icons/2671192505.png" width="48"> | [Copper Pickaxe](../items/buildtools/copper-pickaxe-2671192505.md) | 🟢 Uncommon | 10 | 1 |
 | <img src="../images/icons/815801972.png" width="48"> | [Copper Platter](../items/buildtools/copper-platter-815801972.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1595396826.png" width="48"> | [Coppern Double Door](../items/buildtools/coppern-double-door-1595396826.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3660770821.png" width="48"> | [Corn Seedling](../items/buildtools/corn-seedling-3660770821.md) | ⚪ Common | - | 100 |
@@ -114,8 +114,8 @@
 | <img src="../images/icons/977816684.png" width="48"> | [Crystal Jug](../items/buildtools/crystal-jug-977816684.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3225687185.png" width="48"> | [Crystal Platter](../items/buildtools/crystal-platter-3225687185.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2698582898.png" width="48"> | [Cultivation Rack](../items/buildtools/cultivation-rack-2698582898.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Cursed Fishing Rod](../items/buildtools/cursed-fishing-rod-1815671523.md) | 🟢 Uncommon | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Cyan Decorative Box](../items/buildtools/cyan-decorative-box-874980262.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/1815671523.png" width="48"> | [Cursed Fishing Rod](../items/buildtools/cursed-fishing-rod-1815671523.md) | 🟢 Uncommon | - | 1 |
+| <img src="../images/icons/874980262.png" width="48"> | [Cyan Decorative Box](../items/buildtools/cyan-decorative-box-874980262.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1564736216.png" width="48"> | [Cylindrical Pillow](../items/buildtools/cylindrical-pillow-1564736216.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3063700121.png" width="48"> | [Cylindrical Pillow](../items/buildtools/cylindrical-pillow-3063700121.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2703731966.png" width="48"> | [Date Palm Seedling](../items/buildtools/date-palm-seedling-2703731966.md) | ⚪ Common | - | 100 |
@@ -160,7 +160,7 @@
 | <img src="../images/icons/4076482688.png" width="48"> | [DLC SUpporter Warrior Banner Wall](../items/buildtools/dlc-supporter-warrior-banner-wall-4076482688.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1075741759.png" width="48"> | [Dog Bowl](../items/buildtools/dog-bowl-1075741759.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/885937007.png" width="48"> | [Dog Pillow](../items/buildtools/dog-pillow-885937007.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Door chinese New Year](../items/buildtools/door-chinese-new-year-2718386496.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2718386496.png" width="48"> | [Door chinese New Year](../items/buildtools/door-chinese-new-year-2718386496.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1453779109.png" width="48"> | [Door Talltree](../items/buildtools/door-talltree-1453779109.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1095180478.png" width="48"> | [Drak Relief Showcase](../items/buildtools/drak-relief-showcase-1095180478.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3340302763.png" width="48"> | [Drak Stone Totem I](../items/buildtools/drak-stone-totem-i-3340302763.md) | ⚪ Common | - | 20 |
@@ -182,7 +182,7 @@
 | <img src="../images/icons/1874208947.png" width="48"> | [Drak Wood Totem III](../items/buildtools/drak-wood-totem-iii-1874208947.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2468542740.png" width="48"> | [Drak Wood Totem IV](../items/buildtools/drak-wood-totem-iv-2468542740.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1898842260.png" width="48"> | [Drak Wood Totem V](../items/buildtools/drak-wood-totem-v-1898842260.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Drum](../items/buildtools/drum-2247014936.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/2247014936.png" width="48"> | [Drum](../items/buildtools/drum-2247014936.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/3513149511.png" width="48"> | [Drying Rack](../items/buildtools/drying-rack-3513149511.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1705873383.png" width="48"> | [Early Access Reward Badge](../items/buildtools/early-access-reward-badge-1705873383.md) | 🔵 Rare | - | 20 |
 | <img src="../images/icons/543168017.png" width="48"> | [Early Access Reward Book](../items/buildtools/early-access-reward-book-543168017.md) | 🔵 Rare | - | 20 |
@@ -210,12 +210,12 @@
 | <img src="../images/icons/3593229714.png" width="48"> | [Empty Lily Pot](../items/buildtools/empty-lily-pot-3593229714.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/30818586.png" width="48"> | [Enormous Magic Chest](../items/buildtools/enormous-magic-chest-30818586.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/3395224471.png" width="48"> | [Epic Dragon Brazier](../items/buildtools/epic-dragon-brazier-3395224471.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Excellent Fishing Rod](../items/buildtools/excellent-fishing-rod-2943277884.md) | 🟣 Epic | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Exceptional Drum](../items/buildtools/exceptional-drum-1325385401.md) | 🟣 Epic | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Exceptional Flute](../items/buildtools/exceptional-flute-4077419426.md) | 🟣 Epic | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Exceptional Harp](../items/buildtools/exceptional-harp-945847733.md) | 🟣 Epic | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Exceptional Lute](../items/buildtools/exceptional-lute-3302809729.md) | 🟣 Epic | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Exeptional Hang-Drum](../items/buildtools/exeptional-hang-drum-697485895.md) | 🟣 Epic | - | 1 |
+| <img src="../images/icons/2943277884.png" width="48"> | [Excellent Fishing Rod](../items/buildtools/excellent-fishing-rod-2943277884.md) | 🟣 Epic | - | 1 |
+| <img src="../images/icons/1325385401.png" width="48"> | [Exceptional Drum](../items/buildtools/exceptional-drum-1325385401.md) | 🟣 Epic | - | 1 |
+| <img src="../images/icons/4077419426.png" width="48"> | [Exceptional Flute](../items/buildtools/exceptional-flute-4077419426.md) | 🟣 Epic | - | 1 |
+| <img src="../images/icons/945847733.png" width="48"> | [Exceptional Harp](../items/buildtools/exceptional-harp-945847733.md) | 🟣 Epic | - | 1 |
+| <img src="../images/icons/3302809729.png" width="48"> | [Exceptional Lute](../items/buildtools/exceptional-lute-3302809729.md) | 🟣 Epic | - | 1 |
+| <img src="../images/icons/697485895.png" width="48"> | [Exeptional Hang-Drum](../items/buildtools/exeptional-hang-drum-697485895.md) | 🟣 Epic | - | 1 |
 | <img src="../images/icons/3462191401.png" width="48"> | [Explosive Barrel](../items/buildtools/explosive-barrel-3462191401.md) | ⚪ Common | - | 200 |
 | <img src="../images/icons/1936163292.png" width="48"> | [Fae Deer Pillow](../items/buildtools/fae-deer-pillow-1936163292.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3507499853.png" width="48"> | [Fae Deer Pillow](../items/buildtools/fae-deer-pillow-3507499853.md) | ⚪ Common | - | 50 |
@@ -232,7 +232,7 @@
 | <img src="../images/icons/2041116756.png" width="48"> | [Fallen Crypt Block](../items/buildtools/fallen-crypt-block-2041116756.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/2020294526.png" width="48"> | [Falsk Medium](../items/buildtools/falsk-medium-2020294526.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3627519922.png" width="48"> | [Fancy Stone Block](../items/buildtools/fancy-stone-block-3627519922.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Fell Critter Queen Trophy](../items/buildtools/fell-critter-queen-trophy-421729762.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/421729762.png" width="48"> | [Fell Critter Queen Trophy](../items/buildtools/fell-critter-queen-trophy-421729762.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/3983205690.png" width="48"> | [Fence Hollow Halls](../items/buildtools/fence-hollow-halls-3983205690.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1799390834.png" width="48"> | [Fence Hollow Halls Big](../items/buildtools/fence-hollow-halls-big-1799390834.md) | ⚪ Common | - | 50 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Fenrig Mills, Jr.](../items/buildtools/fenrig-mills-jr-1209217157.md) | 🔵 Rare | - | 1 |
@@ -240,18 +240,18 @@
 | <img src="../images/icons/1665119413.png" width="48"> | [Fern Pot](../items/buildtools/fern-pot-1665119413.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2019603203.png" width="48"> | [Fern Pot](../items/buildtools/fern-pot-2019603203.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/673405648.png" width="48"> | [Fern Pot](../items/buildtools/fern-pot-673405648.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Fine Drum](../items/buildtools/fine-drum-69172143.md) | 🔵 Rare | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Fine Flute](../items/buildtools/fine-flute-1353321355.md) | 🔵 Rare | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Fine Hang-Drum](../items/buildtools/fine-hang-drum-23035970.md) | 🔵 Rare | - | 1 |
+| <img src="../images/icons/69172143.png" width="48"> | [Fine Drum](../items/buildtools/fine-drum-69172143.md) | 🔵 Rare | - | 1 |
+| <img src="../images/icons/1353321355.png" width="48"> | [Fine Flute](../items/buildtools/fine-flute-1353321355.md) | 🔵 Rare | - | 1 |
+| <img src="../images/icons/23035970.png" width="48"> | [Fine Hang-Drum](../items/buildtools/fine-hang-drum-23035970.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/517818801.png" width="48"> | [Fine Hardwood Door](../items/buildtools/fine-hardwood-door-517818801.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/337744460.png" width="48"> | [Fine Hardwood Double Door](../items/buildtools/fine-hardwood-double-door-337744460.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Fine Lute](../items/buildtools/fine-lute-1094517700.md) | 🔵 Rare | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Fine Stone Fence](../items/buildtools/fine-stone-fence-2049249086.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/1094517700.png" width="48"> | [Fine Lute](../items/buildtools/fine-lute-1094517700.md) | 🔵 Rare | - | 1 |
+| <img src="../images/icons/2049249086.png" width="48"> | [Fine Stone Fence](../items/buildtools/fine-stone-fence-2049249086.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2278407208.png" width="48"> | [Fine Stone Fence](../items/buildtools/fine-stone-fence-2278407208.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2841036941.png" width="48"> | [Fine Stone Fence Pole](../items/buildtools/fine-stone-fence-pole-2841036941.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3166374248.png" width="48"> | [Fine Wooden Fence](../items/buildtools/fine-wooden-fence-3166374248.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3307829786.png" width="48"> | [Fine Wooden Fence](../items/buildtools/fine-wooden-fence-3307829786.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Fine Wooden Fence](../items/buildtools/fine-wooden-fence-703273030.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/703273030.png" width="48"> | [Fine Wooden Fence](../items/buildtools/fine-wooden-fence-703273030.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3618025467.png" width="48"> | [Fine Wooden Fence Pole](../items/buildtools/fine-wooden-fence-pole-3618025467.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/4080829941.png" width="48"> | [Fine Wooden Fence Pole](../items/buildtools/fine-wooden-fence-pole-4080829941.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/760996732.png" width="48"> | [Fine Wooden Handrail](../items/buildtools/fine-wooden-handrail-760996732.md) | ⚪ Common | - | 50 |
@@ -279,7 +279,7 @@
 | <img src="../images/icons/2979787678.png" width="48"> | [Floating](../items/buildtools/floating-2979787678.md) | 🟣 Epic | - | 20 |
 | <img src="../images/icons/439541859.png" width="48"> | [Flower Wreath](../items/buildtools/flower-wreath-439541859.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/627624860.png" width="48"> | [Flower Wreath](../items/buildtools/flower-wreath-627624860.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Flute](../items/buildtools/flute-2971345775.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/2971345775.png" width="48"> | [Flute](../items/buildtools/flute-2971345775.md) | ⚪ Common | - | 1 |
 | <img src="../images/categories/buildtools.svg" width="48"> | [Food Bunny Feeding](../items/buildtools/food-bunny-feeding-1674254183.md) | ⚪ Common | - | 200 |
 | <img src="../images/icons/1175242603.png" width="48"> | [Food Cat Feeeding](../items/buildtools/food-cat-feeeding-1175242603.md) | ⚪ Common | - | 200 |
 | <img src="../images/icons/2417128668.png" width="48"> | [Food Catdeer Feeding](../items/buildtools/food-catdeer-feeding-2417128668.md) | ⚪ Common | - | 200 |
@@ -299,9 +299,9 @@
 | <img src="../images/icons/1390027713.png" width="48"> | [Giant Telescope Base](../items/buildtools/giant-telescope-base-1390027713.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3672233769.png" width="48"> | [Gift Of Violence](../items/buildtools/gift-of-violence-3672233769.md) | 🟣 Epic | - | 20 |
 | <img src="../images/icons/3803006190.png" width="48"> | [Ginger Flower Pot](../items/buildtools/ginger-flower-pot-3803006190.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Ginger Seedling](../items/buildtools/ginger-seedling-2601152870.md) | ⚪ Common | - | 100 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Gleam Root Flower Pot](../items/buildtools/gleam-root-flower-pot-2027224453.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Glimmer Gentian Flower Pot](../items/buildtools/glimmer-gentian-flower-pot-3758178692.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2601152870.png" width="48"> | [Ginger Seedling](../items/buildtools/ginger-seedling-2601152870.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/2027224453.png" width="48"> | [Gleam Root Flower Pot](../items/buildtools/gleam-root-flower-pot-2027224453.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/3758178692.png" width="48"> | [Glimmer Gentian Flower Pot](../items/buildtools/glimmer-gentian-flower-pot-3758178692.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1589845330.png" width="48"> | [Globe](../items/buildtools/globe-1589845330.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/394551254.png" width="48"> | [Globe TwitchDrop](../items/buildtools/globe-twitchdrop-394551254.md) | ⚪ Common | - | 50 |
 

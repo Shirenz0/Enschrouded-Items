@@ -1,6 +1,6 @@
 # Warrior Supporter Boots
 
-<img src="../../images/categories/equipment.svg" alt="Warrior Supporter Boots" width="160">
+<img src="../../images/icons/3665238533.png" alt="Warrior Supporter Boots" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T3 Wizard Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T3 Wizard Helmet" width="160">
+<img src="../../images/icons/856255382.png" alt="T3 Wizard Helmet" width="160">
 
 | | |
 |---|---|

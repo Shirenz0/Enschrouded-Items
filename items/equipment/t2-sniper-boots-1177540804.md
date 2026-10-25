@@ -1,6 +1,6 @@
 # T2 Sniper Boots
 
-<img src="../../images/categories/equipment.svg" alt="T2 Sniper Boots" width="160">
+<img src="../../images/icons/1177540804.png" alt="T2 Sniper Boots" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Fertile AncientLand T7 Dirt
 
-<img src="../../images/categories/materials.svg" alt="Fertile AncientLand T7 Dirt" width="160">
+<img src="../../images/icons/4044361518.png" alt="Fertile AncientLand T7 Dirt" width="160">
 
 | | |
 |---|---|

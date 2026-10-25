@@ -1,6 +1,6 @@
 # Open Sandwich
 
-<img src="../../images/categories/consumables.svg" alt="Open Sandwich" width="160">
+<img src="../../images/icons/790393972.png" alt="Open Sandwich" width="160">
 
 | | |
 |---|---|

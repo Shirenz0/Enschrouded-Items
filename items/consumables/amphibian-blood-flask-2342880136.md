@@ -1,6 +1,6 @@
 # Amphibian Blood Flask
 
-<img src="../../images/categories/consumables.svg" alt="Amphibian Blood Flask" width="160">
+<img src="../../images/icons/2342880136.png" alt="Amphibian Blood Flask" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Dark Red Hair
 
-<img src="../../images/categories/equipment.svg" alt="Dark Red Hair" width="160">
+<img src="../../images/icons/1237349730.png" alt="Dark Red Hair" width="160">
 
 | | |
 |---|---|

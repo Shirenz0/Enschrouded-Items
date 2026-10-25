@@ -1,6 +1,6 @@
 # Light Red Hair
 
-<img src="../../images/categories/equipment.svg" alt="Light Red Hair" width="160">
+<img src="../../images/icons/2678894887.png" alt="Light Red Hair" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Meteorite I
 
-<img src="../../images/categories/collectibles.svg" alt="Meteorite I" width="160">
+<img src="../../images/icons/151670406.png" alt="Meteorite I" width="160">
 
 | | |
 |---|---|

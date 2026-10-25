@@ -1,6 +1,6 @@
 # Fog Meteor Shower
 
-<img src="../../images/categories/consumables.svg" alt="Fog Meteor Shower" width="160">
+<img src="../../images/icons/127804572.png" alt="Fog Meteor Shower" width="160">
 
 | | |
 |---|---|

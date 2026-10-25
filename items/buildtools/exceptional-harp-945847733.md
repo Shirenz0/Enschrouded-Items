@@ -1,6 +1,6 @@
 # Exceptional Harp
 
-<img src="../../images/categories/buildtools.svg" alt="Exceptional Harp" width="160">
+<img src="../../images/icons/945847733.png" alt="Exceptional Harp" width="160">
 
 | | |
 |---|---|

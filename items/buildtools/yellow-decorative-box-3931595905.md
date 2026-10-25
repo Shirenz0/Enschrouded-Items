@@ -1,6 +1,6 @@
 # Yellow Decorative Box
 
-<img src="../../images/categories/buildtools.svg" alt="Yellow Decorative Box" width="160">
+<img src="../../images/icons/3931595905.png" alt="Yellow Decorative Box" width="160">
 
 | | |
 |---|---|

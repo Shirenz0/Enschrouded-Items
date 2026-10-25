@@ -1,6 +1,6 @@
 # Ancient "Bean" Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient &quot;Bean&quot; Seedling" width="160">
+<img src="../../images/icons/2816539508.png" alt="Ancient &quot;Bean&quot; Seedling" width="160">
 
 | | |
 |---|---|

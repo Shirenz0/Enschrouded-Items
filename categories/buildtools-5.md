@@ -30,12 +30,12 @@
 | <img src="../images/icons/1216107588.png" width="48"> | [Standing Banner of the Ancients I](../items/buildtools/standing-banner-of-the-ancients-i-1216107588.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/914979767.png" width="48"> | [Standing Banner of the Ancients II](../items/buildtools/standing-banner-of-the-ancients-ii-914979767.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/220236323.png" width="48"> | [Standing Coffin](../items/buildtools/standing-coffin-220236323.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Standing Lantern](../items/buildtools/standing-lantern-3536879371.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/3536879371.png" width="48"> | [Standing Lantern](../items/buildtools/standing-lantern-3536879371.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1434999137.png" width="48"> | [Standing Target](../items/buildtools/standing-target-1434999137.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1191571537.png" width="48"> | [Standing Torch](../items/buildtools/standing-torch-1191571537.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/8841766.png" width="48"> | [Standing torch](../items/buildtools/standing-torch-8841766.md) | ⚪ Common | - | 1000 |
 | <img src="../images/icons/4054901860.png" width="48"> | [Standing Wooden Barrel](../items/buildtools/standing-wooden-barrel-4054901860.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Stapelia Starflower Flower Pot](../items/buildtools/stapelia-starflower-flower-pot-3447568951.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/3447568951.png" width="48"> | [Stapelia Starflower Flower Pot](../items/buildtools/stapelia-starflower-flower-pot-3447568951.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2380550747.png" width="48"> | [Statue](../items/buildtools/statue-2380550747.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4212724325.png" width="48"> | [Statue of Pikemead](../items/buildtools/statue-of-pikemead-4212724325.md) | 🟣 Epic | - | 20 |
 | <img src="../images/icons/1883375210.png" width="48"> | [Steel Fence](../items/buildtools/steel-fence-1883375210.md) | ⚪ Common | - | 50 |
@@ -51,7 +51,7 @@
 | <img src="../images/icons/3920861775.png" width="48"> | [Stone Floor Drain](../items/buildtools/stone-floor-drain-3920861775.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1818315440.png" width="48"> | [Stone Floor Secret](../items/buildtools/stone-floor-secret-1818315440.md) | 🔵 Rare | - | 50 |
 | <img src="../images/icons/1746907104.png" width="48"> | [Stone Handrail](../items/buildtools/stone-handrail-1746907104.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Stone Pickaxe](../items/buildtools/stone-pickaxe-623229764.md) | ⚪ Common | 1 | 1 |
+| <img src="../images/icons/623229764.png" width="48"> | [Stone Pickaxe](../items/buildtools/stone-pickaxe-623229764.md) | ⚪ Common | 1 | 1 |
 | <img src="../images/icons/1699388154.png" width="48"> | [Stone Shingle Block](../items/buildtools/stone-shingle-block-1699388154.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/1509264651.png" width="48"> | [Stone Stair I](../items/buildtools/stone-stair-i-1509264651.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2300763299.png" width="48"> | [Stone Stair II](../items/buildtools/stone-stair-ii-2300763299.md) | ⚪ Common | - | 20 |
@@ -131,8 +131,8 @@
 | <img src="../images/icons/1101637290.png" width="48"> | [T5 Prop Decoration Mirror Large](../items/buildtools/t5-prop-decoration-mirror-large-1101637290.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2659920887.png" width="48"> | [T5 Prop Decoration Mirror Large](../items/buildtools/t5-prop-decoration-mirror-large-2659920887.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/213165869.png" width="48"> | [T5 Prop Decoration Mirror Small](../items/buildtools/t5-prop-decoration-mirror-small-213165869.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [T5 Prop Decoration Ornate Door](../items/buildtools/t5-prop-decoration-ornate-door-2555652081.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [T5 Prop Decoration Ornate Double Door](../items/buildtools/t5-prop-decoration-ornate-double-door-2828800660.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2555652081.png" width="48"> | [T5 Prop Decoration Ornate Door](../items/buildtools/t5-prop-decoration-ornate-door-2555652081.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/2828800660.png" width="48"> | [T5 Prop Decoration Ornate Double Door](../items/buildtools/t5-prop-decoration-ornate-double-door-2828800660.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/863174638.png" width="48"> | [T5 Prop Decoration Round Steel Window](../items/buildtools/t5-prop-decoration-round-steel-window-863174638.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3300071272.png" width="48"> | [T5 Prop Decoration Round Steel Window Large](../items/buildtools/t5-prop-decoration-round-steel-window-large-3300071272.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/937001347.png" width="48"> | [T5 Prop Decoration Shelf](../items/buildtools/t5-prop-decoration-shelf-937001347.md) | ⚪ Common | - | 50 |
@@ -144,7 +144,7 @@
 | <img src="../images/icons/228876949.png" width="48"> | [T6 Lizard Temple Roof](../items/buildtools/t6-lizard-temple-roof-228876949.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/2670548968.png" width="48"> | [T6 Palm Leaf Roof](../items/buildtools/t6-palm-leaf-roof-2670548968.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/1253279979.png" width="48"> | [T6 Palmwood shellime plaster Pirate Bay Blocks](../items/buildtools/t6-palmwood-shellime-plaster-pirate-bay-blocks-1253279979.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [T6 Pickaxe Steel](../items/buildtools/t6-pickaxe-steel-1268331874.md) | 🔵 Rare | 40 | 1 |
+| <img src="../images/icons/1268331874.png" width="48"> | [T6 Pickaxe Steel](../items/buildtools/t6-pickaxe-steel-1268331874.md) | 🔵 Rare | 40 | 1 |
 | <img src="../images/icons/4234622287.png" width="48"> | [T6 Shellime Clay Shingles](../items/buildtools/t6-shellime-clay-shingles-4234622287.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/3575022075.png" width="48"> | [T6 Shelllime Wall Block Foundation](../items/buildtools/t6-shelllime-wall-block-foundation-3575022075.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/2587516407.png" width="48"> | [T6 Shelllime Wall Block Pirate Bay](../items/buildtools/t6-shelllime-wall-block-pirate-bay-2587516407.md) | ⚪ Common | - | 5000 |
@@ -169,9 +169,9 @@
 | <img src="../images/icons/366247640.png" width="48"> | [Talltree Table Small](../items/buildtools/talltree-table-small-366247640.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2901638773.png" width="48"> | [Tanning Station](../items/buildtools/tanning-station-2901638773.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/2364963880.png" width="48"> | [Taro Plant Pot](../items/buildtools/taro-plant-pot-2364963880.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Taro Seedling](../items/buildtools/taro-seedling-3196395822.md) | ⚪ Common | - | 100 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Tarpaulin](../items/buildtools/tarpaulin-2208569013.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Tarpaulin Corner](../items/buildtools/tarpaulin-corner-3580780628.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/3196395822.png" width="48"> | [Taro Seedling](../items/buildtools/taro-seedling-3196395822.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/2208569013.png" width="48"> | [Tarpaulin](../items/buildtools/tarpaulin-2208569013.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/3580780628.png" width="48"> | [Tarpaulin Corner](../items/buildtools/tarpaulin-corner-3580780628.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3502973158.png" width="48"> | [Tarred Shingle Block](../items/buildtools/tarred-shingle-block-3502973158.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/3389648330.png" width="48"> | [Tarred Straw Block](../items/buildtools/tarred-straw-block-3389648330.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/1856761753.png" width="48"> | [Tarred Wood Block](../items/buildtools/tarred-wood-block-1856761753.md) | ⚪ Common | - | 5000 |
@@ -183,7 +183,7 @@
 | <img src="../images/icons/678777236.png" width="48"> | [Throneroom Floor Lamp](../items/buildtools/throneroom-floor-lamp-678777236.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3411679342.png" width="48"> | [Throneroom Wall Brazier](../items/buildtools/throneroom-wall-brazier-3411679342.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2079216961.png" width="48"> | [Throneroom Wall Lamp](../items/buildtools/throneroom-wall-lamp-2079216961.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Thyme Seedling](../items/buildtools/thyme-seedling-3415410466.md) | ⚪ Common | - | 100 |
+| <img src="../images/icons/3415410466.png" width="48"> | [Thyme Seedling](../items/buildtools/thyme-seedling-3415410466.md) | ⚪ Common | - | 100 |
 | <img src="../images/icons/49320306.png" width="48"> | [Tiny Chest](../items/buildtools/tiny-chest-49320306.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/3136420737.png" width="48"> | [Toilet T1](../items/buildtools/toilet-t1-3136420737.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1715616386.png" width="48"> | [Toilet T3](../items/buildtools/toilet-t3-1715616386.md) | ⚪ Common | - | 50 |
@@ -229,13 +229,13 @@
 | <img src="../images/icons/3020325840.png" width="48"> | [Vat Of The Ancients II](../items/buildtools/vat-of-the-ancients-ii-3020325840.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1564592249.png" width="48"> | [Vat Of The Ancients III](../items/buildtools/vat-of-the-ancients-iii-1564592249.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/868088885.png" width="48"> | [Vat Of The Ancients IV](../items/buildtools/vat-of-the-ancients-iv-868088885.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Vault Door](../items/buildtools/vault-door-308070755.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/308070755.png" width="48"> | [Vault Door](../items/buildtools/vault-door-308070755.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/1847513367.png" width="48"> | [Vertical Banner I](../items/buildtools/vertical-banner-i-1847513367.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3490053092.png" width="48"> | [Vertical Banner II](../items/buildtools/vertical-banner-ii-3490053092.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3492878315.png" width="48"> | [Vertical Banner III](../items/buildtools/vertical-banner-iii-3492878315.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3401744803.png" width="48"> | [Vertical Banner IV](../items/buildtools/vertical-banner-iv-3401744803.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Violet Decorative Box](../items/buildtools/violet-decorative-box-2054426662.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Vorgoth Eye Trophy](../items/buildtools/vorgoth-eye-trophy-3568382178.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/2054426662.png" width="48"> | [Violet Decorative Box](../items/buildtools/violet-decorative-box-2054426662.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/3568382178.png" width="48"> | [Vorgoth Eye Trophy](../items/buildtools/vorgoth-eye-trophy-3568382178.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/2474769689.png" width="48"> | [Vorgoth's Broken Crown](../items/buildtools/vorgoth-s-broken-crown-2474769689.md) | 🔵 Rare | - | 1 |
 | <img src="../images/icons/1732202585.png" width="48"> | [Vukah shrine](../items/buildtools/vukah-shrine-1732202585.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3380780330.png" width="48"> | [Vukah Stones](../items/buildtools/vukah-stones-3380780330.md) | ⚪ Common | - | 5000 |
@@ -247,7 +247,7 @@
 | <img src="../images/icons/4089251356.png" width="48"> | [Wall Candle](../items/buildtools/wall-candle-4089251356.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2569698570.png" width="48"> | [Wall Emblem Diamond Shaped](../items/buildtools/wall-emblem-diamond-shaped-2569698570.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/2560383707.png" width="48"> | [Wall Lantern](../items/buildtools/wall-lantern-2560383707.md) | ⚪ Common | - | 50 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Wall Lantern](../items/buildtools/wall-lantern-3019273830.md) | ⚪ Common | - | 50 |
+| <img src="../images/icons/3019273830.png" width="48"> | [Wall Lantern](../items/buildtools/wall-lantern-3019273830.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3210866071.png" width="48"> | [Wall Sign](../items/buildtools/wall-sign-3210866071.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/500134615.png" width="48"> | [Wall Tapestry I](../items/buildtools/wall-tapestry-i-500134615.md) | ⚪ Common | - | 50 |
 | <img src="../images/icons/3696120404.png" width="48"> | [Wall Tapestry II](../items/buildtools/wall-tapestry-ii-3696120404.md) | ⚪ Common | - | 50 |
@@ -269,7 +269,7 @@
 | <img src="../images/icons/3704426916.png" width="48"> | [Water Barrier Wall](../items/buildtools/water-barrier-wall-3704426916.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4277569405.png" width="48"> | [Water Through](../items/buildtools/water-through-4277569405.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2136474329.png" width="48"> | [Water Well](../items/buildtools/water-well-2136474329.md) | 🔵 Rare | - | 1 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Watering Can](../items/buildtools/watering-can-2395034423.md) | ⚪ Common | - | 1 |
+| <img src="../images/icons/2395034423.png" width="48"> | [Watering Can](../items/buildtools/watering-can-2395034423.md) | ⚪ Common | - | 1 |
 | <img src="../images/icons/310129061.png" width="48"> | [Waterproof Stone Block](../items/buildtools/waterproof-stone-block-310129061.md) | ⚪ Common | - | 5000 |
 | <img src="../images/icons/683007667.png" width="48"> | [Weapon Stand Bow](../items/buildtools/weapon-stand-bow-683007667.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2712983143.png" width="48"> | [Weapon Stand Daggers](../items/buildtools/weapon-stand-daggers-2712983143.md) | ⚪ Common | - | 20 |
@@ -278,8 +278,8 @@
 | <img src="../images/icons/2278451732.png" width="48"> | [Weapon Stand Shield](../items/buildtools/weapon-stand-shield-2278451732.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/4280504432.png" width="48"> | [Weapon Stand Staff](../items/buildtools/weapon-stand-staff-4280504432.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/3448122060.png" width="48"> | [Weapon Stand Sword & Shield](../items/buildtools/weapon-stand-sword-shield-3448122060.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Weapon Stand Wall Bow & Arrow](../items/buildtools/weapon-stand-wall-bow-arrow-3327140200.md) | ⚪ Common | - | 20 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Weapon Stand Wall Daggers](../items/buildtools/weapon-stand-wall-daggers-3309720680.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/3327140200.png" width="48"> | [Weapon Stand Wall Bow & Arrow](../items/buildtools/weapon-stand-wall-bow-arrow-3327140200.md) | ⚪ Common | - | 20 |
+| <img src="../images/icons/3309720680.png" width="48"> | [Weapon Stand Wall Daggers](../items/buildtools/weapon-stand-wall-daggers-3309720680.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1827133762.png" width="48"> | [Weapon Stand Wall melee 1Hand](../items/buildtools/weapon-stand-wall-melee-1hand-1827133762.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2147884182.png" width="48"> | [Weapon Stand Wall melee 2Hand](../items/buildtools/weapon-stand-wall-melee-2hand-2147884182.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/218667503.png" width="48"> | [Weapon Stand Wall Shield](../items/buildtools/weapon-stand-wall-shield-218667503.md) | ⚪ Common | - | 20 |
@@ -287,7 +287,7 @@
 | <img src="../images/icons/1441144617.png" width="48"> | [Weapon Stand Wall Wand](../items/buildtools/weapon-stand-wall-wand-1441144617.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/2369083236.png" width="48"> | [Weapon Stand Wand](../items/buildtools/weapon-stand-wand-2369083236.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/1406367026.png" width="48"> | [Weathered Stone Block](../items/buildtools/weathered-stone-block-1406367026.md) | ⚪ Common | - | 5000 |
-| <img src="../images/categories/buildtools.svg" width="48"> | [Werewolf Trophy](../items/buildtools/werewolf-trophy-3646011305.md) | 🔵 Rare | - | 10 |
+| <img src="../images/icons/3646011305.png" width="48"> | [Werewolf Trophy](../items/buildtools/werewolf-trophy-3646011305.md) | 🔵 Rare | - | 10 |
 | <img src="../images/icons/1030788931.png" width="48"> | [Wetland Boardwalk](../items/buildtools/wetland-boardwalk-1030788931.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/123726817.png" width="48"> | [Wetland Boardwalk](../items/buildtools/wetland-boardwalk-123726817.md) | ⚪ Common | - | 20 |
 | <img src="../images/icons/33507171.png" width="48"> | [Wetland Boardwalk](../items/buildtools/wetland-boardwalk-33507171.md) | ⚪ Common | - | 20 |

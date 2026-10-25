@@ -1,6 +1,6 @@
 # Standing Lantern
 
-<img src="../../images/categories/buildtools.svg" alt="Standing Lantern" width="160">
+<img src="../../images/icons/3536879371.png" alt="Standing Lantern" width="160">
 
 | | |
 |---|---|

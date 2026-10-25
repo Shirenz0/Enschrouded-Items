@@ -1,6 +1,6 @@
 # T3 Wizard Boots
 
-<img src="../../images/categories/equipment.svg" alt="T3 Wizard Boots" width="160">
+<img src="../../images/icons/173909852.png" alt="T3 Wizard Boots" width="160">
 
 | | |
 |---|---|

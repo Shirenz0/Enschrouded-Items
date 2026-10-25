@@ -1,6 +1,6 @@
 # Iron Pickaxe
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Pickaxe" width="160">
+<img src="../../images/icons/1345456437.png" alt="Iron Pickaxe" width="160">
 
 | | |
 |---|---|

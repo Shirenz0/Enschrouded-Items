@@ -1,6 +1,6 @@
 # Gold Hydrak'Dal Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Hydrak&#x27;Dal Trophy" width="160">
+<img src="../../images/icons/973320971.png" alt="Gold Hydrak&#x27;Dal Trophy" width="160">
 
 | | |
 |---|---|

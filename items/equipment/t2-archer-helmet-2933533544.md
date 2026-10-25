@@ -1,6 +1,6 @@
 # T2 Archer Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T2 Archer Helmet" width="160">
+<img src="../../images/icons/2933533544.png" alt="T2 Archer Helmet" width="160">
 
 | | |
 |---|---|

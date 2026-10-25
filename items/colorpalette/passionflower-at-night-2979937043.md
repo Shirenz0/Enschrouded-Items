@@ -1,6 +1,6 @@
 # Passionflower at night
 
-<img src="../../images/categories/colorpalette.svg" alt="Passionflower at night" width="160">
+<img src="../../images/icons/2979937043.png" alt="Passionflower at night" width="160">
 
 | | |
 |---|---|

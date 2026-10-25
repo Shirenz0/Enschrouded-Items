@@ -1,6 +1,6 @@
 # Meteorite II
 
-<img src="../../images/categories/collectibles.svg" alt="Meteorite II" width="160">
+<img src="../../images/icons/3160910629.png" alt="Meteorite II" width="160">
 
 | | |
 |---|---|

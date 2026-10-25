@@ -1,6 +1,6 @@
 # Regalia of the Blood Rose Boots
 
-<img src="../../images/categories/equipment.svg" alt="Regalia of the Blood Rose Boots" width="160">
+<img src="../../images/icons/2730010681.png" alt="Regalia of the Blood Rose Boots" width="160">
 
 | | |
 |---|---|

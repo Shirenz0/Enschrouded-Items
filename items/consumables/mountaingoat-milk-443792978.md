@@ -1,6 +1,6 @@
 # Mountaingoat Milk
 
-<img src="../../images/categories/consumables.svg" alt="Mountaingoat Milk" width="160">
+<img src="../../images/icons/443792978.png" alt="Mountaingoat Milk" width="160">
 
 | | |
 |---|---|

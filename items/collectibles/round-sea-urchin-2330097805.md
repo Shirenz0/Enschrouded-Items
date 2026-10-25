@@ -1,6 +1,6 @@
 # Round Sea Urchin
 
-<img src="../../images/categories/collectibles.svg" alt="Round Sea Urchin" width="160">
+<img src="../../images/icons/2330097805.png" alt="Round Sea Urchin" width="160">
 
 | | |
 |---|---|

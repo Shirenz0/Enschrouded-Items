@@ -1,6 +1,6 @@
 # Cashew Apple
 
-<img src="../../images/categories/consumables.svg" alt="Cashew Apple" width="160">
+<img src="../../images/icons/3005548183.png" alt="Cashew Apple" width="160">
 
 | | |
 |---|---|

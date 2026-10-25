@@ -1,6 +1,6 @@
 # T4 Ranger Boots
 
-<img src="../../images/categories/equipment.svg" alt="T4 Ranger Boots" width="160">
+<img src="../../images/icons/3486210573.png" alt="T4 Ranger Boots" width="160">
 
 | | |
 |---|---|

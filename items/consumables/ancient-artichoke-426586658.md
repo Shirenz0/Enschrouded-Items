@@ -1,6 +1,6 @@
 # Ancient "Artichoke"
 
-<img src="../../images/categories/consumables.svg" alt="Ancient &quot;Artichoke&quot;" width="160">
+<img src="../../images/icons/426586658.png" alt="Ancient &quot;Artichoke&quot;" width="160">
 
 | | |
 |---|---|

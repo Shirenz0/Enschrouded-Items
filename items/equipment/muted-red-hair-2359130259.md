@@ -1,6 +1,6 @@
 # Muted Red Hair
 
-<img src="../../images/categories/equipment.svg" alt="Muted Red Hair" width="160">
+<img src="../../images/icons/2359130259.png" alt="Muted Red Hair" width="160">
 
 | | |
 |---|---|

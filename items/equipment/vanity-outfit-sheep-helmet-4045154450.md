@@ -1,6 +1,6 @@
 # Vanity Outfit Sheep helmet
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Outfit Sheep helmet" width="160">
+<img src="../../images/icons/4045154450.png" alt="Vanity Outfit Sheep helmet" width="160">
 
 | | |
 |---|---|

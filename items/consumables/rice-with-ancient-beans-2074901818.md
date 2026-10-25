@@ -1,6 +1,6 @@
 # Rice with ancient "beans"
 
-<img src="../../images/categories/consumables.svg" alt="Rice with ancient &quot;beans&quot;" width="160">
+<img src="../../images/icons/2074901818.png" alt="Rice with ancient &quot;beans&quot;" width="160">
 
 | | |
 |---|---|

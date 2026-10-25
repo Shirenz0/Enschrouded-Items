@@ -1,6 +1,6 @@
 # Jezmina's Yearwake Pants
 
-<img src="../../images/categories/equipment.svg" alt="Jezmina&#x27;s Yearwake Pants" width="160">
+<img src="../../images/icons/2273370026.png" alt="Jezmina&#x27;s Yearwake Pants" width="160">
 
 | | |
 |---|---|

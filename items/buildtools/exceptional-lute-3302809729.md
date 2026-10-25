@@ -1,6 +1,6 @@
 # Exceptional Lute
 
-<img src="../../images/categories/buildtools.svg" alt="Exceptional Lute" width="160">
+<img src="../../images/icons/3302809729.png" alt="Exceptional Lute" width="160">
 
 | | |
 |---|---|

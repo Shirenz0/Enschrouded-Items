@@ -1,6 +1,6 @@
 # Vanity Haloween2024 Outfit leg
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Haloween2024 Outfit leg" width="160">
+<img src="../../images/icons/1987039042.png" alt="Vanity Haloween2024 Outfit leg" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T4b Archer Legs
 
-<img src="../../images/categories/equipment.svg" alt="T4b Archer Legs" width="160">
+<img src="../../images/icons/2292265005.png" alt="T4b Archer Legs" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gravedigger Garb
 
-<img src="../../images/categories/equipment.svg" alt="Gravedigger Garb" width="160">
+<img src="../../images/icons/3646353094.png" alt="Gravedigger Garb" width="160">
 
 | | |
 |---|---|

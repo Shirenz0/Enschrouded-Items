@@ -1,6 +1,6 @@
 # Grilled Fish Uncommon 03
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Fish Uncommon 03" width="160">
+<img src="../../images/icons/1452092217.png" alt="Grilled Fish Uncommon 03" width="160">
 
 | | |
 |---|---|

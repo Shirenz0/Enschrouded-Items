@@ -1,6 +1,6 @@
 # Superiour Ring of Stamina
 
-<img src="../../images/categories/equipment.svg" alt="Superiour Ring of Stamina" width="160">
+<img src="../../images/icons/2688863491.png" alt="Superiour Ring of Stamina" width="160">
 
 | | |
 |---|---|

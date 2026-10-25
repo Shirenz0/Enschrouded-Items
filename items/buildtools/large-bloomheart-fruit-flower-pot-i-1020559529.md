@@ -1,6 +1,6 @@
 # Large Bloomheart Fruit Flower Pot I
 
-<img src="../../images/categories/buildtools.svg" alt="Large Bloomheart Fruit Flower Pot I" width="160">
+<img src="../../images/icons/1020559529.png" alt="Large Bloomheart Fruit Flower Pot I" width="160">
 
 | | |
 |---|---|

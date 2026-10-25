@@ -1,6 +1,6 @@
 # T2 Lore Armor Fogger Legs
 
-<img src="../../images/categories/equipment.svg" alt="T2 Lore Armor Fogger Legs" width="160">
+<img src="../../images/icons/1339461029.png" alt="T2 Lore Armor Fogger Legs" width="160">
 
 | | |
 |---|---|

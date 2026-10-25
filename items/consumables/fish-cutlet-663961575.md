@@ -1,6 +1,6 @@
 # Fish Cutlet
 
-<img src="../../images/categories/consumables.svg" alt="Fish Cutlet" width="160">
+<img src="../../images/icons/663961575.png" alt="Fish Cutlet" width="160">
 
 | | |
 |---|---|

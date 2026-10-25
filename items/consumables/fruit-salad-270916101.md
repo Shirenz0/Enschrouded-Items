@@ -1,6 +1,6 @@
 # Fruit Salad
 
-<img src="../../images/categories/consumables.svg" alt="Fruit Salad" width="160">
+<img src="../../images/icons/270916101.png" alt="Fruit Salad" width="160">
 
 | | |
 |---|---|

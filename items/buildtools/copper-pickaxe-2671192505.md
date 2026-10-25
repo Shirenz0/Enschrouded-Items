@@ -1,6 +1,6 @@
 # Copper Pickaxe
 
-<img src="../../images/categories/buildtools.svg" alt="Copper Pickaxe" width="160">
+<img src="../../images/icons/2671192505.png" alt="Copper Pickaxe" width="160">
 
 | | |
 |---|---|

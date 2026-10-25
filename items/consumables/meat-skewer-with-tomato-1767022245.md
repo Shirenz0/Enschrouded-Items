@@ -1,6 +1,6 @@
 # Meat Skewer with Tomato
 
-<img src="../../images/categories/consumables.svg" alt="Meat Skewer with Tomato" width="160">
+<img src="../../images/icons/1767022245.png" alt="Meat Skewer with Tomato" width="160">
 
 | | |
 |---|---|

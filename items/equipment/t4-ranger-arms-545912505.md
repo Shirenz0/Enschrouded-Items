@@ -1,6 +1,6 @@
 # T4 Ranger Arms
 
-<img src="../../images/categories/equipment.svg" alt="T4 Ranger Arms" width="160">
+<img src="../../images/icons/545912505.png" alt="T4 Ranger Arms" width="160">
 
 | | |
 |---|---|

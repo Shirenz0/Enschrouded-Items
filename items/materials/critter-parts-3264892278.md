@@ -1,6 +1,6 @@
 # Critter Parts
 
-<img src="../../images/categories/materials.svg" alt="Critter Parts" width="160">
+<img src="../../images/icons/3264892278.png" alt="Critter Parts" width="160">
 
 | | |
 |---|---|

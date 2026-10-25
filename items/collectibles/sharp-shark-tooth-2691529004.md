@@ -1,6 +1,6 @@
 # Sharp Shark Tooth
 
-<img src="../../images/categories/collectibles.svg" alt="Sharp Shark Tooth" width="160">
+<img src="../../images/icons/2691529004.png" alt="Sharp Shark Tooth" width="160">
 
 | | |
 |---|---|

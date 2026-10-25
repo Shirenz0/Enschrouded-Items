@@ -1,6 +1,6 @@
 # Muted Green Hair
 
-<img src="../../images/categories/equipment.svg" alt="Muted Green Hair" width="160">
+<img src="../../images/icons/1752339147.png" alt="Muted Green Hair" width="160">
 
 | | |
 |---|---|

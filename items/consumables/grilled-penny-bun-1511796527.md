@@ -1,6 +1,6 @@
 # Grilled Penny Bun
 
-<img src="../../images/categories/consumables.svg" alt="Grilled Penny Bun" width="160">
+<img src="../../images/icons/1511796527.png" alt="Grilled Penny Bun" width="160">
 
 | | |
 |---|---|

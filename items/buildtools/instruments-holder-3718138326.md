@@ -1,6 +1,6 @@
 # Instruments holder
 
-<img src="../../images/categories/buildtools.svg" alt="Instruments holder" width="160">
+<img src="../../images/icons/3718138326.png" alt="Instruments holder" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T6 Ring of Stamina
 
-<img src="../../images/categories/equipment.svg" alt="T6 Ring of Stamina" width="160">
+<img src="../../images/icons/4079983357.png" alt="T6 Ring of Stamina" width="160">
 
 | | |
 |---|---|

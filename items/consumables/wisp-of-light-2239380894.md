@@ -1,6 +1,6 @@
 # Wisp of Light
 
-<img src="../../images/categories/consumables.svg" alt="Wisp of Light" width="160">
+<img src="../../images/icons/2239380894.png" alt="Wisp of Light" width="160">
 
 | | |
 |---|---|

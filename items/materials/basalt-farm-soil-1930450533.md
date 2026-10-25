@@ -1,6 +1,6 @@
 # Basalt Farm Soil
 
-<img src="../../images/categories/materials.svg" alt="Basalt Farm Soil" width="160">
+<img src="../../images/icons/1930450533.png" alt="Basalt Farm Soil" width="160">
 
 | | |
 |---|---|

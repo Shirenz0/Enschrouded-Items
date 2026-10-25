@@ -1,6 +1,6 @@
 # Incredible Ward
 
-<img src="../../images/categories/equipment.svg" alt="Incredible Ward" width="160">
+<img src="../../images/icons/1499977347.png" alt="Incredible Ward" width="160">
 
 | | |
 |---|---|

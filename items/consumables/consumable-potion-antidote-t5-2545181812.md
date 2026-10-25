@@ -1,6 +1,6 @@
 # Consumable Potion Antidote T5
 
-<img src="../../images/categories/consumables.svg" alt="Consumable Potion Antidote T5" width="160">
+<img src="../../images/icons/2545181812.png" alt="Consumable Potion Antidote T5" width="160">
 
 | | |
 |---|---|

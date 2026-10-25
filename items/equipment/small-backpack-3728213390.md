@@ -1,6 +1,6 @@
 # Small Backpack
 
-<img src="../../images/categories/equipment.svg" alt="Small Backpack" width="160">
+<img src="../../images/icons/3728213390.png" alt="Small Backpack" width="160">
 
 | | |
 |---|---|

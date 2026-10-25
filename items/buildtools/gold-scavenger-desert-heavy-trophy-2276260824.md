@@ -1,6 +1,6 @@
 # Gold Scavenger Desert Heavy Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Scavenger Desert Heavy Trophy" width="160">
+<img src="../../images/icons/2276260824.png" alt="Gold Scavenger Desert Heavy Trophy" width="160">
 
 | | |
 |---|---|

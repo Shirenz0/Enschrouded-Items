@@ -1,6 +1,6 @@
 # Ginger Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Ginger Seedling" width="160">
+<img src="../../images/icons/2601152870.png" alt="Ginger Seedling" width="160">
 
 | | |
 |---|---|

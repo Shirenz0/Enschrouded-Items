@@ -1,6 +1,6 @@
 # Warrior Fog Protection Armor
 
-<img src="../../images/categories/equipment.svg" alt="Warrior Fog Protection Armor" width="160">
+<img src="../../images/icons/147265330.png" alt="Warrior Fog Protection Armor" width="160">
 
 | | |
 |---|---|

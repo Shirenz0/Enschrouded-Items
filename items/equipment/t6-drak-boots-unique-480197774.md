@@ -1,6 +1,6 @@
 # T6 Drak Boots - Unique
 
-<img src="../../images/categories/equipment.svg" alt="T6 Drak Boots - Unique" width="160">
+<img src="../../images/icons/480197774.png" alt="T6 Drak Boots - Unique" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Mushroom Flesh
 
-<img src="../../images/categories/materials.svg" alt="Mushroom Flesh" width="160">
+<img src="../../images/icons/2479098085.png" alt="Mushroom Flesh" width="160">
 
 | | |
 |---|---|

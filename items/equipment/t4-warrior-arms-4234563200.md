@@ -1,6 +1,6 @@
 # T4 Warrior Arms
 
-<img src="../../images/categories/equipment.svg" alt="T4 Warrior Arms" width="160">
+<img src="../../images/icons/4234563200.png" alt="T4 Warrior Arms" width="160">
 
 | | |
 |---|---|

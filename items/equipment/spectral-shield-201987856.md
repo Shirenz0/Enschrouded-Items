@@ -1,6 +1,6 @@
 # Spectral Shield
 
-<img src="../../images/categories/equipment.svg" alt="Spectral Shield" width="160">
+<img src="../../images/icons/201987856.png" alt="Spectral Shield" width="160">
 
 | | |
 |---|---|

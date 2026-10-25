@@ -1,6 +1,6 @@
 # T2 Healer Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T2 Healer Helmet" width="160">
+<img src="../../images/icons/628018019.png" alt="T2 Healer Helmet" width="160">
 
 | | |
 |---|---|

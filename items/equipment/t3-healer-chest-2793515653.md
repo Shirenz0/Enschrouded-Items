@@ -1,6 +1,6 @@
 # T3 Healer Chest
 
-<img src="../../images/categories/equipment.svg" alt="T3 Healer Chest" width="160">
+<img src="../../images/icons/2793515653.png" alt="T3 Healer Chest" width="160">
 
 | | |
 |---|---|

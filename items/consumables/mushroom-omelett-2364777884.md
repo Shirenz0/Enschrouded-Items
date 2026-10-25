@@ -1,6 +1,6 @@
 # Mushroom Omelett
 
-<img src="../../images/categories/consumables.svg" alt="Mushroom Omelett" width="160">
+<img src="../../images/icons/2364777884.png" alt="Mushroom Omelett" width="160">
 
 | | |
 |---|---|

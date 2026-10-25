@@ -1,6 +1,6 @@
 # Yellows Eyes
 
-<img src="../../images/categories/equipment.svg" alt="Yellows Eyes" width="160">
+<img src="../../images/icons/1254060378.png" alt="Yellows Eyes" width="160">
 
 | | |
 |---|---|

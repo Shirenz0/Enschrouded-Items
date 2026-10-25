@@ -1,6 +1,6 @@
 # Wall Lantern
 
-<img src="../../images/categories/buildtools.svg" alt="Wall Lantern" width="160">
+<img src="../../images/icons/3019273830.png" alt="Wall Lantern" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Blackmire Heartwood
 
-<img src="../../images/categories/materials.svg" alt="Blackmire Heartwood" width="160">
+<img src="../../images/icons/1745782985.png" alt="Blackmire Heartwood" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T4 Nightplant Wrap
 
-<img src="../../images/categories/consumables.svg" alt="T4 Nightplant Wrap" width="160">
+<img src="../../images/icons/2661195564.png" alt="T4 Nightplant Wrap" width="160">
 
 | | |
 |---|---|

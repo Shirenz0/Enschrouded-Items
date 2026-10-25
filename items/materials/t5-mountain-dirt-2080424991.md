@@ -1,6 +1,6 @@
 # T5 Mountain Dirt
 
-<img src="../../images/categories/materials.svg" alt="T5 Mountain Dirt" width="160">
+<img src="../../images/icons/2080424991.png" alt="T5 Mountain Dirt" width="160">
 
 | | |
 |---|---|

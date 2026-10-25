@@ -1,6 +1,6 @@
 # T3 Ranger Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T3 Ranger Helmet" width="160">
+<img src="../../images/icons/1025627126.png" alt="T3 Ranger Helmet" width="160">
 
 | | |
 |---|---|

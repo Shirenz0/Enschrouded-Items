@@ -1,6 +1,6 @@
 # T4 Assassin Legs
 
-<img src="../../images/categories/equipment.svg" alt="T4 Assassin Legs" width="160">
+<img src="../../images/icons/887413477.png" alt="T4 Assassin Legs" width="160">
 
 | | |
 |---|---|

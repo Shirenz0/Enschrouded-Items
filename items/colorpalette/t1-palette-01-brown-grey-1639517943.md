@@ -1,6 +1,6 @@
 # T1 Palette 01 Brown Grey
 
-<img src="../../images/categories/colorpalette.svg" alt="T1 Palette 01 Brown Grey" width="160">
+<img src="../../images/icons/1639517943.png" alt="T1 Palette 01 Brown Grey" width="160">
 
 | | |
 |---|---|

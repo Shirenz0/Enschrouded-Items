@@ -1,6 +1,6 @@
 # Swim Sprint Stamina Reduction Flask
 
-<img src="../../images/categories/consumables.svg" alt="Swim Sprint Stamina Reduction Flask" width="160">
+<img src="../../images/icons/3254225118.png" alt="Swim Sprint Stamina Reduction Flask" width="160">
 
 | | |
 |---|---|

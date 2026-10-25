@@ -1,6 +1,6 @@
 # T4b Archer Boots
 
-<img src="../../images/categories/equipment.svg" alt="T4b Archer Boots" width="160">
+<img src="../../images/icons/3982243037.png" alt="T4b Archer Boots" width="160">
 
 | | |
 |---|---|

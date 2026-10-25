@@ -1,6 +1,6 @@
 # Meteorite III
 
-<img src="../../images/categories/collectibles.svg" alt="Meteorite III" width="160">
+<img src="../../images/icons/3364880867.png" alt="Meteorite III" width="160">
 
 | | |
 |---|---|

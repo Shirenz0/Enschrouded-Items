@@ -1,6 +1,6 @@
 # T6 Pickaxe Steel
 
-<img src="../../images/categories/buildtools.svg" alt="T6 Pickaxe Steel" width="160">
+<img src="../../images/icons/1268331874.png" alt="T6 Pickaxe Steel" width="160">
 
 | | |
 |---|---|

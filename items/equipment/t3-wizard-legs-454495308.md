@@ -1,6 +1,6 @@
 # T3 Wizard Legs
 
-<img src="../../images/categories/equipment.svg" alt="T3 Wizard Legs" width="160">
+<img src="../../images/icons/454495308.png" alt="T3 Wizard Legs" width="160">
 
 | | |
 |---|---|

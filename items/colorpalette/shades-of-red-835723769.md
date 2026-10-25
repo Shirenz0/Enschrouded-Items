@@ -1,6 +1,6 @@
 # Shades Of Red
 
-<img src="../../images/categories/colorpalette.svg" alt="Shades Of Red" width="160">
+<img src="../../images/icons/835723769.png" alt="Shades Of Red" width="160">
 
 | | |
 |---|---|

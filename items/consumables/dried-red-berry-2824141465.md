@@ -1,6 +1,6 @@
 # Dried Red Berry
 
-<img src="../../images/categories/consumables.svg" alt="Dried Red Berry" width="160">
+<img src="../../images/icons/2824141465.png" alt="Dried Red Berry" width="160">
 
 | | |
 |---|---|

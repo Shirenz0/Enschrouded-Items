@@ -1,6 +1,6 @@
 # Soup Of Blue Light
 
-<img src="../../images/categories/consumables.svg" alt="Soup Of Blue Light" width="160">
+<img src="../../images/icons/574360589.png" alt="Soup Of Blue Light" width="160">
 
 | | |
 |---|---|

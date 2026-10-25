@@ -1,6 +1,6 @@
 # Pinewood Double Door with silver ornaments
 
-<img src="../../images/categories/buildtools.svg" alt="Pinewood Double Door with silver ornaments" width="160">
+<img src="../../images/icons/1652824178.png" alt="Pinewood Double Door with silver ornaments" width="160">
 
 | | |
 |---|---|

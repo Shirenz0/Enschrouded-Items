@@ -1,6 +1,6 @@
 # Meat Skewer with Hazelnut
 
-<img src="../../images/categories/consumables.svg" alt="Meat Skewer with Hazelnut" width="160">
+<img src="../../images/icons/3366430041.png" alt="Meat Skewer with Hazelnut" width="160">
 
 | | |
 |---|---|

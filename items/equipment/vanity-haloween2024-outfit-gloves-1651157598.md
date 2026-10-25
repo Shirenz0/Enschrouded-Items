@@ -1,6 +1,6 @@
 # Vanity Haloween2024 Outfit gloves
 
-<img src="../../images/categories/equipment.svg" alt="Vanity Haloween2024 Outfit gloves" width="160">
+<img src="../../images/icons/1651157598.png" alt="Vanity Haloween2024 Outfit gloves" width="160">
 
 | | |
 |---|---|

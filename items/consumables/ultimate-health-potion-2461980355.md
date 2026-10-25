@@ -1,6 +1,6 @@
 # Ultimate Health Potion +
 
-<img src="../../images/categories/consumables.svg" alt="Ultimate Health Potion +" width="160">
+<img src="../../images/icons/2461980355.png" alt="Ultimate Health Potion +" width="160">
 
 | | |
 |---|---|

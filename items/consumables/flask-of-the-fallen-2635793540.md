@@ -1,6 +1,6 @@
 # Flask of the Fallen
 
-<img src="../../images/categories/consumables.svg" alt="Flask of the Fallen" width="160">
+<img src="../../images/icons/2635793540.png" alt="Flask of the Fallen" width="160">
 
 | | |
 |---|---|

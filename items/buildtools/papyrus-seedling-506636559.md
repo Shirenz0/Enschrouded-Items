@@ -1,6 +1,6 @@
 # Papyrus Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Papyrus Seedling" width="160">
+<img src="../../images/icons/506636559.png" alt="Papyrus Seedling" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Calla Luna Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Calla Luna Flower Pot" width="160">
+<img src="../../images/icons/2908822452.png" alt="Calla Luna Flower Pot" width="160">
 
 | | |
 |---|---|

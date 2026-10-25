@@ -1,6 +1,6 @@
 # Vorgoth's Crown
 
-<img src="../../images/categories/equipment.svg" alt="Vorgoth&#x27;s Crown" width="160">
+<img src="../../images/icons/876665028.png" alt="Vorgoth&#x27;s Crown" width="160">
 
 | | |
 |---|---|

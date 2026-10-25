@@ -1,6 +1,6 @@
 # T3 Healer Helmet
 
-<img src="../../images/categories/equipment.svg" alt="T3 Healer Helmet" width="160">
+<img src="../../images/icons/2431930862.png" alt="T3 Healer Helmet" width="160">
 
 | | |
 |---|---|

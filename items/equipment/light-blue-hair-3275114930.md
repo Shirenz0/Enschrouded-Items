@@ -1,6 +1,6 @@
 # Light Blue Hair
 
-<img src="../../images/categories/equipment.svg" alt="Light Blue Hair" width="160">
+<img src="../../images/icons/3275114930.png" alt="Light Blue Hair" width="160">
 
 | | |
 |---|---|
