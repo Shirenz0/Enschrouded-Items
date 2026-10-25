@@ -1,6 +1,6 @@
 # Huge Coffin Lid
 
-<img src="../../images/categories/buildtools.svg" alt="Huge Coffin Lid" width="160">
+<img src="../../images/icons/1624408583.png" alt="Huge Coffin Lid" width="160">
 
 | | |
 |---|---|

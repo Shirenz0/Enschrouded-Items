@@ -1,6 +1,6 @@
 # Blue Wall Banner II
 
-<img src="../../images/categories/buildtools.svg" alt="Blue Wall Banner II" width="160">
+<img src="../../images/icons/614525060.png" alt="Blue Wall Banner II" width="160">
 
 | | |
 |---|---|

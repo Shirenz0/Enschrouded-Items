@@ -1,6 +1,6 @@
 # Saffron Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Saffron Seedling" width="160">
+<img src="../../images/icons/1419248088.png" alt="Saffron Seedling" width="160">
 
 | | |
 |---|---|

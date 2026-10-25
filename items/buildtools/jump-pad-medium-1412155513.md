@@ -1,6 +1,6 @@
 # Jump Pad Medium
 
-<img src="../../images/categories/buildtools.svg" alt="Jump Pad Medium" width="160">
+<img src="../../images/icons/1412155513.png" alt="Jump Pad Medium" width="160">
 
 | | |
 |---|---|

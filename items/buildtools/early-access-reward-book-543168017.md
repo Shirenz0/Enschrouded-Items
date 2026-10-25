@@ -1,6 +1,6 @@
 # Early Access Reward Book
 
-<img src="../../images/categories/buildtools.svg" alt="Early Access Reward Book" width="160">
+<img src="../../images/icons/543168017.png" alt="Early Access Reward Book" width="160">
 
 | | |
 |---|---|

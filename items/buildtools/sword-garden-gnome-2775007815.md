@@ -1,6 +1,6 @@
 # Sword Garden Gnome
 
-<img src="../../images/categories/buildtools.svg" alt="Sword Garden Gnome" width="160">
+<img src="../../images/icons/2775007815.png" alt="Sword Garden Gnome" width="160">
 
 | | |
 |---|---|

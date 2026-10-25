@@ -1,6 +1,6 @@
 # Large Bamboo Basket
 
-<img src="../../images/categories/buildtools.svg" alt="Large Bamboo Basket" width="160">
+<img src="../../images/icons/3541979658.png" alt="Large Bamboo Basket" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Large Castle Table
 
-<img src="../../images/categories/buildtools.svg" alt="Large Castle Table" width="160">
+<img src="../../images/icons/519779949.png" alt="Large Castle Table" width="160">
 
 | | |
 |---|---|

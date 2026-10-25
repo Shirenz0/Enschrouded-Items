@@ -1,6 +1,6 @@
 # Empty Flower Pot VII
 
-<img src="../../images/categories/buildtools.svg" alt="Empty Flower Pot VII" width="160">
+<img src="../../images/icons/101823326.png" alt="Empty Flower Pot VII" width="160">
 
 | | |
 |---|---|

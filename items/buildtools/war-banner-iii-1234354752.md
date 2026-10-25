@@ -1,6 +1,6 @@
 # War Banner III
 
-<img src="../../images/categories/buildtools.svg" alt="War Banner III" width="160">
+<img src="../../images/icons/1234354752.png" alt="War Banner III" width="160">
 
 | | |
 |---|---|

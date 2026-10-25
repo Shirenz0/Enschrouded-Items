@@ -1,6 +1,6 @@
 # Planetarium
 
-<img src="../../images/categories/buildtools.svg" alt="Planetarium" width="160">
+<img src="../../images/icons/724156552.png" alt="Planetarium" width="160">
 
 | | |
 |---|---|

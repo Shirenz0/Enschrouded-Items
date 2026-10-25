@@ -1,6 +1,6 @@
 # Hunter's Ring
 
-<img src="../../images/categories/equipment.svg" alt="Hunter's Ring" width="160">
+<img src="../../images/categories/equipment.svg" alt="Hunter&#x27;s Ring" width="160">
 
 | | |
 |---|---|

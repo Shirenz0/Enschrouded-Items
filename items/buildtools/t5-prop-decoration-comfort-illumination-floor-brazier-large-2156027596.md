@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Illumination Floor Brazier Large
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Illumination Floor Brazier Large" width="160">
+<img src="../../images/icons/2156027596.png" alt="T5 Prop Decoration Comfort Illumination Floor Brazier Large" width="160">
 
 | | |
 |---|---|

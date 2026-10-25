@@ -1,6 +1,6 @@
 # T5 Prop Decoration Cabinet Medium
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Cabinet Medium" width="160">
+<img src="../../images/icons/695777106.png" alt="T5 Prop Decoration Cabinet Medium" width="160">
 
 | | |
 |---|---|

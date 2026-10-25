@@ -1,6 +1,6 @@
 # Weapon Stand Wall Staff
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Wall Staff" width="160">
+<img src="../../images/icons/1093351843.png" alt="Weapon Stand Wall Staff" width="160">
 
 | | |
 |---|---|

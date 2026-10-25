@@ -1,6 +1,6 @@
 # Wooden Palisade VII
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Palisade VII" width="160">
+<img src="../../images/icons/1714689703.png" alt="Wooden Palisade VII" width="160">
 
 | | |
 |---|---|

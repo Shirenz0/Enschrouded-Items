@@ -1,6 +1,6 @@
 # Trapdoor wood 2m
 
-<img src="../../images/categories/buildtools.svg" alt="Trapdoor wood 2m" width="160">
+<img src="../../images/icons/2263742516.png" alt="Trapdoor wood 2m" width="160">
 
 | | |
 |---|---|

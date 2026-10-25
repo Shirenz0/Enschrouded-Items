@@ -1,6 +1,6 @@
 # Hydrak'Dal Head
 
-<img src="../../images/categories/materials.svg" alt="Hydrak'Dal Head" width="160">
+<img src="../../images/categories/materials.svg" alt="Hydrak&#x27;Dal Head" width="160">
 
 | | |
 |---|---|

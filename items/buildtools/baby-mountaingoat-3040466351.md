@@ -1,6 +1,6 @@
 # Baby Mountaingoat
 
-<img src="../../images/categories/buildtools.svg" alt="Baby Mountaingoat" width="160">
+<img src="../../images/icons/3040466351.png" alt="Baby Mountaingoat" width="160">
 
 | | |
 |---|---|

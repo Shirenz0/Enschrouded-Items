@@ -1,6 +1,6 @@
 # Hand Spindle
 
-<img src="../../images/categories/buildtools.svg" alt="Hand Spindle" width="160">
+<img src="../../images/icons/1594637042.png" alt="Hand Spindle" width="160">
 
 | | |
 |---|---|

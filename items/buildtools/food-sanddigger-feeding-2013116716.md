@@ -1,6 +1,6 @@
 # Food Sanddigger Feeding
 
-<img src="../../images/categories/buildtools.svg" alt="Food Sanddigger Feeding" width="160">
+<img src="../../images/icons/2013116716.png" alt="Food Sanddigger Feeding" width="160">
 
 | | |
 |---|---|

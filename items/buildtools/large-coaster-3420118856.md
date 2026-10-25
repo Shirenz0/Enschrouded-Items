@@ -1,6 +1,6 @@
 # Large Coaster
 
-<img src="../../images/categories/buildtools.svg" alt="Large Coaster" width="160">
+<img src="../../images/icons/3420118856.png" alt="Large Coaster" width="160">
 
 | | |
 |---|---|

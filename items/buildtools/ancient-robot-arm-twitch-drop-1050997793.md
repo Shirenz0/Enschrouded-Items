@@ -1,6 +1,6 @@
 # Ancient Robot Arm Twitch Drop
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Robot Arm Twitch Drop" width="160">
+<img src="../../images/icons/1050997793.png" alt="Ancient Robot Arm Twitch Drop" width="160">
 
 | | |
 |---|---|

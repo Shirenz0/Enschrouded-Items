@@ -1,6 +1,6 @@
 # Talltree Table Small
 
-<img src="../../images/categories/buildtools.svg" alt="Talltree Table Small" width="160">
+<img src="../../images/icons/366247640.png" alt="Talltree Table Small" width="160">
 
 | | |
 |---|---|

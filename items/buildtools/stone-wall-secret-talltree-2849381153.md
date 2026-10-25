@@ -1,6 +1,6 @@
 # Stone Wall Secret TallTree
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Wall Secret TallTree" width="160">
+<img src="../../images/icons/2849381153.png" alt="Stone Wall Secret TallTree" width="160">
 
 | | |
 |---|---|

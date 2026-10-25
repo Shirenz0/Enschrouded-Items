@@ -1,6 +1,6 @@
 # Scavanger Bonfire
 
-<img src="../../images/categories/buildtools.svg" alt="Scavanger Bonfire" width="160">
+<img src="../../images/icons/106014299.png" alt="Scavanger Bonfire" width="160">
 
 | | |
 |---|---|

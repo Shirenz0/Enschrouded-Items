@@ -1,6 +1,6 @@
 # Fine Wooden Handrail
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Wooden Handrail" width="160">
+<img src="../../images/icons/760996732.png" alt="Fine Wooden Handrail" width="160">
 
 | | |
 |---|---|

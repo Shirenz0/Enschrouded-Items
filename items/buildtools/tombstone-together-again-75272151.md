@@ -1,6 +1,6 @@
 # Tombstone "Together Again"
 
-<img src="../../images/categories/buildtools.svg" alt="Tombstone "Together Again"" width="160">
+<img src="../../images/icons/75272151.png" alt="Tombstone &quot;Together Again&quot;" width="160">
 
 | | |
 |---|---|

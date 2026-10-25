@@ -1,6 +1,6 @@
 # Mannequin "Look At Me"
 
-<img src="../../images/categories/buildtools.svg" alt="Mannequin "Look At Me"" width="160">
+<img src="../../images/icons/320245652.png" alt="Mannequin &quot;Look At Me&quot;" width="160">
 
 | | |
 |---|---|

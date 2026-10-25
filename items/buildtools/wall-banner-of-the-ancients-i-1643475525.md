@@ -1,6 +1,6 @@
 # Wall Banner of the Ancients I
 
-<img src="../../images/categories/buildtools.svg" alt="Wall Banner of the Ancients I" width="160">
+<img src="../../images/icons/1643475525.png" alt="Wall Banner of the Ancients I" width="160">
 
 | | |
 |---|---|

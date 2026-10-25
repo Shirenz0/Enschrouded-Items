@@ -1,6 +1,6 @@
 # Flower Wreath
 
-<img src="../../images/categories/buildtools.svg" alt="Flower Wreath" width="160">
+<img src="../../images/icons/627624860.png" alt="Flower Wreath" width="160">
 
 | | |
 |---|---|

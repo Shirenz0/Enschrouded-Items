@@ -1,6 +1,6 @@
 # Pepper Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Pepper Seedling" width="160">
+<img src="../../images/icons/2330783516.png" alt="Pepper Seedling" width="160">
 
 | | |
 |---|---|

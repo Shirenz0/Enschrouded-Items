@@ -1,6 +1,6 @@
 # Scientific Instruments
 
-<img src="../../images/categories/buildtools.svg" alt="Scientific Instruments" width="160">
+<img src="../../images/icons/895710916.png" alt="Scientific Instruments" width="160">
 
 | | |
 |---|---|

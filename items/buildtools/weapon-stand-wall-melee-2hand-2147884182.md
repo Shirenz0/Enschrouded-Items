@@ -1,6 +1,6 @@
 # Weapon Stand Wall melee 2Hand
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Wall melee 2Hand" width="160">
+<img src="../../images/icons/2147884182.png" alt="Weapon Stand Wall melee 2Hand" width="160">
 
 | | |
 |---|---|

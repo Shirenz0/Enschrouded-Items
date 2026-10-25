@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Table Medium
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Table Medium" width="160">
+<img src="../../images/icons/1082994550.png" alt="T5 Prop Decoration Comfort Table Medium" width="160">
 
 | | |
 |---|---|

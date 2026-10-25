@@ -1,6 +1,6 @@
 # Large Golden Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="Large Golden Window Frame" width="160">
+<img src="../../images/icons/3511498168.png" alt="Large Golden Window Frame" width="160">
 
 | | |
 |---|---|

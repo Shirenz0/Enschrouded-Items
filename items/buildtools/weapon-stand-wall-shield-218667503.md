@@ -1,6 +1,6 @@
 # Weapon Stand Wall Shield
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Wall Shield" width="160">
+<img src="../../images/icons/218667503.png" alt="Weapon Stand Wall Shield" width="160">
 
 | | |
 |---|---|

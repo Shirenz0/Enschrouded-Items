@@ -1,6 +1,6 @@
 # High Ornamented Stone Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="High Ornamented Stone Window Frame" width="160">
+<img src="../../images/icons/3881994599.png" alt="High Ornamented Stone Window Frame" width="160">
 
 | | |
 |---|---|

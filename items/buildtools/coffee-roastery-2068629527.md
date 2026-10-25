@@ -1,6 +1,6 @@
 # Coffee Roastery
 
-<img src="../../images/categories/buildtools.svg" alt="Coffee Roastery" width="160">
+<img src="../../images/icons/2068629527.png" alt="Coffee Roastery" width="160">
 
 | | |
 |---|---|

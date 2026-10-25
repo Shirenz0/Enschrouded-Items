@@ -1,6 +1,6 @@
 # Wall Doorframe
 
-<img src="../../images/categories/blueprints.svg" alt="Wall Doorframe" width="160">
+<img src="../../images/icons/2697997511.png" alt="Wall Doorframe" width="160">
 
 | | |
 |---|---|

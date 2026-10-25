@@ -1,6 +1,6 @@
 # Fake Secret Stairs
 
-<img src="../../images/categories/buildtools.svg" alt="Fake Secret Stairs" width="160">
+<img src="../../images/icons/1305097602.png" alt="Fake Secret Stairs" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Medium Monstera Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Medium Monstera Plant Pot" width="160">
+<img src="../../images/icons/1666087652.png" alt="Medium Monstera Plant Pot" width="160">
 
 | | |
 |---|---|

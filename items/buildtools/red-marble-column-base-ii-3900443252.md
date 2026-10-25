@@ -1,6 +1,6 @@
 # Red Marble Column Base II
 
-<img src="../../images/categories/buildtools.svg" alt="Red Marble Column Base II" width="160">
+<img src="../../images/icons/3900443252.png" alt="Red Marble Column Base II" width="160">
 
 | | |
 |---|---|

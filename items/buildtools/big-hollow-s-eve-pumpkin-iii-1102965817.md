@@ -1,6 +1,6 @@
 # Big Hollow's Eve Pumpkin III
 
-<img src="../../images/categories/buildtools.svg" alt="Big Hollow's Eve Pumpkin III" width="160">
+<img src="../../images/icons/1102965817.png" alt="Big Hollow&#x27;s Eve Pumpkin III" width="160">
 
 | | |
 |---|---|

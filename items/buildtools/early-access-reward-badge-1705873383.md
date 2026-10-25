@@ -1,6 +1,6 @@
 # Early Access Reward Badge
 
-<img src="../../images/categories/buildtools.svg" alt="Early Access Reward Badge" width="160">
+<img src="../../images/icons/1705873383.png" alt="Early Access Reward Badge" width="160">
 
 | | |
 |---|---|

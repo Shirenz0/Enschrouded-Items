@@ -1,6 +1,6 @@
 # "Flightless Redtail On One Leg"
 
-<img src="../../images/categories/buildtools.svg" alt=""Flightless Redtail On One Leg"" width="160">
+<img src="../../images/icons/19079311.png" alt="&quot;Flightless Redtail On One Leg&quot;" width="160">
 
 | | |
 |---|---|

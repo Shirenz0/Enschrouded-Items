@@ -1,6 +1,6 @@
 # T4 Dungeon bookrest
 
-<img src="../../images/categories/buildtools.svg" alt="T4 Dungeon bookrest" width="160">
+<img src="../../images/icons/3568384766.png" alt="T4 Dungeon bookrest" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Golden/Ancient Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Golden/Ancient Fence" width="160">
+<img src="../../images/icons/3286648280.png" alt="Golden/Ancient Fence" width="160">
 
 | | |
 |---|---|

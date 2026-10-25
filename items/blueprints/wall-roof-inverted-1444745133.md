@@ -1,6 +1,6 @@
 # Wall Roof Inverted
 
-<img src="../../images/categories/blueprints.svg" alt="Wall Roof Inverted" width="160">
+<img src="../../images/icons/1444745133.png" alt="Wall Roof Inverted" width="160">
 
 | | |
 |---|---|

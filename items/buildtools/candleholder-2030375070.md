@@ -1,6 +1,6 @@
 # Candleholder
 
-<img src="../../images/categories/buildtools.svg" alt="Candleholder" width="160">
+<img src="../../images/icons/2030375070.png" alt="Candleholder" width="160">
 
 | | |
 |---|---|

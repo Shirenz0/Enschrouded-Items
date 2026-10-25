@@ -1,6 +1,6 @@
 # Purple Wall Light II
 
-<img src="../../images/categories/buildtools.svg" alt="Purple Wall Light II" width="160">
+<img src="../../images/icons/4278796376.png" alt="Purple Wall Light II" width="160">
 
 | | |
 |---|---|

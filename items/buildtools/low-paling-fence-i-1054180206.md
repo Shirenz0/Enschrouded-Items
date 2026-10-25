@@ -1,6 +1,6 @@
 # Low Paling Fence I
 
-<img src="../../images/categories/buildtools.svg" alt="Low Paling Fence I" width="160">
+<img src="../../images/icons/1054180206.png" alt="Low Paling Fence I" width="160">
 
 | | |
 |---|---|

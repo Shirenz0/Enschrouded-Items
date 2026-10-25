@@ -1,6 +1,6 @@
 # Baby Catdeer
 
-<img src="../../images/categories/buildtools.svg" alt="Baby Catdeer" width="160">
+<img src="../../images/icons/3158646752.png" alt="Baby Catdeer" width="160">
 
 | | |
 |---|---|

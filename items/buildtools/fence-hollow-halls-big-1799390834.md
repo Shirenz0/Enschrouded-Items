@@ -1,6 +1,6 @@
 # Fence Hollow Halls Big
 
-<img src="../../images/categories/buildtools.svg" alt="Fence Hollow Halls Big" width="160">
+<img src="../../images/icons/1799390834.png" alt="Fence Hollow Halls Big" width="160">
 
 | | |
 |---|---|

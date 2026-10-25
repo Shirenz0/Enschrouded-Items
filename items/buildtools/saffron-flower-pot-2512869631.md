@@ -1,6 +1,6 @@
 # Saffron Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Saffron Flower Pot" width="160">
+<img src="../../images/icons/2512869631.png" alt="Saffron Flower Pot" width="160">
 
 | | |
 |---|---|

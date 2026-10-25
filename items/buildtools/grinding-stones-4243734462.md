@@ -1,6 +1,6 @@
 # Grinding Stones
 
-<img src="../../images/categories/buildtools.svg" alt="Grinding Stones" width="160">
+<img src="../../images/icons/4243734462.png" alt="Grinding Stones" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Bamboo Window I
 
-<img src="../../images/categories/buildtools.svg" alt="Small Bamboo Window I" width="160">
+<img src="../../images/icons/694698355.png" alt="Small Bamboo Window I" width="160">
 
 | | |
 |---|---|

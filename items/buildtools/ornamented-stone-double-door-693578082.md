@@ -1,6 +1,6 @@
 # Ornamented Stone Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Ornamented Stone Double Door" width="160">
+<img src="../../images/icons/693578082.png" alt="Ornamented Stone Double Door" width="160">
 
 | | |
 |---|---|

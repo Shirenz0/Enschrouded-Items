@@ -1,6 +1,6 @@
 # T2 Cupboard Dungeon Small
 
-<img src="../../images/categories/buildtools.svg" alt="T2 Cupboard Dungeon Small" width="160">
+<img src="../../images/icons/2649776256.png" alt="T2 Cupboard Dungeon Small" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Corn Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Corn Seedling" width="160">
+<img src="../../images/icons/3660770821.png" alt="Corn Seedling" width="160">
 
 | | |
 |---|---|

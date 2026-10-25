@@ -1,6 +1,6 @@
 # Pine Wood Garden Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Pine Wood Garden Fence Pole" width="160">
+<img src="../../images/icons/1248457047.png" alt="Pine Wood Garden Fence Pole" width="160">
 
 | | |
 |---|---|

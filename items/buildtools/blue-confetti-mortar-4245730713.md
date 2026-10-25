@@ -1,6 +1,6 @@
 # Blue Confetti Mortar
 
-<img src="../../images/categories/buildtools.svg" alt="Blue Confetti Mortar" width="160">
+<img src="../../images/icons/4245730713.png" alt="Blue Confetti Mortar" width="160">
 
 | | |
 |---|---|

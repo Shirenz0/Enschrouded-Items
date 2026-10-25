@@ -1,6 +1,6 @@
 # DLC SUpporter Warrior Banner Standing
 
-<img src="../../images/categories/buildtools.svg" alt="DLC SUpporter Warrior Banner Standing" width="160">
+<img src="../../images/icons/2406775744.png" alt="DLC SUpporter Warrior Banner Standing" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Standing Wooden Barrel
 
-<img src="../../images/categories/buildtools.svg" alt="Standing Wooden Barrel" width="160">
+<img src="../../images/icons/4054901860.png" alt="Standing Wooden Barrel" width="160">
 
 | | |
 |---|---|

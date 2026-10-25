@@ -1,6 +1,6 @@
 # Big Yellow Wall Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Big Yellow Wall Banner" width="160">
+<img src="../../images/icons/2260715396.png" alt="Big Yellow Wall Banner" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # War Banner IV
 
-<img src="../../images/categories/buildtools.svg" alt="War Banner IV" width="160">
+<img src="../../images/icons/3886875478.png" alt="War Banner IV" width="160">
 
 | | |
 |---|---|

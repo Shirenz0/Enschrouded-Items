@@ -1,6 +1,6 @@
 # Daylily Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Daylily Flower Pot" width="160">
+<img src="../../images/icons/3331736531.png" alt="Daylily Flower Pot" width="160">
 
 | | |
 |---|---|

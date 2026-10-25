@@ -1,6 +1,6 @@
 # Heart Pillow
 
-<img src="../../images/categories/buildtools.svg" alt="Heart Pillow" width="160">
+<img src="../../images/icons/3748979170.png" alt="Heart Pillow" width="160">
 
 | | |
 |---|---|

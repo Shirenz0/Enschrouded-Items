@@ -1,6 +1,6 @@
 # Iron Bucket
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Bucket" width="160">
+<img src="../../images/icons/117538727.png" alt="Iron Bucket" width="160">
 
 | | |
 |---|---|

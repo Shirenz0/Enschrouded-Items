@@ -1,6 +1,6 @@
 # Pine Wood Garden Fence I
 
-<img src="../../images/categories/buildtools.svg" alt="Pine Wood Garden Fence I" width="160">
+<img src="../../images/icons/842940981.png" alt="Pine Wood Garden Fence I" width="160">
 
 | | |
 |---|---|

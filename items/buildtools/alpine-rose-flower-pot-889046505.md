@@ -1,6 +1,6 @@
 # Alpine Rose Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Alpine Rose Flower Pot" width="160">
+<img src="../../images/icons/889046505.png" alt="Alpine Rose Flower Pot" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # (Butterfly Lover Bush) Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="(Butterfly Lover Bush) Seedling" width="160">
+<img src="../../images/icons/1785286209.png" alt="(Butterfly Lover Bush) Seedling" width="160">
 
 | | |
 |---|---|

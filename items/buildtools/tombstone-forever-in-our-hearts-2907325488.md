@@ -1,6 +1,6 @@
 # Tombstone "Forever In Our Hearts"
 
-<img src="../../images/categories/buildtools.svg" alt="Tombstone "Forever In Our Hearts"" width="160">
+<img src="../../images/icons/2907325488.png" alt="Tombstone &quot;Forever In Our Hearts&quot;" width="160">
 
 | | |
 |---|---|

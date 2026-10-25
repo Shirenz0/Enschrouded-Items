@@ -1,6 +1,6 @@
 # Deluxe Edition Items
 
-<img src="../../images/categories/buildtools.svg" alt="Deluxe Edition Items" width="160">
+<img src="../../images/icons/3432840465.png" alt="Deluxe Edition Items" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Wisteria (Overgrowth Plant)
 
-<img src="../../images/categories/buildtools.svg" alt="Wisteria (Overgrowth Plant)" width="160">
+<img src="../../images/icons/594839802.png" alt="Wisteria (Overgrowth Plant)" width="160">
 
 | | |
 |---|---|

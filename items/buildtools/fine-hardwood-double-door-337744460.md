@@ -1,6 +1,6 @@
 # Fine Hardwood Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Hardwood Double Door" width="160">
+<img src="../../images/icons/337744460.png" alt="Fine Hardwood Double Door" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Carved Wooden Shelf
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Wooden Shelf" width="160">
+<img src="../../images/icons/351167790.png" alt="Carved Wooden Shelf" width="160">
 
 | | |
 |---|---|

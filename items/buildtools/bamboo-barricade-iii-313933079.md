@@ -1,6 +1,6 @@
 # Bamboo Barricade III
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Barricade III" width="160">
+<img src="../../images/icons/313933079.png" alt="Bamboo Barricade III" width="160">
 
 | | |
 |---|---|

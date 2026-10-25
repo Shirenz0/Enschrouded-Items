@@ -1,6 +1,6 @@
 # Iron Prison Door
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Prison Door" width="160">
+<img src="../../images/icons/813310886.png" alt="Iron Prison Door" width="160">
 
 | | |
 |---|---|

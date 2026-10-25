@@ -1,6 +1,6 @@
 # Small Ornamented Wooden Cupboard
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ornamented Wooden Cupboard" width="160">
+<img src="../../images/icons/2071955966.png" alt="Small Ornamented Wooden Cupboard" width="160">
 
 | | |
 |---|---|

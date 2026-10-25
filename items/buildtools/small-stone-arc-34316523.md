@@ -1,6 +1,6 @@
 # Small Stone Arc
 
-<img src="../../images/categories/buildtools.svg" alt="Small Stone Arc" width="160">
+<img src="../../images/icons/34316523.png" alt="Small Stone Arc" width="160">
 
 | | |
 |---|---|

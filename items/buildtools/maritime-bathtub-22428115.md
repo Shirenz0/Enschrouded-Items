@@ -1,6 +1,6 @@
 # Maritime Bathtub
 
-<img src="../../images/categories/buildtools.svg" alt="Maritime Bathtub" width="160">
+<img src="../../images/icons/22428115.png" alt="Maritime Bathtub" width="160">
 
 | | |
 |---|---|

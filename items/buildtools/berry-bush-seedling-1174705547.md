@@ -1,6 +1,6 @@
 # Berry Bush Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Berry Bush Seedling" width="160">
+<img src="../../images/icons/1174705547.png" alt="Berry Bush Seedling" width="160">
 
 | | |
 |---|---|

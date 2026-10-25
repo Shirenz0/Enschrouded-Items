@@ -1,6 +1,6 @@
 # Graveyard Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Graveyard Fence Pole" width="160">
+<img src="../../images/icons/1111695486.png" alt="Graveyard Fence Pole" width="160">
 
 | | |
 |---|---|

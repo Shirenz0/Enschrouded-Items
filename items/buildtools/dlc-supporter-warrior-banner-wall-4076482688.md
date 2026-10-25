@@ -1,6 +1,6 @@
 # DLC SUpporter Warrior Banner Wall
 
-<img src="../../images/categories/buildtools.svg" alt="DLC SUpporter Warrior Banner Wall" width="160">
+<img src="../../images/icons/4076482688.png" alt="DLC SUpporter Warrior Banner Wall" width="160">
 
 | | |
 |---|---|

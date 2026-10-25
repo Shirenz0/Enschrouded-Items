@@ -1,6 +1,6 @@
 # Pink Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Pink Flower Pot" width="160">
+<img src="../../images/icons/2927706943.png" alt="Pink Flower Pot" width="160">
 
 | | |
 |---|---|

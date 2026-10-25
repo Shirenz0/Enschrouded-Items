@@ -1,6 +1,6 @@
 # DLC Supporter Pack Mage Throne
 
-<img src="../../images/categories/buildtools.svg" alt="DLC Supporter Pack Mage Throne" width="160">
+<img src="../../images/icons/4130138520.png" alt="DLC Supporter Pack Mage Throne" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Direction Sign
 
-<img src="../../images/categories/buildtools.svg" alt="Direction Sign" width="160">
+<img src="../../images/icons/877616264.png" alt="Direction Sign" width="160">
 
 | | |
 |---|---|

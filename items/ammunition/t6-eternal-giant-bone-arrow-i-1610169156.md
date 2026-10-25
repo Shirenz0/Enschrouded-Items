@@ -1,6 +1,6 @@
 # T6 Eternal Giant Bone Arrow I
 
-<img src="../../images/categories/ammunition.svg" alt="T6 Eternal Giant Bone Arrow I" width="160">
+<img src="../../images/icons/1610169156.png" alt="T6 Eternal Giant Bone Arrow I" width="160">
 
 | | |
 |---|---|

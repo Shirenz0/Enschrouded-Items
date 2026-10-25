@@ -1,6 +1,6 @@
 # Shield Wall Emblem I
 
-<img src="../../images/categories/buildtools.svg" alt="Shield Wall Emblem I" width="160">
+<img src="../../images/icons/2187829385.png" alt="Shield Wall Emblem I" width="160">
 
 | | |
 |---|---|

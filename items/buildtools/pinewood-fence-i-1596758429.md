@@ -1,6 +1,6 @@
 # Pinewood Fence I
 
-<img src="../../images/categories/buildtools.svg" alt="Pinewood Fence I" width="160">
+<img src="../../images/icons/1596758429.png" alt="Pinewood Fence I" width="160">
 
 | | |
 |---|---|

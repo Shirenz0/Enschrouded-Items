@@ -1,6 +1,6 @@
 # Gold Fell Thunderbrute Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Fell Thunderbrute Trophy" width="160">
+<img src="../../images/icons/3568555681.png" alt="Gold Fell Thunderbrute Trophy" width="160">
 
 | | |
 |---|---|

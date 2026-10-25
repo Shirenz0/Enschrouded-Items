@@ -1,6 +1,6 @@
 # Gold Cyclops Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Cyclops Trophy" width="160">
+<img src="../../images/icons/2288002943.png" alt="Gold Cyclops Trophy" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Prop Decoration T5 Silver Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Prop Decoration T5 Silver Platter" width="160">
+<img src="../../images/icons/540246780.png" alt="Prop Decoration T5 Silver Platter" width="160">
 
 | | |
 |---|---|

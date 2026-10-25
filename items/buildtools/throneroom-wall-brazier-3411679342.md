@@ -1,6 +1,6 @@
 # Throneroom Wall Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Throneroom Wall Brazier" width="160">
+<img src="../../images/icons/3411679342.png" alt="Throneroom Wall Brazier" width="160">
 
 | | |
 |---|---|

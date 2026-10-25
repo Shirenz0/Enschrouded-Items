@@ -1,6 +1,6 @@
 # Large Carved Wooden Cabinet
 
-<img src="../../images/categories/buildtools.svg" alt="Large Carved Wooden Cabinet" width="160">
+<img src="../../images/icons/216794774.png" alt="Large Carved Wooden Cabinet" width="160">
 
 | | |
 |---|---|

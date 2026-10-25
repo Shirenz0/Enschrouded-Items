@@ -1,6 +1,6 @@
 # T5 gentian seedling
 
-<img src="../../images/categories/buildtools.svg" alt="T5 gentian seedling" width="160">
+<img src="../../images/icons/961655092.png" alt="T5 gentian seedling" width="160">
 
 | | |
 |---|---|

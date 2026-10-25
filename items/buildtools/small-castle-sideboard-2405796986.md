@@ -1,6 +1,6 @@
 # Small Castle Sideboard
 
-<img src="../../images/categories/buildtools.svg" alt="Small Castle Sideboard" width="160">
+<img src="../../images/icons/2405796986.png" alt="Small Castle Sideboard" width="160">
 
 | | |
 |---|---|

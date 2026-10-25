@@ -1,6 +1,6 @@
 # T2 cabinet Dungeon medium
 
-<img src="../../images/categories/buildtools.svg" alt="T2 cabinet Dungeon medium" width="160">
+<img src="../../images/icons/1793657421.png" alt="T2 cabinet Dungeon medium" width="160">
 
 | | |
 |---|---|

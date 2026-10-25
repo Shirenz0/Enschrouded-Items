@@ -1,6 +1,6 @@
 # Yellow Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Yellow Flower Pot" width="160">
+<img src="../../images/icons/811648475.png" alt="Yellow Flower Pot" width="160">
 
 | | |
 |---|---|

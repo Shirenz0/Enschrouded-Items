@@ -1,6 +1,6 @@
 # Steel Handrail
 
-<img src="../../images/categories/buildtools.svg" alt="Steel Handrail" width="160">
+<img src="../../images/icons/961764853.png" alt="Steel Handrail" width="160">
 
 | | |
 |---|---|

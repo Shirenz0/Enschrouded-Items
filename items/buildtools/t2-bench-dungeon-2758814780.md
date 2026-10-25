@@ -1,6 +1,6 @@
 # T2 Bench Dungeon
 
-<img src="../../images/categories/buildtools.svg" alt="T2 Bench Dungeon" width="160">
+<img src="../../images/icons/2758814780.png" alt="T2 Bench Dungeon" width="160">
 
 | | |
 |---|---|

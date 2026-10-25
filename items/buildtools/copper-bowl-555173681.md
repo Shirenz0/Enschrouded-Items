@@ -1,6 +1,6 @@
 # Copper Bowl
 
-<img src="../../images/categories/buildtools.svg" alt="Copper Bowl" width="160">
+<img src="../../images/icons/555173681.png" alt="Copper Bowl" width="160">
 
 | | |
 |---|---|

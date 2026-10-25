@@ -1,6 +1,6 @@
 # Brick Fireplace
 
-<img src="../../images/categories/buildtools.svg" alt="Brick Fireplace" width="160">
+<img src="../../images/icons/4243711088.png" alt="Brick Fireplace" width="160">
 
 | | |
 |---|---|

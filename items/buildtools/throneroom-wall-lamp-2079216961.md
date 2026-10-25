@@ -1,6 +1,6 @@
 # Throneroom Wall Lamp
 
-<img src="../../images/categories/buildtools.svg" alt="Throneroom Wall Lamp" width="160">
+<img src="../../images/icons/2079216961.png" alt="Throneroom Wall Lamp" width="160">
 
 | | |
 |---|---|

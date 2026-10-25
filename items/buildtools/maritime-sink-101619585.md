@@ -1,6 +1,6 @@
 # Maritime Sink
 
-<img src="../../images/categories/buildtools.svg" alt="Maritime Sink" width="160">
+<img src="../../images/icons/101619585.png" alt="Maritime Sink" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Bamboo Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Fence Pole" width="160">
+<img src="../../images/icons/3349466374.png" alt="Bamboo Fence Pole" width="160">
 
 | | |
 |---|---|

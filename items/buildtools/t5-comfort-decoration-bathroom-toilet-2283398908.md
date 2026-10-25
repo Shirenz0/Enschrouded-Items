@@ -1,6 +1,6 @@
 # T5 Comfort Decoration Bathroom Toilet
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Comfort Decoration Bathroom Toilet" width="160">
+<img src="../../images/icons/2283398908.png" alt="T5 Comfort Decoration Bathroom Toilet" width="160">
 
 | | |
 |---|---|

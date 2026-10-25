@@ -1,6 +1,6 @@
 # Ancient Shelf
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Shelf" width="160">
+<img src="../../images/icons/458026804.png" alt="Ancient Shelf" width="160">
 
 | | |
 |---|---|

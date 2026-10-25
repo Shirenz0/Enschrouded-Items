@@ -1,6 +1,6 @@
 # Maritime Toilet
 
-<img src="../../images/categories/buildtools.svg" alt="Maritime Toilet" width="160">
+<img src="../../images/icons/1948270754.png" alt="Maritime Toilet" width="160">
 
 | | |
 |---|---|

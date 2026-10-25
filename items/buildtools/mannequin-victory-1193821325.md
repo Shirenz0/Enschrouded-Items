@@ -1,6 +1,6 @@
 # Mannequin "Victory"
 
-<img src="../../images/categories/buildtools.svg" alt="Mannequin "Victory"" width="160">
+<img src="../../images/icons/1193821325.png" alt="Mannequin &quot;Victory&quot;" width="160">
 
 | | |
 |---|---|

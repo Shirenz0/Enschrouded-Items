@@ -1,6 +1,6 @@
 # Large Ancient Cupboard
 
-<img src="../../images/categories/buildtools.svg" alt="Large Ancient Cupboard" width="160">
+<img src="../../images/icons/1390578094.png" alt="Large Ancient Cupboard" width="160">
 
 | | |
 |---|---|

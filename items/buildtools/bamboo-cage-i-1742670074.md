@@ -1,6 +1,6 @@
 # Bamboo Cage I
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Cage I" width="160">
+<img src="../../images/icons/1742670074.png" alt="Bamboo Cage I" width="160">
 
 | | |
 |---|---|

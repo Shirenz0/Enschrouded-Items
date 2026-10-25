@@ -1,6 +1,6 @@
 # Carved Wooden Door
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Wooden Door" width="160">
+<img src="../../images/icons/2321570331.png" alt="Carved Wooden Door" width="160">
 
 | | |
 |---|---|

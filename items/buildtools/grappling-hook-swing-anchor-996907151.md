@@ -1,6 +1,6 @@
 # Grappling Hook Swing Anchor
 
-<img src="../../images/categories/buildtools.svg" alt="Grappling Hook Swing Anchor" width="160">
+<img src="../../images/icons/996907151.png" alt="Grappling Hook Swing Anchor" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Terrain Block
 
-<img src="../../images/categories/blueprints.svg" alt="Terrain Block" width="160">
+<img src="../../images/icons/3261257614.png" alt="Terrain Block" width="160">
 
 | | |
 |---|---|

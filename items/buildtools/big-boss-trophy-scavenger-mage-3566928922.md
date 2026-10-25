@@ -1,6 +1,6 @@
 # Big Boss Trophy Scavenger Mage
 
-<img src="../../images/categories/buildtools.svg" alt="Big Boss Trophy Scavenger Mage" width="160">
+<img src="../../images/icons/3566928922.png" alt="Big Boss Trophy Scavenger Mage" width="160">
 
 | | |
 |---|---|

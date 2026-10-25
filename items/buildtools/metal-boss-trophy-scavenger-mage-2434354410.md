@@ -1,6 +1,6 @@
 # Metal Boss Trophy Scavenger Mage
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Scavenger Mage" width="160">
+<img src="../../images/icons/2434354410.png" alt="Metal Boss Trophy Scavenger Mage" width="160">
 
 | | |
 |---|---|

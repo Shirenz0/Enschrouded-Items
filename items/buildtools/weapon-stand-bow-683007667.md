@@ -1,6 +1,6 @@
 # Weapon Stand Bow
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Bow" width="160">
+<img src="../../images/icons/683007667.png" alt="Weapon Stand Bow" width="160">
 
 | | |
 |---|---|

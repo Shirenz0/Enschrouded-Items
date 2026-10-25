@@ -1,6 +1,6 @@
 # Large Ancient Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="Large Ancient Window Frame" width="160">
+<img src="../../images/icons/3732364492.png" alt="Large Ancient Window Frame" width="160">
 
 | | |
 |---|---|

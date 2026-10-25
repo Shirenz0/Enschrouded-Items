@@ -1,6 +1,6 @@
 # Grasshopper
 
-<img src="../../images/categories/ammunition.svg" alt="Grasshopper" width="160">
+<img src="../../images/icons/2342031255.png" alt="Grasshopper" width="160">
 
 | | |
 |---|---|

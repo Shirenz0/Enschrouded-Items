@@ -1,6 +1,6 @@
 # EarlyAccess Reward Items
 
-<img src="../../images/categories/buildtools.svg" alt="EarlyAccess Reward Items" width="160">
+<img src="../../images/icons/1916039100.png" alt="EarlyAccess Reward Items" width="160">
 
 | | |
 |---|---|

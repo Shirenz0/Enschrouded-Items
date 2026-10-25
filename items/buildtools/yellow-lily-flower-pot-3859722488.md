@@ -1,6 +1,6 @@
 # Yellow Lily Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Yellow Lily Flower Pot" width="160">
+<img src="../../images/icons/3859722488.png" alt="Yellow Lily Flower Pot" width="160">
 
 | | |
 |---|---|

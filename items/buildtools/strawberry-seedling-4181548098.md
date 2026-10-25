@@ -1,6 +1,6 @@
 # Strawberry Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Strawberry Seedling" width="160">
+<img src="../../images/icons/4181548098.png" alt="Strawberry Seedling" width="160">
 
 | | |
 |---|---|

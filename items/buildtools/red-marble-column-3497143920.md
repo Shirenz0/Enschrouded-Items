@@ -1,6 +1,6 @@
 # Red Marble Column
 
-<img src="../../images/categories/buildtools.svg" alt="Red Marble Column" width="160">
+<img src="../../images/icons/3497143920.png" alt="Red Marble Column" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T6 Giant Bone Arrow IV
 
-<img src="../../images/categories/ammunition.svg" alt="T6 Giant Bone Arrow IV" width="160">
+<img src="../../images/icons/3600953136.png" alt="T6 Giant Bone Arrow IV" width="160">
 
 | | |
 |---|---|

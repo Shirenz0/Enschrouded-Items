@@ -1,6 +1,6 @@
 # T2 cabinet Dungeon small
 
-<img src="../../images/categories/buildtools.svg" alt="T2 cabinet Dungeon small" width="160">
+<img src="../../images/icons/1053092022.png" alt="T2 cabinet Dungeon small" width="160">
 
 | | |
 |---|---|

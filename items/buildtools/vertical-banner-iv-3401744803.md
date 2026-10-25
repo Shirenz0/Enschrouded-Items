@@ -1,6 +1,6 @@
 # Vertical Banner IV
 
-<img src="../../images/categories/buildtools.svg" alt="Vertical Banner IV" width="160">
+<img src="../../images/icons/3401744803.png" alt="Vertical Banner IV" width="160">
 
 | | |
 |---|---|

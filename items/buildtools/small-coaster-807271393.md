@@ -1,6 +1,6 @@
 # Small Coaster
 
-<img src="../../images/categories/buildtools.svg" alt="Small Coaster" width="160">
+<img src="../../images/icons/807271393.png" alt="Small Coaster" width="160">
 
 | | |
 |---|---|

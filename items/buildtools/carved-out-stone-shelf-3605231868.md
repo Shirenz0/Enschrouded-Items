@@ -1,6 +1,6 @@
 # Carved out stone shelf
 
-<img src="../../images/categories/buildtools.svg" alt="Carved out stone shelf" width="160">
+<img src="../../images/icons/3605231868.png" alt="Carved out stone shelf" width="160">
 
 | | |
 |---|---|

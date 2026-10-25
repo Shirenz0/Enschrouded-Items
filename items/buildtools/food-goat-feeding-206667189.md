@@ -1,6 +1,6 @@
 # Food Goat Feeding
 
-<img src="../../images/categories/buildtools.svg" alt="Food Goat Feeding" width="160">
+<img src="../../images/icons/206667189.png" alt="Food Goat Feeding" width="160">
 
 | | |
 |---|---|

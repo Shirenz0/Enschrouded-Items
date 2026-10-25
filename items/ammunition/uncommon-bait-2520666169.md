@@ -1,6 +1,6 @@
 # Uncommon Bait
 
-<img src="../../images/categories/ammunition.svg" alt="Uncommon Bait" width="160">
+<img src="../../images/icons/2520666169.png" alt="Uncommon Bait" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Tombstone "Always 'Loved"
 
-<img src="../../images/categories/buildtools.svg" alt="Tombstone "Always 'Loved"" width="160">
+<img src="../../images/icons/1653941305.png" alt="Tombstone &quot;Always &#x27;Loved&quot;" width="160">
 
 | | |
 |---|---|

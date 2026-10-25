@@ -1,6 +1,6 @@
 # Chemistry Set 01
 
-<img src="../../images/categories/buildtools.svg" alt="Chemistry Set 01" width="160">
+<img src="../../images/icons/461254565.png" alt="Chemistry Set 01" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Bamboo Baordwalk
 
-<img src="../../images/categories/buildtools.svg" alt="Small Bamboo Baordwalk" width="160">
+<img src="../../images/icons/2055264620.png" alt="Small Bamboo Baordwalk" width="160">
 
 | | |
 |---|---|

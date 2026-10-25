@@ -1,6 +1,6 @@
 # Rough Wooden Cabinet
 
-<img src="../../images/categories/buildtools.svg" alt="Rough Wooden Cabinet" width="160">
+<img src="../../images/icons/619068123.png" alt="Rough Wooden Cabinet" width="160">
 
 | | |
 |---|---|

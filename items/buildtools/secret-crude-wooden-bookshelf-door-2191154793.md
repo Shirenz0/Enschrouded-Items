@@ -1,6 +1,6 @@
 # Secret Crude Wooden Bookshelf Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Crude Wooden Bookshelf Door" width="160">
+<img src="../../images/icons/2191154793.png" alt="Secret Crude Wooden Bookshelf Door" width="160">
 
 | | |
 |---|---|

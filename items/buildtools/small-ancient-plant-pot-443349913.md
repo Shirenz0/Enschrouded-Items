@@ -1,6 +1,6 @@
 # Small Ancient Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ancient Plant Pot" width="160">
+<img src="../../images/icons/443349913.png" alt="Small Ancient Plant Pot" width="160">
 
 | | |
 |---|---|

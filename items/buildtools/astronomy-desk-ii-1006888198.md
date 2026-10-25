@@ -1,6 +1,6 @@
 # Astronomy Desk II
 
-<img src="../../images/categories/buildtools.svg" alt="Astronomy Desk II" width="160">
+<img src="../../images/icons/1006888198.png" alt="Astronomy Desk II" width="160">
 
 | | |
 |---|---|

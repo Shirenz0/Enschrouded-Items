@@ -1,6 +1,6 @@
 # Coppern Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Coppern Double Door" width="160">
+<img src="../../images/icons/1595396826.png" alt="Coppern Double Door" width="160">
 
 | | |
 |---|---|

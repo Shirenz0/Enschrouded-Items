@@ -1,6 +1,6 @@
 # Spider Web I
 
-<img src="../../images/categories/buildtools.svg" alt="Spider Web I" width="160">
+<img src="../../images/icons/19466408.png" alt="Spider Web I" width="160">
 
 | | |
 |---|---|

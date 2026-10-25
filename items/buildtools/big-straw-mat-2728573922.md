@@ -1,6 +1,6 @@
 # Big Straw Mat
 
-<img src="../../images/categories/buildtools.svg" alt="Big Straw Mat" width="160">
+<img src="../../images/icons/2728573922.png" alt="Big Straw Mat" width="160">
 
 | | |
 |---|---|

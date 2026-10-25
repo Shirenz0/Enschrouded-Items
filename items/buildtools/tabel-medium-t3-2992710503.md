@@ -1,6 +1,6 @@
 # Tabel Medium T3
 
-<img src="../../images/categories/buildtools.svg" alt="Tabel Medium T3" width="160">
+<img src="../../images/icons/2992710503.png" alt="Tabel Medium T3" width="160">
 
 | | |
 |---|---|

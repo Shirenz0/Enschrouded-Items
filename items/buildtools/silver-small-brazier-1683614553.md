@@ -1,6 +1,6 @@
 # Silver small brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Silver small brazier" width="160">
+<img src="../../images/icons/1683614553.png" alt="Silver small brazier" width="160">
 
 | | |
 |---|---|

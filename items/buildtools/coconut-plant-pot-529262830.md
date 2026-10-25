@@ -1,6 +1,6 @@
 # Coconut Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Coconut Plant Pot" width="160">
+<img src="../../images/icons/529262830.png" alt="Coconut Plant Pot" width="160">
 
 | | |
 |---|---|

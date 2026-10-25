@@ -1,6 +1,6 @@
 # Hophare Pillow
 
-<img src="../../images/categories/buildtools.svg" alt="Hophare Pillow" width="160">
+<img src="../../images/icons/2148329352.png" alt="Hophare Pillow" width="160">
 
 | | |
 |---|---|

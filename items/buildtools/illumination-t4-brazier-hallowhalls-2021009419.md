@@ -1,6 +1,6 @@
 # Illumination T4 Brazier HallowHalls
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T4 Brazier HallowHalls" width="160">
+<img src="../../images/icons/2021009419.png" alt="Illumination T4 Brazier HallowHalls" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Block Dismantle 4x4
 
-<img src="../../images/categories/buildtools.svg" alt="Block Dismantle 4x4" width="160">
+<img src="../../images/icons/3189586762.png" alt="Block Dismantle 4x4" width="160">
 
 | | |
 |---|---|

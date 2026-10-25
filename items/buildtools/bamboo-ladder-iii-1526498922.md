@@ -1,6 +1,6 @@
 # Bamboo Ladder III
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Ladder III" width="160">
+<img src="../../images/icons/1526498922.png" alt="Bamboo Ladder III" width="160">
 
 | | |
 |---|---|

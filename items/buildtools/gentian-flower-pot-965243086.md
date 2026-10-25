@@ -1,6 +1,6 @@
 # Gentian Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Gentian Flower Pot" width="160">
+<img src="../../images/icons/965243086.png" alt="Gentian Flower Pot" width="160">
 
 | | |
 |---|---|

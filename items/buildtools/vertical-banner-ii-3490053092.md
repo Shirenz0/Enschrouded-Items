@@ -1,6 +1,6 @@
 # Vertical Banner II
 
-<img src="../../images/categories/buildtools.svg" alt="Vertical Banner II" width="160">
+<img src="../../images/icons/3490053092.png" alt="Vertical Banner II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # High Ancient Temple Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="High Ancient Temple Window Frame" width="160">
+<img src="../../images/icons/2432974923.png" alt="High Ancient Temple Window Frame" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Large Red Marble Arc
 
-<img src="../../images/categories/buildtools.svg" alt="Large Red Marble Arc" width="160">
+<img src="../../images/icons/554708154.png" alt="Large Red Marble Arc" width="160">
 
 | | |
 |---|---|

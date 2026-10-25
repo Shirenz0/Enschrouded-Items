@@ -1,6 +1,6 @@
 # Long Wall Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Long Wall Banner" width="160">
+<img src="../../images/icons/3862593821.png" alt="Long Wall Banner" width="160">
 
 | | |
 |---|---|

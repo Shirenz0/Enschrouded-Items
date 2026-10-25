@@ -1,6 +1,6 @@
 # Ancinet Workbench
 
-<img src="../../images/categories/buildtools.svg" alt="Ancinet Workbench" width="160">
+<img src="../../images/icons/2941673930.png" alt="Ancinet Workbench" width="160">
 
 | | |
 |---|---|

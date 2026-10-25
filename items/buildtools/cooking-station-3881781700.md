@@ -1,6 +1,6 @@
 # Cooking Station
 
-<img src="../../images/categories/buildtools.svg" alt="Cooking Station" width="160">
+<img src="../../images/icons/3881781700.png" alt="Cooking Station" width="160">
 
 | | |
 |---|---|

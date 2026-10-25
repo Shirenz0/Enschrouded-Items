@@ -1,6 +1,6 @@
 # Fake Wooden Floor Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Fake Wooden Floor Secret" width="160">
+<img src="../../images/icons/1042118922.png" alt="Fake Wooden Floor Secret" width="160">
 
 | | |
 |---|---|

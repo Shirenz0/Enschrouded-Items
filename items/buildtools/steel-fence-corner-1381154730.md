@@ -1,6 +1,6 @@
 # Steel Fence Corner
 
-<img src="../../images/categories/buildtools.svg" alt="Steel Fence Corner" width="160">
+<img src="../../images/icons/1381154730.png" alt="Steel Fence Corner" width="160">
 
 | | |
 |---|---|

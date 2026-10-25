@@ -1,6 +1,6 @@
 # Bamboo Room Divider II
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Room Divider II" width="160">
+<img src="../../images/icons/934699219.png" alt="Bamboo Room Divider II" width="160">
 
 | | |
 |---|---|

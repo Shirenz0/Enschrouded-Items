@@ -1,6 +1,6 @@
 # Medium Castle Table
 
-<img src="../../images/categories/buildtools.svg" alt="Medium Castle Table" width="160">
+<img src="../../images/icons/3755696550.png" alt="Medium Castle Table" width="160">
 
 | | |
 |---|---|

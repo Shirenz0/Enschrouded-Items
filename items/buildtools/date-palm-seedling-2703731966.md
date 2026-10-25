@@ -1,6 +1,6 @@
 # Date Palm Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Date Palm Seedling" width="160">
+<img src="../../images/icons/2703731966.png" alt="Date Palm Seedling" width="160">
 
 | | |
 |---|---|

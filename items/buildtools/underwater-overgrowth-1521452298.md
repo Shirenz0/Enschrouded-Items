@@ -1,6 +1,6 @@
 # Underwater Overgrowth
 
-<img src="../../images/categories/buildtools.svg" alt="Underwater Overgrowth" width="160">
+<img src="../../images/icons/1521452298.png" alt="Underwater Overgrowth" width="160">
 
 | | |
 |---|---|

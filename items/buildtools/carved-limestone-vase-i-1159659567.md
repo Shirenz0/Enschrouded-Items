@@ -1,6 +1,6 @@
 # Carved Limestone Vase I
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Limestone Vase I" width="160">
+<img src="../../images/icons/1159659567.png" alt="Carved Limestone Vase I" width="160">
 
 | | |
 |---|---|

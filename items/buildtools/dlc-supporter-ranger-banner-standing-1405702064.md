@@ -1,6 +1,6 @@
 # DLC SUpporter Ranger Banner Standing
 
-<img src="../../images/categories/buildtools.svg" alt="DLC SUpporter Ranger Banner Standing" width="160">
+<img src="../../images/icons/1405702064.png" alt="DLC SUpporter Ranger Banner Standing" width="160">
 
 | | |
 |---|---|

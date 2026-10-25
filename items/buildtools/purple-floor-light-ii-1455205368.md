@@ -1,6 +1,6 @@
 # Purple Floor Light II
 
-<img src="../../images/categories/buildtools.svg" alt="Purple Floor Light II" width="160">
+<img src="../../images/icons/1455205368.png" alt="Purple Floor Light II" width="160">
 
 | | |
 |---|---|

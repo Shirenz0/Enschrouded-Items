@@ -1,6 +1,6 @@
 # Castle Wall Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Castle Wall Secret" width="160">
+<img src="../../images/icons/22389632.png" alt="Castle Wall Secret" width="160">
 
 | | |
 |---|---|

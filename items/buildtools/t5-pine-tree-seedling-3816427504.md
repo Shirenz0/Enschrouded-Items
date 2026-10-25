@@ -1,6 +1,6 @@
 # T5 Pine tree seedling
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Pine tree seedling" width="160">
+<img src="../../images/icons/3816427504.png" alt="T5 Pine tree seedling" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Horizontal Banner I
 
-<img src="../../images/categories/buildtools.svg" alt="Horizontal Banner I" width="160">
+<img src="../../images/icons/595694028.png" alt="Horizontal Banner I" width="160">
 
 | | |
 |---|---|

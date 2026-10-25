@@ -1,6 +1,6 @@
 # Illumination T4 Chandelier Huge HallowHalls
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T4 Chandelier Huge HallowHalls" width="160">
+<img src="../../images/icons/1701190539.png" alt="Illumination T4 Chandelier Huge HallowHalls" width="160">
 
 | | |
 |---|---|

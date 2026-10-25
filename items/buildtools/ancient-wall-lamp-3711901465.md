@@ -1,6 +1,6 @@
 # Ancient Wall Lamp
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Wall Lamp" width="160">
+<img src="../../images/icons/3711901465.png" alt="Ancient Wall Lamp" width="160">
 
 | | |
 |---|---|

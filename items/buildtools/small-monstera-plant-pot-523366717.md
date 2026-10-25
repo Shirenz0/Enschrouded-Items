@@ -1,6 +1,6 @@
 # Small Monstera Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Small Monstera Plant Pot" width="160">
+<img src="../../images/icons/523366717.png" alt="Small Monstera Plant Pot" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Boss Trophy Fell Heavy Mage
 
-<img src="../../images/categories/buildtools.svg" alt="Small Boss Trophy Fell Heavy Mage" width="160">
+<img src="../../images/icons/3377541648.png" alt="Small Boss Trophy Fell Heavy Mage" width="160">
 
 | | |
 |---|---|

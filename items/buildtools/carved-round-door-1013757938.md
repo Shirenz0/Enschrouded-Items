@@ -1,6 +1,6 @@
 # Carved Round Door
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Round Door" width="160">
+<img src="../../images/icons/1013757938.png" alt="Carved Round Door" width="160">
 
 | | |
 |---|---|

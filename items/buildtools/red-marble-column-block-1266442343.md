@@ -1,6 +1,6 @@
 # Red Marble Column Block
 
-<img src="../../images/categories/buildtools.svg" alt="Red Marble Column Block" width="160">
+<img src="../../images/icons/1266442343.png" alt="Red Marble Column Block" width="160">
 
 | | |
 |---|---|

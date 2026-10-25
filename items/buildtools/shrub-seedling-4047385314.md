@@ -1,6 +1,6 @@
 # Shrub Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Shrub Seedling" width="160">
+<img src="../../images/icons/4047385314.png" alt="Shrub Seedling" width="160">
 
 | | |
 |---|---|

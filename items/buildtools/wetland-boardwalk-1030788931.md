@@ -1,6 +1,6 @@
 # Wetland Boardwalk
 
-<img src="../../images/categories/buildtools.svg" alt="Wetland Boardwalk" width="160">
+<img src="../../images/icons/1030788931.png" alt="Wetland Boardwalk" width="160">
 
 | | |
 |---|---|

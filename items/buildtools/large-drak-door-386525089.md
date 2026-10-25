@@ -1,6 +1,6 @@
 # Large Drak Door
 
-<img src="../../images/categories/buildtools.svg" alt="Large Drak Door" width="160">
+<img src="../../images/icons/386525089.png" alt="Large Drak Door" width="160">
 
 | | |
 |---|---|

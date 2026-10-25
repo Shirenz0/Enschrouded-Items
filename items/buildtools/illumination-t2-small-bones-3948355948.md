@@ -1,6 +1,6 @@
 # Illumination T2 Small Bones
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Small Bones" width="160">
+<img src="../../images/icons/3948355948.png" alt="Illumination T2 Small Bones" width="160">
 
 | | |
 |---|---|

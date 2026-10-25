@@ -1,6 +1,6 @@
 # Golden Curved Palisade
 
-<img src="../../images/categories/buildtools.svg" alt="Golden Curved Palisade" width="160">
+<img src="../../images/icons/218943292.png" alt="Golden Curved Palisade" width="160">
 
 | | |
 |---|---|

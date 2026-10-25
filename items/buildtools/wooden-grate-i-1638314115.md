@@ -1,6 +1,6 @@
 # Wooden Grate I
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Grate I" width="160">
+<img src="../../images/icons/1638314115.png" alt="Wooden Grate I" width="160">
 
 | | |
 |---|---|

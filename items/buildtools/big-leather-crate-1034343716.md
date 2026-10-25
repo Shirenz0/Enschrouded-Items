@@ -1,6 +1,6 @@
 # Big Leather Crate
 
-<img src="../../images/categories/buildtools.svg" alt="Big Leather Crate" width="160">
+<img src="../../images/icons/1034343716.png" alt="Big Leather Crate" width="160">
 
 | | |
 |---|---|

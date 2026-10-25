@@ -1,6 +1,6 @@
 # Ornamented Vase II
 
-<img src="../../images/categories/buildtools.svg" alt="Ornamented Vase II" width="160">
+<img src="../../images/icons/155892145.png" alt="Ornamented Vase II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Boss Trophy Heavy
 
-<img src="../../images/categories/buildtools.svg" alt="Small Boss Trophy Heavy" width="160">
+<img src="../../images/icons/3094691927.png" alt="Small Boss Trophy Heavy" width="160">
 
 | | |
 |---|---|

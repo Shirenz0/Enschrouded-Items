@@ -1,6 +1,6 @@
 # Simple Coffin
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Coffin" width="160">
+<img src="../../images/icons/2729052185.png" alt="Simple Coffin" width="160">
 
 | | |
 |---|---|

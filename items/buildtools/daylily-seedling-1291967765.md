@@ -1,6 +1,6 @@
 # Daylily Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Daylily Seedling" width="160">
+<img src="../../images/icons/1291967765.png" alt="Daylily Seedling" width="160">
 
 | | |
 |---|---|

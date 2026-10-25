@@ -1,6 +1,6 @@
 # Table Medium T2 Dungeon
 
-<img src="../../images/categories/buildtools.svg" alt="Table Medium T2 Dungeon" width="160">
+<img src="../../images/icons/2950858301.png" alt="Table Medium T2 Dungeon" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Table Small T2 Dungeon
 
-<img src="../../images/categories/buildtools.svg" alt="Table Small T2 Dungeon" width="160">
+<img src="../../images/icons/2510133755.png" alt="Table Small T2 Dungeon" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Telescope
 
-<img src="../../images/categories/buildtools.svg" alt="Small Telescope" width="160">
+<img src="../../images/icons/1834258828.png" alt="Small Telescope" width="160">
 
 | | |
 |---|---|

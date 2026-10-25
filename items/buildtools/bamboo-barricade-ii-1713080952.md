@@ -1,6 +1,6 @@
 # Bamboo Barricade II
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Barricade II" width="160">
+<img src="../../images/icons/1713080952.png" alt="Bamboo Barricade II" width="160">
 
 | | |
 |---|---|

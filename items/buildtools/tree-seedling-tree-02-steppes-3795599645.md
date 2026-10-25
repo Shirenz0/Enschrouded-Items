@@ -1,6 +1,6 @@
 # Tree Seedling "Tree 02 Steppes"
 
-<img src="../../images/categories/buildtools.svg" alt="Tree Seedling "Tree 02 Steppes"" width="160">
+<img src="../../images/icons/3795599645.png" alt="Tree Seedling &quot;Tree 02 Steppes&quot;" width="160">
 
 | | |
 |---|---|

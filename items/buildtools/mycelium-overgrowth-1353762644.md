@@ -1,6 +1,6 @@
 # Mycelium overgrowth
 
-<img src="../../images/categories/buildtools.svg" alt="Mycelium overgrowth" width="160">
+<img src="../../images/icons/1353762644.png" alt="Mycelium overgrowth" width="160">
 
 | | |
 |---|---|

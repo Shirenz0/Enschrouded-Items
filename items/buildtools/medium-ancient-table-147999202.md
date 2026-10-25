@@ -1,6 +1,6 @@
 # Medium Ancient Table
 
-<img src="../../images/categories/buildtools.svg" alt="Medium Ancient Table" width="160">
+<img src="../../images/icons/147999202.png" alt="Medium Ancient Table" width="160">
 
 | | |
 |---|---|

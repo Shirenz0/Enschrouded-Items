@@ -1,6 +1,6 @@
 # Ornamented Wooden Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Ornamented Wooden Double Door" width="160">
+<img src="../../images/icons/3688853714.png" alt="Ornamented Wooden Double Door" width="160">
 
 | | |
 |---|---|

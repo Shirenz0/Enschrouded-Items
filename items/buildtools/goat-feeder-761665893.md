@@ -1,6 +1,6 @@
 # Goat feeder
 
-<img src="../../images/categories/buildtools.svg" alt="Goat feeder" width="160">
+<img src="../../images/icons/761665893.png" alt="Goat feeder" width="160">
 
 | | |
 |---|---|

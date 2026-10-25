@@ -1,6 +1,6 @@
 # The Dragon's Map
 
-<img src="../../images/icons/2381061644.png" alt="The Dragon's Map" width="160">
+<img src="../../images/icons/2381061644.png" alt="The Dragon&#x27;s Map" width="160">
 
 | | |
 |---|---|

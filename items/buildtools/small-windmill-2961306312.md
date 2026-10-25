@@ -1,6 +1,6 @@
 # Small Windmill
 
-<img src="../../images/categories/buildtools.svg" alt="Small Windmill" width="160">
+<img src="../../images/icons/2961306312.png" alt="Small Windmill" width="160">
 
 | | |
 |---|---|

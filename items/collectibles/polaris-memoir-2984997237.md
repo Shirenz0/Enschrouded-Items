@@ -1,6 +1,6 @@
 # Polaris' Memoir
 
-<img src="../../images/icons/2984997237.png" alt="Polaris' Memoir" width="160">
+<img src="../../images/icons/2984997237.png" alt="Polaris&#x27; Memoir" width="160">
 
 | | |
 |---|---|

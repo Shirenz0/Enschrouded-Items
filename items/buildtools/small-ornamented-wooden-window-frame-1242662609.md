@@ -1,6 +1,6 @@
 # Small Ornamented Wooden Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ornamented Wooden Window Frame" width="160">
+<img src="../../images/icons/1242662609.png" alt="Small Ornamented Wooden Window Frame" width="160">
 
 | | |
 |---|---|

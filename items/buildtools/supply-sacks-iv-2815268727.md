@@ -1,6 +1,6 @@
 # Supply Sacks IV
 
-<img src="../../images/categories/buildtools.svg" alt="Supply Sacks IV" width="160">
+<img src="../../images/icons/2815268727.png" alt="Supply Sacks IV" width="160">
 
 | | |
 |---|---|

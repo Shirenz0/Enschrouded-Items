@@ -1,6 +1,6 @@
 # Jezmina's Journey Begins
 
-<img src="../../images/categories/buildtools.svg" alt="Jezmina's Journey Begins" width="160">
+<img src="../../images/icons/3331017965.png" alt="Jezmina&#x27;s Journey Begins" width="160">
 
 | | |
 |---|---|

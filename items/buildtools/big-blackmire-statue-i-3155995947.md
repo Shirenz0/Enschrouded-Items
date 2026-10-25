@@ -1,6 +1,6 @@
 # Big Blackmire Statue I
 
-<img src="../../images/categories/buildtools.svg" alt="Big Blackmire Statue I" width="160">
+<img src="../../images/icons/3155995947.png" alt="Big Blackmire Statue I" width="160">
 
 | | |
 |---|---|

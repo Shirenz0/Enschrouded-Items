@@ -1,6 +1,6 @@
 # Purple Rocket
 
-<img src="../../images/categories/buildtools.svg" alt="Purple Rocket" width="160">
+<img src="../../images/icons/2092617605.png" alt="Purple Rocket" width="160">
 
 | | |
 |---|---|

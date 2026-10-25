@@ -1,6 +1,6 @@
 # Small Mortar
 
-<img src="../../images/categories/buildtools.svg" alt="Small Mortar" width="160">
+<img src="../../images/icons/4188185967.png" alt="Small Mortar" width="160">
 
 | | |
 |---|---|

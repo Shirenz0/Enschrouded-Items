@@ -1,6 +1,6 @@
 # Ancient Column
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Column" width="160">
+<img src="../../images/icons/4116932387.png" alt="Ancient Column" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Ginger Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Ginger Flower Pot" width="160">
+<img src="../../images/icons/3803006190.png" alt="Ginger Flower Pot" width="160">
 
 | | |
 |---|---|

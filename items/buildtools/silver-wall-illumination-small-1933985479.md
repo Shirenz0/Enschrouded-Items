@@ -1,6 +1,6 @@
 # Silver Wall Illumination small
 
-<img src="../../images/categories/buildtools.svg" alt="Silver Wall Illumination small" width="160">
+<img src="../../images/icons/1933985479.png" alt="Silver Wall Illumination small" width="160">
 
 | | |
 |---|---|

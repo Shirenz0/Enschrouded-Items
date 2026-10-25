@@ -1,6 +1,6 @@
 # T3 Tall Stone Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="T3 Tall Stone Brazier" width="160">
+<img src="../../images/icons/113411928.png" alt="T3 Tall Stone Brazier" width="160">
 
 | | |
 |---|---|

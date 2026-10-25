@@ -1,6 +1,6 @@
 # Miniature Embervale
 
-<img src="../../images/categories/buildtools.svg" alt="Miniature Embervale" width="160">
+<img src="../../images/icons/467801292.png" alt="Miniature Embervale" width="160">
 
 | | |
 |---|---|

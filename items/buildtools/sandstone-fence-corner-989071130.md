@@ -1,6 +1,6 @@
 # Sandstone Fence Corner
 
-<img src="../../images/categories/buildtools.svg" alt="Sandstone Fence Corner" width="160">
+<img src="../../images/icons/989071130.png" alt="Sandstone Fence Corner" width="160">
 
 | | |
 |---|---|

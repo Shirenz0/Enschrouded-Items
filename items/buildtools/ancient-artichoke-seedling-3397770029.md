@@ -1,6 +1,6 @@
 # Ancient "Artichoke" Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient "Artichoke" Seedling" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Ancient &quot;Artichoke&quot; Seedling" width="160">
 
 | | |
 |---|---|

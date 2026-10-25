@@ -1,6 +1,6 @@
 # Irrigation Gate Large
 
-<img src="../../images/categories/buildtools.svg" alt="Irrigation Gate Large" width="160">
+<img src="../../images/icons/177271020.png" alt="Irrigation Gate Large" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Simple Wooden Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Wooden Fence" width="160">
+<img src="../../images/icons/3664682257.png" alt="Simple Wooden Fence" width="160">
 
 | | |
 |---|---|

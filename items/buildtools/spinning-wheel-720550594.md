@@ -1,6 +1,6 @@
 # Spinning Wheel
 
-<img src="../../images/categories/buildtools.svg" alt="Spinning Wheel" width="160">
+<img src="../../images/icons/720550594.png" alt="Spinning Wheel" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Ancient Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Fence" width="160">
+<img src="../../images/icons/2152383033.png" alt="Ancient Fence" width="160">
 
 | | |
 |---|---|

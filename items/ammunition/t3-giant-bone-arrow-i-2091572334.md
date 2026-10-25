@@ -1,6 +1,6 @@
 # T3 Giant Bone Arrow I
 
-<img src="../../images/categories/ammunition.svg" alt="T3 Giant Bone Arrow I" width="160">
+<img src="../../images/icons/2091572334.png" alt="T3 Giant Bone Arrow I" width="160">
 
 | | |
 |---|---|

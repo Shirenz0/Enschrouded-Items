@@ -1,6 +1,6 @@
 # Gold Fell Cyclops Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Fell Cyclops Trophy" width="160">
+<img src="../../images/icons/1001479248.png" alt="Gold Fell Cyclops Trophy" width="160">
 
 | | |
 |---|---|

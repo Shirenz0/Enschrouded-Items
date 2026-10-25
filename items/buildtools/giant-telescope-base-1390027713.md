@@ -1,6 +1,6 @@
 # Giant Telescope Base
 
-<img src="../../images/categories/buildtools.svg" alt="Giant Telescope Base" width="160">
+<img src="../../images/icons/1390027713.png" alt="Giant Telescope Base" width="160">
 
 | | |
 |---|---|

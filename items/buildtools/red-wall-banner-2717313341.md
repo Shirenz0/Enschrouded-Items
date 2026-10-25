@@ -1,6 +1,6 @@
 # Red Wall Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Red Wall Banner" width="160">
+<img src="../../images/icons/2717313341.png" alt="Red Wall Banner" width="160">
 
 | | |
 |---|---|

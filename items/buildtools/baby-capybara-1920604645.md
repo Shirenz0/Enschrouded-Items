@@ -1,6 +1,6 @@
 # Baby Capybara
 
-<img src="../../images/categories/buildtools.svg" alt="Baby Capybara" width="160">
+<img src="../../images/icons/1920604645.png" alt="Baby Capybara" width="160">
 
 | | |
 |---|---|

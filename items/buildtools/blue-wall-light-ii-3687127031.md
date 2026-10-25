@@ -1,6 +1,6 @@
 # Blue Wall Light II
 
-<img src="../../images/categories/buildtools.svg" alt="Blue Wall Light II" width="160">
+<img src="../../images/icons/3687127031.png" alt="Blue Wall Light II" width="160">
 
 | | |
 |---|---|

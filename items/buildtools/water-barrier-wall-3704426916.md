@@ -1,6 +1,6 @@
 # Water Barrier Wall
 
-<img src="../../images/categories/buildtools.svg" alt="Water Barrier Wall" width="160">
+<img src="../../images/icons/3704426916.png" alt="Water Barrier Wall" width="160">
 
 | | |
 |---|---|

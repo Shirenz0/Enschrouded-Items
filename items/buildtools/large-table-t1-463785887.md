@@ -1,6 +1,6 @@
 # Large Table T1
 
-<img src="../../images/categories/buildtools.svg" alt="Large Table T1" width="160">
+<img src="../../images/icons/463785887.png" alt="Large Table T1" width="160">
 
 | | |
 |---|---|

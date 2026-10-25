@@ -1,6 +1,6 @@
 # Small Castle Table
 
-<img src="../../images/categories/buildtools.svg" alt="Small Castle Table" width="160">
+<img src="../../images/icons/3510215893.png" alt="Small Castle Table" width="160">
 
 | | |
 |---|---|

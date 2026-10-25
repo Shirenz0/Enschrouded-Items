@@ -1,6 +1,6 @@
 # T6 Bamboo Palm Leaf Umbrella
 
-<img src="../../images/categories/buildtools.svg" alt="T6 Bamboo Palm Leaf Umbrella" width="160">
+<img src="../../images/icons/56166095.png" alt="T6 Bamboo Palm Leaf Umbrella" width="160">
 
 | | |
 |---|---|

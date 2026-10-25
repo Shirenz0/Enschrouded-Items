@@ -1,6 +1,6 @@
 # Simple Wood Support
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Wood Support" width="160">
+<img src="../../images/icons/2587423299.png" alt="Simple Wood Support" width="160">
 
 | | |
 |---|---|

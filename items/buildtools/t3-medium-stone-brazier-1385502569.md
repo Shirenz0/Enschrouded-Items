@@ -1,6 +1,6 @@
 # T3 Medium Stone Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="T3 Medium Stone Brazier" width="160">
+<img src="../../images/icons/1385502569.png" alt="T3 Medium Stone Brazier" width="160">
 
 | | |
 |---|---|

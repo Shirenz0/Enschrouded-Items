@@ -1,6 +1,6 @@
 # Rustic Window Frame II
 
-<img src="../../images/categories/buildtools.svg" alt="Rustic Window Frame II" width="160">
+<img src="../../images/icons/1411224346.png" alt="Rustic Window Frame II" width="160">
 
 | | |
 |---|---|

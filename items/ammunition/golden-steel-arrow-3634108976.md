@@ -1,6 +1,6 @@
 # Golden Steel Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Golden Steel Arrow" width="160">
+<img src="../../images/icons/3634108976.png" alt="Golden Steel Arrow" width="160">
 
 | | |
 |---|---|

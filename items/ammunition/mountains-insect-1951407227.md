@@ -1,6 +1,6 @@
 # Mountains Insect
 
-<img src="../../images/categories/ammunition.svg" alt="Mountains Insect" width="160">
+<img src="../../images/icons/1951407227.png" alt="Mountains Insect" width="160">
 
 | | |
 |---|---|

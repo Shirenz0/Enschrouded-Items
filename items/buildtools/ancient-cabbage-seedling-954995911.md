@@ -1,6 +1,6 @@
 # Ancient "Cabbage" Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient "Cabbage" Seedling" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Ancient &quot;Cabbage&quot; Seedling" width="160">
 
 | | |
 |---|---|

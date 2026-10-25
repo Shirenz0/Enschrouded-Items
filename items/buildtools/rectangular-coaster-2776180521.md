@@ -1,6 +1,6 @@
 # Rectangular Coaster
 
-<img src="../../images/categories/buildtools.svg" alt="Rectangular Coaster" width="160">
+<img src="../../images/icons/2776180521.png" alt="Rectangular Coaster" width="160">
 
 | | |
 |---|---|

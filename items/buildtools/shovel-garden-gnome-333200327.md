@@ -1,6 +1,6 @@
 # Shovel Garden Gnome
 
-<img src="../../images/categories/buildtools.svg" alt="Shovel Garden Gnome" width="160">
+<img src="../../images/icons/333200327.png" alt="Shovel Garden Gnome" width="160">
 
 | | |
 |---|---|

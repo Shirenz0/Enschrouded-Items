@@ -1,6 +1,6 @@
 # Wheat Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Wheat Seedling" width="160">
+<img src="../../images/icons/1811689543.png" alt="Wheat Seedling" width="160">
 
 | | |
 |---|---|

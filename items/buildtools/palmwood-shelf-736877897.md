@@ -1,6 +1,6 @@
 # Palmwood Shelf
 
-<img src="../../images/categories/buildtools.svg" alt="Palmwood Shelf" width="160">
+<img src="../../images/icons/736877897.png" alt="Palmwood Shelf" width="160">
 
 | | |
 |---|---|

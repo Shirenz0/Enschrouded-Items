@@ -1,6 +1,6 @@
 # Ancient Temple Door
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Temple Door" width="160">
+<img src="../../images/icons/1038314424.png" alt="Ancient Temple Door" width="160">
 
 | | |
 |---|---|

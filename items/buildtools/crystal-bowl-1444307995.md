@@ -1,6 +1,6 @@
 # Crystal Bowl
 
-<img src="../../images/categories/buildtools.svg" alt="Crystal Bowl" width="160">
+<img src="../../images/icons/1444307995.png" alt="Crystal Bowl" width="160">
 
 | | |
 |---|---|

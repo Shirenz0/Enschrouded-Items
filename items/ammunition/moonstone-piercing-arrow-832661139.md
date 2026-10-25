@@ -1,6 +1,6 @@
 # Moonstone Piercing Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Moonstone Piercing Arrow" width="160">
+<img src="../../images/icons/832661139.png" alt="Moonstone Piercing Arrow" width="160">
 
 | | |
 |---|---|

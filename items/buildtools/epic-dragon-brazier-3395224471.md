@@ -1,6 +1,6 @@
 # Epic Dragon Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Epic Dragon Brazier" width="160">
+<img src="../../images/icons/3395224471.png" alt="Epic Dragon Brazier" width="160">
 
 | | |
 |---|---|

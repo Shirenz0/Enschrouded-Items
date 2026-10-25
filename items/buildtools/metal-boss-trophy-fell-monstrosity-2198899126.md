@@ -1,6 +1,6 @@
 # Metal Boss Trophy Fell Monstrosity
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Fell Monstrosity" width="160">
+<img src="../../images/icons/2198899126.png" alt="Metal Boss Trophy Fell Monstrosity" width="160">
 
 | | |
 |---|---|

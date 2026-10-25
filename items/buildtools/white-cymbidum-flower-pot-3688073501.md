@@ -1,6 +1,6 @@
 # White Cymbidum Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="White Cymbidum Flower Pot" width="160">
+<img src="../../images/icons/3688073501.png" alt="White Cymbidum Flower Pot" width="160">
 
 | | |
 |---|---|

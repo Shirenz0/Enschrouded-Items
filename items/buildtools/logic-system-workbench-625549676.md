@@ -1,6 +1,6 @@
 # Logic System Workbench
 
-<img src="../../images/categories/buildtools.svg" alt="Logic System Workbench" width="160">
+<img src="../../images/icons/625549676.png" alt="Logic System Workbench" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Switch button
 
-<img src="../../images/categories/buildtools.svg" alt="Switch button" width="160">
+<img src="../../images/icons/1197163938.png" alt="Switch button" width="160">
 
 | | |
 |---|---|

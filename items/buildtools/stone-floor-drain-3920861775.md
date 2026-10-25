@@ -1,6 +1,6 @@
 # Stone Floor Drain
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Floor Drain" width="160">
+<img src="../../images/icons/3920861775.png" alt="Stone Floor Drain" width="160">
 
 | | |
 |---|---|

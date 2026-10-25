@@ -1,6 +1,6 @@
 # Small Ancient Arc
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ancient Arc" width="160">
+<img src="../../images/icons/1887370548.png" alt="Small Ancient Arc" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Crystal Jug
 
-<img src="../../images/categories/buildtools.svg" alt="Crystal Jug" width="160">
+<img src="../../images/icons/977816684.png" alt="Crystal Jug" width="160">
 
 | | |
 |---|---|

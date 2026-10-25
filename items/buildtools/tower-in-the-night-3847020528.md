@@ -1,6 +1,6 @@
 # "Tower In The Night"
 
-<img src="../../images/categories/buildtools.svg" alt=""Tower In The Night"" width="160">
+<img src="../../images/icons/3847020528.png" alt="&quot;Tower In The Night&quot;" width="160">
 
 | | |
 |---|---|

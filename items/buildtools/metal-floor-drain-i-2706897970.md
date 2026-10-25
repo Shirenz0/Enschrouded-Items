@@ -1,6 +1,6 @@
 # Metal Floor Drain I
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Floor Drain I" width="160">
+<img src="../../images/icons/2706897970.png" alt="Metal Floor Drain I" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Leather Bag
 
-<img src="../../images/categories/buildtools.svg" alt="Leather Bag" width="160">
+<img src="../../images/icons/394999089.png" alt="Leather Bag" width="160">
 
 | | |
 |---|---|

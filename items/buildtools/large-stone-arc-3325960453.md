@@ -1,6 +1,6 @@
 # Large Stone Arc
 
-<img src="../../images/categories/buildtools.svg" alt="Large Stone Arc" width="160">
+<img src="../../images/icons/3325960453.png" alt="Large Stone Arc" width="160">
 
 | | |
 |---|---|

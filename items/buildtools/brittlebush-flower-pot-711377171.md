@@ -1,6 +1,6 @@
 # Brittlebush Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Brittlebush Flower Pot" width="160">
+<img src="../../images/icons/711377171.png" alt="Brittlebush Flower Pot" width="160">
 
 | | |
 |---|---|

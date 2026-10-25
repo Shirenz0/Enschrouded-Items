@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Bench
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Bench" width="160">
+<img src="../../images/icons/2649880194.png" alt="T5 Prop Decoration Comfort Bench" width="160">
 
 | | |
 |---|---|

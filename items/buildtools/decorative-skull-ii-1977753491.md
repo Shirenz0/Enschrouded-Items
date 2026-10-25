@@ -1,6 +1,6 @@
 # Decorative Skull II
 
-<img src="../../images/categories/buildtools.svg" alt="Decorative Skull II" width="160">
+<img src="../../images/icons/1977753491.png" alt="Decorative Skull II" width="160">
 
 | | |
 |---|---|

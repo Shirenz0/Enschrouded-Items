@@ -1,6 +1,6 @@
 # Red Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Red Flower Pot" width="160">
+<img src="../../images/icons/2413776919.png" alt="Red Flower Pot" width="160">
 
 | | |
 |---|---|

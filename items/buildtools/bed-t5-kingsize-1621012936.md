@@ -1,6 +1,6 @@
 # Bed T5 Kingsize
 
-<img src="../../images/categories/buildtools.svg" alt="Bed T5 Kingsize" width="160">
+<img src="../../images/icons/1621012936.png" alt="Bed T5 Kingsize" width="160">
 
 | | |
 |---|---|

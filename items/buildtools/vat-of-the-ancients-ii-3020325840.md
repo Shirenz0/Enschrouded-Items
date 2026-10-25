@@ -1,6 +1,6 @@
 # Vat Of The Ancients II
 
-<img src="../../images/categories/buildtools.svg" alt="Vat Of The Ancients II" width="160">
+<img src="../../images/icons/3020325840.png" alt="Vat Of The Ancients II" width="160">
 
 | | |
 |---|---|

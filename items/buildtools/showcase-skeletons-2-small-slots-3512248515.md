@@ -1,6 +1,6 @@
 # Showcase Skeletons 2 small slots
 
-<img src="../../images/categories/buildtools.svg" alt="Showcase Skeletons 2 small slots" width="160">
+<img src="../../images/icons/3512248515.png" alt="Showcase Skeletons 2 small slots" width="160">
 
 | | |
 |---|---|

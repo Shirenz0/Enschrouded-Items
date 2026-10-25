@@ -1,6 +1,6 @@
 # Ranged switch
 
-<img src="../../images/categories/buildtools.svg" alt="Ranged switch" width="160">
+<img src="../../images/icons/2503926869.png" alt="Ranged switch" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Scrap Bucket
 
-<img src="../../images/categories/buildtools.svg" alt="Scrap Bucket" width="160">
+<img src="../../images/icons/3761076482.png" alt="Scrap Bucket" width="160">
 
 | | |
 |---|---|

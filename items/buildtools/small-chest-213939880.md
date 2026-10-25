@@ -1,6 +1,6 @@
 # Small Chest
 
-<img src="../../images/categories/buildtools.svg" alt="Small Chest" width="160">
+<img src="../../images/icons/213939880.png" alt="Small Chest" width="160">
 
 | | |
 |---|---|

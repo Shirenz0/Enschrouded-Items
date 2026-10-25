@@ -1,6 +1,6 @@
 # Stone Handrail
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Handrail" width="160">
+<img src="../../images/icons/1746907104.png" alt="Stone Handrail" width="160">
 
 | | |
 |---|---|

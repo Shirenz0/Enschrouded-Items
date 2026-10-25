@@ -1,6 +1,6 @@
 # Gift Of Violence
 
-<img src="../../images/categories/buildtools.svg" alt="Gift Of Violence" width="160">
+<img src="../../images/icons/3672233769.png" alt="Gift Of Violence" width="160">
 
 | | |
 |---|---|

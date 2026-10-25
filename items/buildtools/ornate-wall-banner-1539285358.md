@@ -1,6 +1,6 @@
 # Ornate Wall Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Ornate Wall Banner" width="160">
+<img src="../../images/icons/1539285358.png" alt="Ornate Wall Banner" width="160">
 
 | | |
 |---|---|

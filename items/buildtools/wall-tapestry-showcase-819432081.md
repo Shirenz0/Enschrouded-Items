@@ -1,6 +1,6 @@
 # Wall Tapestry showcase
 
-<img src="../../images/categories/buildtools.svg" alt="Wall Tapestry showcase" width="160">
+<img src="../../images/icons/819432081.png" alt="Wall Tapestry showcase" width="160">
 
 | | |
 |---|---|

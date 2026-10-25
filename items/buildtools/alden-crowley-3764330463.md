@@ -1,6 +1,6 @@
 # Alden Crowley
 
-<img src="../../images/categories/buildtools.svg" alt="Alden Crowley" width="160">
+<img src="../../images/icons/3764330463.png" alt="Alden Crowley" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Fine Wooden Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Wooden Fence Pole" width="160">
+<img src="../../images/icons/4080829941.png" alt="Fine Wooden Fence Pole" width="160">
 
 | | |
 |---|---|

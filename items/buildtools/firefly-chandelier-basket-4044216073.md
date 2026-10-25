@@ -1,6 +1,6 @@
 # Firefly Chandelier Basket
 
-<img src="../../images/categories/buildtools.svg" alt="Firefly Chandelier Basket" width="160">
+<img src="../../images/icons/4044216073.png" alt="Firefly Chandelier Basket" width="160">
 
 | | |
 |---|---|

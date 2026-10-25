@@ -1,6 +1,6 @@
 # Clay Fire Place
 
-<img src="../../images/categories/buildtools.svg" alt="Clay Fire Place" width="160">
+<img src="../../images/icons/1910038255.png" alt="Clay Fire Place" width="160">
 
 | | |
 |---|---|

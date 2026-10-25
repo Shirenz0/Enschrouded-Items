@@ -1,6 +1,6 @@
 # Fake Stone Wall Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Fake Stone Wall Secret" width="160">
+<img src="../../images/icons/1276236959.png" alt="Fake Stone Wall Secret" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Braid Wig Head
 
-<img src="../../images/categories/buildtools.svg" alt="Braid Wig Head" width="160">
+<img src="../../images/icons/867322513.png" alt="Braid Wig Head" width="160">
 
 | | |
 |---|---|

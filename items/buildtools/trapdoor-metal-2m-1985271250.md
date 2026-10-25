@@ -1,6 +1,6 @@
 # Trapdoor metal 2m
 
-<img src="../../images/categories/buildtools.svg" alt="Trapdoor metal 2m" width="160">
+<img src="../../images/icons/1985271250.png" alt="Trapdoor metal 2m" width="160">
 
 | | |
 |---|---|

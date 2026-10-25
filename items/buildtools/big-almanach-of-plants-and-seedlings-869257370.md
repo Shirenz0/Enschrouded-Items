@@ -1,6 +1,6 @@
 # Big Almanach of Plants and Seedlings
 
-<img src="../../images/categories/buildtools.svg" alt="Big Almanach of Plants and Seedlings" width="160">
+<img src="../../images/icons/869257370.png" alt="Big Almanach of Plants and Seedlings" width="160">
 
 | | |
 |---|---|

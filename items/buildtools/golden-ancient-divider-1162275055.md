@@ -1,6 +1,6 @@
 # Golden/Ancient Divider
 
-<img src="../../images/categories/buildtools.svg" alt="Golden/Ancient Divider" width="160">
+<img src="../../images/icons/1162275055.png" alt="Golden/Ancient Divider" width="160">
 
 | | |
 |---|---|

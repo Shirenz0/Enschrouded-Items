@@ -1,6 +1,6 @@
 # Tree Seedling "Tree 02 Deepwoods"
 
-<img src="../../images/categories/buildtools.svg" alt="Tree Seedling "Tree 02 Deepwoods"" width="160">
+<img src="../../images/icons/3622968297.png" alt="Tree Seedling &quot;Tree 02 Deepwoods&quot;" width="160">
 
 | | |
 |---|---|

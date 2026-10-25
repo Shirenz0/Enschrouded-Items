@@ -1,6 +1,6 @@
 # Astronomy Wall Lamp
 
-<img src="../../images/categories/buildtools.svg" alt="Astronomy Wall Lamp" width="160">
+<img src="../../images/icons/4055833197.png" alt="Astronomy Wall Lamp" width="160">
 
 | | |
 |---|---|

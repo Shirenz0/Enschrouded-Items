@@ -1,6 +1,6 @@
 # Large Ornate Palmwood Cabinet
 
-<img src="../../images/categories/buildtools.svg" alt="Large Ornate Palmwood Cabinet" width="160">
+<img src="../../images/icons/3949299402.png" alt="Large Ornate Palmwood Cabinet" width="160">
 
 | | |
 |---|---|

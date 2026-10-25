@@ -1,6 +1,6 @@
 # Huge Ancient Door
 
-<img src="../../images/categories/buildtools.svg" alt="Huge Ancient Door" width="160">
+<img src="../../images/icons/190504416.png" alt="Huge Ancient Door" width="160">
 
 | | |
 |---|---|

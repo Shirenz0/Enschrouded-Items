@@ -1,6 +1,6 @@
 # DLC SUpporter Ranger Banner Wall
 
-<img src="../../images/categories/buildtools.svg" alt="DLC SUpporter Ranger Banner Wall" width="160">
+<img src="../../images/icons/1823962788.png" alt="DLC SUpporter Ranger Banner Wall" width="160">
 
 | | |
 |---|---|

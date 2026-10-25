@@ -1,6 +1,6 @@
 # Room Divider III
 
-<img src="../../images/categories/buildtools.svg" alt="Room Divider III" width="160">
+<img src="../../images/icons/3992184683.png" alt="Room Divider III" width="160">
 
 | | |
 |---|---|

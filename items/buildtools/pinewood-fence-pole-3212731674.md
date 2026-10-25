@@ -1,6 +1,6 @@
 # Pinewood Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Pinewood Fence Pole" width="160">
+<img src="../../images/icons/3212731674.png" alt="Pinewood Fence Pole" width="160">
 
 | | |
 |---|---|

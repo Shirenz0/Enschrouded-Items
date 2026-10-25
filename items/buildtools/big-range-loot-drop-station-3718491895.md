@@ -1,6 +1,6 @@
 # Big range Loot Drop Station
 
-<img src="../../images/categories/buildtools.svg" alt="Big range Loot Drop Station" width="160">
+<img src="../../images/icons/3718491895.png" alt="Big range Loot Drop Station" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Ornamented Wooden Cabinet
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ornamented Wooden Cabinet" width="160">
+<img src="../../images/icons/120961786.png" alt="Small Ornamented Wooden Cabinet" width="160">
 
 | | |
 |---|---|

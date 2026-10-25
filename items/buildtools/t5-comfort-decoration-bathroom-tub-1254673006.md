@@ -1,6 +1,6 @@
 # T5 Comfort Decoration Bathroom Tub
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Comfort Decoration Bathroom Tub" width="160">
+<img src="../../images/icons/1254673006.png" alt="T5 Comfort Decoration Bathroom Tub" width="160">
 
 | | |
 |---|---|

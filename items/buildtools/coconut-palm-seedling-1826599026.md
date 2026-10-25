@@ -1,6 +1,6 @@
 # Coconut Palm Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Coconut Palm Seedling" width="160">
+<img src="../../images/icons/1826599026.png" alt="Coconut Palm Seedling" width="160">
 
 | | |
 |---|---|

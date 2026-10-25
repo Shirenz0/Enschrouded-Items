@@ -1,6 +1,6 @@
 # Carved Tropical Wood Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Tropical Wood Fence Pole" width="160">
+<img src="../../images/icons/161588181.png" alt="Carved Tropical Wood Fence Pole" width="160">
 
 | | |
 |---|---|

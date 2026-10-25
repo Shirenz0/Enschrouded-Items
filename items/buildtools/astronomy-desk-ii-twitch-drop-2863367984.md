@@ -1,6 +1,6 @@
 # Astronomy Desk II Twitch Drop
 
-<img src="../../images/categories/buildtools.svg" alt="Astronomy Desk II Twitch Drop" width="160">
+<img src="../../images/icons/2863367984.png" alt="Astronomy Desk II Twitch Drop" width="160">
 
 | | |
 |---|---|

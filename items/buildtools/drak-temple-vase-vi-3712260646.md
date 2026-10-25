@@ -1,6 +1,6 @@
 # Drak Temple Vase VI
 
-<img src="../../images/categories/buildtools.svg" alt="Drak Temple Vase VI" width="160">
+<img src="../../images/icons/3712260646.png" alt="Drak Temple Vase VI" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Magic Small Chest
 
-<img src="../../images/categories/buildtools.svg" alt="Magic Small Chest" width="160">
+<img src="../../images/icons/4044650321.png" alt="Magic Small Chest" width="160">
 
 | | |
 |---|---|

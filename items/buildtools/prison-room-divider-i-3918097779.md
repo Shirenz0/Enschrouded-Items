@@ -1,6 +1,6 @@
 # Prison Room Divider I
 
-<img src="../../images/categories/buildtools.svg" alt="Prison Room Divider I" width="160">
+<img src="../../images/icons/3918097779.png" alt="Prison Room Divider I" width="160">
 
 | | |
 |---|---|

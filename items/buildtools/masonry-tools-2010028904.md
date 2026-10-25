@@ -1,6 +1,6 @@
 # Masonry Tools
 
-<img src="../../images/categories/buildtools.svg" alt="Masonry Tools" width="160">
+<img src="../../images/icons/2010028904.png" alt="Masonry Tools" width="160">
 
 | | |
 |---|---|

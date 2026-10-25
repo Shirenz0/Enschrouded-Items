@@ -1,6 +1,6 @@
 # Chamomile Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Chamomile Seedling" width="160">
+<img src="../../images/icons/2542499127.png" alt="Chamomile Seedling" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Blackmire Statue VI
 
-<img src="../../images/categories/buildtools.svg" alt="Blackmire Statue VI" width="160">
+<img src="../../images/icons/3459567060.png" alt="Blackmire Statue VI" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Metal Boss Trophy Heavy
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Heavy" width="160">
+<img src="../../images/icons/2220616524.png" alt="Metal Boss Trophy Heavy" width="160">
 
 | | |
 |---|---|

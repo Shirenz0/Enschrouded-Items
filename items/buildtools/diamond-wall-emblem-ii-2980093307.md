@@ -1,6 +1,6 @@
 # Diamond Wall Emblem II
 
-<img src="../../images/categories/buildtools.svg" alt="Diamond Wall Emblem II" width="160">
+<img src="../../images/icons/2980093307.png" alt="Diamond Wall Emblem II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # High Elegant Armchair
 
-<img src="../../images/categories/buildtools.svg" alt="High Elegant Armchair" width="160">
+<img src="../../images/icons/3921820605.png" alt="High Elegant Armchair" width="160">
 
 | | |
 |---|---|

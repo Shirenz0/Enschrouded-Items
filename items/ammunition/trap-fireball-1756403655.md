@@ -1,6 +1,6 @@
 # Trap Fireball
 
-<img src="../../images/categories/ammunition.svg" alt="Trap Fireball" width="160">
+<img src="../../images/icons/1756403655.png" alt="Trap Fireball" width="160">
 
 | | |
 |---|---|

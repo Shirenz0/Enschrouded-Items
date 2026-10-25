@@ -1,6 +1,6 @@
 # High Paling Fence III
 
-<img src="../../images/categories/buildtools.svg" alt="High Paling Fence III" width="160">
+<img src="../../images/icons/1558334899.png" alt="High Paling Fence III" width="160">
 
 | | |
 |---|---|

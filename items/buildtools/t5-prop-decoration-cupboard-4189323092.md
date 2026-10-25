@@ -1,6 +1,6 @@
 # T5 Prop Decoration Cupboard
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Cupboard" width="160">
+<img src="../../images/icons/4189323092.png" alt="T5 Prop Decoration Cupboard" width="160">
 
 | | |
 |---|---|

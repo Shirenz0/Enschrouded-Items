@@ -1,6 +1,6 @@
 # Slick Fade Wig Head
 
-<img src="../../images/categories/buildtools.svg" alt="Slick Fade Wig Head" width="160">
+<img src="../../images/icons/3381094059.png" alt="Slick Fade Wig Head" width="160">
 
 | | |
 |---|---|

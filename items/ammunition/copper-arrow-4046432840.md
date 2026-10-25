@@ -1,6 +1,6 @@
 # Copper Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Copper Arrow" width="160">
+<img src="../../images/icons/4046432840.png" alt="Copper Arrow" width="160">
 
 | | |
 |---|---|

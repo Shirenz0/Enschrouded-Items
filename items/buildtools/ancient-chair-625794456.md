@@ -1,6 +1,6 @@
 # Ancient Chair
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Chair" width="160">
+<img src="../../images/icons/625794456.png" alt="Ancient Chair" width="160">
 
 | | |
 |---|---|

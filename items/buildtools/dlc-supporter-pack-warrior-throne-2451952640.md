@@ -1,6 +1,6 @@
 # DLC Supporter Pack Warrior Throne
 
-<img src="../../images/categories/buildtools.svg" alt="DLC Supporter Pack Warrior Throne" width="160">
+<img src="../../images/icons/2451952640.png" alt="DLC Supporter Pack Warrior Throne" width="160">
 
 | | |
 |---|---|

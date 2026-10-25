@@ -1,6 +1,6 @@
 # Cactus Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Cactus Plant Pot" width="160">
+<img src="../../images/icons/2779909442.png" alt="Cactus Plant Pot" width="160">
 
 | | |
 |---|---|

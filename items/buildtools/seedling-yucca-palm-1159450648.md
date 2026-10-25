@@ -1,6 +1,6 @@
 # Seedling Yucca Palm
 
-<img src="../../images/categories/buildtools.svg" alt="Seedling Yucca Palm" width="160">
+<img src="../../images/icons/1159450648.png" alt="Seedling Yucca Palm" width="160">
 
 | | |
 |---|---|

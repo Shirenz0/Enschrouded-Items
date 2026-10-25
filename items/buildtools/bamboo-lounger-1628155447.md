@@ -1,6 +1,6 @@
 # Bamboo Lounger
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Lounger" width="160">
+<img src="../../images/icons/1628155447.png" alt="Bamboo Lounger" width="160">
 
 | | |
 |---|---|

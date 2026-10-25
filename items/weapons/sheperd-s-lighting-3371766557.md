@@ -1,6 +1,6 @@
 # Sheperd's Lighting
 
-<img src="../../images/categories/weapons.svg" alt="Sheperd's Lighting" width="160">
+<img src="../../images/categories/weapons.svg" alt="Sheperd&#x27;s Lighting" width="160">
 
 | | |
 |---|---|

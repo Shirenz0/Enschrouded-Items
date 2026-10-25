@@ -1,6 +1,6 @@
 # Weapon Stand Wand
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Wand" width="160">
+<img src="../../images/icons/2369083236.png" alt="Weapon Stand Wand" width="160">
 
 | | |
 |---|---|

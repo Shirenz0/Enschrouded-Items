@@ -1,6 +1,6 @@
 # Small Elegant Sofa
 
-<img src="../../images/categories/buildtools.svg" alt="Small Elegant Sofa" width="160">
+<img src="../../images/icons/3816262638.png" alt="Small Elegant Sofa" width="160">
 
 | | |
 |---|---|

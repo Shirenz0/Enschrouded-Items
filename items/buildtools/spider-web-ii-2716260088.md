@@ -1,6 +1,6 @@
 # Spider Web II
 
-<img src="../../images/categories/buildtools.svg" alt="Spider Web II" width="160">
+<img src="../../images/icons/2716260088.png" alt="Spider Web II" width="160">
 
 | | |
 |---|---|

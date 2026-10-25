@@ -1,6 +1,6 @@
 # Butter Churn
 
-<img src="../../images/categories/buildtools.svg" alt="Butter Churn" width="160">
+<img src="../../images/icons/3032252431.png" alt="Butter Churn" width="160">
 
 | | |
 |---|---|

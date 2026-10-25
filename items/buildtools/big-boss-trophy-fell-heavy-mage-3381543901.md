@@ -1,6 +1,6 @@
 # Big Boss Trophy Fell Heavy Mage
 
-<img src="../../images/categories/buildtools.svg" alt="Big Boss Trophy Fell Heavy Mage" width="160">
+<img src="../../images/icons/3381543901.png" alt="Big Boss Trophy Fell Heavy Mage" width="160">
 
 | | |
 |---|---|

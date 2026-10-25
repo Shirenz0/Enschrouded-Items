@@ -1,6 +1,6 @@
 # Wooden Crate
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Crate" width="160">
+<img src="../../images/icons/3207659759.png" alt="Wooden Crate" width="160">
 
 | | |
 |---|---|

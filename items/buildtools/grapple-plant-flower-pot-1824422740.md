@@ -1,6 +1,6 @@
 # Grapple Plant Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Grapple Plant Flower Pot" width="160">
+<img src="../../images/icons/1824422740.png" alt="Grapple Plant Flower Pot" width="160">
 
 | | |
 |---|---|

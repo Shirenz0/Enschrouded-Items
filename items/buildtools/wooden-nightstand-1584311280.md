@@ -1,6 +1,6 @@
 # Wooden Nightstand
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Nightstand" width="160">
+<img src="../../images/icons/1584311280.png" alt="Wooden Nightstand" width="160">
 
 | | |
 |---|---|

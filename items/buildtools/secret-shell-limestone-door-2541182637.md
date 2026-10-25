@@ -1,6 +1,6 @@
 # Secret Shell Limestone Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Shell Limestone Door" width="160">
+<img src="../../images/icons/2541182637.png" alt="Secret Shell Limestone Door" width="160">
 
 | | |
 |---|---|

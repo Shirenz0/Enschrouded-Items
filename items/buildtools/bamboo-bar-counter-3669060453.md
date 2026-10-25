@@ -1,6 +1,6 @@
 # Bamboo Bar Counter
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Bar Counter" width="160">
+<img src="../../images/icons/3669060453.png" alt="Bamboo Bar Counter" width="160">
 
 | | |
 |---|---|

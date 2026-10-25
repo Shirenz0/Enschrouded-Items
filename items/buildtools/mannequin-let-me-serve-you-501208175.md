@@ -1,6 +1,6 @@
 # Mannequin "Let Me Serve You"
 
-<img src="../../images/categories/buildtools.svg" alt="Mannequin "Let Me Serve You"" width="160">
+<img src="../../images/icons/501208175.png" alt="Mannequin &quot;Let Me Serve You&quot;" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Tanning Station
 
-<img src="../../images/categories/buildtools.svg" alt="Tanning Station" width="160">
+<img src="../../images/icons/2901638773.png" alt="Tanning Station" width="160">
 
 | | |
 |---|---|

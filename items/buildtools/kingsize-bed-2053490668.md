@@ -1,6 +1,6 @@
 # Kingsize Bed
 
-<img src="../../images/categories/buildtools.svg" alt="Kingsize Bed" width="160">
+<img src="../../images/icons/2053490668.png" alt="Kingsize Bed" width="160">
 
 | | |
 |---|---|

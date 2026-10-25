@@ -1,6 +1,6 @@
 # Stone Column Block
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Column Block" width="160">
+<img src="../../images/icons/3180227033.png" alt="Stone Column Block" width="160">
 
 | | |
 |---|---|

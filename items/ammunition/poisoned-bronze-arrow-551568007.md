@@ -1,6 +1,6 @@
 # Poisoned Bronze Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Poisoned Bronze Arrow" width="160">
+<img src="../../images/icons/551568007.png" alt="Poisoned Bronze Arrow" width="160">
 
 | | |
 |---|---|

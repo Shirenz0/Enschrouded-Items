@@ -1,6 +1,6 @@
 # Blackmire Statue IV
 
-<img src="../../images/categories/buildtools.svg" alt="Blackmire Statue IV" width="160">
+<img src="../../images/icons/3460636238.png" alt="Blackmire Statue IV" width="160">
 
 | | |
 |---|---|

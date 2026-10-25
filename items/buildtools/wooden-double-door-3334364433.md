@@ -1,6 +1,6 @@
 # Wooden Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Double Door" width="160">
+<img src="../../images/icons/3334364433.png" alt="Wooden Double Door" width="160">
 
 | | |
 |---|---|

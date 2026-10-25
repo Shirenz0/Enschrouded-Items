@@ -1,6 +1,6 @@
 # Low Crude Wooden Shelf
 
-<img src="../../images/categories/buildtools.svg" alt="Low Crude Wooden Shelf" width="160">
+<img src="../../images/icons/2585958107.png" alt="Low Crude Wooden Shelf" width="160">
 
 | | |
 |---|---|

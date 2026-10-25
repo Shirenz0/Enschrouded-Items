@@ -1,6 +1,6 @@
 # Illumination T2 Standing Torch
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Standing Torch" width="160">
+<img src="../../images/icons/3652824994.png" alt="Illumination T2 Standing Torch" width="160">
 
 | | |
 |---|---|

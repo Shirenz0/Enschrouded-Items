@@ -1,6 +1,6 @@
 # High Ornamented Wooden Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="High Ornamented Wooden Window Frame" width="160">
+<img src="../../images/icons/4069234902.png" alt="High Ornamented Wooden Window Frame" width="160">
 
 | | |
 |---|---|

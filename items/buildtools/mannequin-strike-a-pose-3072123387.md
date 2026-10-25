@@ -1,6 +1,6 @@
 # Mannequin "Strike A Pose"
 
-<img src="../../images/categories/buildtools.svg" alt="Mannequin "Strike A Pose"" width="160">
+<img src="../../images/icons/3072123387.png" alt="Mannequin &quot;Strike A Pose&quot;" width="160">
 
 | | |
 |---|---|

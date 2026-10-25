@@ -1,6 +1,6 @@
 # Sanddigger Feeder
 
-<img src="../../images/categories/buildtools.svg" alt="Sanddigger Feeder" width="160">
+<img src="../../images/icons/2879496165.png" alt="Sanddigger Feeder" width="160">
 
 | | |
 |---|---|

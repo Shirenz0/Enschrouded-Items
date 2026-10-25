@@ -1,6 +1,6 @@
 # Bamboo Stairs
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Stairs" width="160">
+<img src="../../images/icons/2175416596.png" alt="Bamboo Stairs" width="160">
 
 | | |
 |---|---|

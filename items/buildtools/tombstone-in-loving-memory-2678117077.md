@@ -1,6 +1,6 @@
 # Tombstone "In Loving Memory"
 
-<img src="../../images/categories/buildtools.svg" alt="Tombstone "In Loving Memory"" width="160">
+<img src="../../images/icons/2678117077.png" alt="Tombstone &quot;In Loving Memory&quot;" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Pinewood Room Divider II
 
-<img src="../../images/categories/buildtools.svg" alt="Pinewood Room Divider II" width="160">
+<img src="../../images/icons/2995278025.png" alt="Pinewood Room Divider II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Wall Emblem Diamond Shaped
 
-<img src="../../images/categories/buildtools.svg" alt="Wall Emblem Diamond Shaped" width="160">
+<img src="../../images/icons/2569698570.png" alt="Wall Emblem Diamond Shaped" width="160">
 
 | | |
 |---|---|

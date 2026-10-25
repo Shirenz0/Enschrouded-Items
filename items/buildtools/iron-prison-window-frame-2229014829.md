@@ -1,6 +1,6 @@
 # Iron Prison Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Prison Window Frame" width="160">
+<img src="../../images/icons/2229014829.png" alt="Iron Prison Window Frame" width="160">
 
 | | |
 |---|---|

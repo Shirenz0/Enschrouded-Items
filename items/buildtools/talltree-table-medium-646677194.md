@@ -1,6 +1,6 @@
 # Talltree Table Medium
 
-<img src="../../images/categories/buildtools.svg" alt="Talltree Table Medium" width="160">
+<img src="../../images/icons/646677194.png" alt="Talltree Table Medium" width="160">
 
 | | |
 |---|---|

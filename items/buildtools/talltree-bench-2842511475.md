@@ -1,6 +1,6 @@
 # TallTree bench
 
-<img src="../../images/categories/buildtools.svg" alt="TallTree bench" width="160">
+<img src="../../images/icons/2842511475.png" alt="TallTree bench" width="160">
 
 | | |
 |---|---|

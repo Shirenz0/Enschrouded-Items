@@ -1,6 +1,6 @@
 # Metal Boss Trophy Dragon
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Dragon" width="160">
+<img src="../../images/icons/3936373846.png" alt="Metal Boss Trophy Dragon" width="160">
 
 | | |
 |---|---|

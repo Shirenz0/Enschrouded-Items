@@ -1,6 +1,6 @@
 # Small Water Wheel
 
-<img src="../../images/categories/buildtools.svg" alt="Small Water Wheel" width="160">
+<img src="../../images/icons/1364879646.png" alt="Small Water Wheel" width="160">
 
 | | |
 |---|---|

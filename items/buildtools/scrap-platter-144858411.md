@@ -1,6 +1,6 @@
 # Scrap Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Scrap Platter" width="160">
+<img src="../../images/icons/144858411.png" alt="Scrap Platter" width="160">
 
 | | |
 |---|---|

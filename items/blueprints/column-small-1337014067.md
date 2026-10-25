@@ -1,6 +1,6 @@
 # Column Small
 
-<img src="../../images/categories/blueprints.svg" alt="Column Small" width="160">
+<img src="../../images/icons/1337014067.png" alt="Column Small" width="160">
 
 | | |
 |---|---|

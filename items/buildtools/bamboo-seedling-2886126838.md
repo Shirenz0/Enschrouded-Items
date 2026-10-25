@@ -1,6 +1,6 @@
 # Bamboo Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Seedling" width="160">
+<img src="../../images/icons/2886126838.png" alt="Bamboo Seedling" width="160">
 
 | | |
 |---|---|

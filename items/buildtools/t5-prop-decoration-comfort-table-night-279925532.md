@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Table Night
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Table Night" width="160">
+<img src="../../images/icons/279925532.png" alt="T5 Prop Decoration Comfort Table Night" width="160">
 
 | | |
 |---|---|

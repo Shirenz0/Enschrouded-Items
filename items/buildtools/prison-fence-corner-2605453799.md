@@ -1,6 +1,6 @@
 # Prison Fence Corner
 
-<img src="../../images/categories/buildtools.svg" alt="Prison Fence Corner" width="160">
+<img src="../../images/icons/2605453799.png" alt="Prison Fence Corner" width="160">
 
 | | |
 |---|---|

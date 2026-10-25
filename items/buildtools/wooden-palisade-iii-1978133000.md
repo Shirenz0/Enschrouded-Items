@@ -1,6 +1,6 @@
 # Wooden Palisade III
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Palisade III" width="160">
+<img src="../../images/icons/1978133000.png" alt="Wooden Palisade III" width="160">
 
 | | |
 |---|---|

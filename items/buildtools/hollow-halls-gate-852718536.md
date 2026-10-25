@@ -1,6 +1,6 @@
 # Hollow Halls Gate
 
-<img src="../../images/categories/buildtools.svg" alt="Hollow Halls Gate" width="160">
+<img src="../../images/icons/852718536.png" alt="Hollow Halls Gate" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Stone Fire Place
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Fire Place" width="160">
+<img src="../../images/icons/3677711018.png" alt="Stone Fire Place" width="160">
 
 | | |
 |---|---|

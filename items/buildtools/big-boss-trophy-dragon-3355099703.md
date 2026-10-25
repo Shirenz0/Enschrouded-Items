@@ -1,6 +1,6 @@
 # Big Boss Trophy Dragon
 
-<img src="../../images/categories/buildtools.svg" alt="Big Boss Trophy Dragon" width="160">
+<img src="../../images/icons/3355099703.png" alt="Big Boss Trophy Dragon" width="160">
 
 | | |
 |---|---|

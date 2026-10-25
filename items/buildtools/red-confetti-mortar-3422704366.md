@@ -1,6 +1,6 @@
 # Red Confetti Mortar
 
-<img src="../../images/categories/buildtools.svg" alt="Red Confetti Mortar" width="160">
+<img src="../../images/icons/3422704366.png" alt="Red Confetti Mortar" width="160">
 
 | | |
 |---|---|

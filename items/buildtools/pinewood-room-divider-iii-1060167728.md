@@ -1,6 +1,6 @@
 # Pinewood Room Divider III
 
-<img src="../../images/categories/buildtools.svg" alt="Pinewood Room Divider III" width="160">
+<img src="../../images/icons/1060167728.png" alt="Pinewood Room Divider III" width="160">
 
 | | |
 |---|---|

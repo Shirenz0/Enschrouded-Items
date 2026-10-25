@@ -1,6 +1,6 @@
 # Small Ancient Table
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ancient Table" width="160">
+<img src="../../images/icons/647745472.png" alt="Small Ancient Table" width="160">
 
 | | |
 |---|---|

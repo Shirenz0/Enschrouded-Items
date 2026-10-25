@@ -1,6 +1,6 @@
 # Sage Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Sage Seedling" width="160">
+<img src="../../images/icons/4018682338.png" alt="Sage Seedling" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Room Divider "Fish"
 
-<img src="../../images/categories/buildtools.svg" alt="Room Divider "Fish"" width="160">
+<img src="../../images/icons/1108531204.png" alt="Room Divider &quot;Fish&quot;" width="160">
 
 | | |
 |---|---|

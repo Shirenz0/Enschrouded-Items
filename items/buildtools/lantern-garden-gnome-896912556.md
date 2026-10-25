@@ -1,6 +1,6 @@
 # Lantern Garden Gnome
 
-<img src="../../images/categories/buildtools.svg" alt="Lantern Garden Gnome" width="160">
+<img src="../../images/icons/896912556.png" alt="Lantern Garden Gnome" width="160">
 
 | | |
 |---|---|

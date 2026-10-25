@@ -1,6 +1,6 @@
 # Giant hollow Halls Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Giant hollow Halls Banner" width="160">
+<img src="../../images/icons/3200238404.png" alt="Giant hollow Halls Banner" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Stone Water Dispenser
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Water Dispenser" width="160">
+<img src="../../images/icons/1310445763.png" alt="Stone Water Dispenser" width="160">
 
 | | |
 |---|---|

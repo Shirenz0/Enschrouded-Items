@@ -1,6 +1,6 @@
 # Chanterelle Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Chanterelle Seedling" width="160">
+<img src="../../images/icons/1783208373.png" alt="Chanterelle Seedling" width="160">
 
 | | |
 |---|---|

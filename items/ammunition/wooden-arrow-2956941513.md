@@ -1,6 +1,6 @@
 # Wooden Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Wooden Arrow" width="160">
+<img src="../../images/icons/2956941513.png" alt="Wooden Arrow" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Hardwood Ash Tree
 
-<img src="../../images/categories/buildtools.svg" alt="Hardwood Ash Tree" width="160">
+<img src="../../images/icons/2570341954.png" alt="Hardwood Ash Tree" width="160">
 
 | | |
 |---|---|

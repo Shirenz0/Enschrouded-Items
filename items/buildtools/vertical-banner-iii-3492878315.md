@@ -1,6 +1,6 @@
 # Vertical Banner III
 
-<img src="../../images/categories/buildtools.svg" alt="Vertical Banner III" width="160">
+<img src="../../images/icons/3492878315.png" alt="Vertical Banner III" width="160">
 
 | | |
 |---|---|

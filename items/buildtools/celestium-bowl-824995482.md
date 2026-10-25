@@ -1,6 +1,6 @@
 # Celestium Bowl
 
-<img src="../../images/categories/buildtools.svg" alt="Celestium Bowl" width="160">
+<img src="../../images/icons/824995482.png" alt="Celestium Bowl" width="160">
 
 | | |
 |---|---|

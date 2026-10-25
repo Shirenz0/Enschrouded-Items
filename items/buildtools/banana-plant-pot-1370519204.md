@@ -1,6 +1,6 @@
 # Banana Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Banana Plant Pot" width="160">
+<img src="../../images/icons/1370519204.png" alt="Banana Plant Pot" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Blue Floor Light I
 
-<img src="../../images/categories/buildtools.svg" alt="Blue Floor Light I" width="160">
+<img src="../../images/icons/1747355696.png" alt="Blue Floor Light I" width="160">
 
 | | |
 |---|---|

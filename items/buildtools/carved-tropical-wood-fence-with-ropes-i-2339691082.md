@@ -1,6 +1,6 @@
 # Carved Tropical Wood Fence with Ropes I
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Tropical Wood Fence with Ropes I" width="160">
+<img src="../../images/icons/2339691082.png" alt="Carved Tropical Wood Fence with Ropes I" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Notice Board
 
-<img src="../../images/categories/buildtools.svg" alt="Notice Board" width="160">
+<img src="../../images/icons/1543478105.png" alt="Notice Board" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Drak Wood Totem III
 
-<img src="../../images/categories/buildtools.svg" alt="Drak Wood Totem III" width="160">
+<img src="../../images/icons/1874208947.png" alt="Drak Wood Totem III" width="160">
 
 | | |
 |---|---|

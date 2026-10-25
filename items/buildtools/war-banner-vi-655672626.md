@@ -1,6 +1,6 @@
 # War Banner VI
 
-<img src="../../images/categories/buildtools.svg" alt="War Banner VI" width="160">
+<img src="../../images/icons/655672626.png" alt="War Banner VI" width="160">
 
 | | |
 |---|---|

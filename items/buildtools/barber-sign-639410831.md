@@ -1,6 +1,6 @@
 # Barber Sign
 
-<img src="../../images/categories/buildtools.svg" alt="Barber Sign" width="160">
+<img src="../../images/icons/639410831.png" alt="Barber Sign" width="160">
 
 | | |
 |---|---|

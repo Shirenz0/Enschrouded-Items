@@ -1,6 +1,6 @@
 # Pumpkin Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Pumpkin Seedling" width="160">
+<img src="../../images/icons/3622239347.png" alt="Pumpkin Seedling" width="160">
 
 | | |
 |---|---|

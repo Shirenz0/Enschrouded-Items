@@ -1,6 +1,6 @@
 # Sandstone Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Sandstone Fence" width="160">
+<img src="../../images/icons/2439362338.png" alt="Sandstone Fence" width="160">
 
 | | |
 |---|---|

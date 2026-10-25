@@ -1,6 +1,6 @@
 # Ancient Centrifuge
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Centrifuge" width="160">
+<img src="../../images/icons/1069919690.png" alt="Ancient Centrifuge" width="160">
 
 | | |
 |---|---|

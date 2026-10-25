@@ -1,6 +1,6 @@
 # Ancient Force Generator
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Force Generator" width="160">
+<img src="../../images/icons/3185865067.png" alt="Ancient Force Generator" width="160">
 
 | | |
 |---|---|

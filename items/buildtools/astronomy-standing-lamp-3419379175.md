@@ -1,6 +1,6 @@
 # Astronomy Standing Lamp
 
-<img src="../../images/categories/buildtools.svg" alt="Astronomy Standing Lamp" width="160">
+<img src="../../images/icons/3419379175.png" alt="Astronomy Standing Lamp" width="160">
 
 | | |
 |---|---|

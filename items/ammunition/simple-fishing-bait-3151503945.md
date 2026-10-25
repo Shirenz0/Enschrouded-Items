@@ -1,6 +1,6 @@
 # Simple Fishing Bait
 
-<img src="../../images/categories/ammunition.svg" alt="Simple Fishing Bait" width="160">
+<img src="../../images/icons/3151503945.png" alt="Simple Fishing Bait" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Grappling Hook Pull Up Anchor
 
-<img src="../../images/categories/buildtools.svg" alt="Grappling Hook Pull Up Anchor" width="160">
+<img src="../../images/icons/3697152581.png" alt="Grappling Hook Pull Up Anchor" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Bamboo Container II
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Container II" width="160">
+<img src="../../images/icons/1343767117.png" alt="Bamboo Container II" width="160">
 
 | | |
 |---|---|

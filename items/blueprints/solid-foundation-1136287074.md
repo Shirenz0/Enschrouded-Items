@@ -1,6 +1,6 @@
 # Solid Foundation
 
-<img src="../../images/categories/blueprints.svg" alt="Solid Foundation" width="160">
+<img src="../../images/icons/1136287074.png" alt="Solid Foundation" width="160">
 
 | | |
 |---|---|

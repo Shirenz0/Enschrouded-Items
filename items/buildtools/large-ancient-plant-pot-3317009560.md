@@ -1,6 +1,6 @@
 # Large Ancient Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Large Ancient Plant Pot" width="160">
+<img src="../../images/icons/3317009560.png" alt="Large Ancient Plant Pot" width="160">
 
 | | |
 |---|---|

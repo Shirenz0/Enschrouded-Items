@@ -1,6 +1,6 @@
 # Crystal Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Crystal Platter" width="160">
+<img src="../../images/icons/3225687185.png" alt="Crystal Platter" width="160">
 
 | | |
 |---|---|

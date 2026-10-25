@@ -1,6 +1,6 @@
 # Illumination T2 Bones Chandelier
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Bones Chandelier" width="160">
+<img src="../../images/icons/2646644982.png" alt="Illumination T2 Bones Chandelier" width="160">
 
 | | |
 |---|---|

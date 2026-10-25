@@ -1,6 +1,6 @@
 # Capybara Bait
 
-<img src="../../images/categories/buildtools.svg" alt="Capybara Bait" width="160">
+<img src="../../images/icons/1357946175.png" alt="Capybara Bait" width="160">
 
 | | |
 |---|---|

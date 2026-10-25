@@ -1,6 +1,6 @@
 # Vorgoth's Gloves
 
-<img src="../../images/categories/equipment.svg" alt="Vorgoth's Gloves" width="160">
+<img src="../../images/categories/equipment.svg" alt="Vorgoth&#x27;s Gloves" width="160">
 
 | | |
 |---|---|

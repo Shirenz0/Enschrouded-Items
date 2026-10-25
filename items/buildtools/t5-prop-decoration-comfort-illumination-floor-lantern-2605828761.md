@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Illumination Floor (Lantern)
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Illumination Floor (Lantern)" width="160">
+<img src="../../images/icons/2605828761.png" alt="T5 Prop Decoration Comfort Illumination Floor (Lantern)" width="160">
 
 | | |
 |---|---|

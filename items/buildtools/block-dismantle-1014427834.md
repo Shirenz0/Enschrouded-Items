@@ -1,6 +1,6 @@
 # Block Dismantle
 
-<img src="../../images/categories/buildtools.svg" alt="Block Dismantle" width="160">
+<img src="../../images/icons/1014427834.png" alt="Block Dismantle" width="160">
 
 | | |
 |---|---|

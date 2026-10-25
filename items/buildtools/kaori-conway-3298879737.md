@@ -1,6 +1,6 @@
 # Kaori Conway
 
-<img src="../../images/categories/buildtools.svg" alt="Kaori Conway" width="160">
+<img src="../../images/icons/3298879737.png" alt="Kaori Conway" width="160">
 
 | | |
 |---|---|

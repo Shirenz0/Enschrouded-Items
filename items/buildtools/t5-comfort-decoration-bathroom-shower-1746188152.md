@@ -1,6 +1,6 @@
 # T5 Comfort Decoration Bathroom Shower
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Comfort Decoration Bathroom Shower" width="160">
+<img src="../../images/icons/1746188152.png" alt="T5 Comfort Decoration Bathroom Shower" width="160">
 
 | | |
 |---|---|

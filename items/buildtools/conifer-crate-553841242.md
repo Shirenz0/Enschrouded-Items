@@ -1,6 +1,6 @@
 # Conifer Crate
 
-<img src="../../images/categories/buildtools.svg" alt="Conifer Crate" width="160">
+<img src="../../images/icons/553841242.png" alt="Conifer Crate" width="160">
 
 | | |
 |---|---|

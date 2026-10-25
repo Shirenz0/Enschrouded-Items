@@ -1,6 +1,6 @@
 # Wolfsbane Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Wolfsbane Seedling" width="160">
+<img src="../../images/icons/3014637412.png" alt="Wolfsbane Seedling" width="160">
 
 | | |
 |---|---|

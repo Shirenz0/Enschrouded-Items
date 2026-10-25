@@ -1,6 +1,6 @@
 # Ancient Temple Floor Brazier I
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Temple Floor Brazier I" width="160">
+<img src="../../images/icons/2672833225.png" alt="Ancient Temple Floor Brazier I" width="160">
 
 | | |
 |---|---|

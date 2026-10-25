@@ -1,6 +1,6 @@
 # Smithing Tools
 
-<img src="../../images/categories/buildtools.svg" alt="Smithing Tools" width="160">
+<img src="../../images/icons/637869357.png" alt="Smithing Tools" width="160">
 
 | | |
 |---|---|

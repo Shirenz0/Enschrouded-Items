@@ -1,6 +1,6 @@
 # Improved Water Well
 
-<img src="../../images/categories/buildtools.svg" alt="Improved Water Well" width="160">
+<img src="../../images/icons/1155756187.png" alt="Improved Water Well" width="160">
 
 | | |
 |---|---|

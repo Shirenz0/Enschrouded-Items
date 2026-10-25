@@ -1,6 +1,6 @@
 # DLC SUpporter Mage Banner Wall
 
-<img src="../../images/categories/buildtools.svg" alt="DLC SUpporter Mage Banner Wall" width="160">
+<img src="../../images/icons/2672915212.png" alt="DLC SUpporter Mage Banner Wall" width="160">
 
 | | |
 |---|---|

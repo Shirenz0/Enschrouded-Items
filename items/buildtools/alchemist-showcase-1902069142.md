@@ -1,6 +1,6 @@
 # Alchemist Showcase
 
-<img src="../../images/categories/buildtools.svg" alt="Alchemist Showcase" width="160">
+<img src="../../images/icons/1902069142.png" alt="Alchemist Showcase" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Room Divider I
 
-<img src="../../images/categories/buildtools.svg" alt="Room Divider I" width="160">
+<img src="../../images/icons/884882314.png" alt="Room Divider I" width="160">
 
 | | |
 |---|---|

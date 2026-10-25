@@ -1,6 +1,6 @@
 # Large Water Wheel
 
-<img src="../../images/categories/buildtools.svg" alt="Large Water Wheel" width="160">
+<img src="../../images/icons/2340842635.png" alt="Large Water Wheel" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Captain Whiskers
 
-<img src="../../images/categories/buildtools.svg" alt="Captain Whiskers" width="160">
+<img src="../../images/icons/1175895449.png" alt="Captain Whiskers" width="160">
 
 | | |
 |---|---|

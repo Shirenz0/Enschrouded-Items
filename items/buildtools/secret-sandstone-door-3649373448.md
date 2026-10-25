@@ -1,6 +1,6 @@
 # Secret Sandstone Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Sandstone Door" width="160">
+<img src="../../images/icons/3649373448.png" alt="Secret Sandstone Door" width="160">
 
 | | |
 |---|---|

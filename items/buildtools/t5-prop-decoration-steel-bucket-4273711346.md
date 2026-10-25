@@ -1,6 +1,6 @@
 # T5 Prop Decoration Steel Bucket
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Steel Bucket" width="160">
+<img src="../../images/icons/4273711346.png" alt="T5 Prop Decoration Steel Bucket" width="160">
 
 | | |
 |---|---|

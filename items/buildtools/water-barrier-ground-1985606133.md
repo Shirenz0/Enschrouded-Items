@@ -1,6 +1,6 @@
 # Water Barrier Ground
 
-<img src="../../images/categories/buildtools.svg" alt="Water Barrier Ground" width="160">
+<img src="../../images/icons/1985606133.png" alt="Water Barrier Ground" width="160">
 
 | | |
 |---|---|

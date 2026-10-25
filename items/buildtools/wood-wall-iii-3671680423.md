@@ -1,6 +1,6 @@
 # Wood Wall III
 
-<img src="../../images/categories/buildtools.svg" alt="Wood Wall III" width="160">
+<img src="../../images/icons/3671680423.png" alt="Wood Wall III" width="160">
 
 | | |
 |---|---|

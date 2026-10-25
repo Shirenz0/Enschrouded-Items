@@ -1,6 +1,6 @@
 # Exploding Arrow III
 
-<img src="../../images/categories/ammunition.svg" alt="Exploding Arrow III" width="160">
+<img src="../../images/icons/3342011345.png" alt="Exploding Arrow III" width="160">
 
 | | |
 |---|---|

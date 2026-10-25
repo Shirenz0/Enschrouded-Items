@@ -1,6 +1,6 @@
 # Big Boss Trophy Fell Monstrosity
 
-<img src="../../images/categories/buildtools.svg" alt="Big Boss Trophy Fell Monstrosity" width="160">
+<img src="../../images/icons/1292654037.png" alt="Big Boss Trophy Fell Monstrosity" width="160">
 
 | | |
 |---|---|

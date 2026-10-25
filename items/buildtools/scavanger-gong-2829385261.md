@@ -1,6 +1,6 @@
 # Scavanger Gong
 
-<img src="../../images/categories/buildtools.svg" alt="Scavanger Gong" width="160">
+<img src="../../images/icons/2829385261.png" alt="Scavanger Gong" width="160">
 
 | | |
 |---|---|

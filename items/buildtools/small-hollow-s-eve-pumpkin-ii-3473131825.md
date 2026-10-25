@@ -1,6 +1,6 @@
 # Small Hollow's Eve Pumpkin II
 
-<img src="../../images/categories/buildtools.svg" alt="Small Hollow's Eve Pumpkin II" width="160">
+<img src="../../images/icons/3473131825.png" alt="Small Hollow&#x27;s Eve Pumpkin II" width="160">
 
 | | |
 |---|---|

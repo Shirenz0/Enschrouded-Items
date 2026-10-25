@@ -1,6 +1,6 @@
 # Magic Infusion Station
 
-<img src="../../images/categories/buildtools.svg" alt="Magic Infusion Station" width="160">
+<img src="../../images/icons/2501086572.png" alt="Magic Infusion Station" width="160">
 
 | | |
 |---|---|

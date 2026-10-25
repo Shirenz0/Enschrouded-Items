@@ -1,6 +1,6 @@
 # Ancient Temple Shelf Small
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Temple Shelf Small" width="160">
+<img src="../../images/icons/3879322402.png" alt="Ancient Temple Shelf Small" width="160">
 
 | | |
 |---|---|

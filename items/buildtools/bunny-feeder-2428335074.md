@@ -1,6 +1,6 @@
 # Bunny Feeder
 
-<img src="../../images/categories/buildtools.svg" alt="Bunny Feeder" width="160">
+<img src="../../images/icons/2428335074.png" alt="Bunny Feeder" width="160">
 
 | | |
 |---|---|

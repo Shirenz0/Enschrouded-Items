@@ -1,6 +1,6 @@
 # Fine Stone Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Stone Fence Pole" width="160">
+<img src="../../images/icons/2841036941.png" alt="Fine Stone Fence Pole" width="160">
 
 | | |
 |---|---|

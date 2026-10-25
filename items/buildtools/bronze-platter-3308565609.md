@@ -1,6 +1,6 @@
 # Bronze Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Platter" width="160">
+<img src="../../images/icons/3308565609.png" alt="Bronze Platter" width="160">
 
 | | |
 |---|---|

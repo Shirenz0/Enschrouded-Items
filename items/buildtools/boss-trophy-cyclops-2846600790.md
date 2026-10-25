@@ -1,6 +1,6 @@
 # Boss Trophy Cyclops
 
-<img src="../../images/categories/buildtools.svg" alt="Boss Trophy Cyclops" width="160">
+<img src="../../images/icons/2846600790.png" alt="Boss Trophy Cyclops" width="160">
 
 | | |
 |---|---|

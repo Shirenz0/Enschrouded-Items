@@ -1,6 +1,6 @@
 # Decorative Oven III
 
-<img src="../../images/categories/buildtools.svg" alt="Decorative Oven III" width="160">
+<img src="../../images/icons/3005030010.png" alt="Decorative Oven III" width="160">
 
 | | |
 |---|---|

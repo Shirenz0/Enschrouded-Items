@@ -1,6 +1,6 @@
 # T3 Small Stone Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="T3 Small Stone Brazier" width="160">
+<img src="../../images/icons/2314914919.png" alt="T3 Small Stone Brazier" width="160">
 
 | | |
 |---|---|

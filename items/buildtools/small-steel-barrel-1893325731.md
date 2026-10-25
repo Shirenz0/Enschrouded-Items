@@ -1,6 +1,6 @@
 # Small Steel Barrel
 
-<img src="../../images/categories/buildtools.svg" alt="Small Steel Barrel" width="160">
+<img src="../../images/icons/1893325731.png" alt="Small Steel Barrel" width="160">
 
 | | |
 |---|---|

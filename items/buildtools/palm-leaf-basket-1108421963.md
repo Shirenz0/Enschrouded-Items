@@ -1,6 +1,6 @@
 # Palm Leaf Basket
 
-<img src="../../images/categories/buildtools.svg" alt="Palm Leaf Basket" width="160">
+<img src="../../images/icons/1108421963.png" alt="Palm Leaf Basket" width="160">
 
 | | |
 |---|---|

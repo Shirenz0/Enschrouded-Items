@@ -1,6 +1,6 @@
 # Wooden Ladder
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Ladder" width="160">
+<img src="../../images/icons/2482228218.png" alt="Wooden Ladder" width="160">
 
 | | |
 |---|---|

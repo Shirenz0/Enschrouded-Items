@@ -1,6 +1,6 @@
 # St. John's Wort Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="St. John's Wort Flower Pot" width="160">
+<img src="../../images/icons/3774571620.png" alt="St. John&#x27;s Wort Flower Pot" width="160">
 
 | | |
 |---|---|

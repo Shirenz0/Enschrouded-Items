@@ -1,6 +1,6 @@
 # Bait Sand Digger
 
-<img src="../../images/categories/buildtools.svg" alt="Bait Sand Digger" width="160">
+<img src="../../images/icons/2154839974.png" alt="Bait Sand Digger" width="160">
 
 | | |
 |---|---|

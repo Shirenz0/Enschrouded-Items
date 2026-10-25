@@ -1,6 +1,6 @@
 # Metal Boss Trophy Vukah
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Vukah" width="160">
+<img src="../../images/icons/2569708054.png" alt="Metal Boss Trophy Vukah" width="160">
 
 | | |
 |---|---|

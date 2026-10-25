@@ -1,6 +1,6 @@
 # Ancient Wall Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Wall Secret" width="160">
+<img src="../../images/icons/4020448547.png" alt="Ancient Wall Secret" width="160">
 
 | | |
 |---|---|

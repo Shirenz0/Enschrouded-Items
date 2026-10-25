@@ -1,6 +1,6 @@
 # Fish Showcase
 
-<img src="../../images/categories/buildtools.svg" alt="Fish Showcase" width="160">
+<img src="../../images/icons/2813422596.png" alt="Fish Showcase" width="160">
 
 | | |
 |---|---|

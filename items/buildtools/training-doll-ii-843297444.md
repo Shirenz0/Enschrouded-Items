@@ -1,6 +1,6 @@
 # Training Doll II
 
-<img src="../../images/categories/buildtools.svg" alt="Training Doll II" width="160">
+<img src="../../images/icons/843297444.png" alt="Training Doll II" width="160">
 
 | | |
 |---|---|

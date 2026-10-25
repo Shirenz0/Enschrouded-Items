@@ -1,6 +1,6 @@
 # Magnicifent chair
 
-<img src="../../images/categories/buildtools.svg" alt="Magnicifent chair" width="160">
+<img src="../../images/icons/3331812155.png" alt="Magnicifent chair" width="160">
 
 | | |
 |---|---|

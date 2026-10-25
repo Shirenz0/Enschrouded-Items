@@ -1,6 +1,6 @@
 # Ancient Ground Lamp Tall
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Ground Lamp Tall" width="160">
+<img src="../../images/icons/2934669936.png" alt="Ancient Ground Lamp Tall" width="160">
 
 | | |
 |---|---|

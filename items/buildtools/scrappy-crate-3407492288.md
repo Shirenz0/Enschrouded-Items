@@ -1,6 +1,6 @@
 # Scrappy Crate
 
-<img src="../../images/categories/buildtools.svg" alt="Scrappy Crate" width="160">
+<img src="../../images/icons/3407492288.png" alt="Scrappy Crate" width="160">
 
 | | |
 |---|---|

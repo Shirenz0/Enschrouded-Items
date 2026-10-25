@@ -1,6 +1,6 @@
 # Meteorite Showcase (3 Small Slots)
 
-<img src="../../images/categories/buildtools.svg" alt="Meteorite Showcase (3 Small Slots)" width="160">
+<img src="../../images/icons/1551372920.png" alt="Meteorite Showcase (3 Small Slots)" width="160">
 
 | | |
 |---|---|

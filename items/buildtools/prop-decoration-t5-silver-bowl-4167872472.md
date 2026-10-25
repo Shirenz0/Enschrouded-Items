@@ -1,6 +1,6 @@
 # Prop Decoration T5 Silver Bowl
 
-<img src="../../images/categories/buildtools.svg" alt="Prop Decoration T5 Silver Bowl" width="160">
+<img src="../../images/icons/4167872472.png" alt="Prop Decoration T5 Silver Bowl" width="160">
 
 | | |
 |---|---|

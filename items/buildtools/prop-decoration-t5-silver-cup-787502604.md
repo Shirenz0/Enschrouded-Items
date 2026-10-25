@@ -1,6 +1,6 @@
 # Prop Decoration T5 Silver Cup
 
-<img src="../../images/categories/buildtools.svg" alt="Prop Decoration T5 Silver Cup" width="160">
+<img src="../../images/icons/787502604.png" alt="Prop Decoration T5 Silver Cup" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Big Steel Barrel
 
-<img src="../../images/categories/buildtools.svg" alt="Big Steel Barrel" width="160">
+<img src="../../images/icons/3005763493.png" alt="Big Steel Barrel" width="160">
 
 | | |
 |---|---|

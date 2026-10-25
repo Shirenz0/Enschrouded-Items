@@ -1,6 +1,6 @@
 # Weapon Stand Staff
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Staff" width="160">
+<img src="../../images/icons/4280504432.png" alt="Weapon Stand Staff" width="160">
 
 | | |
 |---|---|

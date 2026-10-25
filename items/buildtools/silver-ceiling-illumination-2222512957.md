@@ -1,6 +1,6 @@
 # Silver Ceiling Illumination
 
-<img src="../../images/categories/buildtools.svg" alt="Silver Ceiling Illumination" width="160">
+<img src="../../images/icons/2222512957.png" alt="Silver Ceiling Illumination" width="160">
 
 | | |
 |---|---|

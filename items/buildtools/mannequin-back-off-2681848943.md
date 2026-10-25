@@ -1,6 +1,6 @@
 # Mannequin "Back Off"
 
-<img src="../../images/categories/buildtools.svg" alt="Mannequin "Back Off"" width="160">
+<img src="../../images/icons/2681848943.png" alt="Mannequin &quot;Back Off&quot;" width="160">
 
 | | |
 |---|---|

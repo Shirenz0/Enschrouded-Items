@@ -1,6 +1,6 @@
 # Poisoned Golden Steel Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Poisoned Golden Steel Arrow" width="160">
+<img src="../../images/icons/1050570715.png" alt="Poisoned Golden Steel Arrow" width="160">
 
 | | |
 |---|---|

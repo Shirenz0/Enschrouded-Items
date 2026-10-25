@@ -1,6 +1,6 @@
 # Crude Wooden Fence II
 
-<img src="../../images/categories/buildtools.svg" alt="Crude Wooden Fence II" width="160">
+<img src="../../images/icons/1056373483.png" alt="Crude Wooden Fence II" width="160">
 
 | | |
 |---|---|

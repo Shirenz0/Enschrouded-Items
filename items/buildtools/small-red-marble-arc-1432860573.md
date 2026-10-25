@@ -1,6 +1,6 @@
 # Small Red Marble Arc
 
-<img src="../../images/categories/buildtools.svg" alt="Small Red Marble Arc" width="160">
+<img src="../../images/icons/1432860573.png" alt="Small Red Marble Arc" width="160">
 
 | | |
 |---|---|

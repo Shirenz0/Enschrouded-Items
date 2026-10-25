@@ -1,6 +1,6 @@
 # Vat Of The Ancients IV
 
-<img src="../../images/categories/buildtools.svg" alt="Vat Of The Ancients IV" width="160">
+<img src="../../images/icons/868088885.png" alt="Vat Of The Ancients IV" width="160">
 
 | | |
 |---|---|

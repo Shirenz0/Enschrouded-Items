@@ -1,6 +1,6 @@
 # Bronze Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Bronze Arrow" width="160">
+<img src="../../images/icons/3990911183.png" alt="Bronze Arrow" width="160">
 
 | | |
 |---|---|

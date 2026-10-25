@@ -1,6 +1,6 @@
 # Cactus Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Cactus Seedling" width="160">
+<img src="../../images/icons/3704150172.png" alt="Cactus Seedling" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # DLC SUpporter Mage Banner Standing
 
-<img src="../../images/categories/buildtools.svg" alt="DLC SUpporter Mage Banner Standing" width="160">
+<img src="../../images/icons/1740766717.png" alt="DLC SUpporter Mage Banner Standing" width="160">
 
 | | |
 |---|---|

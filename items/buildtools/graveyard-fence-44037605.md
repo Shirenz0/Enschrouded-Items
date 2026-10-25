@@ -1,6 +1,6 @@
 # Graveyard Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Graveyard Fence" width="160">
+<img src="../../images/icons/44037605.png" alt="Graveyard Fence" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Spiral Iron Stairs
 
-<img src="../../images/categories/buildtools.svg" alt="Spiral Iron Stairs" width="160">
+<img src="../../images/icons/1615246126.png" alt="Spiral Iron Stairs" width="160">
 
 | | |
 |---|---|

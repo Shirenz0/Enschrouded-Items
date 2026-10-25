@@ -1,6 +1,6 @@
 # Signpost Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Signpost Pole" width="160">
+<img src="../../images/icons/1463343087.png" alt="Signpost Pole" width="160">
 
 | | |
 |---|---|

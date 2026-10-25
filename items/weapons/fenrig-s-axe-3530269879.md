@@ -1,6 +1,6 @@
 # Fenrig's Axe
 
-<img src="../../images/categories/weapons.svg" alt="Fenrig's Axe" width="160">
+<img src="../../images/categories/weapons.svg" alt="Fenrig&#x27;s Axe" width="160">
 
 | | |
 |---|---|

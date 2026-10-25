@@ -1,6 +1,6 @@
 # T5 Prop Decoration Granite Window
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Granite Window" width="160">
+<img src="../../images/icons/2712846730.png" alt="T5 Prop Decoration Granite Window" width="160">
 
 | | |
 |---|---|

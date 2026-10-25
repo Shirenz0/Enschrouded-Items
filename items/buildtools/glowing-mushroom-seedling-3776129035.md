@@ -1,6 +1,6 @@
 # Glowing Mushroom Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Glowing Mushroom Seedling" width="160">
+<img src="../../images/icons/3776129035.png" alt="Glowing Mushroom Seedling" width="160">
 
 | | |
 |---|---|

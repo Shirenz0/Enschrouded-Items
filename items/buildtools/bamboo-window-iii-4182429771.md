@@ -1,6 +1,6 @@
 # Bamboo Window III
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Window III" width="160">
+<img src="../../images/icons/4182429771.png" alt="Bamboo Window III" width="160">
 
 | | |
 |---|---|

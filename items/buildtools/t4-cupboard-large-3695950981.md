@@ -1,6 +1,6 @@
 # T4 Cupboard large
 
-<img src="../../images/categories/buildtools.svg" alt="T4 Cupboard large" width="160">
+<img src="../../images/icons/3695950981.png" alt="T4 Cupboard large" width="160">
 
 | | |
 |---|---|

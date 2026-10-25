@@ -1,6 +1,6 @@
 # Epic Fishing Bait II
 
-<img src="../../images/categories/ammunition.svg" alt="Epic Fishing Bait II" width="160">
+<img src="../../images/icons/3765704048.png" alt="Epic Fishing Bait II" width="160">
 
 | | |
 |---|---|

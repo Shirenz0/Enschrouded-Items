@@ -1,6 +1,6 @@
 # Crude Wooden Door
 
-<img src="../../images/categories/buildtools.svg" alt="Crude Wooden Door" width="160">
+<img src="../../images/icons/2917848991.png" alt="Crude Wooden Door" width="160">
 
 | | |
 |---|---|

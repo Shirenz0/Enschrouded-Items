@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Illumination Wall (small Brazier)
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Illumination Wall (small Brazier)" width="160">
+<img src="../../images/icons/628676871.png" alt="T5 Prop Decoration Comfort Illumination Wall (small Brazier)" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Bronzen Barrel
 
-<img src="../../images/categories/buildtools.svg" alt="Bronzen Barrel" width="160">
+<img src="../../images/icons/2813708659.png" alt="Bronzen Barrel" width="160">
 
 | | |
 |---|---|

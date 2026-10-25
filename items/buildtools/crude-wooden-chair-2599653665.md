@@ -1,6 +1,6 @@
 # Crude Wooden Chair
 
-<img src="../../images/categories/buildtools.svg" alt="Crude Wooden Chair" width="160">
+<img src="../../images/icons/2599653665.png" alt="Crude Wooden Chair" width="160">
 
 | | |
 |---|---|

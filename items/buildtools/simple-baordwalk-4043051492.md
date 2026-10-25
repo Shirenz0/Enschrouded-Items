@@ -1,6 +1,6 @@
 # Simple Baordwalk
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Baordwalk" width="160">
+<img src="../../images/icons/4043051492.png" alt="Simple Baordwalk" width="160">
 
 | | |
 |---|---|

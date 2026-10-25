@@ -1,6 +1,6 @@
 # Ancient Temple Shelf Medium
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Temple Shelf Medium" width="160">
+<img src="../../images/icons/254775798.png" alt="Ancient Temple Shelf Medium" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Ancient Ceiling Lamp
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Ceiling Lamp" width="160">
+<img src="../../images/icons/124010475.png" alt="Ancient Ceiling Lamp" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Standing Coffin
 
-<img src="../../images/categories/buildtools.svg" alt="Standing Coffin" width="160">
+<img src="../../images/icons/220236323.png" alt="Standing Coffin" width="160">
 
 | | |
 |---|---|

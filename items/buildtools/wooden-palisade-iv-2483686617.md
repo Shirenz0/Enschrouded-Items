@@ -1,6 +1,6 @@
 # Wooden Palisade IV
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Palisade IV" width="160">
+<img src="../../images/icons/2483686617.png" alt="Wooden Palisade IV" width="160">
 
 | | |
 |---|---|

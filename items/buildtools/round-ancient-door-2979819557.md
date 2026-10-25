@@ -1,6 +1,6 @@
 # Round Ancient Door
 
-<img src="../../images/categories/buildtools.svg" alt="Round Ancient Door" width="160">
+<img src="../../images/icons/2979819557.png" alt="Round Ancient Door" width="160">
 
 | | |
 |---|---|

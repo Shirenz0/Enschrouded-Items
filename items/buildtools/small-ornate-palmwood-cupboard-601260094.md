@@ -1,6 +1,6 @@
 # Small Ornate Palmwood Cupboard
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ornate Palmwood Cupboard" width="160">
+<img src="../../images/icons/601260094.png" alt="Small Ornate Palmwood Cupboard" width="160">
 
 | | |
 |---|---|

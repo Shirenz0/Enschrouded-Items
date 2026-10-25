@@ -1,6 +1,6 @@
 # Hannah Reed
 
-<img src="../../images/categories/buildtools.svg" alt="Hannah Reed" width="160">
+<img src="../../images/icons/841170834.png" alt="Hannah Reed" width="160">
 
 | | |
 |---|---|

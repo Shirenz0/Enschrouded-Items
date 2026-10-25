@@ -1,6 +1,6 @@
 # Big Boss Trophy Cyclops Fell
 
-<img src="../../images/categories/buildtools.svg" alt="Big Boss Trophy Cyclops Fell" width="160">
+<img src="../../images/icons/2052036286.png" alt="Big Boss Trophy Cyclops Fell" width="160">
 
 | | |
 |---|---|

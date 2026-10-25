@@ -1,6 +1,6 @@
 # Decorative Bells III
 
-<img src="../../images/categories/buildtools.svg" alt="Decorative Bells III" width="160">
+<img src="../../images/icons/4097150814.png" alt="Decorative Bells III" width="160">
 
 | | |
 |---|---|

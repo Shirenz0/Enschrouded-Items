@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Illumination Floor (small Brazier)
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Illumination Floor (small Brazier)" width="160">
+<img src="../../images/icons/1851651517.png" alt="T5 Prop Decoration Comfort Illumination Floor (small Brazier)" width="160">
 
 | | |
 |---|---|

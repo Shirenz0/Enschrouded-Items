@@ -1,6 +1,6 @@
 # TallTree chair
 
-<img src="../../images/categories/buildtools.svg" alt="TallTree chair" width="160">
+<img src="../../images/icons/3619077986.png" alt="TallTree chair" width="160">
 
 | | |
 |---|---|

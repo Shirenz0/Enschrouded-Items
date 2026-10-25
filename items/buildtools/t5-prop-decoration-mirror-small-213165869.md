@@ -1,6 +1,6 @@
 # T5 Prop Decoration Mirror Small
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Mirror Small" width="160">
+<img src="../../images/icons/213165869.png" alt="T5 Prop Decoration Mirror Small" width="160">
 
 | | |
 |---|---|

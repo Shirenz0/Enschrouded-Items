@@ -1,6 +1,6 @@
 # Fossilized Bone Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Fossilized Bone Arrow" width="160">
+<img src="../../images/icons/1536235498.png" alt="Fossilized Bone Arrow" width="160">
 
 | | |
 |---|---|

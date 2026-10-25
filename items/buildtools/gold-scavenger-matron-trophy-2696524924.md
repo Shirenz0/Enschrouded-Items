@@ -1,6 +1,6 @@
 # Gold Scavenger Matron Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Scavenger Matron Trophy" width="160">
+<img src="../../images/icons/2696524924.png" alt="Gold Scavenger Matron Trophy" width="160">
 
 | | |
 |---|---|

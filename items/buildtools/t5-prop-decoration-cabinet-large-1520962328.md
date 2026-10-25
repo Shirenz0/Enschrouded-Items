@@ -1,6 +1,6 @@
 # T5 Prop Decoration Cabinet Large
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Cabinet Large" width="160">
+<img src="../../images/icons/1520962328.png" alt="T5 Prop Decoration Cabinet Large" width="160">
 
 | | |
 |---|---|

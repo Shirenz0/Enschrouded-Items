@@ -1,6 +1,6 @@
 # Yellow Confetti Mortar
 
-<img src="../../images/categories/buildtools.svg" alt="Yellow Confetti Mortar" width="160">
+<img src="../../images/icons/2553641502.png" alt="Yellow Confetti Mortar" width="160">
 
 | | |
 |---|---|

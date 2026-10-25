@@ -1,6 +1,6 @@
 # Polished Scrap Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Polished Scrap Brazier" width="160">
+<img src="../../images/icons/3457345820.png" alt="Polished Scrap Brazier" width="160">
 
 | | |
 |---|---|

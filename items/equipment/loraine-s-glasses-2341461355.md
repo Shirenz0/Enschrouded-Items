@@ -1,6 +1,6 @@
 # Loraine's Glasses
 
-<img src="../../images/categories/equipment.svg" alt="Loraine's Glasses" width="160">
+<img src="../../images/categories/equipment.svg" alt="Loraine&#x27;s Glasses" width="160">
 
 | | |
 |---|---|

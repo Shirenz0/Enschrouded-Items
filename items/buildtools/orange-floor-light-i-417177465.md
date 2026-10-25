@@ -1,6 +1,6 @@
 # Orange Floor Light I
 
-<img src="../../images/categories/buildtools.svg" alt="Orange Floor Light I" width="160">
+<img src="../../images/icons/417177465.png" alt="Orange Floor Light I" width="160">
 
 | | |
 |---|---|

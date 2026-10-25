@@ -1,6 +1,6 @@
 # Aloe Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Aloe Seedling" width="160">
+<img src="../../images/icons/526064074.png" alt="Aloe Seedling" width="160">
 
 | | |
 |---|---|

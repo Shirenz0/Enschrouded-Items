@@ -1,6 +1,6 @@
 # Showcase Fossiles 3 small 2 medium slots
 
-<img src="../../images/categories/buildtools.svg" alt="Showcase Fossiles 3 small 2 medium slots" width="160">
+<img src="../../images/icons/3384008596.png" alt="Showcase Fossiles 3 small 2 medium slots" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Enormous Magic Chest
 
-<img src="../../images/categories/buildtools.svg" alt="Enormous Magic Chest" width="160">
+<img src="../../images/icons/30818586.png" alt="Enormous Magic Chest" width="160">
 
 | | |
 |---|---|

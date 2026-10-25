@@ -1,6 +1,6 @@
 # Metal Water Dispenser I
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Water Dispenser I" width="160">
+<img src="../../images/icons/64945064.png" alt="Metal Water Dispenser I" width="160">
 
 | | |
 |---|---|

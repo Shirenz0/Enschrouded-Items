@@ -1,6 +1,6 @@
 # Rough Wooden Closet
 
-<img src="../../images/categories/buildtools.svg" alt="Rough Wooden Closet" width="160">
+<img src="../../images/icons/1976103965.png" alt="Rough Wooden Closet" width="160">
 
 | | |
 |---|---|

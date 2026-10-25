@@ -1,6 +1,6 @@
 # Ancient Ceiling Mobile III
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Ceiling Mobile III" width="160">
+<img src="../../images/icons/3480966914.png" alt="Ancient Ceiling Mobile III" width="160">
 
 | | |
 |---|---|

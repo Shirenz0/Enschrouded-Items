@@ -1,6 +1,6 @@
 # Captain's Coat
 
-<img src="../../images/categories/equipment.svg" alt="Captain's Coat" width="160">
+<img src="../../images/categories/equipment.svg" alt="Captain&#x27;s Coat" width="160">
 
 | | |
 |---|---|

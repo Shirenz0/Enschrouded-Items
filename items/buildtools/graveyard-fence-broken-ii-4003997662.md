@@ -1,6 +1,6 @@
 # Graveyard Fence Broken II
 
-<img src="../../images/categories/buildtools.svg" alt="Graveyard Fence Broken II" width="160">
+<img src="../../images/icons/4003997662.png" alt="Graveyard Fence Broken II" width="160">
 
 | | |
 |---|---|

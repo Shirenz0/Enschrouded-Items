@@ -1,6 +1,6 @@
 # Prison Fence Pole
 
-<img src="../../images/categories/buildtools.svg" alt="Prison Fence Pole" width="160">
+<img src="../../images/icons/3546099400.png" alt="Prison Fence Pole" width="160">
 
 | | |
 |---|---|

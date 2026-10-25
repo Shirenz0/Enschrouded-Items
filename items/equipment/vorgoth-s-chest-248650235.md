@@ -1,6 +1,6 @@
 # Vorgoth's Chest
 
-<img src="../../images/categories/equipment.svg" alt="Vorgoth's Chest" width="160">
+<img src="../../images/categories/equipment.svg" alt="Vorgoth&#x27;s Chest" width="160">
 
 | | |
 |---|---|

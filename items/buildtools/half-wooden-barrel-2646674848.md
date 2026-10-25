@@ -1,6 +1,6 @@
 # Half Wooden Barrel
 
-<img src="../../images/categories/buildtools.svg" alt="Half Wooden Barrel" width="160">
+<img src="../../images/icons/2646674848.png" alt="Half Wooden Barrel" width="160">
 
 | | |
 |---|---|

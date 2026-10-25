@@ -1,6 +1,6 @@
 # Fine Wooden Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Wooden Fence" width="160">
+<img src="../../images/icons/3166374248.png" alt="Fine Wooden Fence" width="160">
 
 | | |
 |---|---|

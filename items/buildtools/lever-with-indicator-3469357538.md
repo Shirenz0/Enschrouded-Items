@@ -1,6 +1,6 @@
 # Lever with indicator
 
-<img src="../../images/categories/buildtools.svg" alt="Lever with indicator" width="160">
+<img src="../../images/icons/3469357538.png" alt="Lever with indicator" width="160">
 
 | | |
 |---|---|

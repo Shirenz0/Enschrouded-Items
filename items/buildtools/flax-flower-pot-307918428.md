@@ -1,6 +1,6 @@
 # Flax Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Flax Flower Pot" width="160">
+<img src="../../images/icons/307918428.png" alt="Flax Flower Pot" width="160">
 
 | | |
 |---|---|

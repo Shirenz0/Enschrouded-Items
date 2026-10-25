@@ -1,6 +1,6 @@
 # Bamboo Boardwalk I
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Boardwalk I" width="160">
+<img src="../../images/icons/894806732.png" alt="Bamboo Boardwalk I" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Fish Drying Rack
 
-<img src="../../images/categories/buildtools.svg" alt="Fish Drying Rack" width="160">
+<img src="../../images/icons/4264389715.png" alt="Fish Drying Rack" width="160">
 
 | | |
 |---|---|

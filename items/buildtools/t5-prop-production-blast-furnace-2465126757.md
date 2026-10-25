@@ -1,6 +1,6 @@
 # T5 Prop Production Blast Furnace
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Production Blast Furnace" width="160">
+<img src="../../images/icons/2465126757.png" alt="T5 Prop Production Blast Furnace" width="160">
 
 | | |
 |---|---|

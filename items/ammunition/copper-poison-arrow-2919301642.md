@@ -1,6 +1,6 @@
 # Copper Poison Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Copper Poison Arrow" width="160">
+<img src="../../images/icons/2919301642.png" alt="Copper Poison Arrow" width="160">
 
 | | |
 |---|---|

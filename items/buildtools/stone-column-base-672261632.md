@@ -1,6 +1,6 @@
 # Stone Column Base
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Column Base" width="160">
+<img src="../../images/icons/672261632.png" alt="Stone Column Base" width="160">
 
 | | |
 |---|---|

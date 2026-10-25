@@ -1,6 +1,6 @@
 # Orange Wall Light II
 
-<img src="../../images/categories/buildtools.svg" alt="Orange Wall Light II" width="160">
+<img src="../../images/icons/3679359640.png" alt="Orange Wall Light II" width="160">
 
 | | |
 |---|---|

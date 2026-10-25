@@ -1,6 +1,6 @@
 # Empty Farmbed
 
-<img src="../../images/categories/buildtools.svg" alt="Empty Farmbed" width="160">
+<img src="../../images/icons/604994553.png" alt="Empty Farmbed" width="160">
 
 | | |
 |---|---|

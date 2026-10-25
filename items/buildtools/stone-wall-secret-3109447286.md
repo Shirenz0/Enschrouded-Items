@@ -1,6 +1,6 @@
 # Stone Wall Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Wall Secret" width="160">
+<img src="../../images/icons/3109447286.png" alt="Stone Wall Secret" width="160">
 
 | | |
 |---|---|

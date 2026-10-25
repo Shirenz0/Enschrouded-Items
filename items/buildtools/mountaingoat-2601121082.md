@@ -1,6 +1,6 @@
 # Mountaingoat
 
-<img src="../../images/categories/buildtools.svg" alt="Mountaingoat" width="160">
+<img src="../../images/icons/2601121082.png" alt="Mountaingoat" width="160">
 
 | | |
 |---|---|

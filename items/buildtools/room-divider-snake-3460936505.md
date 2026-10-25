@@ -1,6 +1,6 @@
 # Room Divider "Snake"
 
-<img src="../../images/categories/buildtools.svg" alt="Room Divider "Snake"" width="160">
+<img src="../../images/icons/3460936505.png" alt="Room Divider &quot;Snake&quot;" width="160">
 
 | | |
 |---|---|

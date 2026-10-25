@@ -1,6 +1,6 @@
 # Capybara Feeder
 
-<img src="../../images/categories/buildtools.svg" alt="Capybara Feeder" width="160">
+<img src="../../images/icons/2978369451.png" alt="Capybara Feeder" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Metal Boss Trophy Hollow Cyclops
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Hollow Cyclops" width="160">
+<img src="../../images/icons/1054730604.png" alt="Metal Boss Trophy Hollow Cyclops" width="160">
 
 | | |
 |---|---|

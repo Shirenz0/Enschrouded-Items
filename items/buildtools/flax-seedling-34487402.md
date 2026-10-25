@@ -1,6 +1,6 @@
 # Flax Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Flax Seedling" width="160">
+<img src="../../images/icons/34487402.png" alt="Flax Seedling" width="160">
 
 | | |
 |---|---|

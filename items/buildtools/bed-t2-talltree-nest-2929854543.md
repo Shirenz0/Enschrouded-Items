@@ -1,6 +1,6 @@
 # Bed T2 Talltree Nest
 
-<img src="../../images/categories/buildtools.svg" alt="Bed T2 Talltree Nest" width="160">
+<img src="../../images/icons/2929854543.png" alt="Bed T2 Talltree Nest" width="160">
 
 | | |
 |---|---|

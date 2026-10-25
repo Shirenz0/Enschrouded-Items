@@ -1,6 +1,6 @@
 # Pressure plate
 
-<img src="../../images/categories/buildtools.svg" alt="Pressure plate" width="160">
+<img src="../../images/icons/3590042993.png" alt="Pressure plate" width="160">
 
 | | |
 |---|---|

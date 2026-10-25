@@ -1,6 +1,6 @@
 # Loot Drop Station
 
-<img src="../../images/categories/buildtools.svg" alt="Loot Drop Station" width="160">
+<img src="../../images/icons/2847231429.png" alt="Loot Drop Station" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Bamboo Fence With Ropes II
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Fence With Ropes II" width="160">
+<img src="../../images/icons/2573348849.png" alt="Bamboo Fence With Ropes II" width="160">
 
 | | |
 |---|---|

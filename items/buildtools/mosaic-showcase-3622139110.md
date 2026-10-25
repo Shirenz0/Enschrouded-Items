@@ -1,6 +1,6 @@
 # Mosaic Showcase
 
-<img src="../../images/categories/buildtools.svg" alt="Mosaic Showcase" width="160">
+<img src="../../images/icons/3622139110.png" alt="Mosaic Showcase" width="160">
 
 | | |
 |---|---|

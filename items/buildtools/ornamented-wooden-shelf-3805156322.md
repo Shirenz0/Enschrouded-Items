@@ -1,6 +1,6 @@
 # Ornamented Wooden Shelf
 
-<img src="../../images/categories/buildtools.svg" alt="Ornamented Wooden Shelf" width="160">
+<img src="../../images/icons/3805156322.png" alt="Ornamented Wooden Shelf" width="160">
 
 | | |
 |---|---|

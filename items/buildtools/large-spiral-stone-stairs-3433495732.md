@@ -1,6 +1,6 @@
 # Large Spiral Stone Stairs
 
-<img src="../../images/categories/buildtools.svg" alt="Large Spiral Stone Stairs" width="160">
+<img src="../../images/icons/3433495732.png" alt="Large Spiral Stone Stairs" width="160">
 
 | | |
 |---|---|

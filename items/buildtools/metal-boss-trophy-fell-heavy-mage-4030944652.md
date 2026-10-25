@@ -1,6 +1,6 @@
 # Metal Boss Trophy Fell Heavy Mage
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Fell Heavy Mage" width="160">
+<img src="../../images/icons/4030944652.png" alt="Metal Boss Trophy Fell Heavy Mage" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Fenrig Mills, Jr.
 
-<img src="../../images/categories/buildtools.svg" alt="Fenrig Mills, Jr." width="160">
+<img src="../../images/icons/1209217157.png" alt="Fenrig Mills, Jr." width="160">
 
 | | |
 |---|---|

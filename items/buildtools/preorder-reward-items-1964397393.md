@@ -1,6 +1,6 @@
 # PreOrder Reward Items
 
-<img src="../../images/categories/buildtools.svg" alt="PreOrder Reward Items" width="160">
+<img src="../../images/icons/1964397393.png" alt="PreOrder Reward Items" width="160">
 
 | | |
 |---|---|

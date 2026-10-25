@@ -1,6 +1,6 @@
 # Pine Wood Garden Fence Door
 
-<img src="../../images/categories/buildtools.svg" alt="Pine Wood Garden Fence Door" width="160">
+<img src="../../images/icons/1111884223.png" alt="Pine Wood Garden Fence Door" width="160">
 
 | | |
 |---|---|

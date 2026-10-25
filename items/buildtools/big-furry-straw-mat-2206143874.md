@@ -1,6 +1,6 @@
 # Big furry straw mat
 
-<img src="../../images/categories/buildtools.svg" alt="Big furry straw mat" width="160">
+<img src="../../images/icons/2206143874.png" alt="Big furry straw mat" width="160">
 
 | | |
 |---|---|

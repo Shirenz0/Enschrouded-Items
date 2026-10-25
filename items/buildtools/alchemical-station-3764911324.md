@@ -1,6 +1,6 @@
 # Alchemical Station
 
-<img src="../../images/categories/buildtools.svg" alt="Alchemical Station" width="160">
+<img src="../../images/icons/3764911324.png" alt="Alchemical Station" width="160">
 
 | | |
 |---|---|

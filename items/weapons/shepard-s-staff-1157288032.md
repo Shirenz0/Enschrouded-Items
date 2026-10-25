@@ -1,6 +1,6 @@
 # Shepard's Staff
 
-<img src="../../images/categories/weapons.svg" alt="Shepard's Staff" width="160">
+<img src="../../images/categories/weapons.svg" alt="Shepard&#x27;s Staff" width="160">
 
 | | |
 |---|---|

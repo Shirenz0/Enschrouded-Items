@@ -1,6 +1,6 @@
 # A Spiral Down, Down, Down
 
-<img src="../../images/categories/buildtools.svg" alt="A Spiral Down, Down, Down" width="160">
+<img src="../../images/icons/48847428.png" alt="A Spiral Down, Down, Down" width="160">
 
 | | |
 |---|---|

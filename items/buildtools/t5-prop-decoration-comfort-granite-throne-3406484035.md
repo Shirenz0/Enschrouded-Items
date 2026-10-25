@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Granite Throne
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Granite Throne" width="160">
+<img src="../../images/icons/3406484035.png" alt="T5 Prop Decoration Comfort Granite Throne" width="160">
 
 | | |
 |---|---|

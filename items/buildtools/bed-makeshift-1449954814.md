@@ -1,6 +1,6 @@
 # Bed (Makeshift)
 
-<img src="../../images/categories/buildtools.svg" alt="Bed (Makeshift)" width="160">
+<img src="../../images/icons/1449954814.png" alt="Bed (Makeshift)" width="160">
 
 | | |
 |---|---|

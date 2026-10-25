@@ -1,6 +1,6 @@
 # Table Large T2 Dungeon
 
-<img src="../../images/categories/buildtools.svg" alt="Table Large T2 Dungeon" width="160">
+<img src="../../images/icons/3708349200.png" alt="Table Large T2 Dungeon" width="160">
 
 | | |
 |---|---|

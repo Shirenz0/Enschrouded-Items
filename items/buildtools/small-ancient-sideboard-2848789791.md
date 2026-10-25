@@ -1,6 +1,6 @@
 # Small Ancient Sideboard
 
-<img src="../../images/categories/buildtools.svg" alt="Small Ancient Sideboard" width="160">
+<img src="../../images/icons/2848789791.png" alt="Small Ancient Sideboard" width="160">
 
 | | |
 |---|---|

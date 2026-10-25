@@ -1,6 +1,6 @@
 # Medium hollow Halls Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Medium hollow Halls Banner" width="160">
+<img src="../../images/icons/553983871.png" alt="Medium hollow Halls Banner" width="160">
 
 | | |
 |---|---|

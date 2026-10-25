@@ -1,6 +1,6 @@
 # Fine Hardwood Door
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Hardwood Door" width="160">
+<img src="../../images/icons/517818801.png" alt="Fine Hardwood Door" width="160">
 
 | | |
 |---|---|

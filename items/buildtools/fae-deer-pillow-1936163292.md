@@ -1,6 +1,6 @@
 # Fae Deer Pillow
 
-<img src="../../images/categories/buildtools.svg" alt="Fae Deer Pillow" width="160">
+<img src="../../images/icons/1936163292.png" alt="Fae Deer Pillow" width="160">
 
 | | |
 |---|---|

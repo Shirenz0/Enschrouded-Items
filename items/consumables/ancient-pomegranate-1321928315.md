@@ -1,6 +1,6 @@
 # Ancient "Pomegranate"
 
-<img src="../../images/categories/consumables.svg" alt="Ancient "Pomegranate"" width="160">
+<img src="../../images/categories/consumables.svg" alt="Ancient &quot;Pomegranate&quot;" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Orange Pendant Light I
 
-<img src="../../images/categories/buildtools.svg" alt="Orange Pendant Light I" width="160">
+<img src="../../images/icons/3057351533.png" alt="Orange Pendant Light I" width="160">
 
 | | |
 |---|---|

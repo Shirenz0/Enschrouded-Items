@@ -1,6 +1,6 @@
 # Pink Wall Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Pink Wall Pot" width="160">
+<img src="../../images/icons/533905592.png" alt="Pink Wall Pot" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Prop Decoration T5 Silver Jug
 
-<img src="../../images/categories/buildtools.svg" alt="Prop Decoration T5 Silver Jug" width="160">
+<img src="../../images/icons/332207654.png" alt="Prop Decoration T5 Silver Jug" width="160">
 
 | | |
 |---|---|

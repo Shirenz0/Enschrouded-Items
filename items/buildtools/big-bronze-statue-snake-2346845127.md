@@ -1,6 +1,6 @@
 # Big Bronze Statue "Snake"
 
-<img src="../../images/categories/buildtools.svg" alt="Big Bronze Statue "Snake"" width="160">
+<img src="../../images/icons/2346845127.png" alt="Big Bronze Statue &quot;Snake&quot;" width="160">
 
 | | |
 |---|---|

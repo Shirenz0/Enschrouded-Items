@@ -1,6 +1,6 @@
 # Vukah shrine
 
-<img src="../../images/categories/buildtools.svg" alt="Vukah shrine" width="160">
+<img src="../../images/icons/1732202585.png" alt="Vukah shrine" width="160">
 
 | | |
 |---|---|

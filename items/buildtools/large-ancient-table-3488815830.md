@@ -1,6 +1,6 @@
 # Large Ancient Table
 
-<img src="../../images/categories/buildtools.svg" alt="Large Ancient Table" width="160">
+<img src="../../images/icons/3488815830.png" alt="Large Ancient Table" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Wooden Palisade VIII
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Palisade VIII" width="160">
+<img src="../../images/icons/1753033300.png" alt="Wooden Palisade VIII" width="160">
 
 | | |
 |---|---|

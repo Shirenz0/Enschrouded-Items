@@ -1,6 +1,6 @@
 # Banana Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Banana Seedling" width="160">
+<img src="../../images/icons/3955544954.png" alt="Banana Seedling" width="160">
 
 | | |
 |---|---|

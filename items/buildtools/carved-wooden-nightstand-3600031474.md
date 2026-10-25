@@ -1,6 +1,6 @@
 # Carved Wooden Nightstand
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Wooden Nightstand" width="160">
+<img src="../../images/icons/3600031474.png" alt="Carved Wooden Nightstand" width="160">
 
 | | |
 |---|---|

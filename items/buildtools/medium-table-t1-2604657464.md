@@ -1,6 +1,6 @@
 # Medium Table T1
 
-<img src="../../images/categories/buildtools.svg" alt="Medium Table T1" width="160">
+<img src="../../images/icons/2604657464.png" alt="Medium Table T1" width="160">
 
 | | |
 |---|---|

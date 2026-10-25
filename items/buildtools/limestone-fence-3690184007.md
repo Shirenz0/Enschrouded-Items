@@ -1,6 +1,6 @@
 # LimeStone Fence
 
-<img src="../../images/categories/buildtools.svg" alt="LimeStone Fence" width="160">
+<img src="../../images/icons/3690184007.png" alt="LimeStone Fence" width="160">
 
 | | |
 |---|---|

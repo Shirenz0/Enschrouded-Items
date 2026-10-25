@@ -1,6 +1,6 @@
 # Bamboo Ladder
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Ladder" width="160">
+<img src="../../images/icons/947644888.png" alt="Bamboo Ladder" width="160">
 
 | | |
 |---|---|

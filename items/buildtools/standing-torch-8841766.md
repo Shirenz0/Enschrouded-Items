@@ -1,6 +1,6 @@
 # Standing torch
 
-<img src="../../images/categories/buildtools.svg" alt="Standing torch" width="160">
+<img src="../../images/icons/8841766.png" alt="Standing torch" width="160">
 
 | | |
 |---|---|

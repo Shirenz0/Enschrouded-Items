@@ -1,6 +1,6 @@
 # Blackmire Temple Door
 
-<img src="../../images/categories/buildtools.svg" alt="Blackmire Temple Door" width="160">
+<img src="../../images/icons/3996280801.png" alt="Blackmire Temple Door" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gold Fell Wispwyvern trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Fell Wispwyvern trophy" width="160">
+<img src="../../images/icons/4089063890.png" alt="Gold Fell Wispwyvern trophy" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Ancient Pracer Beacon Medium
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Pracer Beacon Medium" width="160">
+<img src="../../images/icons/2527029391.png" alt="Ancient Pracer Beacon Medium" width="160">
 
 | | |
 |---|---|

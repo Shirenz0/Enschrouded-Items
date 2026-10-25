@@ -1,6 +1,6 @@
 # Logic Switchbox
 
-<img src="../../images/categories/buildtools.svg" alt="Logic Switchbox" width="160">
+<img src="../../images/icons/577103459.png" alt="Logic Switchbox" width="160">
 
 | | |
 |---|---|

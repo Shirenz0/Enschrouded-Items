@@ -1,6 +1,6 @@
 # Beehive Smoker
 
-<img src="../../images/categories/buildtools.svg" alt="Beehive Smoker" width="160">
+<img src="../../images/icons/1797898257.png" alt="Beehive Smoker" width="160">
 
 | | |
 |---|---|

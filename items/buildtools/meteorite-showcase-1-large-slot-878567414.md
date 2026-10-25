@@ -1,6 +1,6 @@
 # Meteorite Showcase (1 Large Slot)
 
-<img src="../../images/categories/buildtools.svg" alt="Meteorite Showcase (1 Large Slot)" width="160">
+<img src="../../images/icons/878567414.png" alt="Meteorite Showcase (1 Large Slot)" width="160">
 
 | | |
 |---|---|

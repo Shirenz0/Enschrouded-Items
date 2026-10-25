@@ -1,6 +1,6 @@
 # Critter Plush
 
-<img src="../../images/categories/buildtools.svg" alt="Critter Plush" width="160">
+<img src="../../images/icons/961402268.png" alt="Critter Plush" width="160">
 
 | | |
 |---|---|

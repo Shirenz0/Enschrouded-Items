@@ -1,6 +1,6 @@
 # Medium Chest
 
-<img src="../../images/categories/buildtools.svg" alt="Medium Chest" width="160">
+<img src="../../images/icons/3642338342.png" alt="Medium Chest" width="160">
 
 | | |
 |---|---|

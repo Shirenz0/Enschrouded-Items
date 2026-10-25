@@ -1,6 +1,6 @@
 # Jump Pad High
 
-<img src="../../images/categories/buildtools.svg" alt="Jump Pad High" width="160">
+<img src="../../images/icons/2847426289.png" alt="Jump Pad High" width="160">
 
 | | |
 |---|---|

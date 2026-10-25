@@ -1,6 +1,6 @@
 # Ancient Stool
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Stool" width="160">
+<img src="../../images/icons/568670850.png" alt="Ancient Stool" width="160">
 
 | | |
 |---|---|

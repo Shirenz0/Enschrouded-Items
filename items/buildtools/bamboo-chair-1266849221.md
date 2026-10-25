@@ -1,6 +1,6 @@
 # Bamboo Chair
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Chair" width="160">
+<img src="../../images/icons/1266849221.png" alt="Bamboo Chair" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Spider Web III
 
-<img src="../../images/categories/buildtools.svg" alt="Spider Web III" width="160">
+<img src="../../images/icons/2719738711.png" alt="Spider Web III" width="160">
 
 | | |
 |---|---|

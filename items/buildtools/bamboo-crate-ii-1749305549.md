@@ -1,6 +1,6 @@
 # Bamboo Crate II
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Crate II" width="160">
+<img src="../../images/icons/1749305549.png" alt="Bamboo Crate II" width="160">
 
 | | |
 |---|---|

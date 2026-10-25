@@ -1,6 +1,6 @@
 # Simple Coffing Lid
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Coffing Lid" width="160">
+<img src="../../images/icons/160834168.png" alt="Simple Coffing Lid" width="160">
 
 | | |
 |---|---|

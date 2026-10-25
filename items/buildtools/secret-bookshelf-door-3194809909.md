@@ -1,6 +1,6 @@
 # Secret Bookshelf Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Bookshelf Door" width="160">
+<img src="../../images/icons/3194809909.png" alt="Secret Bookshelf Door" width="160">
 
 | | |
 |---|---|

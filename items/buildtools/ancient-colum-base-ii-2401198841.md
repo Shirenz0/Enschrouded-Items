@@ -1,6 +1,6 @@
 # Ancient Colum Base II
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Colum Base II" width="160">
+<img src="../../images/icons/2401198841.png" alt="Ancient Colum Base II" width="160">
 
 | | |
 |---|---|

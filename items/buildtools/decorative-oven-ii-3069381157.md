@@ -1,6 +1,6 @@
 # Decorative Oven II
 
-<img src="../../images/categories/buildtools.svg" alt="Decorative Oven II" width="160">
+<img src="../../images/icons/3069381157.png" alt="Decorative Oven II" width="160">
 
 | | |
 |---|---|

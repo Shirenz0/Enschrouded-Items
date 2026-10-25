@@ -1,6 +1,6 @@
 # Elevated Huge Coffin
 
-<img src="../../images/categories/buildtools.svg" alt="Elevated Huge Coffin" width="160">
+<img src="../../images/icons/1584621189.png" alt="Elevated Huge Coffin" width="160">
 
 | | |
 |---|---|

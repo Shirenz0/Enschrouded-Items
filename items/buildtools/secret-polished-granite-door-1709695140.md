@@ -1,6 +1,6 @@
 # Secret Polished Granite Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Polished Granite Door" width="160">
+<img src="../../images/icons/1709695140.png" alt="Secret Polished Granite Door" width="160">
 
 | | |
 |---|---|

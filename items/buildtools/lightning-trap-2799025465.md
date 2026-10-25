@@ -1,6 +1,6 @@
 # Lightning trap
 
-<img src="../../images/categories/buildtools.svg" alt="Lightning trap" width="160">
+<img src="../../images/icons/2799025465.png" alt="Lightning trap" width="160">
 
 | | |
 |---|---|

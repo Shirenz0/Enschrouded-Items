@@ -1,6 +1,6 @@
 # T5 Prop Decoration Round Steel Window Large
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Round Steel Window Large" width="160">
+<img src="../../images/icons/3300071272.png" alt="T5 Prop Decoration Round Steel Window Large" width="160">
 
 | | |
 |---|---|

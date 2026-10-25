@@ -1,6 +1,6 @@
 # Drak Trophy Wall Head - Twitch Drop
 
-<img src="../../images/categories/buildtools.svg" alt="Drak Trophy Wall Head - Twitch Drop" width="160">
+<img src="../../images/icons/2469035941.png" alt="Drak Trophy Wall Head - Twitch Drop" width="160">
 
 | | |
 |---|---|

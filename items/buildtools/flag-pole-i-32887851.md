@@ -1,6 +1,6 @@
 # Flag Pole I
 
-<img src="../../images/categories/buildtools.svg" alt="Flag Pole I" width="160">
+<img src="../../images/icons/32887851.png" alt="Flag Pole I" width="160">
 
 | | |
 |---|---|

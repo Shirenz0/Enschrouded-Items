@@ -1,6 +1,6 @@
 # Bamboo Barricade IV
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Barricade IV" width="160">
+<img src="../../images/icons/4078868458.png" alt="Bamboo Barricade IV" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Large Throneroom Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Large Throneroom Brazier" width="160">
+<img src="../../images/icons/737777235.png" alt="Large Throneroom Brazier" width="160">
 
 | | |
 |---|---|

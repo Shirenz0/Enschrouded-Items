@@ -1,6 +1,6 @@
 # Falsk Medium
 
-<img src="../../images/categories/buildtools.svg" alt="Falsk Medium" width="160">
+<img src="../../images/icons/2020294526.png" alt="Falsk Medium" width="160">
 
 | | |
 |---|---|

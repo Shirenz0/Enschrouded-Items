@@ -1,6 +1,6 @@
 # Carpenter Decoration Workbench
 
-<img src="../../images/categories/buildtools.svg" alt="Carpenter Decoration Workbench" width="160">
+<img src="../../images/icons/2736406931.png" alt="Carpenter Decoration Workbench" width="160">
 
 | | |
 |---|---|

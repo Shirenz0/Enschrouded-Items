@@ -1,6 +1,6 @@
 # Cultivation Rack
 
-<img src="../../images/categories/buildtools.svg" alt="Cultivation Rack" width="160">
+<img src="../../images/icons/2698582898.png" alt="Cultivation Rack" width="160">
 
 | | |
 |---|---|

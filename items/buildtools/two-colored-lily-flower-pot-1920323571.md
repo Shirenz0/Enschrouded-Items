@@ -1,6 +1,6 @@
 # Two-colored Lily Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Two-colored Lily Flower Pot" width="160">
+<img src="../../images/icons/1920323571.png" alt="Two-colored Lily Flower Pot" width="160">
 
 | | |
 |---|---|

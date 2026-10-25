@@ -1,6 +1,6 @@
 # Vase Of The Ancients VI
 
-<img src="../../images/categories/buildtools.svg" alt="Vase Of The Ancients VI" width="160">
+<img src="../../images/icons/1543960903.png" alt="Vase Of The Ancients VI" width="160">
 
 | | |
 |---|---|

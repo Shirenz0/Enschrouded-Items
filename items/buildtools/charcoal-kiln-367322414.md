@@ -1,6 +1,6 @@
 # Charcoal Kiln
 
-<img src="../../images/categories/buildtools.svg" alt="Charcoal Kiln" width="160">
+<img src="../../images/icons/367322414.png" alt="Charcoal Kiln" width="160">
 
 | | |
 |---|---|

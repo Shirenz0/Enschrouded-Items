@@ -1,6 +1,6 @@
 # Metal Boss Trophy Cyclops
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Boss Trophy Cyclops" width="160">
+<img src="../../images/icons/3561979363.png" alt="Metal Boss Trophy Cyclops" width="160">
 
 | | |
 |---|---|

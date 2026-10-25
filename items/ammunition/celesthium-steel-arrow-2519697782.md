@@ -1,6 +1,6 @@
 # Celesthium Steel Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Celesthium Steel Arrow" width="160">
+<img src="../../images/icons/2519697782.png" alt="Celesthium Steel Arrow" width="160">
 
 | | |
 |---|---|

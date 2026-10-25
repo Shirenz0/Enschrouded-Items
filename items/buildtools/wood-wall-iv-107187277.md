@@ -1,6 +1,6 @@
 # Wood Wall IV
 
-<img src="../../images/categories/buildtools.svg" alt="Wood Wall IV" width="160">
+<img src="../../images/icons/107187277.png" alt="Wood Wall IV" width="160">
 
 | | |
 |---|---|

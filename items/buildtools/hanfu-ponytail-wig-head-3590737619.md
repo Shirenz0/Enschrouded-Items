@@ -1,6 +1,6 @@
 # Hanfu Ponytail Wig Head
 
-<img src="../../images/categories/buildtools.svg" alt="Hanfu Ponytail Wig Head" width="160">
+<img src="../../images/icons/3590737619.png" alt="Hanfu Ponytail Wig Head" width="160">
 
 | | |
 |---|---|

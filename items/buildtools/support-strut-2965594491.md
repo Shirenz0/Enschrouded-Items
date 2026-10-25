@@ -1,6 +1,6 @@
 # Support Strut
 
-<img src="../../images/categories/buildtools.svg" alt="Support Strut" width="160">
+<img src="../../images/icons/2965594491.png" alt="Support Strut" width="160">
 
 | | |
 |---|---|

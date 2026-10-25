@@ -1,6 +1,6 @@
 # Collection Of Books II
 
-<img src="../../images/categories/buildtools.svg" alt="Collection Of Books II" width="160">
+<img src="../../images/icons/1732682352.png" alt="Collection Of Books II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # T5 Prop Decoration Shelf
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Shelf" width="160">
+<img src="../../images/icons/937001347.png" alt="T5 Prop Decoration Shelf" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Carved Wooden Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Wooden Double Door" width="160">
+<img src="../../images/icons/3966046547.png" alt="Carved Wooden Double Door" width="160">
 
 | | |
 |---|---|

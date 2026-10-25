@@ -1,6 +1,6 @@
 # Large Ornamented Wooden Cupboard
 
-<img src="../../images/categories/buildtools.svg" alt="Large Ornamented Wooden Cupboard" width="160">
+<img src="../../images/icons/93557059.png" alt="Large Ornamented Wooden Cupboard" width="160">
 
 | | |
 |---|---|

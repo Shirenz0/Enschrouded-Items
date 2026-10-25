@@ -1,6 +1,6 @@
 # Ornate Iron Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Ornate Iron Double Door" width="160">
+<img src="../../images/icons/2544552928.png" alt="Ornate Iron Double Door" width="160">
 
 | | |
 |---|---|

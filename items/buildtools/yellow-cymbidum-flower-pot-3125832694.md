@@ -1,6 +1,6 @@
 # Yellow Cymbidum Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Yellow Cymbidum Flower Pot" width="160">
+<img src="../../images/icons/3125832694.png" alt="Yellow Cymbidum Flower Pot" width="160">
 
 | | |
 |---|---|

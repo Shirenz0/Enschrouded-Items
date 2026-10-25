@@ -1,6 +1,6 @@
 # Obsidian Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Obsidian Arrow" width="160">
+<img src="../../images/icons/2172551026.png" alt="Obsidian Arrow" width="160">
 
 | | |
 |---|---|

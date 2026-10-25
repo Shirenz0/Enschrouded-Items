@@ -1,6 +1,6 @@
 # Wooden Chest
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Chest" width="160">
+<img src="../../images/icons/1302084846.png" alt="Wooden Chest" width="160">
 
 | | |
 |---|---|

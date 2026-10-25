@@ -1,6 +1,6 @@
 # Indigo Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Indigo Seedling" width="160">
+<img src="../../images/icons/1533027547.png" alt="Indigo Seedling" width="160">
 
 | | |
 |---|---|

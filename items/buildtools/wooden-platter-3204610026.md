@@ -1,6 +1,6 @@
 # Wooden Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Platter" width="160">
+<img src="../../images/icons/3204610026.png" alt="Wooden Platter" width="160">
 
 | | |
 |---|---|

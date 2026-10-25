@@ -1,6 +1,6 @@
 # St. John's Wort
 
-<img src="../../images/categories/consumables.svg" alt="St. John's Wort" width="160">
+<img src="../../images/categories/consumables.svg" alt="St. John&#x27;s Wort" width="160">
 
 | | |
 |---|---|

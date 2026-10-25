@@ -1,6 +1,6 @@
 # Illumination T2 Standing Torch Bone
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Standing Torch Bone" width="160">
+<img src="../../images/icons/1722111434.png" alt="Illumination T2 Standing Torch Bone" width="160">
 
 | | |
 |---|---|

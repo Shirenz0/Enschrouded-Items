@@ -1,6 +1,6 @@
 # Celestium Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Celestium Platter" width="160">
+<img src="../../images/icons/3591471319.png" alt="Celestium Platter" width="160">
 
 | | |
 |---|---|

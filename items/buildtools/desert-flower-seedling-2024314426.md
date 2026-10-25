@@ -1,6 +1,6 @@
 # Desert Flower Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Desert Flower Seedling" width="160">
+<img src="../../images/icons/2024314426.png" alt="Desert Flower Seedling" width="160">
 
 | | |
 |---|---|

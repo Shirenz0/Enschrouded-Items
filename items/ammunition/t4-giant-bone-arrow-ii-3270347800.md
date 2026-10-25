@@ -1,6 +1,6 @@
 # T4 Giant Bone Arrow II
 
-<img src="../../images/categories/ammunition.svg" alt="T4 Giant Bone Arrow II" width="160">
+<img src="../../images/icons/3270347800.png" alt="T4 Giant Bone Arrow II" width="160">
 
 | | |
 |---|---|

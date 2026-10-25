@@ -1,6 +1,6 @@
 # Fake Wood Wall Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Fake Wood Wall Secret" width="160">
+<img src="../../images/icons/2809296280.png" alt="Fake Wood Wall Secret" width="160">
 
 | | |
 |---|---|

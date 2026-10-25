@@ -1,6 +1,6 @@
 # Castle Bench
 
-<img src="../../images/categories/buildtools.svg" alt="Castle Bench" width="160">
+<img src="../../images/icons/3143381943.png" alt="Castle Bench" width="160">
 
 | | |
 |---|---|

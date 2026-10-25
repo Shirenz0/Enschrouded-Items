@@ -1,6 +1,6 @@
 # Weapon Stand Wall Bow & Arrow
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Wall Bow & Arrow" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Wall Bow &amp; Arrow" width="160">
 
 | | |
 |---|---|

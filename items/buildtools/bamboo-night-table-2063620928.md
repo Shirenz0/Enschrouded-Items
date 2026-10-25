@@ -1,6 +1,6 @@
 # Bamboo Night Table
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Night Table" width="160">
+<img src="../../images/icons/2063620928.png" alt="Bamboo Night Table" width="160">
 
 | | |
 |---|---|

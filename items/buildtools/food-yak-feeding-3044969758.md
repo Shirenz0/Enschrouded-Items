@@ -1,6 +1,6 @@
 # Food Yak Feeding
 
-<img src="../../images/categories/buildtools.svg" alt="Food Yak Feeding" width="160">
+<img src="../../images/icons/3044969758.png" alt="Food Yak Feeding" width="160">
 
 | | |
 |---|---|

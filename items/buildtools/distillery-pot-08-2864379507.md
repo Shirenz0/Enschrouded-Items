@@ -1,6 +1,6 @@
 # Distillery Pot 08
 
-<img src="../../images/categories/buildtools.svg" alt="Distillery Pot 08" width="160">
+<img src="../../images/icons/2864379507.png" alt="Distillery Pot 08" width="160">
 
 | | |
 |---|---|

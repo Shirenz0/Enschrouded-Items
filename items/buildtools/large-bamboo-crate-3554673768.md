@@ -1,6 +1,6 @@
 # Large Bamboo Crate
 
-<img src="../../images/categories/buildtools.svg" alt="Large Bamboo Crate" width="160">
+<img src="../../images/icons/3554673768.png" alt="Large Bamboo Crate" width="160">
 
 | | |
 |---|---|

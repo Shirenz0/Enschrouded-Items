@@ -1,6 +1,6 @@
 # Barn Pillow for Yaks
 
-<img src="../../images/categories/buildtools.svg" alt="Barn Pillow for Yaks" width="160">
+<img src="../../images/icons/858152914.png" alt="Barn Pillow for Yaks" width="160">
 
 | | |
 |---|---|

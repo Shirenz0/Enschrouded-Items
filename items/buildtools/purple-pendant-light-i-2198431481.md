@@ -1,6 +1,6 @@
 # Purple Pendant Light I
 
-<img src="../../images/categories/buildtools.svg" alt="Purple Pendant Light I" width="160">
+<img src="../../images/icons/2198431481.png" alt="Purple Pendant Light I" width="160">
 
 | | |
 |---|---|

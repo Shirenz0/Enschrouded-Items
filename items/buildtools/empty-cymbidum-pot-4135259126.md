@@ -1,6 +1,6 @@
 # Empty Cymbidum Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Empty Cymbidum Pot" width="160">
+<img src="../../images/icons/4135259126.png" alt="Empty Cymbidum Pot" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Orpheus' Memoir
 
-<img src="../../images/icons/4027517982.png" alt="Orpheus' Memoir" width="160">
+<img src="../../images/icons/4027517982.png" alt="Orpheus&#x27; Memoir" width="160">
 
 | | |
 |---|---|

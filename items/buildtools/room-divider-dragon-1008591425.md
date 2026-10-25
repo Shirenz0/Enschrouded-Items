@@ -1,6 +1,6 @@
 # Room Divider "Dragon"
 
-<img src="../../images/categories/buildtools.svg" alt="Room Divider "Dragon"" width="160">
+<img src="../../images/icons/1008591425.png" alt="Room Divider &quot;Dragon&quot;" width="160">
 
 | | |
 |---|---|

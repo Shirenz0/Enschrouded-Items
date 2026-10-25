@@ -1,6 +1,6 @@
 # Bronze Hydrak'Dal Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Bronze Hydrak'Dal Trophy" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Bronze Hydrak&#x27;Dal Trophy" width="160">
 
 | | |
 |---|---|

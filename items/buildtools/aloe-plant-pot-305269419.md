@@ -1,6 +1,6 @@
 # Aloe Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Aloe Plant Pot" width="160">
+<img src="../../images/icons/305269419.png" alt="Aloe Plant Pot" width="160">
 
 | | |
 |---|---|

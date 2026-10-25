@@ -1,6 +1,6 @@
 # Secret Stairs
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Stairs" width="160">
+<img src="../../images/icons/3051071536.png" alt="Secret Stairs" width="160">
 
 | | |
 |---|---|

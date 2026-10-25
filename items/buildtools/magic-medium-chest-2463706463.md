@@ -1,6 +1,6 @@
 # Magic Medium Chest
 
-<img src="../../images/categories/buildtools.svg" alt="Magic Medium Chest" width="160">
+<img src="../../images/icons/2463706463.png" alt="Magic Medium Chest" width="160">
 
 | | |
 |---|---|

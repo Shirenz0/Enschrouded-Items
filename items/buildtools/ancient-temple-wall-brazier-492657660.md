@@ -1,6 +1,6 @@
 # Ancient Temple Wall Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Temple Wall Brazier" width="160">
+<img src="../../images/icons/492657660.png" alt="Ancient Temple Wall Brazier" width="160">
 
 | | |
 |---|---|

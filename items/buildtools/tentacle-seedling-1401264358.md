@@ -1,6 +1,6 @@
 # Tentacle Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Tentacle Seedling" width="160">
+<img src="../../images/icons/1401264358.png" alt="Tentacle Seedling" width="160">
 
 | | |
 |---|---|

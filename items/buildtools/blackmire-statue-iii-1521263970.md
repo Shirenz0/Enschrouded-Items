@@ -1,6 +1,6 @@
 # Blackmire Statue III
 
-<img src="../../images/categories/buildtools.svg" alt="Blackmire Statue III" width="160">
+<img src="../../images/icons/1521263970.png" alt="Blackmire Statue III" width="160">
 
 | | |
 |---|---|

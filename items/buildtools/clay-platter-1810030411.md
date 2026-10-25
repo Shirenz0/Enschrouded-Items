@@ -1,6 +1,6 @@
 # Clay Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Clay Platter" width="160">
+<img src="../../images/icons/1810030411.png" alt="Clay Platter" width="160">
 
 | | |
 |---|---|

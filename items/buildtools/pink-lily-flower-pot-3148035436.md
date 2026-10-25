@@ -1,6 +1,6 @@
 # Pink Lily Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Pink Lily Flower Pot" width="160">
+<img src="../../images/icons/3148035436.png" alt="Pink Lily Flower Pot" width="160">
 
 | | |
 |---|---|

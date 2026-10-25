@@ -1,6 +1,6 @@
 # Sage Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Sage Flower Pot" width="160">
+<img src="../../images/icons/3949039004.png" alt="Sage Flower Pot" width="160">
 
 | | |
 |---|---|

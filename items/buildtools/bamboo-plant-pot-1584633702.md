@@ -1,6 +1,6 @@
 # Bamboo Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Plant Pot" width="160">
+<img src="../../images/icons/1584633702.png" alt="Bamboo Plant Pot" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Red Marble Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Red Marble Secret" width="160">
+<img src="../../images/icons/1293427697.png" alt="Red Marble Secret" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Small Decorative Tree
 
-<img src="../../images/categories/buildtools.svg" alt="Small Decorative Tree" width="160">
+<img src="../../images/icons/2244944221.png" alt="Small Decorative Tree" width="160">
 
 | | |
 |---|---|

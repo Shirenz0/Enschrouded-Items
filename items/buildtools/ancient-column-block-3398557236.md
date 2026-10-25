@@ -1,6 +1,6 @@
 # Ancient Column Block
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Column Block" width="160">
+<img src="../../images/icons/3398557236.png" alt="Ancient Column Block" width="160">
 
 | | |
 |---|---|

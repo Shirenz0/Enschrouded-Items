@@ -1,6 +1,6 @@
 # Secret Granite Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Granite Door" width="160">
+<img src="../../images/icons/2073515912.png" alt="Secret Granite Door" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Basic Fire Place
 
-<img src="../../images/categories/buildtools.svg" alt="Basic Fire Place" width="160">
+<img src="../../images/icons/2553759691.png" alt="Basic Fire Place" width="160">
 
 | | |
 |---|---|

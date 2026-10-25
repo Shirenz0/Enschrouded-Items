@@ -1,6 +1,6 @@
 # Wooden Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Window Frame" width="160">
+<img src="../../images/icons/1349537387.png" alt="Wooden Window Frame" width="160">
 
 | | |
 |---|---|

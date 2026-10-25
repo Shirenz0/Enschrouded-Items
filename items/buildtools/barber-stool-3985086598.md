@@ -1,6 +1,6 @@
 # Barber Stool
 
-<img src="../../images/categories/buildtools.svg" alt="Barber Stool" width="160">
+<img src="../../images/icons/3985086598.png" alt="Barber Stool" width="160">
 
 | | |
 |---|---|

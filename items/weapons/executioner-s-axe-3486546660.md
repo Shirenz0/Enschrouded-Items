@@ -1,6 +1,6 @@
 # Executioner's Axe
 
-<img src="../../images/categories/weapons.svg" alt="Executioner's Axe" width="160">
+<img src="../../images/categories/weapons.svg" alt="Executioner&#x27;s Axe" width="160">
 
 | | |
 |---|---|

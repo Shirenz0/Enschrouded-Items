@@ -1,6 +1,6 @@
 # Fine Stone Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Fine Stone Fence" width="160">
+<img src="../../images/icons/2278407208.png" alt="Fine Stone Fence" width="160">
 
 | | |
 |---|---|

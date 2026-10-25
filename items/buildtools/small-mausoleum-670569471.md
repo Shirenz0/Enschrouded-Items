@@ -1,6 +1,6 @@
 # Small Mausoleum
 
-<img src="../../images/categories/buildtools.svg" alt="Small Mausoleum" width="160">
+<img src="../../images/icons/670569471.png" alt="Small Mausoleum" width="160">
 
 | | |
 |---|---|

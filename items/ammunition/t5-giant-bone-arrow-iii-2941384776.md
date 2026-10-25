@@ -1,6 +1,6 @@
 # T5 Giant Bone Arrow III
 
-<img src="../../images/categories/ammunition.svg" alt="T5 Giant Bone Arrow III" width="160">
+<img src="../../images/icons/2941384776.png" alt="T5 Giant Bone Arrow III" width="160">
 
 | | |
 |---|---|

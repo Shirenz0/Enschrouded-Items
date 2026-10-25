@@ -1,6 +1,6 @@
 # Big Red Wall Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Big Red Wall Banner" width="160">
+<img src="../../images/icons/267045293.png" alt="Big Red Wall Banner" width="160">
 
 | | |
 |---|---|

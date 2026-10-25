@@ -1,6 +1,6 @@
 # Cylindrical Pillow
 
-<img src="../../images/categories/buildtools.svg" alt="Cylindrical Pillow" width="160">
+<img src="../../images/icons/1564736216.png" alt="Cylindrical Pillow" width="160">
 
 | | |
 |---|---|

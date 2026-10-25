@@ -1,6 +1,6 @@
 # High Iron Window Frame I
 
-<img src="../../images/categories/buildtools.svg" alt="High Iron Window Frame I" width="160">
+<img src="../../images/icons/3767898883.png" alt="High Iron Window Frame I" width="160">
 
 | | |
 |---|---|

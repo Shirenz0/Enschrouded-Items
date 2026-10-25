@@ -1,6 +1,6 @@
 # Sugar Cane Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Sugar Cane Seedling" width="160">
+<img src="../../images/icons/34909120.png" alt="Sugar Cane Seedling" width="160">
 
 | | |
 |---|---|

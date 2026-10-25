@@ -1,6 +1,6 @@
 # Blue Pendant Light I
 
-<img src="../../images/categories/buildtools.svg" alt="Blue Pendant Light I" width="160">
+<img src="../../images/icons/2309442083.png" alt="Blue Pendant Light I" width="160">
 
 | | |
 |---|---|

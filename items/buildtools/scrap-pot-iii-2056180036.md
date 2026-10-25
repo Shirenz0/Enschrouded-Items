@@ -1,6 +1,6 @@
 # Scrap Pot III
 
-<img src="../../images/categories/buildtools.svg" alt="Scrap Pot III" width="160">
+<img src="../../images/icons/2056180036.png" alt="Scrap Pot III" width="160">
 
 | | |
 |---|---|

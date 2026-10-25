@@ -1,6 +1,6 @@
 # Cowlick Wig Head
 
-<img src="../../images/categories/buildtools.svg" alt="Cowlick Wig Head" width="160">
+<img src="../../images/icons/1641258379.png" alt="Cowlick Wig Head" width="160">
 
 | | |
 |---|---|

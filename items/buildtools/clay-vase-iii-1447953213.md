@@ -1,6 +1,6 @@
 # Clay Vase III
 
-<img src="../../images/categories/buildtools.svg" alt="Clay Vase III" width="160">
+<img src="../../images/icons/1447953213.png" alt="Clay Vase III" width="160">
 
 | | |
 |---|---|

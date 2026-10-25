@@ -1,6 +1,6 @@
 # Broken hollow Halls Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Broken hollow Halls Banner" width="160">
+<img src="../../images/icons/3639737989.png" alt="Broken hollow Halls Banner" width="160">
 
 | | |
 |---|---|

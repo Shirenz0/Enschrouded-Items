@@ -1,6 +1,6 @@
 # Steel Floor Torch
 
-<img src="../../images/categories/buildtools.svg" alt="Steel Floor Torch" width="160">
+<img src="../../images/icons/242859279.png" alt="Steel Floor Torch" width="160">
 
 | | |
 |---|---|

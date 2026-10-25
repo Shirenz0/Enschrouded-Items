@@ -1,6 +1,6 @@
 # Weapon Stand Melee 2hand
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Melee 2hand" width="160">
+<img src="../../images/icons/1521014072.png" alt="Weapon Stand Melee 2hand" width="160">
 
 | | |
 |---|---|

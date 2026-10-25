@@ -1,6 +1,6 @@
 # Big Boss Trophy Hollow Cyclops
 
-<img src="../../images/categories/buildtools.svg" alt="Big Boss Trophy Hollow Cyclops" width="160">
+<img src="../../images/icons/458991736.png" alt="Big Boss Trophy Hollow Cyclops" width="160">
 
 | | |
 |---|---|

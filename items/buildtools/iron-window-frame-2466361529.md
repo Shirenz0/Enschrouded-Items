@@ -1,6 +1,6 @@
 # Iron Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Window Frame" width="160">
+<img src="../../images/icons/2466361529.png" alt="Iron Window Frame" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gold Hollow Cyclops Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Hollow Cyclops Trophy" width="160">
+<img src="../../images/icons/987744055.png" alt="Gold Hollow Cyclops Trophy" width="160">
 
 | | |
 |---|---|

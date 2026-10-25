@@ -1,6 +1,6 @@
 # Honey Bee Hive
 
-<img src="../../images/categories/buildtools.svg" alt="Honey Bee Hive" width="160">
+<img src="../../images/icons/2792360705.png" alt="Honey Bee Hive" width="160">
 
 | | |
 |---|---|

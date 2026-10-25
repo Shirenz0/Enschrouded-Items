@@ -1,6 +1,6 @@
 # Embervale Miniature Showcase
 
-<img src="../../images/categories/buildtools.svg" alt="Embervale Miniature Showcase" width="160">
+<img src="../../images/icons/1764672566.png" alt="Embervale Miniature Showcase" width="160">
 
 | | |
 |---|---|

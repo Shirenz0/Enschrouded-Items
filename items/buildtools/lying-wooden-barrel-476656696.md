@@ -1,6 +1,6 @@
 # Lying Wooden Barrel
 
-<img src="../../images/categories/buildtools.svg" alt="Lying Wooden Barrel" width="160">
+<img src="../../images/icons/476656696.png" alt="Lying Wooden Barrel" width="160">
 
 | | |
 |---|---|

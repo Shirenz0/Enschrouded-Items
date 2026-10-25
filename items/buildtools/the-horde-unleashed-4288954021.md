@@ -1,6 +1,6 @@
 # The Horde Unleashed
 
-<img src="../../images/categories/buildtools.svg" alt="The Horde Unleashed" width="160">
+<img src="../../images/icons/4288954021.png" alt="The Horde Unleashed" width="160">
 
 | | |
 |---|---|

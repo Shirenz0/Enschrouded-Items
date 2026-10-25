@@ -1,6 +1,6 @@
 # Nettle Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Nettle Seedling" width="160">
+<img src="../../images/icons/2298603989.png" alt="Nettle Seedling" width="160">
 
 | | |
 |---|---|

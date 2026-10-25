@@ -1,6 +1,6 @@
 # Flightless Redtail Pillow
 
-<img src="../../images/categories/buildtools.svg" alt="Flightless Redtail Pillow" width="160">
+<img src="../../images/icons/1568297956.png" alt="Flightless Redtail Pillow" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Simple Tropical Wood Fence with Ropes I
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Tropical Wood Fence with Ropes I" width="160">
+<img src="../../images/icons/156080606.png" alt="Simple Tropical Wood Fence with Ropes I" width="160">
 
 | | |
 |---|---|

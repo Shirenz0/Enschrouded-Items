@@ -1,6 +1,6 @@
 # Drak Stone Totem II
 
-<img src="../../images/categories/buildtools.svg" alt="Drak Stone Totem II" width="160">
+<img src="../../images/icons/1734846827.png" alt="Drak Stone Totem II" width="160">
 
 | | |
 |---|---|

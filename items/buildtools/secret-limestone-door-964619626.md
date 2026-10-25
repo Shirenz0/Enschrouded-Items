@@ -1,6 +1,6 @@
 # Secret Limestone Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Limestone Door" width="160">
+<img src="../../images/icons/964619626.png" alt="Secret Limestone Door" width="160">
 
 | | |
 |---|---|

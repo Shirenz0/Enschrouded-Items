@@ -1,6 +1,6 @@
 # Afro Wig Head
 
-<img src="../../images/categories/buildtools.svg" alt="Afro Wig Head" width="160">
+<img src="../../images/icons/3652154887.png" alt="Afro Wig Head" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Wolfsbane Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Wolfsbane Flower Pot" width="160">
+<img src="../../images/icons/2073776259.png" alt="Wolfsbane Flower Pot" width="160">
 
 | | |
 |---|---|

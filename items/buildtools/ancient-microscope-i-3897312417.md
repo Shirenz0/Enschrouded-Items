@@ -1,6 +1,6 @@
 # Ancient Microscope I
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Microscope I" width="160">
+<img src="../../images/icons/3897312417.png" alt="Ancient Microscope I" width="160">
 
 | | |
 |---|---|

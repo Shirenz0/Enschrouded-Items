@@ -1,6 +1,6 @@
 # "Temple Landscape"
 
-<img src="../../images/categories/buildtools.svg" alt=""Temple Landscape"" width="160">
+<img src="../../images/icons/1790893349.png" alt="&quot;Temple Landscape&quot;" width="160">
 
 | | |
 |---|---|

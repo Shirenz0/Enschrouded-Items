@@ -1,6 +1,6 @@
 # Boss Trophy Holow Cyclops
 
-<img src="../../images/categories/buildtools.svg" alt="Boss Trophy Holow Cyclops" width="160">
+<img src="../../images/icons/2854812789.png" alt="Boss Trophy Holow Cyclops" width="160">
 
 | | |
 |---|---|

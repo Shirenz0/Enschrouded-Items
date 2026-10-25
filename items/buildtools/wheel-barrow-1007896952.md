@@ -1,6 +1,6 @@
 # Wheel Barrow
 
-<img src="../../images/categories/buildtools.svg" alt="Wheel Barrow" width="160">
+<img src="../../images/icons/1007896952.png" alt="Wheel Barrow" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Catdeer Feeder
 
-<img src="../../images/categories/buildtools.svg" alt="Catdeer Feeder" width="160">
+<img src="../../images/icons/3555557294.png" alt="Catdeer Feeder" width="160">
 
 | | |
 |---|---|

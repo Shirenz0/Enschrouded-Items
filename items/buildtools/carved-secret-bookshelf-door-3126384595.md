@@ -1,6 +1,6 @@
 # Carved Secret Bookshelf Door
 
-<img src="../../images/categories/buildtools.svg" alt="Carved Secret Bookshelf Door" width="160">
+<img src="../../images/icons/3126384595.png" alt="Carved Secret Bookshelf Door" width="160">
 
 | | |
 |---|---|

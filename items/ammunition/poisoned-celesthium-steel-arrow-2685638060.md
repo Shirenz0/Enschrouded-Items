@@ -1,6 +1,6 @@
 # Poisoned Celesthium Steel Arrow
 
-<img src="../../images/categories/ammunition.svg" alt="Poisoned Celesthium Steel Arrow" width="160">
+<img src="../../images/icons/2685638060.png" alt="Poisoned Celesthium Steel Arrow" width="160">
 
 | | |
 |---|---|

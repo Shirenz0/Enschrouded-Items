@@ -1,6 +1,6 @@
 # Ornamented Stone Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="Ornamented Stone Window Frame" width="160">
+<img src="../../images/icons/210614111.png" alt="Ornamented Stone Window Frame" width="160">
 
 | | |
 |---|---|

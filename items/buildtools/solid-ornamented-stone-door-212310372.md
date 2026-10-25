@@ -1,6 +1,6 @@
 # Solid Ornamented Stone Door
 
-<img src="../../images/categories/buildtools.svg" alt="Solid Ornamented Stone Door" width="160">
+<img src="../../images/icons/212310372.png" alt="Solid Ornamented Stone Door" width="160">
 
 | | |
 |---|---|

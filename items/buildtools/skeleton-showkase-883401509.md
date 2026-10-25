@@ -1,6 +1,6 @@
 # Skeleton Showkase
 
-<img src="../../images/categories/buildtools.svg" alt="Skeleton Showkase" width="160">
+<img src="../../images/icons/883401509.png" alt="Skeleton Showkase" width="160">
 
 | | |
 |---|---|

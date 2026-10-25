@@ -1,6 +1,6 @@
 # Shroud Arrow II
 
-<img src="../../images/categories/ammunition.svg" alt="Shroud Arrow II" width="160">
+<img src="../../images/icons/4214162606.png" alt="Shroud Arrow II" width="160">
 
 | | |
 |---|---|

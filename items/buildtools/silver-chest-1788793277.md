@@ -1,6 +1,6 @@
 # Silver chest
 
-<img src="../../images/categories/buildtools.svg" alt="Silver chest" width="160">
+<img src="../../images/icons/1788793277.png" alt="Silver chest" width="160">
 
 | | |
 |---|---|

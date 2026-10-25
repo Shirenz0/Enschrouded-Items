@@ -1,6 +1,6 @@
 # Scaffold C Plattform
 
-<img src="../../images/categories/buildtools.svg" alt="Scaffold C Plattform" width="160">
+<img src="../../images/icons/492907259.png" alt="Scaffold C Plattform" width="160">
 
 | | |
 |---|---|

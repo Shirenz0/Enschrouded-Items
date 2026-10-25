@@ -1,6 +1,6 @@
 # Copper Platter
 
-<img src="../../images/categories/buildtools.svg" alt="Copper Platter" width="160">
+<img src="../../images/icons/815801972.png" alt="Copper Platter" width="160">
 
 | | |
 |---|---|

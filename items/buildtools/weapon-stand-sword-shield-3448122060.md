@@ -1,6 +1,6 @@
 # Weapon Stand Sword & Shield
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Sword & Shield" width="160">
+<img src="../../images/icons/3448122060.png" alt="Weapon Stand Sword &amp; Shield" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # St Johns Worth Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="St Johns Worth Seedling" width="160">
+<img src="../../images/icons/2762446918.png" alt="St Johns Worth Seedling" width="160">
 
 | | |
 |---|---|

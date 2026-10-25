@@ -1,6 +1,6 @@
 # Wooden Palisade II
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Palisade II" width="160">
+<img src="../../images/icons/1601676418.png" alt="Wooden Palisade II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Clay Pot III
 
-<img src="../../images/categories/buildtools.svg" alt="Clay Pot III" width="160">
+<img src="../../images/icons/257051972.png" alt="Clay Pot III" width="160">
 
 | | |
 |---|---|

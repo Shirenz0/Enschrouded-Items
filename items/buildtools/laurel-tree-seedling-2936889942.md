@@ -1,6 +1,6 @@
 # Laurel Tree Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Laurel Tree Seedling" width="160">
+<img src="../../images/icons/2936889942.png" alt="Laurel Tree Seedling" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Measuring Device II
 
-<img src="../../images/categories/buildtools.svg" alt="Measuring Device II" width="160">
+<img src="../../images/icons/3641163278.png" alt="Measuring Device II" width="160">
 
 | | |
 |---|---|

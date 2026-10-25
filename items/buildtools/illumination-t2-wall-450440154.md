@@ -1,6 +1,6 @@
 # Illumination T2 Wall
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Wall" width="160">
+<img src="../../images/icons/450440154.png" alt="Illumination T2 Wall" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Gold Fell Sicklescythe Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Fell Sicklescythe Trophy" width="160">
+<img src="../../images/icons/2819075555.png" alt="Gold Fell Sicklescythe Trophy" width="160">
 
 | | |
 |---|---|

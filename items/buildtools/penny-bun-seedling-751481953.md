@@ -1,6 +1,6 @@
 # Penny Bun Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Penny Bun Seedling" width="160">
+<img src="../../images/icons/751481953.png" alt="Penny Bun Seedling" width="160">
 
 | | |
 |---|---|

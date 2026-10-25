@@ -1,6 +1,6 @@
 # Globe TwitchDrop
 
-<img src="../../images/categories/buildtools.svg" alt="Globe TwitchDrop" width="160">
+<img src="../../images/icons/394551254.png" alt="Globe TwitchDrop" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # PikeMeadStatue Showcase
 
-<img src="../../images/categories/buildtools.svg" alt="PikeMeadStatue Showcase" width="160">
+<img src="../../images/icons/2102661805.png" alt="PikeMeadStatue Showcase" width="160">
 
 | | |
 |---|---|

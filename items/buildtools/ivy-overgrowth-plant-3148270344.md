@@ -1,6 +1,6 @@
 # Ivy overgrowth plant
 
-<img src="../../images/categories/buildtools.svg" alt="Ivy overgrowth plant" width="160">
+<img src="../../images/icons/3148270344.png" alt="Ivy overgrowth plant" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Wall Tapestry I
 
-<img src="../../images/categories/buildtools.svg" alt="Wall Tapestry I" width="160">
+<img src="../../images/icons/500134615.png" alt="Wall Tapestry I" width="160">
 
 | | |
 |---|---|

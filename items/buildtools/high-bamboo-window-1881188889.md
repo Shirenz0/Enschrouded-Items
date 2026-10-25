@@ -1,6 +1,6 @@
 # High Bamboo Window
 
-<img src="../../images/categories/buildtools.svg" alt="High Bamboo Window" width="160">
+<img src="../../images/icons/1881188889.png" alt="High Bamboo Window" width="160">
 
 | | |
 |---|---|

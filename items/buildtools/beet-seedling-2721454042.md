@@ -1,6 +1,6 @@
 # Beet Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Beet Seedling" width="160">
+<img src="../../images/icons/2721454042.png" alt="Beet Seedling" width="160">
 
 | | |
 |---|---|

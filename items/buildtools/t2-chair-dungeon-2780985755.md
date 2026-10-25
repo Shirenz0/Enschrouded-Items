@@ -1,6 +1,6 @@
 # T2 chair Dungeon
 
-<img src="../../images/categories/buildtools.svg" alt="T2 chair Dungeon" width="160">
+<img src="../../images/icons/2780985755.png" alt="T2 chair Dungeon" width="160">
 
 | | |
 |---|---|

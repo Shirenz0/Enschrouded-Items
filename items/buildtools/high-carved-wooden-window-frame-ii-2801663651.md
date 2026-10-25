@@ -1,6 +1,6 @@
 # High Carved Wooden Window Frame II
 
-<img src="../../images/categories/buildtools.svg" alt="High Carved Wooden Window Frame II" width="160">
+<img src="../../images/icons/2801663651.png" alt="High Carved Wooden Window Frame II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Devil's Claw Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Devil's Claw Seedling" width="160">
+<img src="../../images/icons/1898312963.png" alt="Devil&#x27;s Claw Seedling" width="160">
 
 | | |
 |---|---|

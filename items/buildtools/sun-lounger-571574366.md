@@ -1,6 +1,6 @@
 # Sun Lounger
 
-<img src="../../images/categories/buildtools.svg" alt="Sun Lounger" width="160">
+<img src="../../images/icons/571574366.png" alt="Sun Lounger" width="160">
 
 | | |
 |---|---|

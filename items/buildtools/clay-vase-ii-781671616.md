@@ -1,6 +1,6 @@
 # Clay Vase II
 
-<img src="../../images/categories/buildtools.svg" alt="Clay Vase II" width="160">
+<img src="../../images/icons/781671616.png" alt="Clay Vase II" width="160">
 
 | | |
 |---|---|

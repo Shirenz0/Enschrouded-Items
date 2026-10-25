@@ -1,6 +1,6 @@
 # Resource Bundle I
 
-<img src="../../images/categories/buildtools.svg" alt="Resource Bundle I" width="160">
+<img src="../../images/icons/1313835688.png" alt="Resource Bundle I" width="160">
 
 | | |
 |---|---|

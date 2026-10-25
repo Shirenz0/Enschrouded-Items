@@ -1,6 +1,6 @@
 # Big Blue Wall Banner I
 
-<img src="../../images/categories/buildtools.svg" alt="Big Blue Wall Banner I" width="160">
+<img src="../../images/icons/2942267456.png" alt="Big Blue Wall Banner I" width="160">
 
 | | |
 |---|---|

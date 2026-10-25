@@ -1,6 +1,6 @@
 # Stone Floor Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Floor Secret" width="160">
+<img src="../../images/icons/1818315440.png" alt="Stone Floor Secret" width="160">
 
 | | |
 |---|---|

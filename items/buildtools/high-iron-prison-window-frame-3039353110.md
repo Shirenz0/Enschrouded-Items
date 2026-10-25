@@ -1,6 +1,6 @@
 # High Iron Prison Window Frame
 
-<img src="../../images/categories/buildtools.svg" alt="High Iron Prison Window Frame" width="160">
+<img src="../../images/icons/3039353110.png" alt="High Iron Prison Window Frame" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Pinewood Door with silver ornaments
 
-<img src="../../images/categories/buildtools.svg" alt="Pinewood Door with silver ornaments" width="160">
+<img src="../../images/icons/4176703426.png" alt="Pinewood Door with silver ornaments" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Climbing Rose overgrowth plant
 
-<img src="../../images/categories/buildtools.svg" alt="Climbing Rose overgrowth plant" width="160">
+<img src="../../images/icons/779558916.png" alt="Climbing Rose overgrowth plant" width="160">
 
 | | |
 |---|---|

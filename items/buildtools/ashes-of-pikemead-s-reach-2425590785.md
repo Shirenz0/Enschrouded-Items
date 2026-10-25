@@ -1,6 +1,6 @@
 # Ashes Of Pikemead's Reach
 
-<img src="../../images/categories/buildtools.svg" alt="Ashes Of Pikemead's Reach" width="160">
+<img src="../../images/icons/2425590785.png" alt="Ashes Of Pikemead&#x27;s Reach" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Keen Games Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Keen Games Banner" width="160">
+<img src="../../images/icons/3769824548.png" alt="Keen Games Banner" width="160">
 
 | | |
 |---|---|

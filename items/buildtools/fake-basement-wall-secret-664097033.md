@@ -1,6 +1,6 @@
 # Fake Basement Wall Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Fake Basement Wall Secret" width="160">
+<img src="../../images/icons/664097033.png" alt="Fake Basement Wall Secret" width="160">
 
 | | |
 |---|---|

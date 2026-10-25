@@ -1,6 +1,6 @@
 # DLC Supporter Pack Ranger Throne
 
-<img src="../../images/categories/buildtools.svg" alt="DLC Supporter Pack Ranger Throne" width="160">
+<img src="../../images/icons/508336910.png" alt="DLC Supporter Pack Ranger Throne" width="160">
 
 | | |
 |---|---|

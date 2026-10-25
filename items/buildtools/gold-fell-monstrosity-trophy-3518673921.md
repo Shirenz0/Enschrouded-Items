@@ -1,6 +1,6 @@
 # Gold Fell Monstrosity trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Fell Monstrosity trophy" width="160">
+<img src="../../images/icons/3518673921.png" alt="Gold Fell Monstrosity trophy" width="160">
 
 | | |
 |---|---|

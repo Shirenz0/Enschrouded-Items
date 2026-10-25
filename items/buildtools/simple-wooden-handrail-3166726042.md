@@ -1,6 +1,6 @@
 # Simple Wooden Handrail
 
-<img src="../../images/categories/buildtools.svg" alt="Simple Wooden Handrail" width="160">
+<img src="../../images/icons/3166726042.png" alt="Simple Wooden Handrail" width="160">
 
 | | |
 |---|---|

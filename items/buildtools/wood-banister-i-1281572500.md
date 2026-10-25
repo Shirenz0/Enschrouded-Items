@@ -1,6 +1,6 @@
 # Wood Banister I
 
-<img src="../../images/categories/buildtools.svg" alt="Wood Banister I" width="160">
+<img src="../../images/icons/1281572500.png" alt="Wood Banister I" width="160">
 
 | | |
 |---|---|

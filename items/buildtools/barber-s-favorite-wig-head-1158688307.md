@@ -1,6 +1,6 @@
 # Barber's Favorite Wig Head
 
-<img src="../../images/categories/buildtools.svg" alt="Barber's Favorite Wig Head" width="160">
+<img src="../../images/icons/1158688307.png" alt="Barber&#x27;s Favorite Wig Head" width="160">
 
 | | |
 |---|---|

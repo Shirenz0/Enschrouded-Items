@@ -1,6 +1,6 @@
 # Skull Trophy IV
 
-<img src="../../images/categories/buildtools.svg" alt="Skull Trophy IV" width="160">
+<img src="../../images/icons/589861897.png" alt="Skull Trophy IV" width="160">
 
 | | |
 |---|---|

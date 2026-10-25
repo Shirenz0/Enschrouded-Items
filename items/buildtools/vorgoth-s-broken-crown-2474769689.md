@@ -1,6 +1,6 @@
 # Vorgoth's Broken Crown
 
-<img src="../../images/categories/buildtools.svg" alt="Vorgoth's Broken Crown" width="160">
+<img src="../../images/icons/2474769689.png" alt="Vorgoth&#x27;s Broken Crown" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Halloween Banner
 
-<img src="../../images/categories/buildtools.svg" alt="Halloween Banner" width="160">
+<img src="../../images/icons/3615680929.png" alt="Halloween Banner" width="160">
 
 | | |
 |---|---|

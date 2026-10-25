@@ -1,6 +1,6 @@
 # Garden Gnome
 
-<img src="../../images/categories/buildtools.svg" alt="Garden Gnome" width="160">
+<img src="../../images/icons/1622296983.png" alt="Garden Gnome" width="160">
 
 | | |
 |---|---|

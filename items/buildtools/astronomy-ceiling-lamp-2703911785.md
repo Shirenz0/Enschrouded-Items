@@ -1,6 +1,6 @@
 # Astronomy Ceiling Lamp
 
-<img src="../../images/categories/buildtools.svg" alt="Astronomy Ceiling Lamp" width="160">
+<img src="../../images/icons/2703911785.png" alt="Astronomy Ceiling Lamp" width="160">
 
 | | |
 |---|---|

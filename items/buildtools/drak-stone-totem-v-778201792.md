@@ -1,6 +1,6 @@
 # Drak Stone Totem V
 
-<img src="../../images/categories/buildtools.svg" alt="Drak Stone Totem V" width="160">
+<img src="../../images/icons/778201792.png" alt="Drak Stone Totem V" width="160">
 
 | | |
 |---|---|

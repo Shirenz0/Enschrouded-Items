@@ -1,6 +1,6 @@
 # Medium Hollow's Eve Pumpkin I
 
-<img src="../../images/categories/buildtools.svg" alt="Medium Hollow's Eve Pumpkin I" width="160">
+<img src="../../images/icons/517050102.png" alt="Medium Hollow&#x27;s Eve Pumpkin I" width="160">
 
 | | |
 |---|---|

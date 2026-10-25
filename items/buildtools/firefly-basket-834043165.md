@@ -1,6 +1,6 @@
 # Firefly Basket
 
-<img src="../../images/categories/buildtools.svg" alt="Firefly Basket" width="160">
+<img src="../../images/icons/834043165.png" alt="Firefly Basket" width="160">
 
 | | |
 |---|---|

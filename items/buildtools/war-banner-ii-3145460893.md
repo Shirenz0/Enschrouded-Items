@@ -1,6 +1,6 @@
 # War Banner II
 
-<img src="../../images/categories/buildtools.svg" alt="War Banner II" width="160">
+<img src="../../images/icons/3145460893.png" alt="War Banner II" width="160">
 
 | | |
 |---|---|

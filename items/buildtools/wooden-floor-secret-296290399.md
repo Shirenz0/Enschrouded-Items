@@ -1,6 +1,6 @@
 # Wooden Floor Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Wooden Floor Secret" width="160">
+<img src="../../images/icons/296290399.png" alt="Wooden Floor Secret" width="160">
 
 | | |
 |---|---|

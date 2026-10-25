@@ -1,6 +1,6 @@
 # Pinewood Room Divider IV
 
-<img src="../../images/categories/buildtools.svg" alt="Pinewood Room Divider IV" width="160">
+<img src="../../images/icons/3576088941.png" alt="Pinewood Room Divider IV" width="160">
 
 | | |
 |---|---|

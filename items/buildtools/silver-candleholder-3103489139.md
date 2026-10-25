@@ -1,6 +1,6 @@
 # Silver Candleholder
 
-<img src="../../images/categories/buildtools.svg" alt="Silver Candleholder" width="160">
+<img src="../../images/icons/3103489139.png" alt="Silver Candleholder" width="160">
 
 | | |
 |---|---|

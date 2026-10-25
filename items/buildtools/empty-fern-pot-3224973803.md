@@ -1,6 +1,6 @@
 # Empty Fern Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Empty Fern Pot" width="160">
+<img src="../../images/icons/3224973803.png" alt="Empty Fern Pot" width="160">
 
 | | |
 |---|---|

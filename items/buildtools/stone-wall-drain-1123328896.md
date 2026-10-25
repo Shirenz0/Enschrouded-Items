@@ -1,6 +1,6 @@
 # Stone Wall Drain
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Wall Drain" width="160">
+<img src="../../images/icons/1123328896.png" alt="Stone Wall Drain" width="160">
 
 | | |
 |---|---|

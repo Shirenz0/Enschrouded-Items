@@ -1,6 +1,6 @@
 # White Wall Pot
 
-<img src="../../images/categories/buildtools.svg" alt="White Wall Pot" width="160">
+<img src="../../images/icons/1763603908.png" alt="White Wall Pot" width="160">
 
 | | |
 |---|---|

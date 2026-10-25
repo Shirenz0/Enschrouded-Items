@@ -1,6 +1,6 @@
 # Copper Fence
 
-<img src="../../images/categories/buildtools.svg" alt="Copper Fence" width="160">
+<img src="../../images/icons/1055652774.png" alt="Copper Fence" width="160">
 
 | | |
 |---|---|

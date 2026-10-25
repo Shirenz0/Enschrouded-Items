@@ -1,6 +1,6 @@
 # Ancient "Pomegranate" Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient "Pomegranate" Seedling" width="160">
+<img src="../../images/categories/buildtools.svg" alt="Ancient &quot;Pomegranate&quot; Seedling" width="160">
 
 | | |
 |---|---|

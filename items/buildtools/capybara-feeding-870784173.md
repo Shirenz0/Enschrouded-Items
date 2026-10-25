@@ -1,6 +1,6 @@
 # Capybara Feeding
 
-<img src="../../images/categories/buildtools.svg" alt="Capybara Feeding" width="160">
+<img src="../../images/icons/870784173.png" alt="Capybara Feeding" width="160">
 
 | | |
 |---|---|

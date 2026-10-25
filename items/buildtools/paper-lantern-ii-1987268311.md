@@ -1,6 +1,6 @@
 # Paper Lantern II
 
-<img src="../../images/categories/buildtools.svg" alt="Paper Lantern II" width="160">
+<img src="../../images/icons/1987268311.png" alt="Paper Lantern II" width="160">
 
 | | |
 |---|---|

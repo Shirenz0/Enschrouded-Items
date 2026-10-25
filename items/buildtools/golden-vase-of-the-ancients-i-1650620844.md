@@ -1,6 +1,6 @@
 # Golden Vase Of The Ancients I
 
-<img src="../../images/categories/buildtools.svg" alt="Golden Vase Of The Ancients I" width="160">
+<img src="../../images/icons/1650620844.png" alt="Golden Vase Of The Ancients I" width="160">
 
 | | |
 |---|---|

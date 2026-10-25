@@ -1,6 +1,6 @@
 # Throneroom Floor Lamp
 
-<img src="../../images/categories/buildtools.svg" alt="Throneroom Floor Lamp" width="160">
+<img src="../../images/icons/678777236.png" alt="Throneroom Floor Lamp" width="160">
 
 | | |
 |---|---|

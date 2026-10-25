@@ -1,6 +1,6 @@
 # Firefly Standing Basket
 
-<img src="../../images/categories/buildtools.svg" alt="Firefly Standing Basket" width="160">
+<img src="../../images/icons/245164403.png" alt="Firefly Standing Basket" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Low Elegant Armchair
 
-<img src="../../images/categories/buildtools.svg" alt="Low Elegant Armchair" width="160">
+<img src="../../images/icons/1775964566.png" alt="Low Elegant Armchair" width="160">
 
 | | |
 |---|---|

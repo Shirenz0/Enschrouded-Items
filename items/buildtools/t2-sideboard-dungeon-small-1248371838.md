@@ -1,6 +1,6 @@
 # T2 Sideboard Dungeon Small
 
-<img src="../../images/categories/buildtools.svg" alt="T2 Sideboard Dungeon Small" width="160">
+<img src="../../images/icons/1248371838.png" alt="T2 Sideboard Dungeon Small" width="160">
 
 | | |
 |---|---|

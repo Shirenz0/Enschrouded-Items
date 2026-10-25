@@ -1,6 +1,6 @@
 # T7 Eternal Giant Bone Arrow II
 
-<img src="../../images/categories/ammunition.svg" alt="T7 Eternal Giant Bone Arrow II" width="160">
+<img src="../../images/icons/334395711.png" alt="T7 Eternal Giant Bone Arrow II" width="160">
 
 | | |
 |---|---|

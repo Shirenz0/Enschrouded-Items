@@ -1,6 +1,6 @@
 # Ancient Pracer Beacon Large
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Pracer Beacon Large" width="160">
+<img src="../../images/icons/1581972653.png" alt="Ancient Pracer Beacon Large" width="160">
 
 | | |
 |---|---|

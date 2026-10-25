@@ -1,6 +1,6 @@
 # Improved Grindingstone
 
-<img src="../../images/categories/buildtools.svg" alt="Improved Grindingstone" width="160">
+<img src="../../images/icons/3938747715.png" alt="Improved Grindingstone" width="160">
 
 | | |
 |---|---|

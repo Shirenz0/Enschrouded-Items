@@ -1,6 +1,6 @@
 # Showcase Skeletons 3 small and 2 medium slots
 
-<img src="../../images/categories/buildtools.svg" alt="Showcase Skeletons 3 small and 2 medium slots" width="160">
+<img src="../../images/icons/2564145075.png" alt="Showcase Skeletons 3 small and 2 medium slots" width="160">
 
 | | |
 |---|---|

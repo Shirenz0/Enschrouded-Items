@@ -1,6 +1,6 @@
 # Giant Telescope
 
-<img src="../../images/categories/buildtools.svg" alt="Giant Telescope" width="160">
+<img src="../../images/icons/3716077081.png" alt="Giant Telescope" width="160">
 
 | | |
 |---|---|

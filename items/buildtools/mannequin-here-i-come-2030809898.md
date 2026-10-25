@@ -1,6 +1,6 @@
 # Mannequin "Here I Come"
 
-<img src="../../images/categories/buildtools.svg" alt="Mannequin "Here I Come"" width="160">
+<img src="../../images/icons/2030809898.png" alt="Mannequin &quot;Here I Come&quot;" width="160">
 
 | | |
 |---|---|

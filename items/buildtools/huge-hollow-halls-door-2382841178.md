@@ -1,6 +1,6 @@
 # Huge Hollow Halls Door
 
-<img src="../../images/categories/buildtools.svg" alt="Huge Hollow Halls Door" width="160">
+<img src="../../images/icons/2382841178.png" alt="Huge Hollow Halls Door" width="160">
 
 | | |
 |---|---|

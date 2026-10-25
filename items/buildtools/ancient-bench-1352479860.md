@@ -1,6 +1,6 @@
 # Ancient Bench
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Bench" width="160">
+<img src="../../images/icons/1352479860.png" alt="Ancient Bench" width="160">
 
 | | |
 |---|---|

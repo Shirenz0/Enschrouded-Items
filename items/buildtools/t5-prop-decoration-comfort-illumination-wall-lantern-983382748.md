@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Illumination Wall (Lantern)
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Illumination Wall (Lantern)" width="160">
+<img src="../../images/icons/983382748.png" alt="T5 Prop Decoration Comfort Illumination Wall (Lantern)" width="160">
 
 | | |
 |---|---|

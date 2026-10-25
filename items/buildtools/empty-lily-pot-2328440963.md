@@ -1,6 +1,6 @@
 # Empty Lily Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Empty Lily Pot" width="160">
+<img src="../../images/icons/2328440963.png" alt="Empty Lily Pot" width="160">
 
 | | |
 |---|---|

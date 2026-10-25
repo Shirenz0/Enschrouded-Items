@@ -1,6 +1,6 @@
 # Taro Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Taro Plant Pot" width="160">
+<img src="../../images/icons/2364963880.png" alt="Taro Plant Pot" width="160">
 
 | | |
 |---|---|

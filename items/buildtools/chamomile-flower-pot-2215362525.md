@@ -1,6 +1,6 @@
 # Chamomile Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Chamomile Flower Pot" width="160">
+<img src="../../images/icons/2215362525.png" alt="Chamomile Flower Pot" width="160">
 
 | | |
 |---|---|

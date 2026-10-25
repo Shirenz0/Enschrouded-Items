@@ -1,6 +1,6 @@
 # Ancient Ground Lamp Small
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Ground Lamp Small" width="160">
+<img src="../../images/icons/4160439418.png" alt="Ancient Ground Lamp Small" width="160">
 
 | | |
 |---|---|

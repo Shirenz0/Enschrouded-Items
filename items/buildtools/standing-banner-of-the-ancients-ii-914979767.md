@@ -1,6 +1,6 @@
 # Standing Banner of the Ancients II
 
-<img src="../../images/categories/buildtools.svg" alt="Standing Banner of the Ancients II" width="160">
+<img src="../../images/icons/914979767.png" alt="Standing Banner of the Ancients II" width="160">
 
 | | |
 |---|---|

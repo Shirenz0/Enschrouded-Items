@@ -1,6 +1,6 @@
 # Gold Fell Dragon Youngling Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Fell Dragon Youngling Trophy" width="160">
+<img src="../../images/icons/1900096652.png" alt="Gold Fell Dragon Youngling Trophy" width="160">
 
 | | |
 |---|---|

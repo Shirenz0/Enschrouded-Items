@@ -1,6 +1,6 @@
 # Medieval Grill
 
-<img src="../../images/categories/buildtools.svg" alt="Medieval Grill" width="160">
+<img src="../../images/icons/917858421.png" alt="Medieval Grill" width="160">
 
 | | |
 |---|---|

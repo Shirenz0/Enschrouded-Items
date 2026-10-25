@@ -1,6 +1,6 @@
 # Illumination T2 Small
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Small" width="160">
+<img src="../../images/icons/1167552454.png" alt="Illumination T2 Small" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Metal Wall Drain I
 
-<img src="../../images/categories/buildtools.svg" alt="Metal Wall Drain I" width="160">
+<img src="../../images/icons/3680025842.png" alt="Metal Wall Drain I" width="160">
 
 | | |
 |---|---|

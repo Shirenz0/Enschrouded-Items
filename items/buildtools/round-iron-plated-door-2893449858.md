@@ -1,6 +1,6 @@
 # Round Iron plated door
 
-<img src="../../images/categories/buildtools.svg" alt="Round Iron plated door" width="160">
+<img src="../../images/icons/2893449858.png" alt="Round Iron plated door" width="160">
 
 | | |
 |---|---|

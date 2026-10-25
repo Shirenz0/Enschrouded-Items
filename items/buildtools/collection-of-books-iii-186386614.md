@@ -1,6 +1,6 @@
 # Collection Of Books III
 
-<img src="../../images/categories/buildtools.svg" alt="Collection Of Books III" width="160">
+<img src="../../images/icons/186386614.png" alt="Collection Of Books III" width="160">
 
 | | |
 |---|---|

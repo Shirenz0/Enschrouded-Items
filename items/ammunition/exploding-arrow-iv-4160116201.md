@@ -1,6 +1,6 @@
 # Exploding Arrow IV
 
-<img src="../../images/categories/ammunition.svg" alt="Exploding Arrow IV" width="160">
+<img src="../../images/icons/4160116201.png" alt="Exploding Arrow IV" width="160">
 
 | | |
 |---|---|

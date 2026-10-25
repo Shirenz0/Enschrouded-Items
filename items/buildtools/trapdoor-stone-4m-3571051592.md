@@ -1,6 +1,6 @@
 # Trapdoor stone 4m
 
-<img src="../../images/categories/buildtools.svg" alt="Trapdoor stone 4m" width="160">
+<img src="../../images/icons/3571051592.png" alt="Trapdoor stone 4m" width="160">
 
 | | |
 |---|---|

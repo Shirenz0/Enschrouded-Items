@@ -1,6 +1,6 @@
 # Rural Tavern Counter
 
-<img src="../../images/categories/buildtools.svg" alt="Rural Tavern Counter" width="160">
+<img src="../../images/icons/4127950018.png" alt="Rural Tavern Counter" width="160">
 
 | | |
 |---|---|

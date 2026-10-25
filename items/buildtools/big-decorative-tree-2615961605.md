@@ -1,6 +1,6 @@
 # Big Decorative Tree
 
-<img src="../../images/categories/buildtools.svg" alt="Big Decorative Tree" width="160">
+<img src="../../images/icons/2615961605.png" alt="Big Decorative Tree" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Water Barrel
 
-<img src="../../images/categories/buildtools.svg" alt="Water Barrel" width="160">
+<img src="../../images/icons/533387743.png" alt="Water Barrel" width="160">
 
 | | |
 |---|---|

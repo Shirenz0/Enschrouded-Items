@@ -1,6 +1,6 @@
 # Round Wooden Door
 
-<img src="../../images/categories/buildtools.svg" alt="Round Wooden Door" width="160">
+<img src="../../images/icons/790494456.png" alt="Round Wooden Door" width="160">
 
 | | |
 |---|---|

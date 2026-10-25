@@ -1,6 +1,6 @@
 # Weapon Stand Melee 1hand
 
-<img src="../../images/categories/buildtools.svg" alt="Weapon Stand Melee 1hand" width="160">
+<img src="../../images/icons/1245903149.png" alt="Weapon Stand Melee 1hand" width="160">
 
 | | |
 |---|---|

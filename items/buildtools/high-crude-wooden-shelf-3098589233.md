@@ -1,6 +1,6 @@
 # High Crude Wooden Shelf
 
-<img src="../../images/categories/buildtools.svg" alt="High Crude Wooden Shelf" width="160">
+<img src="../../images/icons/3098589233.png" alt="High Crude Wooden Shelf" width="160">
 
 | | |
 |---|---|

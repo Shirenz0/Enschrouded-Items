@@ -1,6 +1,6 @@
 # Bamboo Bench
 
-<img src="../../images/categories/buildtools.svg" alt="Bamboo Bench" width="160">
+<img src="../../images/icons/3961069021.png" alt="Bamboo Bench" width="160">
 
 | | |
 |---|---|

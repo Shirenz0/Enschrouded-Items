@@ -1,6 +1,6 @@
 # T5 Comfort Decoration Bathroom Sink For Barber Shop
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Comfort Decoration Bathroom Sink For Barber Shop" width="160">
+<img src="../../images/icons/738101794.png" alt="T5 Comfort Decoration Bathroom Sink For Barber Shop" width="160">
 
 | | |
 |---|---|

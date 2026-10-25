@@ -1,6 +1,6 @@
 # Big Elegant Sofa
 
-<img src="../../images/categories/buildtools.svg" alt="Big Elegant Sofa" width="160">
+<img src="../../images/icons/175691458.png" alt="Big Elegant Sofa" width="160">
 
 | | |
 |---|---|

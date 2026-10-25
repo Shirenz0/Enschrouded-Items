@@ -1,6 +1,6 @@
 # Iron Wall Torch
 
-<img src="../../images/categories/buildtools.svg" alt="Iron Wall Torch" width="160">
+<img src="../../images/icons/2277507438.png" alt="Iron Wall Torch" width="160">
 
 | | |
 |---|---|

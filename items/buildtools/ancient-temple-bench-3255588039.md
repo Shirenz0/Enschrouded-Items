@@ -1,6 +1,6 @@
 # Ancient Temple Bench
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Temple Bench" width="160">
+<img src="../../images/icons/3255588039.png" alt="Ancient Temple Bench" width="160">
 
 | | |
 |---|---|

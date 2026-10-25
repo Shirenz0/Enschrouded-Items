@@ -1,6 +1,6 @@
 # Fake Stone Floor Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Fake Stone Floor Secret" width="160">
+<img src="../../images/icons/1047383927.png" alt="Fake Stone Floor Secret" width="160">
 
 | | |
 |---|---|

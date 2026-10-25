@@ -1,6 +1,6 @@
 # Gold Vukah Brawler Trophy
 
-<img src="../../images/categories/buildtools.svg" alt="Gold Vukah Brawler Trophy" width="160">
+<img src="../../images/icons/3298516900.png" alt="Gold Vukah Brawler Trophy" width="160">
 
 | | |
 |---|---|

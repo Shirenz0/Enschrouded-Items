@@ -1,6 +1,6 @@
 # Small Boss Trophy Scavenger Mage
 
-<img src="../../images/categories/buildtools.svg" alt="Small Boss Trophy Scavenger Mage" width="160">
+<img src="../../images/icons/2970585284.png" alt="Small Boss Trophy Scavenger Mage" width="160">
 
 | | |
 |---|---|

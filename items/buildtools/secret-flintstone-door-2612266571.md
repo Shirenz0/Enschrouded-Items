@@ -1,6 +1,6 @@
 # Secret Flintstone Door
 
-<img src="../../images/categories/buildtools.svg" alt="Secret Flintstone Door" width="160">
+<img src="../../images/icons/2612266571.png" alt="Secret Flintstone Door" width="160">
 
 | | |
 |---|---|

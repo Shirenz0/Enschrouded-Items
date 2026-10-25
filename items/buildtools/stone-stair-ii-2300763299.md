@@ -1,6 +1,6 @@
 # Stone Stair II
 
-<img src="../../images/categories/buildtools.svg" alt="Stone Stair II" width="160">
+<img src="../../images/icons/2300763299.png" alt="Stone Stair II" width="160">
 
 | | |
 |---|---|

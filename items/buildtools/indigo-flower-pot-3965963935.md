@@ -1,6 +1,6 @@
 # Indigo Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Indigo Flower Pot" width="160">
+<img src="../../images/icons/3965963935.png" alt="Indigo Flower Pot" width="160">
 
 | | |
 |---|---|

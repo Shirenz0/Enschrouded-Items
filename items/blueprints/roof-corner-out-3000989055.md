@@ -1,6 +1,6 @@
 # Roof Corner Out
 
-<img src="../../images/categories/blueprints.svg" alt="Roof Corner Out" width="160">
+<img src="../../images/icons/3000989055.png" alt="Roof Corner Out" width="160">
 
 | | |
 |---|---|

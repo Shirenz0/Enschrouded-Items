@@ -1,6 +1,6 @@
 # T5 Comfort Decoration Bathroom Sink
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Comfort Decoration Bathroom Sink" width="160">
+<img src="../../images/icons/4088195184.png" alt="T5 Comfort Decoration Bathroom Sink" width="160">
 
 | | |
 |---|---|

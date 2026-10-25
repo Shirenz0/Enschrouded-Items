@@ -1,6 +1,6 @@
 # Purple Wall Light I
 
-<img src="../../images/categories/buildtools.svg" alt="Purple Wall Light I" width="160">
+<img src="../../images/icons/1335353289.png" alt="Purple Wall Light I" width="160">
 
 | | |
 |---|---|

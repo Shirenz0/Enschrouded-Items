@@ -1,6 +1,6 @@
 # Crude Wooden Double Door
 
-<img src="../../images/categories/buildtools.svg" alt="Crude Wooden Double Door" width="160">
+<img src="../../images/icons/3037001483.png" alt="Crude Wooden Double Door" width="160">
 
 | | |
 |---|---|

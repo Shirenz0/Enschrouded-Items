@@ -1,6 +1,6 @@
 # Ancient Pipette
 
-<img src="../../images/categories/buildtools.svg" alt="Ancient Pipette" width="160">
+<img src="../../images/icons/1422320714.png" alt="Ancient Pipette" width="160">
 
 | | |
 |---|---|

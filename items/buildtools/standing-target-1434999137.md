@@ -1,6 +1,6 @@
 # Standing Target
 
-<img src="../../images/categories/buildtools.svg" alt="Standing Target" width="160">
+<img src="../../images/icons/1434999137.png" alt="Standing Target" width="160">
 
 | | |
 |---|---|

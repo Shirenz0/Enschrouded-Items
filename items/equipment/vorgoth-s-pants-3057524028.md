@@ -1,6 +1,6 @@
 # Vorgoth's Pants
 
-<img src="../../images/categories/equipment.svg" alt="Vorgoth's Pants" width="160">
+<img src="../../images/categories/equipment.svg" alt="Vorgoth&#x27;s Pants" width="160">
 
 | | |
 |---|---|

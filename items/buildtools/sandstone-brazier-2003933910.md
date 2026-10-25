@@ -1,6 +1,6 @@
 # Sandstone Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Sandstone Brazier" width="160">
+<img src="../../images/icons/2003933910.png" alt="Sandstone Brazier" width="160">
 
 | | |
 |---|---|

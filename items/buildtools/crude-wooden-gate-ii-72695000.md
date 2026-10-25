@@ -1,6 +1,6 @@
 # Crude Wooden Gate II
 
-<img src="../../images/categories/buildtools.svg" alt="Crude Wooden Gate II" width="160">
+<img src="../../images/icons/72695000.png" alt="Crude Wooden Gate II" width="160">
 
 | | |
 |---|---|

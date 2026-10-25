@@ -1,6 +1,6 @@
 # Irrigation Gate Small
 
-<img src="../../images/categories/buildtools.svg" alt="Irrigation Gate Small" width="160">
+<img src="../../images/icons/3304880057.png" alt="Irrigation Gate Small" width="160">
 
 | | |
 |---|---|

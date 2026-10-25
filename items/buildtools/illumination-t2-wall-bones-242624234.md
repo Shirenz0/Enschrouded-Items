@@ -1,6 +1,6 @@
 # Illumination T2 Wall Bones
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Wall Bones" width="160">
+<img src="../../images/icons/242624234.png" alt="Illumination T2 Wall Bones" width="160">
 
 | | |
 |---|---|

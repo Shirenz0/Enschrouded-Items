@@ -1,6 +1,6 @@
 # Rooibos Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Rooibos Seedling" width="160">
+<img src="../../images/icons/3764454676.png" alt="Rooibos Seedling" width="160">
 
 | | |
 |---|---|

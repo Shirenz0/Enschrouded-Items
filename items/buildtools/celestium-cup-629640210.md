@@ -1,6 +1,6 @@
 # Celestium Cup
 
-<img src="../../images/categories/buildtools.svg" alt="Celestium Cup" width="160">
+<img src="../../images/icons/629640210.png" alt="Celestium Cup" width="160">
 
 | | |
 |---|---|

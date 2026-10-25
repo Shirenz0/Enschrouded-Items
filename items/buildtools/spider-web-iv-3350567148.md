@@ -1,6 +1,6 @@
 # Spider Web IV
 
-<img src="../../images/categories/buildtools.svg" alt="Spider Web IV" width="160">
+<img src="../../images/icons/3350567148.png" alt="Spider Web IV" width="160">
 
 | | |
 |---|---|

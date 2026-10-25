@@ -1,6 +1,6 @@
 # Ornamented Wooden Door
 
-<img src="../../images/categories/buildtools.svg" alt="Ornamented Wooden Door" width="160">
+<img src="../../images/icons/3012628405.png" alt="Ornamented Wooden Door" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Celestium Jug
 
-<img src="../../images/categories/buildtools.svg" alt="Celestium Jug" width="160">
+<img src="../../images/icons/3204624954.png" alt="Celestium Jug" width="160">
 
 | | |
 |---|---|

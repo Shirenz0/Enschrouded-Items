@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Hearth Granite
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Hearth Granite" width="160">
+<img src="../../images/icons/1470377793.png" alt="T5 Prop Decoration Comfort Hearth Granite" width="160">
 
 | | |
 |---|---|

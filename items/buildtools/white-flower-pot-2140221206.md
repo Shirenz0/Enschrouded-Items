@@ -1,6 +1,6 @@
 # White Flower Pot
 
-<img src="../../images/categories/buildtools.svg" alt="White Flower Pot" width="160">
+<img src="../../images/icons/2140221206.png" alt="White Flower Pot" width="160">
 
 | | |
 |---|---|

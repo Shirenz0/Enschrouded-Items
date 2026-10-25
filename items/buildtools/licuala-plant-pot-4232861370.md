@@ -1,6 +1,6 @@
 # Licuala Plant Pot
 
-<img src="../../images/categories/buildtools.svg" alt="Licuala Plant Pot" width="160">
+<img src="../../images/icons/4232861370.png" alt="Licuala Plant Pot" width="160">
 
 | | |
 |---|---|

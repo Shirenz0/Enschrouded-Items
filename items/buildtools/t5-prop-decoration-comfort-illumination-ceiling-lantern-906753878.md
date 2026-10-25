@@ -1,6 +1,6 @@
 # T5 Prop Decoration Comfort Illumination Ceiling (lantern)
 
-<img src="../../images/categories/buildtools.svg" alt="T5 Prop Decoration Comfort Illumination Ceiling (lantern)" width="160">
+<img src="../../images/icons/906753878.png" alt="T5 Prop Decoration Comfort Illumination Ceiling (lantern)" width="160">
 
 | | |
 |---|---|

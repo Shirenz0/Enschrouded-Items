@@ -1,6 +1,6 @@
 # Decorative Butter Churn
 
-<img src="../../images/categories/buildtools.svg" alt="Decorative Butter Churn" width="160">
+<img src="../../images/icons/3218270728.png" alt="Decorative Butter Churn" width="160">
 
 | | |
 |---|---|

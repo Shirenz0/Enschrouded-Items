@@ -1,6 +1,6 @@
 # Coffee Seedling
 
-<img src="../../images/categories/buildtools.svg" alt="Coffee Seedling" width="160">
+<img src="../../images/icons/3358339224.png" alt="Coffee Seedling" width="160">
 
 | | |
 |---|---|

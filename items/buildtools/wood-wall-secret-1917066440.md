@@ -1,6 +1,6 @@
 # Wood Wall Secret
 
-<img src="../../images/categories/buildtools.svg" alt="Wood Wall Secret" width="160">
+<img src="../../images/icons/1917066440.png" alt="Wood Wall Secret" width="160">
 
 | | |
 |---|---|

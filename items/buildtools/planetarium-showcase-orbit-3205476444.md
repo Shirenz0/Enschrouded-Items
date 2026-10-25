@@ -1,6 +1,6 @@
 # Planetarium Showcase/ Orbit
 
-<img src="../../images/categories/buildtools.svg" alt="Planetarium Showcase/ Orbit" width="160">
+<img src="../../images/icons/3205476444.png" alt="Planetarium Showcase/ Orbit" width="160">
 
 | | |
 |---|---|

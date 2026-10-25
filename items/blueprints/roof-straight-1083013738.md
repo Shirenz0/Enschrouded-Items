@@ -1,6 +1,6 @@
 # Roof Straight
 
-<img src="../../images/categories/blueprints.svg" alt="Roof Straight" width="160">
+<img src="../../images/icons/1083013738.png" alt="Roof Straight" width="160">
 
 | | |
 |---|---|

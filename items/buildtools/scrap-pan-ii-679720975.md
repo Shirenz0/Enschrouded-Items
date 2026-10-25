@@ -1,6 +1,6 @@
 # Scrap Pan II
 
-<img src="../../images/categories/buildtools.svg" alt="Scrap Pan II" width="160">
+<img src="../../images/icons/679720975.png" alt="Scrap Pan II" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Illumination T2 Bones Brazier
 
-<img src="../../images/categories/buildtools.svg" alt="Illumination T2 Bones Brazier" width="160">
+<img src="../../images/icons/1804479582.png" alt="Illumination T2 Bones Brazier" width="160">
 
 | | |
 |---|---|

@@ -1,6 +1,6 @@
 # Statue of Pikemead
 
-<img src="../../images/categories/buildtools.svg" alt="Statue of Pikemead" width="160">
+<img src="../../images/icons/4212724325.png" alt="Statue of Pikemead" width="160">
 
 | | |
 |---|---|

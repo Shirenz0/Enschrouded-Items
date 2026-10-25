@@ -1,6 +1,6 @@
 # Snowpal Child
 
-<img src="../../images/categories/buildtools.svg" alt="Snowpal Child" width="160">
+<img src="../../images/icons/3686997983.png" alt="Snowpal Child" width="160">
 
 | | |
 |---|---|

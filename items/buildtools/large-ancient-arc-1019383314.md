@@ -1,6 +1,6 @@
 # Large Ancient Arc
 
-<img src="../../images/categories/buildtools.svg" alt="Large Ancient Arc" width="160">
+<img src="../../images/icons/1019383314.png" alt="Large Ancient Arc" width="160">
 
 | | |
 |---|---|

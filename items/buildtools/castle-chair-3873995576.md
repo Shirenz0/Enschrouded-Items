@@ -1,6 +1,6 @@
 # Castle Chair
 
-<img src="../../images/categories/buildtools.svg" alt="Castle Chair" width="160">
+<img src="../../images/icons/3873995576.png" alt="Castle Chair" width="160">
 
 | | |
 |---|---|

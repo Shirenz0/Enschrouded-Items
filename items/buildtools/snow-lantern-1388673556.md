@@ -1,6 +1,6 @@
 # Snow Lantern
 
-<img src="../../images/categories/buildtools.svg" alt="Snow Lantern" width="160">
+<img src="../../images/icons/1388673556.png" alt="Snow Lantern" width="160">
 
 | | |
 |---|---|
